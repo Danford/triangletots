@@ -1,0 +1,1024 @@
+{
+  "date": "2026-11-01",
+  "band": "t2",
+  "versions": [
+    {
+      "at": "2026-10-27T00:54:56.065Z",
+      "reason": null,
+      "forecast": "nws",
+      "weather": {
+        "period": "Sunday",
+        "tempF": 72,
+        "precipProbability": 31,
+        "shortForecast": "Chance Rain Showers"
+      },
+      "plans": [
+        {
+          "nap": "early-nap",
+          "napLabel": "One nap, 12 to 2",
+          "headline": "Exploration Station: American Bison at Historic Yates Mill County Park",
+          "main": {
+            "ref": "event:wake-parks:9411:2026-11-01",
+            "arrive": "08:20",
+            "leave": "11:30",
+            "why": "The Exploration Station at Yates Mill is a free drop-in outdoor program celebrating National Bison Day — a 2.5-year-old can learn about the US national mammal with hands-on displays right beside the beautiful mill pond.",
+            "tips": [
+              "Registration is required; confirm your spot the day before.",
+              "Dress in layers — rain is possible today, so bring a light waterproof layer just in case.",
+              "The mill pond path is lovely; let your child lead the pace and look for ducks while you visit."
+            ],
+            "interests": [
+              "animals",
+              "nature",
+              "science"
+            ],
+            "also": [],
+            "area": "raleigh",
+            "outdoor": true,
+            "source": {
+              "kind": "event",
+              "title": "Exploration Station: American Bison",
+              "start": "2026-11-01T08:30:00",
+              "end": "2026-11-01T17:00:00",
+              "venue": "Historic Yates Mill County Park",
+              "address": "4620 Lake Wheeler Rd., Raleigh, NC  27603",
+              "url": "https://apm.activecommunities.com/wakeparks/Activity_Search/exploration-station-american-bison/9411?locale=en-US",
+              "cost": null,
+              "ages": null,
+              "registration": "https://apm.activecommunities.com/wakeparks/Activity_Search/exploration-station-american-bison/9411?locale=en-US",
+              "indoor": false,
+              "area": "raleigh",
+              "source": "wake-parks",
+              "dropIn": false,
+              "lat": 35.72157134974476,
+              "lon": -78.68526087901417
+            }
+          },
+          "alternatives": [
+            {
+              "ref": "event:weekly:mols-early-childhood:2026-11-01",
+              "arrive": "09:20",
+              "leave": "11:20",
+              "why": "Early Childhood Drop-In in Hideaway Woods is an outdoor sensory morning of songs and play, then Northgate Park for extra time outside before the nap.",
+              "tips": [
+                "Arrive at 09:30 when it opens.",
+                "Bring snacks and water for the park stop after.",
+                "Weather permitting, spend 20 minutes at Northgate Park before the drive home."
+              ],
+              "also": [
+                {
+                  "ref": "place:northgate-park",
+                  "source": {
+                    "kind": "park",
+                    "title": "Northgate Park",
+                    "address": "300 W Club Blvd, Durham, NC",
+                    "url": "https://www.dprplaymore.org/Facilities/Facility/Details/Northgate-Park-47",
+                    "amenities": [
+                      "playground",
+                      "picnic-shelter",
+                      "restroom",
+                      "greenway"
+                    ],
+                    "indoor": false,
+                    "area": "durham",
+                    "hours": null,
+                    "lat": 36.02113714285714,
+                    "lon": -78.89581,
+                    "cost": null
+                  }
+                }
+              ],
+              "interests": [
+                "nature",
+                "music",
+                "movement"
+              ],
+              "area": "durham",
+              "outdoor": true,
+              "source": {
+                "kind": "event",
+                "title": "Early Childhood Drop-In",
+                "start": "2026-11-01T09:30:00",
+                "end": "2026-11-01T11:30:00",
+                "venue": "Hideaway Woods, Museum of Life and Science",
+                "address": "433 W Murray Ave, Durham, NC 27704",
+                "url": "https://www.lifeandscience.org/learn/drop-in-programs/",
+                "cost": "Included with museum admission",
+                "ages": "young children and their caregivers",
+                "registration": false,
+                "indoor": false,
+                "area": "durham",
+                "source": "weekly",
+                "dropIn": true,
+                "lat": 36.0294,
+                "lon": -78.8993
+              }
+            },
+            {
+              "ref": "place:nc-botanical-garden",
+              "arrive": "09:00",
+              "leave": "11:00",
+              "why": "The NC Botanical Garden is a free, quiet outdoor morning with display gardens and nature trails through the forest — a calm and beautiful Sunday outing for a toddler who loves to explore.",
+              "tips": [
+                "Bring a snack and water for the trail.",
+                "Let your child stop and examine every leaf and bug.",
+                "Leave by 11:00 to be home comfortably before the nap."
+              ],
+              "interests": [
+                "nature",
+                "science",
+                "movement"
+              ],
+              "also": [],
+              "area": "chapel-hill",
+              "outdoor": true,
+              "source": {
+                "kind": "garden",
+                "title": "NC Botanical Garden",
+                "address": "100 Old Mason Farm Rd, Chapel Hill, NC 27517",
+                "url": "https://ncbg.unc.edu/visit/",
+                "amenities": [
+                  "garden",
+                  "nature",
+                  "restroom"
+                ],
+                "indoor": false,
+                "area": "chapel-hill",
+                "lat": 35.9011,
+                "lon": -79.0319,
+                "cost": "Free",
+                "note": "Free. Display gardens, and nature trails through the forest behind them."
+              }
+            },
+            {
+              "ref": "event:wake-parks:9415",
+              "arrive": "14:20",
+              "leave": "16:00",
+              "why": "The Mill Open House at Historic Yates Mill gives a toddler a close-up look at a working historic mill with interpreters explaining how it runs — a fascinating afternoon outing after the nap at the same beautiful park.",
+              "tips": [
+                "Registration is required.",
+                "The mill pond path is pram-friendly and a good place to wander before or after the open house.",
+                "Keep the visit to about an hour so energy levels stay up for the drive home."
+              ],
+              "interests": [
+                "science",
+                "nature",
+                "stories"
+              ],
+              "also": [],
+              "area": "raleigh",
+              "outdoor": true,
+              "source": {
+                "kind": "event",
+                "title": "Mill Open House",
+                "start": "2026-11-01T13:00:00",
+                "end": "2026-11-01T16:00:00",
+                "venue": "Historic Yates Mill County Park",
+                "address": "4620 Lake Wheeler Rd., Raleigh, NC  27603",
+                "url": "https://apm.activecommunities.com/wakeparks/Activity_Search/mill-open-house/9415?locale=en-US",
+                "cost": null,
+                "ages": null,
+                "registration": "https://apm.activecommunities.com/wakeparks/Activity_Search/mill-open-house/9415?locale=en-US",
+                "indoor": false,
+                "area": "raleigh",
+                "source": "wake-parks",
+                "dropIn": false,
+                "lat": 35.72157134974476,
+                "lon": -78.68526087901417
+              }
+            },
+            {
+              "ref": "event:museum:durham-central-park:13914",
+              "arrive": "14:20",
+              "leave": "16:30",
+              "why": "echo in the Park at Durham Central Park is a free outdoor afternoon event — a relaxed way to spend time outside after the nap with a curious toddler.",
+              "tips": [
+                "It's a drop-in so come and go as you like.",
+                "Bring a snack and a blanket to sit on.",
+                "The park playground is right there if your child needs to run."
+              ],
+              "interests": [
+                "music",
+                "movement",
+                "nature"
+              ],
+              "also": [],
+              "area": "durham",
+              "outdoor": true,
+              "source": {
+                "kind": "event",
+                "title": "echo in the Park",
+                "start": "2026-11-01T13:00:00",
+                "end": "2026-11-01T17:00:00",
+                "venue": "Durham Central Park",
+                "address": "501 Foster Street, Durham, NC, 27701",
+                "url": "https://durhamcentralpark.org/upcoming-event/echo-in-the-park/",
+                "cost": null,
+                "ages": null,
+                "registration": null,
+                "indoor": false,
+                "area": "durham",
+                "source": "museum",
+                "dropIn": true,
+                "lat": 36.0008,
+                "lon": -78.9021
+              }
+            }
+          ],
+          "rainBackup": null,
+          "timeline": [
+            {
+              "start": "07:00",
+              "end": "07:30",
+              "kind": "meal",
+              "title": "Up and breakfast"
+            },
+            {
+              "start": "07:30",
+              "end": "07:40",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "07:40",
+              "end": "08:00",
+              "kind": "routine",
+              "title": "Get ready to go",
+              "detail": "Shoes on, diaper bag, water and a snack."
+            },
+            {
+              "start": "08:00",
+              "end": "08:20",
+              "kind": "travel",
+              "title": "Drive to Historic Yates Mill County Park"
+            },
+            {
+              "start": "08:20",
+              "end": "11:30",
+              "kind": "outing",
+              "title": "Historic Yates Mill County Park",
+              "detail": "Pack a lunch to eat there."
+            },
+            {
+              "start": "11:30",
+              "end": "11:50",
+              "kind": "travel",
+              "title": "Drive home"
+            },
+            {
+              "start": "11:50",
+              "end": "12:00",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "12:00",
+              "end": "14:00",
+              "kind": "nap",
+              "title": "Nap"
+            },
+            {
+              "start": "14:00",
+              "end": "14:20",
+              "kind": "routine",
+              "title": "Up and a snack"
+            },
+            {
+              "start": "14:20",
+              "end": "18:00",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "18:00",
+              "end": "18:45",
+              "kind": "meal",
+              "title": "Dinner"
+            },
+            {
+              "start": "18:45",
+              "end": "19:30",
+              "kind": "routine",
+              "title": "Bath, books and bed"
+            }
+          ]
+        },
+        {
+          "nap": "late-nap",
+          "napLabel": "One nap, 1 to 3",
+          "headline": "Morning walk at Sarah P. Duke Gardens",
+          "main": {
+            "ref": "place:sarah-p-duke-gardens",
+            "arrive": "09:00",
+            "leave": "12:00",
+            "why": "Sarah P. Duke Gardens on a mild November morning is a stunning free walk — five miles of paths, the Charlotte Brody Discovery Garden, and fallen leaves everywhere a toddler wants to crunch and collect.",
+            "tips": [
+              "Parking can fill early on nice days; leave home by 08:15 to be there at 09:00.",
+              "Bring a snack and water; the gardens have benches throughout.",
+              "If a shower passes through, duck under the covered pergola areas and wait it out — the gardens stay beautiful in light rain."
+            ],
+            "interests": [
+              "nature",
+              "science",
+              "movement"
+            ],
+            "also": [],
+            "area": "durham",
+            "outdoor": true,
+            "source": {
+              "kind": "garden",
+              "title": "Sarah P. Duke Gardens",
+              "address": "420 Anderson St, Durham, NC 27708",
+              "url": "https://gardens.duke.edu/visit/",
+              "amenities": [
+                "garden",
+                "nature",
+                "restroom"
+              ],
+              "indoor": false,
+              "area": "durham",
+              "hours": {
+                "sun": "8 a.m. to sunset",
+                "mon": "8 a.m. to sunset",
+                "tue": "8 a.m. to sunset",
+                "wed": "8 a.m. to sunset",
+                "thu": "8 a.m. to sunset",
+                "fri": "8 a.m. to sunset",
+                "sat": "8 a.m. to sunset"
+              },
+              "lat": 36.0024,
+              "lon": -78.9328,
+              "cost": "Free",
+              "note": "Free; paid parking that often fills before 10 a.m. on nice days. Five miles of paths, and the Charlotte Brody Discovery Garden."
+            }
+          },
+          "alternatives": [
+            {
+              "ref": "event:wake-parks:9411:2026-11-01",
+              "arrive": "08:20",
+              "leave": "11:30",
+              "why": "Exploration Station: American Bison at Yates Mill is a free drop-in outdoor program on National Bison Day — hands-on learning about the US national mammal beside a beautiful mill pond.",
+              "tips": [
+                "Registration is required; confirm beforehand.",
+                "Dress in layers with a light waterproof layer.",
+                "Leave by 11:30 to be home comfortably before the nap."
+              ],
+              "interests": [
+                "animals",
+                "nature",
+                "science"
+              ],
+              "also": [],
+              "area": "raleigh",
+              "outdoor": true,
+              "source": {
+                "kind": "event",
+                "title": "Exploration Station: American Bison",
+                "start": "2026-11-01T08:30:00",
+                "end": "2026-11-01T17:00:00",
+                "venue": "Historic Yates Mill County Park",
+                "address": "4620 Lake Wheeler Rd., Raleigh, NC  27603",
+                "url": "https://apm.activecommunities.com/wakeparks/Activity_Search/exploration-station-american-bison/9411?locale=en-US",
+                "cost": null,
+                "ages": null,
+                "registration": "https://apm.activecommunities.com/wakeparks/Activity_Search/exploration-station-american-bison/9411?locale=en-US",
+                "indoor": false,
+                "area": "raleigh",
+                "source": "wake-parks",
+                "dropIn": false,
+                "lat": 35.72157134974476,
+                "lon": -78.68526087901417
+              }
+            },
+            {
+              "ref": "event:weekly:mols-early-childhood:2026-11-01",
+              "arrive": "09:20",
+              "leave": "11:20",
+              "why": "Early Childhood Drop-In in Hideaway Woods is an outdoor sensory morning of songs and play, then Rock Quarry Park for extra sunshine before the drive home.",
+              "tips": [
+                "Arrive at 09:30 when it opens.",
+                "Bring snacks and water.",
+                "Weather permitting, spend 20 minutes at Rock Quarry Park before heading home."
+              ],
+              "also": [
+                {
+                  "ref": "place:rock-quarry-park",
+                  "source": {
+                    "kind": "park",
+                    "title": "Rock Quarry Park",
+                    "address": "701 Stadium Dr, Durham, NC",
+                    "url": "https://www.dprplaymore.org/Facilities/Facility/Details/Rock-Quarry-Park-60",
+                    "amenities": [
+                      "playground",
+                      "splashpad",
+                      "restroom",
+                      "greenway"
+                    ],
+                    "indoor": false,
+                    "area": "durham",
+                    "hours": null,
+                    "lat": 36.03166363636364,
+                    "lon": -78.90176545454545,
+                    "cost": null
+                  }
+                }
+              ],
+              "interests": [
+                "nature",
+                "music",
+                "movement"
+              ],
+              "area": "durham",
+              "outdoor": true,
+              "source": {
+                "kind": "event",
+                "title": "Early Childhood Drop-In",
+                "start": "2026-11-01T09:30:00",
+                "end": "2026-11-01T11:30:00",
+                "venue": "Hideaway Woods, Museum of Life and Science",
+                "address": "433 W Murray Ave, Durham, NC 27704",
+                "url": "https://www.lifeandscience.org/learn/drop-in-programs/",
+                "cost": "Included with museum admission",
+                "ages": "young children and their caregivers",
+                "registration": false,
+                "indoor": false,
+                "area": "durham",
+                "source": "weekly",
+                "dropIn": true,
+                "lat": 36.0294,
+                "lon": -78.8993
+              }
+            },
+            {
+              "ref": "place:nc-botanical-garden",
+              "arrive": "09:00",
+              "leave": "11:00",
+              "why": "The NC Botanical Garden is a quiet, free outdoor morning with nature trails through the forest — a peaceful Sunday walk before the afternoon nap.",
+              "tips": [
+                "Bring a snack and water for the trail.",
+                "Let your child lead the pace through the forest section.",
+                "Leave by 11:00 to be home comfortably before the nap."
+              ],
+              "interests": [
+                "nature",
+                "science",
+                "movement"
+              ],
+              "also": [],
+              "area": "chapel-hill",
+              "outdoor": true,
+              "source": {
+                "kind": "garden",
+                "title": "NC Botanical Garden",
+                "address": "100 Old Mason Farm Rd, Chapel Hill, NC 27517",
+                "url": "https://ncbg.unc.edu/visit/",
+                "amenities": [
+                  "garden",
+                  "nature",
+                  "restroom"
+                ],
+                "indoor": false,
+                "area": "chapel-hill",
+                "lat": 35.9011,
+                "lon": -79.0319,
+                "cost": "Free",
+                "note": "Free. Display gardens, and nature trails through the forest behind them."
+              }
+            },
+            {
+              "ref": "event:museum:durham-central-park:13914",
+              "arrive": "15:20",
+              "leave": "16:45",
+              "why": "echo in the Park at Durham Central Park is a free outdoor afternoon drop-in — a relaxed way to spend time outside after the nap.",
+              "tips": [
+                "Drop in any time after 15:20; come and go as you like.",
+                "Bring a snack and a blanket to sit on.",
+                "The park playground is right there if your child needs to run."
+              ],
+              "interests": [
+                "music",
+                "movement",
+                "nature"
+              ],
+              "also": [],
+              "area": "durham",
+              "outdoor": true,
+              "source": {
+                "kind": "event",
+                "title": "echo in the Park",
+                "start": "2026-11-01T13:00:00",
+                "end": "2026-11-01T17:00:00",
+                "venue": "Durham Central Park",
+                "address": "501 Foster Street, Durham, NC, 27701",
+                "url": "https://durhamcentralpark.org/upcoming-event/echo-in-the-park/",
+                "cost": null,
+                "ages": null,
+                "registration": null,
+                "indoor": false,
+                "area": "durham",
+                "source": "museum",
+                "dropIn": true,
+                "lat": 36.0008,
+                "lon": -78.9021
+              }
+            }
+          ],
+          "rainBackup": null,
+          "timeline": [
+            {
+              "start": "07:00",
+              "end": "07:30",
+              "kind": "meal",
+              "title": "Up and breakfast"
+            },
+            {
+              "start": "07:30",
+              "end": "08:20",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "08:20",
+              "end": "08:40",
+              "kind": "routine",
+              "title": "Get ready to go",
+              "detail": "Shoes on, diaper bag, water and a snack."
+            },
+            {
+              "start": "08:40",
+              "end": "09:00",
+              "kind": "travel",
+              "title": "Drive to Sarah P. Duke Gardens"
+            },
+            {
+              "start": "09:00",
+              "end": "12:00",
+              "kind": "outing",
+              "title": "Sarah P. Duke Gardens"
+            },
+            {
+              "start": "12:00",
+              "end": "12:20",
+              "kind": "travel",
+              "title": "Drive home"
+            },
+            {
+              "start": "12:20",
+              "end": "12:50",
+              "kind": "meal",
+              "title": "Lunch"
+            },
+            {
+              "start": "12:50",
+              "end": "13:00",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "13:00",
+              "end": "15:00",
+              "kind": "nap",
+              "title": "Nap"
+            },
+            {
+              "start": "15:00",
+              "end": "15:20",
+              "kind": "routine",
+              "title": "Up and a snack"
+            },
+            {
+              "start": "15:20",
+              "end": "18:30",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "18:30",
+              "end": "19:15",
+              "kind": "meal",
+              "title": "Dinner"
+            },
+            {
+              "start": "19:15",
+              "end": "20:00",
+              "kind": "routine",
+              "title": "Bath, books and bed"
+            }
+          ]
+        },
+        {
+          "nap": "short-nap",
+          "napLabel": "Short nap, 1 to 2",
+          "headline": "Morning explore at JC Raulston Arboretum",
+          "main": {
+            "ref": "place:jc-raulston-arboretum",
+            "arrive": "09:00",
+            "leave": "11:30",
+            "why": "JC Raulston Arboretum is a free NC State garden with winding paths and a huge variety of plants — an unhurried Sunday morning of crunching autumn leaves and discovering new shapes and textures with a curious 2.5-year-old.",
+            "tips": [
+              "No pets are allowed on site.",
+              "Let your child set the pace and stop at everything interesting — that is the whole point of a garden walk.",
+              "If a shower blows through, duck under the covered areas near the entry and wait it out; the arboretum is beautiful even in light rain."
+            ],
+            "interests": [
+              "nature",
+              "science",
+              "movement"
+            ],
+            "also": [],
+            "area": "raleigh",
+            "outdoor": true,
+            "source": {
+              "kind": "garden",
+              "title": "JC Raulston Arboretum",
+              "address": "4415 Beryl Rd, Raleigh, NC 27606",
+              "url": "https://jcra.ncsu.edu/",
+              "amenities": [
+                "garden",
+                "nature"
+              ],
+              "indoor": false,
+              "area": "raleigh",
+              "hours": {
+                "mon": "9 a.m.–4:30 p.m.",
+                "tue": "9 a.m.–4:30 p.m.",
+                "wed": "9 a.m.–4:30 p.m.",
+                "thu": "9 a.m.–4:30 p.m.",
+                "fri": "9 a.m.–4:30 p.m.",
+                "sat": "9 a.m.–5 p.m.",
+                "sun": "9 a.m.–5 p.m."
+              },
+              "lat": 35.794,
+              "lon": -78.6987,
+              "cost": "Free",
+              "note": "Free. NC State’s garden; no pets."
+            }
+          },
+          "alternatives": [
+            {
+              "ref": "event:wake-parks:9411:2026-11-01",
+              "arrive": "08:20",
+              "leave": "11:30",
+              "why": "Exploration Station: American Bison at Yates Mill is a free drop-in outdoor program celebrating National Bison Day — great hands-on learning for a curious toddler.",
+              "tips": [
+                "Registration is required.",
+                "Dress in layers with a light waterproof layer.",
+                "Leave by 11:30 to be home in time for lunch and the nap."
+              ],
+              "interests": [
+                "animals",
+                "nature",
+                "science"
+              ],
+              "also": [],
+              "area": "raleigh",
+              "outdoor": true,
+              "source": {
+                "kind": "event",
+                "title": "Exploration Station: American Bison",
+                "start": "2026-11-01T08:30:00",
+                "end": "2026-11-01T17:00:00",
+                "venue": "Historic Yates Mill County Park",
+                "address": "4620 Lake Wheeler Rd., Raleigh, NC  27603",
+                "url": "https://apm.activecommunities.com/wakeparks/Activity_Search/exploration-station-american-bison/9411?locale=en-US",
+                "cost": null,
+                "ages": null,
+                "registration": "https://apm.activecommunities.com/wakeparks/Activity_Search/exploration-station-american-bison/9411?locale=en-US",
+                "indoor": false,
+                "area": "raleigh",
+                "source": "wake-parks",
+                "dropIn": false,
+                "lat": 35.72157134974476,
+                "lon": -78.68526087901417
+              }
+            },
+            {
+              "ref": "event:weekly:mols-early-childhood:2026-11-01",
+              "arrive": "09:20",
+              "leave": "11:20",
+              "why": "Early Childhood Drop-In in Hideaway Woods is an outdoor sensory morning of songs and play, then Duke Park for extra time outside before the drive home.",
+              "tips": [
+                "Arrive at 09:30 when it opens.",
+                "Bring snacks and water.",
+                "Weather permitting, spend 20 minutes at Duke Park before heading home."
+              ],
+              "also": [
+                {
+                  "ref": "place:duke-park",
+                  "source": {
+                    "kind": "park",
+                    "title": "Duke Park",
+                    "address": "106 W Knox St, Durham, NC",
+                    "url": "https://www.dprplaymore.org/Facilities/Facility/Details/Duke-Park-17",
+                    "amenities": [
+                      "playground",
+                      "picnic-shelter",
+                      "restroom"
+                    ],
+                    "indoor": false,
+                    "area": "durham",
+                    "hours": null,
+                    "lat": 36.01338833333333,
+                    "lon": -78.89257333333332,
+                    "cost": null
+                  }
+                }
+              ],
+              "interests": [
+                "nature",
+                "music",
+                "movement"
+              ],
+              "area": "durham",
+              "outdoor": true,
+              "source": {
+                "kind": "event",
+                "title": "Early Childhood Drop-In",
+                "start": "2026-11-01T09:30:00",
+                "end": "2026-11-01T11:30:00",
+                "venue": "Hideaway Woods, Museum of Life and Science",
+                "address": "433 W Murray Ave, Durham, NC 27704",
+                "url": "https://www.lifeandscience.org/learn/drop-in-programs/",
+                "cost": "Included with museum admission",
+                "ages": "young children and their caregivers",
+                "registration": false,
+                "indoor": false,
+                "area": "durham",
+                "source": "weekly",
+                "dropIn": true,
+                "lat": 36.0294,
+                "lon": -78.8993
+              }
+            },
+            {
+              "ref": "event:wake:23514",
+              "arrive": "14:20",
+              "leave": "15:00",
+              "why": "Preschool Practice and Play at Athens Drive Community Library is an open self-guided afternoon of alphabet crafts and fine motor toys — a calm indoor outing after the short nap.",
+              "tips": [
+                "Registration is required; confirm your spot in advance.",
+                "The library is a relaxed setting — bring a favourite small toy to ease the transition in.",
+                "Keep the visit to about 40 minutes so your child leaves on a high note."
+              ],
+              "interests": [
+                "art",
+                "stories",
+                "science"
+              ],
+              "also": [],
+              "area": "raleigh",
+              "outdoor": false,
+              "source": {
+                "kind": "event",
+                "title": "Preschool Practice and Play",
+                "start": "2026-11-01T13:00:00-05:00",
+                "end": "2026-11-01T15:00:00-05:00",
+                "venue": "Athens Drive Community Library",
+                "address": "1420 Athens Drive, Raleigh, NC, 27606",
+                "url": "https://www.eventbrite.com/e/preschool-practice-and-play-tickets-2000660804322",
+                "cost": "Free",
+                "ages": "Young Children",
+                "registration": "https://www.eventbrite.com/e/preschool-practice-and-play-tickets-2000660804322",
+                "indoor": true,
+                "area": "raleigh",
+                "source": "wake-county",
+                "dropIn": false,
+                "lat": 35.7682600041562,
+                "lon": -78.7107215103108
+              }
+            },
+            {
+              "ref": "event:museum:durham-central-park:13914",
+              "arrive": "14:20",
+              "leave": "16:30",
+              "why": "echo in the Park at Durham Central Park is a free outdoor afternoon drop-in — a lovely way to spend time outside with a toddler after the nap.",
+              "tips": [
+                "Drop in any time after 14:20; come and go as you like.",
+                "Bring a snack and a blanket.",
+                "The park playground is right there if your child needs to run."
+              ],
+              "interests": [
+                "music",
+                "movement",
+                "nature"
+              ],
+              "also": [],
+              "area": "durham",
+              "outdoor": true,
+              "source": {
+                "kind": "event",
+                "title": "echo in the Park",
+                "start": "2026-11-01T13:00:00",
+                "end": "2026-11-01T17:00:00",
+                "venue": "Durham Central Park",
+                "address": "501 Foster Street, Durham, NC, 27701",
+                "url": "https://durhamcentralpark.org/upcoming-event/echo-in-the-park/",
+                "cost": null,
+                "ages": null,
+                "registration": null,
+                "indoor": false,
+                "area": "durham",
+                "source": "museum",
+                "dropIn": true,
+                "lat": 36.0008,
+                "lon": -78.9021
+              }
+            }
+          ],
+          "rainBackup": null,
+          "timeline": [
+            {
+              "start": "07:00",
+              "end": "07:30",
+              "kind": "meal",
+              "title": "Up and breakfast"
+            },
+            {
+              "start": "07:30",
+              "end": "08:20",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "08:20",
+              "end": "08:40",
+              "kind": "routine",
+              "title": "Get ready to go",
+              "detail": "Shoes on, diaper bag, water and a snack."
+            },
+            {
+              "start": "08:40",
+              "end": "09:00",
+              "kind": "travel",
+              "title": "Drive to JC Raulston Arboretum"
+            },
+            {
+              "start": "09:00",
+              "end": "11:30",
+              "kind": "outing",
+              "title": "JC Raulston Arboretum"
+            },
+            {
+              "start": "11:30",
+              "end": "11:50",
+              "kind": "travel",
+              "title": "Drive home"
+            },
+            {
+              "start": "11:50",
+              "end": "12:15",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "12:15",
+              "end": "12:45",
+              "kind": "meal",
+              "title": "Lunch"
+            },
+            {
+              "start": "12:45",
+              "end": "13:00",
+              "kind": "quiet",
+              "title": "Wind down",
+              "detail": "A couple of books to settle."
+            },
+            {
+              "start": "13:00",
+              "end": "14:00",
+              "kind": "nap",
+              "title": "Nap"
+            },
+            {
+              "start": "14:00",
+              "end": "14:20",
+              "kind": "routine",
+              "title": "Up and a snack"
+            },
+            {
+              "start": "14:20",
+              "end": "18:00",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "18:00",
+              "end": "18:45",
+              "kind": "meal",
+              "title": "Dinner"
+            },
+            {
+              "start": "18:45",
+              "end": "19:30",
+              "kind": "routine",
+              "title": "Bath, books and bed"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "checked": {
+    "at": "2026-11-01T11:03:30.171Z",
+    "forecast": "nws",
+    "weather": {
+      "period": "Today",
+      "tempF": 67,
+      "precipProbability": 0,
+      "shortForecast": "Partly Sunny",
+      "hours": [
+        {
+          "t": "06:00",
+          "tempF": 49,
+          "pop": 0
+        },
+        {
+          "t": "07:00",
+          "tempF": 49,
+          "pop": 0
+        },
+        {
+          "t": "08:00",
+          "tempF": 51,
+          "pop": 0
+        },
+        {
+          "t": "09:00",
+          "tempF": 56,
+          "pop": 0
+        },
+        {
+          "t": "10:00",
+          "tempF": 60,
+          "pop": 0
+        },
+        {
+          "t": "11:00",
+          "tempF": 62,
+          "pop": 0
+        },
+        {
+          "t": "12:00",
+          "tempF": 64,
+          "pop": 0
+        },
+        {
+          "t": "13:00",
+          "tempF": 66,
+          "pop": 0
+        },
+        {
+          "t": "14:00",
+          "tempF": 67,
+          "pop": 0
+        },
+        {
+          "t": "15:00",
+          "tempF": 67,
+          "pop": 0
+        },
+        {
+          "t": "16:00",
+          "tempF": 67,
+          "pop": 0
+        },
+        {
+          "t": "17:00",
+          "tempF": 64,
+          "pop": 0
+        },
+        {
+          "t": "18:00",
+          "tempF": 61,
+          "pop": 0
+        },
+        {
+          "t": "19:00",
+          "tempF": 58,
+          "pop": 0
+        },
+        {
+          "t": "20:00",
+          "tempF": 57,
+          "pop": 0
+        },
+        {
+          "t": "21:00",
+          "tempF": 56,
+          "pop": 0
+        },
+        {
+          "t": "22:00",
+          "tempF": 55,
+          "pop": 0
+        },
+        {
+          "t": "23:00",
+          "tempF": 54,
+          "pop": 0
+        }
+      ]
+    },
+    "hidden": []
+  }
+}

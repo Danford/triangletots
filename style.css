@@ -1,0 +1,384 @@
+/* Triangle Tots. Made for a phone held in one hand with a child in the other: the first
+   screen is a tap to today, the targets are thumb-sized, and the page reads top to bottom.
+   Two bold things, both true to the subject: the Triangle itself, drawn from Census data
+   and served from here, and the day strip, coloured like the sky at those hours.
+   Fonts: Gabarito and Atkinson Hyperlegible Next, SIL Open Font License (fonts/OFL.txt). */
+@font-face { font-family: "Gabarito"; src: url(/fonts/gabarito.woff2) format("woff2"); font-weight: 400 900; font-display: swap; }
+@font-face { font-family: "Atkinson Next"; src: url(/fonts/atkinson.woff2) format("woff2"); font-weight: 200 800; font-display: swap; }
+@font-face { font-family: "Atkinson Next"; src: url(/fonts/atkinson-italic.woff2) format("woff2"); font-weight: 200 800; font-style: italic; font-display: swap; }
+
+:root {
+  --sky: #9fd6f5;      /* a clear Carolina morning */
+  --sky-pale: #e1f2fb;
+  --air: #f2f7fa;      /* the page */
+  --white: #fff;
+  --ink: #12233f;      /* text: the night sky */
+  --muted: #4b5a77;
+  --line: #d3e0ea;
+  --pine: #14543f;     /* the near-you band: longleaf country */
+  --night: #26305e;    /* naps */
+  --dusk: #6d73b4;     /* quiet time */
+  --grass: #2e8b57;    /* out of the house */
+  --grass-pale: #e3f3e9;
+  --berry: #b8456f;    /* out of the house, under a roof */
+  --berry-pale: #f8e6ee;
+  --sun: #ffc72c;      /* the one thing to tap */
+  --sun-pale: #fdf1d6;
+  --display: "Gabarito", ui-rounded, "Segoe UI", system-ui, sans-serif;
+  --text: "Atkinson Next", "Atkinson Hyperlegible", system-ui, -apple-system, "Segoe UI", sans-serif;
+}
+* { box-sizing: border-box; }
+html { -webkit-text-size-adjust: 100%; }
+body { margin: 0; background: var(--air); color: var(--ink); font: 17px/1.55 var(--text); -webkit-font-smoothing: antialiased; }
+img, svg { max-width: 100%; }
+a { color: inherit; text-decoration-color: color-mix(in srgb, currentColor 40%, transparent); text-underline-offset: .18em; }
+a:hover { text-decoration-color: currentColor; }
+:focus-visible { outline: 3px solid var(--ink); outline-offset: 2px; border-radius: 4px; }
+.near :focus-visible, .teaser :focus-visible { outline-color: var(--sun); }
+h1, h2, h3, .brand { font-family: var(--display); line-height: 1.08; letter-spacing: -.012em; }
+h1 { font-size: clamp(2.5rem, 10.5vw, 4.4rem); font-weight: 900; letter-spacing: -.03em; margin: 0; text-wrap: balance; }
+h2 { font-size: clamp(1.5rem, 5vw, 2rem); font-weight: 800; margin: 2.4rem 0 .5rem; text-wrap: balance; }
+h3 { font-size: 1.2rem; font-weight: 700; margin: 0 0 .3rem; }
+p { margin: .5rem 0; }
+.muted { color: var(--muted); }
+.wrap { max-width: 70rem; margin: 0 auto; padding: 0 1.05rem; min-width: 0; }
+.wrap.narrow { max-width: 46rem; }
+
+/* Header */
+.top { background: var(--sky); }
+.top .wrap { display: flex; justify-content: space-between; align-items: center; gap: .6rem; padding-top: .6rem; padding-bottom: .4rem; }
+.brand { display: flex; align-items: center; gap: .4rem; font-size: 1.2rem; font-weight: 800; text-decoration: none; white-space: nowrap; }
+.mark { width: 1.6rem; height: auto; flex: none; }
+.top nav { display: flex; gap: .15rem; }
+.top nav a { font-weight: 700; font-size: .92rem; text-decoration: none; padding: .55rem .45rem; border-radius: .6rem; white-space: nowrap; }
+.top nav a[aria-current] { background: rgb(255 255 255 / .6); }
+@media (max-width: 400px) { .top nav a:first-child { display: none; } }
+
+/* Buttons */
+.btn { display: inline-block; border: 0; cursor: pointer; background: var(--sun); color: var(--ink); font-family: var(--display); font-weight: 800; font-size: 1.1rem; line-height: 1.2; padding: .85rem 1.4rem; border-radius: .8rem; text-decoration: none; }
+.btn:hover { background: #ffd65e; }
+.btn[disabled] { background: var(--line); color: var(--muted); cursor: default; }
+.btn.big { font-size: 1.25rem; padding: .95rem 2rem; margin: .8rem 0 .2rem; }
+
+/* The day strip */
+.daystrip { margin: .9rem 0 1.4rem; }
+.strip { position: relative; isolation: isolate; height: 3rem; border-radius: .8rem; overflow: hidden; box-shadow: inset 0 0 0 1px rgb(31 43 77 / .08); }
+.seg { position: absolute; top: 0; bottom: 0; display: flex; align-items: center; justify-content: center; overflow: hidden; }
+.seg > span { font-family: var(--display); font-weight: 700; font-size: .85rem; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; padding: 0 .4rem; }
+.s-outing { container-type: inline-size; }
+.s-outing .short { display: none; }
+@container (max-width: 8rem) { .s-outing .long { display: none; } .s-outing .short { display: inline; } }
+@container (max-width: 2.2rem) { .s-outing .short { display: none; } }
+.s-nap, .s-quiet { container-type: inline-size; }
+@container (max-width: 2.6rem) { .s-nap > span { display: none; } }
+@container (max-width: 3.4rem) { .s-quiet > span { display: none; } }
+.s-nap { background: var(--night); color: #dfe3ff; }
+.s-nap::before { content: ""; position: absolute; top: .55rem; right: .55rem; width: .5rem; height: .5rem; border-radius: 50%; box-shadow: -.15rem .1rem 0 0 var(--sun); }
+.s-quiet { background: var(--dusk); color: #fff; }
+.s-outing { background: var(--grass); color: #fff; }
+.s-travel { background: repeating-linear-gradient(135deg, rgb(46 139 87 / .55) 0 4px, rgb(255 255 255 / .35) 4px 8px); }
+.s-outing.in { background: var(--berry); }
+/* Play at a park or in the yard: outside, but not an outing. */
+.s-play { background: repeating-linear-gradient(90deg, rgb(46 139 87 / .5) 0 2px, rgb(46 139 87 / .32) 2px 6px); }
+.s-travel.in { background: repeating-linear-gradient(135deg, rgb(184 69 111 / .55) 0 4px, rgb(255 255 255 / .35) 4px 8px); }
+
+/* The key to the strip's colours */
+.key { list-style: none; padding: 0; margin: .2rem 0 1rem; display: flex; flex-wrap: wrap; gap: .3rem 1.1rem; font-size: .85rem; color: var(--muted); }
+.key li { display: flex; align-items: center; gap: .4rem; }
+.sw { position: relative; overflow: hidden; display: inline-block; width: 1.4rem; height: .8rem; border-radius: .25rem; }
+/* Stripes mean driving; on the strip they take the outing's colour, so the key shows them plain. */
+.sw.s-travel { background: repeating-linear-gradient(135deg, #8d96ab 0 3px, #fff 3px 6px); box-shadow: inset 0 0 0 1px #c9d1dd; }
+.sw.s-nap::before { display: none; }
+.ticks { position: relative; height: 1.3rem; margin-top: .3rem; font-size: .78rem; color: var(--muted); font-variant-numeric: tabular-nums; }
+.ticks span { position: absolute; transform: translateX(-50%); white-space: nowrap; }
+.ticks .first, .ticks .last { font-weight: 700; color: var(--ink); }
+.s-asleep { background: #1d2447; }
+/* On the strip asleep is the bare sky, so the night, dawn and dusk behind it are the same whatever the wake-up. */
+.strip .s-asleep { background: none; }
+/* Sunrise and sunset on the strip, over its blocks */
+.strip .sunline { position: absolute; top: 0; bottom: 0; width: 2px; margin-left: -1px; z-index: 4; background: rgb(242 179 61 / .85); pointer-events: none; }
+/* The hourly forecast on the strip: temperatures over it, on a short stem down to their time, and rain along its bottom */
+.temps { position: relative; height: 1.15rem; margin-bottom: .1rem; }
+.temps.two { height: 2rem; }
+.temps span { position: absolute; bottom: .3rem; transform: translateX(var(--x, -50%)); white-space: nowrap; font-family: var(--display); font-variant-numeric: tabular-nums; line-height: 1; font-size: .74rem; font-weight: 700; color: #a85d14; }
+.temps span::after { content: ""; position: absolute; left: var(--stem, 50%); top: 100%; width: 1px; height: .3rem; background: rgb(168 93 20 / .45); }
+/* Too near the label before it: one row higher, on a longer stem. */
+.temps .up { bottom: 1.15rem; }
+.temps .up::after { height: 1.15rem; }
+.strip .rain { position: absolute; bottom: 0; z-index: 4; background: rgb(74 144 217 / .75); box-shadow: inset 0 1px 0 rgb(255 255 255 / .5); pointer-events: none; }
+/* White on a dark edge, so it reads over the night, the dawn and every block's colour. */
+.strip .tline { position: absolute; inset: 0; width: 100%; height: 100%; z-index: 5; overflow: visible; pointer-events: none; filter: drop-shadow(0 0 1.5px rgb(20 26 56 / .75)); }
+.strip .tline polyline { fill: none; stroke: #fff; stroke-width: 2; stroke-linejoin: round; stroke-linecap: round; vector-effect: non-scaling-stroke; }
+.strip .tdot { position: absolute; z-index: 6; width: .42rem; height: .42rem; margin: -.21rem 0 0 -.21rem; border-radius: 50%; background: #d9822b; box-shadow: 0 0 0 1.5px #fff; pointer-events: none; }
+.suns .pop { font-weight: 700; color: #2d6aa8; }
+/* Too near sunrise or sunset's label: a line under them. */
+.suns.two { height: 2.3rem; }
+.suns .pop.low { top: 1.1rem; }
+.suns .pop::before { display: none; }
+.suns { position: relative; height: 1.2rem; margin-top: .2rem; font-size: .74rem; color: var(--muted); font-family: var(--display); font-variant-numeric: tabular-nums; }
+.suns span { position: absolute; transform: translateX(-50%); white-space: nowrap; }
+.suns span::before { content: ""; display: inline-block; width: .55rem; height: .28rem; margin-right: .25rem; vertical-align: .12rem; border-radius: .55rem .55rem 0 0; background: var(--sun); }
+/* While blocks slide past each other (site.js), the nap passes over the outing and its drives. */
+.s-travel { z-index: 1; }
+.s-outing, .s-quiet { z-index: 2; }
+.s-nap { z-index: 3; }
+.seg.leaving { z-index: 0; }
+@media (max-width: 520px) { .ticks span:not(.first):not(.last) { display: none; } .strip { height: 2.5rem; } .temps span { font-size: .66rem; } }
+
+/* Home: the sky, and the four ages */
+.sky { background: linear-gradient(180deg, var(--sky) 0, #c9e9f9 62%, var(--sky-pale) 100%); }
+.sky .wrap { padding-top: 1rem; }
+.now { font-family: var(--display); font-weight: 700; font-size: 1.05rem; margin: 0 0 .15rem; }
+.lede { font-size: 1.08rem; max-width: 38rem; margin: .5rem 0 1rem; }
+.ages { list-style: none; padding: 0; margin: 0; display: flex; flex-direction: column; gap: .55rem; }
+.today.mine { order: -1; }
+.variant { display: grid; grid-template-columns: 4.7rem minmax(0, 1fr); color: var(--ink); background: var(--white); border-radius: 1.1rem; overflow: hidden; text-decoration: none; min-height: 5.9rem; }
+.variant[hidden] { display: none; }
+.num { display: flex; flex-direction: column; align-items: center; justify-content: center; background: var(--sun); font-family: var(--display); font-weight: 900; font-size: 2.7rem; line-height: 1; letter-spacing: -.03em; }
+.num.wide { font-size: 1.95rem; letter-spacing: -.04em; }
+.num small { font-size: .72rem; font-weight: 700; letter-spacing: 0; margin-top: .2rem; text-align: center; line-height: 1.1; padding: 0 .25rem; }
+.mine .num { background: var(--pine); color: var(--white); }
+.what { display: flex; flex-direction: column; justify-content: center; gap: .5rem; padding: .7rem .85rem; min-width: 0; }
+.what strong { font-family: var(--display); font-size: 1.12rem; font-weight: 700; line-height: 1.2; }
+.variant:hover strong { text-decoration: underline; text-underline-offset: .15em; text-decoration-thickness: 2px; }
+.ages .daystrip { margin: 0; }
+.ages .temps, .ages .ticks, .ages .suns, .ages .lbl, .ages .tline, .ages .tdot, .ages .rain, .ages .sunline, .ages .s-nap::before { display: none; }
+.ages .strip { height: .8rem; border-radius: .4rem; }
+.hills { display: block; width: 100%; height: 2.6rem; margin: .9rem 0 -1px; }
+
+/* Near you: the band of pine with the map on it */
+.near { background: var(--pine); color: var(--white); padding: .4rem 0 2.2rem; }
+.near h2 { margin-top: .8rem; }
+.sub { margin: .3rem 0 1rem; max-width: 40rem; color: #d6ebe0; }
+.board { position: relative; border-radius: 1rem; overflow: hidden; background: #e4eadf; line-height: 0; }
+.board img { display: block; width: 100%; height: auto; }
+.picker button { position: absolute; transform: translate(-50%, -50%); font: 700 .8rem/1 var(--display); color: var(--ink); background: var(--white); border: 2px solid var(--ink); border-radius: 1.3rem; min-height: 2.35rem; padding: 0 .55rem; cursor: pointer; white-space: nowrap; }
+.picker button:hover { background: var(--sky-pale); }
+.picker button[aria-pressed="true"] { background: var(--sun); }
+html:not(.js) .picker button { display: none; }
+.dot { position: absolute; width: .55rem; height: .55rem; margin: -.275rem 0 0 -.275rem; border-radius: 50%; background: var(--berry); box-shadow: 0 0 0 1.5px #fff; }
+.nearlist { margin-top: 1.2rem; }
+.js .nearlist:not(.on) { display: none; }
+.nearlist h3 { font-size: 1.3rem; }
+.nearlist p { color: #d6ebe0; }
+.nearlist ul { list-style: none; padding: 0; margin: .4rem 0 0; }
+.nearlist li a { display: block; padding: .7rem 0; border-top: 1px solid rgb(255 255 255 / .25); text-decoration: none; }
+.nearlist strong { display: block; font-family: var(--display); font-size: 1.1rem; line-height: 1.2; }
+.nearlist li a:hover strong { text-decoration: underline; }
+.nearlist span { display: block; color: #d6ebe0; font-size: .95rem; }
+.nearlist .for { font-size: .85rem; }
+.nearlists { min-width: 0; }
+
+/* Sign-up */
+.pagehead .signup { background: var(--white); margin: 1rem 0 .4rem; }
+.signup { background: var(--sky-pale); border-radius: 1.2rem; padding: 1.2rem 1.15rem 1rem; margin: 2rem 0; max-width: 46rem; }
+.signup h2 { margin: 0 0 .25rem; }
+.signup .lead { margin: 0 0 .8rem; }
+.fields { display: grid; gap: .25rem; }
+.fields label { font-weight: 700; font-size: .92rem; margin-top: .35rem; }
+.fields input, .fields select { width: 100%; min-height: 3rem; font: inherit; font-size: 1.05rem; color: var(--ink); background: var(--white); border: 2px solid #9db4c6; border-radius: .7rem; padding: .4rem .7rem; }
+.fields input:focus, .fields select:focus { border-color: var(--ink); outline: none; }
+.fields .btn { margin-top: .7rem; width: 100%; }
+.hp { position: absolute; left: -9999px; width: 1px; height: 1px; overflow: hidden; }
+.result { margin: .7rem 0 .2rem; padding: .6rem .8rem; border-radius: .7rem; font-weight: 700; }
+.result.ok { background: var(--grass-pale); color: #0f5132; }
+.result.bad { background: #fbe4e2; color: #8a1c17; }
+.signup.joined .fields, .signup.joined .lead { display: none; }
+.fine { font-size: .85rem; color: var(--muted); margin: .6rem 0 0; }
+
+/* The days ahead */
+.dayrows { list-style: none; padding: 0; margin: .5rem 0 0; }
+.dayrows li { display: flex; align-items: center; justify-content: space-between; gap: .5rem; padding: .3rem 0; border-top: 1px solid var(--line); }
+.dayrows .d { color: var(--muted); font-size: .95rem; }
+.dayrows .d b { color: var(--ink); font-family: var(--display); font-size: 1.05rem; }
+.dayrows .bs { display: flex; gap: .3rem; }
+.dayrows .bs a { display: grid; place-items: center; min-width: 2.75rem; height: 2.5rem; border-radius: .6rem; background: var(--white); font-family: var(--display); font-weight: 800; text-decoration: none; }
+.dayrows .bs a:hover, .dayrows .bs a.mine { background: var(--sun); }
+
+.how ul { list-style: none; padding: 0; display: grid; gap: 1rem 2rem; }
+.how li strong { display: block; font-family: var(--display); font-size: 1.15rem; }
+
+/* Headed pages */
+.pagehead { background: linear-gradient(180deg, var(--sky), var(--sky-pale)); padding: .6rem 0 1.3rem; }
+.pagehead h1 { font-size: clamp(2.1rem, 8.5vw, 3.4rem); }
+.crumb { margin: 0 0 .2rem; font-weight: 700; }
+.dated { font-size: .92rem; color: var(--muted); margin: .3rem 0 0; }
+
+/* Day page */
+.weather { margin: .25rem 0 0; font-size: 1.02rem; }
+/* More days than fit on a phone: the right edge fades, so the list reads as going on. */
+.days { display: flex; gap: .2rem; overflow-x: auto; padding: .6rem 0 0; margin-top: .3rem; scrollbar-width: none; -webkit-mask-image: linear-gradient(90deg, #000 calc(100% - 2.2rem), transparent); mask-image: linear-gradient(90deg, #000 calc(100% - 2.2rem), transparent); }
+.days a { position: relative; display: flex; flex-direction: column; align-items: center; min-width: 3.1rem; padding: .35rem .3rem .4rem; border-radius: .7rem; text-decoration: none; font-size: .78rem; }
+.days a b { font-family: var(--display); font-size: 1.25rem; }
+.days a:hover { background: rgb(255 255 255 / .5); }
+.days a[aria-current] { background: var(--ink); color: #cdd6ee; }
+.days a[aria-current] b { color: var(--white); }
+.days i { position: absolute; top: .35rem; right: .45rem; width: .45rem; height: .45rem; border-radius: 50%; background: var(--sun); }
+
+.controls { display: grid; gap: .55rem; padding: .9rem 0 .2rem; }
+.control { display: grid; grid-template-columns: 3rem minmax(0, 1fr); align-items: center; gap: .4rem; min-width: 0; }
+.clabel { font-size: .85rem; font-weight: 700; color: var(--muted); }
+.seg-group { min-width: 0; display: flex; gap: .3rem; overflow-x: auto; scrollbar-width: none; }
+.seg-group a { flex: none; padding: .5rem .75rem; border-radius: .6rem; background: var(--white); text-decoration: none; font-weight: 700; font-size: .92rem; color: var(--muted); }
+.seg-group a[aria-current], .seg-group a[aria-selected="true"] { background: var(--ink); color: var(--white); }
+.wake { display: none; }
+.js .wake { display: grid; }
+.wake select { justify-self: start; font: inherit; font-weight: 700; font-size: 1rem; min-height: 2.5rem; padding: .3rem .6rem; border-radius: .6rem; border: 0; background: var(--white); color: var(--ink); }
+
+.revised { background: var(--sun-pale); border-radius: 1rem; padding: .8rem 1.1rem; margin: .8rem 0; }
+.wakenote { background: var(--white); border-left: 4px solid var(--sun); border-radius: 0 .7rem .7rem 0; padding: .6rem 1rem; margin: 0 0 1.2rem; }
+
+.plan h2 { margin: 1.1rem 0 .2rem; font-size: clamp(1.65rem, 6vw, 2.3rem); max-width: 38ch; }
+.napline { color: var(--muted); margin: 0; }
+.cols { display: grid; gap: 1rem; align-items: start; }
+.js .plan:not(.on) { display: none; }
+
+/* The outing */
+.outing { background: var(--white); border-radius: 1.1rem; padding: 1.15rem 1.15rem; margin-bottom: 1rem; border-top: 6px solid var(--grass); }
+.outing .label { margin: 0 0 .2rem; font-size: .9rem; font-weight: 700; color: var(--grass); }
+.outing h3 { font-size: 1.5rem; }
+.outing .addr { margin: .2rem 0 .6rem; font-size: .95rem; color: var(--muted); }
+.mini { position: relative; margin: .6rem 0; aspect-ratio: 2.6; overflow: hidden; border-radius: .7rem; background: #e4eadf; }
+.mini img { position: absolute; max-width: none; height: auto; }
+.pin { position: absolute; width: 1rem; height: 1rem; border-radius: 50%; background: var(--berry); box-shadow: 0 0 0 2.5px #fff, 0 1px 3px rgb(0 0 0 / .4); transform: translate(-50%, -50%); }
+.pinmap { margin: 1.1rem 0 .5rem; }
+.pinmap .pin { width: .7rem; height: .7rem; box-shadow: 0 0 0 1.5px #fff; }
+.pinmap figcaption { font-size: .9rem; color: var(--muted); margin-top: .3rem; }
+.times { margin: .4rem 0; }
+.warn { color: #a3361b; font-weight: 700; }
+.alt .tips { margin: .3rem 0 0; font-size: .95rem; }
+.stops { list-style: none; padding: .5rem .8rem; margin: .7rem 0; background: var(--grass-pale); border-radius: .6rem; }
+.stops li { padding: .15rem 0; }
+/* Times in the display face: the text face's slashed zero reads as code. */
+.when, .ticks, .times strong, .days a b { font-family: var(--display); }
+.when { font-variant-numeric: tabular-nums; font-weight: 700; white-space: nowrap; }
+.why { font-size: 1.05rem; }
+.tips { padding-left: 1.1rem; color: var(--muted); }
+.tips li { margin: .2rem 0; }
+.tags { margin: .8rem 0 0; display: flex; flex-wrap: wrap; gap: .3rem; }
+.tags span { font-size: .8rem; color: var(--muted); background: var(--air); border-radius: .4rem; padding: .05rem .5rem; }
+.outing.in { border-top-color: var(--berry); }
+.outing.in .label { color: var(--berry); }
+.outing.in .stops { background: var(--berry-pale); }
+.original { margin-bottom: 1rem; }
+.original summary { cursor: pointer; color: var(--muted); font-weight: 700; min-height: 2.4rem; }
+.original .outing { opacity: .75; border-top-color: var(--line); }
+
+/* Or swap in */
+.alts { margin-top: 1rem; }
+.alts h3 { font-size: 1.25rem; }
+.alts ul { list-style: none; padding: 0; margin: .6rem 0 0; }
+.alt { padding: .9rem 0; border-top: 1px solid var(--line); }
+.alt p { margin: .15rem 0; }
+.alt-title { font-weight: 700; font-size: 1.05rem; }
+.chips { display: flex; flex-wrap: wrap; gap: .35rem; margin: .4rem 0 .2rem; }
+.chips button { font: inherit; font-size: .9rem; font-weight: 700; color: var(--muted); border: 0; background: var(--white); border-radius: .6rem; min-height: 2.4rem; padding: 0 .75rem; cursor: pointer; }
+.chips button.area { background: transparent; box-shadow: inset 0 0 0 1.5px var(--line); }
+.chips button[aria-pressed="true"] { background: var(--pine); color: #fff; box-shadow: none; }
+
+/* The day, hour by hour */
+.c-day > h3 { margin-top: .2rem; }
+.timeline { list-style: none; padding: 0; margin: .5rem 0 0; background: var(--white); border-radius: 1.1rem; overflow: hidden; }
+.timeline li { display: grid; grid-template-columns: 4.6rem 1fr; gap: .6rem; padding: .6rem 1rem; border-top: 1px solid var(--air); }
+.timeline li:first-child { border-top: 0; }
+.timeline li p { margin: .1rem 0 0; color: var(--muted); font-size: .92rem; }
+.timeline .when { color: var(--muted); font-size: .92rem; padding-top: .05rem; }
+.timeline .k-outing { background: var(--grass-pale); box-shadow: inset 5px 0 0 var(--grass); }
+.timeline .k-outing .when { color: var(--grass); }
+.timeline .k-outing.in { background: var(--berry-pale); box-shadow: inset 5px 0 0 var(--berry); }
+.timeline .k-outing.in .when { color: var(--berry); }
+.timeline .k-play.out { box-shadow: inset 5px 0 0 color-mix(in srgb, var(--grass) 45%, transparent); }
+.timeline .ideas { margin: .35rem 0 .1rem; padding-left: 1.1rem; color: var(--muted); font-size: .9rem; }
+.timeline .ideas li { display: list-item; padding: .12rem 0; border: 0; }
+.timeline .ideas li::marker { color: var(--dusk); }
+.timeline .ideas li.out::marker { color: var(--grass); }
+.timeline .ideas b { color: var(--ink); font-weight: 600; }
+.timeline .ideas .where { font-weight: 400; font-size: .8rem; color: var(--grass); margin-left: .2rem; }
+.timeline .k-nap { background: var(--night); color: #eef0ff; }
+.timeline .k-nap .when, .timeline .k-nap p { color: #b7bfe6; }
+.timeline .k-quiet { background: #ecedf8; box-shadow: inset 5px 0 0 var(--dusk); }
+.timeline .k-travel strong { font-weight: 400; color: var(--muted); }
+
+/* Guides */
+.gsec h2 { margin-bottom: .3rem; }
+.items { list-style: none; padding: 0; margin: .5rem 0 0; }
+.items li { padding: .65rem 0; border-top: 1px solid var(--line); }
+.items p { margin: 0; }
+.it-name { font-family: var(--display); font-weight: 700; font-size: 1.12rem; line-height: 1.25; }
+.it-facts { font-size: .97rem; color: var(--muted); }
+.it-facts b { color: var(--ink); }
+.plain { padding-left: 1.2rem; }
+.plain li { margin: .25rem 0; }
+.sources { font-size: .9rem; color: var(--muted); margin-top: 1.6rem; }
+.glist { list-style: none; padding: 0; margin: .9rem 0 0; display: grid; gap: .5rem; }
+.glist a { display: block; background: var(--white); border-radius: 1rem; padding: .8rem 1rem; text-decoration: none; }
+.glist strong { display: block; font-family: var(--display); font-size: 1.2rem; line-height: 1.2; }
+.glist span { display: block; color: var(--muted); font-size: .97rem; margin-top: .15rem; }
+.glist a:hover strong { text-decoration: underline; }
+.towns { list-style: none; padding: 0; display: flex; flex-wrap: wrap; gap: .4rem; }
+.towns a { display: block; background: var(--white); border-radius: .7rem; padding: .55rem .85rem; font-weight: 700; text-decoration: none; }
+
+/* Family plans */
+.teaser { margin: 2.6rem 0 1rem; background: var(--night); color: #e8ebfb; border-radius: 1.3rem; padding: 1.5rem 1.3rem; }
+.teaser h2 { margin-top: 0; color: #fff; }
+.split { display: grid; gap: 1.2rem; }
+.family { margin: 0; padding: 1.1rem 1.1rem .4rem; background: var(--white); border-radius: 1.2rem; min-width: 0; }
+.kidname { font-family: var(--display); font-weight: 700; }
+.kid .daystrip { margin: .3rem 0 1rem; }
+.family figcaption { color: var(--muted); font-size: .92rem; padding-bottom: .6rem; }
+.price { color: var(--muted); }
+.price strong { color: var(--ink); }
+.cards { list-style: none; padding: 0; margin: 0; display: grid; gap: 1.2rem 2.4rem; }
+.cards li { display: flex; flex-direction: column; gap: .2rem; padding-top: .7rem; border-top: 3px solid var(--ink); }
+.get .cards li { border-top-color: var(--grass); }
+.cards strong { font-family: var(--display); font-size: 1.2rem; }
+.cards span { color: var(--muted); }
+.faq { max-width: 46rem; }
+.faq details { border-top: 1px solid var(--line); padding: .7rem 0; }
+.faq summary { cursor: pointer; font-weight: 700; }
+
+footer { margin-top: 3rem; background: var(--white); color: var(--muted); font-size: .9rem; padding: 1.2rem 0 2.5rem; }
+
+/* Wider than a phone */
+@media (min-width: 640px) {
+  .fields { grid-template-columns: minmax(0, 2fr) minmax(0, 1.3fr); column-gap: .6rem; }
+  .fields .f-email { grid-area: 1 / 1; }
+  .fields .f-area { grid-area: 1 / 2; }
+  .fields input { grid-area: 2 / 1; }
+  .fields select { grid-area: 2 / 2; }
+  .fields .btn { grid-column: 1 / -1; justify-self: start; width: auto; }
+  .controls { grid-template-columns: repeat(2, minmax(0, auto)); justify-content: start; gap: .6rem 1.8rem; }
+  .how ul { grid-template-columns: repeat(3, minmax(0, 1fr)); }
+  .cards { grid-template-columns: repeat(auto-fit, minmax(15rem, 1fr)); }
+  .glist { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+  .items.two { columns: 2; column-gap: 2rem; }
+  .items.two li { break-inside: avoid; }
+  .picker button { font-size: .95rem; padding: 0 .8rem; }
+  .ages { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); }
+  .dayrows { columns: 2; column-gap: 2.5rem; }
+  .dayrows li { break-inside: avoid; }
+}
+@media (min-width: 860px) {
+  body { font-size: 18px; }
+  .top nav a { font-size: 1rem; padding: .55rem .8rem; }
+  .sky .wrap { padding-top: 2rem; }
+  .nearcols { display: grid; grid-template-columns: minmax(0, 1.5fr) minmax(0, 1fr); grid-template-rows: auto 1fr; column-gap: 2rem; align-items: start; }
+  .nearhead { grid-column: 2; }
+  .picker { grid-column: 1; grid-row: 1 / span 2; }
+  .nearlists { grid-column: 2; }
+  .split { grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 3rem; align-items: center; }
+  /* Outing, the day, then the swap-ins on a phone; on a wide screen the day runs down the right. */
+  .cols { grid-template-columns: minmax(0, 1.2fr) minmax(0, 1fr); gap: 2.4rem; }
+  .c-day { grid-column: 2; grid-row: 1 / span 2; }
+  .c-out, .c-alts { grid-column: 1; }
+}
+
+/* Sending a plan on, and the apps. */
+.sharebar { margin: 1.6rem 0 0; }
+.sharebar[hidden] { display: none; }
+.sharebar .shared { color: var(--muted); }
+.appscard { margin: 1.4rem 0 2rem; }
+.appscard ul { list-style: none; margin: 0 0 .6rem; padding: 0; display: grid; gap: .6rem; }
+.appscard a { display: block; padding: .8rem 1rem; border: 2px solid var(--line); border-radius: .9rem; text-decoration: none; color: inherit; }
+.appscard strong { display: block; }
+.appscard span { color: var(--muted); }

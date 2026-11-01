@@ -1,0 +1,925 @@
+{
+  "date": "2026-11-13",
+  "band": "t3",
+  "versions": [
+    {
+      "at": "2026-11-01T11:18:02.790Z",
+      "reason": null,
+      "forecast": "none",
+      "weather": null,
+      "plans": [
+        {
+          "nap": "nap",
+          "napLabel": "Nap, 1 to 2:30",
+          "headline": "See real trucks up close, then run at the park",
+          "main": {
+            "ref": "event:wake:24648",
+            "arrive": "09:55",
+            "leave": "12:05",
+            "why": "Your 3-year-old meets emergency service workers and sees the special vehicles they use at Touch A Truck from 10 am to 11:30 am. Then it is a run at Wake Forest Kiwanis Park.",
+            "tips": [
+              "Some trucks may be loud, so bring ear covers if your child is sensitive.",
+              "Ask your child to pick a favorite truck and tell you why.",
+              "Bring a snack for the park and say \"one more truck, then the slide\" to leave."
+            ],
+            "interests": [
+              "vehicles",
+              "movement"
+            ],
+            "also": [
+              {
+                "ref": "place:wake-forest-kiwanis-park",
+                "source": {
+                  "kind": "park",
+                  "title": "Wake Forest Kiwanis Park",
+                  "address": "404 E Holding Ave, Wake Forest, NC",
+                  "lat": 35.96949541581039,
+                  "lon": -78.50987455178895,
+                  "url": "https://www.wakeforestnc.gov/parks-recreation-cultural-resources/parks-facilities/kiwanis-park",
+                  "amenities": [
+                    "playground",
+                    "picnic-shelter"
+                  ],
+                  "indoor": false,
+                  "area": "north-raleigh",
+                  "hours": null,
+                  "cost": null
+                }
+              }
+            ],
+            "area": "north-raleigh",
+            "outdoor": true,
+            "source": {
+              "kind": "event",
+              "title": "Touch A Truck!",
+              "start": "2026-11-13T10:00:00-05:00",
+              "end": "2026-11-13T11:30:00-05:00",
+              "venue": "Wake Forest Community Library",
+              "address": "400 E Holding Avenue, Wake Forest, NC",
+              "url": "https://www.wake.gov/events/touch-truck-4",
+              "cost": "Free",
+              "lat": 35.9699502750089,
+              "lon": -78.5102712176725,
+              "ages": "Young Children",
+              "registration": null,
+              "indoor": false,
+              "area": "north-raleigh",
+              "source": "wake-county",
+              "dropIn": false
+            }
+          },
+          "alternatives": [
+            {
+              "ref": "place:gipson-play-plaza",
+              "arrive": "10:30",
+              "leave": "12:00",
+              "why": "Your 3-year-old plays at Gipson Play Plaza first, then joins Little Explorers, a nature program for preschoolers, at 11 am at Dix Park.",
+              "tips": [
+                "Have a snack at the playground so your child is ready at 11 am.",
+                "Tell your child the plan: play first, then explore."
+              ],
+              "interests": [
+                "nature",
+                "movement"
+              ],
+              "also": [
+                {
+                  "ref": "event:dix-park:/event/little-explorers:2026-11-13",
+                  "source": {
+                    "kind": "event",
+                    "title": "Little Explorers",
+                    "start": "2026-11-13T11:00:00",
+                    "end": "2026-11-13T12:00:00",
+                    "venue": "House of Many Porches Market, Dix Park",
+                    "address": "1030 Richardson Dr, Raleigh, NC 27603",
+                    "url": "https://dixpark.org/event/little-explorers",
+                    "cost": null,
+                    "lat": 35.7701,
+                    "lon": -78.6568,
+                    "ages": "Little Explorers Nature program for preschoolers",
+                    "registration": null,
+                    "indoor": false,
+                    "area": "raleigh",
+                    "source": "dix-park",
+                    "dropIn": false
+                  }
+                }
+              ],
+              "area": "raleigh",
+              "outdoor": true,
+              "source": {
+                "kind": "park",
+                "title": "Gipson Play Plaza at Dix Park",
+                "address": "715 Biggs Dr, Raleigh, NC 27603",
+                "lat": 35.7667,
+                "lon": -78.6539,
+                "url": "https://dixpark.org/gipson-play-plaza",
+                "amenities": [
+                  "playground",
+                  "restroom"
+                ],
+                "indoor": false,
+                "area": "raleigh",
+                "hours": {
+                  "sun": "8 a.m.–9 p.m.",
+                  "mon": "8 a.m.–9 p.m.",
+                  "tue": "8 a.m.–9 p.m.",
+                  "wed": "8 a.m.–9 p.m.",
+                  "thu": "8 a.m.–9 p.m.",
+                  "fri": "8 a.m.–9 p.m.",
+                  "sat": "8 a.m.–9 p.m."
+                },
+                "cost": "Free",
+                "note": "Free; free parking. Big destination playground on the south edge of Dix Park."
+              }
+            },
+            {
+              "ref": "event:weekly:mols-early-childhood:2026-11-13",
+              "arrive": "09:30",
+              "leave": "11:30",
+              "why": "Your 3-year-old plays in Hideaway Woods with sensory play, songs and stories at the Early Childhood Drop-In. It is included with museum admission, and you can come and go.",
+              "tips": [
+                "Bring a snack and a change of clothes in case of messy play.",
+                "Leave on a song when your child starts to slow down."
+              ],
+              "interests": [
+                "nature",
+                "music",
+                "stories"
+              ],
+              "also": [],
+              "area": "durham",
+              "outdoor": true,
+              "source": {
+                "kind": "event",
+                "title": "Early Childhood Drop-In",
+                "start": "2026-11-13T09:30:00",
+                "end": "2026-11-13T11:30:00",
+                "venue": "Hideaway Woods, Museum of Life and Science",
+                "address": "433 W Murray Ave, Durham, NC 27704",
+                "url": "https://www.lifeandscience.org/learn/drop-in-programs/",
+                "cost": "Included with museum admission",
+                "lat": 36.0294,
+                "lon": -78.8993,
+                "ages": "young children and their caregivers",
+                "registration": false,
+                "indoor": false,
+                "area": "durham",
+                "source": "weekly",
+                "dropIn": true
+              }
+            },
+            {
+              "ref": "event:wake:24372",
+              "arrive": "10:20",
+              "leave": "11:40",
+              "why": "Your 3-year-old hears books, songs and rhymes at Family Storytime at Eva Perry Library at 10:30 am, then plays at Seagroves Farm Park.",
+              "tips": [
+                "Stop by the Youth Services desk for a ticket when you arrive.",
+                "Bring a snack for the park."
+              ],
+              "interests": [
+                "stories",
+                "music",
+                "movement"
+              ],
+              "also": [
+                {
+                  "ref": "place:seagroves-farm-park",
+                  "source": {
+                    "kind": "park",
+                    "title": "Seagroves Farm Park",
+                    "address": "201 Parkfield Dr., Apex, NC",
+                    "lat": 35.72788436131107,
+                    "lon": -78.82838438475397,
+                    "url": "https://www.apexnc.org/1936/Seagroves-Farm-Park",
+                    "amenities": [
+                      "playground",
+                      "picnic-shelter",
+                      "restroom",
+                      "greenway"
+                    ],
+                    "indoor": false,
+                    "area": "cary-apex",
+                    "hours": null,
+                    "cost": null
+                  }
+                }
+              ],
+              "area": "cary-apex",
+              "outdoor": false,
+              "source": {
+                "kind": "event",
+                "title": "Family Storytime",
+                "start": "2026-11-13T10:30:00-05:00",
+                "end": "2026-11-13T11:00:00-05:00",
+                "venue": "Eva Perry Regional Library",
+                "address": "2100 Shepherds Vineyard Drive, Apex, NC",
+                "url": "https://www.wake.gov/events/family-storytime-4699",
+                "cost": "Free",
+                "lat": 35.7437832024768,
+                "lon": -78.8251607833066,
+                "ages": "Young Children",
+                "registration": null,
+                "indoor": true,
+                "area": "cary-apex",
+                "source": "wake-county",
+                "dropIn": false
+              }
+            }
+          ],
+          "rainBackup": null,
+          "timeline": [
+            {
+              "start": "07:00",
+              "end": "07:30",
+              "kind": "meal",
+              "title": "Up and breakfast"
+            },
+            {
+              "start": "07:30",
+              "end": "09:15",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "09:15",
+              "end": "09:35",
+              "kind": "routine",
+              "title": "Get ready to go",
+              "detail": "Shoes on, diaper bag, water and a snack."
+            },
+            {
+              "start": "09:35",
+              "end": "09:55",
+              "kind": "travel",
+              "title": "Drive to Wake Forest Community Library"
+            },
+            {
+              "start": "09:55",
+              "end": "11:30",
+              "kind": "outing",
+              "title": "Touch A Truck!",
+              "detail": "Pack a lunch to eat there."
+            },
+            {
+              "start": "11:30",
+              "end": "11:40",
+              "kind": "travel",
+              "title": "Drive to Wake Forest Kiwanis Park"
+            },
+            {
+              "start": "11:40",
+              "end": "12:05",
+              "kind": "outing",
+              "title": "Wake Forest Kiwanis Park"
+            },
+            {
+              "start": "12:05",
+              "end": "12:25",
+              "kind": "travel",
+              "title": "Drive home"
+            },
+            {
+              "start": "12:25",
+              "end": "12:45",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "12:45",
+              "end": "13:00",
+              "kind": "quiet",
+              "title": "Wind down",
+              "detail": "A couple of books to settle."
+            },
+            {
+              "start": "13:00",
+              "end": "14:30",
+              "kind": "nap",
+              "title": "Nap"
+            },
+            {
+              "start": "14:30",
+              "end": "14:50",
+              "kind": "routine",
+              "title": "Up and a snack"
+            },
+            {
+              "start": "14:50",
+              "end": "18:30",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "18:30",
+              "end": "19:15",
+              "kind": "meal",
+              "title": "Dinner"
+            },
+            {
+              "start": "19:15",
+              "end": "20:00",
+              "kind": "routine",
+              "title": "Bath, books and bed"
+            }
+          ]
+        },
+        {
+          "nap": "quiet",
+          "napLabel": "Quiet time, no sleep",
+          "headline": "Hear a leaf story, then play at Beech Bluff",
+          "main": {
+            "ref": "event:wake-parks:9361",
+            "arrive": "09:55",
+            "leave": "11:45",
+            "why": "Your 3-year-old joins Budding Sprouts at 10 am to learn about fallen leaves and the garden creatures that live in them. A family needs to sign up. Then play at Beech Bluff County Park.",
+            "tips": [
+              "Sign up before you go.",
+              "Bring a snack for after the program.",
+              "Collect a few leaves on the way out to take home for quiet time."
+            ],
+            "interests": [
+              "nature",
+              "stories",
+              "movement"
+            ],
+            "also": [
+              {
+                "ref": "place:beech-bluff-county-park",
+                "source": {
+                  "kind": "park",
+                  "title": "Beech Bluff County Park",
+                  "address": "Beech Bluff Park Drive, Fuquay-Varina, NC",
+                  "lat": 35.58537279715877,
+                  "lon": -78.6793341971644,
+                  "url": "https://www.wake.gov/departments-government/parks-recreation-open-space/all-parks-trails/beech-bluff-county-park",
+                  "amenities": [
+                    "playground",
+                    "garden",
+                    "greenway",
+                    "restroom",
+                    "picnic-shelter"
+                  ],
+                  "indoor": false,
+                  "area": "south-wake",
+                  "hours": null,
+                  "cost": null
+                }
+              }
+            ],
+            "area": "south-wake",
+            "outdoor": true,
+            "source": {
+              "kind": "event",
+              "title": "Budding Sprouts: Leave the Leaves",
+              "start": "2026-11-13T10:00:00",
+              "end": "2026-11-13T11:00:00",
+              "venue": "Beech Bluff County Park",
+              "address": "Beech Bluff Park Drive, Fuquay-Varina, NC",
+              "url": "https://apm.activecommunities.com/wakeparks/Activity_Search/budding-sprouts-leave-the-leaves/9361?locale=en-US",
+              "cost": "Free",
+              "lat": 35.58537279715877,
+              "lon": -78.6793341971644,
+              "ages": "At least 2 but less than 6",
+              "registration": "https://apm.activecommunities.com/wakeparks/Activity_Search/budding-sprouts-leave-the-leaves/9361?locale=en-US",
+              "indoor": false,
+              "area": "south-wake",
+              "source": "wake-parks",
+              "dropIn": false
+            }
+          },
+          "alternatives": [
+            {
+              "ref": "event:wake:24648",
+              "arrive": "09:55",
+              "leave": "12:05",
+              "why": "Your 3-year-old meets emergency service workers and sees the special vehicles they use at Touch A Truck from 10 am to 11:30 am. Then it is a run at Wake Forest Kiwanis Park.",
+              "tips": [
+                "Some trucks may be loud, so bring ear covers if your child is sensitive.",
+                "Bring a snack for the park."
+              ],
+              "interests": [
+                "vehicles",
+                "movement"
+              ],
+              "also": [
+                {
+                  "ref": "place:wake-forest-kiwanis-park",
+                  "source": {
+                    "kind": "park",
+                    "title": "Wake Forest Kiwanis Park",
+                    "address": "404 E Holding Ave, Wake Forest, NC",
+                    "lat": 35.96949541581039,
+                    "lon": -78.50987455178895,
+                    "url": "https://www.wakeforestnc.gov/parks-recreation-cultural-resources/parks-facilities/kiwanis-park",
+                    "amenities": [
+                      "playground",
+                      "picnic-shelter"
+                    ],
+                    "indoor": false,
+                    "area": "north-raleigh",
+                    "hours": null,
+                    "cost": null
+                  }
+                }
+              ],
+              "area": "north-raleigh",
+              "outdoor": true,
+              "source": {
+                "kind": "event",
+                "title": "Touch A Truck!",
+                "start": "2026-11-13T10:00:00-05:00",
+                "end": "2026-11-13T11:30:00-05:00",
+                "venue": "Wake Forest Community Library",
+                "address": "400 E Holding Avenue, Wake Forest, NC",
+                "url": "https://www.wake.gov/events/touch-truck-4",
+                "cost": "Free",
+                "lat": 35.9699502750089,
+                "lon": -78.5102712176725,
+                "ages": "Young Children",
+                "registration": null,
+                "indoor": false,
+                "area": "north-raleigh",
+                "source": "wake-county",
+                "dropIn": false
+              }
+            },
+            {
+              "ref": "place:gipson-play-plaza",
+              "arrive": "10:30",
+              "leave": "12:00",
+              "why": "Your 3-year-old plays at Gipson Play Plaza first, then joins Little Explorers, a nature program for preschoolers, at 11 am at Dix Park.",
+              "tips": [
+                "Have a snack at the playground so your child is ready at 11 am.",
+                "Plan a quiet lunch at home after."
+              ],
+              "interests": [
+                "nature",
+                "movement"
+              ],
+              "also": [
+                {
+                  "ref": "event:dix-park:/event/little-explorers:2026-11-13",
+                  "source": {
+                    "kind": "event",
+                    "title": "Little Explorers",
+                    "start": "2026-11-13T11:00:00",
+                    "end": "2026-11-13T12:00:00",
+                    "venue": "House of Many Porches Market, Dix Park",
+                    "address": "1030 Richardson Dr, Raleigh, NC 27603",
+                    "url": "https://dixpark.org/event/little-explorers",
+                    "cost": null,
+                    "lat": 35.7701,
+                    "lon": -78.6568,
+                    "ages": "Little Explorers Nature program for preschoolers",
+                    "registration": null,
+                    "indoor": false,
+                    "area": "raleigh",
+                    "source": "dix-park",
+                    "dropIn": false
+                  }
+                }
+              ],
+              "area": "raleigh",
+              "outdoor": true,
+              "source": {
+                "kind": "park",
+                "title": "Gipson Play Plaza at Dix Park",
+                "address": "715 Biggs Dr, Raleigh, NC 27603",
+                "lat": 35.7667,
+                "lon": -78.6539,
+                "url": "https://dixpark.org/gipson-play-plaza",
+                "amenities": [
+                  "playground",
+                  "restroom"
+                ],
+                "indoor": false,
+                "area": "raleigh",
+                "hours": {
+                  "sun": "8 a.m.–9 p.m.",
+                  "mon": "8 a.m.–9 p.m.",
+                  "tue": "8 a.m.–9 p.m.",
+                  "wed": "8 a.m.–9 p.m.",
+                  "thu": "8 a.m.–9 p.m.",
+                  "fri": "8 a.m.–9 p.m.",
+                  "sat": "8 a.m.–9 p.m."
+                },
+                "cost": "Free",
+                "note": "Free; free parking. Big destination playground on the south edge of Dix Park."
+              }
+            },
+            {
+              "ref": "event:weekly:mols-early-childhood:2026-11-13",
+              "arrive": "09:30",
+              "leave": "11:30",
+              "why": "Your 3-year-old plays in Hideaway Woods with sensory play, songs and stories at the Early Childhood Drop-In. It is included with museum admission, and you can come and go.",
+              "tips": [
+                "Bring a snack and a change of clothes in case of messy play.",
+                "Leave on a song when your child starts to slow down."
+              ],
+              "interests": [
+                "nature",
+                "music",
+                "stories"
+              ],
+              "also": [],
+              "area": "durham",
+              "outdoor": true,
+              "source": {
+                "kind": "event",
+                "title": "Early Childhood Drop-In",
+                "start": "2026-11-13T09:30:00",
+                "end": "2026-11-13T11:30:00",
+                "venue": "Hideaway Woods, Museum of Life and Science",
+                "address": "433 W Murray Ave, Durham, NC 27704",
+                "url": "https://www.lifeandscience.org/learn/drop-in-programs/",
+                "cost": "Included with museum admission",
+                "lat": 36.0294,
+                "lon": -78.8993,
+                "ages": "young children and their caregivers",
+                "registration": false,
+                "indoor": false,
+                "area": "durham",
+                "source": "weekly",
+                "dropIn": true
+              }
+            }
+          ],
+          "rainBackup": null,
+          "timeline": [
+            {
+              "start": "07:00",
+              "end": "07:30",
+              "kind": "meal",
+              "title": "Up and breakfast"
+            },
+            {
+              "start": "07:30",
+              "end": "09:15",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "09:15",
+              "end": "09:35",
+              "kind": "routine",
+              "title": "Get ready to go",
+              "detail": "Shoes on, diaper bag, water and a snack."
+            },
+            {
+              "start": "09:35",
+              "end": "09:55",
+              "kind": "travel",
+              "title": "Drive to Beech Bluff County Park"
+            },
+            {
+              "start": "09:55",
+              "end": "11:00",
+              "kind": "outing",
+              "title": "Budding Sprouts: Leave the Leaves"
+            },
+            {
+              "start": "11:00",
+              "end": "11:10",
+              "kind": "travel",
+              "title": "Drive to Beech Bluff County Park"
+            },
+            {
+              "start": "11:10",
+              "end": "11:45",
+              "kind": "outing",
+              "title": "Beech Bluff County Park"
+            },
+            {
+              "start": "11:45",
+              "end": "12:05",
+              "kind": "travel",
+              "title": "Drive home"
+            },
+            {
+              "start": "12:05",
+              "end": "12:35",
+              "kind": "meal",
+              "title": "Lunch"
+            },
+            {
+              "start": "12:35",
+              "end": "13:00",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "13:00",
+              "end": "13:45",
+              "kind": "quiet",
+              "title": "Quiet time",
+              "detail": "Books or quiet play in their room."
+            },
+            {
+              "start": "13:45",
+              "end": "18:00",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "18:00",
+              "end": "18:45",
+              "kind": "meal",
+              "title": "Dinner"
+            },
+            {
+              "start": "18:45",
+              "end": "19:30",
+              "kind": "routine",
+              "title": "Bath, books and bed"
+            }
+          ]
+        },
+        {
+          "nap": "no-nap",
+          "napLabel": "No nap",
+          "headline": "Wander garden paths and forest trails",
+          "main": {
+            "ref": "place:nc-botanical-garden",
+            "arrive": "10:00",
+            "leave": "12:00",
+            "why": "Your 3-year-old wanders the display gardens, then follows the nature trails into the forest behind them. Entry is free.",
+            "tips": [
+              "Let your child pick which path to take at each turn.",
+              "Bring a snack for a trail break.",
+              "Make it a game to find a leaf, a stick and a rock."
+            ],
+            "interests": [
+              "nature",
+              "movement"
+            ],
+            "also": [],
+            "area": "chapel-hill",
+            "outdoor": true,
+            "source": {
+              "kind": "garden",
+              "title": "NC Botanical Garden",
+              "address": "100 Old Mason Farm Rd, Chapel Hill, NC 27517",
+              "lat": 35.9011,
+              "lon": -79.0319,
+              "url": "https://ncbg.unc.edu/visit/",
+              "amenities": [
+                "garden",
+                "nature",
+                "restroom"
+              ],
+              "indoor": false,
+              "area": "chapel-hill",
+              "cost": "Free",
+              "note": "Free. Display gardens, and nature trails through the forest behind them."
+            }
+          },
+          "alternatives": [
+            {
+              "ref": "event:museum:nc-natural-sciences:123921",
+              "arrive": "10:35",
+              "leave": "11:50",
+              "why": "Your 3-year-old watches the Live Animal Feeding of the Ocean Habitat at the Museum of Natural Sciences at 10:45 am. Then burn off energy at Fred Fletcher Park.",
+              "tips": [
+                "The feeding is short, so be there a few minutes early.",
+                "Bring a snack for the park."
+              ],
+              "interests": [
+                "animals",
+                "water",
+                "movement"
+              ],
+              "also": [
+                {
+                  "ref": "place:fred-fletcher-park",
+                  "source": {
+                    "kind": "park",
+                    "title": "Fred Fletcher Park",
+                    "address": "820 Clay Street, Raleigh, NC 27605",
+                    "lat": 35.79264,
+                    "lon": -78.64957,
+                    "url": "https://raleighnc.gov/parks-and-recreation/places/fred-fletcher-park",
+                    "amenities": [
+                      "garden",
+                      "picnic-shelter",
+                      "courts",
+                      "fields",
+                      "playground"
+                    ],
+                    "indoor": false,
+                    "area": "raleigh",
+                    "hours": null,
+                    "cost": null
+                  }
+                }
+              ],
+              "area": "raleigh",
+              "outdoor": false,
+              "source": {
+                "kind": "event",
+                "title": "Live Animal Feeding – Ocean Habitat",
+                "start": "2026-11-13T10:45:00",
+                "end": "2026-11-13T11:00:00",
+                "venue": "NC Museum of Natural Sciences",
+                "address": "11 West Jones Street, Raleigh, NC, 27601",
+                "url": "https://www.naturalsciences.org/calendar/event/live-animal-feeding-ocean-habitat-5/2026-11-13/",
+                "cost": null,
+                "lat": 35.7822735,
+                "lon": -78.6395502,
+                "ages": "Adults All Ages Children Live Animals Teens Walk-up Programs",
+                "registration": false,
+                "indoor": true,
+                "area": "raleigh",
+                "source": "museum",
+                "dropIn": false
+              }
+            },
+            {
+              "ref": "event:wake:21778",
+              "arrive": "10:05",
+              "leave": "11:30",
+              "why": "Your 3-year-old stretches and moves with yoga stories and music at Family Yoga Time at East Regional Library at 10:15 am, then plays at Knightdale Station Park.",
+              "tips": [
+                "Wear clothes that are easy to move in.",
+                "Bring a snack for after the park."
+              ],
+              "interests": [
+                "movement",
+                "music",
+                "stories"
+              ],
+              "also": [
+                {
+                  "ref": "place:knightdale-station-park",
+                  "source": {
+                    "kind": "park",
+                    "title": "Knightdale Station Park",
+                    "address": "810 North First Avenue, Knightdale, NC",
+                    "lat": 35.795776739559024,
+                    "lon": -78.47584503817626,
+                    "url": "https://www.knightdalenc.gov/knightdalestationpark",
+                    "amenities": [
+                      "playground",
+                      "picnic-shelter",
+                      "greenway"
+                    ],
+                    "indoor": false,
+                    "area": "east-wake",
+                    "hours": null,
+                    "cost": null
+                  }
+                }
+              ],
+              "area": "east-wake",
+              "outdoor": false,
+              "source": {
+                "kind": "event",
+                "title": "Special Event for Young Children: Family Yoga Time",
+                "start": "2026-11-13T10:15:00-05:00",
+                "end": "2026-11-13T10:45:00-05:00",
+                "venue": "East Regional Library",
+                "address": "946 Steeple Square Court, Knightdale, NC",
+                "url": "https://www.wake.gov/events/special-event-young-children-family-yoga-time-1",
+                "cost": "Free",
+                "lat": 35.8028243321954,
+                "lon": -78.487155767495,
+                "ages": "Young Children",
+                "registration": null,
+                "indoor": true,
+                "area": "east-wake",
+                "source": "wake-county",
+                "dropIn": false
+              }
+            },
+            {
+              "ref": "event:wake:24648",
+              "arrive": "09:55",
+              "leave": "12:05",
+              "why": "Your 3-year-old meets emergency service workers and sees the special vehicles they use at Touch A Truck from 10 am to 11:30 am. Then it is a run at Wake Forest Kiwanis Park.",
+              "tips": [
+                "Some trucks may be loud, so bring ear covers if your child is sensitive.",
+                "Bring a snack for the park."
+              ],
+              "interests": [
+                "vehicles",
+                "movement"
+              ],
+              "also": [
+                {
+                  "ref": "place:wake-forest-kiwanis-park",
+                  "source": {
+                    "kind": "park",
+                    "title": "Wake Forest Kiwanis Park",
+                    "address": "404 E Holding Ave, Wake Forest, NC",
+                    "lat": 35.96949541581039,
+                    "lon": -78.50987455178895,
+                    "url": "https://www.wakeforestnc.gov/parks-recreation-cultural-resources/parks-facilities/kiwanis-park",
+                    "amenities": [
+                      "playground",
+                      "picnic-shelter"
+                    ],
+                    "indoor": false,
+                    "area": "north-raleigh",
+                    "hours": null,
+                    "cost": null
+                  }
+                }
+              ],
+              "area": "north-raleigh",
+              "outdoor": true,
+              "source": {
+                "kind": "event",
+                "title": "Touch A Truck!",
+                "start": "2026-11-13T10:00:00-05:00",
+                "end": "2026-11-13T11:30:00-05:00",
+                "venue": "Wake Forest Community Library",
+                "address": "400 E Holding Avenue, Wake Forest, NC",
+                "url": "https://www.wake.gov/events/touch-truck-4",
+                "cost": "Free",
+                "lat": 35.9699502750089,
+                "lon": -78.5102712176725,
+                "ages": "Young Children",
+                "registration": null,
+                "indoor": false,
+                "area": "north-raleigh",
+                "source": "wake-county",
+                "dropIn": false
+              }
+            }
+          ],
+          "rainBackup": null,
+          "timeline": [
+            {
+              "start": "07:00",
+              "end": "07:30",
+              "kind": "meal",
+              "title": "Up and breakfast"
+            },
+            {
+              "start": "07:30",
+              "end": "09:20",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "09:20",
+              "end": "09:40",
+              "kind": "routine",
+              "title": "Get ready to go",
+              "detail": "Shoes on, diaper bag, water and a snack."
+            },
+            {
+              "start": "09:40",
+              "end": "10:00",
+              "kind": "travel",
+              "title": "Drive to NC Botanical Garden"
+            },
+            {
+              "start": "10:00",
+              "end": "12:00",
+              "kind": "outing",
+              "title": "NC Botanical Garden"
+            },
+            {
+              "start": "12:00",
+              "end": "12:20",
+              "kind": "travel",
+              "title": "Drive home"
+            },
+            {
+              "start": "12:20",
+              "end": "12:50",
+              "kind": "meal",
+              "title": "Lunch"
+            },
+            {
+              "start": "12:50",
+              "end": "18:00",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "18:00",
+              "end": "18:45",
+              "kind": "meal",
+              "title": "Dinner"
+            },
+            {
+              "start": "18:45",
+              "end": "19:30",
+              "kind": "routine",
+              "title": "Bath, books and bed"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "checked": {
+    "at": "2026-11-01T11:18:02.790Z",
+    "forecast": "none",
+    "weather": null,
+    "hidden": []
+  }
+}

@@ -1,0 +1,90 @@
+{
+  "builtAt": "2026-11-01T11:23:52.652Z",
+  "today": "2026-11-01",
+  "plannedDays": 14,
+  "horizonDays": 14,
+  "lastDay": "2026-11-14",
+  "audit": {
+    "hard": 112,
+    "soft": 409,
+    "rules": {
+      "drop-in-with-sign-up": {
+        "hard": true,
+        "main": 7,
+        "other": 37
+      },
+      "no-location": {
+        "hard": true,
+        "main": 4,
+        "other": 16
+      },
+      "after-dark": {
+        "hard": true,
+        "main": 3,
+        "other": 15
+      },
+      "no-dinner": {
+        "hard": true,
+        "main": 3,
+        "other": 0
+      },
+      "too-old": {
+        "hard": true,
+        "main": 2,
+        "other": 16
+      },
+      "closed": {
+        "hard": true,
+        "main": 1,
+        "other": 1
+      },
+      "too-young": {
+        "hard": true,
+        "main": 1,
+        "other": 6
+      },
+      "weather-in-copy": {
+        "hard": false,
+        "main": 38,
+        "other": 105
+      },
+      "long-stay": {
+        "hard": false,
+        "main": 29,
+        "other": 67
+      },
+      "tight-nap": {
+        "hard": false,
+        "main": 14,
+        "other": 48
+      },
+      "unbacked-claim": {
+        "hard": false,
+        "main": 12,
+        "other": 44
+      },
+      "late-home": {
+        "hard": false,
+        "main": 3,
+        "other": 19
+      },
+      "drive-time": {
+        "hard": false,
+        "main": 2,
+        "other": 0
+      },
+      "early-start": {
+        "hard": false,
+        "main": 1,
+        "other": 14
+      },
+      "false-sign-up": {
+        "hard": false,
+        "main": 0,
+        "other": 13
+      }
+    }
+  },
+  "guides": 12,
+  "guidesFailed": []
+}

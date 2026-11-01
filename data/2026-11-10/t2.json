@@ -1,0 +1,986 @@
+{
+  "date": "2026-11-10",
+  "band": "t2",
+  "versions": [
+    {
+      "at": "2026-10-28T05:29:44.207Z",
+      "reason": null,
+      "forecast": "none",
+      "weather": null,
+      "plans": [
+        {
+          "nap": "early-nap",
+          "napLabel": "One nap, 12 to 2",
+          "headline": "Rock Quarry Park and Total Tot Time at Edison Johnson Rec Ctr",
+          "main": {
+            "ref": "place:rock-quarry-park",
+            "also": [
+              {
+                "ref": "event:durham-rec:19599:2026-11-10",
+                "source": {
+                  "kind": "event",
+                  "title": "Total Tot Time",
+                  "start": "2026-11-10T10:00:00",
+                  "end": "2026-11-10T12:00:00",
+                  "venue": "Edison Johnson Rec Ctr",
+                  "address": "W Murray Ave, Durham, NC",
+                  "url": "https://apm.activecommunities.com/dprplaymore/Activity_Search/total-tot-time/19599?locale=en-US",
+                  "cost": null,
+                  "ages": "0 - 6",
+                  "registration": "https://apm.activecommunities.com/dprplaymore/Activity_Search/total-tot-time/19599?locale=en-US",
+                  "indoor": true,
+                  "area": "durham",
+                  "source": "durham-rec",
+                  "dropIn": false,
+                  "lat": 36.0299,
+                  "lon": -78.9011
+                }
+              }
+            ],
+            "arrive": "09:30",
+            "leave": "11:10",
+            "why": "A playground run at Rock Quarry Park leads into Total Tot Time at Edison Johnson Rec Ctr, where gym play, a parachute and tunnels give a two-year-old a full social morning.",
+            "tips": [
+              "Registration is required for Total Tot Time; book your spot before the day.",
+              "Arrive at Rock Quarry Park by 09:30 so your child has a good run before the gym session begins at 10:00.",
+              "Plan to leave by 11:10 so there is a relaxed stretch for lunch before the noon nap."
+            ],
+            "interests": [
+              "movement",
+              "science"
+            ],
+            "area": "durham",
+            "outdoor": false,
+            "source": {
+              "kind": "park",
+              "title": "Rock Quarry Park",
+              "address": "701 Stadium Dr, Durham, NC",
+              "url": "https://www.dprplaymore.org/Facilities/Facility/Details/Rock-Quarry-Park-60",
+              "amenities": [
+                "playground",
+                "splashpad",
+                "restroom",
+                "greenway"
+              ],
+              "indoor": false,
+              "area": "durham",
+              "hours": null,
+              "lat": 36.03166363636364,
+              "lon": -78.90176545454545,
+              "cost": null
+            }
+          },
+          "alternatives": [
+            {
+              "ref": "place:harris-lake-county-park",
+              "arrive": "09:00",
+              "leave": "11:00",
+              "why": "Harris Lake County Park wraps a big reservoir with trails and a playground — a lovely Tuesday morning of water-watching and outdoor wandering for a curious two-year-old.",
+              "tips": [
+                "Arrive at 09:00 for the calmest trails and the best chance of spotting birds at the water's edge.",
+                "The playground and the lakeside trail are close enough to combine without a long walk.",
+                "Pack a snack and water bottle for a mid-visit break."
+              ],
+              "interests": [
+                "nature",
+                "water"
+              ],
+              "also": [],
+              "area": "south-wake",
+              "outdoor": true,
+              "source": {
+                "kind": "park",
+                "title": "Harris Lake County Park",
+                "address": "2112 County Park Dr., New Hill, NC  27562",
+                "url": "https://www.wakegov.com/departments-government/parks-recreation-and-open-space/all-parks-trails/harris-lake-county-park",
+                "amenities": [
+                  "playground",
+                  "picnic-shelter",
+                  "restroom",
+                  "greenway",
+                  "nature"
+                ],
+                "indoor": false,
+                "area": "south-wake",
+                "hours": null,
+                "lat": 35.63024208800726,
+                "lon": -78.91757987745865,
+                "cost": null
+              }
+            },
+            {
+              "ref": "place:blue-jay-point-county-park",
+              "arrive": "09:00",
+              "leave": "11:00",
+              "why": "Blue Jay Point County Park has woodland trails and wide lake views above Falls Lake — a beautiful Tuesday morning of nature walking and open space.",
+              "tips": [
+                "Closed-toe shoes are worth putting on for the uneven woodland paths.",
+                "Arrive early for the quietest trails and the best light over the water.",
+                "Pack a snack for a bench break mid-walk."
+              ],
+              "interests": [
+                "nature",
+                "water",
+                "movement"
+              ],
+              "also": [],
+              "area": "north-raleigh",
+              "outdoor": true,
+              "source": {
+                "kind": "park",
+                "title": "Blue Jay Point County Park",
+                "address": "3200 Pleasant Union Church Road, Raleigh, NC 27614",
+                "url": "https://www.wakegov.com/departments-government/parks-recreation-and-open-space/all-parks-trails/blue-jay-point-county-park",
+                "amenities": [
+                  "playground",
+                  "picnic-shelter",
+                  "restroom",
+                  "greenway",
+                  "nature"
+                ],
+                "indoor": false,
+                "area": "north-raleigh",
+                "hours": null,
+                "lat": 35.96762827199893,
+                "lon": -78.64454785104198,
+                "cost": null
+              }
+            },
+            {
+              "ref": "place:knightdale-station-park",
+              "also": [
+                {
+                  "ref": "event:wake:21673",
+                  "source": {
+                    "kind": "event",
+                    "title": "Toddler Storytime",
+                    "start": "2026-11-10T10:15:00-05:00",
+                    "end": "2026-11-10T10:45:00-05:00",
+                    "venue": "East Regional Library",
+                    "address": "946 Steeple Square Court, Knightdale, NC",
+                    "url": "https://www.wake.gov/events/toddler-storytime-972",
+                    "cost": "Free",
+                    "ages": "Young Children",
+                    "registration": null,
+                    "indoor": true,
+                    "area": "east-wake",
+                    "source": "wake-county",
+                    "dropIn": false,
+                    "lat": 35.8028243321954,
+                    "lon": -78.487155767495
+                  }
+                }
+              ],
+              "arrive": "09:45",
+              "leave": "10:45",
+              "why": "A good run at Knightdale Station Park leads into Toddler Storytime at East Regional Library — books, music and movement to round out the morning in east Wake.",
+              "tips": [
+                "Arrive at the park by 09:45 for a 20-minute run before heading to the library.",
+                "No registration needed for the storytime.",
+                "The park has a picnic shelter for a snack stop on the way back to the car."
+              ],
+              "interests": [
+                "stories",
+                "movement"
+              ],
+              "area": "east-wake",
+              "outdoor": false,
+              "source": {
+                "kind": "park",
+                "title": "Knightdale Station Park",
+                "address": "810 North First Avenue, Knightdale, NC",
+                "url": "https://www.knightdalenc.gov/knightdalestationpark",
+                "amenities": [
+                  "playground",
+                  "picnic-shelter",
+                  "greenway"
+                ],
+                "indoor": false,
+                "area": "east-wake",
+                "hours": null,
+                "lat": 35.795776739559024,
+                "lon": -78.47584503817626,
+                "cost": null
+              }
+            },
+            {
+              "ref": "place:apex-community-park",
+              "arrive": "09:00",
+              "leave": "11:00",
+              "why": "Apex Community Park has a playground, picnic shelter and a greenway trail — a simple, pleasant Tuesday morning of outdoor play in Cary.",
+              "tips": [
+                "The greenway trail from the park is stroller-friendly.",
+                "Pack a snack and water for a bench stop partway through.",
+                "Leave when energy starts to flag so there is plenty left for lunch."
+              ],
+              "interests": [
+                "nature",
+                "movement"
+              ],
+              "also": [],
+              "area": "cary-apex",
+              "outdoor": true,
+              "source": {
+                "kind": "park",
+                "title": "Apex Community Park",
+                "address": "2200 Laura Duncan Rd., Apex, NC",
+                "url": "http://www.apexnc.org/795/Apex-Community-Park",
+                "amenities": [
+                  "playground",
+                  "picnic-shelter",
+                  "restroom",
+                  "greenway"
+                ],
+                "indoor": false,
+                "area": "cary-apex",
+                "hours": null,
+                "lat": 35.75461588131496,
+                "lon": -78.82862025650613,
+                "cost": null
+              }
+            }
+          ],
+          "rainBackup": null,
+          "timeline": [
+            {
+              "start": "07:00",
+              "end": "07:30",
+              "kind": "meal",
+              "title": "Up and breakfast"
+            },
+            {
+              "start": "07:30",
+              "end": "08:50",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "08:50",
+              "end": "09:10",
+              "kind": "routine",
+              "title": "Get ready to go",
+              "detail": "Shoes on, diaper bag, water and a snack."
+            },
+            {
+              "start": "09:10",
+              "end": "09:30",
+              "kind": "travel",
+              "title": "Drive to Rock Quarry Park"
+            },
+            {
+              "start": "09:30",
+              "end": "09:50",
+              "kind": "outing",
+              "title": "Rock Quarry Park"
+            },
+            {
+              "start": "09:50",
+              "end": "10:00",
+              "kind": "travel",
+              "title": "Drive to Edison Johnson Rec Ctr"
+            },
+            {
+              "start": "10:00",
+              "end": "11:10",
+              "kind": "outing",
+              "title": "Total Tot Time"
+            },
+            {
+              "start": "11:10",
+              "end": "11:30",
+              "kind": "travel",
+              "title": "Drive home"
+            },
+            {
+              "start": "11:30",
+              "end": "12:00",
+              "kind": "meal",
+              "title": "Lunch"
+            },
+            {
+              "start": "12:00",
+              "end": "14:00",
+              "kind": "nap",
+              "title": "Nap"
+            },
+            {
+              "start": "14:00",
+              "end": "14:20",
+              "kind": "routine",
+              "title": "Up and a snack"
+            },
+            {
+              "start": "14:20",
+              "end": "18:00",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "18:00",
+              "end": "18:45",
+              "kind": "meal",
+              "title": "Dinner"
+            },
+            {
+              "start": "18:45",
+              "end": "19:30",
+              "kind": "routine",
+              "title": "Bath, books and bed"
+            }
+          ]
+        },
+        {
+          "nap": "late-nap",
+          "napLabel": "One nap, 1 to 3",
+          "headline": "Harris Lake County Park morning",
+          "main": {
+            "ref": "place:harris-lake-county-park",
+            "arrive": "09:00",
+            "leave": "11:00",
+            "why": "Harris Lake County Park wraps a large reservoir with trails, a playground and wide open nature spaces — a lovely Tuesday morning for a two-year-old to watch the water and roam at their own pace.",
+            "tips": [
+              "Arrive at 09:00 for the calmest trails and the best chance of spotting birds at the water's edge.",
+              "The playground and the lakeside trail are close together, so you can do both without a long walk.",
+              "Pack a snack and water bottle; a park this size rewards a mid-visit break on a bench."
+            ],
+            "interests": [
+              "nature",
+              "water"
+            ],
+            "also": [],
+            "area": "south-wake",
+            "outdoor": true,
+            "source": {
+              "kind": "park",
+              "title": "Harris Lake County Park",
+              "address": "2112 County Park Dr., New Hill, NC  27562",
+              "url": "https://www.wakegov.com/departments-government/parks-recreation-and-open-space/all-parks-trails/harris-lake-county-park",
+              "amenities": [
+                "playground",
+                "picnic-shelter",
+                "restroom",
+                "greenway",
+                "nature"
+              ],
+              "indoor": false,
+              "area": "south-wake",
+              "hours": null,
+              "lat": 35.63024208800726,
+              "lon": -78.91757987745865,
+              "cost": null
+            }
+          },
+          "alternatives": [
+            {
+              "ref": "place:rock-quarry-park",
+              "also": [
+                {
+                  "ref": "event:durham-rec:19599:2026-11-10",
+                  "source": {
+                    "kind": "event",
+                    "title": "Total Tot Time",
+                    "start": "2026-11-10T10:00:00",
+                    "end": "2026-11-10T12:00:00",
+                    "venue": "Edison Johnson Rec Ctr",
+                    "address": "W Murray Ave, Durham, NC",
+                    "url": "https://apm.activecommunities.com/dprplaymore/Activity_Search/total-tot-time/19599?locale=en-US",
+                    "cost": null,
+                    "ages": "0 - 6",
+                    "registration": "https://apm.activecommunities.com/dprplaymore/Activity_Search/total-tot-time/19599?locale=en-US",
+                    "indoor": true,
+                    "area": "durham",
+                    "source": "durham-rec",
+                    "dropIn": false,
+                    "lat": 36.0299,
+                    "lon": -78.9011
+                  }
+                }
+              ],
+              "arrive": "09:30",
+              "leave": "12:00",
+              "why": "A playground run at Rock Quarry Park leads into Total Tot Time at Edison Johnson Rec Ctr, where gym play, a parachute and tunnels give a two-year-old a full social morning in Durham.",
+              "tips": [
+                "Registration is required for Total Tot Time; book ahead.",
+                "Arrive at the park by 09:30 for a good run before the gym session begins at 10:00.",
+                "You have the full morning window before the drive home for the nap."
+              ],
+              "interests": [
+                "movement",
+                "science"
+              ],
+              "area": "durham",
+              "outdoor": false,
+              "source": {
+                "kind": "park",
+                "title": "Rock Quarry Park",
+                "address": "701 Stadium Dr, Durham, NC",
+                "url": "https://www.dprplaymore.org/Facilities/Facility/Details/Rock-Quarry-Park-60",
+                "amenities": [
+                  "playground",
+                  "splashpad",
+                  "restroom",
+                  "greenway"
+                ],
+                "indoor": false,
+                "area": "durham",
+                "hours": null,
+                "lat": 36.03166363636364,
+                "lon": -78.90176545454545,
+                "cost": null
+              }
+            },
+            {
+              "ref": "place:blue-jay-point-county-park",
+              "arrive": "09:00",
+              "leave": "11:00",
+              "why": "Blue Jay Point County Park sits above Falls Lake with woodland trails, a playground and open lake views — a beautiful nature morning for a curious two-year-old.",
+              "tips": [
+                "Closed-toe shoes for the uneven woodland paths.",
+                "Arrive early for the quietest stretch of the morning.",
+                "Pack a snack and water for a mid-walk break."
+              ],
+              "interests": [
+                "nature",
+                "water",
+                "movement"
+              ],
+              "also": [],
+              "area": "north-raleigh",
+              "outdoor": true,
+              "source": {
+                "kind": "park",
+                "title": "Blue Jay Point County Park",
+                "address": "3200 Pleasant Union Church Road, Raleigh, NC 27614",
+                "url": "https://www.wakegov.com/departments-government/parks-recreation-and-open-space/all-parks-trails/blue-jay-point-county-park",
+                "amenities": [
+                  "playground",
+                  "picnic-shelter",
+                  "restroom",
+                  "greenway",
+                  "nature"
+                ],
+                "indoor": false,
+                "area": "north-raleigh",
+                "hours": null,
+                "lat": 35.96762827199893,
+                "lon": -78.64454785104198,
+                "cost": null
+              }
+            },
+            {
+              "ref": "place:knightdale-station-park",
+              "also": [
+                {
+                  "ref": "event:wake:21673",
+                  "source": {
+                    "kind": "event",
+                    "title": "Toddler Storytime",
+                    "start": "2026-11-10T10:15:00-05:00",
+                    "end": "2026-11-10T10:45:00-05:00",
+                    "venue": "East Regional Library",
+                    "address": "946 Steeple Square Court, Knightdale, NC",
+                    "url": "https://www.wake.gov/events/toddler-storytime-972",
+                    "cost": "Free",
+                    "ages": "Young Children",
+                    "registration": null,
+                    "indoor": true,
+                    "area": "east-wake",
+                    "source": "wake-county",
+                    "dropIn": false,
+                    "lat": 35.8028243321954,
+                    "lon": -78.487155767495
+                  }
+                }
+              ],
+              "arrive": "09:45",
+              "leave": "10:45",
+              "why": "A run at Knightdale Station Park leads into Toddler Storytime at East Regional Library for books, music and movement in east Wake on a Tuesday morning.",
+              "tips": [
+                "Arrive at the park by 09:45 for a good run before heading to the library.",
+                "No registration needed.",
+                "The park has a picnic shelter for a snack on the way back."
+              ],
+              "interests": [
+                "stories",
+                "movement"
+              ],
+              "area": "east-wake",
+              "outdoor": false,
+              "source": {
+                "kind": "park",
+                "title": "Knightdale Station Park",
+                "address": "810 North First Avenue, Knightdale, NC",
+                "url": "https://www.knightdalenc.gov/knightdalestationpark",
+                "amenities": [
+                  "playground",
+                  "picnic-shelter",
+                  "greenway"
+                ],
+                "indoor": false,
+                "area": "east-wake",
+                "hours": null,
+                "lat": 35.795776739559024,
+                "lon": -78.47584503817626,
+                "cost": null
+              }
+            },
+            {
+              "ref": "place:white-deer-park",
+              "arrive": "09:00",
+              "leave": "11:00",
+              "why": "White Deer Park has nature trails, a playground and greenway paths through a pretty stretch of south-Wake woodland — a quiet Tuesday morning for a two-year-old.",
+              "tips": [
+                "The greenway and nature trails are stroller-friendly throughout.",
+                "Arrive early for the quietest paths.",
+                "Pack a snack and water bottle."
+              ],
+              "interests": [
+                "nature",
+                "movement"
+              ],
+              "also": [],
+              "area": "south-wake",
+              "outdoor": true,
+              "source": {
+                "kind": "park",
+                "title": "White Deer Park",
+                "address": "2400 Aversboro Road, Garner NC, 27529",
+                "url": "https://www.garnernc.gov/departments/parks-recreation-and-cultural-resources/garner-parks/white-deer-park",
+                "amenities": [
+                  "playground",
+                  "picnic-shelter",
+                  "restroom",
+                  "greenway",
+                  "nature"
+                ],
+                "indoor": false,
+                "area": "south-wake",
+                "hours": null,
+                "lat": 35.67703339814751,
+                "lon": -78.62516412154841,
+                "cost": null
+              }
+            }
+          ],
+          "rainBackup": null,
+          "timeline": [
+            {
+              "start": "07:00",
+              "end": "07:30",
+              "kind": "meal",
+              "title": "Up and breakfast"
+            },
+            {
+              "start": "07:30",
+              "end": "08:20",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "08:20",
+              "end": "08:40",
+              "kind": "routine",
+              "title": "Get ready to go",
+              "detail": "Shoes on, diaper bag, water and a snack."
+            },
+            {
+              "start": "08:40",
+              "end": "09:00",
+              "kind": "travel",
+              "title": "Drive to Harris Lake County Park"
+            },
+            {
+              "start": "09:00",
+              "end": "11:00",
+              "kind": "outing",
+              "title": "Harris Lake County Park"
+            },
+            {
+              "start": "11:00",
+              "end": "11:20",
+              "kind": "travel",
+              "title": "Drive home"
+            },
+            {
+              "start": "11:20",
+              "end": "12:15",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "12:15",
+              "end": "12:45",
+              "kind": "meal",
+              "title": "Lunch"
+            },
+            {
+              "start": "12:45",
+              "end": "13:00",
+              "kind": "quiet",
+              "title": "Wind down",
+              "detail": "A couple of books to settle."
+            },
+            {
+              "start": "13:00",
+              "end": "15:00",
+              "kind": "nap",
+              "title": "Nap"
+            },
+            {
+              "start": "15:00",
+              "end": "15:20",
+              "kind": "routine",
+              "title": "Up and a snack"
+            },
+            {
+              "start": "15:20",
+              "end": "18:30",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "18:30",
+              "end": "19:15",
+              "kind": "meal",
+              "title": "Dinner"
+            },
+            {
+              "start": "19:15",
+              "end": "20:00",
+              "kind": "routine",
+              "title": "Bath, books and bed"
+            }
+          ]
+        },
+        {
+          "nap": "short-nap",
+          "napLabel": "Short nap, 1 to 2",
+          "headline": "Blue Jay Point County Park morning",
+          "main": {
+            "ref": "place:blue-jay-point-county-park",
+            "arrive": "09:00",
+            "leave": "11:00",
+            "why": "Blue Jay Point County Park sits above Falls Lake with woodland trails, a playground and wide lake views — a beautiful Tuesday morning for a two-year-old to explore and take in the open water.",
+            "tips": [
+              "Arrive at 09:00 for the quietest trails and the best light over the lake.",
+              "Some paths are uneven; closed-toe shoes and a light layer are the right kit.",
+              "Pack a snack and water; a mid-walk bench stop is welcome at a park this size."
+            ],
+            "interests": [
+              "nature",
+              "water",
+              "movement"
+            ],
+            "also": [],
+            "area": "north-raleigh",
+            "outdoor": true,
+            "source": {
+              "kind": "park",
+              "title": "Blue Jay Point County Park",
+              "address": "3200 Pleasant Union Church Road, Raleigh, NC 27614",
+              "url": "https://www.wakegov.com/departments-government/parks-recreation-and-open-space/all-parks-trails/blue-jay-point-county-park",
+              "amenities": [
+                "playground",
+                "picnic-shelter",
+                "restroom",
+                "greenway",
+                "nature"
+              ],
+              "indoor": false,
+              "area": "north-raleigh",
+              "hours": null,
+              "lat": 35.96762827199893,
+              "lon": -78.64454785104198,
+              "cost": null
+            }
+          },
+          "alternatives": [
+            {
+              "ref": "place:rock-quarry-park",
+              "also": [
+                {
+                  "ref": "event:durham-rec:19599:2026-11-10",
+                  "source": {
+                    "kind": "event",
+                    "title": "Total Tot Time",
+                    "start": "2026-11-10T10:00:00",
+                    "end": "2026-11-10T12:00:00",
+                    "venue": "Edison Johnson Rec Ctr",
+                    "address": "W Murray Ave, Durham, NC",
+                    "url": "https://apm.activecommunities.com/dprplaymore/Activity_Search/total-tot-time/19599?locale=en-US",
+                    "cost": null,
+                    "ages": "0 - 6",
+                    "registration": "https://apm.activecommunities.com/dprplaymore/Activity_Search/total-tot-time/19599?locale=en-US",
+                    "indoor": true,
+                    "area": "durham",
+                    "source": "durham-rec",
+                    "dropIn": false,
+                    "lat": 36.0299,
+                    "lon": -78.9011
+                  }
+                }
+              ],
+              "arrive": "09:30",
+              "leave": "12:00",
+              "why": "A playground run at Rock Quarry Park leads into Total Tot Time at Edison Johnson Rec Ctr — gym play, parachute and tunnels for a full social morning in Durham.",
+              "tips": [
+                "Registration is required for Total Tot Time; book ahead.",
+                "Arrive at the park by 09:30 for a run before the session starts at 10:00.",
+                "The full morning fits comfortably before the drive home for the 13:00 nap."
+              ],
+              "interests": [
+                "movement",
+                "science"
+              ],
+              "area": "durham",
+              "outdoor": false,
+              "source": {
+                "kind": "park",
+                "title": "Rock Quarry Park",
+                "address": "701 Stadium Dr, Durham, NC",
+                "url": "https://www.dprplaymore.org/Facilities/Facility/Details/Rock-Quarry-Park-60",
+                "amenities": [
+                  "playground",
+                  "splashpad",
+                  "restroom",
+                  "greenway"
+                ],
+                "indoor": false,
+                "area": "durham",
+                "hours": null,
+                "lat": 36.03166363636364,
+                "lon": -78.90176545454545,
+                "cost": null
+              }
+            },
+            {
+              "ref": "place:harris-lake-county-park",
+              "arrive": "09:00",
+              "leave": "11:00",
+              "why": "Harris Lake County Park has a big reservoir, trails and a playground — a lovely nature morning of water-watching and outdoor roaming for a curious two-year-old.",
+              "tips": [
+                "Arrive at 09:00 for the calmest trails and the best bird-spotting at the shore.",
+                "Mix the playground and the lake trail — both are close together.",
+                "Pack a snack and water bottle for a mid-visit break."
+              ],
+              "interests": [
+                "nature",
+                "water"
+              ],
+              "also": [],
+              "area": "south-wake",
+              "outdoor": true,
+              "source": {
+                "kind": "park",
+                "title": "Harris Lake County Park",
+                "address": "2112 County Park Dr., New Hill, NC  27562",
+                "url": "https://www.wakegov.com/departments-government/parks-recreation-and-open-space/all-parks-trails/harris-lake-county-park",
+                "amenities": [
+                  "playground",
+                  "picnic-shelter",
+                  "restroom",
+                  "greenway",
+                  "nature"
+                ],
+                "indoor": false,
+                "area": "south-wake",
+                "hours": null,
+                "lat": 35.63024208800726,
+                "lon": -78.91757987745865,
+                "cost": null
+              }
+            },
+            {
+              "ref": "place:knightdale-station-park",
+              "also": [
+                {
+                  "ref": "event:wake:21673",
+                  "source": {
+                    "kind": "event",
+                    "title": "Toddler Storytime",
+                    "start": "2026-11-10T10:15:00-05:00",
+                    "end": "2026-11-10T10:45:00-05:00",
+                    "venue": "East Regional Library",
+                    "address": "946 Steeple Square Court, Knightdale, NC",
+                    "url": "https://www.wake.gov/events/toddler-storytime-972",
+                    "cost": "Free",
+                    "ages": "Young Children",
+                    "registration": null,
+                    "indoor": true,
+                    "area": "east-wake",
+                    "source": "wake-county",
+                    "dropIn": false,
+                    "lat": 35.8028243321954,
+                    "lon": -78.487155767495
+                  }
+                }
+              ],
+              "arrive": "09:45",
+              "leave": "10:45",
+              "why": "A run at Knightdale Station Park leads into Toddler Storytime at East Regional Library — books, music and movement to round out a Tuesday morning in east Wake.",
+              "tips": [
+                "Arrive at the park by 09:45 for a 20-minute run before the library.",
+                "No registration needed for the storytime.",
+                "The park's picnic shelter is handy for a snack on the way out."
+              ],
+              "interests": [
+                "stories",
+                "movement"
+              ],
+              "area": "east-wake",
+              "outdoor": false,
+              "source": {
+                "kind": "park",
+                "title": "Knightdale Station Park",
+                "address": "810 North First Avenue, Knightdale, NC",
+                "url": "https://www.knightdalenc.gov/knightdalestationpark",
+                "amenities": [
+                  "playground",
+                  "picnic-shelter",
+                  "greenway"
+                ],
+                "indoor": false,
+                "area": "east-wake",
+                "hours": null,
+                "lat": 35.795776739559024,
+                "lon": -78.47584503817626,
+                "cost": null
+              }
+            },
+            {
+              "ref": "place:apex-community-park",
+              "arrive": "09:00",
+              "leave": "11:00",
+              "why": "Apex Community Park has a playground, picnic shelter and a greenway trail — a simple and pleasant Tuesday morning of outdoor play in Cary before the nap.",
+              "tips": [
+                "The greenway trail is stroller-friendly from the park entrance.",
+                "Pack a snack and water for a mid-visit bench stop.",
+                "Leave when energy starts to flag so there is fuel left for lunch."
+              ],
+              "interests": [
+                "nature",
+                "movement"
+              ],
+              "also": [],
+              "area": "cary-apex",
+              "outdoor": true,
+              "source": {
+                "kind": "park",
+                "title": "Apex Community Park",
+                "address": "2200 Laura Duncan Rd., Apex, NC",
+                "url": "http://www.apexnc.org/795/Apex-Community-Park",
+                "amenities": [
+                  "playground",
+                  "picnic-shelter",
+                  "restroom",
+                  "greenway"
+                ],
+                "indoor": false,
+                "area": "cary-apex",
+                "hours": null,
+                "lat": 35.75461588131496,
+                "lon": -78.82862025650613,
+                "cost": null
+              }
+            }
+          ],
+          "rainBackup": null,
+          "timeline": [
+            {
+              "start": "07:00",
+              "end": "07:30",
+              "kind": "meal",
+              "title": "Up and breakfast"
+            },
+            {
+              "start": "07:30",
+              "end": "08:20",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "08:20",
+              "end": "08:40",
+              "kind": "routine",
+              "title": "Get ready to go",
+              "detail": "Shoes on, diaper bag, water and a snack."
+            },
+            {
+              "start": "08:40",
+              "end": "09:00",
+              "kind": "travel",
+              "title": "Drive to Blue Jay Point County Park"
+            },
+            {
+              "start": "09:00",
+              "end": "11:00",
+              "kind": "outing",
+              "title": "Blue Jay Point County Park"
+            },
+            {
+              "start": "11:00",
+              "end": "11:20",
+              "kind": "travel",
+              "title": "Drive home"
+            },
+            {
+              "start": "11:20",
+              "end": "12:15",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "12:15",
+              "end": "12:45",
+              "kind": "meal",
+              "title": "Lunch"
+            },
+            {
+              "start": "12:45",
+              "end": "13:00",
+              "kind": "quiet",
+              "title": "Wind down",
+              "detail": "A couple of books to settle."
+            },
+            {
+              "start": "13:00",
+              "end": "14:00",
+              "kind": "nap",
+              "title": "Nap"
+            },
+            {
+              "start": "14:00",
+              "end": "14:20",
+              "kind": "routine",
+              "title": "Up and a snack"
+            },
+            {
+              "start": "14:20",
+              "end": "18:00",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "18:00",
+              "end": "18:45",
+              "kind": "meal",
+              "title": "Dinner"
+            },
+            {
+              "start": "18:45",
+              "end": "19:30",
+              "kind": "routine",
+              "title": "Bath, books and bed"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "checked": {
+    "at": "2026-11-01T11:05:49.155Z",
+    "forecast": "none",
+    "weather": null,
+    "hidden": []
+  }
+}

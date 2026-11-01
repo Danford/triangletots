@@ -1,0 +1,1243 @@
+{
+  "date": "2026-11-06",
+  "band": "t3",
+  "versions": [
+    {
+      "at": "2026-10-27T08:24:10.873Z",
+      "reason": null,
+      "forecast": "none",
+      "weather": null,
+      "plans": [
+        {
+          "nap": "nap",
+          "napLabel": "Nap, 1 to 2:30",
+          "headline": "Touch-a-Truck at North Regional Library and Honeycutt Park",
+          "main": {
+            "ref": "event:wake:22621",
+            "arrive": "09:20",
+            "leave": "12:30",
+            "also": [
+              {
+                "ref": "place:honeycutt-park",
+                "source": {
+                  "kind": "park",
+                  "title": "Honeycutt Park",
+                  "address": "1032 Clear Creek Farm Road, Raleigh, NC 27615",
+                  "url": "https://raleighnc.gov/parks-and-recreation/places/honeycutt-park",
+                  "amenities": [
+                    "picnic-shelter",
+                    "courts",
+                    "fields",
+                    "playground"
+                  ],
+                  "indoor": false,
+                  "area": "north-raleigh",
+                  "hours": null,
+                  "lat": 35.9023,
+                  "lon": -78.6259,
+                  "cost": null
+                }
+              }
+            ],
+            "why": "Your child can climb into a fire truck cab, press a real horn, and shake hands with the people who drive these vehicles every day. Honeycutt Park is right next door for a good run before the drive home.",
+            "tips": [
+              "Arrive close to 09:30 to reach the most popular trucks before the lines grow.",
+              "Bring a snack and water for the park stretch after the trucks.",
+              "Give a five-minute warning before leaving the park so the transition goes smoothly."
+            ],
+            "interests": [
+              "vehicles",
+              "movement"
+            ],
+            "area": "north-raleigh",
+            "outdoor": true,
+            "source": {
+              "kind": "event",
+              "title": "Touch-a-Truck",
+              "start": "2026-11-06T09:30:00-05:00",
+              "end": "2026-11-06T11:00:00-05:00",
+              "venue": "North Regional Library",
+              "address": "7009 Harps Mill Road, Raleigh, NC",
+              "url": "https://www.wake.gov/events/touch-truck-3",
+              "cost": null,
+              "ages": "Young Children All Ages School-Age Children",
+              "registration": null,
+              "indoor": false,
+              "area": "north-raleigh",
+              "source": "wake-county",
+              "dropIn": false,
+              "lat": 35.880907380619,
+              "lon": -78.6281516610688
+            }
+          },
+          "alternatives": [
+            {
+              "ref": "event:wake-parks:9408",
+              "arrive": "09:20",
+              "leave": "11:00",
+              "why": "A staff naturalist leads a mile walk around Historic Yates Mill Pond, naming the plants, birds, and animals that live there.",
+              "tips": [
+                "Registration is required; book your spot before heading out.",
+                "Wear sturdy shoes for natural-surface trails and bring water."
+              ],
+              "interests": [
+                "nature",
+                "science"
+              ],
+              "also": [],
+              "area": "raleigh",
+              "outdoor": true,
+              "source": {
+                "kind": "event",
+                "title": "Hike with a Naturalist",
+                "start": "2026-11-06T09:30:00",
+                "end": "2026-11-06T11:00:00",
+                "venue": "Historic Yates Mill County Park",
+                "address": "4620 Lake Wheeler Rd., Raleigh, NC  27603",
+                "url": "https://apm.activecommunities.com/wakeparks/Activity_Search/hike-with-a-naturalist/9408?locale=en-US",
+                "cost": "Free",
+                "ages": null,
+                "registration": "https://apm.activecommunities.com/wakeparks/Activity_Search/hike-with-a-naturalist/9408?locale=en-US",
+                "indoor": false,
+                "area": "raleigh",
+                "source": "wake-parks",
+                "dropIn": false,
+                "lat": 35.72157134974476,
+                "lon": -78.68526087901417
+              }
+            },
+            {
+              "ref": "place:museum-of-life-and-science",
+              "arrive": "10:00",
+              "leave": "11:30",
+              "also": [
+                {
+                  "ref": "event:weekly:mols-early-childhood:2026-11-06",
+                  "source": {
+                    "kind": "event",
+                    "title": "Early Childhood Drop-In",
+                    "start": "2026-11-06T09:30:00",
+                    "end": "2026-11-06T11:30:00",
+                    "venue": "Hideaway Woods, Museum of Life and Science",
+                    "address": "433 W Murray Ave, Durham, NC 27704",
+                    "url": "https://www.lifeandscience.org/learn/drop-in-programs/",
+                    "cost": "Included with museum admission",
+                    "ages": "young children and their caregivers",
+                    "registration": false,
+                    "indoor": false,
+                    "area": "durham",
+                    "source": "weekly",
+                    "dropIn": true,
+                    "lat": 36.0294,
+                    "lon": -78.8993
+                  }
+                }
+              ],
+              "why": "The outdoor Early Childhood Drop-In at Hideaway Woods weaves sensory play, songs, and stories through the trees — a gentle, short morning that fits the nap schedule well.",
+              "tips": [
+                "Museum admission is required; arrive right at opening and head straight to Hideaway Woods.",
+                "The drop-in is drop-in, so you can join at any point and stay as long as your child is engaged."
+              ],
+              "interests": [
+                "animals",
+                "nature",
+                "science"
+              ],
+              "area": "durham",
+              "outdoor": true,
+              "source": {
+                "kind": "museum",
+                "title": "Museum of Life and Science",
+                "address": "433 W Murray Ave, Durham, NC 27704",
+                "url": "https://www.lifeandscience.org/visit/",
+                "amenities": [
+                  "nature",
+                  "animals",
+                  "train",
+                  "playground",
+                  "restroom"
+                ],
+                "indoor": false,
+                "area": "durham",
+                "lat": 36.0294,
+                "lon": -78.8993,
+                "cost": "$24 adults, $19 ages 3–15, under 3 free",
+                "note": "Tickets: $24 adults, $19 ages 3–15, under 3 free. Hideaway Woods treehouses and creek, farmyard, train ride and Dinosaur Trail are outside."
+              }
+            },
+            {
+              "ref": "place:gipson-play-plaza",
+              "arrive": "17:00",
+              "leave": "19:00",
+              "also": [
+                {
+                  "ref": "event:dix-park:/event/drum-circle-0:2026-11-06",
+                  "source": {
+                    "kind": "event",
+                    "title": "Drum Circle",
+                    "start": "2026-11-06T17:30:00",
+                    "end": "2026-11-06T19:00:00",
+                    "venue": "Stone Houses Visitor Center, Dix Park",
+                    "address": "1030 Richardson Dr, Raleigh, NC 27603",
+                    "url": "https://dixpark.org/event/drum-circle-0",
+                    "cost": null,
+                    "ages": null,
+                    "registration": null,
+                    "indoor": true,
+                    "area": "raleigh",
+                    "source": "dix-park",
+                    "dropIn": false,
+                    "lat": 35.7701,
+                    "lon": -78.6568
+                  }
+                }
+              ],
+              "why": "Gipson Play Plaza's big destination playground is a warm-up before the open drum circle at Dix Park's Stone Houses, where anyone can bang along with the group.",
+              "tips": [
+                "Drums are provided at the circle; no need to bring anything.",
+                "The playground and drum circle are both weather-permitting; skip or shorten the park if the evening turns cool or wet.",
+                "Sound-dampening headphones can help if loud group drumming is intense for your child."
+              ],
+              "interests": [
+                "music",
+                "movement"
+              ],
+              "area": "raleigh",
+              "outdoor": false,
+              "source": {
+                "kind": "park",
+                "title": "Gipson Play Plaza at Dix Park",
+                "address": "715 Biggs Dr, Raleigh, NC 27603",
+                "url": "https://dixpark.org/gipson-play-plaza",
+                "amenities": [
+                  "playground",
+                  "restroom"
+                ],
+                "indoor": false,
+                "area": "raleigh",
+                "hours": {
+                  "sun": "8 a.m.–9 p.m.",
+                  "mon": "8 a.m.–9 p.m.",
+                  "tue": "8 a.m.–9 p.m.",
+                  "wed": "8 a.m.–9 p.m.",
+                  "thu": "8 a.m.–9 p.m.",
+                  "fri": "8 a.m.–9 p.m.",
+                  "sat": "8 a.m.–9 p.m."
+                },
+                "lat": 35.7667,
+                "lon": -78.6539,
+                "cost": "Free",
+                "note": "Free; free parking. Big destination playground on the south edge of Dix Park."
+              }
+            },
+            {
+              "ref": "event:museum:marbles:46250",
+              "arrive": "10:05",
+              "leave": "12:20",
+              "also": [
+                {
+                  "ref": "place:john-chavis-memorial-park",
+                  "source": {
+                    "kind": "park",
+                    "title": "John Chavis Memorial Park",
+                    "address": "505 Martin Luther King Jr Blvd, Raleigh, NC 27601",
+                    "url": "https://raleighnc.gov/parks-and-recreation/places/john-chavis-memorial-park",
+                    "amenities": [
+                      "community-center",
+                      "playground",
+                      "carousel",
+                      "fields"
+                    ],
+                    "indoor": false,
+                    "area": "raleigh",
+                    "hours": null,
+                    "lat": 35.7698,
+                    "lon": -78.63021,
+                    "cost": null
+                  }
+                }
+              ],
+              "why": "Flight of the Butterflies on Marbles' big 3D screen fills 45 minutes with vivid close-up nature, then John Chavis Memorial Park has a carousel and open fields right after.",
+              "tips": [
+                "Arrive a few minutes early to pick seats; the film is 45 minutes and calm enough for a 3-year-old.",
+                "The park visit after the film is weather-permitting; the carousel is a good carrot to mention before you leave the museum.",
+                "Bring a snack for the park so the morning stretches comfortably to nap time."
+              ],
+              "interests": [
+                "science",
+                "nature",
+                "movement"
+              ],
+              "area": "raleigh",
+              "outdoor": false,
+              "source": {
+                "kind": "event",
+                "title": "Flight of the Butterflies 3D",
+                "start": "2026-11-06T10:15:00",
+                "end": "2026-11-06T11:00:00",
+                "venue": "Marbles Kids Museum",
+                "address": "201 E Hargett St, Raleigh, NC 27601",
+                "url": "https://marbleskidsmuseum.org/event/48076/",
+                "cost": null,
+                "ages": "IMAX film, 4 and up",
+                "registration": null,
+                "indoor": true,
+                "area": "raleigh",
+                "source": "museum",
+                "dropIn": false,
+                "lat": 35.7789,
+                "lon": -78.6361
+              }
+            }
+          ],
+          "rainBackup": null,
+          "timeline": [
+            {
+              "start": "07:00",
+              "end": "07:30",
+              "kind": "meal",
+              "title": "Up and breakfast"
+            },
+            {
+              "start": "07:30",
+              "end": "08:40",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "08:40",
+              "end": "09:00",
+              "kind": "routine",
+              "title": "Get ready to go",
+              "detail": "Shoes on, diaper bag, water and a snack."
+            },
+            {
+              "start": "09:00",
+              "end": "09:20",
+              "kind": "travel",
+              "title": "Drive to North Regional Library"
+            },
+            {
+              "start": "09:20",
+              "end": "11:00",
+              "kind": "outing",
+              "title": "Touch-a-Truck",
+              "detail": "Pack a lunch to eat there."
+            },
+            {
+              "start": "11:00",
+              "end": "11:10",
+              "kind": "travel",
+              "title": "Drive to Honeycutt Park"
+            },
+            {
+              "start": "11:10",
+              "end": "12:30",
+              "kind": "outing",
+              "title": "Honeycutt Park"
+            },
+            {
+              "start": "12:30",
+              "end": "12:50",
+              "kind": "travel",
+              "title": "Drive home"
+            },
+            {
+              "start": "12:50",
+              "end": "13:00",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "13:00",
+              "end": "14:30",
+              "kind": "nap",
+              "title": "Nap"
+            },
+            {
+              "start": "14:30",
+              "end": "14:50",
+              "kind": "routine",
+              "title": "Up and a snack"
+            },
+            {
+              "start": "14:50",
+              "end": "18:30",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "18:30",
+              "end": "19:15",
+              "kind": "meal",
+              "title": "Dinner"
+            },
+            {
+              "start": "19:15",
+              "end": "20:00",
+              "kind": "routine",
+              "title": "Bath, books and bed"
+            }
+          ]
+        },
+        {
+          "nap": "quiet",
+          "napLabel": "Quiet time, no sleep",
+          "headline": "Museum of Life and Science: Early Childhood Drop-In and Rock Quarry Park",
+          "main": {
+            "ref": "place:museum-of-life-and-science",
+            "arrive": "10:00",
+            "leave": "12:10",
+            "also": [
+              {
+                "ref": "event:weekly:mols-early-childhood:2026-11-06",
+                "source": {
+                  "kind": "event",
+                  "title": "Early Childhood Drop-In",
+                  "start": "2026-11-06T09:30:00",
+                  "end": "2026-11-06T11:30:00",
+                  "venue": "Hideaway Woods, Museum of Life and Science",
+                  "address": "433 W Murray Ave, Durham, NC 27704",
+                  "url": "https://www.lifeandscience.org/learn/drop-in-programs/",
+                  "cost": "Included with museum admission",
+                  "ages": "young children and their caregivers",
+                  "registration": false,
+                  "indoor": false,
+                  "area": "durham",
+                  "source": "weekly",
+                  "dropIn": true,
+                  "lat": 36.0294,
+                  "lon": -78.8993
+                }
+              },
+              {
+                "ref": "place:rock-quarry-park",
+                "source": {
+                  "kind": "park",
+                  "title": "Rock Quarry Park",
+                  "address": "701 Stadium Dr, Durham, NC",
+                  "url": "https://www.dprplaymore.org/Facilities/Facility/Details/Rock-Quarry-Park-60",
+                  "amenities": [
+                    "playground",
+                    "splashpad",
+                    "restroom",
+                    "greenway"
+                  ],
+                  "indoor": false,
+                  "area": "durham",
+                  "hours": null,
+                  "lat": 36.03166363636364,
+                  "lon": -78.90176545454545,
+                  "cost": null
+                }
+              }
+            ],
+            "why": "The outdoor Early Childhood Drop-In at Hideaway Woods mixes songs, sensory play, and forest exploration; the Dinosaur Trail and farmyard are steps away on the same ticket. Rock Quarry Park is a short walk afterward for more outdoor play before heading home.",
+            "tips": [
+              "Head straight to Hideaway Woods when you arrive; it fills up as the morning goes on.",
+              "Pack a snack to eat at Rock Quarry Park before the drive home.",
+              "Give one last trip down the slide as a transition cue so leaving the park is easier."
+            ],
+            "interests": [
+              "animals",
+              "nature",
+              "dinosaurs"
+            ],
+            "area": "durham",
+            "outdoor": true,
+            "source": {
+              "kind": "museum",
+              "title": "Museum of Life and Science",
+              "address": "433 W Murray Ave, Durham, NC 27704",
+              "url": "https://www.lifeandscience.org/visit/",
+              "amenities": [
+                "nature",
+                "animals",
+                "train",
+                "playground",
+                "restroom"
+              ],
+              "indoor": false,
+              "area": "durham",
+              "lat": 36.0294,
+              "lon": -78.8993,
+              "cost": "$24 adults, $19 ages 3–15, under 3 free",
+              "note": "Tickets: $24 adults, $19 ages 3–15, under 3 free. Hideaway Woods treehouses and creek, farmyard, train ride and Dinosaur Trail are outside."
+            }
+          },
+          "alternatives": [
+            {
+              "ref": "event:wake:22621",
+              "arrive": "09:20",
+              "leave": "12:00",
+              "also": [
+                {
+                  "ref": "place:honeycutt-park",
+                  "source": {
+                    "kind": "park",
+                    "title": "Honeycutt Park",
+                    "address": "1032 Clear Creek Farm Road, Raleigh, NC 27615",
+                    "url": "https://raleighnc.gov/parks-and-recreation/places/honeycutt-park",
+                    "amenities": [
+                      "picnic-shelter",
+                      "courts",
+                      "fields",
+                      "playground"
+                    ],
+                    "indoor": false,
+                    "area": "north-raleigh",
+                    "hours": null,
+                    "lat": 35.9023,
+                    "lon": -78.6259,
+                    "cost": null
+                  }
+                }
+              ],
+              "why": "Kids can sit in fire trucks, press horns, and meet first responders, then run off the excitement at the adjacent Honeycutt Park.",
+              "tips": [
+                "Arrive near 09:30 to see all the vehicles before the lines grow.",
+                "Let your child set the pace; some trucks are louder than others."
+              ],
+              "interests": [
+                "vehicles",
+                "movement"
+              ],
+              "area": "north-raleigh",
+              "outdoor": true,
+              "source": {
+                "kind": "event",
+                "title": "Touch-a-Truck",
+                "start": "2026-11-06T09:30:00-05:00",
+                "end": "2026-11-06T11:00:00-05:00",
+                "venue": "North Regional Library",
+                "address": "7009 Harps Mill Road, Raleigh, NC",
+                "url": "https://www.wake.gov/events/touch-truck-3",
+                "cost": null,
+                "ages": "Young Children All Ages School-Age Children",
+                "registration": null,
+                "indoor": false,
+                "area": "north-raleigh",
+                "source": "wake-county",
+                "dropIn": false,
+                "lat": 35.880907380619,
+                "lon": -78.6281516610688
+              }
+            },
+            {
+              "ref": "event:wake-parks:9408",
+              "arrive": "09:20",
+              "leave": "11:00",
+              "why": "A naturalist leads a mile walk around Yates Mill Pond naming plants and animals; a calm, engaging morning before quiet time.",
+              "tips": [
+                "Registration is required; book in advance.",
+                "Dress for the trail and bring water and a light snack."
+              ],
+              "interests": [
+                "nature",
+                "science"
+              ],
+              "also": [],
+              "area": "raleigh",
+              "outdoor": true,
+              "source": {
+                "kind": "event",
+                "title": "Hike with a Naturalist",
+                "start": "2026-11-06T09:30:00",
+                "end": "2026-11-06T11:00:00",
+                "venue": "Historic Yates Mill County Park",
+                "address": "4620 Lake Wheeler Rd., Raleigh, NC  27603",
+                "url": "https://apm.activecommunities.com/wakeparks/Activity_Search/hike-with-a-naturalist/9408?locale=en-US",
+                "cost": "Free",
+                "ages": null,
+                "registration": "https://apm.activecommunities.com/wakeparks/Activity_Search/hike-with-a-naturalist/9408?locale=en-US",
+                "indoor": false,
+                "area": "raleigh",
+                "source": "wake-parks",
+                "dropIn": false,
+                "lat": 35.72157134974476,
+                "lon": -78.68526087901417
+              }
+            },
+            {
+              "ref": "place:sarah-p-duke-gardens",
+              "arrive": "14:10",
+              "leave": "16:00",
+              "also": [
+                {
+                  "ref": "event:museum:duke-gardens:17490",
+                  "source": {
+                    "kind": "event",
+                    "title": "A Festival of Fabulous Mums",
+                    "start": "2026-11-06T12:00:00",
+                    "end": "2026-11-06T16:00:00",
+                    "venue": "Sarah P. Duke Gardens",
+                    "address": "420 Anderson Street, Durham, NC, 27708",
+                    "url": "https://gardens.duke.edu/event/a-festival-of-fabulous-mums-4/",
+                    "cost": "Free",
+                    "ages": "Adult Programs Family programs Festival of Fabulous Mums",
+                    "registration": false,
+                    "indoor": false,
+                    "area": "durham",
+                    "source": "museum",
+                    "dropIn": true,
+                    "lat": 36.0024,
+                    "lon": -78.9328
+                  }
+                }
+              ],
+              "why": "Duke Gardens' Japanese Garden fills with brilliant fall mums for this free drop-in display; arriving after quiet time gives the afternoon a beautiful outdoor destination.",
+              "tips": [
+                "Paved paths make stroller navigation easy throughout the garden.",
+                "The display closes at 16:00; arrive by 14:10 for the best viewing time."
+              ],
+              "interests": [
+                "nature",
+                "art"
+              ],
+              "area": "durham",
+              "outdoor": true,
+              "source": {
+                "kind": "garden",
+                "title": "Sarah P. Duke Gardens",
+                "address": "420 Anderson St, Durham, NC 27708",
+                "url": "https://gardens.duke.edu/visit/",
+                "amenities": [
+                  "garden",
+                  "nature",
+                  "restroom"
+                ],
+                "indoor": false,
+                "area": "durham",
+                "hours": {
+                  "sun": "8 a.m. to sunset",
+                  "mon": "8 a.m. to sunset",
+                  "tue": "8 a.m. to sunset",
+                  "wed": "8 a.m. to sunset",
+                  "thu": "8 a.m. to sunset",
+                  "fri": "8 a.m. to sunset",
+                  "sat": "8 a.m. to sunset"
+                },
+                "lat": 36.0024,
+                "lon": -78.9328,
+                "cost": "Free",
+                "note": "Free; paid parking that often fills before 10 a.m. on nice days. Five miles of paths, and the Charlotte Brody Discovery Garden."
+              }
+            },
+            {
+              "ref": "event:wake-parks:8358:2026-11-06",
+              "arrive": "08:00",
+              "leave": "10:00",
+              "why": "Story panels are spaced along Beech Bluff's accessible loop so your child reads a picture book page by page while walking the trail.",
+              "tips": [
+                "The loop is ADA-accessible and stroller-friendly.",
+                "Go early on a Friday morning to have the path mostly to yourselves."
+              ],
+              "interests": [
+                "stories",
+                "nature"
+              ],
+              "also": [],
+              "area": "south-wake",
+              "outdoor": true,
+              "source": {
+                "kind": "event",
+                "title": "Beech Bluff County Park StoryWalk® 2026 (Self-Led)",
+                "start": "2026-11-06T08:00:00",
+                "end": "2026-11-06T17:30:00",
+                "venue": "Beech Bluff County Park",
+                "address": "Beech Bluff Park Drive, Fuquay-Varina, NC",
+                "url": "https://apm.activecommunities.com/wakeparks/Activity_Search/beech-bluff-county-park-storywalk-2026-self-led/8358?locale=en-US",
+                "cost": "Free",
+                "ages": null,
+                "registration": false,
+                "indoor": false,
+                "area": "south-wake",
+                "source": "wake-parks",
+                "dropIn": true,
+                "lat": 35.58537279715877,
+                "lon": -78.6793341971644
+              }
+            }
+          ],
+          "rainBackup": null,
+          "timeline": [
+            {
+              "start": "07:00",
+              "end": "07:30",
+              "kind": "meal",
+              "title": "Up and breakfast"
+            },
+            {
+              "start": "07:30",
+              "end": "09:20",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "09:20",
+              "end": "09:40",
+              "kind": "routine",
+              "title": "Get ready to go",
+              "detail": "Shoes on, diaper bag, water and a snack."
+            },
+            {
+              "start": "09:40",
+              "end": "10:00",
+              "kind": "travel",
+              "title": "Drive to Museum of Life and Science"
+            },
+            {
+              "start": "10:00",
+              "end": "12:10",
+              "kind": "outing",
+              "title": "Museum of Life and Science",
+              "detail": "Pack a lunch to eat there."
+            },
+            {
+              "start": "12:10",
+              "end": "12:30",
+              "kind": "travel",
+              "title": "Drive home"
+            },
+            {
+              "start": "12:30",
+              "end": "13:00",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "13:00",
+              "end": "13:45",
+              "kind": "quiet",
+              "title": "Quiet time",
+              "detail": "Books or quiet play in their room."
+            },
+            {
+              "start": "13:45",
+              "end": "18:00",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "18:00",
+              "end": "18:45",
+              "kind": "meal",
+              "title": "Dinner"
+            },
+            {
+              "start": "18:45",
+              "end": "19:30",
+              "kind": "routine",
+              "title": "Bath, books and bed"
+            }
+          ]
+        },
+        {
+          "nap": "no-nap",
+          "napLabel": "No nap",
+          "headline": "Sarah P. Duke Gardens and Festival of Fabulous Mums",
+          "main": {
+            "ref": "place:sarah-p-duke-gardens",
+            "arrive": "10:00",
+            "leave": "16:00",
+            "also": [
+              {
+                "ref": "event:museum:duke-gardens:17490",
+                "source": {
+                  "kind": "event",
+                  "title": "A Festival of Fabulous Mums",
+                  "start": "2026-11-06T12:00:00",
+                  "end": "2026-11-06T16:00:00",
+                  "venue": "Sarah P. Duke Gardens",
+                  "address": "420 Anderson Street, Durham, NC, 27708",
+                  "url": "https://gardens.duke.edu/event/a-festival-of-fabulous-mums-4/",
+                  "cost": "Free",
+                  "ages": "Adult Programs Family programs Festival of Fabulous Mums",
+                  "registration": false,
+                  "indoor": false,
+                  "area": "durham",
+                  "source": "museum",
+                  "dropIn": true,
+                  "lat": 36.0024,
+                  "lon": -78.9328
+                }
+              }
+            ],
+            "why": "Arriving at opening gives two hours to explore five miles of garden paths and the Charlotte Brody Discovery Garden before the free mum display opens at noon; the Japanese Garden then becomes a dazzling backdrop for a slow fall afternoon.",
+            "tips": [
+              "Parking can fill early on a nice day; aim to arrive right at 10.",
+              "Pack a picnic lunch to eat on the lawns around noon before the display opens.",
+              "Let your child choose which path to take; the gardens reward wandering."
+            ],
+            "interests": [
+              "nature",
+              "art"
+            ],
+            "area": "durham",
+            "outdoor": true,
+            "source": {
+              "kind": "garden",
+              "title": "Sarah P. Duke Gardens",
+              "address": "420 Anderson St, Durham, NC 27708",
+              "url": "https://gardens.duke.edu/visit/",
+              "amenities": [
+                "garden",
+                "nature",
+                "restroom"
+              ],
+              "indoor": false,
+              "area": "durham",
+              "hours": {
+                "sun": "8 a.m. to sunset",
+                "mon": "8 a.m. to sunset",
+                "tue": "8 a.m. to sunset",
+                "wed": "8 a.m. to sunset",
+                "thu": "8 a.m. to sunset",
+                "fri": "8 a.m. to sunset",
+                "sat": "8 a.m. to sunset"
+              },
+              "lat": 36.0024,
+              "lon": -78.9328,
+              "cost": "Free",
+              "note": "Free; paid parking that often fills before 10 a.m. on nice days. Five miles of paths, and the Charlotte Brody Discovery Garden."
+            }
+          },
+          "alternatives": [
+            {
+              "ref": "event:wake:22621",
+              "arrive": "09:20",
+              "leave": "12:00",
+              "also": [
+                {
+                  "ref": "place:cedar-hills-park",
+                  "source": {
+                    "kind": "park",
+                    "title": "Cedar Hills Park",
+                    "address": "5600 Sweetbriar Drive, Raleigh, NC 27609",
+                    "url": "https://raleighnc.gov/parks-and-recreation/places/cedar-hills-park",
+                    "amenities": [
+                      "picnic-shelter",
+                      "courts",
+                      "fields",
+                      "playground"
+                    ],
+                    "indoor": false,
+                    "area": "north-raleigh",
+                    "hours": null,
+                    "lat": 35.85946,
+                    "lon": -78.63055,
+                    "cost": null
+                  }
+                }
+              ],
+              "why": "An hour with real fire trucks and first responders, then a run at Cedar Hills Park to cap the morning.",
+              "tips": [
+                "Arrive close to 09:30 for the shortest wait at the most popular trucks.",
+                "Cedar Hills Park has a picnic shelter; bring a snack to eat after the trucks."
+              ],
+              "interests": [
+                "vehicles",
+                "movement"
+              ],
+              "area": "north-raleigh",
+              "outdoor": true,
+              "source": {
+                "kind": "event",
+                "title": "Touch-a-Truck",
+                "start": "2026-11-06T09:30:00-05:00",
+                "end": "2026-11-06T11:00:00-05:00",
+                "venue": "North Regional Library",
+                "address": "7009 Harps Mill Road, Raleigh, NC",
+                "url": "https://www.wake.gov/events/touch-truck-3",
+                "cost": null,
+                "ages": "Young Children All Ages School-Age Children",
+                "registration": null,
+                "indoor": false,
+                "area": "north-raleigh",
+                "source": "wake-county",
+                "dropIn": false,
+                "lat": 35.880907380619,
+                "lon": -78.6281516610688
+              }
+            },
+            {
+              "ref": "event:wake-parks:9408",
+              "arrive": "09:20",
+              "leave": "11:00",
+              "why": "A naturalist leads a mile walk around Yates Mill Pond naming the plants, birds, and animals that live there.",
+              "tips": [
+                "Registration is required; book before you go.",
+                "Bring sunscreen, water, and comfortable shoes for natural-surface trails."
+              ],
+              "interests": [
+                "nature",
+                "science"
+              ],
+              "also": [],
+              "area": "raleigh",
+              "outdoor": true,
+              "source": {
+                "kind": "event",
+                "title": "Hike with a Naturalist",
+                "start": "2026-11-06T09:30:00",
+                "end": "2026-11-06T11:00:00",
+                "venue": "Historic Yates Mill County Park",
+                "address": "4620 Lake Wheeler Rd., Raleigh, NC  27603",
+                "url": "https://apm.activecommunities.com/wakeparks/Activity_Search/hike-with-a-naturalist/9408?locale=en-US",
+                "cost": "Free",
+                "ages": null,
+                "registration": "https://apm.activecommunities.com/wakeparks/Activity_Search/hike-with-a-naturalist/9408?locale=en-US",
+                "indoor": false,
+                "area": "raleigh",
+                "source": "wake-parks",
+                "dropIn": false,
+                "lat": 35.72157134974476,
+                "lon": -78.68526087901417
+              }
+            },
+            {
+              "ref": "place:museum-of-life-and-science",
+              "arrive": "10:00",
+              "leave": "12:10",
+              "also": [
+                {
+                  "ref": "event:weekly:mols-early-childhood:2026-11-06",
+                  "source": {
+                    "kind": "event",
+                    "title": "Early Childhood Drop-In",
+                    "start": "2026-11-06T09:30:00",
+                    "end": "2026-11-06T11:30:00",
+                    "venue": "Hideaway Woods, Museum of Life and Science",
+                    "address": "433 W Murray Ave, Durham, NC 27704",
+                    "url": "https://www.lifeandscience.org/learn/drop-in-programs/",
+                    "cost": "Included with museum admission",
+                    "ages": "young children and their caregivers",
+                    "registration": false,
+                    "indoor": false,
+                    "area": "durham",
+                    "source": "weekly",
+                    "dropIn": true,
+                    "lat": 36.0294,
+                    "lon": -78.8993
+                  }
+                },
+                {
+                  "ref": "place:rock-quarry-park",
+                  "source": {
+                    "kind": "park",
+                    "title": "Rock Quarry Park",
+                    "address": "701 Stadium Dr, Durham, NC",
+                    "url": "https://www.dprplaymore.org/Facilities/Facility/Details/Rock-Quarry-Park-60",
+                    "amenities": [
+                      "playground",
+                      "splashpad",
+                      "restroom",
+                      "greenway"
+                    ],
+                    "indoor": false,
+                    "area": "durham",
+                    "hours": null,
+                    "lat": 36.03166363636364,
+                    "lon": -78.90176545454545,
+                    "cost": null
+                  }
+                }
+              ],
+              "why": "Hideaway Woods' outdoor drop-in blends sensory play, songs, and stories in the trees; the Dinosaur Trail, farmyard, and train are all on the same ticket, with Rock Quarry Park a short walk for an outdoor finish.",
+              "tips": [
+                "Museum admission required. Head to Hideaway Woods first before it fills.",
+                "Pack a snack for Rock Quarry Park before the drive home."
+              ],
+              "interests": [
+                "animals",
+                "nature",
+                "dinosaurs"
+              ],
+              "area": "durham",
+              "outdoor": true,
+              "source": {
+                "kind": "museum",
+                "title": "Museum of Life and Science",
+                "address": "433 W Murray Ave, Durham, NC 27704",
+                "url": "https://www.lifeandscience.org/visit/",
+                "amenities": [
+                  "nature",
+                  "animals",
+                  "train",
+                  "playground",
+                  "restroom"
+                ],
+                "indoor": false,
+                "area": "durham",
+                "lat": 36.0294,
+                "lon": -78.8993,
+                "cost": "$24 adults, $19 ages 3–15, under 3 free",
+                "note": "Tickets: $24 adults, $19 ages 3–15, under 3 free. Hideaway Woods treehouses and creek, farmyard, train ride and Dinosaur Trail are outside."
+              }
+            },
+            {
+              "ref": "event:museum:nc-natural-sciences:123919",
+              "arrive": "10:35",
+              "leave": "15:00",
+              "also": [
+                {
+                  "ref": "event:museum:nc-natural-sciences:123000",
+                  "source": {
+                    "kind": "event",
+                    "title": "Incredible Science",
+                    "start": "2026-11-06T13:30:00",
+                    "end": "2026-11-06T14:00:00",
+                    "venue": "NC Museum of Natural Sciences",
+                    "address": "11 West Jones Street, Raleigh, NC, 27601",
+                    "url": "https://www.naturalsciences.org/calendar/event/incredible-science-5/2026-11-06/",
+                    "cost": null,
+                    "ages": "ages 7 and up",
+                    "registration": false,
+                    "indoor": true,
+                    "area": "raleigh",
+                    "source": "museum",
+                    "dropIn": false,
+                    "lat": 35.7822735,
+                    "lon": -78.6395502
+                  }
+                },
+                {
+                  "ref": "place:fred-fletcher-park",
+                  "source": {
+                    "kind": "park",
+                    "title": "Fred Fletcher Park",
+                    "address": "820 Clay Street, Raleigh, NC 27605",
+                    "url": "https://raleighnc.gov/parks-and-recreation/places/fred-fletcher-park",
+                    "amenities": [
+                      "garden",
+                      "picnic-shelter",
+                      "courts",
+                      "fields",
+                      "playground"
+                    ],
+                    "indoor": false,
+                    "area": "raleigh",
+                    "hours": null,
+                    "lat": 35.79264,
+                    "lon": -78.64957,
+                    "cost": null
+                  }
+                }
+              ],
+              "why": "Watch staff feed the ocean habitat animals at 10:45, then stay for the Incredible Science live demonstration at 13:30, with Fred Fletcher Park's gardens and playground for a stretch in between.",
+              "tips": [
+                "Both programs are walk-up; no registration needed.",
+                "Pack a lunch or snack to eat at the museum for the gap between the two programs.",
+                "The park visit after the science demo is weather-permitting; it rounds the day out nicely when skies are clear."
+              ],
+              "interests": [
+                "animals",
+                "science",
+                "nature"
+              ],
+              "area": "raleigh",
+              "outdoor": false,
+              "source": {
+                "kind": "event",
+                "title": "Live Animal Feeding – Ocean Habitat",
+                "start": "2026-11-06T10:45:00",
+                "end": "2026-11-06T11:00:00",
+                "venue": "NC Museum of Natural Sciences",
+                "address": "11 West Jones Street, Raleigh, NC, 27601",
+                "url": "https://www.naturalsciences.org/calendar/event/live-animal-feeding-ocean-habitat-5/2026-11-06/",
+                "cost": null,
+                "ages": "Adults All Ages Children Live Animals Teens Walk-up Programs",
+                "registration": false,
+                "indoor": true,
+                "area": "raleigh",
+                "source": "museum",
+                "dropIn": false,
+                "lat": 35.7822735,
+                "lon": -78.6395502
+              }
+            }
+          ],
+          "rainBackup": null,
+          "timeline": [
+            {
+              "start": "07:00",
+              "end": "07:30",
+              "kind": "meal",
+              "title": "Up and breakfast"
+            },
+            {
+              "start": "07:30",
+              "end": "09:20",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "09:20",
+              "end": "09:40",
+              "kind": "routine",
+              "title": "Get ready to go",
+              "detail": "Shoes on, diaper bag, water and a snack."
+            },
+            {
+              "start": "09:40",
+              "end": "10:00",
+              "kind": "travel",
+              "title": "Drive to Sarah P. Duke Gardens"
+            },
+            {
+              "start": "10:00",
+              "end": "11:50",
+              "kind": "outing",
+              "title": "Sarah P. Duke Gardens",
+              "detail": "Pack a lunch to eat there."
+            },
+            {
+              "start": "11:50",
+              "end": "12:00",
+              "kind": "travel",
+              "title": "Drive to Sarah P. Duke Gardens"
+            },
+            {
+              "start": "12:00",
+              "end": "16:00",
+              "kind": "outing",
+              "title": "A Festival of Fabulous Mums"
+            },
+            {
+              "start": "16:00",
+              "end": "16:20",
+              "kind": "travel",
+              "title": "Drive home"
+            },
+            {
+              "start": "16:20",
+              "end": "18:00",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "18:00",
+              "end": "18:45",
+              "kind": "meal",
+              "title": "Dinner"
+            },
+            {
+              "start": "18:45",
+              "end": "19:30",
+              "kind": "routine",
+              "title": "Bath, books and bed"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "checked": {
+    "at": "2026-11-01T11:15:29.097Z",
+    "forecast": "nws",
+    "weather": {
+      "period": "Friday",
+      "tempF": 77,
+      "precipProbability": 37,
+      "shortForecast": "Chance Rain Showers",
+      "hours": [
+        {
+          "t": "05:00",
+          "tempF": 62,
+          "pop": 32
+        },
+        {
+          "t": "06:00",
+          "tempF": 62,
+          "pop": 32
+        },
+        {
+          "t": "07:00",
+          "tempF": 63,
+          "pop": 36
+        },
+        {
+          "t": "08:00",
+          "tempF": 65,
+          "pop": 36
+        },
+        {
+          "t": "09:00",
+          "tempF": 68,
+          "pop": 36
+        },
+        {
+          "t": "10:00",
+          "tempF": 71,
+          "pop": 36
+        },
+        {
+          "t": "11:00",
+          "tempF": 73,
+          "pop": 36
+        },
+        {
+          "t": "12:00",
+          "tempF": 75,
+          "pop": 36
+        },
+        {
+          "t": "13:00",
+          "tempF": 76,
+          "pop": 37
+        },
+        {
+          "t": "14:00",
+          "tempF": 77,
+          "pop": 37
+        },
+        {
+          "t": "15:00",
+          "tempF": 77,
+          "pop": 37
+        },
+        {
+          "t": "16:00",
+          "tempF": 76,
+          "pop": 37
+        },
+        {
+          "t": "17:00",
+          "tempF": 74,
+          "pop": 37
+        },
+        {
+          "t": "18:00",
+          "tempF": 72,
+          "pop": 37
+        },
+        {
+          "t": "19:00",
+          "tempF": 69,
+          "pop": 16
+        },
+        {
+          "t": "20:00",
+          "tempF": 67,
+          "pop": 16
+        },
+        {
+          "t": "21:00",
+          "tempF": 65,
+          "pop": 16
+        },
+        {
+          "t": "22:00",
+          "tempF": 64,
+          "pop": 16
+        },
+        {
+          "t": "23:00",
+          "tempF": 63,
+          "pop": 16
+        }
+      ]
+    },
+    "hidden": []
+  }
+}

@@ -1,0 +1,922 @@
+{
+  "date": "2026-11-07",
+  "band": "t1",
+  "versions": [
+    {
+      "at": "2026-10-27T08:28:03.096Z",
+      "reason": null,
+      "forecast": "none",
+      "weather": null,
+      "plans": [
+        {
+          "nap": "two-naps",
+          "napLabel": "Two naps",
+          "headline": "Saturday Farmer's Market at Durham Central Park",
+          "main": {
+            "ref": "event:museum:durham-central-park:13372",
+            "arrive": "11:20",
+            "leave": "12:00",
+            "why": "After the morning nap your toddler can walk the stalls at Durham Central Park's Saturday market, pointing at bright flowers and piles of produce and taking in all the sounds and smells of a lively outdoor morning.",
+            "tips": [
+              "Bring a small snack so she is not hungry while you browse the stalls.",
+              "Let her hold a small apple or flower stem from the market — toddlers love having something to carry.",
+              "The market closes at noon, so leave when it winds down and you will be home with plenty of time before the afternoon nap."
+            ],
+            "interests": [
+              "nature",
+              "movement"
+            ],
+            "also": [],
+            "area": "durham",
+            "outdoor": true,
+            "source": {
+              "kind": "event",
+              "title": "Durham Farmer’ Market",
+              "start": "2026-11-07T08:00:00",
+              "end": "2026-11-07T12:00:00",
+              "venue": "Durham Central Park",
+              "address": "501 Foster Street, Durham, NC, 27701",
+              "url": "https://durhamcentralpark.org/upcoming-event/durham-farmer-market/2026-11-07/",
+              "cost": null,
+              "ages": null,
+              "registration": null,
+              "indoor": false,
+              "area": "durham",
+              "source": "museum",
+              "dropIn": true,
+              "lat": 36.0008,
+              "lon": -78.9021
+            }
+          },
+          "alternatives": [
+            {
+              "ref": "event:museum:ncma:5364",
+              "arrive": "12:00",
+              "leave": "14:15",
+              "why": "A free outdoor pop-up art experience on the NC Museum of Art grounds — large, colorful work that toddlers naturally walk toward and point at, in wide open space with room to roam.",
+              "tips": [
+                "The grounds are spacious; let your toddler set the pace and wander toward whatever catches her eye.",
+                "Bring water and a sun hat for the outdoor stretch.",
+                "Leave by 14:15 so you are home in good time before the afternoon nap."
+              ],
+              "interests": [
+                "art",
+                "nature"
+              ],
+              "also": [],
+              "area": "raleigh",
+              "outdoor": true,
+              "source": {
+                "kind": "event",
+                "title": "Pop-Up Art with Nancy Baker Cahill",
+                "start": "2026-11-07T12:00:00",
+                "end": "2026-11-07T15:00:00",
+                "venue": "NC Museum of Art",
+                "address": "2110 Blue Ridge Rd, Raleigh, NC 27607",
+                "url": "https://ncartmuseum.org/event/pop-up-art-with-nancy-baker-cahill/",
+                "cost": null,
+                "ages": "Families",
+                "registration": null,
+                "indoor": false,
+                "area": "raleigh",
+                "source": "museum",
+                "dropIn": true,
+                "lat": 35.8105,
+                "lon": -78.7022
+              }
+            },
+            {
+              "ref": "event:raleigh:fall-arts-fair",
+              "arrive": "15:50",
+              "leave": "18:30",
+              "why": "A free outdoor arts fair at Fred Fletcher Park with artists, open lawns and the kind of unhurried atmosphere that works well for a post-nap afternoon with a toddler.",
+              "tips": [
+                "Head toward any live music first — toddlers this age make a beeline for it.",
+                "The park grass is a bonus; bring a blanket for sitting down together.",
+                "Leave by 18:30 so you are home comfortably before bedtime."
+              ],
+              "interests": [
+                "art",
+                "music",
+                "movement"
+              ],
+              "also": [],
+              "area": "raleigh",
+              "outdoor": true,
+              "source": {
+                "kind": "event",
+                "title": "Fall Arts Fair",
+                "start": "2026-11-07T15:00:00",
+                "end": "2026-11-07T21:00:00",
+                "venue": "Fred Fletcher Park",
+                "address": "805 Washington St, Raleigh, NC 27605",
+                "url": "https://raleighnc.gov/arts/events/fall-arts-fair",
+                "cost": "Free and open to the public!",
+                "ages": null,
+                "registration": null,
+                "indoor": false,
+                "area": "raleigh",
+                "source": "raleigh",
+                "dropIn": true,
+                "lat": 35.79264,
+                "lon": -78.64957
+              }
+            },
+            {
+              "ref": "event:museum:duke-gardens:17494",
+              "arrive": "10:50",
+              "leave": "14:15",
+              "why": "The chrysanthemum display at Duke Gardens is in full color — mass plantings that a toddler this age finds completely absorbing. Free to enter and easy to leave whenever she is ready.",
+              "tips": [
+                "Arrive right at 10:50 to catch the gardens at their quietest.",
+                "A stroller handles the longer paths well; lift her out at the flower beds so she can look closely.",
+                "Leave by 14:15 to allow time to get home and settle before the afternoon nap."
+              ],
+              "interests": [
+                "nature",
+                "art"
+              ],
+              "also": [],
+              "area": "durham",
+              "outdoor": true,
+              "source": {
+                "kind": "event",
+                "title": "A Festival of Fabulous Mums",
+                "start": "2026-11-07T10:00:00",
+                "end": "2026-11-07T16:00:00",
+                "venue": "Sarah P. Duke Gardens",
+                "address": "420 Anderson Street, Durham, NC, 27708",
+                "url": "https://gardens.duke.edu/event/a-festival-of-fabulous-mums-5/",
+                "cost": "Free",
+                "ages": "Adult Programs Family programs Festival of Fabulous Mums",
+                "registration": false,
+                "indoor": false,
+                "area": "durham",
+                "source": "museum",
+                "dropIn": true,
+                "lat": 36.0024,
+                "lon": -78.9328
+              }
+            },
+            {
+              "ref": "event:libcal:durham-county-library:17562321",
+              "arrive": "10:50",
+              "leave": "11:45",
+              "why": "Interactive stories, action songs and finger plays at a cozy library program designed for children from birth to age five — a gentle, well-paced session that suits this age well.",
+              "tips": [
+                "Registration is required; book your spot before the day.",
+                "Arrive at 10:50 to get settled before the program begins at 11:00.",
+                "Pack a small snack for straight after — it is a short session and little ones are often hungry by the end."
+              ],
+              "interests": [
+                "stories",
+                "music",
+                "movement"
+              ],
+              "also": [],
+              "area": "durham",
+              "outdoor": false,
+              "source": {
+                "kind": "event",
+                "title": "Family Fables (Storytime)",
+                "start": "2026-11-07T11:00:00",
+                "end": "2026-11-07T11:45:00",
+                "venue": "East Regional Library",
+                "address": "211 Lick Creek Lane, Durham, NC",
+                "url": "https://durhamcountylibrary.libcal.com/event/17562321",
+                "cost": null,
+                "ages": "Baby, Elementary School, Kindergarten, Pre-School, Toddler",
+                "registration": "https://durhamcountylibrary.libcal.com/event/17562321",
+                "indoor": true,
+                "area": "durham",
+                "source": "libcal",
+                "dropIn": false,
+                "lat": 35.8028243321954,
+                "lon": -78.487155767495
+              }
+            }
+          ],
+          "rainBackup": null,
+          "timeline": [
+            {
+              "start": "07:00",
+              "end": "07:30",
+              "kind": "meal",
+              "title": "Up and breakfast"
+            },
+            {
+              "start": "07:30",
+              "end": "09:30",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "09:30",
+              "end": "10:30",
+              "kind": "nap",
+              "title": "Nap"
+            },
+            {
+              "start": "10:30",
+              "end": "10:50",
+              "kind": "routine",
+              "title": "Up and a snack"
+            },
+            {
+              "start": "10:50",
+              "end": "11:00",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "11:00",
+              "end": "11:20",
+              "kind": "travel",
+              "title": "Drive to Durham Central Park"
+            },
+            {
+              "start": "11:20",
+              "end": "12:00",
+              "kind": "outing",
+              "title": "Durham Central Park"
+            },
+            {
+              "start": "12:00",
+              "end": "12:20",
+              "kind": "travel",
+              "title": "Drive home"
+            },
+            {
+              "start": "12:20",
+              "end": "12:50",
+              "kind": "meal",
+              "title": "Lunch"
+            },
+            {
+              "start": "12:50",
+              "end": "14:30",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "14:30",
+              "end": "15:30",
+              "kind": "nap",
+              "title": "Nap"
+            },
+            {
+              "start": "15:30",
+              "end": "15:50",
+              "kind": "routine",
+              "title": "Up and a snack"
+            },
+            {
+              "start": "15:50",
+              "end": "17:30",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "17:30",
+              "end": "18:15",
+              "kind": "meal",
+              "title": "Dinner"
+            },
+            {
+              "start": "18:15",
+              "end": "19:00",
+              "kind": "routine",
+              "title": "Bath, books and bed"
+            }
+          ]
+        },
+        {
+          "nap": "early-nap",
+          "napLabel": "One nap, 12 to 2",
+          "headline": "Morning nature walk at Blue Jay Point County Park",
+          "main": {
+            "ref": "place:blue-jay-point-county-park",
+            "arrive": "09:00",
+            "leave": "11:00",
+            "why": "Blue Jay Point has wooded trails, a playground and open greenway that give a toddler a full morning of fresh air, birds and nature in a calm north-Raleigh setting.",
+            "tips": [
+              "Wear layers — November mornings at the lake can be cool in the shade.",
+              "A carrier is handy for the longer trail sections; the playground is a good stop at the end before you head back.",
+              "Leave by 11:00 so the drive home is relaxed and she arrives calm before the nap."
+            ],
+            "interests": [
+              "nature",
+              "movement"
+            ],
+            "also": [],
+            "area": "north-raleigh",
+            "outdoor": true,
+            "source": {
+              "kind": "park",
+              "title": "Blue Jay Point County Park",
+              "address": "3200 Pleasant Union Church Road, Raleigh, NC 27614",
+              "url": "https://www.wakegov.com/departments-government/parks-recreation-and-open-space/all-parks-trails/blue-jay-point-county-park",
+              "amenities": [
+                "playground",
+                "picnic-shelter",
+                "restroom",
+                "greenway",
+                "nature"
+              ],
+              "indoor": false,
+              "area": "north-raleigh",
+              "hours": null,
+              "lat": 35.96762827199893,
+              "lon": -78.64454785104198,
+              "cost": null
+            }
+          },
+          "alternatives": [
+            {
+              "ref": "event:museum:durham-central-park:13372",
+              "arrive": "09:00",
+              "leave": "11:00",
+              "why": "The Saturday farmer's market at Durham Central Park is bright and social — colorful stalls, fresh flowers and friendly vendors who are happy to see a curious toddler walking the aisles.",
+              "tips": [
+                "Arriving around 09:00 gives you a relaxed two hours before heading home.",
+                "Let your toddler walk the first aisle on her own, then use the carrier for the longer stretches.",
+                "Leave by 11:00 to allow drive time before the nap."
+              ],
+              "interests": [
+                "nature",
+                "movement"
+              ],
+              "also": [],
+              "area": "durham",
+              "outdoor": true,
+              "source": {
+                "kind": "event",
+                "title": "Durham Farmer’ Market",
+                "start": "2026-11-07T08:00:00",
+                "end": "2026-11-07T12:00:00",
+                "venue": "Durham Central Park",
+                "address": "501 Foster Street, Durham, NC, 27701",
+                "url": "https://durhamcentralpark.org/upcoming-event/durham-farmer-market/2026-11-07/",
+                "cost": null,
+                "ages": null,
+                "registration": null,
+                "indoor": false,
+                "area": "durham",
+                "source": "museum",
+                "dropIn": true,
+                "lat": 36.0008,
+                "lon": -78.9021
+              }
+            },
+            {
+              "ref": "event:raleigh:fall-arts-fair",
+              "arrive": "14:50",
+              "leave": "18:30",
+              "why": "A free outdoor arts fair at Fred Fletcher Park in the afternoon — artists, open lawns and easy wandering that makes for a great post-nap outing.",
+              "tips": [
+                "Bring a snack and a blanket to sit on the grass between the stalls.",
+                "Seek out any live music; toddlers this age are drawn straight to it.",
+                "Leave by 18:30 to get home and start the bedtime routine on time."
+              ],
+              "interests": [
+                "art",
+                "music",
+                "movement"
+              ],
+              "also": [],
+              "area": "raleigh",
+              "outdoor": true,
+              "source": {
+                "kind": "event",
+                "title": "Fall Arts Fair",
+                "start": "2026-11-07T15:00:00",
+                "end": "2026-11-07T21:00:00",
+                "venue": "Fred Fletcher Park",
+                "address": "805 Washington St, Raleigh, NC 27605",
+                "url": "https://raleighnc.gov/arts/events/fall-arts-fair",
+                "cost": "Free and open to the public!",
+                "ages": null,
+                "registration": null,
+                "indoor": false,
+                "area": "raleigh",
+                "source": "raleigh",
+                "dropIn": true,
+                "lat": 35.79264,
+                "lon": -78.64957
+              }
+            },
+            {
+              "ref": "event:libcal:durham-county-library:17456543",
+              "arrive": "09:50",
+              "leave": "11:00",
+              "why": "A Diwali celebration at the library with stories, songs and activities — bright decorations and festive music that make for an engaging and culturally rich morning for a toddler.",
+              "tips": [
+                "No registration is needed; arrive a few minutes before 10:00 to get settled.",
+                "The program runs just an hour, leaving the rest of the morning free.",
+                "Bring a quiet comfort toy for if your toddler needs a moment during the session."
+              ],
+              "interests": [
+                "stories",
+                "music",
+                "art"
+              ],
+              "also": [],
+              "area": "durham",
+              "outdoor": false,
+              "source": {
+                "kind": "event",
+                "title": "Celebrate Diwali at the Library!",
+                "start": "2026-11-07T10:00:00",
+                "end": "2026-11-07T11:00:00",
+                "venue": "Southwest Regional Library",
+                "address": "3605 Shannon Rd, Durham, NC",
+                "url": "https://durhamcountylibrary.libcal.com/event/17456543",
+                "cost": null,
+                "ages": "Baby, Elementary School, Intergenerational, Kindergarten, Pre-School, Toddler",
+                "registration": false,
+                "indoor": true,
+                "area": "durham",
+                "source": "libcal",
+                "dropIn": false,
+                "lat": 35.95871978266895,
+                "lon": -78.95455361473043
+              }
+            },
+            {
+              "ref": "event:wake:24350",
+              "arrive": "14:50",
+              "leave": "16:00",
+              "why": "A yoga-inspired sensory session blending movement, music and imagination at Eva Perry Regional Library — calm and engaging for a toddler in the afternoon window after the nap.",
+              "tips": [
+                "Check for tickets at the Youth Services desk when you arrive.",
+                "Dress your toddler in comfortable clothes for movement and stretching.",
+                "The session ends at 16:00, leaving time for outdoor play at Apex Community Park nearby if the weather is good."
+              ],
+              "interests": [
+                "movement",
+                "music",
+                "stories"
+              ],
+              "also": [],
+              "area": "cary-apex",
+              "outdoor": false,
+              "source": {
+                "kind": "event",
+                "title": "Sensory Time",
+                "start": "2026-11-07T15:00:00-05:00",
+                "end": "2026-11-07T16:00:00-05:00",
+                "venue": "Eva Perry Regional Library",
+                "address": "2100 Shepherds Vineyard Drive, Apex, NC",
+                "url": "https://www.wake.gov/events/sensory-time-3",
+                "cost": "Free",
+                "ages": "Young Children",
+                "registration": null,
+                "indoor": true,
+                "area": "cary-apex",
+                "source": "wake-county",
+                "dropIn": false,
+                "lat": 35.7437832024768,
+                "lon": -78.8251607833066
+              }
+            }
+          ],
+          "rainBackup": null,
+          "timeline": [
+            {
+              "start": "07:00",
+              "end": "07:30",
+              "kind": "meal",
+              "title": "Up and breakfast"
+            },
+            {
+              "start": "07:30",
+              "end": "08:20",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "08:20",
+              "end": "08:40",
+              "kind": "routine",
+              "title": "Get ready to go",
+              "detail": "Shoes on, diaper bag, water and a snack."
+            },
+            {
+              "start": "08:40",
+              "end": "09:00",
+              "kind": "travel",
+              "title": "Drive to Blue Jay Point County Park"
+            },
+            {
+              "start": "09:00",
+              "end": "11:00",
+              "kind": "outing",
+              "title": "Blue Jay Point County Park"
+            },
+            {
+              "start": "11:00",
+              "end": "11:20",
+              "kind": "travel",
+              "title": "Drive home"
+            },
+            {
+              "start": "11:20",
+              "end": "11:50",
+              "kind": "meal",
+              "title": "Lunch"
+            },
+            {
+              "start": "11:50",
+              "end": "12:00",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "12:00",
+              "end": "14:00",
+              "kind": "nap",
+              "title": "Nap"
+            },
+            {
+              "start": "14:00",
+              "end": "14:20",
+              "kind": "routine",
+              "title": "Up and a snack"
+            },
+            {
+              "start": "14:20",
+              "end": "17:30",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "17:30",
+              "end": "18:15",
+              "kind": "meal",
+              "title": "Dinner"
+            },
+            {
+              "start": "18:15",
+              "end": "19:00",
+              "kind": "routine",
+              "title": "Bath, books and bed"
+            }
+          ]
+        },
+        {
+          "nap": "late-nap",
+          "napLabel": "One nap, 1 to 3",
+          "headline": "Fall Arts Fair at Fred Fletcher Park",
+          "main": {
+            "ref": "event:raleigh:fall-arts-fair",
+            "arrive": "15:40",
+            "leave": "18:40",
+            "why": "A free outdoor arts fair at Fred Fletcher Park in the afternoon — artists showing work on the open grounds, music and wide lawns where a toddler can walk freely and take it all in at her own pace.",
+            "tips": [
+              "Bring a carrier for when legs get tired and a snack to keep energy up.",
+              "Head toward any live music first; toddlers this age respond to it immediately.",
+              "Leave by 18:40 so you are home with enough time for the bedtime routine before 19:30."
+            ],
+            "interests": [
+              "art",
+              "music",
+              "movement"
+            ],
+            "also": [],
+            "area": "raleigh",
+            "outdoor": true,
+            "source": {
+              "kind": "event",
+              "title": "Fall Arts Fair",
+              "start": "2026-11-07T15:00:00",
+              "end": "2026-11-07T21:00:00",
+              "venue": "Fred Fletcher Park",
+              "address": "805 Washington St, Raleigh, NC 27605",
+              "url": "https://raleighnc.gov/arts/events/fall-arts-fair",
+              "cost": "Free and open to the public!",
+              "ages": null,
+              "registration": null,
+              "indoor": false,
+              "area": "raleigh",
+              "source": "raleigh",
+              "dropIn": true,
+              "lat": 35.79264,
+              "lon": -78.64957
+            }
+          },
+          "alternatives": [
+            {
+              "ref": "event:museum:durham-central-park:13372",
+              "arrive": "09:00",
+              "leave": "11:30",
+              "why": "The Saturday farmer's market at Durham Central Park is a lively, colorful morning out — bright flowers, fresh produce and the open social atmosphere of a popular outdoor market.",
+              "tips": [
+                "Arriving around 09:00 gives you a relaxed two-and-a-half hours before heading home.",
+                "Let your toddler walk the stalls freely; most vendors enjoy young visitors.",
+                "Leave by 11:30 so you are home with comfortable time before the afternoon nap."
+              ],
+              "interests": [
+                "nature",
+                "movement"
+              ],
+              "also": [],
+              "area": "durham",
+              "outdoor": true,
+              "source": {
+                "kind": "event",
+                "title": "Durham Farmer’ Market",
+                "start": "2026-11-07T08:00:00",
+                "end": "2026-11-07T12:00:00",
+                "venue": "Durham Central Park",
+                "address": "501 Foster Street, Durham, NC, 27701",
+                "url": "https://durhamcentralpark.org/upcoming-event/durham-farmer-market/2026-11-07/",
+                "cost": null,
+                "ages": null,
+                "registration": null,
+                "indoor": false,
+                "area": "durham",
+                "source": "museum",
+                "dropIn": true,
+                "lat": 36.0008,
+                "lon": -78.9021
+              }
+            },
+            {
+              "ref": "event:wake:22397",
+              "arrive": "09:50",
+              "leave": "11:00",
+              "why": "A short, lively storytime with books, music and movement at Leesville Community Library, then a play at the greenway park right nearby for fresh air before heading home for the nap.",
+              "tips": [
+                "Arrive at 09:50 to get settled before the program begins at 10:00.",
+                "The park has a greenway good for a gentle walk at a toddler's pace after storytime.",
+                "Leave the park by 11:00 so you are home well before the nap."
+              ],
+              "interests": [
+                "stories",
+                "music",
+                "nature"
+              ],
+              "also": [
+                {
+                  "ref": "place:leesville-community-park",
+                  "source": {
+                    "kind": "park",
+                    "title": "Leesville Community Park",
+                    "address": "5105 Country Trail, Raleigh, NC 27613",
+                    "url": "https://raleighnc.gov/parks-and-recreation/places/leesville-community-park",
+                    "amenities": [
+                      "greenway",
+                      "playground",
+                      "garden"
+                    ],
+                    "indoor": false,
+                    "area": "north-raleigh",
+                    "hours": null,
+                    "lat": 35.88424,
+                    "lon": -78.71549,
+                    "cost": null
+                  }
+                }
+              ],
+              "area": "north-raleigh",
+              "outdoor": false,
+              "source": {
+                "kind": "event",
+                "title": "Family Storytime",
+                "start": "2026-11-07T10:00:00-05:00",
+                "end": "2026-11-07T10:30:00-05:00",
+                "venue": "Leesville Community Library",
+                "address": "5105 Country Trail, Raleigh, NC 27613",
+                "url": "https://www.wake.gov/events/family-storytime-4199",
+                "cost": "Free",
+                "ages": "Young Children",
+                "registration": null,
+                "indoor": true,
+                "area": "north-raleigh",
+                "source": "wake-county",
+                "dropIn": false,
+                "lat": 35.88424,
+                "lon": -78.71549
+              }
+            },
+            {
+              "ref": "event:museum:duke-gardens:17494",
+              "arrive": "15:20",
+              "leave": "16:00",
+              "why": "Mid-afternoon at Duke Gardens is quieter than the morning — the chrysanthemum display in the Japanese Garden is still vivid and the paths are easy to navigate at a toddler's pace.",
+              "tips": [
+                "Bring a snack for the stroller walk through the longer paths.",
+                "Lift your toddler out at the display beds so she can look closely at the flowers.",
+                "Leave by 16:00 so you have time for dinner before the bedtime routine."
+              ],
+              "interests": [
+                "nature",
+                "art"
+              ],
+              "also": [],
+              "area": "durham",
+              "outdoor": true,
+              "source": {
+                "kind": "event",
+                "title": "A Festival of Fabulous Mums",
+                "start": "2026-11-07T10:00:00",
+                "end": "2026-11-07T16:00:00",
+                "venue": "Sarah P. Duke Gardens",
+                "address": "420 Anderson Street, Durham, NC, 27708",
+                "url": "https://gardens.duke.edu/event/a-festival-of-fabulous-mums-5/",
+                "cost": "Free",
+                "ages": "Adult Programs Family programs Festival of Fabulous Mums",
+                "registration": false,
+                "indoor": false,
+                "area": "durham",
+                "source": "museum",
+                "dropIn": true,
+                "lat": 36.0024,
+                "lon": -78.9328
+              }
+            },
+            {
+              "ref": "place:blue-jay-point-county-park",
+              "arrive": "09:00",
+              "leave": "11:00",
+              "why": "A morning nature walk at Blue Jay Point, with wooded paths and a playground overlooking the lake — a calm outdoor outing that works well before the afternoon nap.",
+              "tips": [
+                "Dress in layers for the shaded trails in November.",
+                "A carrier is useful on the longer trail sections.",
+                "Leave by 11:00 to allow drive time and a relaxed wind-down before the nap."
+              ],
+              "interests": [
+                "nature",
+                "movement"
+              ],
+              "also": [],
+              "area": "north-raleigh",
+              "outdoor": true,
+              "source": {
+                "kind": "park",
+                "title": "Blue Jay Point County Park",
+                "address": "3200 Pleasant Union Church Road, Raleigh, NC 27614",
+                "url": "https://www.wakegov.com/departments-government/parks-recreation-and-open-space/all-parks-trails/blue-jay-point-county-park",
+                "amenities": [
+                  "playground",
+                  "picnic-shelter",
+                  "restroom",
+                  "greenway",
+                  "nature"
+                ],
+                "indoor": false,
+                "area": "north-raleigh",
+                "hours": null,
+                "lat": 35.96762827199893,
+                "lon": -78.64454785104198,
+                "cost": null
+              }
+            }
+          ],
+          "rainBackup": null,
+          "timeline": [
+            {
+              "start": "07:00",
+              "end": "07:30",
+              "kind": "meal",
+              "title": "Up and breakfast"
+            },
+            {
+              "start": "07:30",
+              "end": "12:15",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "12:15",
+              "end": "12:45",
+              "kind": "meal",
+              "title": "Lunch"
+            },
+            {
+              "start": "12:45",
+              "end": "13:00",
+              "kind": "quiet",
+              "title": "Wind down",
+              "detail": "A couple of books to settle."
+            },
+            {
+              "start": "13:00",
+              "end": "15:00",
+              "kind": "nap",
+              "title": "Nap"
+            },
+            {
+              "start": "15:00",
+              "end": "15:20",
+              "kind": "routine",
+              "title": "Up and a snack"
+            },
+            {
+              "start": "15:20",
+              "end": "15:40",
+              "kind": "travel",
+              "title": "Drive to Fred Fletcher Park"
+            },
+            {
+              "start": "15:40",
+              "end": "18:40",
+              "kind": "outing",
+              "title": "Fred Fletcher Park"
+            },
+            {
+              "start": "18:40",
+              "end": "19:00",
+              "kind": "travel",
+              "title": "Drive home"
+            },
+            {
+              "start": "18:45",
+              "end": "19:30",
+              "kind": "routine",
+              "title": "Bath, books and bed"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "checked": {
+    "at": "2026-11-01T11:05:15.798Z",
+    "forecast": "nws",
+    "weather": {
+      "period": "Saturday",
+      "tempF": 74,
+      "precipProbability": 16,
+      "shortForecast": "Slight Chance Rain Showers then Partly Sunny",
+      "hours": [
+        {
+          "t": "05:00",
+          "tempF": 58,
+          "pop": 16
+        },
+        {
+          "t": "06:00",
+          "tempF": 57,
+          "pop": 16
+        },
+        {
+          "t": "07:00",
+          "tempF": 58,
+          "pop": 9
+        },
+        {
+          "t": "08:00",
+          "tempF": 60,
+          "pop": 9
+        },
+        {
+          "t": "09:00",
+          "tempF": 64,
+          "pop": 9
+        },
+        {
+          "t": "10:00",
+          "tempF": 67,
+          "pop": 9
+        },
+        {
+          "t": "11:00",
+          "tempF": 69,
+          "pop": 9
+        },
+        {
+          "t": "12:00",
+          "tempF": 71,
+          "pop": 9
+        },
+        {
+          "t": "13:00",
+          "tempF": 72,
+          "pop": 7
+        },
+        {
+          "t": "14:00",
+          "tempF": 73,
+          "pop": 7
+        },
+        {
+          "t": "15:00",
+          "tempF": 74,
+          "pop": 7
+        },
+        {
+          "t": "16:00",
+          "tempF": 73,
+          "pop": 7
+        },
+        {
+          "t": "17:00",
+          "tempF": 71,
+          "pop": 7
+        }
+      ]
+    },
+    "hidden": []
+  }
+}

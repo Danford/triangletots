@@ -1,0 +1,1337 @@
+{
+  "date": "2026-11-02",
+  "band": "t2",
+  "versions": [
+    {
+      "at": "2026-10-27T00:58:05.612Z",
+      "reason": null,
+      "forecast": "nws",
+      "weather": {
+        "period": "Monday",
+        "tempF": 74,
+        "precipProbability": 44,
+        "shortForecast": "Chance Rain Showers"
+      },
+      "plans": [
+        {
+          "nap": "early-nap",
+          "napLabel": "One nap, 12 to 2",
+          "headline": "Toddler and Preschool Storytime at East Regional Library, then Knightdale Station Park",
+          "main": {
+            "ref": "event:wake:21630",
+            "arrive": "09:05",
+            "leave": "11:15",
+            "why": "Back-to-back storytimes at East Regional Library give a 2.5-year-old a full morning of books, music and movement, then Knightdale Station Park right next door is a great run-around before the drive home for the nap.",
+            "tips": [
+              "Pick up a ticket at the Youth Services desk when you arrive — both programs are free and space fills up.",
+              "Bring a snack for the park so the transition from library to outdoors is easy.",
+              "Weather permitting, spend 20 minutes at Knightdale Station Park; if it rains, head straight home after storytime."
+            ],
+            "also": [
+              {
+                "ref": "event:wake:21651",
+                "source": {
+                  "kind": "event",
+                  "title": "Preschool Storytime",
+                  "start": "2026-11-02T10:15:00-05:00",
+                  "end": "2026-11-02T10:45:00-05:00",
+                  "venue": "East Regional Library",
+                  "address": "946 Steeple Square Court, Knightdale, NC",
+                  "url": "https://www.wake.gov/events/preschool-storytime-236",
+                  "cost": "Free",
+                  "ages": "Young Children",
+                  "registration": null,
+                  "indoor": true,
+                  "area": "east-wake",
+                  "source": "wake-county",
+                  "dropIn": false,
+                  "lat": 35.8028243321954,
+                  "lon": -78.487155767495
+                }
+              },
+              {
+                "ref": "place:knightdale-station-park",
+                "source": {
+                  "kind": "park",
+                  "title": "Knightdale Station Park",
+                  "address": "810 North First Avenue, Knightdale, NC",
+                  "url": "https://www.knightdalenc.gov/knightdalestationpark",
+                  "amenities": [
+                    "playground",
+                    "picnic-shelter",
+                    "greenway"
+                  ],
+                  "indoor": false,
+                  "area": "east-wake",
+                  "hours": null,
+                  "lat": 35.795776739559024,
+                  "lon": -78.47584503817626,
+                  "cost": null
+                }
+              }
+            ],
+            "interests": [
+              "stories",
+              "music",
+              "movement"
+            ],
+            "area": "east-wake",
+            "outdoor": false,
+            "source": {
+              "kind": "event",
+              "title": "Toddler Storytime",
+              "start": "2026-11-02T09:15:00-05:00",
+              "end": "2026-11-02T09:45:00-05:00",
+              "venue": "East Regional Library",
+              "address": "946 Steeple Square Court, Knightdale, NC",
+              "url": "https://www.wake.gov/events/toddler-storytime-961",
+              "cost": "Free",
+              "ages": "Young Children",
+              "registration": null,
+              "indoor": true,
+              "area": "east-wake",
+              "source": "wake-county",
+              "dropIn": false,
+              "lat": 35.8028243321954,
+              "lon": -78.487155767495
+            }
+          },
+          "alternatives": [
+            {
+              "ref": "event:wake:22342",
+              "arrive": "09:50",
+              "leave": "11:10",
+              "why": "Family Storytime at Leesville Community Library, then Leesville Community Park for outdoor play before the nap.",
+              "tips": [
+                "Pick up a ticket at the desk when you arrive.",
+                "Bring a snack for the park.",
+                "Weather permitting, spend 20 minutes at the park after storytime."
+              ],
+              "also": [
+                {
+                  "ref": "place:leesville-community-park",
+                  "source": {
+                    "kind": "park",
+                    "title": "Leesville Community Park",
+                    "address": "5105 Country Trail, Raleigh, NC 27613",
+                    "url": "https://raleighnc.gov/parks-and-recreation/places/leesville-community-park",
+                    "amenities": [
+                      "greenway",
+                      "playground",
+                      "garden"
+                    ],
+                    "indoor": false,
+                    "area": "north-raleigh",
+                    "hours": null,
+                    "lat": 35.88424,
+                    "lon": -78.71549,
+                    "cost": null
+                  }
+                }
+              ],
+              "interests": [
+                "stories",
+                "music",
+                "movement"
+              ],
+              "area": "north-raleigh",
+              "outdoor": false,
+              "source": {
+                "kind": "event",
+                "title": "Family Storytime",
+                "start": "2026-11-02T10:00:00-05:00",
+                "end": "2026-11-02T10:30:00-05:00",
+                "venue": "Leesville Community Library",
+                "address": "5105 Country Trail, Raleigh, NC 27613",
+                "url": "https://www.wake.gov/events/family-storytime-4156",
+                "cost": "Free",
+                "ages": "Young Children",
+                "registration": null,
+                "indoor": true,
+                "area": "north-raleigh",
+                "source": "wake-county",
+                "dropIn": false,
+                "lat": 35.88424,
+                "lon": -78.71549
+              }
+            },
+            {
+              "ref": "event:wake:23147",
+              "arrive": "09:20",
+              "leave": "10:40",
+              "why": "Toddler Storytime at West Regional Library, then Fred Fletcher Park nearby for outdoor play on a mild morning.",
+              "tips": [
+                "No registration needed.",
+                "Bring a snack and water for the park.",
+                "Weather permitting, stop at Fred Fletcher Park for 20 minutes after storytime."
+              ],
+              "also": [
+                {
+                  "ref": "place:fred-fletcher-park",
+                  "source": {
+                    "kind": "park",
+                    "title": "Fred Fletcher Park",
+                    "address": "820 Clay Street, Raleigh, NC 27605",
+                    "url": "https://raleighnc.gov/parks-and-recreation/places/fred-fletcher-park",
+                    "amenities": [
+                      "garden",
+                      "picnic-shelter",
+                      "courts",
+                      "fields",
+                      "playground"
+                    ],
+                    "indoor": false,
+                    "area": "raleigh",
+                    "hours": null,
+                    "lat": 35.79264,
+                    "lon": -78.64957,
+                    "cost": null
+                  }
+                }
+              ],
+              "interests": [
+                "stories",
+                "music",
+                "movement"
+              ],
+              "area": "raleigh",
+              "outdoor": false,
+              "source": {
+                "kind": "event",
+                "title": "Toddler Storytime",
+                "start": "2026-11-02T09:30:00-05:00",
+                "end": "2026-11-02T10:00:00-05:00",
+                "venue": "West Regional Library",
+                "address": "4000 Louis Stephens Drive, Cary, NC, 27519",
+                "url": "https://www.wake.gov/events/toddler-storytime-1080",
+                "cost": null,
+                "ages": "Young Children",
+                "registration": null,
+                "indoor": true,
+                "area": "raleigh",
+                "source": "wake-county",
+                "dropIn": false,
+                "lat": 35.78554,
+                "lon": -78.65385
+              }
+            },
+            {
+              "ref": "event:museum:durham-central-park:13908",
+              "arrive": "16:50",
+              "leave": "18:00",
+              "why": "Fringe Festival: Procession of the Cardinals at Durham Central Park is a free outdoor evening event — a colourful, unusual afternoon outing after the nap.",
+              "tips": [
+                "It runs right at the nap's end; keep the afternoon low-key so everyone has energy for it.",
+                "Bring a light layer for the early evening.",
+                "The park playground is right there if your child needs to run before or after."
+              ],
+              "interests": [
+                "art",
+                "music",
+                "movement"
+              ],
+              "also": [],
+              "area": "durham",
+              "outdoor": true,
+              "source": {
+                "kind": "event",
+                "title": "Fringe Festival: Procession of the Cardinals",
+                "start": "2026-11-02T17:00:00",
+                "end": "2026-11-02T18:00:00",
+                "venue": "Durham Central Park",
+                "address": "501 Foster Street, Durham, NC, 27701",
+                "url": "https://durhamcentralpark.org/upcoming-event/fringe-festival-procession-of-the-cardinals/",
+                "cost": null,
+                "ages": null,
+                "registration": null,
+                "indoor": false,
+                "area": "durham",
+                "source": "museum",
+                "dropIn": false,
+                "lat": 36.0008,
+                "lon": -78.9021
+              }
+            },
+            {
+              "ref": "event:libcal:durham-county-library:16966211",
+              "arrive": "10:20",
+              "leave": "11:30",
+              "why": "Mini Makers Workshop at North Regional Library in Durham is a hands-on craft session for toddlers — a creative indoor morning, then Honeycutt Park nearby for outdoor play.",
+              "tips": [
+                "Registration is required; confirm your spot beforehand.",
+                "Bring a change of clothes in case of glue or paint.",
+                "Weather permitting, stop at Honeycutt Park for 20 minutes after."
+              ],
+              "also": [
+                {
+                  "ref": "place:honeycutt-park",
+                  "source": {
+                    "kind": "park",
+                    "title": "Honeycutt Park",
+                    "address": "1032 Clear Creek Farm Road, Raleigh, NC 27615",
+                    "url": "https://raleighnc.gov/parks-and-recreation/places/honeycutt-park",
+                    "amenities": [
+                      "picnic-shelter",
+                      "courts",
+                      "fields",
+                      "playground"
+                    ],
+                    "indoor": false,
+                    "area": "north-raleigh",
+                    "hours": null,
+                    "lat": 35.9023,
+                    "lon": -78.6259,
+                    "cost": null
+                  }
+                }
+              ],
+              "interests": [
+                "art",
+                "science",
+                "movement"
+              ],
+              "area": "durham",
+              "outdoor": false,
+              "source": {
+                "kind": "event",
+                "title": "Mini Makers Workshop",
+                "start": "2026-11-02T10:30:00",
+                "end": "2026-11-02T11:00:00",
+                "venue": "North Regional Library",
+                "address": "221 Milton Rd, Durham, NC",
+                "url": "https://durhamcountylibrary.libcal.com/event/16966211",
+                "cost": null,
+                "ages": "Elementary School, Kindergarten, Toddler, DPS",
+                "registration": "https://durhamcountylibrary.libcal.com/event/16966211",
+                "indoor": true,
+                "area": "durham",
+                "source": "libcal",
+                "dropIn": false,
+                "lat": 35.880907380619,
+                "lon": -78.6281516610688
+              }
+            }
+          ],
+          "rainBackup": null,
+          "timeline": [
+            {
+              "start": "07:00",
+              "end": "07:30",
+              "kind": "meal",
+              "title": "Up and breakfast"
+            },
+            {
+              "start": "07:30",
+              "end": "08:25",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "08:25",
+              "end": "08:45",
+              "kind": "routine",
+              "title": "Get ready to go",
+              "detail": "Shoes on, diaper bag, water and a snack."
+            },
+            {
+              "start": "08:45",
+              "end": "09:05",
+              "kind": "travel",
+              "title": "Drive to East Regional Library"
+            },
+            {
+              "start": "09:05",
+              "end": "09:45",
+              "kind": "outing",
+              "title": "Toddler Storytime"
+            },
+            {
+              "start": "09:45",
+              "end": "09:55",
+              "kind": "travel",
+              "title": "Drive to East Regional Library"
+            },
+            {
+              "start": "09:55",
+              "end": "10:45",
+              "kind": "outing",
+              "title": "Preschool Storytime"
+            },
+            {
+              "start": "10:45",
+              "end": "10:55",
+              "kind": "travel",
+              "title": "Drive to Knightdale Station Park"
+            },
+            {
+              "start": "10:55",
+              "end": "11:15",
+              "kind": "outing",
+              "title": "Knightdale Station Park"
+            },
+            {
+              "start": "11:15",
+              "end": "11:35",
+              "kind": "travel",
+              "title": "Drive home"
+            },
+            {
+              "start": "11:35",
+              "end": "12:00",
+              "kind": "meal",
+              "title": "Lunch"
+            },
+            {
+              "start": "12:00",
+              "end": "14:00",
+              "kind": "nap",
+              "title": "Nap"
+            },
+            {
+              "start": "14:00",
+              "end": "14:20",
+              "kind": "routine",
+              "title": "Up and a snack"
+            },
+            {
+              "start": "14:20",
+              "end": "18:00",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "18:00",
+              "end": "18:45",
+              "kind": "meal",
+              "title": "Dinner"
+            },
+            {
+              "start": "18:45",
+              "end": "19:30",
+              "kind": "routine",
+              "title": "Bath, books and bed"
+            }
+          ]
+        },
+        {
+          "nap": "late-nap",
+          "napLabel": "One nap, 1 to 3",
+          "headline": "Total Tot Time at Walltown Park Rec Ctr, then Walltown Park",
+          "main": {
+            "ref": "event:durham-rec:19841:2026-11-02",
+            "arrive": "09:50",
+            "leave": "12:30",
+            "why": "Total Tot Time fills the gym with parachutes, tunnels and other toddlers for two hours of big-body play — then Walltown Park right next door rounds the morning off with fresh air before the drive home for lunch.",
+            "tips": [
+              "Registration is required; confirm your spot the evening before.",
+              "Pack a water bottle and a snack for the park stop after.",
+              "Weather permitting, spend 20 minutes at Walltown Park after the session."
+            ],
+            "also": [
+              {
+                "ref": "place:walltown-park",
+                "source": {
+                  "kind": "park",
+                  "title": "Walltown Park",
+                  "address": "1308 W Club Blvd, Durham, NC",
+                  "url": "https://www.dprplaymore.org/Facilities/Facility/Details/Walltown-Park-74",
+                  "amenities": [
+                    "playground",
+                    "picnic-shelter"
+                  ],
+                  "indoor": false,
+                  "area": "durham",
+                  "hours": null,
+                  "lat": 36.018264,
+                  "lon": -78.91403399999999,
+                  "cost": null
+                }
+              }
+            ],
+            "interests": [
+              "movement",
+              "science",
+              "animals"
+            ],
+            "area": "durham",
+            "outdoor": false,
+            "source": {
+              "kind": "event",
+              "title": "Total Tot Time",
+              "start": "2026-11-02T10:00:00",
+              "end": "2026-11-02T12:00:00",
+              "venue": "Walltown Park Rec Ctr",
+              "address": "1308 W Club Blvd, Durham, NC",
+              "url": "https://apm.activecommunities.com/dprplaymore/Activity_Search/total-tot-time/19841?locale=en-US",
+              "cost": null,
+              "ages": "0 - 4",
+              "registration": "https://apm.activecommunities.com/dprplaymore/Activity_Search/total-tot-time/19841?locale=en-US",
+              "indoor": true,
+              "area": "durham",
+              "source": "durham-rec",
+              "dropIn": false,
+              "lat": 36.018264,
+              "lon": -78.91403399999999
+            }
+          },
+          "alternatives": [
+            {
+              "ref": "event:wake:21630",
+              "arrive": "09:05",
+              "leave": "11:15",
+              "why": "Toddler and Preschool Storytime back-to-back at East Regional Library, then Knightdale Station Park for outdoor play before the drive home.",
+              "tips": [
+                "Pick up a ticket at the Youth Services desk on arrival.",
+                "Bring a snack for the park.",
+                "Weather permitting, spend 20 minutes at Knightdale Station Park after."
+              ],
+              "also": [
+                {
+                  "ref": "event:wake:21651",
+                  "source": {
+                    "kind": "event",
+                    "title": "Preschool Storytime",
+                    "start": "2026-11-02T10:15:00-05:00",
+                    "end": "2026-11-02T10:45:00-05:00",
+                    "venue": "East Regional Library",
+                    "address": "946 Steeple Square Court, Knightdale, NC",
+                    "url": "https://www.wake.gov/events/preschool-storytime-236",
+                    "cost": "Free",
+                    "ages": "Young Children",
+                    "registration": null,
+                    "indoor": true,
+                    "area": "east-wake",
+                    "source": "wake-county",
+                    "dropIn": false,
+                    "lat": 35.8028243321954,
+                    "lon": -78.487155767495
+                  }
+                },
+                {
+                  "ref": "place:knightdale-station-park",
+                  "source": {
+                    "kind": "park",
+                    "title": "Knightdale Station Park",
+                    "address": "810 North First Avenue, Knightdale, NC",
+                    "url": "https://www.knightdalenc.gov/knightdalestationpark",
+                    "amenities": [
+                      "playground",
+                      "picnic-shelter",
+                      "greenway"
+                    ],
+                    "indoor": false,
+                    "area": "east-wake",
+                    "hours": null,
+                    "lat": 35.795776739559024,
+                    "lon": -78.47584503817626,
+                    "cost": null
+                  }
+                }
+              ],
+              "interests": [
+                "stories",
+                "music",
+                "movement"
+              ],
+              "area": "east-wake",
+              "outdoor": false,
+              "source": {
+                "kind": "event",
+                "title": "Toddler Storytime",
+                "start": "2026-11-02T09:15:00-05:00",
+                "end": "2026-11-02T09:45:00-05:00",
+                "venue": "East Regional Library",
+                "address": "946 Steeple Square Court, Knightdale, NC",
+                "url": "https://www.wake.gov/events/toddler-storytime-961",
+                "cost": "Free",
+                "ages": "Young Children",
+                "registration": null,
+                "indoor": true,
+                "area": "east-wake",
+                "source": "wake-county",
+                "dropIn": false,
+                "lat": 35.8028243321954,
+                "lon": -78.487155767495
+              }
+            },
+            {
+              "ref": "event:libcal:durham-county-library:16966211",
+              "arrive": "10:20",
+              "leave": "11:40",
+              "why": "Mini Makers Workshop at North Regional Library is a hands-on craft session for toddlers, then Honeycutt Park nearby for outdoor play before the drive home.",
+              "tips": [
+                "Registration is required.",
+                "Bring a change of clothes in case of glue or paint.",
+                "Weather permitting, stop at Honeycutt Park for 20 minutes after."
+              ],
+              "also": [
+                {
+                  "ref": "place:honeycutt-park",
+                  "source": {
+                    "kind": "park",
+                    "title": "Honeycutt Park",
+                    "address": "1032 Clear Creek Farm Road, Raleigh, NC 27615",
+                    "url": "https://raleighnc.gov/parks-and-recreation/places/honeycutt-park",
+                    "amenities": [
+                      "picnic-shelter",
+                      "courts",
+                      "fields",
+                      "playground"
+                    ],
+                    "indoor": false,
+                    "area": "north-raleigh",
+                    "hours": null,
+                    "lat": 35.9023,
+                    "lon": -78.6259,
+                    "cost": null
+                  }
+                }
+              ],
+              "interests": [
+                "art",
+                "science",
+                "movement"
+              ],
+              "area": "durham",
+              "outdoor": false,
+              "source": {
+                "kind": "event",
+                "title": "Mini Makers Workshop",
+                "start": "2026-11-02T10:30:00",
+                "end": "2026-11-02T11:00:00",
+                "venue": "North Regional Library",
+                "address": "221 Milton Rd, Durham, NC",
+                "url": "https://durhamcountylibrary.libcal.com/event/16966211",
+                "cost": null,
+                "ages": "Elementary School, Kindergarten, Toddler, DPS",
+                "registration": "https://durhamcountylibrary.libcal.com/event/16966211",
+                "indoor": true,
+                "area": "durham",
+                "source": "libcal",
+                "dropIn": false,
+                "lat": 35.880907380619,
+                "lon": -78.6281516610688
+              }
+            },
+            {
+              "ref": "event:wake:22430",
+              "arrive": "09:20",
+              "leave": "10:40",
+              "why": "Family Storytime at Cary Regional Library, then Heater Park nearby for outdoor play on a mild morning.",
+              "tips": [
+                "Pick up a ticket at the desk on arrival.",
+                "Bring a snack for the park.",
+                "Weather permitting, spend 20 minutes at Heater Park after storytime."
+              ],
+              "also": [
+                {
+                  "ref": "place:heater-park",
+                  "source": {
+                    "kind": "park",
+                    "title": "Heater Park",
+                    "address": "400 S West Street, Cary, NC",
+                    "url": "https://www.carync.gov/recreation-enjoyment/parks-greenways-environment/parks/heater-park",
+                    "amenities": [
+                      "playground"
+                    ],
+                    "indoor": false,
+                    "area": "cary-apex",
+                    "hours": null,
+                    "lat": 35.782741238152695,
+                    "lon": -78.78762242839083,
+                    "cost": null
+                  }
+                }
+              ],
+              "interests": [
+                "stories",
+                "music",
+                "movement"
+              ],
+              "area": "cary-apex",
+              "outdoor": false,
+              "source": {
+                "kind": "event",
+                "title": "Family Storytime",
+                "start": "2026-11-02T09:30:00-05:00",
+                "end": "2026-11-02T10:00:00-05:00",
+                "venue": "Cary Regional Library",
+                "address": "315 Kildaire Farm Road, Cary, NC",
+                "url": "https://www.wake.gov/events/family-storytime-4217",
+                "cost": "Free",
+                "ages": "Young Children",
+                "registration": null,
+                "indoor": true,
+                "area": "cary-apex",
+                "source": "wake-county",
+                "dropIn": false,
+                "lat": 35.7829780174653,
+                "lon": -78.780241332586
+              }
+            },
+            {
+              "ref": "event:museum:durham-central-park:13908",
+              "arrive": "16:50",
+              "leave": "18:00",
+              "why": "Fringe Festival: Procession of the Cardinals at Durham Central Park is a free outdoor evening event after the nap — colourful and unusual.",
+              "tips": [
+                "Bring a light layer for the early evening.",
+                "It's a drop-in so come and go as you like.",
+                "The park playground is right there if your child needs to run."
+              ],
+              "interests": [
+                "art",
+                "music",
+                "movement"
+              ],
+              "also": [],
+              "area": "durham",
+              "outdoor": true,
+              "source": {
+                "kind": "event",
+                "title": "Fringe Festival: Procession of the Cardinals",
+                "start": "2026-11-02T17:00:00",
+                "end": "2026-11-02T18:00:00",
+                "venue": "Durham Central Park",
+                "address": "501 Foster Street, Durham, NC, 27701",
+                "url": "https://durhamcentralpark.org/upcoming-event/fringe-festival-procession-of-the-cardinals/",
+                "cost": null,
+                "ages": null,
+                "registration": null,
+                "indoor": false,
+                "area": "durham",
+                "source": "museum",
+                "dropIn": false,
+                "lat": 36.0008,
+                "lon": -78.9021
+              }
+            }
+          ],
+          "rainBackup": null,
+          "timeline": [
+            {
+              "start": "07:00",
+              "end": "07:30",
+              "kind": "meal",
+              "title": "Up and breakfast"
+            },
+            {
+              "start": "07:30",
+              "end": "09:10",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "09:10",
+              "end": "09:30",
+              "kind": "routine",
+              "title": "Get ready to go",
+              "detail": "Shoes on, diaper bag, water and a snack."
+            },
+            {
+              "start": "09:30",
+              "end": "09:50",
+              "kind": "travel",
+              "title": "Drive to Walltown Park Rec Ctr"
+            },
+            {
+              "start": "09:50",
+              "end": "12:00",
+              "kind": "outing",
+              "title": "Total Tot Time",
+              "detail": "Pack a lunch to eat there."
+            },
+            {
+              "start": "12:00",
+              "end": "12:10",
+              "kind": "travel",
+              "title": "Drive to Walltown Park"
+            },
+            {
+              "start": "12:10",
+              "end": "12:30",
+              "kind": "outing",
+              "title": "Walltown Park"
+            },
+            {
+              "start": "12:30",
+              "end": "12:50",
+              "kind": "travel",
+              "title": "Drive home"
+            },
+            {
+              "start": "12:50",
+              "end": "13:00",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "13:00",
+              "end": "15:00",
+              "kind": "nap",
+              "title": "Nap"
+            },
+            {
+              "start": "15:00",
+              "end": "15:20",
+              "kind": "routine",
+              "title": "Up and a snack"
+            },
+            {
+              "start": "15:20",
+              "end": "18:30",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "18:30",
+              "end": "19:15",
+              "kind": "meal",
+              "title": "Dinner"
+            },
+            {
+              "start": "19:15",
+              "end": "20:00",
+              "kind": "routine",
+              "title": "Bath, books and bed"
+            }
+          ]
+        },
+        {
+          "nap": "short-nap",
+          "napLabel": "Short nap, 1 to 2",
+          "headline": "Beech Bluff County Park StoryWalk, then Beech Bluff County Park",
+          "main": {
+            "ref": "event:wake-parks:8358:2026-11-02",
+            "arrive": "08:20",
+            "leave": "10:30",
+            "why": "The self-guided StoryWalk weaves a picture book along the flat ADA-accessible loop at Beech Bluff County Park, then the park's playground and garden give a 2.5-year-old room to run and explore before the long drive home.",
+            "tips": [
+              "The loop takes about 30–40 minutes at toddler pace; let your child turn each story page to keep the walk moving.",
+              "Bring a snack and water for the playground stretch after the storywalk.",
+              "If rain moves in, head home early — the morning is still worth going for even a short visit."
+            ],
+            "also": [
+              {
+                "ref": "place:beech-bluff-county-park",
+                "source": {
+                  "kind": "park",
+                  "title": "Beech Bluff County Park",
+                  "address": "Beech Bluff Park Drive, Fuquay-Varina, NC",
+                  "url": "https://www.wake.gov/departments-government/parks-recreation-open-space/all-parks-trails/beech-bluff-county-park",
+                  "amenities": [
+                    "playground",
+                    "garden",
+                    "greenway",
+                    "restroom",
+                    "picnic-shelter"
+                  ],
+                  "indoor": false,
+                  "area": "south-wake",
+                  "hours": null,
+                  "lat": 35.58537279715877,
+                  "lon": -78.6793341971644,
+                  "cost": null
+                }
+              }
+            ],
+            "interests": [
+              "stories",
+              "nature",
+              "movement"
+            ],
+            "area": "south-wake",
+            "outdoor": true,
+            "source": {
+              "kind": "event",
+              "title": "Beech Bluff County Park StoryWalk® 2026 (Self-Led)",
+              "start": "2026-11-02T08:00:00",
+              "end": "2026-11-02T17:30:00",
+              "venue": "Beech Bluff County Park",
+              "address": "Beech Bluff Park Drive, Fuquay-Varina, NC",
+              "url": "https://apm.activecommunities.com/wakeparks/Activity_Search/beech-bluff-county-park-storywalk-2026-self-led/8358?locale=en-US",
+              "cost": "Free",
+              "ages": null,
+              "registration": false,
+              "indoor": false,
+              "area": "south-wake",
+              "source": "wake-parks",
+              "dropIn": true,
+              "lat": 35.58537279715877,
+              "lon": -78.6793341971644
+            }
+          },
+          "alternatives": [
+            {
+              "ref": "event:wake:21630",
+              "arrive": "09:05",
+              "leave": "11:15",
+              "why": "Toddler and Preschool Storytime back-to-back at East Regional Library, then Knightdale Station Park for outdoor play before the drive home.",
+              "tips": [
+                "Pick up a ticket at the Youth Services desk on arrival.",
+                "Bring a snack for the park.",
+                "Weather permitting, spend 20 minutes at Knightdale Station Park after."
+              ],
+              "also": [
+                {
+                  "ref": "event:wake:21651",
+                  "source": {
+                    "kind": "event",
+                    "title": "Preschool Storytime",
+                    "start": "2026-11-02T10:15:00-05:00",
+                    "end": "2026-11-02T10:45:00-05:00",
+                    "venue": "East Regional Library",
+                    "address": "946 Steeple Square Court, Knightdale, NC",
+                    "url": "https://www.wake.gov/events/preschool-storytime-236",
+                    "cost": "Free",
+                    "ages": "Young Children",
+                    "registration": null,
+                    "indoor": true,
+                    "area": "east-wake",
+                    "source": "wake-county",
+                    "dropIn": false,
+                    "lat": 35.8028243321954,
+                    "lon": -78.487155767495
+                  }
+                },
+                {
+                  "ref": "place:knightdale-station-park",
+                  "source": {
+                    "kind": "park",
+                    "title": "Knightdale Station Park",
+                    "address": "810 North First Avenue, Knightdale, NC",
+                    "url": "https://www.knightdalenc.gov/knightdalestationpark",
+                    "amenities": [
+                      "playground",
+                      "picnic-shelter",
+                      "greenway"
+                    ],
+                    "indoor": false,
+                    "area": "east-wake",
+                    "hours": null,
+                    "lat": 35.795776739559024,
+                    "lon": -78.47584503817626,
+                    "cost": null
+                  }
+                }
+              ],
+              "interests": [
+                "stories",
+                "music",
+                "movement"
+              ],
+              "area": "east-wake",
+              "outdoor": false,
+              "source": {
+                "kind": "event",
+                "title": "Toddler Storytime",
+                "start": "2026-11-02T09:15:00-05:00",
+                "end": "2026-11-02T09:45:00-05:00",
+                "venue": "East Regional Library",
+                "address": "946 Steeple Square Court, Knightdale, NC",
+                "url": "https://www.wake.gov/events/toddler-storytime-961",
+                "cost": "Free",
+                "ages": "Young Children",
+                "registration": null,
+                "indoor": true,
+                "area": "east-wake",
+                "source": "wake-county",
+                "dropIn": false,
+                "lat": 35.8028243321954,
+                "lon": -78.487155767495
+              }
+            },
+            {
+              "ref": "event:libcal:durham-county-library:15558955",
+              "arrive": "10:20",
+              "leave": "11:30",
+              "why": "Silly Stories with Ms. Olivia at Southwest Regional Library is a relaxed, musical storytime — a fun indoor morning in Durham, then Old Chapel Hill Road Park nearby for outdoor play.",
+              "tips": [
+                "No registration needed.",
+                "Bring a snack for the park.",
+                "Weather permitting, spend 20 minutes at Old Chapel Hill Road Park after."
+              ],
+              "also": [
+                {
+                  "ref": "place:old-chapel-hill-road-park",
+                  "source": {
+                    "kind": "park",
+                    "title": "Old Chapel Hill Road Park",
+                    "address": "3751 SW Durham Dr, Durham, NC",
+                    "url": "https://www.dprplaymore.org/Facilities/Facility/Details/Old-Chapel-Hill-Road-Park-50",
+                    "amenities": [
+                      "playground",
+                      "restroom",
+                      "greenway"
+                    ],
+                    "indoor": false,
+                    "area": "durham",
+                    "hours": null,
+                    "lat": 35.94649666666667,
+                    "lon": -78.97794111111112,
+                    "cost": null
+                  }
+                }
+              ],
+              "interests": [
+                "stories",
+                "music",
+                "movement"
+              ],
+              "area": "durham",
+              "outdoor": false,
+              "source": {
+                "kind": "event",
+                "title": "Silly Stories with Ms. Olivia",
+                "start": "2026-11-02T10:30:00",
+                "end": "2026-11-02T11:00:00",
+                "venue": "Southwest Regional Library",
+                "address": "3605 Shannon Rd, Durham, NC",
+                "url": "https://durhamcountylibrary.libcal.com/event/15558955",
+                "cost": null,
+                "ages": "Baby, Elementary School, Kindergarten, Pre-School, Toddler",
+                "registration": false,
+                "indoor": true,
+                "area": "durham",
+                "source": "libcal",
+                "dropIn": false,
+                "lat": 35.95871978266895,
+                "lon": -78.95455361473043
+              }
+            },
+            {
+              "ref": "event:wake:23147",
+              "arrive": "09:20",
+              "leave": "10:40",
+              "why": "Toddler Storytime at West Regional Library, then Fred Fletcher Park nearby for outdoor play on a mild morning.",
+              "tips": [
+                "No registration needed.",
+                "Bring a snack and water for the park.",
+                "Weather permitting, stop at Fred Fletcher Park for 20 minutes after storytime."
+              ],
+              "also": [
+                {
+                  "ref": "place:fred-fletcher-park",
+                  "source": {
+                    "kind": "park",
+                    "title": "Fred Fletcher Park",
+                    "address": "820 Clay Street, Raleigh, NC 27605",
+                    "url": "https://raleighnc.gov/parks-and-recreation/places/fred-fletcher-park",
+                    "amenities": [
+                      "garden",
+                      "picnic-shelter",
+                      "courts",
+                      "fields",
+                      "playground"
+                    ],
+                    "indoor": false,
+                    "area": "raleigh",
+                    "hours": null,
+                    "lat": 35.79264,
+                    "lon": -78.64957,
+                    "cost": null
+                  }
+                }
+              ],
+              "interests": [
+                "stories",
+                "music",
+                "movement"
+              ],
+              "area": "raleigh",
+              "outdoor": false,
+              "source": {
+                "kind": "event",
+                "title": "Toddler Storytime",
+                "start": "2026-11-02T09:30:00-05:00",
+                "end": "2026-11-02T10:00:00-05:00",
+                "venue": "West Regional Library",
+                "address": "4000 Louis Stephens Drive, Cary, NC, 27519",
+                "url": "https://www.wake.gov/events/toddler-storytime-1080",
+                "cost": null,
+                "ages": "Young Children",
+                "registration": null,
+                "indoor": true,
+                "area": "raleigh",
+                "source": "wake-county",
+                "dropIn": false,
+                "lat": 35.78554,
+                "lon": -78.65385
+              }
+            },
+            {
+              "ref": "event:museum:durham-central-park:13908",
+              "arrive": "16:50",
+              "leave": "18:00",
+              "why": "Fringe Festival: Procession of the Cardinals at Durham Central Park is a free outdoor evening event — a colourful and unusual afternoon outing after the short nap.",
+              "tips": [
+                "Bring a light layer for the early evening.",
+                "It's a drop-in so come and go as you like.",
+                "The park playground is right there if your child needs to run."
+              ],
+              "interests": [
+                "art",
+                "music",
+                "movement"
+              ],
+              "also": [],
+              "area": "durham",
+              "outdoor": true,
+              "source": {
+                "kind": "event",
+                "title": "Fringe Festival: Procession of the Cardinals",
+                "start": "2026-11-02T17:00:00",
+                "end": "2026-11-02T18:00:00",
+                "venue": "Durham Central Park",
+                "address": "501 Foster Street, Durham, NC, 27701",
+                "url": "https://durhamcentralpark.org/upcoming-event/fringe-festival-procession-of-the-cardinals/",
+                "cost": null,
+                "ages": null,
+                "registration": null,
+                "indoor": false,
+                "area": "durham",
+                "source": "museum",
+                "dropIn": false,
+                "lat": 36.0008,
+                "lon": -78.9021
+              }
+            }
+          ],
+          "rainBackup": {
+            "ref": "event:durham-rec:19772:2026-11-02",
+            "arrive": "09:50",
+            "leave": "12:00",
+            "why": "If rain makes the StoryWalk unpleasant, Total Tot Time at W.D. Hill Rec Ctr is a wonderful indoor alternative — parachutes, tunnels and gym play with other toddlers for a full two hours.",
+            "tips": [
+              "Registration is required; have a backup booking ready.",
+              "Pack a water bottle and a snack for the drive home after.",
+              "The gym is fully indoor so rain makes no difference at all."
+            ],
+            "interests": [
+              "movement",
+              "science",
+              "animals"
+            ],
+            "also": [],
+            "area": "durham",
+            "outdoor": false,
+            "source": {
+              "kind": "event",
+              "title": "Total Tot Time",
+              "start": "2026-11-02T10:00:00",
+              "end": "2026-11-02T12:00:00",
+              "venue": "W.D. Hill Rec Ctr",
+              "address": "1308 Fayetteville St, Durham, NC",
+              "url": "https://apm.activecommunities.com/dprplaymore/Activity_Search/total-tot-time/19772?locale=en-US",
+              "cost": null,
+              "ages": "1 - 6",
+              "registration": "https://apm.activecommunities.com/dprplaymore/Activity_Search/total-tot-time/19772?locale=en-US",
+              "indoor": true,
+              "area": "durham",
+              "source": "durham-rec",
+              "dropIn": false,
+              "lat": 35.9797,
+              "lon": -78.8985
+            }
+          },
+          "timeline": [
+            {
+              "start": "07:00",
+              "end": "07:30",
+              "kind": "meal",
+              "title": "Up and breakfast"
+            },
+            {
+              "start": "07:30",
+              "end": "07:40",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "07:40",
+              "end": "08:00",
+              "kind": "routine",
+              "title": "Get ready to go",
+              "detail": "Shoes on, diaper bag, water and a snack."
+            },
+            {
+              "start": "08:00",
+              "end": "08:20",
+              "kind": "travel",
+              "title": "Drive to Beech Bluff County Park"
+            },
+            {
+              "start": "08:20",
+              "end": "10:30",
+              "kind": "outing",
+              "title": "Beech Bluff County Park"
+            },
+            {
+              "start": "10:30",
+              "end": "10:50",
+              "kind": "travel",
+              "title": "Drive home"
+            },
+            {
+              "start": "10:50",
+              "end": "12:15",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "12:15",
+              "end": "12:45",
+              "kind": "meal",
+              "title": "Lunch"
+            },
+            {
+              "start": "12:45",
+              "end": "13:00",
+              "kind": "quiet",
+              "title": "Wind down",
+              "detail": "A couple of books to settle."
+            },
+            {
+              "start": "13:00",
+              "end": "14:00",
+              "kind": "nap",
+              "title": "Nap"
+            },
+            {
+              "start": "14:00",
+              "end": "14:20",
+              "kind": "routine",
+              "title": "Up and a snack"
+            },
+            {
+              "start": "14:20",
+              "end": "18:00",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "18:00",
+              "end": "18:45",
+              "kind": "meal",
+              "title": "Dinner"
+            },
+            {
+              "start": "18:45",
+              "end": "19:30",
+              "kind": "routine",
+              "title": "Bath, books and bed"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "checked": {
+    "at": "2026-11-01T11:03:30.192Z",
+    "forecast": "nws",
+    "weather": {
+      "period": "Monday",
+      "tempF": 70,
+      "precipProbability": 0,
+      "shortForecast": "Partly Sunny",
+      "hours": [
+        {
+          "t": "05:00",
+          "tempF": 50,
+          "pop": 0
+        },
+        {
+          "t": "06:00",
+          "tempF": 50,
+          "pop": 0
+        },
+        {
+          "t": "07:00",
+          "tempF": 50,
+          "pop": 0
+        },
+        {
+          "t": "08:00",
+          "tempF": 53,
+          "pop": 0
+        },
+        {
+          "t": "09:00",
+          "tempF": 56,
+          "pop": 0
+        },
+        {
+          "t": "10:00",
+          "tempF": 60,
+          "pop": 0
+        },
+        {
+          "t": "11:00",
+          "tempF": 63,
+          "pop": 0
+        },
+        {
+          "t": "12:00",
+          "tempF": 66,
+          "pop": 0
+        },
+        {
+          "t": "13:00",
+          "tempF": 68,
+          "pop": 0
+        },
+        {
+          "t": "14:00",
+          "tempF": 69,
+          "pop": 0
+        },
+        {
+          "t": "15:00",
+          "tempF": 69,
+          "pop": 0
+        },
+        {
+          "t": "16:00",
+          "tempF": 69,
+          "pop": 0
+        },
+        {
+          "t": "17:00",
+          "tempF": 66,
+          "pop": 0
+        },
+        {
+          "t": "18:00",
+          "tempF": 63,
+          "pop": 0
+        },
+        {
+          "t": "19:00",
+          "tempF": 60,
+          "pop": 0
+        },
+        {
+          "t": "20:00",
+          "tempF": 58,
+          "pop": 0
+        },
+        {
+          "t": "21:00",
+          "tempF": 56,
+          "pop": 0
+        },
+        {
+          "t": "22:00",
+          "tempF": 55,
+          "pop": 0
+        },
+        {
+          "t": "23:00",
+          "tempF": 54,
+          "pop": 0
+        }
+      ]
+    },
+    "hidden": []
+  }
+}

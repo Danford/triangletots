@@ -1,0 +1,999 @@
+{
+  "date": "2026-11-06",
+  "band": "t4",
+  "versions": [
+    {
+      "at": "2026-10-27T08:24:02.284Z",
+      "reason": null,
+      "forecast": "none",
+      "weather": null,
+      "plans": [
+        {
+          "nap": "short-nap",
+          "napLabel": "Short nap, 1 to 2",
+          "headline": "Touch-a-Truck at North Regional Library and Honeycutt Park",
+          "main": {
+            "ref": "event:wake:22621",
+            "arrive": "09:20",
+            "leave": "12:10",
+            "also": [
+              {
+                "ref": "place:honeycutt-park",
+                "source": {
+                  "kind": "park",
+                  "title": "Honeycutt Park",
+                  "address": "1032 Clear Creek Farm Road, Raleigh, NC 27615",
+                  "url": "https://raleighnc.gov/parks-and-recreation/places/honeycutt-park",
+                  "amenities": [
+                    "picnic-shelter",
+                    "courts",
+                    "fields",
+                    "playground"
+                  ],
+                  "indoor": false,
+                  "area": "north-raleigh",
+                  "hours": null,
+                  "lat": 35.9023,
+                  "lon": -78.6259,
+                  "cost": null
+                }
+              }
+            ],
+            "interests": [
+              "vehicles",
+              "movement"
+            ],
+            "why": "A 4.5-year-old can sit in a firetruck cab, meet the crews, and try a craft between trucks. Honeycutt Park is a short drive away for a good run before heading home for lunch and nap.",
+            "tips": [
+              "Bring ear protection if loud sounds are an issue — crews sometimes sound horns and sirens.",
+              "Let your child pick which truck to visit first so they feel in charge of the morning.",
+              "Head over to Honeycutt Park around 11:00 so you get a solid stretch of play before the drive home."
+            ],
+            "area": "north-raleigh",
+            "outdoor": true,
+            "source": {
+              "kind": "event",
+              "title": "Touch-a-Truck",
+              "start": "2026-11-06T09:30:00-05:00",
+              "end": "2026-11-06T11:00:00-05:00",
+              "venue": "North Regional Library",
+              "address": "7009 Harps Mill Road, Raleigh, NC",
+              "url": "https://www.wake.gov/events/touch-truck-3",
+              "cost": null,
+              "ages": "Young Children All Ages School-Age Children",
+              "registration": null,
+              "indoor": false,
+              "area": "north-raleigh",
+              "source": "wake-county",
+              "dropIn": false,
+              "lat": 35.880907380619,
+              "lon": -78.6281516610688
+            }
+          },
+          "alternatives": [
+            {
+              "ref": "place:hill-ridge-farms",
+              "arrive": "09:30",
+              "leave": "12:30",
+              "interests": [
+                "animals",
+                "nature"
+              ],
+              "why": "The fall festival puts farm animals, hands-on activities, and a free pumpkin all in one place for a long outdoor morning that fits neatly inside the pre-nap window.",
+              "tips": [
+                "Tickets are at the gate; bring cash or card.",
+                "Wear layers and pack a spare pair of shoes in case the ground is muddy.",
+                "Leave by 12:30 so you're home with time for lunch before the nap."
+              ],
+              "also": [],
+              "area": "north-raleigh",
+              "outdoor": true,
+              "source": {
+                "kind": "farm",
+                "title": "Hill Ridge Farms",
+                "address": "703 Tarboro Rd, Youngsville, NC 27596",
+                "url": "https://www.hillridgefarms.com/",
+                "amenities": [
+                  "farm"
+                ],
+                "indoor": false,
+                "area": "north-raleigh",
+                "lat": 36.0161,
+                "lon": -78.4416,
+                "cost": "Tickets at the gate",
+                "note": "Fall festival: tickets at the gate, each with a free pumpkin. Last admission an hour before closing; less busy Wednesday to Friday."
+              }
+            },
+            {
+              "ref": "event:wake-parks:8358:2026-11-06",
+              "arrive": "08:00",
+              "leave": "09:30",
+              "interests": [
+                "stories",
+                "nature"
+              ],
+              "why": "A self-guided story walk along an ADA-accessible loop at Beech Bluff County Park — read the posted panels aloud as you walk and let the story unfold panel by panel.",
+              "tips": [
+                "Starting at 08:00 means you'll have the trail to yourselves.",
+                "Bring a snack for after the loop.",
+                "Strollers and wagons are fine on the accessible path."
+              ],
+              "also": [],
+              "area": "south-wake",
+              "outdoor": true,
+              "source": {
+                "kind": "event",
+                "title": "Beech Bluff County Park StoryWalk® 2026 (Self-Led)",
+                "start": "2026-11-06T08:00:00",
+                "end": "2026-11-06T17:30:00",
+                "venue": "Beech Bluff County Park",
+                "address": "Beech Bluff Park Drive, Fuquay-Varina, NC",
+                "url": "https://apm.activecommunities.com/wakeparks/Activity_Search/beech-bluff-county-park-storywalk-2026-self-led/8358?locale=en-US",
+                "cost": "Free",
+                "ages": null,
+                "registration": false,
+                "indoor": false,
+                "area": "south-wake",
+                "source": "wake-parks",
+                "dropIn": true,
+                "lat": 35.58537279715877,
+                "lon": -78.6793341971644
+              }
+            },
+            {
+              "ref": "event:wake-parks:9408",
+              "arrive": "09:20",
+              "leave": "11:00",
+              "interests": [
+                "nature",
+                "science"
+              ],
+              "why": "A naturalist leads a guided hike of at least a mile around Yates Mill, pointing out the plants and animals that live there — a real outdoor discovery for a curious 4.5-year-old. Registration is required.",
+              "tips": [
+                "Register ahead — spots fill up.",
+                "Wear sturdy closed-toe shoes for the natural surface trail.",
+                "Bring water; the hike runs the full 90 minutes."
+              ],
+              "also": [],
+              "area": "raleigh",
+              "outdoor": true,
+              "source": {
+                "kind": "event",
+                "title": "Hike with a Naturalist",
+                "start": "2026-11-06T09:30:00",
+                "end": "2026-11-06T11:00:00",
+                "venue": "Historic Yates Mill County Park",
+                "address": "4620 Lake Wheeler Rd., Raleigh, NC  27603",
+                "url": "https://apm.activecommunities.com/wakeparks/Activity_Search/hike-with-a-naturalist/9408?locale=en-US",
+                "cost": "Free",
+                "ages": null,
+                "registration": "https://apm.activecommunities.com/wakeparks/Activity_Search/hike-with-a-naturalist/9408?locale=en-US",
+                "indoor": false,
+                "area": "raleigh",
+                "source": "wake-parks",
+                "dropIn": false,
+                "lat": 35.72157134974476,
+                "lon": -78.68526087901417
+              }
+            },
+            {
+              "ref": "event:museum:ncma:6078",
+              "arrive": "14:20",
+              "leave": "16:30",
+              "interests": [
+                "art",
+                "science"
+              ],
+              "why": "An afternoon hands-on art program at the NC Museum of Art exploring digital art — a good afternoon slot after the nap for a child who enjoys making and looking at things.",
+              "tips": [
+                "This falls in the post-nap window; leave home around 14:00 to arrive on time.",
+                "The museum grounds have outdoor paths and large art to explore before or after.",
+                "Check admission requirements before you go."
+              ],
+              "also": [],
+              "area": "raleigh",
+              "outdoor": true,
+              "source": {
+                "kind": "event",
+                "title": "Digital Explorations in Art with Nancy Baker Cahill",
+                "start": "2026-11-06T14:30:00",
+                "end": "2026-11-06T16:30:00",
+                "venue": "NC Museum of Art",
+                "address": "2110 Blue Ridge Rd, Raleigh, NC 27607",
+                "url": "https://ncartmuseum.org/event/digital-explorations-in-art-with-nancy-baker-cahill/",
+                "cost": null,
+                "ages": null,
+                "registration": null,
+                "indoor": false,
+                "area": "raleigh",
+                "source": "museum",
+                "dropIn": false,
+                "lat": 35.8105,
+                "lon": -78.7022
+              }
+            }
+          ],
+          "rainBackup": null,
+          "timeline": [
+            {
+              "start": "07:00",
+              "end": "07:30",
+              "kind": "meal",
+              "title": "Up and breakfast"
+            },
+            {
+              "start": "07:30",
+              "end": "08:40",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "08:40",
+              "end": "09:00",
+              "kind": "routine",
+              "title": "Get ready to go",
+              "detail": "Shoes on, diaper bag, water and a snack."
+            },
+            {
+              "start": "09:00",
+              "end": "09:20",
+              "kind": "travel",
+              "title": "Drive to North Regional Library"
+            },
+            {
+              "start": "09:20",
+              "end": "11:00",
+              "kind": "outing",
+              "title": "Touch-a-Truck",
+              "detail": "Pack a lunch to eat there."
+            },
+            {
+              "start": "11:00",
+              "end": "11:10",
+              "kind": "travel",
+              "title": "Drive to Honeycutt Park"
+            },
+            {
+              "start": "11:10",
+              "end": "12:10",
+              "kind": "outing",
+              "title": "Honeycutt Park"
+            },
+            {
+              "start": "12:10",
+              "end": "12:30",
+              "kind": "travel",
+              "title": "Drive home"
+            },
+            {
+              "start": "12:30",
+              "end": "12:45",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "12:45",
+              "end": "13:00",
+              "kind": "quiet",
+              "title": "Wind down",
+              "detail": "A couple of books to settle."
+            },
+            {
+              "start": "13:00",
+              "end": "14:00",
+              "kind": "nap",
+              "title": "Nap"
+            },
+            {
+              "start": "14:00",
+              "end": "14:20",
+              "kind": "routine",
+              "title": "Up and a snack"
+            },
+            {
+              "start": "14:20",
+              "end": "18:30",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "18:30",
+              "end": "19:15",
+              "kind": "meal",
+              "title": "Dinner"
+            },
+            {
+              "start": "19:15",
+              "end": "20:00",
+              "kind": "routine",
+              "title": "Bath, books and bed"
+            }
+          ]
+        },
+        {
+          "nap": "quiet",
+          "napLabel": "Quiet time",
+          "headline": "Festival of Fabulous Mums at Sarah P. Duke Gardens",
+          "main": {
+            "ref": "event:museum:duke-gardens:17490",
+            "arrive": "14:25",
+            "leave": "16:00",
+            "interests": [
+              "nature",
+              "art"
+            ],
+            "why": "The Japanese Garden fills with hundreds of exhibition mums in vivid colors and unusual shapes — your child can count colors, name favorites, and wander the paths at their own pace on a relaxed November afternoon.",
+            "tips": [
+              "Bring a snack and water bottle for the walk since you'll arrive mid-afternoon.",
+              "Let your child lead the way through the paths and point out what catches their eye.",
+              "A light jacket helps — the garden can cool quickly once the sun drops in November."
+            ],
+            "also": [],
+            "area": "durham",
+            "outdoor": true,
+            "source": {
+              "kind": "event",
+              "title": "A Festival of Fabulous Mums",
+              "start": "2026-11-06T12:00:00",
+              "end": "2026-11-06T16:00:00",
+              "venue": "Sarah P. Duke Gardens",
+              "address": "420 Anderson Street, Durham, NC, 27708",
+              "url": "https://gardens.duke.edu/event/a-festival-of-fabulous-mums-4/",
+              "cost": "Free",
+              "ages": "Adult Programs Family programs Festival of Fabulous Mums",
+              "registration": false,
+              "indoor": false,
+              "area": "durham",
+              "source": "museum",
+              "dropIn": true,
+              "lat": 36.0024,
+              "lon": -78.9328
+            }
+          },
+          "alternatives": [
+            {
+              "ref": "event:wake:22621",
+              "arrive": "09:20",
+              "leave": "11:30",
+              "also": [
+                {
+                  "ref": "place:optimist-park",
+                  "source": {
+                    "kind": "park",
+                    "title": "Optimist Park",
+                    "address": "5900 Whittier Dr, Raleigh, NC 27609",
+                    "url": "https://raleighnc.gov/parks-and-recreation/places/optimist-park",
+                    "amenities": [
+                      "community-center",
+                      "pool",
+                      "nature",
+                      "courts",
+                      "fields",
+                      "playground"
+                    ],
+                    "indoor": false,
+                    "area": "north-raleigh",
+                    "hours": null,
+                    "lat": 35.86353,
+                    "lon": -78.64661,
+                    "cost": null
+                  }
+                }
+              ],
+              "interests": [
+                "vehicles",
+                "movement"
+              ],
+              "why": "Explore first responder trucks at North Regional Library, then head to Optimist Park for a run before heading home — all wrapped up well before quiet time.",
+              "tips": [
+                "Arrive at 09:20 to get in early before the trucks fill up.",
+                "Budget about 10 minutes to drive from the library to the park after trucks end.",
+                "Bring ear protection if your child is sensitive to sudden loud sounds."
+              ],
+              "area": "north-raleigh",
+              "outdoor": true,
+              "source": {
+                "kind": "event",
+                "title": "Touch-a-Truck",
+                "start": "2026-11-06T09:30:00-05:00",
+                "end": "2026-11-06T11:00:00-05:00",
+                "venue": "North Regional Library",
+                "address": "7009 Harps Mill Road, Raleigh, NC",
+                "url": "https://www.wake.gov/events/touch-truck-3",
+                "cost": null,
+                "ages": "Young Children All Ages School-Age Children",
+                "registration": null,
+                "indoor": false,
+                "area": "north-raleigh",
+                "source": "wake-county",
+                "dropIn": false,
+                "lat": 35.880907380619,
+                "lon": -78.6281516610688
+              }
+            },
+            {
+              "ref": "place:hill-ridge-farms",
+              "arrive": "09:30",
+              "leave": "12:00",
+              "interests": [
+                "animals",
+                "nature"
+              ],
+              "why": "The fall farm festival is an easy full morning with animals, activities, and a free pumpkin, with time to get home for lunch before quiet.",
+              "tips": [
+                "Arrive right at 09:30 when the gate opens for the most time.",
+                "Leave by noon to have a comfortable buffer before quiet time.",
+                "Tickets are at the gate; bring cash or card."
+              ],
+              "also": [],
+              "area": "north-raleigh",
+              "outdoor": true,
+              "source": {
+                "kind": "farm",
+                "title": "Hill Ridge Farms",
+                "address": "703 Tarboro Rd, Youngsville, NC 27596",
+                "url": "https://www.hillridgefarms.com/",
+                "amenities": [
+                  "farm"
+                ],
+                "indoor": false,
+                "area": "north-raleigh",
+                "lat": 36.0161,
+                "lon": -78.4416,
+                "cost": "Tickets at the gate",
+                "note": "Fall festival: tickets at the gate, each with a free pumpkin. Last admission an hour before closing; less busy Wednesday to Friday."
+              }
+            },
+            {
+              "ref": "event:weekly:mols-early-childhood:2026-11-06",
+              "arrive": "09:20",
+              "leave": "11:30",
+              "interests": [
+                "animals",
+                "science",
+                "nature"
+              ],
+              "why": "Outdoor play-based activities, songs, and stories at Hideaway Woods in the Museum of Life and Science — treehouses, a creek, and sensory play in a natural outdoor setting.",
+              "tips": [
+                "Drop in at 09:20 and stay as long as your child stays engaged.",
+                "Dress for outdoor play — the creek and treehouses are highlights.",
+                "This program is included with museum admission."
+              ],
+              "also": [],
+              "area": "durham",
+              "outdoor": true,
+              "source": {
+                "kind": "event",
+                "title": "Early Childhood Drop-In",
+                "start": "2026-11-06T09:30:00",
+                "end": "2026-11-06T11:30:00",
+                "venue": "Hideaway Woods, Museum of Life and Science",
+                "address": "433 W Murray Ave, Durham, NC 27704",
+                "url": "https://www.lifeandscience.org/learn/drop-in-programs/",
+                "cost": "Included with museum admission",
+                "ages": "young children and their caregivers",
+                "registration": false,
+                "indoor": false,
+                "area": "durham",
+                "source": "weekly",
+                "dropIn": true,
+                "lat": 36.0294,
+                "lon": -78.8993
+              }
+            },
+            {
+              "ref": "event:wake-parks:9408",
+              "arrive": "09:20",
+              "leave": "11:00",
+              "interests": [
+                "nature",
+                "science"
+              ],
+              "why": "A naturalist-guided mile hike at Yates Mill to spot plants and animals in their habitat — a short, focused outdoor adventure with registration required.",
+              "tips": [
+                "Register ahead; this fills quickly.",
+                "Closed-toe shoes are a must for the natural surface trail.",
+                "Bring water for the hike."
+              ],
+              "also": [],
+              "area": "raleigh",
+              "outdoor": true,
+              "source": {
+                "kind": "event",
+                "title": "Hike with a Naturalist",
+                "start": "2026-11-06T09:30:00",
+                "end": "2026-11-06T11:00:00",
+                "venue": "Historic Yates Mill County Park",
+                "address": "4620 Lake Wheeler Rd., Raleigh, NC  27603",
+                "url": "https://apm.activecommunities.com/wakeparks/Activity_Search/hike-with-a-naturalist/9408?locale=en-US",
+                "cost": "Free",
+                "ages": null,
+                "registration": "https://apm.activecommunities.com/wakeparks/Activity_Search/hike-with-a-naturalist/9408?locale=en-US",
+                "indoor": false,
+                "area": "raleigh",
+                "source": "wake-parks",
+                "dropIn": false,
+                "lat": 35.72157134974476,
+                "lon": -78.68526087901417
+              }
+            }
+          ],
+          "rainBackup": null,
+          "timeline": [
+            {
+              "start": "07:00",
+              "end": "07:30",
+              "kind": "meal",
+              "title": "Up and breakfast"
+            },
+            {
+              "start": "07:30",
+              "end": "11:45",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "11:45",
+              "end": "12:15",
+              "kind": "meal",
+              "title": "Lunch"
+            },
+            {
+              "start": "12:15",
+              "end": "13:00",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "13:00",
+              "end": "13:45",
+              "kind": "quiet",
+              "title": "Quiet time",
+              "detail": "Books or quiet play in their room."
+            },
+            {
+              "start": "13:45",
+              "end": "14:05",
+              "kind": "routine",
+              "title": "Get ready to go",
+              "detail": "Shoes on, diaper bag, water and a snack."
+            },
+            {
+              "start": "14:05",
+              "end": "14:25",
+              "kind": "travel",
+              "title": "Drive to Sarah P. Duke Gardens"
+            },
+            {
+              "start": "14:25",
+              "end": "16:00",
+              "kind": "outing",
+              "title": "Sarah P. Duke Gardens"
+            },
+            {
+              "start": "16:00",
+              "end": "16:20",
+              "kind": "travel",
+              "title": "Drive home"
+            },
+            {
+              "start": "16:20",
+              "end": "18:00",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "18:00",
+              "end": "18:45",
+              "kind": "meal",
+              "title": "Dinner"
+            },
+            {
+              "start": "18:45",
+              "end": "19:30",
+              "kind": "routine",
+              "title": "Bath, books and bed"
+            }
+          ]
+        },
+        {
+          "nap": "no-nap",
+          "napLabel": "No nap",
+          "headline": "Hill Ridge Farms fall festival morning",
+          "main": {
+            "ref": "place:hill-ridge-farms",
+            "arrive": "09:30",
+            "leave": "12:30",
+            "interests": [
+              "animals",
+              "nature"
+            ],
+            "why": "The fall festival gives a 4.5-year-old farm animals, outdoor activities, and a free pumpkin to take home — a wide-open three-hour morning with plenty to explore at their own pace.",
+            "tips": [
+              "Tickets are at the gate; bring cash or card.",
+              "Pack extra clothes and a spare pair of shoes in case the ground is muddy.",
+              "Leave around 12:30 so there's a relaxed stretch at home before the afternoon."
+            ],
+            "also": [],
+            "area": "north-raleigh",
+            "outdoor": true,
+            "source": {
+              "kind": "farm",
+              "title": "Hill Ridge Farms",
+              "address": "703 Tarboro Rd, Youngsville, NC 27596",
+              "url": "https://www.hillridgefarms.com/",
+              "amenities": [
+                "farm"
+              ],
+              "indoor": false,
+              "area": "north-raleigh",
+              "lat": 36.0161,
+              "lon": -78.4416,
+              "cost": "Tickets at the gate",
+              "note": "Fall festival: tickets at the gate, each with a free pumpkin. Last admission an hour before closing; less busy Wednesday to Friday."
+            }
+          },
+          "alternatives": [
+            {
+              "ref": "event:wake:22621",
+              "arrive": "09:20",
+              "leave": "11:30",
+              "also": [
+                {
+                  "ref": "place:honeycutt-park",
+                  "source": {
+                    "kind": "park",
+                    "title": "Honeycutt Park",
+                    "address": "1032 Clear Creek Farm Road, Raleigh, NC 27615",
+                    "url": "https://raleighnc.gov/parks-and-recreation/places/honeycutt-park",
+                    "amenities": [
+                      "picnic-shelter",
+                      "courts",
+                      "fields",
+                      "playground"
+                    ],
+                    "indoor": false,
+                    "area": "north-raleigh",
+                    "hours": null,
+                    "lat": 35.9023,
+                    "lon": -78.6259,
+                    "cost": null
+                  }
+                }
+              ],
+              "interests": [
+                "vehicles",
+                "movement"
+              ],
+              "why": "Sit in firetrucks, meet first responders, try a craft, then head to Honeycutt Park for a proper run — a satisfying full morning for a child who loves big vehicles.",
+              "tips": [
+                "Arrive at 09:20 to get ahead of the crowd.",
+                "Bring ear protection if your child is noise-sensitive.",
+                "The park is a 10-minute drive; stay at least 20 minutes before heading home."
+              ],
+              "area": "north-raleigh",
+              "outdoor": true,
+              "source": {
+                "kind": "event",
+                "title": "Touch-a-Truck",
+                "start": "2026-11-06T09:30:00-05:00",
+                "end": "2026-11-06T11:00:00-05:00",
+                "venue": "North Regional Library",
+                "address": "7009 Harps Mill Road, Raleigh, NC",
+                "url": "https://www.wake.gov/events/touch-truck-3",
+                "cost": null,
+                "ages": "Young Children All Ages School-Age Children",
+                "registration": null,
+                "indoor": false,
+                "area": "north-raleigh",
+                "source": "wake-county",
+                "dropIn": false,
+                "lat": 35.880907380619,
+                "lon": -78.6281516610688
+              }
+            },
+            {
+              "ref": "event:wake-parks:8358:2026-11-06",
+              "arrive": "08:00",
+              "leave": "09:30",
+              "interests": [
+                "stories",
+                "nature"
+              ],
+              "why": "A self-guided story walk along the accessible loop at Beech Bluff County Park — a calm early-morning start reading story panels while walking through the park.",
+              "tips": [
+                "Going at 08:00 means a quiet trail with no crowds.",
+                "Read each panel aloud and let your child look for animals or plants mentioned in the story.",
+                "Bring a snack for after the loop."
+              ],
+              "also": [],
+              "area": "south-wake",
+              "outdoor": true,
+              "source": {
+                "kind": "event",
+                "title": "Beech Bluff County Park StoryWalk® 2026 (Self-Led)",
+                "start": "2026-11-06T08:00:00",
+                "end": "2026-11-06T17:30:00",
+                "venue": "Beech Bluff County Park",
+                "address": "Beech Bluff Park Drive, Fuquay-Varina, NC",
+                "url": "https://apm.activecommunities.com/wakeparks/Activity_Search/beech-bluff-county-park-storywalk-2026-self-led/8358?locale=en-US",
+                "cost": "Free",
+                "ages": null,
+                "registration": false,
+                "indoor": false,
+                "area": "south-wake",
+                "source": "wake-parks",
+                "dropIn": true,
+                "lat": 35.58537279715877,
+                "lon": -78.6793341971644
+              }
+            },
+            {
+              "ref": "event:weekly:mols-early-childhood:2026-11-06",
+              "arrive": "09:20",
+              "leave": "11:30",
+              "interests": [
+                "animals",
+                "science",
+                "nature"
+              ],
+              "why": "Outdoor sensory play, songs, and stories at Hideaway Woods — treehouses, a creek, and farmyard animals make this a full outdoor morning at the Museum of Life and Science.",
+              "tips": [
+                "Drop in at 09:20 and follow your child's lead from station to station.",
+                "Dress for outdoor play and bring a change of clothes for the creek.",
+                "Included with museum admission."
+              ],
+              "also": [],
+              "area": "durham",
+              "outdoor": true,
+              "source": {
+                "kind": "event",
+                "title": "Early Childhood Drop-In",
+                "start": "2026-11-06T09:30:00",
+                "end": "2026-11-06T11:30:00",
+                "venue": "Hideaway Woods, Museum of Life and Science",
+                "address": "433 W Murray Ave, Durham, NC 27704",
+                "url": "https://www.lifeandscience.org/learn/drop-in-programs/",
+                "cost": "Included with museum admission",
+                "ages": "young children and their caregivers",
+                "registration": false,
+                "indoor": false,
+                "area": "durham",
+                "source": "weekly",
+                "dropIn": true,
+                "lat": 36.0294,
+                "lon": -78.8993
+              }
+            },
+            {
+              "ref": "event:wake:24318",
+              "arrive": "10:20",
+              "leave": "12:00",
+              "also": [
+                {
+                  "ref": "place:green-road-park",
+                  "source": {
+                    "kind": "park",
+                    "title": "Green Road Park",
+                    "address": "4201 Green Rd, Raleigh, NC 27604",
+                    "url": "https://raleighnc.gov/parks-and-recreation/places/green-road-park",
+                    "amenities": [
+                      "community-center",
+                      "picnic-shelter",
+                      "courts",
+                      "fields",
+                      "playground"
+                    ],
+                    "indoor": false,
+                    "area": "north-raleigh",
+                    "hours": null,
+                    "lat": 35.8409,
+                    "lon": -78.59225,
+                    "cost": null
+                  }
+                }
+              ],
+              "interests": [
+                "stories",
+                "movement"
+              ],
+              "why": "Storytime followed by play stations with playdough, building materials, and crafts, then a run at Green Road Park to round out the morning.",
+              "tips": [
+                "Arrive at 10:20 to get settled before the program starts.",
+                "The park add-on is weather permitting; skip it if conditions change.",
+                "Bring a snack for the park."
+              ],
+              "area": "north-raleigh",
+              "outdoor": false,
+              "source": {
+                "kind": "event",
+                "title": "Storytime Stay and Play",
+                "start": "2026-11-06T10:30:00-05:00",
+                "end": "2026-11-06T11:30:00-05:00",
+                "venue": "Green Road Community Library",
+                "address": "4201 Green Rd, Raleigh, NC 27604",
+                "url": "https://www.wake.gov/events/storytime-stay-and-play-53",
+                "cost": null,
+                "ages": "Young Children",
+                "registration": null,
+                "indoor": true,
+                "area": "north-raleigh",
+                "source": "wake-county",
+                "dropIn": false,
+                "lat": 35.8409,
+                "lon": -78.59225
+              }
+            }
+          ],
+          "rainBackup": null,
+          "timeline": [
+            {
+              "start": "07:00",
+              "end": "07:30",
+              "kind": "meal",
+              "title": "Up and breakfast"
+            },
+            {
+              "start": "07:30",
+              "end": "08:50",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "08:50",
+              "end": "09:10",
+              "kind": "routine",
+              "title": "Get ready to go",
+              "detail": "Shoes on, diaper bag, water and a snack."
+            },
+            {
+              "start": "09:10",
+              "end": "09:30",
+              "kind": "travel",
+              "title": "Drive to Hill Ridge Farms"
+            },
+            {
+              "start": "09:30",
+              "end": "12:30",
+              "kind": "outing",
+              "title": "Hill Ridge Farms",
+              "detail": "Pack a lunch to eat there."
+            },
+            {
+              "start": "12:30",
+              "end": "12:50",
+              "kind": "travel",
+              "title": "Drive home"
+            },
+            {
+              "start": "12:50",
+              "end": "18:00",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "18:00",
+              "end": "18:45",
+              "kind": "meal",
+              "title": "Dinner"
+            },
+            {
+              "start": "18:45",
+              "end": "19:30",
+              "kind": "routine",
+              "title": "Bath, books and bed"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "checked": {
+    "at": "2026-11-01T11:06:04.562Z",
+    "forecast": "nws",
+    "weather": {
+      "period": "Friday",
+      "tempF": 77,
+      "precipProbability": 37,
+      "shortForecast": "Chance Rain Showers",
+      "hours": [
+        {
+          "t": "05:00",
+          "tempF": 62,
+          "pop": 32
+        },
+        {
+          "t": "06:00",
+          "tempF": 62,
+          "pop": 32
+        },
+        {
+          "t": "07:00",
+          "tempF": 63,
+          "pop": 36
+        },
+        {
+          "t": "08:00",
+          "tempF": 65,
+          "pop": 36
+        },
+        {
+          "t": "09:00",
+          "tempF": 68,
+          "pop": 36
+        },
+        {
+          "t": "10:00",
+          "tempF": 71,
+          "pop": 36
+        },
+        {
+          "t": "11:00",
+          "tempF": 73,
+          "pop": 36
+        },
+        {
+          "t": "12:00",
+          "tempF": 75,
+          "pop": 36
+        },
+        {
+          "t": "13:00",
+          "tempF": 76,
+          "pop": 37
+        },
+        {
+          "t": "14:00",
+          "tempF": 77,
+          "pop": 37
+        },
+        {
+          "t": "15:00",
+          "tempF": 77,
+          "pop": 37
+        },
+        {
+          "t": "16:00",
+          "tempF": 76,
+          "pop": 37
+        },
+        {
+          "t": "17:00",
+          "tempF": 74,
+          "pop": 37
+        },
+        {
+          "t": "18:00",
+          "tempF": 72,
+          "pop": 37
+        },
+        {
+          "t": "19:00",
+          "tempF": 69,
+          "pop": 16
+        },
+        {
+          "t": "20:00",
+          "tempF": 67,
+          "pop": 16
+        },
+        {
+          "t": "21:00",
+          "tempF": 65,
+          "pop": 16
+        },
+        {
+          "t": "22:00",
+          "tempF": 64,
+          "pop": 16
+        },
+        {
+          "t": "23:00",
+          "tempF": 63,
+          "pop": 16
+        }
+      ]
+    },
+    "hidden": []
+  }
+}

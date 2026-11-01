@@ -1,0 +1,1111 @@
+{
+  "date": "2026-11-14",
+  "band": "t2",
+  "versions": [
+    {
+      "at": "2026-11-01T11:10:34.324Z",
+      "reason": null,
+      "forecast": "none",
+      "weather": null,
+      "plans": [
+        {
+          "nap": "early-nap",
+          "napLabel": "One nap, 12 to 2",
+          "headline": "Walk the woods and boardwalks at Hemlock Bluffs",
+          "main": {
+            "ref": "place:hemlock-bluffs",
+            "arrive": "09:00",
+            "leave": "10:45",
+            "why": "Your 2-year-old can explore the mulched trails and boardwalks, looking for leaves, sticks and little creatures. It is a quiet nature morning that ends well before nap.",
+            "tips": [
+              "The boardwalks have stairs, so a carrier can beat a stroller.",
+              "Pick a short stretch of trail and let your child set the pace.",
+              "Bring a snack to share on the way back to the car."
+            ],
+            "interests": [
+              "nature",
+              "movement"
+            ],
+            "also": [],
+            "area": "cary-apex",
+            "outdoor": true,
+            "source": {
+              "kind": "park",
+              "title": "Hemlock Bluffs Nature Preserve",
+              "address": "2616 Kildaire Farm Rd, Cary, NC 27518",
+              "lat": 35.7253,
+              "lon": -78.7846,
+              "url": "https://www.carync.gov/recreation-enjoyment/parks-greenways-environment/parks/stevens-nature-center-at-hemlock-bluffs-nature-preserve",
+              "amenities": [
+                "nature"
+              ],
+              "indoor": false,
+              "area": "cary-apex",
+              "hours": {
+                "sun": "9 a.m. to sunset",
+                "mon": "9 a.m. to sunset",
+                "tue": "9 a.m. to sunset",
+                "wed": "9 a.m. to sunset",
+                "thu": "9 a.m. to sunset",
+                "fri": "9 a.m. to sunset",
+                "sat": "9 a.m. to sunset"
+              },
+              "cost": "Free",
+              "note": "Free. About three miles of mulched trails and boardwalks with stairs (a carrier beats a stroller); restrooms in the Stevens Nature Center, open Mon–Sat 10–5, Sun 1–5."
+            }
+          },
+          "alternatives": [
+            {
+              "ref": "event:durham-rec:19867",
+              "also": [
+                {
+                  "ref": "place:twin-lakes-park",
+                  "source": {
+                    "kind": "park",
+                    "title": "Twin Lakes Park",
+                    "address": "439 Chandler Rd, Durham, NC",
+                    "lat": 35.99826947368421,
+                    "lon": -78.84030210526319,
+                    "url": "https://www.dprplaymore.org/Facilities/Facility/Details/Twin-Lakes-Park-71",
+                    "amenities": [
+                      "playground",
+                      "picnic-shelter",
+                      "restroom"
+                    ],
+                    "indoor": false,
+                    "area": "durham",
+                    "hours": null,
+                    "cost": null
+                  }
+                }
+              ],
+              "arrive": "08:50",
+              "leave": "10:40",
+              "why": "Muddy Boots at Twin Lakes starts at 9 am with a nature book and a walk to find nature outside. A family needs to sign up. Afterward your child can play at Twin Lakes Park.",
+              "tips": [
+                "Bring a snack for the playground after the walk."
+              ],
+              "interests": [
+                "nature",
+                "stories",
+                "movement"
+              ],
+              "area": "durham",
+              "outdoor": true,
+              "source": {
+                "kind": "event",
+                "title": "Muddy Boots",
+                "start": "2026-11-14T09:00:00",
+                "end": "2026-11-14T10:00:00",
+                "venue": "Twin Lakes-Picnic Shelter",
+                "address": "439 Chandler Rd, Durham, NC",
+                "url": "https://apm.activecommunities.com/dprplaymore/Activity_Search/muddy-boots/19867?locale=en-US",
+                "cost": null,
+                "lat": 35.99826947368421,
+                "lon": -78.84030210526319,
+                "ages": "1 - 6",
+                "registration": "https://apm.activecommunities.com/dprplaymore/Activity_Search/muddy-boots/19867?locale=en-US",
+                "indoor": false,
+                "area": "durham",
+                "source": "durham-rec",
+                "dropIn": false
+              }
+            },
+            {
+              "ref": "place:ncma-museum-park",
+              "also": [
+                {
+                  "ref": "event:museum:ncma:5418",
+                  "source": {
+                    "kind": "event",
+                    "title": "NCMA to Go Art Kits: Sponge, Stamp, Soar / Kit de artedel NCMA para llevar: pinta con esponja, estampa … ¡y a volar!",
+                    "start": "2026-11-14T10:00:00",
+                    "end": "2026-11-14T12:00:00",
+                    "venue": "NC Museum of Art",
+                    "address": "2110 Blue Ridge Rd, Raleigh, NC 27607",
+                    "url": "https://ncartmuseum.org/event/ncma-to-go-art-kits-sponge-stamp-soar/",
+                    "cost": null,
+                    "lat": 35.8105,
+                    "lon": -78.7022,
+                    "ages": "Families",
+                    "registration": null,
+                    "indoor": true,
+                    "area": "raleigh",
+                    "source": "museum",
+                    "dropIn": false
+                  }
+                }
+              ],
+              "arrive": "09:30",
+              "leave": "11:15",
+              "why": "Your child runs on the lawns and spots the big outdoor art at Museum Park. Then the Sponge, Stamp, Soar art kit at 10 am gives hands-on art time.",
+              "tips": [
+                "Bring a snack for a break on the lawn.",
+                "Let your child pick which way to walk on the trails."
+              ],
+              "interests": [
+                "art",
+                "nature",
+                "movement"
+              ],
+              "area": "raleigh",
+              "outdoor": false,
+              "source": {
+                "kind": "garden",
+                "title": "NC Museum of Art Museum Park",
+                "address": "2110 Blue Ridge Rd, Raleigh, NC 27607",
+                "lat": 35.8105,
+                "lon": -78.7022,
+                "url": "https://ncartmuseum.org/museum-park/",
+                "amenities": [
+                  "garden",
+                  "nature",
+                  "greenway",
+                  "restroom"
+                ],
+                "indoor": false,
+                "area": "raleigh",
+                "hours": {
+                  "sun": "dawn to dusk",
+                  "mon": "dawn to dusk",
+                  "tue": "dawn to dusk",
+                  "wed": "dawn to dusk",
+                  "thu": "dawn to dusk",
+                  "fri": "dawn to dusk",
+                  "sat": "dawn to dusk"
+                },
+                "cost": "Free",
+                "note": "Free. 164 acres of trails, lawns and big outdoor art; the Capital Area Greenway runs through."
+              }
+            },
+            {
+              "ref": "event:weekly:mols-early-childhood:2026-11-14",
+              "arrive": "09:30",
+              "leave": "11:15",
+              "why": "The Early Childhood Drop-In in Hideaway Woods has sensory play, songs and stories for little ones and their grown-ups. Come and go as your child likes.",
+              "tips": [
+                "Stay as long as your child is happy and leave when interest fades.",
+                "Bring a snack for a break between activities."
+              ],
+              "interests": [
+                "nature",
+                "science",
+                "music"
+              ],
+              "also": [],
+              "area": "durham",
+              "outdoor": true,
+              "source": {
+                "kind": "event",
+                "title": "Early Childhood Drop-In",
+                "start": "2026-11-14T09:30:00",
+                "end": "2026-11-14T11:30:00",
+                "venue": "Hideaway Woods, Museum of Life and Science",
+                "address": "433 W Murray Ave, Durham, NC 27704",
+                "url": "https://www.lifeandscience.org/learn/drop-in-programs/",
+                "cost": "Included with museum admission",
+                "lat": 36.0294,
+                "lon": -78.8993,
+                "ages": "young children and their caregivers",
+                "registration": false,
+                "indoor": false,
+                "area": "durham",
+                "source": "weekly",
+                "dropIn": true
+              }
+            },
+            {
+              "ref": "place:jc-raulston-arboretum",
+              "arrive": "14:30",
+              "leave": "16:15",
+              "why": "After nap, your child can wander the garden paths and look at leaves, seed pods and plants. It is a calm way to spend the afternoon.",
+              "tips": [
+                "Bring a snack and water for a bench break.",
+                "Let your child choose which path to take next."
+              ],
+              "interests": [
+                "nature",
+                "movement"
+              ],
+              "also": [],
+              "area": "raleigh",
+              "outdoor": true,
+              "source": {
+                "kind": "garden",
+                "title": "JC Raulston Arboretum",
+                "address": "4415 Beryl Rd, Raleigh, NC 27606",
+                "lat": 35.794,
+                "lon": -78.6987,
+                "url": "https://jcra.ncsu.edu/",
+                "amenities": [
+                  "garden",
+                  "nature"
+                ],
+                "indoor": false,
+                "area": "raleigh",
+                "hours": {
+                  "mon": "9 a.m.–4:30 p.m.",
+                  "tue": "9 a.m.–4:30 p.m.",
+                  "wed": "9 a.m.–4:30 p.m.",
+                  "thu": "9 a.m.–4:30 p.m.",
+                  "fri": "9 a.m.–4:30 p.m.",
+                  "sat": "9 a.m.–5 p.m.",
+                  "sun": "9 a.m.–5 p.m."
+                },
+                "cost": "Free",
+                "note": "Free. NC State’s garden; no pets."
+              }
+            }
+          ],
+          "rainBackup": null,
+          "timeline": [
+            {
+              "start": "07:00",
+              "end": "07:30",
+              "kind": "meal",
+              "title": "Up and breakfast"
+            },
+            {
+              "start": "07:30",
+              "end": "08:20",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "08:20",
+              "end": "08:40",
+              "kind": "routine",
+              "title": "Get ready to go",
+              "detail": "Shoes on, diaper bag, water and a snack."
+            },
+            {
+              "start": "08:40",
+              "end": "09:00",
+              "kind": "travel",
+              "title": "Drive to Hemlock Bluffs Nature Preserve"
+            },
+            {
+              "start": "09:00",
+              "end": "10:45",
+              "kind": "outing",
+              "title": "Hemlock Bluffs Nature Preserve"
+            },
+            {
+              "start": "10:45",
+              "end": "11:05",
+              "kind": "travel",
+              "title": "Drive home"
+            },
+            {
+              "start": "11:05",
+              "end": "11:15",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "11:15",
+              "end": "11:45",
+              "kind": "meal",
+              "title": "Lunch"
+            },
+            {
+              "start": "11:45",
+              "end": "12:00",
+              "kind": "quiet",
+              "title": "Wind down",
+              "detail": "A couple of books to settle."
+            },
+            {
+              "start": "12:00",
+              "end": "14:00",
+              "kind": "nap",
+              "title": "Nap"
+            },
+            {
+              "start": "14:00",
+              "end": "14:20",
+              "kind": "routine",
+              "title": "Up and a snack"
+            },
+            {
+              "start": "14:20",
+              "end": "18:00",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "18:00",
+              "end": "18:45",
+              "kind": "meal",
+              "title": "Dinner"
+            },
+            {
+              "start": "18:45",
+              "end": "19:30",
+              "kind": "routine",
+              "title": "Bath, books and bed"
+            }
+          ]
+        },
+        {
+          "nap": "late-nap",
+          "napLabel": "One nap, 1 to 3",
+          "headline": "Wander the farmers market, then climb at the park",
+          "main": {
+            "ref": "event:museum:durham-central-park:13373",
+            "also": [
+              {
+                "ref": "place:durham-central-park",
+                "source": {
+                  "kind": "park",
+                  "title": "Durham Central Park",
+                  "address": "501 Foster St, Durham, NC",
+                  "lat": 36.0006525,
+                  "lon": -78.90071999999999,
+                  "url": "https://www.dprplaymore.org/Facilities/Facility/Details/Durham-Central-Park-18",
+                  "amenities": [
+                    "playground",
+                    "restroom",
+                    "greenway"
+                  ],
+                  "indoor": false,
+                  "area": "durham",
+                  "hours": null,
+                  "cost": null
+                }
+              }
+            ],
+            "arrive": "09:30",
+            "leave": "11:30",
+            "why": "Your 2-year-old can wander the Durham Farmers Market and see what is for sale. Then they can burn off energy on the playground at Durham Central Park.",
+            "tips": [
+              "Eat a snack before the market so your child is ready to look around.",
+              "Tell your child the playground is next so the move feels easy.",
+              "Head home for lunch while your child is still happy."
+            ],
+            "interests": [
+              "movement",
+              "nature"
+            ],
+            "area": "durham",
+            "outdoor": true,
+            "source": {
+              "kind": "event",
+              "title": "Durham Farmer’ Market",
+              "start": "2026-11-14T08:00:00",
+              "end": "2026-11-14T12:00:00",
+              "venue": "Durham Central Park",
+              "address": "501 Foster Street, Durham, NC, 27701",
+              "url": "https://durhamcentralpark.org/upcoming-event/durham-farmer-market/2026-11-14/",
+              "cost": null,
+              "lat": 36.0008,
+              "lon": -78.9021,
+              "ages": null,
+              "registration": null,
+              "indoor": false,
+              "area": "durham",
+              "source": "museum",
+              "dropIn": true
+            }
+          },
+          "alternatives": [
+            {
+              "ref": "place:ncma-museum-park",
+              "also": [
+                {
+                  "ref": "event:museum:ncma:5418",
+                  "source": {
+                    "kind": "event",
+                    "title": "NCMA to Go Art Kits: Sponge, Stamp, Soar / Kit de artedel NCMA para llevar: pinta con esponja, estampa … ¡y a volar!",
+                    "start": "2026-11-14T10:00:00",
+                    "end": "2026-11-14T12:00:00",
+                    "venue": "NC Museum of Art",
+                    "address": "2110 Blue Ridge Rd, Raleigh, NC 27607",
+                    "url": "https://ncartmuseum.org/event/ncma-to-go-art-kits-sponge-stamp-soar/",
+                    "cost": null,
+                    "lat": 35.8105,
+                    "lon": -78.7022,
+                    "ages": "Families",
+                    "registration": null,
+                    "indoor": true,
+                    "area": "raleigh",
+                    "source": "museum",
+                    "dropIn": false
+                  }
+                }
+              ],
+              "arrive": "09:30",
+              "leave": "11:30",
+              "why": "Your child runs on the lawns and spots the big outdoor art at Museum Park. Then the Sponge, Stamp, Soar art kit at 10 am gives hands-on art time.",
+              "tips": [
+                "Bring a snack for a break on the lawn.",
+                "Give a heads-up before heading in for the art kit."
+              ],
+              "interests": [
+                "art",
+                "nature",
+                "movement"
+              ],
+              "area": "raleigh",
+              "outdoor": false,
+              "source": {
+                "kind": "garden",
+                "title": "NC Museum of Art Museum Park",
+                "address": "2110 Blue Ridge Rd, Raleigh, NC 27607",
+                "lat": 35.8105,
+                "lon": -78.7022,
+                "url": "https://ncartmuseum.org/museum-park/",
+                "amenities": [
+                  "garden",
+                  "nature",
+                  "greenway",
+                  "restroom"
+                ],
+                "indoor": false,
+                "area": "raleigh",
+                "hours": {
+                  "sun": "dawn to dusk",
+                  "mon": "dawn to dusk",
+                  "tue": "dawn to dusk",
+                  "wed": "dawn to dusk",
+                  "thu": "dawn to dusk",
+                  "fri": "dawn to dusk",
+                  "sat": "dawn to dusk"
+                },
+                "cost": "Free",
+                "note": "Free. 164 acres of trails, lawns and big outdoor art; the Capital Area Greenway runs through."
+              }
+            },
+            {
+              "ref": "place:hemlock-bluffs",
+              "arrive": "09:30",
+              "leave": "11:15",
+              "why": "Your child can explore the mulched trails and boardwalks, looking for leaves and little creatures.",
+              "tips": [
+                "The boardwalks have stairs, so a carrier can beat a stroller.",
+                "Bring a snack to share before the drive home."
+              ],
+              "interests": [
+                "nature",
+                "movement"
+              ],
+              "also": [],
+              "area": "cary-apex",
+              "outdoor": true,
+              "source": {
+                "kind": "park",
+                "title": "Hemlock Bluffs Nature Preserve",
+                "address": "2616 Kildaire Farm Rd, Cary, NC 27518",
+                "lat": 35.7253,
+                "lon": -78.7846,
+                "url": "https://www.carync.gov/recreation-enjoyment/parks-greenways-environment/parks/stevens-nature-center-at-hemlock-bluffs-nature-preserve",
+                "amenities": [
+                  "nature"
+                ],
+                "indoor": false,
+                "area": "cary-apex",
+                "hours": {
+                  "sun": "9 a.m. to sunset",
+                  "mon": "9 a.m. to sunset",
+                  "tue": "9 a.m. to sunset",
+                  "wed": "9 a.m. to sunset",
+                  "thu": "9 a.m. to sunset",
+                  "fri": "9 a.m. to sunset",
+                  "sat": "9 a.m. to sunset"
+                },
+                "cost": "Free",
+                "note": "Free. About three miles of mulched trails and boardwalks with stairs (a carrier beats a stroller); restrooms in the Stevens Nature Center, open Mon–Sat 10–5, Sun 1–5."
+              }
+            },
+            {
+              "ref": "event:wake:21755",
+              "also": [
+                {
+                  "ref": "place:knightdale-station-park",
+                  "source": {
+                    "kind": "park",
+                    "title": "Knightdale Station Park",
+                    "address": "810 North First Avenue, Knightdale, NC",
+                    "lat": 35.795776739559024,
+                    "lon": -78.47584503817626,
+                    "url": "https://www.knightdalenc.gov/knightdalestationpark",
+                    "amenities": [
+                      "playground",
+                      "picnic-shelter",
+                      "greenway"
+                    ],
+                    "indoor": false,
+                    "area": "east-wake",
+                    "hours": null,
+                    "cost": null
+                  }
+                }
+              ],
+              "arrive": "10:05",
+              "leave": "11:25",
+              "why": "Family Storytime at East Regional Library at 10:15 am has books, music, rhymes and movement. Then your child can play at Knightdale Station Park.",
+              "tips": [
+                "Sing along so the park feels like a reward.",
+                "Bring a snack for the picnic shelter."
+              ],
+              "interests": [
+                "stories",
+                "music",
+                "movement"
+              ],
+              "area": "east-wake",
+              "outdoor": false,
+              "source": {
+                "kind": "event",
+                "title": "Family Storytime",
+                "start": "2026-11-14T10:15:00-05:00",
+                "end": "2026-11-14T10:45:00-05:00",
+                "venue": "East Regional Library",
+                "address": "946 Steeple Square Court, Knightdale, NC",
+                "url": "https://www.wake.gov/events/family-storytime-3980",
+                "cost": "Free",
+                "lat": 35.8028243321954,
+                "lon": -78.487155767495,
+                "ages": "Young Children",
+                "registration": null,
+                "indoor": true,
+                "area": "east-wake",
+                "source": "wake-county",
+                "dropIn": false
+              }
+            },
+            {
+              "ref": "place:gipson-play-plaza",
+              "arrive": "15:30",
+              "leave": "16:45",
+              "why": "After nap, your 2-year-old has a big playground at Dix Park for climbing and sliding.",
+              "tips": [
+                "Bring a snack and water for a break halfway through.",
+                "Name one last slide so leaving is not a surprise."
+              ],
+              "interests": [
+                "movement"
+              ],
+              "also": [],
+              "area": "raleigh",
+              "outdoor": true,
+              "source": {
+                "kind": "park",
+                "title": "Gipson Play Plaza at Dix Park",
+                "address": "715 Biggs Dr, Raleigh, NC 27603",
+                "lat": 35.7667,
+                "lon": -78.6539,
+                "url": "https://dixpark.org/gipson-play-plaza",
+                "amenities": [
+                  "playground",
+                  "restroom"
+                ],
+                "indoor": false,
+                "area": "raleigh",
+                "hours": {
+                  "sun": "8 a.m.–9 p.m.",
+                  "mon": "8 a.m.–9 p.m.",
+                  "tue": "8 a.m.–9 p.m.",
+                  "wed": "8 a.m.–9 p.m.",
+                  "thu": "8 a.m.–9 p.m.",
+                  "fri": "8 a.m.–9 p.m.",
+                  "sat": "8 a.m.–9 p.m."
+                },
+                "cost": "Free",
+                "note": "Free; free parking. Big destination playground on the south edge of Dix Park."
+              }
+            }
+          ],
+          "rainBackup": null,
+          "timeline": [
+            {
+              "start": "07:00",
+              "end": "07:30",
+              "kind": "meal",
+              "title": "Up and breakfast"
+            },
+            {
+              "start": "07:30",
+              "end": "08:50",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "08:50",
+              "end": "09:10",
+              "kind": "routine",
+              "title": "Get ready to go",
+              "detail": "Shoes on, diaper bag, water and a snack."
+            },
+            {
+              "start": "09:10",
+              "end": "09:30",
+              "kind": "travel",
+              "title": "Drive to Durham Central Park"
+            },
+            {
+              "start": "09:30",
+              "end": "11:30",
+              "kind": "outing",
+              "title": "Durham Central Park"
+            },
+            {
+              "start": "11:30",
+              "end": "11:50",
+              "kind": "travel",
+              "title": "Drive home"
+            },
+            {
+              "start": "11:50",
+              "end": "12:15",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "12:15",
+              "end": "12:45",
+              "kind": "meal",
+              "title": "Lunch"
+            },
+            {
+              "start": "12:45",
+              "end": "13:00",
+              "kind": "quiet",
+              "title": "Wind down",
+              "detail": "A couple of books to settle."
+            },
+            {
+              "start": "13:00",
+              "end": "15:00",
+              "kind": "nap",
+              "title": "Nap"
+            },
+            {
+              "start": "15:00",
+              "end": "15:20",
+              "kind": "routine",
+              "title": "Up and a snack"
+            },
+            {
+              "start": "15:20",
+              "end": "18:30",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "18:30",
+              "end": "19:15",
+              "kind": "meal",
+              "title": "Dinner"
+            },
+            {
+              "start": "19:15",
+              "end": "20:00",
+              "kind": "routine",
+              "title": "Bath, books and bed"
+            }
+          ]
+        },
+        {
+          "nap": "short-nap",
+          "napLabel": "Short nap, 1 to 2",
+          "headline": "Run on the lawns, then make art with sponges and stamps",
+          "main": {
+            "ref": "place:ncma-museum-park",
+            "also": [
+              {
+                "ref": "event:museum:ncma:5418",
+                "source": {
+                  "kind": "event",
+                  "title": "NCMA to Go Art Kits: Sponge, Stamp, Soar / Kit de artedel NCMA para llevar: pinta con esponja, estampa … ¡y a volar!",
+                  "start": "2026-11-14T10:00:00",
+                  "end": "2026-11-14T12:00:00",
+                  "venue": "NC Museum of Art",
+                  "address": "2110 Blue Ridge Rd, Raleigh, NC 27607",
+                  "url": "https://ncartmuseum.org/event/ncma-to-go-art-kits-sponge-stamp-soar/",
+                  "cost": null,
+                  "lat": 35.8105,
+                  "lon": -78.7022,
+                  "ages": "Families",
+                  "registration": null,
+                  "indoor": true,
+                  "area": "raleigh",
+                  "source": "museum",
+                  "dropIn": false
+                }
+              }
+            ],
+            "arrive": "09:30",
+            "leave": "11:30",
+            "why": "Your 2-year-old runs on the lawns and spots the big outdoor art at Museum Park. Then the Sponge, Stamp, Soar art kit at 10 am gives hands-on art time.",
+            "tips": [
+              "Bring a snack for a break on the lawn.",
+              "Give a heads-up before heading in for the art kit.",
+              "Leave while your child is still happy so the car ride goes well."
+            ],
+            "interests": [
+              "art",
+              "nature",
+              "movement"
+            ],
+            "area": "raleigh",
+            "outdoor": false,
+            "source": {
+              "kind": "garden",
+              "title": "NC Museum of Art Museum Park",
+              "address": "2110 Blue Ridge Rd, Raleigh, NC 27607",
+              "lat": 35.8105,
+              "lon": -78.7022,
+              "url": "https://ncartmuseum.org/museum-park/",
+              "amenities": [
+                "garden",
+                "nature",
+                "greenway",
+                "restroom"
+              ],
+              "indoor": false,
+              "area": "raleigh",
+              "hours": {
+                "sun": "dawn to dusk",
+                "mon": "dawn to dusk",
+                "tue": "dawn to dusk",
+                "wed": "dawn to dusk",
+                "thu": "dawn to dusk",
+                "fri": "dawn to dusk",
+                "sat": "dawn to dusk"
+              },
+              "cost": "Free",
+              "note": "Free. 164 acres of trails, lawns and big outdoor art; the Capital Area Greenway runs through."
+            }
+          },
+          "alternatives": [
+            {
+              "ref": "event:durham-rec:19867",
+              "also": [
+                {
+                  "ref": "place:twin-lakes-park",
+                  "source": {
+                    "kind": "park",
+                    "title": "Twin Lakes Park",
+                    "address": "439 Chandler Rd, Durham, NC",
+                    "lat": 35.99826947368421,
+                    "lon": -78.84030210526319,
+                    "url": "https://www.dprplaymore.org/Facilities/Facility/Details/Twin-Lakes-Park-71",
+                    "amenities": [
+                      "playground",
+                      "picnic-shelter",
+                      "restroom"
+                    ],
+                    "indoor": false,
+                    "area": "durham",
+                    "hours": null,
+                    "cost": null
+                  }
+                }
+              ],
+              "arrive": "08:50",
+              "leave": "10:40",
+              "why": "Muddy Boots at Twin Lakes starts at 9 am with a nature book and a walk to find nature outside. A family needs to sign up. Afterward your child can play at Twin Lakes Park.",
+              "tips": [
+                "Bring a snack for the playground after the walk."
+              ],
+              "interests": [
+                "nature",
+                "stories",
+                "movement"
+              ],
+              "area": "durham",
+              "outdoor": true,
+              "source": {
+                "kind": "event",
+                "title": "Muddy Boots",
+                "start": "2026-11-14T09:00:00",
+                "end": "2026-11-14T10:00:00",
+                "venue": "Twin Lakes-Picnic Shelter",
+                "address": "439 Chandler Rd, Durham, NC",
+                "url": "https://apm.activecommunities.com/dprplaymore/Activity_Search/muddy-boots/19867?locale=en-US",
+                "cost": null,
+                "lat": 35.99826947368421,
+                "lon": -78.84030210526319,
+                "ages": "1 - 6",
+                "registration": "https://apm.activecommunities.com/dprplaymore/Activity_Search/muddy-boots/19867?locale=en-US",
+                "indoor": false,
+                "area": "durham",
+                "source": "durham-rec",
+                "dropIn": false
+              }
+            },
+            {
+              "ref": "event:wake:24375",
+              "also": [
+                {
+                  "ref": "place:seagroves-farm-park",
+                  "source": {
+                    "kind": "park",
+                    "title": "Seagroves Farm Park",
+                    "address": "201 Parkfield Dr., Apex, NC",
+                    "lat": 35.72788436131107,
+                    "lon": -78.82838438475397,
+                    "url": "https://www.apexnc.org/1936/Seagroves-Farm-Park",
+                    "amenities": [
+                      "playground",
+                      "picnic-shelter",
+                      "restroom",
+                      "greenway"
+                    ],
+                    "indoor": false,
+                    "area": "cary-apex",
+                    "hours": null,
+                    "cost": null
+                  }
+                }
+              ],
+              "arrive": "10:20",
+              "leave": "11:40",
+              "why": "Family Storytime at Eva Perry Regional Library at 10:30 am has books, rhymes, music and movement. Then your child can run at Seagroves Farm Park.",
+              "tips": [
+                "Pick up a ticket at the Youth Services desk when you arrive.",
+                "Bring a snack for the park."
+              ],
+              "interests": [
+                "stories",
+                "music",
+                "movement"
+              ],
+              "area": "cary-apex",
+              "outdoor": false,
+              "source": {
+                "kind": "event",
+                "title": "Family Storytime",
+                "start": "2026-11-14T10:30:00-05:00",
+                "end": "2026-11-14T11:00:00-05:00",
+                "venue": "Eva Perry Regional Library",
+                "address": "2100 Shepherds Vineyard Drive, Apex, NC",
+                "url": "https://www.wake.gov/events/family-storytime-4702",
+                "cost": "Free",
+                "lat": 35.7437832024768,
+                "lon": -78.8251607833066,
+                "ages": "Young Children",
+                "registration": null,
+                "indoor": true,
+                "area": "cary-apex",
+                "source": "wake-county",
+                "dropIn": false
+              }
+            },
+            {
+              "ref": "place:plummer-park",
+              "also": [
+                {
+                  "ref": "event:wake:24268",
+                  "source": {
+                    "kind": "event",
+                    "title": "A Nutcracker Experience",
+                    "start": "2026-11-14T11:30:00-05:00",
+                    "end": "2026-11-14T12:15:00-05:00",
+                    "venue": "Northeast Regional Library",
+                    "address": "14401 Green Elm Lane, Raleigh, NC",
+                    "url": "https://www.wake.gov/events/nutcracker-experience",
+                    "cost": "Free",
+                    "lat": 35.9541926372282,
+                    "lon": -78.5438512128256,
+                    "ages": "Young Children",
+                    "registration": null,
+                    "indoor": true,
+                    "area": "north-raleigh",
+                    "source": "wake-county",
+                    "dropIn": false
+                  }
+                }
+              ],
+              "arrive": "10:55",
+              "leave": "12:15",
+              "why": "Your child plays at Plummer Park first. Then A Nutcracker Experience at Northeast Regional Library at 11:30 am has a story, a dance demonstration and a craft.",
+              "tips": [
+                "Let your child run first so sitting for the story feels easier.",
+                "Bring a snack for the park and head home for lunch after."
+              ],
+              "interests": [
+                "music",
+                "movement",
+                "art"
+              ],
+              "area": "north-raleigh",
+              "outdoor": false,
+              "source": {
+                "kind": "park",
+                "title": "Plummer Park",
+                "address": "965 Jones Wynd, Wake Forest, NC",
+                "lat": 35.96978706226675,
+                "lon": -78.5486469005171,
+                "url": "https://www.wakeforestnc.gov/parks-recreation-cultural-resources/parks-facilities/plummer-park",
+                "amenities": [
+                  "playground",
+                  "picnic-shelter"
+                ],
+                "indoor": false,
+                "area": "north-raleigh",
+                "hours": null,
+                "cost": null
+              }
+            },
+            {
+              "ref": "place:gipson-play-plaza",
+              "arrive": "14:30",
+              "leave": "16:00",
+              "why": "After nap, your 2-year-old has a big playground at Dix Park for climbing and sliding.",
+              "tips": [
+                "Bring a snack and water for a break halfway through.",
+                "Name one last slide so leaving is not a surprise."
+              ],
+              "interests": [
+                "movement"
+              ],
+              "also": [],
+              "area": "raleigh",
+              "outdoor": true,
+              "source": {
+                "kind": "park",
+                "title": "Gipson Play Plaza at Dix Park",
+                "address": "715 Biggs Dr, Raleigh, NC 27603",
+                "lat": 35.7667,
+                "lon": -78.6539,
+                "url": "https://dixpark.org/gipson-play-plaza",
+                "amenities": [
+                  "playground",
+                  "restroom"
+                ],
+                "indoor": false,
+                "area": "raleigh",
+                "hours": {
+                  "sun": "8 a.m.–9 p.m.",
+                  "mon": "8 a.m.–9 p.m.",
+                  "tue": "8 a.m.–9 p.m.",
+                  "wed": "8 a.m.–9 p.m.",
+                  "thu": "8 a.m.–9 p.m.",
+                  "fri": "8 a.m.–9 p.m.",
+                  "sat": "8 a.m.–9 p.m."
+                },
+                "cost": "Free",
+                "note": "Free; free parking. Big destination playground on the south edge of Dix Park."
+              }
+            }
+          ],
+          "rainBackup": null,
+          "timeline": [
+            {
+              "start": "07:00",
+              "end": "07:30",
+              "kind": "meal",
+              "title": "Up and breakfast"
+            },
+            {
+              "start": "07:30",
+              "end": "08:50",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "08:50",
+              "end": "09:10",
+              "kind": "routine",
+              "title": "Get ready to go",
+              "detail": "Shoes on, diaper bag, water and a snack."
+            },
+            {
+              "start": "09:10",
+              "end": "09:30",
+              "kind": "travel",
+              "title": "Drive to NC Museum of Art Museum Park"
+            },
+            {
+              "start": "09:30",
+              "end": "09:50",
+              "kind": "outing",
+              "title": "NC Museum of Art Museum Park"
+            },
+            {
+              "start": "09:50",
+              "end": "10:00",
+              "kind": "travel",
+              "title": "Drive to NC Museum of Art"
+            },
+            {
+              "start": "10:00",
+              "end": "11:30",
+              "kind": "outing",
+              "title": "NCMA to Go Art Kits: Sponge, Stamp, Soar / Kit de artedel NCMA para llevar: pinta con esponja, estampa … ¡y a volar!"
+            },
+            {
+              "start": "11:30",
+              "end": "11:50",
+              "kind": "travel",
+              "title": "Drive home"
+            },
+            {
+              "start": "11:50",
+              "end": "12:15",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "12:15",
+              "end": "12:45",
+              "kind": "meal",
+              "title": "Lunch"
+            },
+            {
+              "start": "12:45",
+              "end": "13:00",
+              "kind": "quiet",
+              "title": "Wind down",
+              "detail": "A couple of books to settle."
+            },
+            {
+              "start": "13:00",
+              "end": "14:00",
+              "kind": "nap",
+              "title": "Nap"
+            },
+            {
+              "start": "14:00",
+              "end": "14:20",
+              "kind": "routine",
+              "title": "Up and a snack"
+            },
+            {
+              "start": "14:20",
+              "end": "18:00",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "18:00",
+              "end": "18:45",
+              "kind": "meal",
+              "title": "Dinner"
+            },
+            {
+              "start": "18:45",
+              "end": "19:30",
+              "kind": "routine",
+              "title": "Bath, books and bed"
+            }
+          ]
+        }
+      ],
+      "dropped": [
+        "[early-nap] event:durham-rec:19867 tip: says drop-in, but sign-up is needed: \"Sign up ahead, since this is not a drop-in.\"",
+        "[early-nap] event:durham-rec:19867 tip: says drop-in, but sign-up is needed: \"Sign up ahead, since this is not a drop-in.\"",
+        "[short-nap] event:durham-rec:19867 tip: says drop-in, but sign-up is needed: \"Sign up ahead, since this is not a drop-in.\"",
+        "[short-nap] event:durham-rec:19867 tip: says drop-in, but sign-up is needed: \"Sign up ahead, since this is not a drop-in.\""
+      ]
+    }
+  ],
+  "checked": {
+    "at": "2026-11-01T11:10:34.324Z",
+    "forecast": "none",
+    "weather": null,
+    "hidden": []
+  }
+}

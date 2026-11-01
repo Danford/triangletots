@@ -1,0 +1,936 @@
+{
+  "date": "2026-11-10",
+  "band": "t3",
+  "versions": [
+    {
+      "at": "2026-10-28T05:31:16.187Z",
+      "reason": null,
+      "forecast": "none",
+      "weather": null,
+      "plans": [
+        {
+          "nap": "nap",
+          "napLabel": "Nap, 1 to 2:30",
+          "headline": "Harvest Helpers at Laurel Hills Community Center and Laurel Hills Park",
+          "main": {
+            "ref": "event:reclink:LHCCHARVEST-001",
+            "arrive": "10:20",
+            "leave": "12:00",
+            "also": [
+              {
+                "ref": "place:laurel-hills-park",
+                "source": {
+                  "kind": "park",
+                  "title": "Laurel Hills Park",
+                  "address": "3808 Edwards Mill Rd, Raleigh, NC 27612",
+                  "url": "https://raleighnc.gov/parks-and-recreation/places/laurel-hills-park",
+                  "amenities": [
+                    "community-center",
+                    "playground",
+                    "picnic-shelter",
+                    "courts",
+                    "fields"
+                  ],
+                  "indoor": false,
+                  "area": "raleigh",
+                  "hours": null,
+                  "lat": 35.82986,
+                  "lon": -78.69733,
+                  "cost": null
+                }
+              }
+            ],
+            "why": "Harvest Helpers is a seasonal 45-minute program for ages 3–5 that weaves songs, a harvest hat craft, and stories about sharing into a well-paced small-group morning. Laurel Hills Park is a short drive for outdoor play after.",
+            "tips": [
+              "Registration and a small fee are required; book and pay before heading out.",
+              "The park visit after the program is weather-permitting; head straight home if conditions are poor.",
+              "Bring a bag to carry the finished craft home without squashing it."
+            ],
+            "interests": [
+              "art",
+              "music",
+              "movement"
+            ],
+            "area": "raleigh",
+            "outdoor": false,
+            "source": {
+              "kind": "event",
+              "title": "Harvest Helpers",
+              "start": "2026-11-10T10:30:00",
+              "end": "2026-11-10T11:30:00",
+              "venue": "Laurel Hills Community Center",
+              "address": "3808 Edwards Mill Rd, Raleigh, NC 27612",
+              "url": "https://ncraleighweb.myvscloud.com/webtrac/web/search.html?module=AR",
+              "cost": "$8.00",
+              "ages": "3-5.99",
+              "registration": "https://ncraleighweb.myvscloud.com/webtrac/web/search.html?module=AR",
+              "indoor": true,
+              "area": "raleigh",
+              "source": "reclink",
+              "dropIn": false,
+              "lat": 35.82986,
+              "lon": -78.69733
+            }
+          },
+          "alternatives": [
+            {
+              "ref": "event:museum:marbles:45955",
+              "arrive": "10:05",
+              "leave": "12:30",
+              "also": [
+                {
+                  "ref": "event:museum:marbles:46182",
+                  "source": {
+                    "kind": "event",
+                    "title": "Animal Kingdom 3D",
+                    "start": "2026-11-10T11:15:00",
+                    "end": "2026-11-10T12:00:00",
+                    "venue": "Marbles Kids Museum",
+                    "address": "201 E Hargett St, Raleigh, NC 27601",
+                    "url": "https://marbleskidsmuseum.org/event/48021/",
+                    "cost": null,
+                    "ages": "IMAX film, 4 and up",
+                    "registration": null,
+                    "indoor": true,
+                    "area": "raleigh",
+                    "source": "museum",
+                    "dropIn": false,
+                    "lat": 35.7789,
+                    "lon": -78.6361
+                  }
+                },
+                {
+                  "ref": "place:john-chavis-memorial-park",
+                  "source": {
+                    "kind": "park",
+                    "title": "John Chavis Memorial Park",
+                    "address": "505 Martin Luther King Jr Blvd, Raleigh, NC 27601",
+                    "url": "https://raleighnc.gov/parks-and-recreation/places/john-chavis-memorial-park",
+                    "amenities": [
+                      "community-center",
+                      "playground",
+                      "carousel",
+                      "fields"
+                    ],
+                    "indoor": false,
+                    "area": "raleigh",
+                    "hours": null,
+                    "lat": 35.7698,
+                    "lon": -78.63021,
+                    "cost": null
+                  }
+                }
+              ],
+              "why": "Extreme Weather and Animal Kingdom back to back on the Marbles IMAX screen makes a vivid 90-minute morning; John Chavis Memorial Park has a carousel and open fields for a run after.",
+              "tips": [
+                "Arrive a few minutes early to choose seats for the first film.",
+                "The park visit after the films is weather-permitting; the carousel is a good carrot to mention before you leave the museum."
+              ],
+              "interests": [
+                "science",
+                "animals",
+                "movement"
+              ],
+              "area": "raleigh",
+              "outdoor": false,
+              "source": {
+                "kind": "event",
+                "title": "Extreme Weather 3D",
+                "start": "2026-11-10T10:15:00",
+                "end": "2026-11-10T11:00:00",
+                "venue": "Marbles Kids Museum",
+                "address": "201 E Hargett St, Raleigh, NC 27601",
+                "url": "https://marbleskidsmuseum.org/event/47871/",
+                "cost": null,
+                "ages": "IMAX film, 4 and up",
+                "registration": null,
+                "indoor": true,
+                "area": "raleigh",
+                "source": "museum",
+                "dropIn": false,
+                "lat": 35.7789,
+                "lon": -78.6361
+              }
+            },
+            {
+              "ref": "place:falls-lake-state-recreation-area-beaverdam-lake-entrance",
+              "arrive": "09:00",
+              "leave": "12:00",
+              "why": "Falls Lake's Beaverdam entrance has a lake shoreline, greenway trails, and a playground — a calm, open-air Tuesday morning with water views.",
+              "tips": [
+                "Dress in layers for a November lakeside walk.",
+                "Bring a snack and water for the trail."
+              ],
+              "interests": [
+                "nature",
+                "water"
+              ],
+              "also": [],
+              "area": "north-raleigh",
+              "outdoor": true,
+              "source": {
+                "kind": "park",
+                "title": "Falls Lake State Recreation Area - Beaverdam Lake Entrance",
+                "address": "14600 Creedmoor Rd, Wake Forest",
+                "url": "https://www.ncparks.gov/falls-lake-state-recreation-area",
+                "amenities": [
+                  "playground",
+                  "picnic-shelter",
+                  "restroom",
+                  "greenway"
+                ],
+                "indoor": false,
+                "area": "north-raleigh",
+                "hours": null,
+                "lat": 36.042355697507375,
+                "lon": -78.69804873966285,
+                "cost": null
+              }
+            },
+            {
+              "ref": "event:wake-parks:8358:2026-11-10",
+              "arrive": "07:50",
+              "leave": "10:30",
+              "why": "Picture-book panels along the accessible Educational Loop turn a morning walk into a story your child reads one panel at a time.",
+              "tips": [
+                "Arrive early for the quietest experience.",
+                "The loop is ADA-accessible and stroller-friendly."
+              ],
+              "interests": [
+                "stories",
+                "nature"
+              ],
+              "also": [],
+              "area": "south-wake",
+              "outdoor": true,
+              "source": {
+                "kind": "event",
+                "title": "Beech Bluff County Park StoryWalk® 2026 (Self-Led)",
+                "start": "2026-11-10T08:00:00",
+                "end": "2026-11-10T17:30:00",
+                "venue": "Beech Bluff County Park",
+                "address": "Beech Bluff Park Drive, Fuquay-Varina, NC",
+                "url": "https://apm.activecommunities.com/wakeparks/Activity_Search/beech-bluff-county-park-storywalk-2026-self-led/8358?locale=en-US",
+                "cost": "Free",
+                "ages": null,
+                "registration": false,
+                "indoor": false,
+                "area": "south-wake",
+                "source": "wake-parks",
+                "dropIn": true,
+                "lat": 35.58537279715877,
+                "lon": -78.6793341971644
+              }
+            },
+            {
+              "ref": "event:wake-parks:9411:2026-11-10",
+              "arrive": "08:20",
+              "leave": "12:30",
+              "why": "A drop-in naturalist station at Yates Mill County Park lets children discover the American bison with interpretive staff on hand on the final day of the Exploration Station.",
+              "tips": [
+                "Registration is required; book your spot before heading out.",
+                "Dress for a walk on natural surfaces and bring water."
+              ],
+              "interests": [
+                "animals",
+                "science",
+                "nature"
+              ],
+              "also": [],
+              "area": "raleigh",
+              "outdoor": true,
+              "source": {
+                "kind": "event",
+                "title": "Exploration Station: American Bison",
+                "start": "2026-11-10T08:30:00",
+                "end": "2026-11-10T17:00:00",
+                "venue": "Historic Yates Mill County Park",
+                "address": "4620 Lake Wheeler Rd., Raleigh, NC  27603",
+                "url": "https://apm.activecommunities.com/wakeparks/Activity_Search/exploration-station-american-bison/9411?locale=en-US",
+                "cost": null,
+                "ages": null,
+                "registration": "https://apm.activecommunities.com/wakeparks/Activity_Search/exploration-station-american-bison/9411?locale=en-US",
+                "indoor": false,
+                "area": "raleigh",
+                "source": "wake-parks",
+                "dropIn": false,
+                "lat": 35.72157134974476,
+                "lon": -78.68526087901417
+              }
+            }
+          ],
+          "rainBackup": null,
+          "timeline": [
+            {
+              "start": "07:00",
+              "end": "07:30",
+              "kind": "meal",
+              "title": "Up and breakfast"
+            },
+            {
+              "start": "07:30",
+              "end": "09:40",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "09:40",
+              "end": "10:00",
+              "kind": "routine",
+              "title": "Get ready to go",
+              "detail": "Shoes on, diaper bag, water and a snack."
+            },
+            {
+              "start": "10:00",
+              "end": "10:20",
+              "kind": "travel",
+              "title": "Drive to Laurel Hills Community Center"
+            },
+            {
+              "start": "10:20",
+              "end": "11:30",
+              "kind": "outing",
+              "title": "Harvest Helpers"
+            },
+            {
+              "start": "11:30",
+              "end": "11:40",
+              "kind": "travel",
+              "title": "Drive to Laurel Hills Park"
+            },
+            {
+              "start": "11:40",
+              "end": "12:00",
+              "kind": "outing",
+              "title": "Laurel Hills Park"
+            },
+            {
+              "start": "12:00",
+              "end": "12:20",
+              "kind": "travel",
+              "title": "Drive home"
+            },
+            {
+              "start": "12:20",
+              "end": "12:50",
+              "kind": "meal",
+              "title": "Lunch"
+            },
+            {
+              "start": "12:50",
+              "end": "13:00",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "13:00",
+              "end": "14:30",
+              "kind": "nap",
+              "title": "Nap"
+            },
+            {
+              "start": "14:30",
+              "end": "14:50",
+              "kind": "routine",
+              "title": "Up and a snack"
+            },
+            {
+              "start": "14:50",
+              "end": "18:30",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "18:30",
+              "end": "19:15",
+              "kind": "meal",
+              "title": "Dinner"
+            },
+            {
+              "start": "19:15",
+              "end": "20:00",
+              "kind": "routine",
+              "title": "Bath, books and bed"
+            }
+          ]
+        },
+        {
+          "nap": "quiet",
+          "napLabel": "Quiet time, no sleep",
+          "headline": "Morning at Clemmons Educational State Forest",
+          "main": {
+            "ref": "place:clemmons-educational-state-forest",
+            "arrive": "09:00",
+            "leave": "11:30",
+            "why": "Clemmons Educational State Forest has interpretive trails with talking-tree signs and wildlife panels designed to teach children about the forest — a genuinely different kind of outdoor morning that feels like a real adventure for a curious 3.5-year-old.",
+            "tips": [
+              "The interpretive panels along the trails are at a child's eye level and easy to stop and read together.",
+              "Wear sturdy shoes and dress in layers for a November forest walk.",
+              "Leave by 11:30 so there is a relaxed gap before quiet time."
+            ],
+            "interests": [
+              "nature",
+              "science"
+            ],
+            "also": [],
+            "area": "east-wake",
+            "outdoor": true,
+            "source": {
+              "kind": "park",
+              "title": "Clemmons Educational State Forest",
+              "address": "2256 Old U.S. Hwy 70, Clayton, NC",
+              "url": "https://www.ncesf.org/clemmons.html",
+              "amenities": [
+                "picnic-shelter",
+                "restroom",
+                "greenway"
+              ],
+              "indoor": false,
+              "area": "east-wake",
+              "hours": null,
+              "lat": 35.674152072557575,
+              "lon": -78.48905206181357,
+              "cost": null
+            }
+          },
+          "alternatives": [
+            {
+              "ref": "event:reclink:LHCCHARVEST-001",
+              "arrive": "10:20",
+              "leave": "12:00",
+              "also": [
+                {
+                  "ref": "place:laurel-hills-park",
+                  "source": {
+                    "kind": "park",
+                    "title": "Laurel Hills Park",
+                    "address": "3808 Edwards Mill Rd, Raleigh, NC 27612",
+                    "url": "https://raleighnc.gov/parks-and-recreation/places/laurel-hills-park",
+                    "amenities": [
+                      "community-center",
+                      "playground",
+                      "picnic-shelter",
+                      "courts",
+                      "fields"
+                    ],
+                    "indoor": false,
+                    "area": "raleigh",
+                    "hours": null,
+                    "lat": 35.82986,
+                    "lon": -78.69733,
+                    "cost": null
+                  }
+                }
+              ],
+              "why": "A small-group seasonal craft program for ages 3–5 followed by outdoor play at the adjacent Laurel Hills Park — a contained, well-paced Tuesday morning.",
+              "tips": [
+                "Registration and a small fee are required.",
+                "The park visit after is weather-permitting."
+              ],
+              "interests": [
+                "art",
+                "music",
+                "movement"
+              ],
+              "area": "raleigh",
+              "outdoor": false,
+              "source": {
+                "kind": "event",
+                "title": "Harvest Helpers",
+                "start": "2026-11-10T10:30:00",
+                "end": "2026-11-10T11:30:00",
+                "venue": "Laurel Hills Community Center",
+                "address": "3808 Edwards Mill Rd, Raleigh, NC 27612",
+                "url": "https://ncraleighweb.myvscloud.com/webtrac/web/search.html?module=AR",
+                "cost": "$8.00",
+                "ages": "3-5.99",
+                "registration": "https://ncraleighweb.myvscloud.com/webtrac/web/search.html?module=AR",
+                "indoor": true,
+                "area": "raleigh",
+                "source": "reclink",
+                "dropIn": false,
+                "lat": 35.82986,
+                "lon": -78.69733
+              }
+            },
+            {
+              "ref": "place:falls-lake-state-recreation-area-beaverdam-lake-entrance",
+              "arrive": "09:00",
+              "leave": "11:30",
+              "why": "Falls Lake's Beaverdam shoreline, trails, and playground make a lovely outdoor morning before the quiet-time window.",
+              "tips": [
+                "Dress in layers for a November lakeside walk.",
+                "Bring a snack and water for the trail."
+              ],
+              "interests": [
+                "nature",
+                "water"
+              ],
+              "also": [],
+              "area": "north-raleigh",
+              "outdoor": true,
+              "source": {
+                "kind": "park",
+                "title": "Falls Lake State Recreation Area - Beaverdam Lake Entrance",
+                "address": "14600 Creedmoor Rd, Wake Forest",
+                "url": "https://www.ncparks.gov/falls-lake-state-recreation-area",
+                "amenities": [
+                  "playground",
+                  "picnic-shelter",
+                  "restroom",
+                  "greenway"
+                ],
+                "indoor": false,
+                "area": "north-raleigh",
+                "hours": null,
+                "lat": 36.042355697507375,
+                "lon": -78.69804873966285,
+                "cost": null
+              }
+            },
+            {
+              "ref": "place:nc-botanical-garden",
+              "arrive": "09:00",
+              "leave": "11:30",
+              "why": "The free botanical garden has display gardens and nature trails through the forest — calm, unhurried, and easy for a 3.5-year-old to wander at a comfortable pace.",
+              "tips": [
+                "Go early for the quietest experience.",
+                "The trails behind the display gardens are stroller-friendly."
+              ],
+              "interests": [
+                "nature",
+                "science"
+              ],
+              "also": [],
+              "area": "chapel-hill",
+              "outdoor": true,
+              "source": {
+                "kind": "garden",
+                "title": "NC Botanical Garden",
+                "address": "100 Old Mason Farm Rd, Chapel Hill, NC 27517",
+                "url": "https://ncbg.unc.edu/visit/",
+                "amenities": [
+                  "garden",
+                  "nature",
+                  "restroom"
+                ],
+                "indoor": false,
+                "area": "chapel-hill",
+                "lat": 35.9011,
+                "lon": -79.0319,
+                "cost": "Free",
+                "note": "Free. Display gardens, and nature trails through the forest behind them."
+              }
+            },
+            {
+              "ref": "event:wake-parks:8358:2026-11-10",
+              "arrive": "07:50",
+              "leave": "10:30",
+              "why": "A picture-book story told in panels along Beech Bluff's accessible loop — calm, free, and finished well before quiet time.",
+              "tips": [
+                "The loop is ADA-accessible and stroller-friendly.",
+                "Go early for the most peaceful walk."
+              ],
+              "interests": [
+                "stories",
+                "nature"
+              ],
+              "also": [],
+              "area": "south-wake",
+              "outdoor": true,
+              "source": {
+                "kind": "event",
+                "title": "Beech Bluff County Park StoryWalk® 2026 (Self-Led)",
+                "start": "2026-11-10T08:00:00",
+                "end": "2026-11-10T17:30:00",
+                "venue": "Beech Bluff County Park",
+                "address": "Beech Bluff Park Drive, Fuquay-Varina, NC",
+                "url": "https://apm.activecommunities.com/wakeparks/Activity_Search/beech-bluff-county-park-storywalk-2026-self-led/8358?locale=en-US",
+                "cost": "Free",
+                "ages": null,
+                "registration": false,
+                "indoor": false,
+                "area": "south-wake",
+                "source": "wake-parks",
+                "dropIn": true,
+                "lat": 35.58537279715877,
+                "lon": -78.6793341971644
+              }
+            }
+          ],
+          "rainBackup": null,
+          "timeline": [
+            {
+              "start": "07:00",
+              "end": "07:30",
+              "kind": "meal",
+              "title": "Up and breakfast"
+            },
+            {
+              "start": "07:30",
+              "end": "08:20",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "08:20",
+              "end": "08:40",
+              "kind": "routine",
+              "title": "Get ready to go",
+              "detail": "Shoes on, diaper bag, water and a snack."
+            },
+            {
+              "start": "08:40",
+              "end": "09:00",
+              "kind": "travel",
+              "title": "Drive to Clemmons Educational State Forest"
+            },
+            {
+              "start": "09:00",
+              "end": "11:30",
+              "kind": "outing",
+              "title": "Clemmons Educational State Forest"
+            },
+            {
+              "start": "11:30",
+              "end": "11:50",
+              "kind": "travel",
+              "title": "Drive home"
+            },
+            {
+              "start": "11:50",
+              "end": "12:20",
+              "kind": "meal",
+              "title": "Lunch"
+            },
+            {
+              "start": "12:20",
+              "end": "13:00",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "13:00",
+              "end": "13:45",
+              "kind": "quiet",
+              "title": "Quiet time",
+              "detail": "Books or quiet play in their room."
+            },
+            {
+              "start": "13:45",
+              "end": "18:00",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "18:00",
+              "end": "18:45",
+              "kind": "meal",
+              "title": "Dinner"
+            },
+            {
+              "start": "18:45",
+              "end": "19:30",
+              "kind": "routine",
+              "title": "Bath, books and bed"
+            }
+          ]
+        },
+        {
+          "nap": "no-nap",
+          "napLabel": "No nap",
+          "headline": "Morning at Falls Lake — Beaverdam Lake Entrance",
+          "main": {
+            "ref": "place:falls-lake-state-recreation-area-beaverdam-lake-entrance",
+            "arrive": "09:00",
+            "leave": "12:30",
+            "why": "Falls Lake's Beaverdam entrance pairs a lake shoreline with greenway trails and a playground — a spacious, beautiful Tuesday morning with room to run, watch the water, and explore at a toddler's pace.",
+            "tips": [
+              "Dress in layers; the lakeside is cooler than it looks in November.",
+              "Bring a snack and let your child lead the way along the trail.",
+              "The playground near the entrance is a good spot to finish when the walking is done."
+            ],
+            "interests": [
+              "nature",
+              "water"
+            ],
+            "also": [],
+            "area": "north-raleigh",
+            "outdoor": true,
+            "source": {
+              "kind": "park",
+              "title": "Falls Lake State Recreation Area - Beaverdam Lake Entrance",
+              "address": "14600 Creedmoor Rd, Wake Forest",
+              "url": "https://www.ncparks.gov/falls-lake-state-recreation-area",
+              "amenities": [
+                "playground",
+                "picnic-shelter",
+                "restroom",
+                "greenway"
+              ],
+              "indoor": false,
+              "area": "north-raleigh",
+              "hours": null,
+              "lat": 36.042355697507375,
+              "lon": -78.69804873966285,
+              "cost": null
+            }
+          },
+          "alternatives": [
+            {
+              "ref": "place:clemmons-educational-state-forest",
+              "arrive": "09:00",
+              "leave": "12:00",
+              "why": "Clemmons Educational State Forest has interpretive trails with talking-tree signs and wildlife panels — a distinctive, educational outdoor morning in east Wake.",
+              "tips": [
+                "Wear sturdy shoes; the trails are easy for a 3.5-year-old on foot.",
+                "The interpretive panels make great conversation starters along the way."
+              ],
+              "interests": [
+                "nature",
+                "science"
+              ],
+              "also": [],
+              "area": "east-wake",
+              "outdoor": true,
+              "source": {
+                "kind": "park",
+                "title": "Clemmons Educational State Forest",
+                "address": "2256 Old U.S. Hwy 70, Clayton, NC",
+                "url": "https://www.ncesf.org/clemmons.html",
+                "amenities": [
+                  "picnic-shelter",
+                  "restroom",
+                  "greenway"
+                ],
+                "indoor": false,
+                "area": "east-wake",
+                "hours": null,
+                "lat": 35.674152072557575,
+                "lon": -78.48905206181357,
+                "cost": null
+              }
+            },
+            {
+              "ref": "event:reclink:LHCCHARVEST-001",
+              "arrive": "10:20",
+              "leave": "12:00",
+              "also": [
+                {
+                  "ref": "place:laurel-hills-park",
+                  "source": {
+                    "kind": "park",
+                    "title": "Laurel Hills Park",
+                    "address": "3808 Edwards Mill Rd, Raleigh, NC 27612",
+                    "url": "https://raleighnc.gov/parks-and-recreation/places/laurel-hills-park",
+                    "amenities": [
+                      "community-center",
+                      "playground",
+                      "picnic-shelter",
+                      "courts",
+                      "fields"
+                    ],
+                    "indoor": false,
+                    "area": "raleigh",
+                    "hours": null,
+                    "lat": 35.82986,
+                    "lon": -78.69733,
+                    "cost": null
+                  }
+                }
+              ],
+              "why": "A small-group seasonal craft program for ages 3–5 — songs, a harvest hat craft, and stories — followed by outdoor play at Laurel Hills Park.",
+              "tips": [
+                "Registration and a small fee are required; book before heading out.",
+                "The park visit after is weather-permitting."
+              ],
+              "interests": [
+                "art",
+                "music",
+                "movement"
+              ],
+              "area": "raleigh",
+              "outdoor": false,
+              "source": {
+                "kind": "event",
+                "title": "Harvest Helpers",
+                "start": "2026-11-10T10:30:00",
+                "end": "2026-11-10T11:30:00",
+                "venue": "Laurel Hills Community Center",
+                "address": "3808 Edwards Mill Rd, Raleigh, NC 27612",
+                "url": "https://ncraleighweb.myvscloud.com/webtrac/web/search.html?module=AR",
+                "cost": "$8.00",
+                "ages": "3-5.99",
+                "registration": "https://ncraleighweb.myvscloud.com/webtrac/web/search.html?module=AR",
+                "indoor": true,
+                "area": "raleigh",
+                "source": "reclink",
+                "dropIn": false,
+                "lat": 35.82986,
+                "lon": -78.69733
+              }
+            },
+            {
+              "ref": "event:museum:nc-natural-sciences:123482",
+              "arrive": "13:20",
+              "leave": "14:15",
+              "also": [
+                {
+                  "ref": "place:fred-fletcher-park",
+                  "source": {
+                    "kind": "park",
+                    "title": "Fred Fletcher Park",
+                    "address": "820 Clay Street, Raleigh, NC 27605",
+                    "url": "https://raleighnc.gov/parks-and-recreation/places/fred-fletcher-park",
+                    "amenities": [
+                      "garden",
+                      "picnic-shelter",
+                      "courts",
+                      "fields",
+                      "playground"
+                    ],
+                    "indoor": false,
+                    "area": "raleigh",
+                    "hours": null,
+                    "lat": 35.79264,
+                    "lon": -78.64957,
+                    "cost": null
+                  }
+                }
+              ],
+              "why": "The lobster feeding at the NC Museum of Natural Sciences is a vivid, memorable walk-up program; Fred Fletcher Park is a short walk after for an outdoor stretch.",
+              "tips": [
+                "No registration needed — walk up and watch.",
+                "The park visit after is weather-permitting; Fred Fletcher has a garden and playground."
+              ],
+              "interests": [
+                "animals",
+                "nature"
+              ],
+              "area": "raleigh",
+              "outdoor": false,
+              "source": {
+                "kind": "event",
+                "title": "Live Animal Feeding: Lobster",
+                "start": "2026-11-10T13:30:00",
+                "end": "2026-11-10T13:45:00",
+                "venue": "NC Museum of Natural Sciences",
+                "address": "11 West Jones Street, Raleigh, NC, 27601",
+                "url": "https://www.naturalsciences.org/calendar/event/live-animal-feeding-lobster-4/2026-11-10/",
+                "cost": null,
+                "ages": "Adults All Ages Children Downtown Raleigh Live Animals Teens Walk-up Programs",
+                "registration": false,
+                "indoor": true,
+                "area": "raleigh",
+                "source": "museum",
+                "dropIn": false,
+                "lat": 35.7822735,
+                "lon": -78.6395502
+              }
+            },
+            {
+              "ref": "event:wake-parks:8358:2026-11-10",
+              "arrive": "07:50",
+              "leave": "10:30",
+              "why": "Picture-book panels along Beech Bluff's accessible loop turn a morning walk into a story your child reads one panel at a time.",
+              "tips": [
+                "Go early for the quietest experience.",
+                "The loop is ADA-accessible and stroller-friendly."
+              ],
+              "interests": [
+                "stories",
+                "nature"
+              ],
+              "also": [],
+              "area": "south-wake",
+              "outdoor": true,
+              "source": {
+                "kind": "event",
+                "title": "Beech Bluff County Park StoryWalk® 2026 (Self-Led)",
+                "start": "2026-11-10T08:00:00",
+                "end": "2026-11-10T17:30:00",
+                "venue": "Beech Bluff County Park",
+                "address": "Beech Bluff Park Drive, Fuquay-Varina, NC",
+                "url": "https://apm.activecommunities.com/wakeparks/Activity_Search/beech-bluff-county-park-storywalk-2026-self-led/8358?locale=en-US",
+                "cost": "Free",
+                "ages": null,
+                "registration": false,
+                "indoor": false,
+                "area": "south-wake",
+                "source": "wake-parks",
+                "dropIn": true,
+                "lat": 35.58537279715877,
+                "lon": -78.6793341971644
+              }
+            }
+          ],
+          "rainBackup": null,
+          "timeline": [
+            {
+              "start": "07:00",
+              "end": "07:30",
+              "kind": "meal",
+              "title": "Up and breakfast"
+            },
+            {
+              "start": "07:30",
+              "end": "08:20",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "08:20",
+              "end": "08:40",
+              "kind": "routine",
+              "title": "Get ready to go",
+              "detail": "Shoes on, diaper bag, water and a snack."
+            },
+            {
+              "start": "08:40",
+              "end": "09:00",
+              "kind": "travel",
+              "title": "Drive to Falls Lake State Recreation Area - Beaverdam Lake Entrance"
+            },
+            {
+              "start": "09:00",
+              "end": "12:30",
+              "kind": "outing",
+              "title": "Falls Lake State Recreation Area - Beaverdam Lake Entrance",
+              "detail": "Pack a lunch to eat there."
+            },
+            {
+              "start": "12:30",
+              "end": "12:50",
+              "kind": "travel",
+              "title": "Drive home"
+            },
+            {
+              "start": "12:50",
+              "end": "18:00",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "18:00",
+              "end": "18:45",
+              "kind": "meal",
+              "title": "Dinner"
+            },
+            {
+              "start": "18:45",
+              "end": "19:30",
+              "kind": "routine",
+              "title": "Bath, books and bed"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "checked": {
+    "at": "2026-11-01T11:15:29.115Z",
+    "forecast": "none",
+    "weather": null,
+    "hidden": []
+  }
+}

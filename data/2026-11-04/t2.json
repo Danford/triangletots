@@ -1,0 +1,1109 @@
+{
+  "date": "2026-11-04",
+  "band": "t2",
+  "versions": [
+    {
+      "at": "2026-10-27T08:21:31.775Z",
+      "reason": null,
+      "forecast": "none",
+      "weather": null,
+      "plans": [
+        {
+          "nap": "early-nap",
+          "napLabel": "One nap, 12 to 2",
+          "headline": "What's in the Box? at the NC Museum of Art, then a walk in the Museum Park",
+          "main": {
+            "ref": "event:museum:ncma:5148",
+            "arrive": "10:00",
+            "leave": "11:35",
+            "also": [
+              {
+                "ref": "place:ncma-museum-park",
+                "source": {
+                  "kind": "garden",
+                  "title": "NC Museum of Art Museum Park",
+                  "address": "2110 Blue Ridge Rd, Raleigh, NC 27607",
+                  "url": "https://ncartmuseum.org/museum-park/",
+                  "amenities": [
+                    "garden",
+                    "nature",
+                    "greenway",
+                    "restroom"
+                  ],
+                  "indoor": false,
+                  "area": "raleigh",
+                  "hours": {
+                    "sun": "dawn to dusk",
+                    "mon": "dawn to dusk",
+                    "tue": "dawn to dusk",
+                    "wed": "dawn to dusk",
+                    "thu": "dawn to dusk",
+                    "fri": "dawn to dusk",
+                    "sat": "dawn to dusk"
+                  },
+                  "lat": 35.8105,
+                  "lon": -78.7022,
+                  "cost": "Free",
+                  "note": "Free. 164 acres of trails, lawns and big outdoor art; the Capital Area Greenway runs through."
+                }
+              }
+            ],
+            "why": "What's in the Box? invites families to handle and puzzle over objects from the museum's collection. Afterward, the wide paved paths of the Museum Park give little legs room to run and big outdoor sculptures to discover.",
+            "tips": [
+              "Bring a snack for the park stretch after the program — 2.5-year-olds do better outside when they are not hungry.",
+              "The Museum Park paths are easy for toddlers on foot or in a stroller.",
+              "If rain cuts the park short, duck back inside to wander the galleries."
+            ],
+            "interests": [
+              "art",
+              "nature",
+              "movement"
+            ],
+            "area": "raleigh",
+            "outdoor": false,
+            "source": {
+              "kind": "event",
+              "title": "What’s in the Box?",
+              "start": "2026-11-04T10:00:00",
+              "end": "2026-11-04T11:00:00",
+              "venue": "NC Museum of Art",
+              "address": "2110 Blue Ridge Rd, Raleigh, NC 27607",
+              "url": "https://ncartmuseum.org/event/whats-in-the-box-8/",
+              "cost": null,
+              "ages": "Families",
+              "registration": null,
+              "indoor": true,
+              "area": "raleigh",
+              "source": "museum",
+              "dropIn": false,
+              "lat": 35.8105,
+              "lon": -78.7022
+            }
+          },
+          "alternatives": [
+            {
+              "ref": "place:hill-ridge-farms",
+              "arrive": "09:30",
+              "leave": "11:30",
+              "why": "Fall festival at a working farm north of the city — animals to meet, outdoor play and a free pumpkin to take home. An easy, unhurried morning that fits the early nap.",
+              "tips": [
+                "Last admission is one hour before closing, so you have plenty of time.",
+                "Dress for mud and bring wipes.",
+                "Leave by 11:30 to get home with a few minutes to settle before nap."
+              ],
+              "interests": [
+                "animals",
+                "nature"
+              ],
+              "also": [],
+              "area": "north-raleigh",
+              "outdoor": true,
+              "source": {
+                "kind": "farm",
+                "title": "Hill Ridge Farms",
+                "address": "703 Tarboro Rd, Youngsville, NC 27596",
+                "url": "https://www.hillridgefarms.com/",
+                "amenities": [
+                  "farm"
+                ],
+                "indoor": false,
+                "area": "north-raleigh",
+                "lat": 36.0161,
+                "lon": -78.4416,
+                "cost": "Tickets at the gate",
+                "note": "Fall festival: tickets at the gate, each with a free pumpkin. Last admission an hour before closing; less busy Wednesday to Friday."
+              }
+            },
+            {
+              "ref": "event:wake-parks:9411:2026-11-04",
+              "arrive": "08:30",
+              "leave": "11:30",
+              "why": "Drop-in Exploration Station at Historic Yates Mill County Park for National Bison Day — rangers share facts and hands-on items about the USA's national mammal. Registration is required.",
+              "tips": [
+                "Register ahead so you are ready to walk straight in.",
+                "The mill pond trail is a lovely short walk before or after the station.",
+                "Bring water and a layer — it is an outdoor event."
+              ],
+              "interests": [
+                "animals",
+                "science",
+                "nature"
+              ],
+              "also": [],
+              "area": "raleigh",
+              "outdoor": true,
+              "source": {
+                "kind": "event",
+                "title": "Exploration Station: American Bison",
+                "start": "2026-11-04T08:30:00",
+                "end": "2026-11-04T17:00:00",
+                "venue": "Historic Yates Mill County Park",
+                "address": "4620 Lake Wheeler Rd., Raleigh, NC  27603",
+                "url": "https://apm.activecommunities.com/wakeparks/Activity_Search/exploration-station-american-bison/9411?locale=en-US",
+                "cost": null,
+                "ages": null,
+                "registration": "https://apm.activecommunities.com/wakeparks/Activity_Search/exploration-station-american-bison/9411?locale=en-US",
+                "indoor": false,
+                "area": "raleigh",
+                "source": "wake-parks",
+                "dropIn": false,
+                "lat": 35.72157134974476,
+                "lon": -78.68526087901417
+              }
+            },
+            {
+              "ref": "event:wake:21992",
+              "arrive": "09:05",
+              "leave": "10:30",
+              "also": [
+                {
+                  "ref": "place:plummer-park",
+                  "source": {
+                    "kind": "park",
+                    "title": "Plummer Park",
+                    "address": "965 Jones Wynd, Wake Forest, NC",
+                    "url": "https://www.wakeforestnc.gov/parks-recreation-cultural-resources/parks-facilities/plummer-park",
+                    "amenities": [
+                      "playground",
+                      "picnic-shelter"
+                    ],
+                    "indoor": false,
+                    "area": "north-raleigh",
+                    "hours": null,
+                    "lat": 35.96978706226675,
+                    "lon": -78.5486469005171,
+                    "cost": null
+                  }
+                }
+              ],
+              "why": "Toddler Storytime at the Northeast Regional Library for books, rhymes and movement, then a quick run at Plummer Park nearby while the morning is still cool.",
+              "tips": [
+                "Tickets are not needed — just show up.",
+                "Pack a snack for the park so the child has energy after sitting.",
+                "Weather permitting only for the park — the storytime is always on."
+              ],
+              "interests": [
+                "stories",
+                "music",
+                "movement"
+              ],
+              "area": "north-raleigh",
+              "outdoor": false,
+              "source": {
+                "kind": "event",
+                "title": "Toddler Storytime",
+                "start": "2026-11-04T09:15:00-05:00",
+                "end": "2026-11-04T09:45:00-05:00",
+                "venue": "Northeast Regional Library",
+                "address": "14401 Green Elm Lane, Raleigh, NC",
+                "url": "https://www.wake.gov/events/toddler-storytime-1023",
+                "cost": "Free",
+                "ages": "Young Children",
+                "registration": null,
+                "indoor": true,
+                "area": "north-raleigh",
+                "source": "wake-county",
+                "dropIn": false,
+                "lat": 35.9541926372282,
+                "lon": -78.5438512128256
+              }
+            },
+            {
+              "ref": "event:museum:nc-natural-sciences:123918",
+              "arrive": "10:35",
+              "leave": "11:30",
+              "also": [
+                {
+                  "ref": "place:fred-fletcher-park",
+                  "source": {
+                    "kind": "park",
+                    "title": "Fred Fletcher Park",
+                    "address": "820 Clay Street, Raleigh, NC 27605",
+                    "url": "https://raleighnc.gov/parks-and-recreation/places/fred-fletcher-park",
+                    "amenities": [
+                      "garden",
+                      "picnic-shelter",
+                      "courts",
+                      "fields",
+                      "playground"
+                    ],
+                    "indoor": false,
+                    "area": "raleigh",
+                    "hours": null,
+                    "lat": 35.79264,
+                    "lon": -78.64957,
+                    "cost": null
+                  }
+                }
+              ],
+              "why": "Watch the ocean habitat animals get fed at the NC Museum of Natural Sciences — a brief, mesmerising show — then head to Fred Fletcher Park to burn off the excitement.",
+              "tips": [
+                "Arrive a few minutes early to get a good spot at the tank.",
+                "The feeding lasts about 15 minutes, so combine it with park time to make the trip worthwhile.",
+                "Fred Fletcher has a playground and a garden — great for wandering."
+              ],
+              "interests": [
+                "animals",
+                "science",
+                "nature"
+              ],
+              "area": "raleigh",
+              "outdoor": false,
+              "source": {
+                "kind": "event",
+                "title": "Live Animal Feeding – Ocean Habitat",
+                "start": "2026-11-04T10:45:00",
+                "end": "2026-11-04T11:00:00",
+                "venue": "NC Museum of Natural Sciences",
+                "address": "11 West Jones Street, Raleigh, NC, 27601",
+                "url": "https://www.naturalsciences.org/calendar/event/live-animal-feeding-ocean-habitat-5/2026-11-04/",
+                "cost": null,
+                "ages": "Adults All Ages Children Live Animals Teens Walk-up Programs",
+                "registration": false,
+                "indoor": true,
+                "area": "raleigh",
+                "source": "museum",
+                "dropIn": false,
+                "lat": 35.7822735,
+                "lon": -78.6395502
+              }
+            }
+          ],
+          "rainBackup": null,
+          "timeline": [
+            {
+              "start": "07:00",
+              "end": "07:30",
+              "kind": "meal",
+              "title": "Up and breakfast"
+            },
+            {
+              "start": "07:30",
+              "end": "09:20",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "09:20",
+              "end": "09:40",
+              "kind": "routine",
+              "title": "Get ready to go",
+              "detail": "Shoes on, diaper bag, water and a snack."
+            },
+            {
+              "start": "09:40",
+              "end": "10:00",
+              "kind": "travel",
+              "title": "Drive to NC Museum of Art"
+            },
+            {
+              "start": "10:00",
+              "end": "11:00",
+              "kind": "outing",
+              "title": "What’s in the Box?",
+              "detail": "Pack a lunch to eat there."
+            },
+            {
+              "start": "11:00",
+              "end": "11:10",
+              "kind": "travel",
+              "title": "Drive to NC Museum of Art Museum Park"
+            },
+            {
+              "start": "11:10",
+              "end": "11:35",
+              "kind": "outing",
+              "title": "NC Museum of Art Museum Park"
+            },
+            {
+              "start": "11:35",
+              "end": "12:00",
+              "kind": "travel",
+              "title": "Drive home"
+            },
+            {
+              "start": "12:00",
+              "end": "14:00",
+              "kind": "nap",
+              "title": "Nap"
+            },
+            {
+              "start": "14:00",
+              "end": "14:20",
+              "kind": "routine",
+              "title": "Up and a snack"
+            },
+            {
+              "start": "14:20",
+              "end": "18:00",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "18:00",
+              "end": "18:45",
+              "kind": "meal",
+              "title": "Dinner"
+            },
+            {
+              "start": "18:45",
+              "end": "19:30",
+              "kind": "routine",
+              "title": "Bath, books and bed"
+            }
+          ]
+        },
+        {
+          "nap": "late-nap",
+          "napLabel": "One nap, 1 to 3",
+          "headline": "A morning at the Museum of Life and Science with Storytime in Hideaway Woods",
+          "main": {
+            "ref": "place:museum-of-life-and-science",
+            "arrive": "10:00",
+            "leave": "12:00",
+            "also": [
+              {
+                "ref": "event:weekly:mols-storytime:2026-11-04",
+                "source": {
+                  "kind": "event",
+                  "title": "Storytime in Hideaway Woods",
+                  "start": "2026-11-04T11:30:00",
+                  "end": "2026-11-04T12:00:00",
+                  "venue": "Hideaway Woods, Museum of Life and Science",
+                  "address": "433 W Murray Ave, Durham, NC 27704",
+                  "url": "https://www.lifeandscience.org/learn/drop-in-programs/",
+                  "cost": "Included with museum admission",
+                  "ages": null,
+                  "registration": false,
+                  "indoor": false,
+                  "area": "durham",
+                  "source": "weekly",
+                  "dropIn": true,
+                  "lat": 36.0294,
+                  "lon": -78.8993
+                }
+              }
+            ],
+            "why": "The Museum of Life and Science has farm animals, a dinosaur trail and a nature train ride, all outside. At 11:30 a museum educator reads a story with themed activities in the Hideaway Woods treehouses, wrapping the morning on a quiet note.",
+            "tips": [
+              "Head to the farmyard first thing — animals are liveliest in the morning.",
+              "The Hideaway Woods storytime is drop-in, so arrive at 11:30 and stay as long as your child is engaged.",
+              "Bring a carrier for the longer trails; a stroller works on the paved paths."
+            ],
+            "interests": [
+              "animals",
+              "dinosaurs",
+              "nature"
+            ],
+            "area": "durham",
+            "outdoor": true,
+            "source": {
+              "kind": "museum",
+              "title": "Museum of Life and Science",
+              "address": "433 W Murray Ave, Durham, NC 27704",
+              "url": "https://www.lifeandscience.org/visit/",
+              "amenities": [
+                "nature",
+                "animals",
+                "train",
+                "playground",
+                "restroom"
+              ],
+              "indoor": false,
+              "area": "durham",
+              "lat": 36.0294,
+              "lon": -78.8993,
+              "cost": "$24 adults, $19 ages 3–15, under 3 free",
+              "note": "Tickets: $24 adults, $19 ages 3–15, under 3 free. Hideaway Woods treehouses and creek, farmyard, train ride and Dinosaur Trail are outside."
+            }
+          },
+          "alternatives": [
+            {
+              "ref": "place:hill-ridge-farms",
+              "arrive": "09:30",
+              "leave": "12:30",
+              "why": "Fall festival at a real working farm with animals, open play and a free pumpkin — a proper outdoor morning for a 2.5-year-old with the late nap giving you extra time to enjoy it.",
+              "tips": [
+                "Last admission is one hour before closing, so you have a comfortable window.",
+                "Dress for mud and pack extra snacks.",
+                "Leave by 12:30 to get home, have lunch and settle for the 1 o'clock nap."
+              ],
+              "interests": [
+                "animals",
+                "nature"
+              ],
+              "also": [],
+              "area": "north-raleigh",
+              "outdoor": true,
+              "source": {
+                "kind": "farm",
+                "title": "Hill Ridge Farms",
+                "address": "703 Tarboro Rd, Youngsville, NC 27596",
+                "url": "https://www.hillridgefarms.com/",
+                "amenities": [
+                  "farm"
+                ],
+                "indoor": false,
+                "area": "north-raleigh",
+                "lat": 36.0161,
+                "lon": -78.4416,
+                "cost": "Tickets at the gate",
+                "note": "Fall festival: tickets at the gate, each with a free pumpkin. Last admission an hour before closing; less busy Wednesday to Friday."
+              }
+            },
+            {
+              "ref": "event:wake-parks:9411:2026-11-04",
+              "arrive": "08:30",
+              "leave": "11:30",
+              "why": "Drop-in Exploration Station at Historic Yates Mill County Park to mark National Bison Day. Rangers bring hands-on materials so little ones can learn about the USA's national mammal. Registration required.",
+              "tips": [
+                "Register in advance — it is required.",
+                "The park pond and trail make a lovely walk before or after the station.",
+                "Bring water and a snack; it is entirely outdoors."
+              ],
+              "interests": [
+                "animals",
+                "science",
+                "nature"
+              ],
+              "also": [],
+              "area": "raleigh",
+              "outdoor": true,
+              "source": {
+                "kind": "event",
+                "title": "Exploration Station: American Bison",
+                "start": "2026-11-04T08:30:00",
+                "end": "2026-11-04T17:00:00",
+                "venue": "Historic Yates Mill County Park",
+                "address": "4620 Lake Wheeler Rd., Raleigh, NC  27603",
+                "url": "https://apm.activecommunities.com/wakeparks/Activity_Search/exploration-station-american-bison/9411?locale=en-US",
+                "cost": null,
+                "ages": null,
+                "registration": "https://apm.activecommunities.com/wakeparks/Activity_Search/exploration-station-american-bison/9411?locale=en-US",
+                "indoor": false,
+                "area": "raleigh",
+                "source": "wake-parks",
+                "dropIn": false,
+                "lat": 35.72157134974476,
+                "lon": -78.68526087901417
+              }
+            },
+            {
+              "ref": "event:museum:ncma:5148",
+              "arrive": "09:50",
+              "leave": "11:30",
+              "also": [
+                {
+                  "ref": "place:ncma-museum-park",
+                  "source": {
+                    "kind": "garden",
+                    "title": "NC Museum of Art Museum Park",
+                    "address": "2110 Blue Ridge Rd, Raleigh, NC 27607",
+                    "url": "https://ncartmuseum.org/museum-park/",
+                    "amenities": [
+                      "garden",
+                      "nature",
+                      "greenway",
+                      "restroom"
+                    ],
+                    "indoor": false,
+                    "area": "raleigh",
+                    "hours": {
+                      "sun": "dawn to dusk",
+                      "mon": "dawn to dusk",
+                      "tue": "dawn to dusk",
+                      "wed": "dawn to dusk",
+                      "thu": "dawn to dusk",
+                      "fri": "dawn to dusk",
+                      "sat": "dawn to dusk"
+                    },
+                    "lat": 35.8105,
+                    "lon": -78.7022,
+                    "cost": "Free",
+                    "note": "Free. 164 acres of trails, lawns and big outdoor art; the Capital Area Greenway runs through."
+                  }
+                }
+              ],
+              "why": "What's in the Box? at the NC Museum of Art is a hands-on family program, followed by a stroll through the outdoor Museum Park with its big sculptures and greenway paths.",
+              "tips": [
+                "The Museum Park is free and stroller-friendly.",
+                "Bring a snack for the park stretch after the program.",
+                "Weather permitting for the park portion — the program itself is always on."
+              ],
+              "interests": [
+                "art",
+                "nature"
+              ],
+              "area": "raleigh",
+              "outdoor": false,
+              "source": {
+                "kind": "event",
+                "title": "What’s in the Box?",
+                "start": "2026-11-04T10:00:00",
+                "end": "2026-11-04T11:00:00",
+                "venue": "NC Museum of Art",
+                "address": "2110 Blue Ridge Rd, Raleigh, NC 27607",
+                "url": "https://ncartmuseum.org/event/whats-in-the-box-8/",
+                "cost": null,
+                "ages": "Families",
+                "registration": null,
+                "indoor": true,
+                "area": "raleigh",
+                "source": "museum",
+                "dropIn": false,
+                "lat": 35.8105,
+                "lon": -78.7022
+              }
+            },
+            {
+              "ref": "event:durham-rec:19671",
+              "arrive": "17:30",
+              "leave": "18:30",
+              "why": "Paint by Numbers at I.R. Holmes Rec Center — children ages 2–5 paint colours matched to numbers using paint daubers, a calm and colourful way to spend the early evening after the nap.",
+              "tips": [
+                "Registration is required — check ahead.",
+                "Dress the child in clothes you do not mind getting paint on.",
+                "Pack a quiet toy for any wait at the start."
+              ],
+              "interests": [
+                "art"
+              ],
+              "also": [],
+              "area": "durham",
+              "outdoor": false,
+              "source": {
+                "kind": "event",
+                "title": "Paint by Numbers",
+                "start": "2026-11-04T17:30:00",
+                "end": "2026-11-04T18:30:00",
+                "venue": "I.R. Holmes, Sr. Rec Ctr",
+                "address": "2000 S Alston Ave, Durham, NC",
+                "url": "https://apm.activecommunities.com/dprplaymore/Activity_Search/paint-by-numbers/19671?locale=en-US",
+                "cost": null,
+                "ages": "2 - 5",
+                "registration": "https://apm.activecommunities.com/dprplaymore/Activity_Search/paint-by-numbers/19671?locale=en-US",
+                "indoor": true,
+                "area": "durham",
+                "source": "durham-rec",
+                "dropIn": false,
+                "lat": 35.9619,
+                "lon": -78.8908
+              }
+            }
+          ],
+          "rainBackup": null,
+          "timeline": [
+            {
+              "start": "07:00",
+              "end": "07:30",
+              "kind": "meal",
+              "title": "Up and breakfast"
+            },
+            {
+              "start": "07:30",
+              "end": "09:20",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "09:20",
+              "end": "09:40",
+              "kind": "routine",
+              "title": "Get ready to go",
+              "detail": "Shoes on, diaper bag, water and a snack."
+            },
+            {
+              "start": "09:40",
+              "end": "10:00",
+              "kind": "travel",
+              "title": "Drive to Museum of Life and Science"
+            },
+            {
+              "start": "10:00",
+              "end": "11:20",
+              "kind": "outing",
+              "title": "Museum of Life and Science"
+            },
+            {
+              "start": "11:20",
+              "end": "11:30",
+              "kind": "travel",
+              "title": "Drive to Hideaway Woods, Museum of Life and Science"
+            },
+            {
+              "start": "11:30",
+              "end": "12:00",
+              "kind": "outing",
+              "title": "Storytime in Hideaway Woods"
+            },
+            {
+              "start": "12:00",
+              "end": "12:20",
+              "kind": "travel",
+              "title": "Drive home"
+            },
+            {
+              "start": "12:20",
+              "end": "12:50",
+              "kind": "meal",
+              "title": "Lunch"
+            },
+            {
+              "start": "12:50",
+              "end": "13:00",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "13:00",
+              "end": "15:00",
+              "kind": "nap",
+              "title": "Nap"
+            },
+            {
+              "start": "15:00",
+              "end": "15:20",
+              "kind": "routine",
+              "title": "Up and a snack"
+            },
+            {
+              "start": "15:20",
+              "end": "18:30",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "18:30",
+              "end": "19:15",
+              "kind": "meal",
+              "title": "Dinner"
+            },
+            {
+              "start": "19:15",
+              "end": "20:00",
+              "kind": "routine",
+              "title": "Bath, books and bed"
+            }
+          ]
+        },
+        {
+          "nap": "short-nap",
+          "napLabel": "Short nap, 1 to 2",
+          "headline": "Big playground morning at Gipson Play Plaza at Dix Park",
+          "main": {
+            "ref": "place:gipson-play-plaza",
+            "arrive": "08:00",
+            "leave": "12:15",
+            "why": "Gipson Play Plaza at Dix Park is one of the largest and most varied playgrounds in Raleigh, with plenty of climbing structures and wide open space for a 2.5-year-old to run freely for a long stretch.",
+            "tips": [
+              "Pack a proper mid-morning snack — four hours is a long stretch and hunger hits fast.",
+              "Give a clear ten-minute warning before leaving to avoid a meltdown at the gate.",
+              "Bring a change of clothes in case of puddles or sandy patches."
+            ],
+            "interests": [
+              "movement",
+              "nature"
+            ],
+            "also": [],
+            "area": "raleigh",
+            "outdoor": true,
+            "source": {
+              "kind": "park",
+              "title": "Gipson Play Plaza at Dix Park",
+              "address": "715 Biggs Dr, Raleigh, NC 27603",
+              "url": "https://dixpark.org/gipson-play-plaza",
+              "amenities": [
+                "playground",
+                "restroom"
+              ],
+              "indoor": false,
+              "area": "raleigh",
+              "hours": {
+                "sun": "8 a.m.–9 p.m.",
+                "mon": "8 a.m.–9 p.m.",
+                "tue": "8 a.m.–9 p.m.",
+                "wed": "8 a.m.–9 p.m.",
+                "thu": "8 a.m.–9 p.m.",
+                "fri": "8 a.m.–9 p.m.",
+                "sat": "8 a.m.–9 p.m."
+              },
+              "lat": 35.7667,
+              "lon": -78.6539,
+              "cost": "Free",
+              "note": "Free; free parking. Big destination playground on the south edge of Dix Park."
+            }
+          },
+          "alternatives": [
+            {
+              "ref": "place:jc-raulston-arboretum",
+              "arrive": "09:00",
+              "leave": "12:30",
+              "why": "The JC Raulston Arboretum is a free garden on the NC State campus with winding paths through colourful fall plantings — a calm, beautiful morning walk that tires little legs gently.",
+              "tips": [
+                "The garden opens at 9; go early before it gets busier.",
+                "Bring a snack to eat on one of the benches mid-walk.",
+                "Leave by 12:30 to get home for lunch before nap."
+              ],
+              "interests": [
+                "nature",
+                "science"
+              ],
+              "also": [],
+              "area": "raleigh",
+              "outdoor": true,
+              "source": {
+                "kind": "garden",
+                "title": "JC Raulston Arboretum",
+                "address": "4415 Beryl Rd, Raleigh, NC 27606",
+                "url": "https://jcra.ncsu.edu/",
+                "amenities": [
+                  "garden",
+                  "nature"
+                ],
+                "indoor": false,
+                "area": "raleigh",
+                "hours": {
+                  "mon": "9 a.m.–4:30 p.m.",
+                  "tue": "9 a.m.–4:30 p.m.",
+                  "wed": "9 a.m.–4:30 p.m.",
+                  "thu": "9 a.m.–4:30 p.m.",
+                  "fri": "9 a.m.–4:30 p.m.",
+                  "sat": "9 a.m.–5 p.m.",
+                  "sun": "9 a.m.–5 p.m."
+                },
+                "lat": 35.794,
+                "lon": -78.6987,
+                "cost": "Free",
+                "note": "Free. NC State’s garden; no pets."
+              }
+            },
+            {
+              "ref": "event:durham-rec:19772:2026-11-04",
+              "arrive": "09:50",
+              "leave": "12:00",
+              "why": "Total Tot Time at W.D. Hill Rec Center is open gym play for ages 1–6 — parachute, tunnels and balls with other toddlers. Registration is required. Leaves time to get home and eat before the 1 o'clock nap.",
+              "tips": [
+                "Confirm registration before heading over.",
+                "Bring socks; gym shoes or bare feet work best on the floor.",
+                "Leave at noon — it is a 20–25-minute drive home, giving you time for a quick lunch."
+              ],
+              "interests": [
+                "movement"
+              ],
+              "also": [],
+              "area": "durham",
+              "outdoor": false,
+              "source": {
+                "kind": "event",
+                "title": "Total Tot Time",
+                "start": "2026-11-04T10:00:00",
+                "end": "2026-11-04T12:00:00",
+                "venue": "W.D. Hill Rec Ctr",
+                "address": "1308 Fayetteville St, Durham, NC",
+                "url": "https://apm.activecommunities.com/dprplaymore/Activity_Search/total-tot-time/19772?locale=en-US",
+                "cost": null,
+                "ages": "1 - 6",
+                "registration": "https://apm.activecommunities.com/dprplaymore/Activity_Search/total-tot-time/19772?locale=en-US",
+                "indoor": true,
+                "area": "durham",
+                "source": "durham-rec",
+                "dropIn": false,
+                "lat": 35.9797,
+                "lon": -78.8985
+              }
+            },
+            {
+              "ref": "event:wake-parks:9411:2026-11-04",
+              "arrive": "08:30",
+              "leave": "12:30",
+              "why": "Drop-in Exploration Station at Historic Yates Mill County Park for National Bison Day — rangers share hands-on materials about American bison with families. Registration required.",
+              "tips": [
+                "Register in advance.",
+                "The park's greenway and pond are worth a short walk while you are there.",
+                "Bring water and a snack for the outdoor morning."
+              ],
+              "interests": [
+                "animals",
+                "science",
+                "nature"
+              ],
+              "also": [],
+              "area": "raleigh",
+              "outdoor": true,
+              "source": {
+                "kind": "event",
+                "title": "Exploration Station: American Bison",
+                "start": "2026-11-04T08:30:00",
+                "end": "2026-11-04T17:00:00",
+                "venue": "Historic Yates Mill County Park",
+                "address": "4620 Lake Wheeler Rd., Raleigh, NC  27603",
+                "url": "https://apm.activecommunities.com/wakeparks/Activity_Search/exploration-station-american-bison/9411?locale=en-US",
+                "cost": null,
+                "ages": null,
+                "registration": "https://apm.activecommunities.com/wakeparks/Activity_Search/exploration-station-american-bison/9411?locale=en-US",
+                "indoor": false,
+                "area": "raleigh",
+                "source": "wake-parks",
+                "dropIn": false,
+                "lat": 35.72157134974476,
+                "lon": -78.68526087901417
+              }
+            },
+            {
+              "ref": "event:museum:ncma:5148",
+              "arrive": "09:50",
+              "leave": "11:30",
+              "also": [
+                {
+                  "ref": "place:ncma-museum-park",
+                  "source": {
+                    "kind": "garden",
+                    "title": "NC Museum of Art Museum Park",
+                    "address": "2110 Blue Ridge Rd, Raleigh, NC 27607",
+                    "url": "https://ncartmuseum.org/museum-park/",
+                    "amenities": [
+                      "garden",
+                      "nature",
+                      "greenway",
+                      "restroom"
+                    ],
+                    "indoor": false,
+                    "area": "raleigh",
+                    "hours": {
+                      "sun": "dawn to dusk",
+                      "mon": "dawn to dusk",
+                      "tue": "dawn to dusk",
+                      "wed": "dawn to dusk",
+                      "thu": "dawn to dusk",
+                      "fri": "dawn to dusk",
+                      "sat": "dawn to dusk"
+                    },
+                    "lat": 35.8105,
+                    "lon": -78.7022,
+                    "cost": "Free",
+                    "note": "Free. 164 acres of trails, lawns and big outdoor art; the Capital Area Greenway runs through."
+                  }
+                }
+              ],
+              "why": "What's in the Box? at the NC Museum of Art pairs a hands-on family program with a walk through the Museum Park's outdoor sculptures and greenway paths.",
+              "tips": [
+                "The Museum Park is right outside the building — easy to move between.",
+                "Bring a snack for the park walk after the program.",
+                "Weather permitting for the park; the program is always indoors."
+              ],
+              "interests": [
+                "art",
+                "nature"
+              ],
+              "area": "raleigh",
+              "outdoor": false,
+              "source": {
+                "kind": "event",
+                "title": "What’s in the Box?",
+                "start": "2026-11-04T10:00:00",
+                "end": "2026-11-04T11:00:00",
+                "venue": "NC Museum of Art",
+                "address": "2110 Blue Ridge Rd, Raleigh, NC 27607",
+                "url": "https://ncartmuseum.org/event/whats-in-the-box-8/",
+                "cost": null,
+                "ages": "Families",
+                "registration": null,
+                "indoor": true,
+                "area": "raleigh",
+                "source": "museum",
+                "dropIn": false,
+                "lat": 35.8105,
+                "lon": -78.7022
+              }
+            }
+          ],
+          "rainBackup": null,
+          "timeline": [
+            {
+              "start": "07:00",
+              "end": "07:30",
+              "kind": "meal",
+              "title": "Up and breakfast"
+            },
+            {
+              "start": "07:30",
+              "end": "07:40",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "07:40",
+              "end": "08:00",
+              "kind": "travel",
+              "title": "Drive to Gipson Play Plaza at Dix Park"
+            },
+            {
+              "start": "08:00",
+              "end": "12:15",
+              "kind": "outing",
+              "title": "Gipson Play Plaza at Dix Park",
+              "detail": "Pack a lunch to eat there."
+            },
+            {
+              "start": "12:15",
+              "end": "12:35",
+              "kind": "travel",
+              "title": "Drive home"
+            },
+            {
+              "start": "12:35",
+              "end": "12:45",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "12:45",
+              "end": "13:00",
+              "kind": "quiet",
+              "title": "Wind down",
+              "detail": "A couple of books to settle."
+            },
+            {
+              "start": "13:00",
+              "end": "14:00",
+              "kind": "nap",
+              "title": "Nap"
+            },
+            {
+              "start": "14:00",
+              "end": "14:20",
+              "kind": "routine",
+              "title": "Up and a snack"
+            },
+            {
+              "start": "14:20",
+              "end": "18:00",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "18:00",
+              "end": "18:45",
+              "kind": "meal",
+              "title": "Dinner"
+            },
+            {
+              "start": "18:45",
+              "end": "19:30",
+              "kind": "routine",
+              "title": "Bath, books and bed"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "checked": {
+    "at": "2026-11-01T11:03:30.227Z",
+    "forecast": "nws",
+    "weather": {
+      "period": "Wednesday",
+      "tempF": 79,
+      "precipProbability": 8,
+      "shortForecast": "Partly Sunny",
+      "hours": [
+        {
+          "t": "05:00",
+          "tempF": 56,
+          "pop": 1
+        },
+        {
+          "t": "06:00",
+          "tempF": 56,
+          "pop": 1
+        },
+        {
+          "t": "07:00",
+          "tempF": 57,
+          "pop": 2
+        },
+        {
+          "t": "08:00",
+          "tempF": 60,
+          "pop": 2
+        },
+        {
+          "t": "09:00",
+          "tempF": 65,
+          "pop": 2
+        },
+        {
+          "t": "10:00",
+          "tempF": 69,
+          "pop": 2
+        },
+        {
+          "t": "11:00",
+          "tempF": 73,
+          "pop": 2
+        },
+        {
+          "t": "12:00",
+          "tempF": 75,
+          "pop": 2
+        },
+        {
+          "t": "13:00",
+          "tempF": 77,
+          "pop": 8
+        },
+        {
+          "t": "14:00",
+          "tempF": 79,
+          "pop": 8
+        },
+        {
+          "t": "15:00",
+          "tempF": 79,
+          "pop": 8
+        },
+        {
+          "t": "16:00",
+          "tempF": 77,
+          "pop": 8
+        },
+        {
+          "t": "17:00",
+          "tempF": 75,
+          "pop": 8
+        },
+        {
+          "t": "18:00",
+          "tempF": 72,
+          "pop": 8
+        },
+        {
+          "t": "19:00",
+          "tempF": 71,
+          "pop": 8
+        },
+        {
+          "t": "20:00",
+          "tempF": 69,
+          "pop": 8
+        },
+        {
+          "t": "21:00",
+          "tempF": 67,
+          "pop": 8
+        },
+        {
+          "t": "22:00",
+          "tempF": 65,
+          "pop": 8
+        },
+        {
+          "t": "23:00",
+          "tempF": 64,
+          "pop": 8
+        }
+      ]
+    },
+    "hidden": []
+  }
+}

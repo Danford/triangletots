@@ -1,0 +1,1049 @@
+{
+  "date": "2026-11-02",
+  "band": "t1",
+  "versions": [
+    {
+      "at": "2026-10-27T00:57:02.895Z",
+      "reason": null,
+      "forecast": "nws",
+      "weather": {
+        "period": "Monday",
+        "tempF": 74,
+        "precipProbability": 44,
+        "shortForecast": "Chance Rain Showers"
+      },
+      "plans": [
+        {
+          "nap": "two-naps",
+          "napLabel": "Two naps",
+          "headline": "Beech Bluff County Park StoryWalk morning",
+          "main": {
+            "ref": "event:wake-parks:8358:2026-11-02",
+            "arrive": "11:10",
+            "leave": "13:00",
+            "why": "The self-guided StoryWalk at Beech Bluff follows a picture-book story along an ADA-accessible loop through a county park in south Wake — a free outdoor outing with a playground nearby for extra time after the walk.",
+            "tips": [
+              "Arrive at 10:50 and walk the loop at a toddler's pace; there is no rush to finish quickly.",
+              "The loop is stroller-friendly so the child can hop in and out between story panels.",
+              "If rain starts, head to the car early and use the rain backup plan."
+            ],
+            "interests": [
+              "stories",
+              "nature"
+            ],
+            "also": [],
+            "area": "south-wake",
+            "outdoor": true,
+            "source": {
+              "kind": "event",
+              "title": "Beech Bluff County Park StoryWalk® 2026 (Self-Led)",
+              "start": "2026-11-02T08:00:00",
+              "end": "2026-11-02T17:30:00",
+              "venue": "Beech Bluff County Park",
+              "address": "Beech Bluff Park Drive, Fuquay-Varina, NC",
+              "url": "https://apm.activecommunities.com/wakeparks/Activity_Search/beech-bluff-county-park-storywalk-2026-self-led/8358?locale=en-US",
+              "cost": "Free",
+              "ages": null,
+              "registration": false,
+              "indoor": false,
+              "area": "south-wake",
+              "source": "wake-parks",
+              "dropIn": true,
+              "lat": 35.58537279715877,
+              "lon": -78.6793341971644
+            }
+          },
+          "alternatives": [
+            {
+              "ref": "event:wake:21661",
+              "arrive": "11:05",
+              "leave": "12:30",
+              "also": [
+                {
+                  "ref": "place:knightdale-station-park",
+                  "source": {
+                    "kind": "park",
+                    "title": "Knightdale Station Park",
+                    "address": "810 North First Avenue, Knightdale, NC",
+                    "url": "https://www.knightdalenc.gov/knightdalestationpark",
+                    "amenities": [
+                      "playground",
+                      "picnic-shelter",
+                      "greenway"
+                    ],
+                    "indoor": false,
+                    "area": "east-wake",
+                    "hours": null,
+                    "lat": 35.795776739559024,
+                    "lon": -78.47584503817626,
+                    "cost": null
+                  }
+                }
+              ],
+              "why": "ABC Craft and Learn at East Regional Library is an indoor hands-on program, then Knightdale Station Park is right there for outdoor play — a good east Wake morning after the first nap.",
+              "tips": [
+                "The craft program is aimed at slightly older children; a toddler will enjoy the materials at their own pace.",
+                "Head straight to the park after the program for at least 20 minutes outside. Weather permitting.",
+                "Leave the park by 12:30 to get home for lunch before the second nap."
+              ],
+              "interests": [
+                "art",
+                "movement"
+              ],
+              "area": "east-wake",
+              "outdoor": false,
+              "source": {
+                "kind": "event",
+                "title": "ABC Craft and Learn",
+                "start": "2026-11-02T11:15:00-05:00",
+                "end": "2026-11-02T12:00:00-05:00",
+                "venue": "East Regional Library",
+                "address": "946 Steeple Square Court, Knightdale, NC",
+                "url": "https://www.wake.gov/events/abc-craft-and-learn-557",
+                "cost": "Free",
+                "ages": "Young Children",
+                "registration": null,
+                "indoor": true,
+                "area": "east-wake",
+                "source": "wake-county",
+                "dropIn": false,
+                "lat": 35.8028243321954,
+                "lon": -78.487155767495
+              }
+            },
+            {
+              "ref": "event:museum:durham-central-park:13908",
+              "arrive": "16:50",
+              "leave": "18:00",
+              "why": "Fringe Festival: Procession of the Cardinals at Durham Central Park is a free outdoor evening event — a fun, lively way to end the day after the second nap.",
+              "tips": [
+                "Arrive a few minutes before 17:00 to find a good spot.",
+                "The park has open space for a toddler to move around during the event.",
+                "Bring a light layer for the early evening air."
+              ],
+              "interests": [
+                "music",
+                "movement"
+              ],
+              "also": [],
+              "area": "durham",
+              "outdoor": true,
+              "source": {
+                "kind": "event",
+                "title": "Fringe Festival: Procession of the Cardinals",
+                "start": "2026-11-02T17:00:00",
+                "end": "2026-11-02T18:00:00",
+                "venue": "Durham Central Park",
+                "address": "501 Foster Street, Durham, NC, 27701",
+                "url": "https://durhamcentralpark.org/upcoming-event/fringe-festival-procession-of-the-cardinals/",
+                "cost": null,
+                "ages": null,
+                "registration": null,
+                "indoor": false,
+                "area": "durham",
+                "source": "museum",
+                "dropIn": false,
+                "lat": 36.0008,
+                "lon": -78.9021
+              }
+            },
+            {
+              "ref": "place:ncma-museum-park",
+              "arrive": "15:50",
+              "leave": "18:30",
+              "why": "The NC Museum of Art Museum Park has 164 acres of trails and outdoor sculptures — a lovely afternoon stretch after the second nap if the rain holds off.",
+              "tips": [
+                "The Capital Area Greenway is great for a stroller walk through the park.",
+                "Outdoor sculptures are fun for a toddler to discover and point at.",
+                "Weather permitting; head home if showers arrive."
+              ],
+              "interests": [
+                "art",
+                "nature"
+              ],
+              "also": [],
+              "area": "raleigh",
+              "outdoor": true,
+              "source": {
+                "kind": "garden",
+                "title": "NC Museum of Art Museum Park",
+                "address": "2110 Blue Ridge Rd, Raleigh, NC 27607",
+                "url": "https://ncartmuseum.org/museum-park/",
+                "amenities": [
+                  "garden",
+                  "nature",
+                  "greenway",
+                  "restroom"
+                ],
+                "indoor": false,
+                "area": "raleigh",
+                "hours": {
+                  "sun": "dawn to dusk",
+                  "mon": "dawn to dusk",
+                  "tue": "dawn to dusk",
+                  "wed": "dawn to dusk",
+                  "thu": "dawn to dusk",
+                  "fri": "dawn to dusk",
+                  "sat": "dawn to dusk"
+                },
+                "lat": 35.8105,
+                "lon": -78.7022,
+                "cost": "Free",
+                "note": "Free. 164 acres of trails, lawns and big outdoor art; the Capital Area Greenway runs through."
+              }
+            }
+          ],
+          "rainBackup": {
+            "ref": "place:north-regional-library",
+            "arrive": "11:00",
+            "leave": "13:00",
+            "why": "North Regional Library has a children's area with books, puzzles and space to play — a warm dry alternative if morning showers cancel the StoryWalk.",
+            "tips": [
+              "Let the child pull books from the shelves and sit on the floor to read together.",
+              "The children's area has plenty to keep a toddler busy for an hour.",
+              "Head home by 13:00 to get lunch in before the second nap."
+            ],
+            "interests": [
+              "stories"
+            ],
+            "also": [],
+            "area": "north-raleigh",
+            "outdoor": false,
+            "source": {
+              "kind": "library",
+              "title": "North Regional Library",
+              "address": "7009 Harps Mill Road, Raleigh, NC",
+              "url": null,
+              "amenities": [
+                "books",
+                "children’s area"
+              ],
+              "indoor": true,
+              "area": "north-raleigh",
+              "hours": {
+                "sun": "1 p.m. - 5 p.m.",
+                "mon": "9 a.m. - 9 p.m.",
+                "tue": "9 a.m. - 9 p.m.",
+                "wed": "9 a.m. - 9 p.m.",
+                "thu": "9 a.m. - 9 p.m.",
+                "fri": "9 a.m. - 6 p.m.",
+                "sat": "9 a.m. - 6 p.m."
+              },
+              "lat": 35.880907380619,
+              "lon": -78.6281516610688,
+              "cost": null
+            }
+          },
+          "timeline": [
+            {
+              "start": "07:00",
+              "end": "07:30",
+              "kind": "meal",
+              "title": "Up and breakfast"
+            },
+            {
+              "start": "07:30",
+              "end": "09:30",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "09:30",
+              "end": "10:30",
+              "kind": "nap",
+              "title": "Nap"
+            },
+            {
+              "start": "10:30",
+              "end": "10:50",
+              "kind": "routine",
+              "title": "Up and a snack"
+            },
+            {
+              "start": "10:50",
+              "end": "11:10",
+              "kind": "travel",
+              "title": "Drive to Beech Bluff County Park"
+            },
+            {
+              "start": "11:10",
+              "end": "13:00",
+              "kind": "outing",
+              "title": "Beech Bluff County Park",
+              "detail": "Pack a lunch to eat there."
+            },
+            {
+              "start": "13:00",
+              "end": "13:20",
+              "kind": "travel",
+              "title": "Drive home"
+            },
+            {
+              "start": "13:20",
+              "end": "14:30",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "14:30",
+              "end": "15:30",
+              "kind": "nap",
+              "title": "Nap"
+            },
+            {
+              "start": "15:30",
+              "end": "15:50",
+              "kind": "routine",
+              "title": "Up and a snack"
+            },
+            {
+              "start": "15:50",
+              "end": "17:30",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "17:30",
+              "end": "18:15",
+              "kind": "meal",
+              "title": "Dinner"
+            },
+            {
+              "start": "18:15",
+              "end": "19:00",
+              "kind": "routine",
+              "title": "Bath, books and bed"
+            }
+          ]
+        },
+        {
+          "nap": "early-nap",
+          "napLabel": "One nap, 12 to 2",
+          "headline": "Toddler Storytime at East Regional Library then Knightdale Station Park",
+          "main": {
+            "ref": "event:wake:21630",
+            "arrive": "09:15",
+            "leave": "11:00",
+            "also": [
+              {
+                "ref": "place:knightdale-station-park",
+                "source": {
+                  "kind": "park",
+                  "title": "Knightdale Station Park",
+                  "address": "810 North First Avenue, Knightdale, NC",
+                  "url": "https://www.knightdalenc.gov/knightdalestationpark",
+                  "amenities": [
+                    "playground",
+                    "picnic-shelter",
+                    "greenway"
+                  ],
+                  "indoor": false,
+                  "area": "east-wake",
+                  "hours": null,
+                  "lat": 35.795776739559024,
+                  "lon": -78.47584503817626,
+                  "cost": null
+                }
+              }
+            ],
+            "why": "Toddler Storytime at East Regional is a free interactive program with books, music and movement, then Knightdale Station Park is steps away for outdoor play before heading home for the nap.",
+            "tips": [
+              "Pick up a free ticket at the Youth Services desk when you arrive.",
+              "Head straight to the park after storytime for at least 20 minutes of fresh air. Weather permitting.",
+              "Leave the park by 11:00 so you have time for a calm lunch before the nap."
+            ],
+            "interests": [
+              "stories",
+              "music",
+              "movement"
+            ],
+            "area": "east-wake",
+            "outdoor": false,
+            "source": {
+              "kind": "event",
+              "title": "Toddler Storytime",
+              "start": "2026-11-02T09:15:00-05:00",
+              "end": "2026-11-02T09:45:00-05:00",
+              "venue": "East Regional Library",
+              "address": "946 Steeple Square Court, Knightdale, NC",
+              "url": "https://www.wake.gov/events/toddler-storytime-961",
+              "cost": "Free",
+              "ages": "Young Children",
+              "registration": null,
+              "indoor": true,
+              "area": "east-wake",
+              "source": "wake-county",
+              "dropIn": false,
+              "lat": 35.8028243321954,
+              "lon": -78.487155767495
+            }
+          },
+          "alternatives": [
+            {
+              "ref": "event:durham-rec:19772:2026-11-02",
+              "arrive": "09:50",
+              "leave": "11:30",
+              "why": "Total Tot Time at W.D. Hill Rec Center is open gym play with parachutes, tunnels and other toddlers — a fun indoor movement session in Durham on a rainy morning.",
+              "tips": [
+                "Registration is required; confirm your spot ahead of time.",
+                "Bring socks for the gym floor.",
+                "Leave by 11:30 to get home for lunch before the nap."
+              ],
+              "interests": [
+                "movement"
+              ],
+              "also": [],
+              "area": "durham",
+              "outdoor": false,
+              "source": {
+                "kind": "event",
+                "title": "Total Tot Time",
+                "start": "2026-11-02T10:00:00",
+                "end": "2026-11-02T12:00:00",
+                "venue": "W.D. Hill Rec Ctr",
+                "address": "1308 Fayetteville St, Durham, NC",
+                "url": "https://apm.activecommunities.com/dprplaymore/Activity_Search/total-tot-time/19772?locale=en-US",
+                "cost": null,
+                "ages": "1 - 6",
+                "registration": "https://apm.activecommunities.com/dprplaymore/Activity_Search/total-tot-time/19772?locale=en-US",
+                "indoor": true,
+                "area": "durham",
+                "source": "durham-rec",
+                "dropIn": false,
+                "lat": 35.9797,
+                "lon": -78.8985
+              }
+            },
+            {
+              "ref": "event:wake-parks:8358:2026-11-02",
+              "arrive": "08:00",
+              "leave": "10:00",
+              "why": "The Beech Bluff StoryWalk is a free self-guided story loop on an accessible trail — a calm outdoor south Wake morning walk before the nap.",
+              "tips": [
+                "Start early while the trail is quiet.",
+                "A stroller handles the loop easily.",
+                "Leave by 10:00 to get home well before the nap."
+              ],
+              "interests": [
+                "stories",
+                "nature"
+              ],
+              "also": [],
+              "area": "south-wake",
+              "outdoor": true,
+              "source": {
+                "kind": "event",
+                "title": "Beech Bluff County Park StoryWalk® 2026 (Self-Led)",
+                "start": "2026-11-02T08:00:00",
+                "end": "2026-11-02T17:30:00",
+                "venue": "Beech Bluff County Park",
+                "address": "Beech Bluff Park Drive, Fuquay-Varina, NC",
+                "url": "https://apm.activecommunities.com/wakeparks/Activity_Search/beech-bluff-county-park-storywalk-2026-self-led/8358?locale=en-US",
+                "cost": "Free",
+                "ages": null,
+                "registration": false,
+                "indoor": false,
+                "area": "south-wake",
+                "source": "wake-parks",
+                "dropIn": true,
+                "lat": 35.58537279715877,
+                "lon": -78.6793341971644
+              }
+            },
+            {
+              "ref": "place:sarah-p-duke-gardens",
+              "arrive": "09:00",
+              "leave": "11:00",
+              "why": "Sarah P. Duke Gardens has five miles of free paths and the Charlotte Brody Discovery Garden — a beautiful outdoor morning in Durham before the nap.",
+              "tips": [
+                "Arrive at 09:00 before the gardens get busy.",
+                "The paths are stroller-friendly at a toddler's slow pace.",
+                "If showers arrive, head back to the car. Weather permitting."
+              ],
+              "interests": [
+                "nature"
+              ],
+              "also": [],
+              "area": "durham",
+              "outdoor": true,
+              "source": {
+                "kind": "garden",
+                "title": "Sarah P. Duke Gardens",
+                "address": "420 Anderson St, Durham, NC 27708",
+                "url": "https://gardens.duke.edu/visit/",
+                "amenities": [
+                  "garden",
+                  "nature",
+                  "restroom"
+                ],
+                "indoor": false,
+                "area": "durham",
+                "hours": {
+                  "sun": "8 a.m. to sunset",
+                  "mon": "8 a.m. to sunset",
+                  "tue": "8 a.m. to sunset",
+                  "wed": "8 a.m. to sunset",
+                  "thu": "8 a.m. to sunset",
+                  "fri": "8 a.m. to sunset",
+                  "sat": "8 a.m. to sunset"
+                },
+                "lat": 36.0024,
+                "lon": -78.9328,
+                "cost": "Free",
+                "note": "Free; paid parking that often fills before 10 a.m. on nice days. Five miles of paths, and the Charlotte Brody Discovery Garden."
+              }
+            }
+          ],
+          "rainBackup": null,
+          "timeline": [
+            {
+              "start": "07:00",
+              "end": "07:30",
+              "kind": "meal",
+              "title": "Up and breakfast"
+            },
+            {
+              "start": "07:30",
+              "end": "08:35",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "08:35",
+              "end": "08:55",
+              "kind": "routine",
+              "title": "Get ready to go",
+              "detail": "Shoes on, diaper bag, water and a snack."
+            },
+            {
+              "start": "08:55",
+              "end": "09:15",
+              "kind": "travel",
+              "title": "Drive to East Regional Library"
+            },
+            {
+              "start": "09:15",
+              "end": "09:45",
+              "kind": "outing",
+              "title": "Toddler Storytime"
+            },
+            {
+              "start": "09:45",
+              "end": "09:55",
+              "kind": "travel",
+              "title": "Drive to Knightdale Station Park"
+            },
+            {
+              "start": "09:55",
+              "end": "11:00",
+              "kind": "outing",
+              "title": "Knightdale Station Park"
+            },
+            {
+              "start": "11:00",
+              "end": "11:20",
+              "kind": "travel",
+              "title": "Drive home"
+            },
+            {
+              "start": "11:20",
+              "end": "11:50",
+              "kind": "meal",
+              "title": "Lunch"
+            },
+            {
+              "start": "11:50",
+              "end": "12:00",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "12:00",
+              "end": "14:00",
+              "kind": "nap",
+              "title": "Nap"
+            },
+            {
+              "start": "14:00",
+              "end": "14:20",
+              "kind": "routine",
+              "title": "Up and a snack"
+            },
+            {
+              "start": "14:20",
+              "end": "17:30",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "17:30",
+              "end": "18:15",
+              "kind": "meal",
+              "title": "Dinner"
+            },
+            {
+              "start": "18:15",
+              "end": "19:00",
+              "kind": "routine",
+              "title": "Bath, books and bed"
+            }
+          ]
+        },
+        {
+          "nap": "late-nap",
+          "napLabel": "One nap, 1 to 3",
+          "headline": "Total Tot Time at Walltown Park Rec Center then Walltown Park",
+          "main": {
+            "ref": "event:durham-rec:19841:2026-11-02",
+            "arrive": "09:50",
+            "leave": "12:30",
+            "also": [
+              {
+                "ref": "place:walltown-park",
+                "source": {
+                  "kind": "park",
+                  "title": "Walltown Park",
+                  "address": "1308 W Club Blvd, Durham, NC",
+                  "url": "https://www.dprplaymore.org/Facilities/Facility/Details/Walltown-Park-74",
+                  "amenities": [
+                    "playground",
+                    "picnic-shelter"
+                  ],
+                  "indoor": false,
+                  "area": "durham",
+                  "hours": null,
+                  "lat": 36.018264,
+                  "lon": -78.91403399999999,
+                  "cost": null
+                }
+              }
+            ],
+            "why": "Total Tot Time at Walltown Park Rec Center is open gym play with parachutes, tunnels and other little ones; Walltown Park is right next door for a short outdoor stretch before heading home for the nap.",
+            "tips": [
+              "Registration is required; book your spot ahead of time.",
+              "Bring socks for the gym floor.",
+              "Head to the park straight after the gym for at least 20 minutes of fresh air. Weather permitting."
+            ],
+            "interests": [
+              "movement"
+            ],
+            "area": "durham",
+            "outdoor": false,
+            "source": {
+              "kind": "event",
+              "title": "Total Tot Time",
+              "start": "2026-11-02T10:00:00",
+              "end": "2026-11-02T12:00:00",
+              "venue": "Walltown Park Rec Ctr",
+              "address": "1308 W Club Blvd, Durham, NC",
+              "url": "https://apm.activecommunities.com/dprplaymore/Activity_Search/total-tot-time/19841?locale=en-US",
+              "cost": null,
+              "ages": "0 - 4",
+              "registration": "https://apm.activecommunities.com/dprplaymore/Activity_Search/total-tot-time/19841?locale=en-US",
+              "indoor": true,
+              "area": "durham",
+              "source": "durham-rec",
+              "dropIn": false,
+              "lat": 36.018264,
+              "lon": -78.91403399999999
+            }
+          },
+          "alternatives": [
+            {
+              "ref": "event:wake-parks:8358:2026-11-02",
+              "arrive": "08:00",
+              "leave": "10:00",
+              "why": "The Beech Bluff StoryWalk is a free self-guided story loop in south Wake — a calm outdoor morning walk well before the nap.",
+              "tips": [
+                "Start early while the trail is quiet.",
+                "A stroller handles the loop easily.",
+                "Leave by 10:00 to get home with plenty of time before the nap."
+              ],
+              "interests": [
+                "stories",
+                "nature"
+              ],
+              "also": [],
+              "area": "south-wake",
+              "outdoor": true,
+              "source": {
+                "kind": "event",
+                "title": "Beech Bluff County Park StoryWalk® 2026 (Self-Led)",
+                "start": "2026-11-02T08:00:00",
+                "end": "2026-11-02T17:30:00",
+                "venue": "Beech Bluff County Park",
+                "address": "Beech Bluff Park Drive, Fuquay-Varina, NC",
+                "url": "https://apm.activecommunities.com/wakeparks/Activity_Search/beech-bluff-county-park-storywalk-2026-self-led/8358?locale=en-US",
+                "cost": "Free",
+                "ages": null,
+                "registration": false,
+                "indoor": false,
+                "area": "south-wake",
+                "source": "wake-parks",
+                "dropIn": true,
+                "lat": 35.58537279715877,
+                "lon": -78.6793341971644
+              }
+            },
+            {
+              "ref": "event:wake:21630",
+              "arrive": "09:05",
+              "leave": "10:30",
+              "also": [
+                {
+                  "ref": "place:knightdale-station-park",
+                  "source": {
+                    "kind": "park",
+                    "title": "Knightdale Station Park",
+                    "address": "810 North First Avenue, Knightdale, NC",
+                    "url": "https://www.knightdalenc.gov/knightdalestationpark",
+                    "amenities": [
+                      "playground",
+                      "picnic-shelter",
+                      "greenway"
+                    ],
+                    "indoor": false,
+                    "area": "east-wake",
+                    "hours": null,
+                    "lat": 35.795776739559024,
+                    "lon": -78.47584503817626,
+                    "cost": null
+                  }
+                }
+              ],
+              "why": "Toddler Storytime at East Regional Library has books, music and movement, then Knightdale Station Park is steps away for outdoor play before heading home.",
+              "tips": [
+                "Pick up a free ticket at the Youth Services desk on arrival.",
+                "Head to the park after storytime for at least 20 minutes outside. Weather permitting.",
+                "Leave by 10:30 to get home well before lunch and the nap."
+              ],
+              "interests": [
+                "stories",
+                "music",
+                "movement"
+              ],
+              "area": "east-wake",
+              "outdoor": false,
+              "source": {
+                "kind": "event",
+                "title": "Toddler Storytime",
+                "start": "2026-11-02T09:15:00-05:00",
+                "end": "2026-11-02T09:45:00-05:00",
+                "venue": "East Regional Library",
+                "address": "946 Steeple Square Court, Knightdale, NC",
+                "url": "https://www.wake.gov/events/toddler-storytime-961",
+                "cost": "Free",
+                "ages": "Young Children",
+                "registration": null,
+                "indoor": true,
+                "area": "east-wake",
+                "source": "wake-county",
+                "dropIn": false,
+                "lat": 35.8028243321954,
+                "lon": -78.487155767495
+              }
+            },
+            {
+              "ref": "place:sarah-p-duke-gardens",
+              "arrive": "09:00",
+              "leave": "11:00",
+              "why": "Sarah P. Duke Gardens has five miles of free paths — a beautiful outdoor morning in Durham before the long nap.",
+              "tips": [
+                "Arrive at 09:00 before the gardens fill up.",
+                "The paths are stroller-friendly at a toddler's pace.",
+                "Weather permitting; head home if showers arrive."
+              ],
+              "interests": [
+                "nature"
+              ],
+              "also": [],
+              "area": "durham",
+              "outdoor": true,
+              "source": {
+                "kind": "garden",
+                "title": "Sarah P. Duke Gardens",
+                "address": "420 Anderson St, Durham, NC 27708",
+                "url": "https://gardens.duke.edu/visit/",
+                "amenities": [
+                  "garden",
+                  "nature",
+                  "restroom"
+                ],
+                "indoor": false,
+                "area": "durham",
+                "hours": {
+                  "sun": "8 a.m. to sunset",
+                  "mon": "8 a.m. to sunset",
+                  "tue": "8 a.m. to sunset",
+                  "wed": "8 a.m. to sunset",
+                  "thu": "8 a.m. to sunset",
+                  "fri": "8 a.m. to sunset",
+                  "sat": "8 a.m. to sunset"
+                },
+                "lat": 36.0024,
+                "lon": -78.9328,
+                "cost": "Free",
+                "note": "Free; paid parking that often fills before 10 a.m. on nice days. Five miles of paths, and the Charlotte Brody Discovery Garden."
+              }
+            },
+            {
+              "ref": "event:libcal:durham-county-library:16966211",
+              "arrive": "10:20",
+              "leave": "11:30",
+              "also": [
+                {
+                  "ref": "place:cedar-hills-park",
+                  "source": {
+                    "kind": "park",
+                    "title": "Cedar Hills Park",
+                    "address": "5600 Sweetbriar Drive, Raleigh, NC 27609",
+                    "url": "https://raleighnc.gov/parks-and-recreation/places/cedar-hills-park",
+                    "amenities": [
+                      "picnic-shelter",
+                      "courts",
+                      "fields",
+                      "playground"
+                    ],
+                    "indoor": false,
+                    "area": "north-raleigh",
+                    "hours": null,
+                    "lat": 35.85946,
+                    "lon": -78.63055,
+                    "cost": null
+                  }
+                }
+              ],
+              "why": "Mini Makers Workshop at North Regional Library is a registered craft session for toddlers, then Cedar Hills Park nearby has a playground for outdoor play before heading home.",
+              "tips": [
+                "Registration is required; book ahead.",
+                "The craft is hands-on and fun even for the youngest participants.",
+                "Head to the park after for at least 20 minutes of fresh air. Weather permitting."
+              ],
+              "interests": [
+                "art",
+                "movement"
+              ],
+              "area": "durham",
+              "outdoor": false,
+              "source": {
+                "kind": "event",
+                "title": "Mini Makers Workshop",
+                "start": "2026-11-02T10:30:00",
+                "end": "2026-11-02T11:00:00",
+                "venue": "North Regional Library",
+                "address": "221 Milton Rd, Durham, NC",
+                "url": "https://durhamcountylibrary.libcal.com/event/16966211",
+                "cost": null,
+                "ages": "Elementary School, Kindergarten, Toddler, DPS",
+                "registration": "https://durhamcountylibrary.libcal.com/event/16966211",
+                "indoor": true,
+                "area": "durham",
+                "source": "libcal",
+                "dropIn": false,
+                "lat": 35.880907380619,
+                "lon": -78.6281516610688
+              }
+            }
+          ],
+          "rainBackup": null,
+          "timeline": [
+            {
+              "start": "07:00",
+              "end": "07:30",
+              "kind": "meal",
+              "title": "Up and breakfast"
+            },
+            {
+              "start": "07:30",
+              "end": "09:10",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "09:10",
+              "end": "09:30",
+              "kind": "routine",
+              "title": "Get ready to go",
+              "detail": "Shoes on, diaper bag, water and a snack."
+            },
+            {
+              "start": "09:30",
+              "end": "09:50",
+              "kind": "travel",
+              "title": "Drive to Walltown Park Rec Ctr"
+            },
+            {
+              "start": "09:50",
+              "end": "12:00",
+              "kind": "outing",
+              "title": "Total Tot Time",
+              "detail": "Pack a lunch to eat there."
+            },
+            {
+              "start": "12:00",
+              "end": "12:10",
+              "kind": "travel",
+              "title": "Drive to Walltown Park"
+            },
+            {
+              "start": "12:10",
+              "end": "12:30",
+              "kind": "outing",
+              "title": "Walltown Park"
+            },
+            {
+              "start": "12:30",
+              "end": "12:50",
+              "kind": "travel",
+              "title": "Drive home"
+            },
+            {
+              "start": "12:50",
+              "end": "13:00",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "13:00",
+              "end": "15:00",
+              "kind": "nap",
+              "title": "Nap"
+            },
+            {
+              "start": "15:00",
+              "end": "15:20",
+              "kind": "routine",
+              "title": "Up and a snack"
+            },
+            {
+              "start": "15:20",
+              "end": "18:00",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "18:00",
+              "end": "18:45",
+              "kind": "meal",
+              "title": "Dinner"
+            },
+            {
+              "start": "18:45",
+              "end": "19:30",
+              "kind": "routine",
+              "title": "Bath, books and bed"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "checked": {
+    "at": "2026-11-01T11:03:30.187Z",
+    "forecast": "nws",
+    "weather": {
+      "period": "Monday",
+      "tempF": 70,
+      "precipProbability": 0,
+      "shortForecast": "Partly Sunny",
+      "hours": [
+        {
+          "t": "05:00",
+          "tempF": 50,
+          "pop": 0
+        },
+        {
+          "t": "06:00",
+          "tempF": 50,
+          "pop": 0
+        },
+        {
+          "t": "07:00",
+          "tempF": 50,
+          "pop": 0
+        },
+        {
+          "t": "08:00",
+          "tempF": 53,
+          "pop": 0
+        },
+        {
+          "t": "09:00",
+          "tempF": 56,
+          "pop": 0
+        },
+        {
+          "t": "10:00",
+          "tempF": 60,
+          "pop": 0
+        },
+        {
+          "t": "11:00",
+          "tempF": 63,
+          "pop": 0
+        },
+        {
+          "t": "12:00",
+          "tempF": 66,
+          "pop": 0
+        },
+        {
+          "t": "13:00",
+          "tempF": 68,
+          "pop": 0
+        },
+        {
+          "t": "14:00",
+          "tempF": 69,
+          "pop": 0
+        },
+        {
+          "t": "15:00",
+          "tempF": 69,
+          "pop": 0
+        },
+        {
+          "t": "16:00",
+          "tempF": 69,
+          "pop": 0
+        },
+        {
+          "t": "17:00",
+          "tempF": 66,
+          "pop": 0
+        },
+        {
+          "t": "18:00",
+          "tempF": 63,
+          "pop": 0
+        },
+        {
+          "t": "19:00",
+          "tempF": 60,
+          "pop": 0
+        },
+        {
+          "t": "20:00",
+          "tempF": 58,
+          "pop": 0
+        },
+        {
+          "t": "21:00",
+          "tempF": 56,
+          "pop": 0
+        },
+        {
+          "t": "22:00",
+          "tempF": 55,
+          "pop": 0
+        },
+        {
+          "t": "23:00",
+          "tempF": 54,
+          "pop": 0
+        }
+      ]
+    },
+    "hidden": []
+  }
+}

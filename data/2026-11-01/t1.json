@@ -1,0 +1,841 @@
+{
+  "date": "2026-11-01",
+  "band": "t1",
+  "versions": [
+    {
+      "at": "2026-10-27T00:52:54.798Z",
+      "reason": null,
+      "forecast": "nws",
+      "weather": {
+        "period": "Sunday",
+        "tempF": 72,
+        "precipProbability": 31,
+        "shortForecast": "Chance Rain Showers"
+      },
+      "plans": [
+        {
+          "nap": "two-naps",
+          "napLabel": "Two naps",
+          "headline": "Hill Ridge Farms fall festival morning",
+          "main": {
+            "ref": "place:hill-ridge-farms",
+            "arrive": "11:10",
+            "leave": "14:00",
+            "why": "Hill Ridge Farms has animals, pumpkins and wide open fall festival grounds — a full, unhurried morning for a toddler after the first nap on a mild day. Mid-week crowds are gone by Sunday so the pace is still easy.",
+            "tips": [
+              "Pack a snack and water; there is plenty of walking and the child will be hungry mid-morning.",
+              "Give a five-minute warning before leaving so the transition isn't a surprise.",
+              "If showers arrive, head to the car early and save the rest of the farm for another day."
+            ],
+            "interests": [
+              "animals",
+              "nature"
+            ],
+            "also": [],
+            "area": "north-raleigh",
+            "outdoor": true,
+            "source": {
+              "kind": "farm",
+              "title": "Hill Ridge Farms",
+              "address": "703 Tarboro Rd, Youngsville, NC 27596",
+              "url": "https://www.hillridgefarms.com/",
+              "amenities": [
+                "farm"
+              ],
+              "indoor": false,
+              "area": "north-raleigh",
+              "lat": 36.0161,
+              "lon": -78.4416,
+              "cost": "Tickets at the gate",
+              "note": "Fall festival: tickets at the gate, each with a free pumpkin. Last admission an hour before closing; less busy Wednesday to Friday."
+            }
+          },
+          "alternatives": [
+            {
+              "ref": "event:wake-parks:8358:2026-11-01",
+              "arrive": "08:00",
+              "leave": "09:10",
+              "why": "The self-guided StoryWalk at Beech Bluff County Park is a free early-morning story loop on an ADA-accessible trail — a calm outdoor start before the first nap.",
+              "tips": [
+                "Arrive at 08:00 for the quietest stretch of the trail.",
+                "A stroller handles the loop easily.",
+                "Leave by 09:10 to get home before the first nap."
+              ],
+              "interests": [
+                "stories",
+                "nature"
+              ],
+              "also": [],
+              "area": "south-wake",
+              "outdoor": true,
+              "source": {
+                "kind": "event",
+                "title": "Beech Bluff County Park StoryWalk® 2026 (Self-Led)",
+                "start": "2026-11-01T08:00:00",
+                "end": "2026-11-01T17:30:00",
+                "venue": "Beech Bluff County Park",
+                "address": "Beech Bluff Park Drive, Fuquay-Varina, NC",
+                "url": "https://apm.activecommunities.com/wakeparks/Activity_Search/beech-bluff-county-park-storywalk-2026-self-led/8358?locale=en-US",
+                "cost": "Free",
+                "ages": null,
+                "registration": false,
+                "indoor": false,
+                "area": "south-wake",
+                "source": "wake-parks",
+                "dropIn": true,
+                "lat": 35.58537279715877,
+                "lon": -78.6793341971644
+              }
+            },
+            {
+              "ref": "event:wake-parks:9411:2026-11-01",
+              "arrive": "10:50",
+              "leave": "12:00",
+              "why": "Exploration Station: American Bison at Historic Yates Mill is a free drop-in to learn about the US national mammal on National Bison Day — a fun outdoor science stop in Raleigh after the first nap.",
+              "tips": [
+                "Registration is required; book a spot ahead of time.",
+                "The mill grounds are beautiful for a short wander before or after the station.",
+                "Leave by 12:00 to get home for lunch before the second nap."
+              ],
+              "interests": [
+                "animals",
+                "science"
+              ],
+              "also": [],
+              "area": "raleigh",
+              "outdoor": true,
+              "source": {
+                "kind": "event",
+                "title": "Exploration Station: American Bison",
+                "start": "2026-11-01T08:30:00",
+                "end": "2026-11-01T17:00:00",
+                "venue": "Historic Yates Mill County Park",
+                "address": "4620 Lake Wheeler Rd., Raleigh, NC  27603",
+                "url": "https://apm.activecommunities.com/wakeparks/Activity_Search/exploration-station-american-bison/9411?locale=en-US",
+                "cost": null,
+                "ages": null,
+                "registration": "https://apm.activecommunities.com/wakeparks/Activity_Search/exploration-station-american-bison/9411?locale=en-US",
+                "indoor": false,
+                "area": "raleigh",
+                "source": "wake-parks",
+                "dropIn": false,
+                "lat": 35.72157134974476,
+                "lon": -78.68526087901417
+              }
+            },
+            {
+              "ref": "place:ncma-museum-park",
+              "arrive": "15:50",
+              "leave": "18:30",
+              "why": "The NC Museum of Art Museum Park has 164 acres of trails, outdoor sculptures and wide lawns — a lovely afternoon stretch after the second nap on a mild day.",
+              "tips": [
+                "The Capital Area Greenway runs through and is great for a stroller walk.",
+                "Big outdoor sculptures are surprising and fun for a toddler to discover.",
+                "Bring a snack and water for the wander."
+              ],
+              "interests": [
+                "art",
+                "nature"
+              ],
+              "also": [],
+              "area": "raleigh",
+              "outdoor": true,
+              "source": {
+                "kind": "garden",
+                "title": "NC Museum of Art Museum Park",
+                "address": "2110 Blue Ridge Rd, Raleigh, NC 27607",
+                "url": "https://ncartmuseum.org/museum-park/",
+                "amenities": [
+                  "garden",
+                  "nature",
+                  "greenway",
+                  "restroom"
+                ],
+                "indoor": false,
+                "area": "raleigh",
+                "hours": {
+                  "sun": "dawn to dusk",
+                  "mon": "dawn to dusk",
+                  "tue": "dawn to dusk",
+                  "wed": "dawn to dusk",
+                  "thu": "dawn to dusk",
+                  "fri": "dawn to dusk",
+                  "sat": "dawn to dusk"
+                },
+                "lat": 35.8105,
+                "lon": -78.7022,
+                "cost": "Free",
+                "note": "Free. 164 acres of trails, lawns and big outdoor art; the Capital Area Greenway runs through."
+              }
+            }
+          ],
+          "rainBackup": null,
+          "timeline": [
+            {
+              "start": "07:00",
+              "end": "07:30",
+              "kind": "meal",
+              "title": "Up and breakfast"
+            },
+            {
+              "start": "07:30",
+              "end": "09:30",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "09:30",
+              "end": "10:30",
+              "kind": "nap",
+              "title": "Nap"
+            },
+            {
+              "start": "10:30",
+              "end": "10:50",
+              "kind": "routine",
+              "title": "Up and a snack"
+            },
+            {
+              "start": "10:50",
+              "end": "11:10",
+              "kind": "travel",
+              "title": "Drive to Hill Ridge Farms"
+            },
+            {
+              "start": "11:10",
+              "end": "14:00",
+              "kind": "outing",
+              "title": "Hill Ridge Farms",
+              "detail": "Pack a lunch to eat there."
+            },
+            {
+              "start": "14:00",
+              "end": "14:20",
+              "kind": "travel",
+              "title": "Drive home"
+            },
+            {
+              "start": "14:20",
+              "end": "14:30",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "14:30",
+              "end": "15:30",
+              "kind": "nap",
+              "title": "Nap"
+            },
+            {
+              "start": "15:30",
+              "end": "15:50",
+              "kind": "routine",
+              "title": "Up and a snack"
+            },
+            {
+              "start": "15:50",
+              "end": "17:30",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "17:30",
+              "end": "18:15",
+              "kind": "meal",
+              "title": "Dinner"
+            },
+            {
+              "start": "18:15",
+              "end": "19:00",
+              "kind": "routine",
+              "title": "Bath, books and bed"
+            }
+          ]
+        },
+        {
+          "nap": "early-nap",
+          "napLabel": "One nap, 12 to 2",
+          "headline": "JC Raulston Arboretum morning garden walk",
+          "main": {
+            "ref": "place:jc-raulston-arboretum",
+            "arrive": "09:10",
+            "leave": "11:00",
+            "why": "The JC Raulston Arboretum is a free NC State garden with winding paths through hundreds of plant collections — a beautiful, peaceful outdoor morning for a curious toddler who likes to explore at their own pace.",
+            "tips": [
+              "Arrive at 09:00 for the quietest stretch before weekend visitors arrive.",
+              "The paths are stroller-friendly and there is always something new at eye level for a toddler.",
+              "If showers start, head back to the car and use the rain backup plan instead."
+            ],
+            "interests": [
+              "nature"
+            ],
+            "also": [],
+            "area": "raleigh",
+            "outdoor": true,
+            "source": {
+              "kind": "garden",
+              "title": "JC Raulston Arboretum",
+              "address": "4415 Beryl Rd, Raleigh, NC 27606",
+              "url": "https://jcra.ncsu.edu/",
+              "amenities": [
+                "garden",
+                "nature"
+              ],
+              "indoor": false,
+              "area": "raleigh",
+              "hours": {
+                "mon": "9 a.m.–4:30 p.m.",
+                "tue": "9 a.m.–4:30 p.m.",
+                "wed": "9 a.m.–4:30 p.m.",
+                "thu": "9 a.m.–4:30 p.m.",
+                "fri": "9 a.m.–4:30 p.m.",
+                "sat": "9 a.m.–5 p.m.",
+                "sun": "9 a.m.–5 p.m."
+              },
+              "lat": 35.794,
+              "lon": -78.6987,
+              "cost": "Free",
+              "note": "Free. NC State’s garden; no pets."
+            }
+          },
+          "alternatives": [
+            {
+              "ref": "event:wake-parks:8358:2026-11-01",
+              "arrive": "08:00",
+              "leave": "10:00",
+              "why": "The Beech Bluff StoryWalk is a free self-guided story loop on an accessible trail in south Wake — a calm outdoor morning walk before the nap.",
+              "tips": [
+                "Start early while the trail is quiet.",
+                "Let the child spot each story panel before you read it aloud.",
+                "Leave by 10:00 to get home and wind down before the nap."
+              ],
+              "interests": [
+                "stories",
+                "nature"
+              ],
+              "also": [],
+              "area": "south-wake",
+              "outdoor": true,
+              "source": {
+                "kind": "event",
+                "title": "Beech Bluff County Park StoryWalk® 2026 (Self-Led)",
+                "start": "2026-11-01T08:00:00",
+                "end": "2026-11-01T17:30:00",
+                "venue": "Beech Bluff County Park",
+                "address": "Beech Bluff Park Drive, Fuquay-Varina, NC",
+                "url": "https://apm.activecommunities.com/wakeparks/Activity_Search/beech-bluff-county-park-storywalk-2026-self-led/8358?locale=en-US",
+                "cost": "Free",
+                "ages": null,
+                "registration": false,
+                "indoor": false,
+                "area": "south-wake",
+                "source": "wake-parks",
+                "dropIn": true,
+                "lat": 35.58537279715877,
+                "lon": -78.6793341971644
+              }
+            },
+            {
+              "ref": "place:hill-ridge-farms",
+              "arrive": "09:30",
+              "leave": "11:30",
+              "why": "Hill Ridge Farms has animals, pumpkins and fall festival grounds — a hands-on outdoor morning in north Raleigh that wraps up well before the nap.",
+              "tips": [
+                "Arrive right at 09:30 when the farm opens.",
+                "Pack a snack and water for mid-morning.",
+                "Give a five-minute heads-up before leaving."
+              ],
+              "interests": [
+                "animals",
+                "nature"
+              ],
+              "also": [],
+              "area": "north-raleigh",
+              "outdoor": true,
+              "source": {
+                "kind": "farm",
+                "title": "Hill Ridge Farms",
+                "address": "703 Tarboro Rd, Youngsville, NC 27596",
+                "url": "https://www.hillridgefarms.com/",
+                "amenities": [
+                  "farm"
+                ],
+                "indoor": false,
+                "area": "north-raleigh",
+                "lat": 36.0161,
+                "lon": -78.4416,
+                "cost": "Tickets at the gate",
+                "note": "Fall festival: tickets at the gate, each with a free pumpkin. Last admission an hour before closing; less busy Wednesday to Friday."
+              }
+            },
+            {
+              "ref": "event:wake-parks:9411:2026-11-01",
+              "arrive": "08:20",
+              "leave": "10:00",
+              "why": "Exploration Station: American Bison at Historic Yates Mill is a free drop-in on National Bison Day — a short, focused outdoor stop to learn about bison before heading home for the nap.",
+              "tips": [
+                "Registration is required; book ahead.",
+                "The mill pond and grounds are lovely for a short wander after the station.",
+                "Leave by 10:00 to get home well before the nap."
+              ],
+              "interests": [
+                "animals",
+                "science"
+              ],
+              "also": [],
+              "area": "raleigh",
+              "outdoor": true,
+              "source": {
+                "kind": "event",
+                "title": "Exploration Station: American Bison",
+                "start": "2026-11-01T08:30:00",
+                "end": "2026-11-01T17:00:00",
+                "venue": "Historic Yates Mill County Park",
+                "address": "4620 Lake Wheeler Rd., Raleigh, NC  27603",
+                "url": "https://apm.activecommunities.com/wakeparks/Activity_Search/exploration-station-american-bison/9411?locale=en-US",
+                "cost": null,
+                "ages": null,
+                "registration": "https://apm.activecommunities.com/wakeparks/Activity_Search/exploration-station-american-bison/9411?locale=en-US",
+                "indoor": false,
+                "area": "raleigh",
+                "source": "wake-parks",
+                "dropIn": false,
+                "lat": 35.72157134974476,
+                "lon": -78.68526087901417
+              }
+            }
+          ],
+          "rainBackup": null,
+          "timeline": [
+            {
+              "start": "07:00",
+              "end": "07:30",
+              "kind": "meal",
+              "title": "Up and breakfast"
+            },
+            {
+              "start": "07:30",
+              "end": "08:30",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "08:30",
+              "end": "08:50",
+              "kind": "routine",
+              "title": "Get ready to go",
+              "detail": "Shoes on, diaper bag, water and a snack."
+            },
+            {
+              "start": "08:50",
+              "end": "09:10",
+              "kind": "travel",
+              "title": "Drive to JC Raulston Arboretum"
+            },
+            {
+              "start": "09:10",
+              "end": "11:00",
+              "kind": "outing",
+              "title": "JC Raulston Arboretum"
+            },
+            {
+              "start": "11:00",
+              "end": "11:20",
+              "kind": "travel",
+              "title": "Drive home"
+            },
+            {
+              "start": "11:20",
+              "end": "11:50",
+              "kind": "meal",
+              "title": "Lunch"
+            },
+            {
+              "start": "11:50",
+              "end": "12:00",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "12:00",
+              "end": "14:00",
+              "kind": "nap",
+              "title": "Nap"
+            },
+            {
+              "start": "14:00",
+              "end": "14:20",
+              "kind": "routine",
+              "title": "Up and a snack"
+            },
+            {
+              "start": "14:20",
+              "end": "17:30",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "17:30",
+              "end": "18:15",
+              "kind": "meal",
+              "title": "Dinner"
+            },
+            {
+              "start": "18:15",
+              "end": "19:00",
+              "kind": "routine",
+              "title": "Bath, books and bed"
+            }
+          ]
+        },
+        {
+          "nap": "late-nap",
+          "napLabel": "One nap, 1 to 3",
+          "headline": "NC Botanical Garden morning walk",
+          "main": {
+            "ref": "place:nc-botanical-garden",
+            "arrive": "09:10",
+            "leave": "11:00",
+            "why": "The NC Botanical Garden is free with display gardens and nature trails through a forest — a beautiful, unhurried outdoor morning for a toddler who likes to poke around in plants and listen to birds on a mild autumn day.",
+            "tips": [
+              "Arrive at 09:00 before weekend visitors arrive and while the forest is still quiet.",
+              "The nature trails behind the display gardens are easy walking and feel like a real woodland adventure.",
+              "If showers arrive early, head back to the car and use the rain backup plan."
+            ],
+            "interests": [
+              "nature"
+            ],
+            "also": [],
+            "area": "chapel-hill",
+            "outdoor": true,
+            "source": {
+              "kind": "garden",
+              "title": "NC Botanical Garden",
+              "address": "100 Old Mason Farm Rd, Chapel Hill, NC 27517",
+              "url": "https://ncbg.unc.edu/visit/",
+              "amenities": [
+                "garden",
+                "nature",
+                "restroom"
+              ],
+              "indoor": false,
+              "area": "chapel-hill",
+              "lat": 35.9011,
+              "lon": -79.0319,
+              "cost": "Free",
+              "note": "Free. Display gardens, and nature trails through the forest behind them."
+            }
+          },
+          "alternatives": [
+            {
+              "ref": "event:wake-parks:8358:2026-11-01",
+              "arrive": "08:00",
+              "leave": "09:30",
+              "why": "The Beech Bluff StoryWalk is a free self-guided story loop on an accessible trail — a calm south Wake outdoor walk well before the nap.",
+              "tips": [
+                "Start early for the quietest stretch.",
+                "A stroller handles the loop easily.",
+                "Leave by 09:30 to get home with plenty of time before lunch and the nap."
+              ],
+              "interests": [
+                "stories",
+                "nature"
+              ],
+              "also": [],
+              "area": "south-wake",
+              "outdoor": true,
+              "source": {
+                "kind": "event",
+                "title": "Beech Bluff County Park StoryWalk® 2026 (Self-Led)",
+                "start": "2026-11-01T08:00:00",
+                "end": "2026-11-01T17:30:00",
+                "venue": "Beech Bluff County Park",
+                "address": "Beech Bluff Park Drive, Fuquay-Varina, NC",
+                "url": "https://apm.activecommunities.com/wakeparks/Activity_Search/beech-bluff-county-park-storywalk-2026-self-led/8358?locale=en-US",
+                "cost": "Free",
+                "ages": null,
+                "registration": false,
+                "indoor": false,
+                "area": "south-wake",
+                "source": "wake-parks",
+                "dropIn": true,
+                "lat": 35.58537279715877,
+                "lon": -78.6793341971644
+              }
+            },
+            {
+              "ref": "place:hill-ridge-farms",
+              "arrive": "09:30",
+              "leave": "11:30",
+              "why": "Hill Ridge Farms has a fall festival with animals, pumpkins and open grounds — a hands-on north Raleigh outing that finishes well before the nap.",
+              "tips": [
+                "Arrive right at opening to beat the crowds.",
+                "Pack a snack and water for the walk around.",
+                "Give a five-minute warning before leaving."
+              ],
+              "interests": [
+                "animals",
+                "nature"
+              ],
+              "also": [],
+              "area": "north-raleigh",
+              "outdoor": true,
+              "source": {
+                "kind": "farm",
+                "title": "Hill Ridge Farms",
+                "address": "703 Tarboro Rd, Youngsville, NC 27596",
+                "url": "https://www.hillridgefarms.com/",
+                "amenities": [
+                  "farm"
+                ],
+                "indoor": false,
+                "area": "north-raleigh",
+                "lat": 36.0161,
+                "lon": -78.4416,
+                "cost": "Tickets at the gate",
+                "note": "Fall festival: tickets at the gate, each with a free pumpkin. Last admission an hour before closing; less busy Wednesday to Friday."
+              }
+            },
+            {
+              "ref": "place:ncma-museum-park",
+              "arrive": "09:00",
+              "leave": "11:00",
+              "why": "The NC Museum of Art Museum Park has 164 acres of trails and outdoor sculptures — a free, open outdoor morning in Raleigh before the long nap.",
+              "tips": [
+                "Arrive early for the quietest stretch of the greenway trails.",
+                "Big outdoor sculptures are fun for a toddler to discover and touch.",
+                "Bring a snack and water for the walk."
+              ],
+              "interests": [
+                "art",
+                "nature"
+              ],
+              "also": [],
+              "area": "raleigh",
+              "outdoor": true,
+              "source": {
+                "kind": "garden",
+                "title": "NC Museum of Art Museum Park",
+                "address": "2110 Blue Ridge Rd, Raleigh, NC 27607",
+                "url": "https://ncartmuseum.org/museum-park/",
+                "amenities": [
+                  "garden",
+                  "nature",
+                  "greenway",
+                  "restroom"
+                ],
+                "indoor": false,
+                "area": "raleigh",
+                "hours": {
+                  "sun": "dawn to dusk",
+                  "mon": "dawn to dusk",
+                  "tue": "dawn to dusk",
+                  "wed": "dawn to dusk",
+                  "thu": "dawn to dusk",
+                  "fri": "dawn to dusk",
+                  "sat": "dawn to dusk"
+                },
+                "lat": 35.8105,
+                "lon": -78.7022,
+                "cost": "Free",
+                "note": "Free. 164 acres of trails, lawns and big outdoor art; the Capital Area Greenway runs through."
+              }
+            }
+          ],
+          "rainBackup": null,
+          "timeline": [
+            {
+              "start": "07:00",
+              "end": "07:30",
+              "kind": "meal",
+              "title": "Up and breakfast"
+            },
+            {
+              "start": "07:30",
+              "end": "08:30",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "08:30",
+              "end": "08:50",
+              "kind": "routine",
+              "title": "Get ready to go",
+              "detail": "Shoes on, diaper bag, water and a snack."
+            },
+            {
+              "start": "08:50",
+              "end": "09:10",
+              "kind": "travel",
+              "title": "Drive to NC Botanical Garden"
+            },
+            {
+              "start": "09:10",
+              "end": "11:00",
+              "kind": "outing",
+              "title": "NC Botanical Garden"
+            },
+            {
+              "start": "11:00",
+              "end": "11:20",
+              "kind": "travel",
+              "title": "Drive home"
+            },
+            {
+              "start": "11:20",
+              "end": "12:15",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "12:15",
+              "end": "12:45",
+              "kind": "meal",
+              "title": "Lunch"
+            },
+            {
+              "start": "12:45",
+              "end": "13:00",
+              "kind": "quiet",
+              "title": "Wind down",
+              "detail": "A couple of books to settle."
+            },
+            {
+              "start": "13:00",
+              "end": "15:00",
+              "kind": "nap",
+              "title": "Nap"
+            },
+            {
+              "start": "15:00",
+              "end": "15:20",
+              "kind": "routine",
+              "title": "Up and a snack"
+            },
+            {
+              "start": "15:20",
+              "end": "18:00",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "18:00",
+              "end": "18:45",
+              "kind": "meal",
+              "title": "Dinner"
+            },
+            {
+              "start": "18:45",
+              "end": "19:30",
+              "kind": "routine",
+              "title": "Bath, books and bed"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "checked": {
+    "at": "2026-11-01T11:03:30.163Z",
+    "forecast": "nws",
+    "weather": {
+      "period": "Today",
+      "tempF": 67,
+      "precipProbability": 0,
+      "shortForecast": "Partly Sunny",
+      "hours": [
+        {
+          "t": "06:00",
+          "tempF": 49,
+          "pop": 0
+        },
+        {
+          "t": "07:00",
+          "tempF": 49,
+          "pop": 0
+        },
+        {
+          "t": "08:00",
+          "tempF": 51,
+          "pop": 0
+        },
+        {
+          "t": "09:00",
+          "tempF": 56,
+          "pop": 0
+        },
+        {
+          "t": "10:00",
+          "tempF": 60,
+          "pop": 0
+        },
+        {
+          "t": "11:00",
+          "tempF": 62,
+          "pop": 0
+        },
+        {
+          "t": "12:00",
+          "tempF": 64,
+          "pop": 0
+        },
+        {
+          "t": "13:00",
+          "tempF": 66,
+          "pop": 0
+        },
+        {
+          "t": "14:00",
+          "tempF": 67,
+          "pop": 0
+        },
+        {
+          "t": "15:00",
+          "tempF": 67,
+          "pop": 0
+        },
+        {
+          "t": "16:00",
+          "tempF": 67,
+          "pop": 0
+        },
+        {
+          "t": "17:00",
+          "tempF": 64,
+          "pop": 0
+        },
+        {
+          "t": "18:00",
+          "tempF": 61,
+          "pop": 0
+        },
+        {
+          "t": "19:00",
+          "tempF": 58,
+          "pop": 0
+        },
+        {
+          "t": "20:00",
+          "tempF": 57,
+          "pop": 0
+        },
+        {
+          "t": "21:00",
+          "tempF": 56,
+          "pop": 0
+        },
+        {
+          "t": "22:00",
+          "tempF": 55,
+          "pop": 0
+        },
+        {
+          "t": "23:00",
+          "tempF": 54,
+          "pop": 0
+        }
+      ]
+    },
+    "hidden": []
+  }
+}

@@ -1,0 +1,1089 @@
+{
+  "date": "2026-11-11",
+  "band": "t3",
+  "versions": [
+    {
+      "at": "2026-10-31T16:19:55.363Z",
+      "reason": null,
+      "forecast": "none",
+      "weather": null,
+      "plans": [
+        {
+          "nap": "nap",
+          "napLabel": "Nap, 1 to 2:30",
+          "headline": "Build a toy boat and test it on the river at Lower Haw",
+          "main": {
+            "ref": "event:state-parks:54238862536720:54238862536721",
+            "arrive": "09:50",
+            "leave": "11:30",
+            "why": "Your child builds a small boat from recycled materials, then tests it on the water — a hands-on mix of engineering and splashy fun.",
+            "tips": [
+              "Dress for outdoor play and possible mud near the water's edge.",
+              "Bring a spare pair of socks and a snack for the drive home.",
+              "Head back to the car while excitement is still high so the drive home feels like a reward."
+            ],
+            "interests": [
+              "science",
+              "water",
+              "nature"
+            ],
+            "also": [],
+            "area": "chapel-hill",
+            "outdoor": true,
+            "source": {
+              "kind": "event",
+              "title": "Build a Toy Boat",
+              "start": "2026-11-11T10:00:00-05:00",
+              "end": "2026-11-11T11:30:00-05:00",
+              "venue": "Bynum Mill Access at Lower Haw River State Natural Area",
+              "address": "160 Bynum Church Road, Pittsboro, NC",
+              "url": "https://events.dncr.nc.gov/event/build-a-toy-boat",
+              "cost": "Free",
+              "ages": null,
+              "registration": false,
+              "indoor": false,
+              "area": "chapel-hill",
+              "source": "state-parks",
+              "dropIn": false,
+              "lat": 35.771669,
+              "lon": -79.142253
+            }
+          },
+          "alternatives": [
+            {
+              "ref": "event:wake-parks:9428",
+              "arrive": "09:50",
+              "leave": "11:30",
+              "why": "A park naturalist leads your child on a gentle mile-long walk around Yates Mill Pond, pointing out the animals and plants that live there.",
+              "tips": [
+                "Registration is required — book a spot before the morning.",
+                "Wear closed-toe shoes and bring water for the trail.",
+                "Let your child carry a small backpack so they feel like a real explorer."
+              ],
+              "interests": [
+                "nature",
+                "animals"
+              ],
+              "also": [],
+              "area": "raleigh",
+              "outdoor": true,
+              "source": {
+                "kind": "event",
+                "title": "Hike with a Naturalist",
+                "start": "2026-11-11T10:00:00",
+                "end": "2026-11-11T11:30:00",
+                "venue": "Historic Yates Mill County Park",
+                "address": "4620 Lake Wheeler Rd., Raleigh, NC  27603",
+                "url": "https://apm.activecommunities.com/wakeparks/Activity_Search/hike-with-a-naturalist/9428?locale=en-US",
+                "cost": "Free",
+                "ages": null,
+                "registration": "https://apm.activecommunities.com/wakeparks/Activity_Search/hike-with-a-naturalist/9428?locale=en-US",
+                "indoor": false,
+                "area": "raleigh",
+                "source": "wake-parks",
+                "dropIn": false,
+                "lat": 35.72157134974476,
+                "lon": -78.68526087901417
+              }
+            },
+            {
+              "ref": "event:wake-parks:8358:2026-11-11",
+              "arrive": "09:00",
+              "leave": "10:30",
+              "why": "Walk the accessible loop at Beech Bluff and read the story panels posted along the trail — a moving outdoor picture book.",
+              "tips": [
+                "The loop is ADA accessible so a pushchair works fine.",
+                "Go at your own pace and talk about each panel as you pass it.",
+                "Bring a snack to enjoy at the picnic tables after the walk."
+              ],
+              "interests": [
+                "stories",
+                "nature"
+              ],
+              "also": [],
+              "area": "south-wake",
+              "outdoor": true,
+              "source": {
+                "kind": "event",
+                "title": "Beech Bluff County Park StoryWalk® 2026 (Self-Led)",
+                "start": "2026-11-11T08:00:00",
+                "end": "2026-11-11T17:30:00",
+                "venue": "Beech Bluff County Park",
+                "address": "Beech Bluff Park Drive, Fuquay-Varina, NC",
+                "url": "https://apm.activecommunities.com/wakeparks/Activity_Search/beech-bluff-county-park-storywalk-2026-self-led/8358?locale=en-US",
+                "cost": "Free",
+                "ages": null,
+                "registration": false,
+                "indoor": false,
+                "area": "south-wake",
+                "source": "wake-parks",
+                "dropIn": true,
+                "lat": 35.58537279715877,
+                "lon": -78.6793341971644
+              }
+            },
+            {
+              "ref": "event:museum:nc-natural-sciences:123920",
+              "also": [
+                {
+                  "ref": "place:fred-fletcher-park",
+                  "source": {
+                    "kind": "park",
+                    "title": "Fred Fletcher Park",
+                    "address": "820 Clay Street, Raleigh, NC 27605",
+                    "url": "https://raleighnc.gov/parks-and-recreation/places/fred-fletcher-park",
+                    "amenities": [
+                      "garden",
+                      "picnic-shelter",
+                      "courts",
+                      "fields",
+                      "playground"
+                    ],
+                    "indoor": false,
+                    "area": "raleigh",
+                    "hours": null,
+                    "lat": 35.79264,
+                    "lon": -78.64957,
+                    "cost": null
+                  }
+                }
+              ],
+              "arrive": "10:35",
+              "leave": "11:30",
+              "why": "Watch keepers feed the ocean habitat animals up close, then run off energy at Fred Fletcher Park just nearby.",
+              "tips": [
+                "Arrive a few minutes early — the feeding tank fills up quickly.",
+                "Have a jacket handy if the wind picks up at the park.",
+                "A snack at the park makes a nice end to the outing."
+              ],
+              "interests": [
+                "animals",
+                "science",
+                "nature"
+              ],
+              "area": "raleigh",
+              "outdoor": false,
+              "source": {
+                "kind": "event",
+                "title": "Live Animal Feeding – Ocean Habitat",
+                "start": "2026-11-11T10:45:00",
+                "end": "2026-11-11T11:00:00",
+                "venue": "NC Museum of Natural Sciences",
+                "address": "11 West Jones Street, Raleigh, NC, 27601",
+                "url": "https://www.naturalsciences.org/calendar/event/live-animal-feeding-ocean-habitat-5/2026-11-11/",
+                "cost": null,
+                "ages": "Adults All Ages Children Live Animals Teens Walk-up Programs",
+                "registration": false,
+                "indoor": true,
+                "area": "raleigh",
+                "source": "museum",
+                "dropIn": false,
+                "lat": 35.7822735,
+                "lon": -78.6395502
+              }
+            },
+            {
+              "ref": "place:museum-of-life-and-science",
+              "also": [
+                {
+                  "ref": "event:weekly:mols-storytime:2026-11-11",
+                  "source": {
+                    "kind": "event",
+                    "title": "Storytime in Hideaway Woods",
+                    "start": "2026-11-11T11:30:00",
+                    "end": "2026-11-11T12:00:00",
+                    "venue": "Hideaway Woods, Museum of Life and Science",
+                    "address": "433 W Murray Ave, Durham, NC 27704",
+                    "url": "https://www.lifeandscience.org/learn/drop-in-programs/",
+                    "cost": "Included with museum admission",
+                    "ages": null,
+                    "registration": false,
+                    "indoor": false,
+                    "area": "durham",
+                    "source": "weekly",
+                    "dropIn": true,
+                    "lat": 36.0294,
+                    "lon": -78.8993
+                  }
+                }
+              ],
+              "arrive": "10:00",
+              "leave": "12:00",
+              "why": "Explore the farmyard, dinosaur trail, and creek at the Museum of Life and Science, then settle in for the outdoor storytime in Hideaway Woods at 11:30.",
+              "tips": [
+                "Head to Hideaway Woods around 11:20 so you find a good spot before the story begins.",
+                "The creek and treehouses hold this age for a long time — save plenty of time there.",
+                "Pack a snack for the drive home."
+              ],
+              "interests": [
+                "animals",
+                "nature",
+                "stories"
+              ],
+              "area": "durham",
+              "outdoor": true,
+              "source": {
+                "kind": "museum",
+                "title": "Museum of Life and Science",
+                "address": "433 W Murray Ave, Durham, NC 27704",
+                "url": "https://www.lifeandscience.org/visit/",
+                "amenities": [
+                  "nature",
+                  "animals",
+                  "train",
+                  "playground",
+                  "restroom"
+                ],
+                "indoor": false,
+                "area": "durham",
+                "lat": 36.0294,
+                "lon": -78.8993,
+                "cost": "$24 adults, $19 ages 3–15, under 3 free",
+                "note": "Tickets: $24 adults, $19 ages 3–15, under 3 free. Hideaway Woods treehouses and creek, farmyard, train ride and Dinosaur Trail are outside."
+              }
+            }
+          ],
+          "rainBackup": null,
+          "timeline": [
+            {
+              "start": "07:00",
+              "end": "07:30",
+              "kind": "meal",
+              "title": "Up and breakfast"
+            },
+            {
+              "start": "07:30",
+              "end": "09:10",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "09:10",
+              "end": "09:30",
+              "kind": "routine",
+              "title": "Get ready to go",
+              "detail": "Shoes on, diaper bag, water and a snack."
+            },
+            {
+              "start": "09:30",
+              "end": "09:50",
+              "kind": "travel",
+              "title": "Drive to Bynum Mill Access at Lower Haw River State Natural Area"
+            },
+            {
+              "start": "09:50",
+              "end": "11:30",
+              "kind": "outing",
+              "title": "Bynum Mill Access at Lower Haw River State Natural Area"
+            },
+            {
+              "start": "11:30",
+              "end": "11:50",
+              "kind": "travel",
+              "title": "Drive home"
+            },
+            {
+              "start": "11:50",
+              "end": "12:15",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "12:15",
+              "end": "12:45",
+              "kind": "meal",
+              "title": "Lunch"
+            },
+            {
+              "start": "12:45",
+              "end": "13:00",
+              "kind": "quiet",
+              "title": "Wind down",
+              "detail": "A couple of books to settle."
+            },
+            {
+              "start": "13:00",
+              "end": "14:30",
+              "kind": "nap",
+              "title": "Nap"
+            },
+            {
+              "start": "14:30",
+              "end": "14:50",
+              "kind": "routine",
+              "title": "Up and a snack"
+            },
+            {
+              "start": "14:50",
+              "end": "18:30",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "18:30",
+              "end": "19:15",
+              "kind": "meal",
+              "title": "Dinner"
+            },
+            {
+              "start": "19:15",
+              "end": "20:00",
+              "kind": "routine",
+              "title": "Bath, books and bed"
+            }
+          ]
+        },
+        {
+          "nap": "quiet",
+          "napLabel": "Quiet time, no sleep",
+          "headline": "Park run then two IMAX films at Marbles Kids Museum",
+          "main": {
+            "ref": "place:john-chavis-memorial-park",
+            "also": [
+              {
+                "ref": "event:museum:marbles:47858",
+                "source": {
+                  "kind": "event",
+                  "title": "Cities of the Future 3D",
+                  "start": "2026-11-11T10:15:00",
+                  "end": "2026-11-11T11:00:00",
+                  "venue": "Marbles Kids Museum",
+                  "address": "201 E Hargett St, Raleigh, NC 27601",
+                  "url": "https://marbleskidsmuseum.org/event/48777/",
+                  "cost": null,
+                  "ages": "IMAX film, 4 and up",
+                  "registration": null,
+                  "indoor": true,
+                  "area": "raleigh",
+                  "source": "museum",
+                  "dropIn": false,
+                  "lat": 35.7789,
+                  "lon": -78.6361
+                }
+              },
+              {
+                "ref": "event:museum:marbles:47860",
+                "source": {
+                  "kind": "event",
+                  "title": "Wild Rescue 3D",
+                  "start": "2026-11-11T11:15:00",
+                  "end": "2026-11-11T12:00:00",
+                  "venue": "Marbles Kids Museum",
+                  "address": "201 E Hargett St, Raleigh, NC 27601",
+                  "url": "https://marbleskidsmuseum.org/event/48778/",
+                  "cost": null,
+                  "ages": "IMAX film, 4 and up",
+                  "registration": null,
+                  "indoor": true,
+                  "area": "raleigh",
+                  "source": "museum",
+                  "dropIn": false,
+                  "lat": 35.7789,
+                  "lon": -78.6361
+                }
+              }
+            ],
+            "arrive": "09:35",
+            "leave": "12:00",
+            "why": "Burn off morning energy at John Chavis playground, then settle in for Cities of the Future 3D and Wild Rescue 3D back to back on the big IMAX screen.",
+            "tips": [
+              "A good run at the park first means your child will sit calmly through both films.",
+              "Pick up IMAX tickets when you arrive — show times are fixed.",
+              "Pack a small snack for the gap between the two films."
+            ],
+            "interests": [
+              "science",
+              "nature"
+            ],
+            "area": "raleigh",
+            "outdoor": false,
+            "source": {
+              "kind": "park",
+              "title": "John Chavis Memorial Park",
+              "address": "505 Martin Luther King Jr Blvd, Raleigh, NC 27601",
+              "url": "https://raleighnc.gov/parks-and-recreation/places/john-chavis-memorial-park",
+              "amenities": [
+                "community-center",
+                "playground",
+                "carousel",
+                "fields"
+              ],
+              "indoor": false,
+              "area": "raleigh",
+              "hours": null,
+              "lat": 35.7698,
+              "lon": -78.63021,
+              "cost": null
+            }
+          },
+          "alternatives": [
+            {
+              "ref": "event:wake-parks:9411:2026-11-11",
+              "arrive": "09:00",
+              "leave": "10:30",
+              "why": "Drop in to the National Bison Day Exploration Station at Yates Mill to discover why the American bison is the national mammal — hands-on and fully outside.",
+              "tips": [
+                "Registration is required — check ahead and book a spot.",
+                "It is a drop-in format so arrive any time between 09:00 and 10:10 and stay as long as you like.",
+                "Dress for outdoor walking; the park paths can be uneven."
+              ],
+              "interests": [
+                "animals",
+                "nature"
+              ],
+              "also": [],
+              "area": "raleigh",
+              "outdoor": true,
+              "source": {
+                "kind": "event",
+                "title": "Exploration Station: American Bison",
+                "start": "2026-11-11T08:30:00",
+                "end": "2026-11-11T17:00:00",
+                "venue": "Historic Yates Mill County Park",
+                "address": "4620 Lake Wheeler Rd., Raleigh, NC  27603",
+                "url": "https://apm.activecommunities.com/wakeparks/Activity_Search/exploration-station-american-bison/9411?locale=en-US",
+                "cost": null,
+                "ages": null,
+                "registration": "https://apm.activecommunities.com/wakeparks/Activity_Search/exploration-station-american-bison/9411?locale=en-US",
+                "indoor": false,
+                "area": "raleigh",
+                "source": "wake-parks",
+                "dropIn": false,
+                "lat": 35.72157134974476,
+                "lon": -78.68526087901417
+              }
+            },
+            {
+              "ref": "event:state-parks:54238862536720:54238862536721",
+              "arrive": "09:50",
+              "leave": "11:30",
+              "why": "Build a small boat from recycled materials and test it on the water — hands-on engineering with a splashy payoff.",
+              "tips": [
+                "Dress for outdoor play and possible mud near the river.",
+                "Bring a spare pair of socks in case feet get wet.",
+                "Start the drive home as soon as the boats have raced to keep energy high."
+              ],
+              "interests": [
+                "science",
+                "water",
+                "nature"
+              ],
+              "also": [],
+              "area": "chapel-hill",
+              "outdoor": true,
+              "source": {
+                "kind": "event",
+                "title": "Build a Toy Boat",
+                "start": "2026-11-11T10:00:00-05:00",
+                "end": "2026-11-11T11:30:00-05:00",
+                "venue": "Bynum Mill Access at Lower Haw River State Natural Area",
+                "address": "160 Bynum Church Road, Pittsboro, NC",
+                "url": "https://events.dncr.nc.gov/event/build-a-toy-boat",
+                "cost": "Free",
+                "ages": null,
+                "registration": false,
+                "indoor": false,
+                "area": "chapel-hill",
+                "source": "state-parks",
+                "dropIn": false,
+                "lat": 35.771669,
+                "lon": -79.142253
+              }
+            },
+            {
+              "ref": "place:museum-of-life-and-science",
+              "also": [
+                {
+                  "ref": "event:weekly:mols-storytime:2026-11-11",
+                  "source": {
+                    "kind": "event",
+                    "title": "Storytime in Hideaway Woods",
+                    "start": "2026-11-11T11:30:00",
+                    "end": "2026-11-11T12:00:00",
+                    "venue": "Hideaway Woods, Museum of Life and Science",
+                    "address": "433 W Murray Ave, Durham, NC 27704",
+                    "url": "https://www.lifeandscience.org/learn/drop-in-programs/",
+                    "cost": "Included with museum admission",
+                    "ages": null,
+                    "registration": false,
+                    "indoor": false,
+                    "area": "durham",
+                    "source": "weekly",
+                    "dropIn": true,
+                    "lat": 36.0294,
+                    "lon": -78.8993
+                  }
+                }
+              ],
+              "arrive": "10:00",
+              "leave": "12:00",
+              "why": "Spend the morning at the Museum of Life and Science exploring the farmyard and creek, then catch the outdoor storytime in Hideaway Woods at 11:30.",
+              "tips": [
+                "Head toward Hideaway Woods around 11:20 to find a spot before the story begins.",
+                "The creek play area and treehouses hold this age for a long time — plan to linger.",
+                "Leave by 12:00 and you will be home well before quiet time."
+              ],
+              "interests": [
+                "animals",
+                "nature",
+                "stories"
+              ],
+              "area": "durham",
+              "outdoor": true,
+              "source": {
+                "kind": "museum",
+                "title": "Museum of Life and Science",
+                "address": "433 W Murray Ave, Durham, NC 27704",
+                "url": "https://www.lifeandscience.org/visit/",
+                "amenities": [
+                  "nature",
+                  "animals",
+                  "train",
+                  "playground",
+                  "restroom"
+                ],
+                "indoor": false,
+                "area": "durham",
+                "lat": 36.0294,
+                "lon": -78.8993,
+                "cost": "$24 adults, $19 ages 3–15, under 3 free",
+                "note": "Tickets: $24 adults, $19 ages 3–15, under 3 free. Hideaway Woods treehouses and creek, farmyard, train ride and Dinosaur Trail are outside."
+              }
+            },
+            {
+              "ref": "event:wake-parks:8358:2026-11-11",
+              "arrive": "09:00",
+              "leave": "10:30",
+              "why": "Read a story one panel at a time while walking the accessible trail loop at Beech Bluff County Park.",
+              "tips": [
+                "A pushchair fits the accessible loop with no trouble.",
+                "Go at your own pace — there is no set time to keep.",
+                "Bring a snack for the picnic tables at the park centre after the walk."
+              ],
+              "interests": [
+                "stories",
+                "nature"
+              ],
+              "also": [],
+              "area": "south-wake",
+              "outdoor": true,
+              "source": {
+                "kind": "event",
+                "title": "Beech Bluff County Park StoryWalk® 2026 (Self-Led)",
+                "start": "2026-11-11T08:00:00",
+                "end": "2026-11-11T17:30:00",
+                "venue": "Beech Bluff County Park",
+                "address": "Beech Bluff Park Drive, Fuquay-Varina, NC",
+                "url": "https://apm.activecommunities.com/wakeparks/Activity_Search/beech-bluff-county-park-storywalk-2026-self-led/8358?locale=en-US",
+                "cost": "Free",
+                "ages": null,
+                "registration": false,
+                "indoor": false,
+                "area": "south-wake",
+                "source": "wake-parks",
+                "dropIn": true,
+                "lat": 35.58537279715877,
+                "lon": -78.6793341971644
+              }
+            }
+          ],
+          "rainBackup": null,
+          "timeline": [
+            {
+              "start": "07:00",
+              "end": "07:30",
+              "kind": "meal",
+              "title": "Up and breakfast"
+            },
+            {
+              "start": "07:30",
+              "end": "08:55",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "08:55",
+              "end": "09:15",
+              "kind": "routine",
+              "title": "Get ready to go",
+              "detail": "Shoes on, diaper bag, water and a snack."
+            },
+            {
+              "start": "09:15",
+              "end": "09:35",
+              "kind": "travel",
+              "title": "Drive to John Chavis Memorial Park"
+            },
+            {
+              "start": "09:35",
+              "end": "10:05",
+              "kind": "outing",
+              "title": "John Chavis Memorial Park"
+            },
+            {
+              "start": "10:05",
+              "end": "10:15",
+              "kind": "travel",
+              "title": "Drive to Marbles Kids Museum"
+            },
+            {
+              "start": "10:15",
+              "end": "11:00",
+              "kind": "outing",
+              "title": "Cities of the Future 3D"
+            },
+            {
+              "start": "11:00",
+              "end": "11:10",
+              "kind": "travel",
+              "title": "Drive to Marbles Kids Museum"
+            },
+            {
+              "start": "11:10",
+              "end": "12:00",
+              "kind": "outing",
+              "title": "Wild Rescue 3D"
+            },
+            {
+              "start": "12:00",
+              "end": "12:20",
+              "kind": "travel",
+              "title": "Drive home"
+            },
+            {
+              "start": "12:20",
+              "end": "12:50",
+              "kind": "meal",
+              "title": "Lunch"
+            },
+            {
+              "start": "12:50",
+              "end": "13:00",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "13:00",
+              "end": "13:45",
+              "kind": "quiet",
+              "title": "Quiet time",
+              "detail": "Books or quiet play in their room."
+            },
+            {
+              "start": "13:45",
+              "end": "18:00",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "18:00",
+              "end": "18:45",
+              "kind": "meal",
+              "title": "Dinner"
+            },
+            {
+              "start": "18:45",
+              "end": "19:30",
+              "kind": "routine",
+              "title": "Bath, books and bed"
+            }
+          ]
+        },
+        {
+          "nap": "no-nap",
+          "napLabel": "No nap",
+          "headline": "Guided naturalist hike around Yates Mill Pond",
+          "main": {
+            "ref": "event:wake-parks:9428",
+            "arrive": "09:50",
+            "leave": "11:30",
+            "why": "A park naturalist leads your child on a mile-long guided walk around the mill pond, finding the plants and animals that live at Yates Mill.",
+            "tips": [
+              "Registration is required — book a spot before the day.",
+              "Wear closed-toe shoes and bring water; the trail is on natural surfaces.",
+              "Give your child a simple mission like spotting three different birds to keep them engaged the whole way."
+            ],
+            "interests": [
+              "nature",
+              "animals"
+            ],
+            "also": [],
+            "area": "raleigh",
+            "outdoor": true,
+            "source": {
+              "kind": "event",
+              "title": "Hike with a Naturalist",
+              "start": "2026-11-11T10:00:00",
+              "end": "2026-11-11T11:30:00",
+              "venue": "Historic Yates Mill County Park",
+              "address": "4620 Lake Wheeler Rd., Raleigh, NC  27603",
+              "url": "https://apm.activecommunities.com/wakeparks/Activity_Search/hike-with-a-naturalist/9428?locale=en-US",
+              "cost": "Free",
+              "ages": null,
+              "registration": "https://apm.activecommunities.com/wakeparks/Activity_Search/hike-with-a-naturalist/9428?locale=en-US",
+              "indoor": false,
+              "area": "raleigh",
+              "source": "wake-parks",
+              "dropIn": false,
+              "lat": 35.72157134974476,
+              "lon": -78.68526087901417
+            }
+          },
+          "alternatives": [
+            {
+              "ref": "place:fred-fletcher-park",
+              "also": [
+                {
+                  "ref": "event:museum:nc-natural-sciences:123920",
+                  "source": {
+                    "kind": "event",
+                    "title": "Live Animal Feeding – Ocean Habitat",
+                    "start": "2026-11-11T10:45:00",
+                    "end": "2026-11-11T11:00:00",
+                    "venue": "NC Museum of Natural Sciences",
+                    "address": "11 West Jones Street, Raleigh, NC, 27601",
+                    "url": "https://www.naturalsciences.org/calendar/event/live-animal-feeding-ocean-habitat-5/2026-11-11/",
+                    "cost": null,
+                    "ages": "Adults All Ages Children Live Animals Teens Walk-up Programs",
+                    "registration": false,
+                    "indoor": true,
+                    "area": "raleigh",
+                    "source": "museum",
+                    "dropIn": false,
+                    "lat": 35.7822735,
+                    "lon": -78.6395502
+                  }
+                },
+                {
+                  "ref": "event:museum:nc-natural-sciences:123002",
+                  "source": {
+                    "kind": "event",
+                    "title": "Incredible Science",
+                    "start": "2026-11-11T13:30:00",
+                    "end": "2026-11-11T14:00:00",
+                    "venue": "NC Museum of Natural Sciences",
+                    "address": "11 West Jones Street, Raleigh, NC, 27601",
+                    "url": "https://www.naturalsciences.org/calendar/event/incredible-science-5/2026-11-11/",
+                    "cost": null,
+                    "ages": "ages 7 and up",
+                    "registration": false,
+                    "indoor": true,
+                    "area": "raleigh",
+                    "source": "museum",
+                    "dropIn": false,
+                    "lat": 35.7822735,
+                    "lon": -78.6395502
+                  }
+                }
+              ],
+              "arrive": "10:05",
+              "leave": "14:00",
+              "why": "Start with a run at Fred Fletcher Park, head to the NC Museum of Natural Sciences for the ocean animal feeding at 10:45, explore the museum, then catch the Incredible Science show at 13:30.",
+              "tips": [
+                "Play at the park for 20 minutes, then allow 10 minutes to reach the museum for a 10:35 arrival.",
+                "The gap between 11:00 and 13:30 is plenty of time to explore the museum floors at your child's pace.",
+                "Bring lunch or a substantial snack to eat at the museum before the afternoon show."
+              ],
+              "interests": [
+                "animals",
+                "science",
+                "nature"
+              ],
+              "area": "raleigh",
+              "outdoor": false,
+              "source": {
+                "kind": "park",
+                "title": "Fred Fletcher Park",
+                "address": "820 Clay Street, Raleigh, NC 27605",
+                "url": "https://raleighnc.gov/parks-and-recreation/places/fred-fletcher-park",
+                "amenities": [
+                  "garden",
+                  "picnic-shelter",
+                  "courts",
+                  "fields",
+                  "playground"
+                ],
+                "indoor": false,
+                "area": "raleigh",
+                "hours": null,
+                "lat": 35.79264,
+                "lon": -78.64957,
+                "cost": null
+              }
+            },
+            {
+              "ref": "event:state-parks:54238862536720:54238862536721",
+              "arrive": "09:50",
+              "leave": "11:30",
+              "why": "Build a small boat from recycled materials and test it on the river — a hands-on morning of science and water play.",
+              "tips": [
+                "Dress for outdoor play and possible mud near the water.",
+                "Bring a spare pair of socks in case feet get wet.",
+                "Leave while excitement is still high so the drive home feels fun."
+              ],
+              "interests": [
+                "science",
+                "water",
+                "nature"
+              ],
+              "also": [],
+              "area": "chapel-hill",
+              "outdoor": true,
+              "source": {
+                "kind": "event",
+                "title": "Build a Toy Boat",
+                "start": "2026-11-11T10:00:00-05:00",
+                "end": "2026-11-11T11:30:00-05:00",
+                "venue": "Bynum Mill Access at Lower Haw River State Natural Area",
+                "address": "160 Bynum Church Road, Pittsboro, NC",
+                "url": "https://events.dncr.nc.gov/event/build-a-toy-boat",
+                "cost": "Free",
+                "ages": null,
+                "registration": false,
+                "indoor": false,
+                "area": "chapel-hill",
+                "source": "state-parks",
+                "dropIn": false,
+                "lat": 35.771669,
+                "lon": -79.142253
+              }
+            },
+            {
+              "ref": "place:museum-of-life-and-science",
+              "also": [
+                {
+                  "ref": "event:weekly:mols-storytime:2026-11-11",
+                  "source": {
+                    "kind": "event",
+                    "title": "Storytime in Hideaway Woods",
+                    "start": "2026-11-11T11:30:00",
+                    "end": "2026-11-11T12:00:00",
+                    "venue": "Hideaway Woods, Museum of Life and Science",
+                    "address": "433 W Murray Ave, Durham, NC 27704",
+                    "url": "https://www.lifeandscience.org/learn/drop-in-programs/",
+                    "cost": "Included with museum admission",
+                    "ages": null,
+                    "registration": false,
+                    "indoor": false,
+                    "area": "durham",
+                    "source": "weekly",
+                    "dropIn": true,
+                    "lat": 36.0294,
+                    "lon": -78.8993
+                  }
+                }
+              ],
+              "arrive": "10:00",
+              "leave": "12:00",
+              "why": "A full morning at the Museum of Life and Science — farmyard, dinosaur trail, creek and treehouses — ending with the outdoor storytime in Hideaway Woods.",
+              "tips": [
+                "Arrive when the museum opens at 10:00 for quieter paths.",
+                "Head to Hideaway Woods around 11:20 to settle in before the story starts.",
+                "Pack a snack for after the storytime."
+              ],
+              "interests": [
+                "animals",
+                "nature",
+                "stories"
+              ],
+              "area": "durham",
+              "outdoor": true,
+              "source": {
+                "kind": "museum",
+                "title": "Museum of Life and Science",
+                "address": "433 W Murray Ave, Durham, NC 27704",
+                "url": "https://www.lifeandscience.org/visit/",
+                "amenities": [
+                  "nature",
+                  "animals",
+                  "train",
+                  "playground",
+                  "restroom"
+                ],
+                "indoor": false,
+                "area": "durham",
+                "lat": 36.0294,
+                "lon": -78.8993,
+                "cost": "$24 adults, $19 ages 3–15, under 3 free",
+                "note": "Tickets: $24 adults, $19 ages 3–15, under 3 free. Hideaway Woods treehouses and creek, farmyard, train ride and Dinosaur Trail are outside."
+              }
+            },
+            {
+              "ref": "place:john-chavis-memorial-park",
+              "also": [
+                {
+                  "ref": "event:museum:marbles:47858",
+                  "source": {
+                    "kind": "event",
+                    "title": "Cities of the Future 3D",
+                    "start": "2026-11-11T10:15:00",
+                    "end": "2026-11-11T11:00:00",
+                    "venue": "Marbles Kids Museum",
+                    "address": "201 E Hargett St, Raleigh, NC 27601",
+                    "url": "https://marbleskidsmuseum.org/event/48777/",
+                    "cost": null,
+                    "ages": "IMAX film, 4 and up",
+                    "registration": null,
+                    "indoor": true,
+                    "area": "raleigh",
+                    "source": "museum",
+                    "dropIn": false,
+                    "lat": 35.7789,
+                    "lon": -78.6361
+                  }
+                },
+                {
+                  "ref": "event:museum:marbles:47860",
+                  "source": {
+                    "kind": "event",
+                    "title": "Wild Rescue 3D",
+                    "start": "2026-11-11T11:15:00",
+                    "end": "2026-11-11T12:00:00",
+                    "venue": "Marbles Kids Museum",
+                    "address": "201 E Hargett St, Raleigh, NC 27601",
+                    "url": "https://marbleskidsmuseum.org/event/48778/",
+                    "cost": null,
+                    "ages": "IMAX film, 4 and up",
+                    "registration": null,
+                    "indoor": true,
+                    "area": "raleigh",
+                    "source": "museum",
+                    "dropIn": false,
+                    "lat": 35.7789,
+                    "lon": -78.6361
+                  }
+                },
+                {
+                  "ref": "event:museum:marbles:47582",
+                  "source": {
+                    "kind": "event",
+                    "title": "Backyard Wilderness 3D",
+                    "start": "2026-11-11T13:15:00",
+                    "end": "2026-11-11T14:00:00",
+                    "venue": "Marbles Kids Museum",
+                    "address": "201 E Hargett St, Raleigh, NC 27601",
+                    "url": "https://marbleskidsmuseum.org/event/48620/",
+                    "cost": null,
+                    "ages": "IMAX film, 4 and up",
+                    "registration": null,
+                    "indoor": true,
+                    "area": "raleigh",
+                    "source": "museum",
+                    "dropIn": false,
+                    "lat": 35.7789,
+                    "lon": -78.6361
+                  }
+                }
+              ],
+              "arrive": "09:35",
+              "leave": "14:00",
+              "why": "Start with a run at John Chavis playground, then catch three IMAX films — Cities of the Future, Wild Rescue, and Backyard Wilderness — across the morning and early afternoon.",
+              "tips": [
+                "Pick up all IMAX tickets when you arrive so you are not rushing between shows.",
+                "The gap between Wild Rescue (ends 12:00) and Backyard Wilderness (starts 13:15) is a good time for a snack or light lunch nearby.",
+                "A playground run first helps your child sit through the longer film session."
+              ],
+              "interests": [
+                "science",
+                "nature"
+              ],
+              "area": "raleigh",
+              "outdoor": false,
+              "source": {
+                "kind": "park",
+                "title": "John Chavis Memorial Park",
+                "address": "505 Martin Luther King Jr Blvd, Raleigh, NC 27601",
+                "url": "https://raleighnc.gov/parks-and-recreation/places/john-chavis-memorial-park",
+                "amenities": [
+                  "community-center",
+                  "playground",
+                  "carousel",
+                  "fields"
+                ],
+                "indoor": false,
+                "area": "raleigh",
+                "hours": null,
+                "lat": 35.7698,
+                "lon": -78.63021,
+                "cost": null
+              }
+            }
+          ],
+          "rainBackup": null,
+          "timeline": [
+            {
+              "start": "07:00",
+              "end": "07:30",
+              "kind": "meal",
+              "title": "Up and breakfast"
+            },
+            {
+              "start": "07:30",
+              "end": "09:10",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "09:10",
+              "end": "09:30",
+              "kind": "routine",
+              "title": "Get ready to go",
+              "detail": "Shoes on, diaper bag, water and a snack."
+            },
+            {
+              "start": "09:30",
+              "end": "09:50",
+              "kind": "travel",
+              "title": "Drive to Historic Yates Mill County Park"
+            },
+            {
+              "start": "09:50",
+              "end": "11:30",
+              "kind": "outing",
+              "title": "Historic Yates Mill County Park"
+            },
+            {
+              "start": "11:30",
+              "end": "11:50",
+              "kind": "travel",
+              "title": "Drive home"
+            },
+            {
+              "start": "11:50",
+              "end": "12:20",
+              "kind": "meal",
+              "title": "Lunch"
+            },
+            {
+              "start": "12:20",
+              "end": "18:00",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "18:00",
+              "end": "18:45",
+              "kind": "meal",
+              "title": "Dinner"
+            },
+            {
+              "start": "18:45",
+              "end": "19:30",
+              "kind": "routine",
+              "title": "Bath, books and bed"
+            }
+          ]
+        }
+      ],
+      "retried": [
+        "[no-nap] main event:wake-parks:9428: starts 10:00, but event:wake-parks:9411:2026-11-11 ends 17:00"
+      ]
+    }
+  ],
+  "checked": {
+    "at": "2026-11-01T11:15:29.120Z",
+    "forecast": "none",
+    "weather": null,
+    "hidden": []
+  }
+}

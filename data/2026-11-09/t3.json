@@ -1,0 +1,934 @@
+{
+  "date": "2026-11-09",
+  "band": "t3",
+  "versions": [
+    {
+      "at": "2026-10-27T08:34:28.551Z",
+      "reason": null,
+      "forecast": "none",
+      "weather": null,
+      "plans": [
+        {
+          "nap": "nap",
+          "napLabel": "Nap, 1 to 2:30",
+          "headline": "Total Tot Time at Walltown Park Rec Ctr and Walltown Park",
+          "main": {
+            "ref": "event:durham-rec:19841:2026-11-09",
+            "arrive": "09:50",
+            "leave": "12:30",
+            "also": [
+              {
+                "ref": "place:walltown-park",
+                "source": {
+                  "kind": "park",
+                  "title": "Walltown Park",
+                  "address": "1308 W Club Blvd, Durham, NC",
+                  "url": "https://www.dprplaymore.org/Facilities/Facility/Details/Walltown-Park-74",
+                  "amenities": [
+                    "playground",
+                    "picnic-shelter"
+                  ],
+                  "indoor": false,
+                  "area": "durham",
+                  "hours": null,
+                  "lat": 36.018264,
+                  "lon": -78.91403399999999,
+                  "cost": null
+                }
+              }
+            ],
+            "why": "Total Tot Time fills a gym with parachutes, tunnels, and soft play equipment for children under 4; Walltown Park is right outside for fresh air and a run before heading home for the nap.",
+            "tips": [
+              "Registration is required; sign up before heading out.",
+              "Bring a change of clothes — gym play gets warm and the park may be muddy.",
+              "The park visit after the gym is weather-permitting; head straight home if rain is falling."
+            ],
+            "interests": [
+              "movement",
+              "music"
+            ],
+            "area": "durham",
+            "outdoor": false,
+            "source": {
+              "kind": "event",
+              "title": "Total Tot Time",
+              "start": "2026-11-09T10:00:00",
+              "end": "2026-11-09T12:00:00",
+              "venue": "Walltown Park Rec Ctr",
+              "address": "1308 W Club Blvd, Durham, NC",
+              "url": "https://apm.activecommunities.com/dprplaymore/Activity_Search/total-tot-time/19841?locale=en-US",
+              "cost": null,
+              "ages": "0 - 4",
+              "registration": "https://apm.activecommunities.com/dprplaymore/Activity_Search/total-tot-time/19841?locale=en-US",
+              "indoor": true,
+              "area": "durham",
+              "source": "durham-rec",
+              "dropIn": false,
+              "lat": 36.018264,
+              "lon": -78.91403399999999
+            }
+          },
+          "alternatives": [
+            {
+              "ref": "place:lake-crabtree-county-park",
+              "arrive": "09:00",
+              "leave": "12:00",
+              "why": "Lake Crabtree County Park has a lakeside greenway, a playground, and nature trails — a calm, beautiful Monday morning outdoors before the nap.",
+              "tips": [
+                "The trail near the lake is easy for a 3.5-year-old on foot.",
+                "Bring a snack and water for the walk."
+              ],
+              "interests": [
+                "nature",
+                "water"
+              ],
+              "also": [],
+              "area": "north-raleigh",
+              "outdoor": true,
+              "source": {
+                "kind": "park",
+                "title": "Lake Crabtree County Park",
+                "address": "1400 Aviation Pkwy., Morrisville, NC  27560",
+                "url": "https://www.wakegov.com/departments-government/parks-recreation-and-open-space/all-parks-trails/lake-crabtree-county-park",
+                "amenities": [
+                  "playground",
+                  "picnic-shelter",
+                  "restroom",
+                  "greenway",
+                  "nature",
+                  "garden",
+                  "boating"
+                ],
+                "indoor": false,
+                "area": "north-raleigh",
+                "hours": null,
+                "lat": 35.845600151785014,
+                "lon": -78.80104927513673,
+                "cost": null
+              }
+            },
+            {
+              "ref": "event:wake-parks:8358:2026-11-09",
+              "arrive": "07:50",
+              "leave": "10:30",
+              "why": "Picture-book panels spaced along Beech Bluff's accessible Educational Loop turn the walk itself into a story your child reads one panel at a time.",
+              "tips": [
+                "Arrive early for the quietest experience on a Monday morning.",
+                "The loop is ADA-accessible and stroller-friendly."
+              ],
+              "interests": [
+                "stories",
+                "nature"
+              ],
+              "also": [],
+              "area": "south-wake",
+              "outdoor": true,
+              "source": {
+                "kind": "event",
+                "title": "Beech Bluff County Park StoryWalk® 2026 (Self-Led)",
+                "start": "2026-11-09T08:00:00",
+                "end": "2026-11-09T17:30:00",
+                "venue": "Beech Bluff County Park",
+                "address": "Beech Bluff Park Drive, Fuquay-Varina, NC",
+                "url": "https://apm.activecommunities.com/wakeparks/Activity_Search/beech-bluff-county-park-storywalk-2026-self-led/8358?locale=en-US",
+                "cost": "Free",
+                "ages": null,
+                "registration": false,
+                "indoor": false,
+                "area": "south-wake",
+                "source": "wake-parks",
+                "dropIn": true,
+                "lat": 35.58537279715877,
+                "lon": -78.6793341971644
+              }
+            },
+            {
+              "ref": "event:wake-parks:9411:2026-11-09",
+              "arrive": "08:20",
+              "leave": "12:30",
+              "why": "A drop-in station at Yates Mill lets children learn about American bison with naturalist staff on hand, with the scenic mill pond as a backdrop.",
+              "tips": [
+                "Registration is required; book your spot before heading out.",
+                "Dress for a walk on natural surfaces and bring water."
+              ],
+              "interests": [
+                "animals",
+                "science",
+                "nature"
+              ],
+              "also": [],
+              "area": "raleigh",
+              "outdoor": true,
+              "source": {
+                "kind": "event",
+                "title": "Exploration Station: American Bison",
+                "start": "2026-11-09T08:30:00",
+                "end": "2026-11-09T17:00:00",
+                "venue": "Historic Yates Mill County Park",
+                "address": "4620 Lake Wheeler Rd., Raleigh, NC  27603",
+                "url": "https://apm.activecommunities.com/wakeparks/Activity_Search/exploration-station-american-bison/9411?locale=en-US",
+                "cost": null,
+                "ages": null,
+                "registration": "https://apm.activecommunities.com/wakeparks/Activity_Search/exploration-station-american-bison/9411?locale=en-US",
+                "indoor": false,
+                "area": "raleigh",
+                "source": "wake-parks",
+                "dropIn": false,
+                "lat": 35.72157134974476,
+                "lon": -78.68526087901417
+              }
+            },
+            {
+              "ref": "event:libcal:durham-county-library:16966212",
+              "arrive": "10:20",
+              "leave": "12:20",
+              "also": [
+                {
+                  "ref": "place:honeycutt-park",
+                  "source": {
+                    "kind": "park",
+                    "title": "Honeycutt Park",
+                    "address": "1032 Clear Creek Farm Road, Raleigh, NC 27615",
+                    "url": "https://raleighnc.gov/parks-and-recreation/places/honeycutt-park",
+                    "amenities": [
+                      "picnic-shelter",
+                      "courts",
+                      "fields",
+                      "playground"
+                    ],
+                    "indoor": false,
+                    "area": "north-raleigh",
+                    "hours": null,
+                    "lat": 35.9023,
+                    "lon": -78.6259,
+                    "cost": null
+                  }
+                }
+              ],
+              "why": "The Mini Makers Workshop at North Regional Library is a hands-on Monday craft session for young children; Honeycutt Park is a short drive for outdoor play after.",
+              "tips": [
+                "Registration is required; secure your spot in advance.",
+                "The park visit after the workshop is weather-permitting; bring a snack for the playground."
+              ],
+              "interests": [
+                "art",
+                "science"
+              ],
+              "area": "durham",
+              "outdoor": false,
+              "source": {
+                "kind": "event",
+                "title": "Mini Makers Workshop",
+                "start": "2026-11-09T10:30:00",
+                "end": "2026-11-09T11:00:00",
+                "venue": "North Regional Library",
+                "address": "221 Milton Rd, Durham, NC",
+                "url": "https://durhamcountylibrary.libcal.com/event/16966212",
+                "cost": null,
+                "ages": "Elementary School, Kindergarten, Toddler, DPS",
+                "registration": "https://durhamcountylibrary.libcal.com/event/16966212",
+                "indoor": true,
+                "area": "durham",
+                "source": "libcal",
+                "dropIn": false,
+                "lat": 35.880907380619,
+                "lon": -78.6281516610688
+              }
+            }
+          ],
+          "rainBackup": null,
+          "timeline": [
+            {
+              "start": "07:00",
+              "end": "07:30",
+              "kind": "meal",
+              "title": "Up and breakfast"
+            },
+            {
+              "start": "07:30",
+              "end": "09:10",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "09:10",
+              "end": "09:30",
+              "kind": "routine",
+              "title": "Get ready to go",
+              "detail": "Shoes on, diaper bag, water and a snack."
+            },
+            {
+              "start": "09:30",
+              "end": "09:50",
+              "kind": "travel",
+              "title": "Drive to Walltown Park Rec Ctr"
+            },
+            {
+              "start": "09:50",
+              "end": "12:00",
+              "kind": "outing",
+              "title": "Total Tot Time",
+              "detail": "Pack a lunch to eat there."
+            },
+            {
+              "start": "12:00",
+              "end": "12:10",
+              "kind": "travel",
+              "title": "Drive to Walltown Park"
+            },
+            {
+              "start": "12:10",
+              "end": "12:30",
+              "kind": "outing",
+              "title": "Walltown Park"
+            },
+            {
+              "start": "12:30",
+              "end": "12:50",
+              "kind": "travel",
+              "title": "Drive home"
+            },
+            {
+              "start": "12:50",
+              "end": "13:00",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "13:00",
+              "end": "14:30",
+              "kind": "nap",
+              "title": "Nap"
+            },
+            {
+              "start": "14:30",
+              "end": "14:50",
+              "kind": "routine",
+              "title": "Up and a snack"
+            },
+            {
+              "start": "14:50",
+              "end": "18:30",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "18:30",
+              "end": "19:15",
+              "kind": "meal",
+              "title": "Dinner"
+            },
+            {
+              "start": "19:15",
+              "end": "20:00",
+              "kind": "routine",
+              "title": "Bath, books and bed"
+            }
+          ]
+        },
+        {
+          "nap": "quiet",
+          "napLabel": "Quiet time, no sleep",
+          "headline": "Morning walk at Crowder County Park",
+          "main": {
+            "ref": "place:crowder-county-park",
+            "arrive": "09:00",
+            "leave": "11:30",
+            "why": "Crowder County Park has a garden, a greenway loop, and a playground tucked together — a gentle, varied Monday morning in the Cary-Apex area that gets the family home well before quiet time.",
+            "tips": [
+              "The greenway loop is stroller-friendly and easy for a 3.5-year-old on foot.",
+              "Bring a snack for the playground after the walk.",
+              "Leave by 11:30 so there is time for a relaxed lunch before quiet time."
+            ],
+            "interests": [
+              "nature",
+              "science"
+            ],
+            "also": [],
+            "area": "cary-apex",
+            "outdoor": true,
+            "source": {
+              "kind": "park",
+              "title": "Crowder County Park",
+              "address": "4709 Ten Ten Road",
+              "url": "https://www.wakegov.com/departments-government/parks-recreation-and-open-space/all-parks-trails/crowder-county-park",
+              "amenities": [
+                "playground",
+                "picnic-shelter",
+                "restroom",
+                "greenway",
+                "garden"
+              ],
+              "indoor": false,
+              "area": "cary-apex",
+              "hours": null,
+              "lat": 35.69174392711247,
+              "lon": -78.76585678897689,
+              "cost": null
+            }
+          },
+          "alternatives": [
+            {
+              "ref": "place:blue-jay-point-county-park",
+              "arrive": "09:00",
+              "leave": "11:30",
+              "why": "Blue Jay Point's woodland trails and open meadows are a quiet, unhurried Monday morning in north Raleigh — easy for little legs with no schedule pressure.",
+              "tips": [
+                "Dress in layers for a November morning walk.",
+                "Bring water and a snack for the trail."
+              ],
+              "interests": [
+                "nature",
+                "movement"
+              ],
+              "also": [],
+              "area": "north-raleigh",
+              "outdoor": true,
+              "source": {
+                "kind": "park",
+                "title": "Blue Jay Point County Park",
+                "address": "3200 Pleasant Union Church Road, Raleigh, NC 27614",
+                "url": "https://www.wakegov.com/departments-government/parks-recreation-and-open-space/all-parks-trails/blue-jay-point-county-park",
+                "amenities": [
+                  "playground",
+                  "picnic-shelter",
+                  "restroom",
+                  "greenway",
+                  "nature"
+                ],
+                "indoor": false,
+                "area": "north-raleigh",
+                "hours": null,
+                "lat": 35.96762827199893,
+                "lon": -78.64454785104198,
+                "cost": null
+              }
+            },
+            {
+              "ref": "event:durham-rec:19841:2026-11-09",
+              "arrive": "09:50",
+              "leave": "12:30",
+              "also": [
+                {
+                  "ref": "place:walltown-park",
+                  "source": {
+                    "kind": "park",
+                    "title": "Walltown Park",
+                    "address": "1308 W Club Blvd, Durham, NC",
+                    "url": "https://www.dprplaymore.org/Facilities/Facility/Details/Walltown-Park-74",
+                    "amenities": [
+                      "playground",
+                      "picnic-shelter"
+                    ],
+                    "indoor": false,
+                    "area": "durham",
+                    "hours": null,
+                    "lat": 36.018264,
+                    "lon": -78.91403399999999,
+                    "cost": null
+                  }
+                }
+              ],
+              "why": "Parachute play, tunnels, and soft gym equipment for children under 4, with Walltown Park right outside for a quick outdoor stretch before lunch.",
+              "tips": [
+                "Registration is required; sign up in advance.",
+                "The park visit after the gym is weather-permitting."
+              ],
+              "interests": [
+                "movement",
+                "music"
+              ],
+              "area": "durham",
+              "outdoor": false,
+              "source": {
+                "kind": "event",
+                "title": "Total Tot Time",
+                "start": "2026-11-09T10:00:00",
+                "end": "2026-11-09T12:00:00",
+                "venue": "Walltown Park Rec Ctr",
+                "address": "1308 W Club Blvd, Durham, NC",
+                "url": "https://apm.activecommunities.com/dprplaymore/Activity_Search/total-tot-time/19841?locale=en-US",
+                "cost": null,
+                "ages": "0 - 4",
+                "registration": "https://apm.activecommunities.com/dprplaymore/Activity_Search/total-tot-time/19841?locale=en-US",
+                "indoor": true,
+                "area": "durham",
+                "source": "durham-rec",
+                "dropIn": false,
+                "lat": 36.018264,
+                "lon": -78.91403399999999
+              }
+            },
+            {
+              "ref": "event:libcal:durham-county-library:17592395",
+              "arrive": "09:50",
+              "leave": "12:00",
+              "also": [
+                {
+                  "ref": "place:durham-central-park",
+                  "source": {
+                    "kind": "park",
+                    "title": "Durham Central Park",
+                    "address": "501 Foster St, Durham, NC",
+                    "url": "https://www.dprplaymore.org/Facilities/Facility/Details/Durham-Central-Park-18",
+                    "amenities": [
+                      "playground",
+                      "restroom",
+                      "greenway"
+                    ],
+                    "indoor": false,
+                    "area": "durham",
+                    "hours": null,
+                    "lat": 36.0006525,
+                    "lon": -78.90071999999999,
+                    "cost": null
+                  }
+                }
+              ],
+              "why": "Storytime at the Hub Farm is held at a 30-acre outdoor learning center in Durham — a more special setting than a typical library morning. Durham Central Park is nearby for play after the program ends.",
+              "tips": [
+                "Registration is required; book your spot before heading out.",
+                "The park visit after the storytime is weather-permitting; it rounds the morning out nicely on a clear day."
+              ],
+              "interests": [
+                "stories",
+                "nature"
+              ],
+              "area": "durham",
+              "outdoor": false,
+              "source": {
+                "kind": "event",
+                "title": "Storytime @ the Hub Farm",
+                "start": "2026-11-09T10:00:00",
+                "end": "2026-11-09T10:30:00",
+                "venue": "Durham County Library",
+                "address": "501 Foster St, Durham, NC",
+                "url": "https://durhamcountylibrary.libcal.com/event/17592395",
+                "cost": null,
+                "ages": "Pre-School, Toddler",
+                "registration": "https://durhamcountylibrary.libcal.com/event/17592395",
+                "indoor": true,
+                "area": "durham",
+                "source": "libcal",
+                "dropIn": false,
+                "lat": 36.0006525,
+                "lon": -78.90071999999999
+              }
+            },
+            {
+              "ref": "event:wake-parks:8358:2026-11-09",
+              "arrive": "07:50",
+              "leave": "10:30",
+              "why": "A picture-book story told in panels along an accessible loop at Beech Bluff — calm, free, and easy on a Monday morning before quiet time.",
+              "tips": [
+                "The loop is ADA-accessible and stroller-friendly.",
+                "Go early for the quietest experience."
+              ],
+              "interests": [
+                "stories",
+                "nature"
+              ],
+              "also": [],
+              "area": "south-wake",
+              "outdoor": true,
+              "source": {
+                "kind": "event",
+                "title": "Beech Bluff County Park StoryWalk® 2026 (Self-Led)",
+                "start": "2026-11-09T08:00:00",
+                "end": "2026-11-09T17:30:00",
+                "venue": "Beech Bluff County Park",
+                "address": "Beech Bluff Park Drive, Fuquay-Varina, NC",
+                "url": "https://apm.activecommunities.com/wakeparks/Activity_Search/beech-bluff-county-park-storywalk-2026-self-led/8358?locale=en-US",
+                "cost": "Free",
+                "ages": null,
+                "registration": false,
+                "indoor": false,
+                "area": "south-wake",
+                "source": "wake-parks",
+                "dropIn": true,
+                "lat": 35.58537279715877,
+                "lon": -78.6793341971644
+              }
+            }
+          ],
+          "rainBackup": null,
+          "timeline": [
+            {
+              "start": "07:00",
+              "end": "07:30",
+              "kind": "meal",
+              "title": "Up and breakfast"
+            },
+            {
+              "start": "07:30",
+              "end": "08:20",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "08:20",
+              "end": "08:40",
+              "kind": "routine",
+              "title": "Get ready to go",
+              "detail": "Shoes on, diaper bag, water and a snack."
+            },
+            {
+              "start": "08:40",
+              "end": "09:00",
+              "kind": "travel",
+              "title": "Drive to Crowder County Park"
+            },
+            {
+              "start": "09:00",
+              "end": "11:30",
+              "kind": "outing",
+              "title": "Crowder County Park"
+            },
+            {
+              "start": "11:30",
+              "end": "11:50",
+              "kind": "travel",
+              "title": "Drive home"
+            },
+            {
+              "start": "11:50",
+              "end": "12:20",
+              "kind": "meal",
+              "title": "Lunch"
+            },
+            {
+              "start": "12:20",
+              "end": "13:00",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "13:00",
+              "end": "13:45",
+              "kind": "quiet",
+              "title": "Quiet time",
+              "detail": "Books or quiet play in their room."
+            },
+            {
+              "start": "13:45",
+              "end": "18:00",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "18:00",
+              "end": "18:45",
+              "kind": "meal",
+              "title": "Dinner"
+            },
+            {
+              "start": "18:45",
+              "end": "19:30",
+              "kind": "routine",
+              "title": "Bath, books and bed"
+            }
+          ]
+        },
+        {
+          "nap": "no-nap",
+          "napLabel": "No nap",
+          "headline": "Morning at Blue Jay Point County Park",
+          "main": {
+            "ref": "place:blue-jay-point-county-park",
+            "arrive": "09:00",
+            "leave": "12:00",
+            "why": "Blue Jay Point is a quiet north Raleigh county park with greenway trails through the woods, open meadows, a playground, and a picnic shelter — a perfect unhurried Monday morning outdoors with nothing to rush for.",
+            "tips": [
+              "The trails are easy for a 3.5-year-old on foot; wear sturdy shoes.",
+              "Bring a snack and water and let your child set the pace on the paths.",
+              "The park is rarely crowded on a Monday, so the whole space feels like it belongs to you."
+            ],
+            "interests": [
+              "nature",
+              "movement"
+            ],
+            "also": [],
+            "area": "north-raleigh",
+            "outdoor": true,
+            "source": {
+              "kind": "park",
+              "title": "Blue Jay Point County Park",
+              "address": "3200 Pleasant Union Church Road, Raleigh, NC 27614",
+              "url": "https://www.wakegov.com/departments-government/parks-recreation-and-open-space/all-parks-trails/blue-jay-point-county-park",
+              "amenities": [
+                "playground",
+                "picnic-shelter",
+                "restroom",
+                "greenway",
+                "nature"
+              ],
+              "indoor": false,
+              "area": "north-raleigh",
+              "hours": null,
+              "lat": 35.96762827199893,
+              "lon": -78.64454785104198,
+              "cost": null
+            }
+          },
+          "alternatives": [
+            {
+              "ref": "place:crowder-county-park",
+              "arrive": "09:00",
+              "leave": "11:30",
+              "why": "Crowder County Park's garden, greenway loop, and playground make a gentle, varied morning in the Cary-Apex area.",
+              "tips": [
+                "The greenway is stroller-friendly.",
+                "Bring a snack for the playground after the walk."
+              ],
+              "interests": [
+                "nature",
+                "science"
+              ],
+              "also": [],
+              "area": "cary-apex",
+              "outdoor": true,
+              "source": {
+                "kind": "park",
+                "title": "Crowder County Park",
+                "address": "4709 Ten Ten Road",
+                "url": "https://www.wakegov.com/departments-government/parks-recreation-and-open-space/all-parks-trails/crowder-county-park",
+                "amenities": [
+                  "playground",
+                  "picnic-shelter",
+                  "restroom",
+                  "greenway",
+                  "garden"
+                ],
+                "indoor": false,
+                "area": "cary-apex",
+                "hours": null,
+                "lat": 35.69174392711247,
+                "lon": -78.76585678897689,
+                "cost": null
+              }
+            },
+            {
+              "ref": "event:durham-rec:19841:2026-11-09",
+              "arrive": "09:50",
+              "leave": "12:30",
+              "also": [
+                {
+                  "ref": "place:walltown-park",
+                  "source": {
+                    "kind": "park",
+                    "title": "Walltown Park",
+                    "address": "1308 W Club Blvd, Durham, NC",
+                    "url": "https://www.dprplaymore.org/Facilities/Facility/Details/Walltown-Park-74",
+                    "amenities": [
+                      "playground",
+                      "picnic-shelter"
+                    ],
+                    "indoor": false,
+                    "area": "durham",
+                    "hours": null,
+                    "lat": 36.018264,
+                    "lon": -78.91403399999999,
+                    "cost": null
+                  }
+                }
+              ],
+              "why": "Parachute play, tunnels, and soft gym equipment for children under 4, with Walltown Park right outside for fresh air after the gym session.",
+              "tips": [
+                "Registration is required; sign up in advance.",
+                "The park visit after the gym is weather-permitting."
+              ],
+              "interests": [
+                "movement",
+                "music"
+              ],
+              "area": "durham",
+              "outdoor": false,
+              "source": {
+                "kind": "event",
+                "title": "Total Tot Time",
+                "start": "2026-11-09T10:00:00",
+                "end": "2026-11-09T12:00:00",
+                "venue": "Walltown Park Rec Ctr",
+                "address": "1308 W Club Blvd, Durham, NC",
+                "url": "https://apm.activecommunities.com/dprplaymore/Activity_Search/total-tot-time/19841?locale=en-US",
+                "cost": null,
+                "ages": "0 - 4",
+                "registration": "https://apm.activecommunities.com/dprplaymore/Activity_Search/total-tot-time/19841?locale=en-US",
+                "indoor": true,
+                "area": "durham",
+                "source": "durham-rec",
+                "dropIn": false,
+                "lat": 36.018264,
+                "lon": -78.91403399999999
+              }
+            },
+            {
+              "ref": "place:lake-crabtree-county-park",
+              "arrive": "09:00",
+              "leave": "12:00",
+              "why": "Lake Crabtree's lakeside greenway, nature trails, and playground make a beautiful Monday morning — the lake scenery is particularly lovely in November.",
+              "tips": [
+                "The trail near the lake is easy for little legs.",
+                "Bring a snack and water for the walk."
+              ],
+              "interests": [
+                "nature",
+                "water"
+              ],
+              "also": [],
+              "area": "north-raleigh",
+              "outdoor": true,
+              "source": {
+                "kind": "park",
+                "title": "Lake Crabtree County Park",
+                "address": "1400 Aviation Pkwy., Morrisville, NC  27560",
+                "url": "https://www.wakegov.com/departments-government/parks-recreation-and-open-space/all-parks-trails/lake-crabtree-county-park",
+                "amenities": [
+                  "playground",
+                  "picnic-shelter",
+                  "restroom",
+                  "greenway",
+                  "nature",
+                  "garden",
+                  "boating"
+                ],
+                "indoor": false,
+                "area": "north-raleigh",
+                "hours": null,
+                "lat": 35.845600151785014,
+                "lon": -78.80104927513673,
+                "cost": null
+              }
+            },
+            {
+              "ref": "event:libcal:durham-county-library:17592395",
+              "arrive": "09:50",
+              "leave": "12:00",
+              "also": [
+                {
+                  "ref": "place:durham-central-park",
+                  "source": {
+                    "kind": "park",
+                    "title": "Durham Central Park",
+                    "address": "501 Foster St, Durham, NC",
+                    "url": "https://www.dprplaymore.org/Facilities/Facility/Details/Durham-Central-Park-18",
+                    "amenities": [
+                      "playground",
+                      "restroom",
+                      "greenway"
+                    ],
+                    "indoor": false,
+                    "area": "durham",
+                    "hours": null,
+                    "lat": 36.0006525,
+                    "lon": -78.90071999999999,
+                    "cost": null
+                  }
+                }
+              ],
+              "why": "Storytime at the Hub Farm is held at a 30-acre outdoor learning center — a genuinely special Monday morning in Durham. Durham Central Park is a short drive for play after the program.",
+              "tips": [
+                "Registration is required for the Hub Farm Storytime.",
+                "The park visit after the storytime is weather-permitting; it rounds the morning out well on a clear day."
+              ],
+              "interests": [
+                "stories",
+                "nature"
+              ],
+              "area": "durham",
+              "outdoor": false,
+              "source": {
+                "kind": "event",
+                "title": "Storytime @ the Hub Farm",
+                "start": "2026-11-09T10:00:00",
+                "end": "2026-11-09T10:30:00",
+                "venue": "Durham County Library",
+                "address": "501 Foster St, Durham, NC",
+                "url": "https://durhamcountylibrary.libcal.com/event/17592395",
+                "cost": null,
+                "ages": "Pre-School, Toddler",
+                "registration": "https://durhamcountylibrary.libcal.com/event/17592395",
+                "indoor": true,
+                "area": "durham",
+                "source": "libcal",
+                "dropIn": false,
+                "lat": 36.0006525,
+                "lon": -78.90071999999999
+              }
+            }
+          ],
+          "rainBackup": null,
+          "timeline": [
+            {
+              "start": "07:00",
+              "end": "07:30",
+              "kind": "meal",
+              "title": "Up and breakfast"
+            },
+            {
+              "start": "07:30",
+              "end": "08:20",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "08:20",
+              "end": "08:40",
+              "kind": "routine",
+              "title": "Get ready to go",
+              "detail": "Shoes on, diaper bag, water and a snack."
+            },
+            {
+              "start": "08:40",
+              "end": "09:00",
+              "kind": "travel",
+              "title": "Drive to Blue Jay Point County Park"
+            },
+            {
+              "start": "09:00",
+              "end": "12:00",
+              "kind": "outing",
+              "title": "Blue Jay Point County Park"
+            },
+            {
+              "start": "12:00",
+              "end": "12:20",
+              "kind": "travel",
+              "title": "Drive home"
+            },
+            {
+              "start": "12:20",
+              "end": "12:50",
+              "kind": "meal",
+              "title": "Lunch"
+            },
+            {
+              "start": "12:50",
+              "end": "18:00",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "18:00",
+              "end": "18:45",
+              "kind": "meal",
+              "title": "Dinner"
+            },
+            {
+              "start": "18:45",
+              "end": "19:30",
+              "kind": "routine",
+              "title": "Bath, books and bed"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "checked": {
+    "at": "2026-11-01T11:15:29.111Z",
+    "forecast": "none",
+    "weather": null,
+    "hidden": []
+  }
+}

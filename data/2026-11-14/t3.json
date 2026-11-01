@@ -1,0 +1,844 @@
+{
+  "date": "2026-11-14",
+  "band": "t3",
+  "versions": [
+    {
+      "at": "2026-11-01T11:19:48.967Z",
+      "reason": null,
+      "forecast": "none",
+      "weather": null,
+      "plans": [
+        {
+          "nap": "nap",
+          "napLabel": "Nap, 1 to 2:30",
+          "headline": "Play at the farm park, then strum along at a ukulele jam",
+          "main": {
+            "ref": "place:seagroves-farm-park",
+            "arrive": "15:00",
+            "leave": "16:30",
+            "why": "Your 3-year-old plays at Seagroves Farm Park first, then joins the Raleigh Uke Jam at Eva Perry Library at 3:30 pm. Families can bring a ukulele or borrow one.",
+            "tips": [
+              "Bring a snack for the park so your child is ready to sit for the music.",
+              "Let your child strum or shake along. Small hands do not need to play the right notes.",
+              "Leave on a song so goodbye feels like part of the fun."
+            ],
+            "interests": [
+              "music",
+              "movement"
+            ],
+            "also": [
+              {
+                "ref": "event:wake:23781",
+                "source": {
+                  "kind": "event",
+                  "title": "Music in the Library: Raleigh Ukem Jam",
+                  "start": "2026-11-14T15:30:00-05:00",
+                  "end": "2026-11-14T16:30:00-05:00",
+                  "venue": "Eva Perry Regional Library",
+                  "address": "2100 Shepherds Vineyard Drive, Apex, NC",
+                  "url": "https://www.wake.gov/events/music-library-raleigh-ukem-jam",
+                  "cost": null,
+                  "lat": 35.7437832024768,
+                  "lon": -78.8251607833066,
+                  "ages": "Adults & Seniors All Ages",
+                  "registration": null,
+                  "indoor": true,
+                  "area": "cary-apex",
+                  "source": "wake-county",
+                  "dropIn": false
+                }
+              }
+            ],
+            "area": "cary-apex",
+            "outdoor": false,
+            "source": {
+              "kind": "park",
+              "title": "Seagroves Farm Park",
+              "address": "201 Parkfield Dr., Apex, NC",
+              "lat": 35.72788436131107,
+              "lon": -78.82838438475397,
+              "url": "https://www.apexnc.org/1936/Seagroves-Farm-Park",
+              "amenities": [
+                "playground",
+                "picnic-shelter",
+                "restroom",
+                "greenway"
+              ],
+              "indoor": false,
+              "area": "cary-apex",
+              "hours": null,
+              "cost": null
+            }
+          },
+          "alternatives": [
+            {
+              "ref": "event:weekly:mols-early-childhood:2026-11-14",
+              "arrive": "09:30",
+              "leave": "11:15",
+              "why": "Your 3-year-old plays in Hideaway Woods with sensory play, songs and stories at the Early Childhood Drop-In. It is included with museum admission, and you can come and go.",
+              "tips": [
+                "Bring a snack and a change of clothes in case of messy play.",
+                "Leave on a song when your child starts to slow down."
+              ],
+              "interests": [
+                "nature",
+                "music",
+                "stories"
+              ],
+              "also": [],
+              "area": "durham",
+              "outdoor": true,
+              "source": {
+                "kind": "event",
+                "title": "Early Childhood Drop-In",
+                "start": "2026-11-14T09:30:00",
+                "end": "2026-11-14T11:30:00",
+                "venue": "Hideaway Woods, Museum of Life and Science",
+                "address": "433 W Murray Ave, Durham, NC 27704",
+                "url": "https://www.lifeandscience.org/learn/drop-in-programs/",
+                "cost": "Included with museum admission",
+                "lat": 36.0294,
+                "lon": -78.8993,
+                "ages": "young children and their caregivers",
+                "registration": false,
+                "indoor": false,
+                "area": "durham",
+                "source": "weekly",
+                "dropIn": true
+              }
+            },
+            {
+              "ref": "place:ncma-museum-park",
+              "arrive": "09:30",
+              "leave": "11:30",
+              "why": "Your 3-year-old runs the lawns and trails of Museum Park first, then makes art at NCMA to Go Art Kits: Sponge, Stamp, Soar, which starts at 10 am.",
+              "tips": [
+                "Have a snack on the lawn so you are ready for the art at 10 am.",
+                "Wear clothes that can get a little messy."
+              ],
+              "interests": [
+                "art",
+                "nature"
+              ],
+              "also": [
+                {
+                  "ref": "event:museum:ncma:5418",
+                  "source": {
+                    "kind": "event",
+                    "title": "NCMA to Go Art Kits: Sponge, Stamp, Soar / Kit de artedel NCMA para llevar: pinta con esponja, estampa … ¡y a volar!",
+                    "start": "2026-11-14T10:00:00",
+                    "end": "2026-11-14T12:00:00",
+                    "venue": "NC Museum of Art",
+                    "address": "2110 Blue Ridge Rd, Raleigh, NC 27607",
+                    "url": "https://ncartmuseum.org/event/ncma-to-go-art-kits-sponge-stamp-soar/",
+                    "cost": null,
+                    "lat": 35.8105,
+                    "lon": -78.7022,
+                    "ages": "Families",
+                    "registration": null,
+                    "indoor": true,
+                    "area": "raleigh",
+                    "source": "museum",
+                    "dropIn": false
+                  }
+                }
+              ],
+              "area": "raleigh",
+              "outdoor": false,
+              "source": {
+                "kind": "garden",
+                "title": "NC Museum of Art Museum Park",
+                "address": "2110 Blue Ridge Rd, Raleigh, NC 27607",
+                "lat": 35.8105,
+                "lon": -78.7022,
+                "url": "https://ncartmuseum.org/museum-park/",
+                "amenities": [
+                  "garden",
+                  "nature",
+                  "greenway",
+                  "restroom"
+                ],
+                "indoor": false,
+                "area": "raleigh",
+                "hours": {
+                  "sun": "dawn to dusk",
+                  "mon": "dawn to dusk",
+                  "tue": "dawn to dusk",
+                  "wed": "dawn to dusk",
+                  "thu": "dawn to dusk",
+                  "fri": "dawn to dusk",
+                  "sat": "dawn to dusk"
+                },
+                "cost": "Free",
+                "note": "Free. 164 acres of trails, lawns and big outdoor art; the Capital Area Greenway runs through."
+              }
+            },
+            {
+              "ref": "event:wake-parks:8357",
+              "arrive": "09:55",
+              "leave": "11:00",
+              "why": "Your 3-year-old looks for animal signs at Beech Bluff Explorers: Who Was Here? at 10 am. It is for ages 3 and up, and a family needs to sign up.",
+              "tips": [
+                "Sign up before you go.",
+                "Play a guessing game: who left this track or feather?",
+                "Bring a snack for after the program."
+              ],
+              "interests": [
+                "animals",
+                "nature"
+              ],
+              "also": [],
+              "area": "south-wake",
+              "outdoor": true,
+              "source": {
+                "kind": "event",
+                "title": "Beech Bluff Explorers: Who Was Here?",
+                "start": "2026-11-14T10:00:00",
+                "end": "2026-11-14T11:00:00",
+                "venue": "Beech Bluff County Park",
+                "address": "Beech Bluff Park Drive, Fuquay-Varina, NC",
+                "url": "https://apm.activecommunities.com/wakeparks/Activity_Search/beech-bluff-explorers-who-was-here/8357?locale=en-US",
+                "cost": "Free",
+                "lat": 35.58537279715877,
+                "lon": -78.6793341971644,
+                "ages": "At least 3 but less than 6",
+                "registration": "https://apm.activecommunities.com/wakeparks/Activity_Search/beech-bluff-explorers-who-was-here/8357?locale=en-US",
+                "indoor": false,
+                "area": "south-wake",
+                "source": "wake-parks",
+                "dropIn": false
+              }
+            }
+          ],
+          "rainBackup": null,
+          "timeline": [
+            {
+              "start": "07:00",
+              "end": "07:30",
+              "kind": "meal",
+              "title": "Up and breakfast"
+            },
+            {
+              "start": "07:30",
+              "end": "12:15",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "12:15",
+              "end": "12:45",
+              "kind": "meal",
+              "title": "Lunch"
+            },
+            {
+              "start": "12:45",
+              "end": "13:00",
+              "kind": "quiet",
+              "title": "Wind down",
+              "detail": "A couple of books to settle."
+            },
+            {
+              "start": "13:00",
+              "end": "14:30",
+              "kind": "nap",
+              "title": "Nap"
+            },
+            {
+              "start": "14:30",
+              "end": "14:40",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "14:40",
+              "end": "15:00",
+              "kind": "travel",
+              "title": "Drive to Seagroves Farm Park"
+            },
+            {
+              "start": "15:00",
+              "end": "15:20",
+              "kind": "outing",
+              "title": "Seagroves Farm Park"
+            },
+            {
+              "start": "15:20",
+              "end": "15:30",
+              "kind": "travel",
+              "title": "Drive to Eva Perry Regional Library"
+            },
+            {
+              "start": "15:30",
+              "end": "16:30",
+              "kind": "outing",
+              "title": "Music in the Library: Raleigh Ukem Jam"
+            },
+            {
+              "start": "16:30",
+              "end": "16:50",
+              "kind": "travel",
+              "title": "Drive home"
+            },
+            {
+              "start": "16:50",
+              "end": "18:30",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "18:30",
+              "end": "19:15",
+              "kind": "meal",
+              "title": "Dinner"
+            },
+            {
+              "start": "19:15",
+              "end": "20:00",
+              "kind": "routine",
+              "title": "Bath, books and bed"
+            }
+          ]
+        },
+        {
+          "nap": "quiet",
+          "napLabel": "Quiet time, no sleep",
+          "headline": "Run at the park, then dance with a Nutcracker troupe",
+          "main": {
+            "ref": "place:plummer-park",
+            "arrive": "10:40",
+            "leave": "12:15",
+            "why": "Your 3-year-old plays at Plummer Park first, then joins A Nutcracker Experience at Northeast Regional Library at 11:30 am, with a story, dancing and a craft. It is for ages 0 to 5.",
+            "tips": [
+              "Snack at the park so your child can settle in at 11:30 am.",
+              "Wear clothes that are easy to dance in.",
+              "Head home for lunch and quiet time with the craft in hand."
+            ],
+            "interests": [
+              "movement",
+              "music",
+              "stories"
+            ],
+            "also": [
+              {
+                "ref": "event:wake:24268",
+                "source": {
+                  "kind": "event",
+                  "title": "A Nutcracker Experience",
+                  "start": "2026-11-14T11:30:00-05:00",
+                  "end": "2026-11-14T12:15:00-05:00",
+                  "venue": "Northeast Regional Library",
+                  "address": "14401 Green Elm Lane, Raleigh, NC",
+                  "url": "https://www.wake.gov/events/nutcracker-experience",
+                  "cost": "Free",
+                  "lat": 35.9541926372282,
+                  "lon": -78.5438512128256,
+                  "ages": "Young Children",
+                  "registration": null,
+                  "indoor": true,
+                  "area": "north-raleigh",
+                  "source": "wake-county",
+                  "dropIn": false
+                }
+              }
+            ],
+            "area": "north-raleigh",
+            "outdoor": false,
+            "source": {
+              "kind": "park",
+              "title": "Plummer Park",
+              "address": "965 Jones Wynd, Wake Forest, NC",
+              "lat": 35.96978706226675,
+              "lon": -78.5486469005171,
+              "url": "https://www.wakeforestnc.gov/parks-recreation-cultural-resources/parks-facilities/plummer-park",
+              "amenities": [
+                "playground",
+                "picnic-shelter"
+              ],
+              "indoor": false,
+              "area": "north-raleigh",
+              "hours": null,
+              "cost": null
+            }
+          },
+          "alternatives": [
+            {
+              "ref": "event:weekly:mols-early-childhood:2026-11-14",
+              "arrive": "09:30",
+              "leave": "11:30",
+              "why": "Your 3-year-old plays in Hideaway Woods with sensory play, songs and stories at the Early Childhood Drop-In, then runs around Rock Quarry Park. The drop-in is included with museum admission.",
+              "tips": [
+                "Stay at least 20 minutes at the drop-in, then leave when your child is ready.",
+                "Bring a snack for the park."
+              ],
+              "interests": [
+                "nature",
+                "music",
+                "movement"
+              ],
+              "also": [
+                {
+                  "ref": "place:rock-quarry-park",
+                  "source": {
+                    "kind": "park",
+                    "title": "Rock Quarry Park",
+                    "address": "701 Stadium Dr, Durham, NC",
+                    "lat": 36.03166363636364,
+                    "lon": -78.90176545454545,
+                    "url": "https://www.dprplaymore.org/Facilities/Facility/Details/Rock-Quarry-Park-60",
+                    "amenities": [
+                      "playground",
+                      "splashpad",
+                      "restroom",
+                      "greenway"
+                    ],
+                    "indoor": false,
+                    "area": "durham",
+                    "hours": null,
+                    "cost": null
+                  }
+                }
+              ],
+              "area": "durham",
+              "outdoor": true,
+              "source": {
+                "kind": "event",
+                "title": "Early Childhood Drop-In",
+                "start": "2026-11-14T09:30:00",
+                "end": "2026-11-14T11:30:00",
+                "venue": "Hideaway Woods, Museum of Life and Science",
+                "address": "433 W Murray Ave, Durham, NC 27704",
+                "url": "https://www.lifeandscience.org/learn/drop-in-programs/",
+                "cost": "Included with museum admission",
+                "lat": 36.0294,
+                "lon": -78.8993,
+                "ages": "young children and their caregivers",
+                "registration": false,
+                "indoor": false,
+                "area": "durham",
+                "source": "weekly",
+                "dropIn": true
+              }
+            },
+            {
+              "ref": "event:raleigh:foam-stamp-printing-workshop",
+              "arrive": "14:20",
+              "leave": "16:30",
+              "why": "After quiet time, your 3-year-old makes foam stamps with artist Adam Cooley at Brentwood Park and creates art to take home. A grown-up can help with the cutting.",
+              "tips": [
+                "Wear clothes that can get a little messy.",
+                "Let your child choose the shapes and the colors."
+              ],
+              "interests": [
+                "art"
+              ],
+              "also": [],
+              "area": "raleigh",
+              "outdoor": true,
+              "source": {
+                "kind": "event",
+                "title": "Foam Stamp Printing Workshop",
+                "start": "2026-11-14T14:30:00",
+                "end": "2026-11-14T17:00:00",
+                "venue": "Brentwood Park",
+                "address": "3315 Vinson Ct, Raleigh, NC 27604",
+                "url": "https://raleighnc.gov/arts/events/foam-stamp-printing-workshop",
+                "cost": null,
+                "lat": 35.82856,
+                "lon": -78.59885,
+                "ages": null,
+                "registration": null,
+                "indoor": false,
+                "area": "raleigh",
+                "source": "raleigh",
+                "dropIn": false
+              }
+            },
+            {
+              "ref": "event:wake-parks:8357",
+              "arrive": "09:55",
+              "leave": "11:00",
+              "why": "Your 3-year-old looks for animal signs at Beech Bluff Explorers: Who Was Here? at 10 am. It is for ages 3 and up, and a family needs to sign up.",
+              "tips": [
+                "Sign up before you go.",
+                "Bring a snack for after the program."
+              ],
+              "interests": [
+                "animals",
+                "nature"
+              ],
+              "also": [],
+              "area": "south-wake",
+              "outdoor": true,
+              "source": {
+                "kind": "event",
+                "title": "Beech Bluff Explorers: Who Was Here?",
+                "start": "2026-11-14T10:00:00",
+                "end": "2026-11-14T11:00:00",
+                "venue": "Beech Bluff County Park",
+                "address": "Beech Bluff Park Drive, Fuquay-Varina, NC",
+                "url": "https://apm.activecommunities.com/wakeparks/Activity_Search/beech-bluff-explorers-who-was-here/8357?locale=en-US",
+                "cost": "Free",
+                "lat": 35.58537279715877,
+                "lon": -78.6793341971644,
+                "ages": "At least 3 but less than 6",
+                "registration": "https://apm.activecommunities.com/wakeparks/Activity_Search/beech-bluff-explorers-who-was-here/8357?locale=en-US",
+                "indoor": false,
+                "area": "south-wake",
+                "source": "wake-parks",
+                "dropIn": false
+              }
+            }
+          ],
+          "rainBackup": null,
+          "timeline": [
+            {
+              "start": "07:00",
+              "end": "07:30",
+              "kind": "meal",
+              "title": "Up and breakfast"
+            },
+            {
+              "start": "07:30",
+              "end": "10:00",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "10:00",
+              "end": "10:20",
+              "kind": "routine",
+              "title": "Get ready to go",
+              "detail": "Shoes on, diaper bag, water and a snack."
+            },
+            {
+              "start": "10:20",
+              "end": "10:40",
+              "kind": "travel",
+              "title": "Drive to Plummer Park"
+            },
+            {
+              "start": "10:40",
+              "end": "11:20",
+              "kind": "outing",
+              "title": "Plummer Park",
+              "detail": "Pack a lunch to eat there."
+            },
+            {
+              "start": "11:20",
+              "end": "11:30",
+              "kind": "travel",
+              "title": "Drive to Northeast Regional Library"
+            },
+            {
+              "start": "11:30",
+              "end": "12:15",
+              "kind": "outing",
+              "title": "A Nutcracker Experience"
+            },
+            {
+              "start": "12:15",
+              "end": "12:35",
+              "kind": "travel",
+              "title": "Drive home"
+            },
+            {
+              "start": "12:35",
+              "end": "13:00",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "13:00",
+              "end": "13:45",
+              "kind": "quiet",
+              "title": "Quiet time",
+              "detail": "Books or quiet play in their room."
+            },
+            {
+              "start": "13:45",
+              "end": "18:00",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "18:00",
+              "end": "18:45",
+              "kind": "meal",
+              "title": "Dinner"
+            },
+            {
+              "start": "18:45",
+              "end": "19:30",
+              "kind": "routine",
+              "title": "Bath, books and bed"
+            }
+          ]
+        },
+        {
+          "nap": "no-nap",
+          "napLabel": "No nap",
+          "headline": "Peek inside a historic mill",
+          "main": {
+            "ref": "event:wake-parks:9417",
+            "arrive": "12:55",
+            "leave": "14:25",
+            "why": "Your 3-year-old steps into Historic Yates Mill, where interpreters talk about how the mill works and answer questions. A family needs to sign up.",
+            "tips": [
+              "Have lunch first so your child is fed and ready to look around.",
+              "Help your child ask the interpreters one question.",
+              "Pick a last thing to look at, then say goodbye to the mill."
+            ],
+            "interests": [
+              "science",
+              "water",
+              "nature"
+            ],
+            "also": [],
+            "area": "raleigh",
+            "outdoor": true,
+            "source": {
+              "kind": "event",
+              "title": "Mill Open House",
+              "start": "2026-11-14T13:00:00",
+              "end": "2026-11-14T16:00:00",
+              "venue": "Historic Yates Mill County Park",
+              "address": "4620 Lake Wheeler Rd., Raleigh, NC  27603",
+              "url": "https://apm.activecommunities.com/wakeparks/Activity_Search/mill-open-house/9417?locale=en-US",
+              "cost": null,
+              "lat": 35.72157134974476,
+              "lon": -78.68526087901417,
+              "ages": null,
+              "registration": "https://apm.activecommunities.com/wakeparks/Activity_Search/mill-open-house/9417?locale=en-US",
+              "indoor": false,
+              "area": "raleigh",
+              "source": "wake-parks",
+              "dropIn": false
+            }
+          },
+          "alternatives": [
+            {
+              "ref": "event:weekly:mols-early-childhood:2026-11-14",
+              "arrive": "09:30",
+              "leave": "11:40",
+              "why": "Your 3-year-old plays in Hideaway Woods with sensory play, songs and stories at the Early Childhood Drop-In, then runs around Rock Quarry Park. The drop-in is included with museum admission.",
+              "tips": [
+                "Stay at least 20 minutes at the drop-in, then leave when your child is ready.",
+                "Bring a snack for the park."
+              ],
+              "interests": [
+                "nature",
+                "music",
+                "movement"
+              ],
+              "also": [
+                {
+                  "ref": "place:rock-quarry-park",
+                  "source": {
+                    "kind": "park",
+                    "title": "Rock Quarry Park",
+                    "address": "701 Stadium Dr, Durham, NC",
+                    "lat": 36.03166363636364,
+                    "lon": -78.90176545454545,
+                    "url": "https://www.dprplaymore.org/Facilities/Facility/Details/Rock-Quarry-Park-60",
+                    "amenities": [
+                      "playground",
+                      "splashpad",
+                      "restroom",
+                      "greenway"
+                    ],
+                    "indoor": false,
+                    "area": "durham",
+                    "hours": null,
+                    "cost": null
+                  }
+                }
+              ],
+              "area": "durham",
+              "outdoor": true,
+              "source": {
+                "kind": "event",
+                "title": "Early Childhood Drop-In",
+                "start": "2026-11-14T09:30:00",
+                "end": "2026-11-14T11:30:00",
+                "venue": "Hideaway Woods, Museum of Life and Science",
+                "address": "433 W Murray Ave, Durham, NC 27704",
+                "url": "https://www.lifeandscience.org/learn/drop-in-programs/",
+                "cost": "Included with museum admission",
+                "lat": 36.0294,
+                "lon": -78.8993,
+                "ages": "young children and their caregivers",
+                "registration": false,
+                "indoor": false,
+                "area": "durham",
+                "source": "weekly",
+                "dropIn": true
+              }
+            },
+            {
+              "ref": "event:wake-parks:8357",
+              "arrive": "09:55",
+              "leave": "11:00",
+              "why": "Your 3-year-old looks for animal signs at Beech Bluff Explorers: Who Was Here? at 10 am. It is for ages 3 and up, and a family needs to sign up.",
+              "tips": [
+                "Sign up before you go.",
+                "Play a guessing game: who left this track or feather?"
+              ],
+              "interests": [
+                "animals",
+                "nature"
+              ],
+              "also": [],
+              "area": "south-wake",
+              "outdoor": true,
+              "source": {
+                "kind": "event",
+                "title": "Beech Bluff Explorers: Who Was Here?",
+                "start": "2026-11-14T10:00:00",
+                "end": "2026-11-14T11:00:00",
+                "venue": "Beech Bluff County Park",
+                "address": "Beech Bluff Park Drive, Fuquay-Varina, NC",
+                "url": "https://apm.activecommunities.com/wakeparks/Activity_Search/beech-bluff-explorers-who-was-here/8357?locale=en-US",
+                "cost": "Free",
+                "lat": 35.58537279715877,
+                "lon": -78.6793341971644,
+                "ages": "At least 3 but less than 6",
+                "registration": "https://apm.activecommunities.com/wakeparks/Activity_Search/beech-bluff-explorers-who-was-here/8357?locale=en-US",
+                "indoor": false,
+                "area": "south-wake",
+                "source": "wake-parks",
+                "dropIn": false
+              }
+            },
+            {
+              "ref": "place:seagroves-farm-park",
+              "arrive": "15:00",
+              "leave": "16:30",
+              "why": "Your 3-year-old plays at Seagroves Farm Park first, then joins the Raleigh Uke Jam at Eva Perry Library at 3:30 pm. Families can bring a ukulele or borrow one.",
+              "tips": [
+                "Bring a snack for the park.",
+                "Leave on a song so goodbye feels like part of the fun."
+              ],
+              "interests": [
+                "music",
+                "movement"
+              ],
+              "also": [
+                {
+                  "ref": "event:wake:23781",
+                  "source": {
+                    "kind": "event",
+                    "title": "Music in the Library: Raleigh Ukem Jam",
+                    "start": "2026-11-14T15:30:00-05:00",
+                    "end": "2026-11-14T16:30:00-05:00",
+                    "venue": "Eva Perry Regional Library",
+                    "address": "2100 Shepherds Vineyard Drive, Apex, NC",
+                    "url": "https://www.wake.gov/events/music-library-raleigh-ukem-jam",
+                    "cost": null,
+                    "lat": 35.7437832024768,
+                    "lon": -78.8251607833066,
+                    "ages": "Adults & Seniors All Ages",
+                    "registration": null,
+                    "indoor": true,
+                    "area": "cary-apex",
+                    "source": "wake-county",
+                    "dropIn": false
+                  }
+                }
+              ],
+              "area": "cary-apex",
+              "outdoor": false,
+              "source": {
+                "kind": "park",
+                "title": "Seagroves Farm Park",
+                "address": "201 Parkfield Dr., Apex, NC",
+                "lat": 35.72788436131107,
+                "lon": -78.82838438475397,
+                "url": "https://www.apexnc.org/1936/Seagroves-Farm-Park",
+                "amenities": [
+                  "playground",
+                  "picnic-shelter",
+                  "restroom",
+                  "greenway"
+                ],
+                "indoor": false,
+                "area": "cary-apex",
+                "hours": null,
+                "cost": null
+              }
+            }
+          ],
+          "rainBackup": null,
+          "timeline": [
+            {
+              "start": "07:00",
+              "end": "07:30",
+              "kind": "meal",
+              "title": "Up and breakfast"
+            },
+            {
+              "start": "07:30",
+              "end": "11:45",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "11:45",
+              "end": "12:15",
+              "kind": "meal",
+              "title": "Lunch"
+            },
+            {
+              "start": "12:15",
+              "end": "12:35",
+              "kind": "routine",
+              "title": "Get ready to go",
+              "detail": "Shoes on, diaper bag, water and a snack."
+            },
+            {
+              "start": "12:35",
+              "end": "12:55",
+              "kind": "travel",
+              "title": "Drive to Historic Yates Mill County Park"
+            },
+            {
+              "start": "12:55",
+              "end": "14:25",
+              "kind": "outing",
+              "title": "Historic Yates Mill County Park"
+            },
+            {
+              "start": "14:25",
+              "end": "14:45",
+              "kind": "travel",
+              "title": "Drive home"
+            },
+            {
+              "start": "14:45",
+              "end": "18:00",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "18:00",
+              "end": "18:45",
+              "kind": "meal",
+              "title": "Dinner"
+            },
+            {
+              "start": "18:45",
+              "end": "19:30",
+              "kind": "routine",
+              "title": "Bath, books and bed"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "checked": {
+    "at": "2026-11-01T11:19:48.967Z",
+    "forecast": "none",
+    "weather": null,
+    "hidden": []
+  }
+}

@@ -1,0 +1,1124 @@
+{
+  "date": "2026-11-02",
+  "band": "t4",
+  "versions": [
+    {
+      "at": "2026-10-27T00:57:13.877Z",
+      "reason": null,
+      "forecast": "nws",
+      "weather": {
+        "period": "Monday",
+        "tempF": 74,
+        "precipProbability": 44,
+        "shortForecast": "Chance Rain Showers"
+      },
+      "plans": [
+        {
+          "nap": "short-nap",
+          "napLabel": "Short nap, 1 to 2",
+          "headline": "Pullen Park carousel and train ride on a warm November morning",
+          "main": {
+            "ref": "place:pullen-park-amusements",
+            "arrive": "10:00",
+            "leave": "12:15",
+            "why": "Pullen Park has a carousel, a miniature train, and a big playground — a wonderful outdoor morning for a 4-year-old who loves vehicles and movement, right in Raleigh.",
+            "tips": [
+              "Arrive right at 10:00 when the amusements open to get the first ride of the day with no queue.",
+              "Bring a snack for a picnic-shelter break between the train and the carousel.",
+              "Give a five-minute warning before leaving so the transition to the car is smooth."
+            ],
+            "interests": [
+              "vehicles",
+              "movement",
+              "nature"
+            ],
+            "also": [],
+            "area": "raleigh",
+            "outdoor": true,
+            "source": {
+              "kind": "park",
+              "title": "Pullen Park Amusements",
+              "address": "410 Park Ave, Raleigh, NC 27606",
+              "url": "https://raleighnc.gov/parks-and-recreation/places/pullen-park-amusements",
+              "amenities": [
+                "carousel",
+                "boating",
+                "train",
+                "amusements",
+                "courts",
+                "playground",
+                "picnic-shelter"
+              ],
+              "indoor": false,
+              "area": "raleigh",
+              "hours": {
+                "mon": "10 a.m.–6 p.m.",
+                "tue": "10 a.m.–6 p.m.",
+                "wed": "10 a.m.–6 p.m.",
+                "thu": "10 a.m.–6 p.m.",
+                "fri": "10 a.m.–8 p.m.",
+                "sat": "10 a.m.–8 p.m.",
+                "sun": "10 a.m.–8 p.m."
+              },
+              "lat": 35.7806,
+              "lon": -78.66396,
+              "cost": null
+            }
+          },
+          "alternatives": [
+            {
+              "ref": "place:jc-raulston-arboretum",
+              "arrive": "09:00",
+              "leave": "11:30",
+              "why": "The JC Raulston Arboretum is a free NC State garden full of autumn colour — a calm, lovely outdoor morning in Raleigh before the nap.",
+              "tips": [
+                "Arrive at opening while the garden is quiet and the light is lovely.",
+                "Let your child collect fallen leaves and seed pods along the way.",
+                "No pets allowed at this garden."
+              ],
+              "interests": [
+                "nature",
+                "science"
+              ],
+              "also": [],
+              "area": "raleigh",
+              "outdoor": true,
+              "source": {
+                "kind": "garden",
+                "title": "JC Raulston Arboretum",
+                "address": "4415 Beryl Rd, Raleigh, NC 27606",
+                "url": "https://jcra.ncsu.edu/",
+                "amenities": [
+                  "garden",
+                  "nature"
+                ],
+                "indoor": false,
+                "area": "raleigh",
+                "hours": {
+                  "mon": "9 a.m.–4:30 p.m.",
+                  "tue": "9 a.m.–4:30 p.m.",
+                  "wed": "9 a.m.–4:30 p.m.",
+                  "thu": "9 a.m.–4:30 p.m.",
+                  "fri": "9 a.m.–4:30 p.m.",
+                  "sat": "9 a.m.–5 p.m.",
+                  "sun": "9 a.m.–5 p.m."
+                },
+                "lat": 35.794,
+                "lon": -78.6987,
+                "cost": "Free",
+                "note": "Free. NC State’s garden; no pets."
+              }
+            },
+            {
+              "ref": "event:wake-parks:8358:2026-11-02",
+              "arrive": "08:50",
+              "leave": "10:30",
+              "why": "The StoryWalk at Beech Bluff County Park is a self-guided story stroll on the ADA-accessible Educational Loop — a gentle south-Wake outdoor morning.",
+              "tips": [
+                "Arrive early while the park is fresh and quiet.",
+                "Let your child lead the pace and stop at each story panel together.",
+                "The park playground is right there for extra play after the loop."
+              ],
+              "interests": [
+                "stories",
+                "nature",
+                "movement"
+              ],
+              "also": [],
+              "area": "south-wake",
+              "outdoor": true,
+              "source": {
+                "kind": "event",
+                "title": "Beech Bluff County Park StoryWalk® 2026 (Self-Led)",
+                "start": "2026-11-02T08:00:00",
+                "end": "2026-11-02T17:30:00",
+                "venue": "Beech Bluff County Park",
+                "address": "Beech Bluff Park Drive, Fuquay-Varina, NC",
+                "url": "https://apm.activecommunities.com/wakeparks/Activity_Search/beech-bluff-county-park-storywalk-2026-self-led/8358?locale=en-US",
+                "cost": "Free",
+                "ages": null,
+                "registration": false,
+                "indoor": false,
+                "area": "south-wake",
+                "source": "wake-parks",
+                "dropIn": true,
+                "lat": 35.58537279715877,
+                "lon": -78.6793341971644
+              }
+            },
+            {
+              "ref": "event:libcal:durham-county-library:16966211",
+              "arrive": "10:20",
+              "leave": "11:30",
+              "why": "Mini Makers Workshop at North Regional Library Durham is a Monday-morning craft session for young children. Honeycutt Park is right nearby for outdoor time after.",
+              "also": [
+                {
+                  "ref": "place:honeycutt-park",
+                  "source": {
+                    "kind": "park",
+                    "title": "Honeycutt Park",
+                    "address": "1032 Clear Creek Farm Road, Raleigh, NC 27615",
+                    "url": "https://raleighnc.gov/parks-and-recreation/places/honeycutt-park",
+                    "amenities": [
+                      "picnic-shelter",
+                      "courts",
+                      "fields",
+                      "playground"
+                    ],
+                    "indoor": false,
+                    "area": "north-raleigh",
+                    "hours": null,
+                    "lat": 35.9023,
+                    "lon": -78.6259,
+                    "cost": null
+                  }
+                }
+              ],
+              "tips": [
+                "Registration is required — sign up in advance.",
+                "Honeycutt Park is a short drive away for outdoor play after, weather permitting.",
+                "Plan 20 minutes at the park before heading home."
+              ],
+              "interests": [
+                "art",
+                "science",
+                "movement"
+              ],
+              "area": "durham",
+              "outdoor": false,
+              "source": {
+                "kind": "event",
+                "title": "Mini Makers Workshop",
+                "start": "2026-11-02T10:30:00",
+                "end": "2026-11-02T11:00:00",
+                "venue": "North Regional Library",
+                "address": "221 Milton Rd, Durham, NC",
+                "url": "https://durhamcountylibrary.libcal.com/event/16966211",
+                "cost": null,
+                "ages": "Elementary School, Kindergarten, Toddler, DPS",
+                "registration": "https://durhamcountylibrary.libcal.com/event/16966211",
+                "indoor": true,
+                "area": "durham",
+                "source": "libcal",
+                "dropIn": false,
+                "lat": 35.880907380619,
+                "lon": -78.6281516610688
+              }
+            },
+            {
+              "ref": "event:wake-parks:9411:2026-11-02",
+              "arrive": "09:00",
+              "leave": "12:10",
+              "why": "Exploration Station: American Bison at Historic Yates Mill County Park is a drop-in outdoor program where children learn about America's national mammal at a beautiful Raleigh park.",
+              "tips": [
+                "Registration is required — sign up in advance.",
+                "Bring a snack and water for the park grounds.",
+                "Head home by 12:10 so there is time for lunch before the nap."
+              ],
+              "interests": [
+                "animals",
+                "nature",
+                "science"
+              ],
+              "also": [],
+              "area": "raleigh",
+              "outdoor": true,
+              "source": {
+                "kind": "event",
+                "title": "Exploration Station: American Bison",
+                "start": "2026-11-02T08:30:00",
+                "end": "2026-11-02T17:00:00",
+                "venue": "Historic Yates Mill County Park",
+                "address": "4620 Lake Wheeler Rd., Raleigh, NC  27603",
+                "url": "https://apm.activecommunities.com/wakeparks/Activity_Search/exploration-station-american-bison/9411?locale=en-US",
+                "cost": null,
+                "ages": null,
+                "registration": "https://apm.activecommunities.com/wakeparks/Activity_Search/exploration-station-american-bison/9411?locale=en-US",
+                "indoor": false,
+                "area": "raleigh",
+                "source": "wake-parks",
+                "dropIn": false,
+                "lat": 35.72157134974476,
+                "lon": -78.68526087901417
+              }
+            }
+          ],
+          "rainBackup": {
+            "ref": "event:libcal:durham-county-library:16966211",
+            "arrive": "10:20",
+            "leave": "11:30",
+            "why": "Mini Makers Workshop at North Regional Library Durham is a Monday-morning craft session for young children — a solid indoor swap if Pullen Park is too wet for the carousel and train.",
+            "also": [
+              {
+                "ref": "place:honeycutt-park",
+                "source": {
+                  "kind": "park",
+                  "title": "Honeycutt Park",
+                  "address": "1032 Clear Creek Farm Road, Raleigh, NC 27615",
+                  "url": "https://raleighnc.gov/parks-and-recreation/places/honeycutt-park",
+                  "amenities": [
+                    "picnic-shelter",
+                    "courts",
+                    "fields",
+                    "playground"
+                  ],
+                  "indoor": false,
+                  "area": "north-raleigh",
+                  "hours": null,
+                  "lat": 35.9023,
+                  "lon": -78.6259,
+                  "cost": null
+                }
+              }
+            ],
+            "tips": [
+              "Registration is required — sign up in advance.",
+              "Honeycutt Park is right nearby for a short outdoor stop if the rain clears, weather permitting.",
+              "Head home by 11:30 so there is time for lunch before the nap."
+            ],
+            "interests": [
+              "art",
+              "science"
+            ],
+            "area": "durham",
+            "outdoor": false,
+            "source": {
+              "kind": "event",
+              "title": "Mini Makers Workshop",
+              "start": "2026-11-02T10:30:00",
+              "end": "2026-11-02T11:00:00",
+              "venue": "North Regional Library",
+              "address": "221 Milton Rd, Durham, NC",
+              "url": "https://durhamcountylibrary.libcal.com/event/16966211",
+              "cost": null,
+              "ages": "Elementary School, Kindergarten, Toddler, DPS",
+              "registration": "https://durhamcountylibrary.libcal.com/event/16966211",
+              "indoor": true,
+              "area": "durham",
+              "source": "libcal",
+              "dropIn": false,
+              "lat": 35.880907380619,
+              "lon": -78.6281516610688
+            }
+          },
+          "timeline": [
+            {
+              "start": "07:00",
+              "end": "07:30",
+              "kind": "meal",
+              "title": "Up and breakfast"
+            },
+            {
+              "start": "07:30",
+              "end": "09:20",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "09:20",
+              "end": "09:40",
+              "kind": "routine",
+              "title": "Get ready to go",
+              "detail": "Shoes on, diaper bag, water and a snack."
+            },
+            {
+              "start": "09:40",
+              "end": "10:00",
+              "kind": "travel",
+              "title": "Drive to Pullen Park Amusements"
+            },
+            {
+              "start": "10:00",
+              "end": "12:15",
+              "kind": "outing",
+              "title": "Pullen Park Amusements",
+              "detail": "Pack a lunch to eat there."
+            },
+            {
+              "start": "12:15",
+              "end": "12:35",
+              "kind": "travel",
+              "title": "Drive home"
+            },
+            {
+              "start": "12:35",
+              "end": "12:45",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "12:45",
+              "end": "13:00",
+              "kind": "quiet",
+              "title": "Wind down",
+              "detail": "A couple of books to settle."
+            },
+            {
+              "start": "13:00",
+              "end": "14:00",
+              "kind": "nap",
+              "title": "Nap"
+            },
+            {
+              "start": "14:00",
+              "end": "14:20",
+              "kind": "routine",
+              "title": "Up and a snack"
+            },
+            {
+              "start": "14:20",
+              "end": "18:30",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "18:30",
+              "end": "19:15",
+              "kind": "meal",
+              "title": "Dinner"
+            },
+            {
+              "start": "19:15",
+              "end": "20:00",
+              "kind": "routine",
+              "title": "Bath, books and bed"
+            }
+          ]
+        },
+        {
+          "nap": "quiet",
+          "napLabel": "Quiet time",
+          "headline": "JC Raulston Arboretum autumn garden walk",
+          "main": {
+            "ref": "place:jc-raulston-arboretum",
+            "arrive": "09:00",
+            "leave": "12:00",
+            "why": "The JC Raulston Arboretum is a free NC State garden full of autumn colour — a beautiful, peaceful outdoor morning in Raleigh where a 4-year-old can wander paths, spot interesting plants, and collect fallen leaves.",
+            "tips": [
+              "Arrive at opening while the garden is quiet and the light is lovely.",
+              "Bring a small bag for leaf and seed-pod collecting along the way.",
+              "No pets allowed; head home by noon so there is time for lunch before quiet time."
+            ],
+            "interests": [
+              "nature",
+              "science",
+              "movement"
+            ],
+            "also": [],
+            "area": "raleigh",
+            "outdoor": true,
+            "source": {
+              "kind": "garden",
+              "title": "JC Raulston Arboretum",
+              "address": "4415 Beryl Rd, Raleigh, NC 27606",
+              "url": "https://jcra.ncsu.edu/",
+              "amenities": [
+                "garden",
+                "nature"
+              ],
+              "indoor": false,
+              "area": "raleigh",
+              "hours": {
+                "mon": "9 a.m.–4:30 p.m.",
+                "tue": "9 a.m.–4:30 p.m.",
+                "wed": "9 a.m.–4:30 p.m.",
+                "thu": "9 a.m.–4:30 p.m.",
+                "fri": "9 a.m.–4:30 p.m.",
+                "sat": "9 a.m.–5 p.m.",
+                "sun": "9 a.m.–5 p.m."
+              },
+              "lat": 35.794,
+              "lon": -78.6987,
+              "cost": "Free",
+              "note": "Free. NC State’s garden; no pets."
+            }
+          },
+          "alternatives": [
+            {
+              "ref": "place:pullen-park-amusements",
+              "arrive": "10:00",
+              "leave": "12:20",
+              "why": "Pullen Park has a carousel, miniature train, and playground — a fun outdoor morning in Raleigh before quiet time.",
+              "tips": [
+                "Arrive at 10:00 when the amusements open.",
+                "Bring a snack for the picnic shelter.",
+                "Leave by 12:20 so you are home in time for lunch and quiet time."
+              ],
+              "interests": [
+                "vehicles",
+                "movement",
+                "nature"
+              ],
+              "also": [],
+              "area": "raleigh",
+              "outdoor": true,
+              "source": {
+                "kind": "park",
+                "title": "Pullen Park Amusements",
+                "address": "410 Park Ave, Raleigh, NC 27606",
+                "url": "https://raleighnc.gov/parks-and-recreation/places/pullen-park-amusements",
+                "amenities": [
+                  "carousel",
+                  "boating",
+                  "train",
+                  "amusements",
+                  "courts",
+                  "playground",
+                  "picnic-shelter"
+                ],
+                "indoor": false,
+                "area": "raleigh",
+                "hours": {
+                  "mon": "10 a.m.–6 p.m.",
+                  "tue": "10 a.m.–6 p.m.",
+                  "wed": "10 a.m.–6 p.m.",
+                  "thu": "10 a.m.–6 p.m.",
+                  "fri": "10 a.m.–8 p.m.",
+                  "sat": "10 a.m.–8 p.m.",
+                  "sun": "10 a.m.–8 p.m."
+                },
+                "lat": 35.7806,
+                "lon": -78.66396,
+                "cost": null
+              }
+            },
+            {
+              "ref": "event:wake-parks:8358:2026-11-02",
+              "arrive": "08:50",
+              "leave": "10:30",
+              "why": "The StoryWalk at Beech Bluff County Park is a self-guided story stroll on the ADA-accessible loop — a gentle south-Wake outdoor morning.",
+              "tips": [
+                "Arrive early while the park is quiet.",
+                "Let your child lead the pace and stop at each story panel.",
+                "The playground is right there for play after the loop."
+              ],
+              "interests": [
+                "stories",
+                "nature",
+                "movement"
+              ],
+              "also": [],
+              "area": "south-wake",
+              "outdoor": true,
+              "source": {
+                "kind": "event",
+                "title": "Beech Bluff County Park StoryWalk® 2026 (Self-Led)",
+                "start": "2026-11-02T08:00:00",
+                "end": "2026-11-02T17:30:00",
+                "venue": "Beech Bluff County Park",
+                "address": "Beech Bluff Park Drive, Fuquay-Varina, NC",
+                "url": "https://apm.activecommunities.com/wakeparks/Activity_Search/beech-bluff-county-park-storywalk-2026-self-led/8358?locale=en-US",
+                "cost": "Free",
+                "ages": null,
+                "registration": false,
+                "indoor": false,
+                "area": "south-wake",
+                "source": "wake-parks",
+                "dropIn": true,
+                "lat": 35.58537279715877,
+                "lon": -78.6793341971644
+              }
+            },
+            {
+              "ref": "event:wake:22430",
+              "arrive": "09:20",
+              "leave": "10:30",
+              "why": "Family Storytime at Cary Regional Library is an interactive program for ages 0–5 with books, music and movement. Heater Park is right nearby for outdoor play after.",
+              "also": [
+                {
+                  "ref": "place:heater-park",
+                  "source": {
+                    "kind": "park",
+                    "title": "Heater Park",
+                    "address": "400 S West Street, Cary, NC",
+                    "url": "https://www.carync.gov/recreation-enjoyment/parks-greenways-environment/parks/heater-park",
+                    "amenities": [
+                      "playground"
+                    ],
+                    "indoor": false,
+                    "area": "cary-apex",
+                    "hours": null,
+                    "lat": 35.782741238152695,
+                    "lon": -78.78762242839083,
+                    "cost": null
+                  }
+                }
+              ],
+              "tips": [
+                "Pick up a ticket at the Youth Services desk when you arrive.",
+                "Heater Park is a short walk from the library for outdoor play after storytime.",
+                "Weather permitting, plan 20 minutes at the park before heading home."
+              ],
+              "interests": [
+                "stories",
+                "music",
+                "movement"
+              ],
+              "area": "cary-apex",
+              "outdoor": false,
+              "source": {
+                "kind": "event",
+                "title": "Family Storytime",
+                "start": "2026-11-02T09:30:00-05:00",
+                "end": "2026-11-02T10:00:00-05:00",
+                "venue": "Cary Regional Library",
+                "address": "315 Kildaire Farm Road, Cary, NC",
+                "url": "https://www.wake.gov/events/family-storytime-4217",
+                "cost": "Free",
+                "ages": "Young Children",
+                "registration": null,
+                "indoor": true,
+                "area": "cary-apex",
+                "source": "wake-county",
+                "dropIn": false,
+                "lat": 35.7829780174653,
+                "lon": -78.780241332586
+              }
+            }
+          ],
+          "rainBackup": {
+            "ref": "event:durham-rec:19772:2026-11-02",
+            "arrive": "09:50",
+            "leave": "12:00",
+            "why": "Total Tot Time at W.D. Hill Rec Center is an indoor gym play session for ages 1–6 with parachutes, tunnels and balls — a perfect rainy-day morning in Durham if the arboretum is too wet.",
+            "tips": [
+              "Registration is required — sign up in advance.",
+              "This is a high-energy indoor session — great for burning off energy on a rainy day.",
+              "Head home by 12:00 so there is time for lunch before quiet time."
+            ],
+            "interests": [
+              "movement",
+              "science"
+            ],
+            "also": [],
+            "area": "durham",
+            "outdoor": false,
+            "source": {
+              "kind": "event",
+              "title": "Total Tot Time",
+              "start": "2026-11-02T10:00:00",
+              "end": "2026-11-02T12:00:00",
+              "venue": "W.D. Hill Rec Ctr",
+              "address": "1308 Fayetteville St, Durham, NC",
+              "url": "https://apm.activecommunities.com/dprplaymore/Activity_Search/total-tot-time/19772?locale=en-US",
+              "cost": null,
+              "ages": "1 - 6",
+              "registration": "https://apm.activecommunities.com/dprplaymore/Activity_Search/total-tot-time/19772?locale=en-US",
+              "indoor": true,
+              "area": "durham",
+              "source": "durham-rec",
+              "dropIn": false,
+              "lat": 35.9797,
+              "lon": -78.8985
+            }
+          },
+          "timeline": [
+            {
+              "start": "07:00",
+              "end": "07:30",
+              "kind": "meal",
+              "title": "Up and breakfast"
+            },
+            {
+              "start": "07:30",
+              "end": "08:20",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "08:20",
+              "end": "08:40",
+              "kind": "routine",
+              "title": "Get ready to go",
+              "detail": "Shoes on, diaper bag, water and a snack."
+            },
+            {
+              "start": "08:40",
+              "end": "09:00",
+              "kind": "travel",
+              "title": "Drive to JC Raulston Arboretum"
+            },
+            {
+              "start": "09:00",
+              "end": "12:00",
+              "kind": "outing",
+              "title": "JC Raulston Arboretum"
+            },
+            {
+              "start": "12:00",
+              "end": "12:20",
+              "kind": "travel",
+              "title": "Drive home"
+            },
+            {
+              "start": "12:20",
+              "end": "12:50",
+              "kind": "meal",
+              "title": "Lunch"
+            },
+            {
+              "start": "12:50",
+              "end": "13:00",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "13:00",
+              "end": "13:45",
+              "kind": "quiet",
+              "title": "Quiet time",
+              "detail": "Books or quiet play in their room."
+            },
+            {
+              "start": "13:45",
+              "end": "18:00",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "18:00",
+              "end": "18:45",
+              "kind": "meal",
+              "title": "Dinner"
+            },
+            {
+              "start": "18:45",
+              "end": "19:30",
+              "kind": "routine",
+              "title": "Bath, books and bed"
+            }
+          ]
+        },
+        {
+          "nap": "no-nap",
+          "napLabel": "No nap",
+          "headline": "Beech Bluff County Park StoryWalk and park morning",
+          "main": {
+            "ref": "event:wake-parks:8358:2026-11-02",
+            "arrive": "08:50",
+            "leave": "10:30",
+            "why": "The StoryWalk at Beech Bluff County Park is a self-guided story stroll through a picture book displayed on signs along the ADA-accessible Educational Loop — reading and walking together through a pretty south-Wake park on a mild November morning.",
+            "tips": [
+              "Arrive early while the park is quiet and the loop is at its best.",
+              "Let your child lead the pace — stopping to read each panel together is the whole point.",
+              "The park playground is right there for extra play after the loop."
+            ],
+            "interests": [
+              "stories",
+              "nature",
+              "movement"
+            ],
+            "also": [],
+            "area": "south-wake",
+            "outdoor": true,
+            "source": {
+              "kind": "event",
+              "title": "Beech Bluff County Park StoryWalk® 2026 (Self-Led)",
+              "start": "2026-11-02T08:00:00",
+              "end": "2026-11-02T17:30:00",
+              "venue": "Beech Bluff County Park",
+              "address": "Beech Bluff Park Drive, Fuquay-Varina, NC",
+              "url": "https://apm.activecommunities.com/wakeparks/Activity_Search/beech-bluff-county-park-storywalk-2026-self-led/8358?locale=en-US",
+              "cost": "Free",
+              "ages": null,
+              "registration": false,
+              "indoor": false,
+              "area": "south-wake",
+              "source": "wake-parks",
+              "dropIn": true,
+              "lat": 35.58537279715877,
+              "lon": -78.6793341971644
+            }
+          },
+          "alternatives": [
+            {
+              "ref": "place:pullen-park-amusements",
+              "arrive": "10:00",
+              "leave": "12:30",
+              "why": "Pullen Park has a carousel, miniature train, and a big playground — a great outdoor Raleigh morning for a 4-year-old who loves vehicles and movement.",
+              "tips": [
+                "Arrive at 10:00 when the amusements open.",
+                "Bring a snack for the picnic shelter.",
+                "Give a five-minute warning before leaving so the transition to the car is smooth."
+              ],
+              "interests": [
+                "vehicles",
+                "movement",
+                "nature"
+              ],
+              "also": [],
+              "area": "raleigh",
+              "outdoor": true,
+              "source": {
+                "kind": "park",
+                "title": "Pullen Park Amusements",
+                "address": "410 Park Ave, Raleigh, NC 27606",
+                "url": "https://raleighnc.gov/parks-and-recreation/places/pullen-park-amusements",
+                "amenities": [
+                  "carousel",
+                  "boating",
+                  "train",
+                  "amusements",
+                  "courts",
+                  "playground",
+                  "picnic-shelter"
+                ],
+                "indoor": false,
+                "area": "raleigh",
+                "hours": {
+                  "mon": "10 a.m.–6 p.m.",
+                  "tue": "10 a.m.–6 p.m.",
+                  "wed": "10 a.m.–6 p.m.",
+                  "thu": "10 a.m.–6 p.m.",
+                  "fri": "10 a.m.–8 p.m.",
+                  "sat": "10 a.m.–8 p.m.",
+                  "sun": "10 a.m.–8 p.m."
+                },
+                "lat": 35.7806,
+                "lon": -78.66396,
+                "cost": null
+              }
+            },
+            {
+              "ref": "place:jc-raulston-arboretum",
+              "arrive": "09:00",
+              "leave": "11:00",
+              "why": "The JC Raulston Arboretum is a free NC State garden full of autumn colour — a calm outdoor morning in Raleigh for a child who loves nature.",
+              "tips": [
+                "Arrive at opening while the garden is quiet.",
+                "Bring a small bag for leaf and seed-pod collecting.",
+                "No pets allowed at this garden."
+              ],
+              "interests": [
+                "nature",
+                "science"
+              ],
+              "also": [],
+              "area": "raleigh",
+              "outdoor": true,
+              "source": {
+                "kind": "garden",
+                "title": "JC Raulston Arboretum",
+                "address": "4415 Beryl Rd, Raleigh, NC 27606",
+                "url": "https://jcra.ncsu.edu/",
+                "amenities": [
+                  "garden",
+                  "nature"
+                ],
+                "indoor": false,
+                "area": "raleigh",
+                "hours": {
+                  "mon": "9 a.m.–4:30 p.m.",
+                  "tue": "9 a.m.–4:30 p.m.",
+                  "wed": "9 a.m.–4:30 p.m.",
+                  "thu": "9 a.m.–4:30 p.m.",
+                  "fri": "9 a.m.–4:30 p.m.",
+                  "sat": "9 a.m.–5 p.m.",
+                  "sun": "9 a.m.–5 p.m."
+                },
+                "lat": 35.794,
+                "lon": -78.6987,
+                "cost": "Free",
+                "note": "Free. NC State’s garden; no pets."
+              }
+            },
+            {
+              "ref": "event:libcal:durham-county-library:16966211",
+              "arrive": "10:20",
+              "leave": "11:30",
+              "why": "Mini Makers Workshop at North Regional Library Durham is a Monday-morning craft session for young children. Honeycutt Park is right nearby for outdoor play after.",
+              "also": [
+                {
+                  "ref": "place:honeycutt-park",
+                  "source": {
+                    "kind": "park",
+                    "title": "Honeycutt Park",
+                    "address": "1032 Clear Creek Farm Road, Raleigh, NC 27615",
+                    "url": "https://raleighnc.gov/parks-and-recreation/places/honeycutt-park",
+                    "amenities": [
+                      "picnic-shelter",
+                      "courts",
+                      "fields",
+                      "playground"
+                    ],
+                    "indoor": false,
+                    "area": "north-raleigh",
+                    "hours": null,
+                    "lat": 35.9023,
+                    "lon": -78.6259,
+                    "cost": null
+                  }
+                }
+              ],
+              "tips": [
+                "Registration is required — sign up in advance.",
+                "Honeycutt Park is a short drive for outdoor play after, weather permitting.",
+                "Plan 20 minutes at the park before heading home."
+              ],
+              "interests": [
+                "art",
+                "science",
+                "movement"
+              ],
+              "area": "durham",
+              "outdoor": false,
+              "source": {
+                "kind": "event",
+                "title": "Mini Makers Workshop",
+                "start": "2026-11-02T10:30:00",
+                "end": "2026-11-02T11:00:00",
+                "venue": "North Regional Library",
+                "address": "221 Milton Rd, Durham, NC",
+                "url": "https://durhamcountylibrary.libcal.com/event/16966211",
+                "cost": null,
+                "ages": "Elementary School, Kindergarten, Toddler, DPS",
+                "registration": "https://durhamcountylibrary.libcal.com/event/16966211",
+                "indoor": true,
+                "area": "durham",
+                "source": "libcal",
+                "dropIn": false,
+                "lat": 35.880907380619,
+                "lon": -78.6281516610688
+              }
+            }
+          ],
+          "rainBackup": {
+            "ref": "event:libcal:durham-county-library:16966211",
+            "arrive": "10:20",
+            "leave": "11:30",
+            "why": "Mini Makers Workshop at North Regional Library Durham is a Monday-morning craft session for young children — a good indoor swap if Beech Bluff is too wet for the StoryWalk.",
+            "also": [
+              {
+                "ref": "place:honeycutt-park",
+                "source": {
+                  "kind": "park",
+                  "title": "Honeycutt Park",
+                  "address": "1032 Clear Creek Farm Road, Raleigh, NC 27615",
+                  "url": "https://raleighnc.gov/parks-and-recreation/places/honeycutt-park",
+                  "amenities": [
+                    "picnic-shelter",
+                    "courts",
+                    "fields",
+                    "playground"
+                  ],
+                  "indoor": false,
+                  "area": "north-raleigh",
+                  "hours": null,
+                  "lat": 35.9023,
+                  "lon": -78.6259,
+                  "cost": null
+                }
+              }
+            ],
+            "tips": [
+              "Registration is required — sign up in advance.",
+              "Honeycutt Park is right nearby for a short outdoor stop if the rain clears, weather permitting.",
+              "This is a short, focused session — a calm rainy-day start to the week."
+            ],
+            "interests": [
+              "art",
+              "science"
+            ],
+            "area": "durham",
+            "outdoor": false,
+            "source": {
+              "kind": "event",
+              "title": "Mini Makers Workshop",
+              "start": "2026-11-02T10:30:00",
+              "end": "2026-11-02T11:00:00",
+              "venue": "North Regional Library",
+              "address": "221 Milton Rd, Durham, NC",
+              "url": "https://durhamcountylibrary.libcal.com/event/16966211",
+              "cost": null,
+              "ages": "Elementary School, Kindergarten, Toddler, DPS",
+              "registration": "https://durhamcountylibrary.libcal.com/event/16966211",
+              "indoor": true,
+              "area": "durham",
+              "source": "libcal",
+              "dropIn": false,
+              "lat": 35.880907380619,
+              "lon": -78.6281516610688
+            }
+          },
+          "timeline": [
+            {
+              "start": "07:00",
+              "end": "07:30",
+              "kind": "meal",
+              "title": "Up and breakfast"
+            },
+            {
+              "start": "07:30",
+              "end": "08:10",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "08:10",
+              "end": "08:30",
+              "kind": "routine",
+              "title": "Get ready to go",
+              "detail": "Shoes on, diaper bag, water and a snack."
+            },
+            {
+              "start": "08:30",
+              "end": "08:50",
+              "kind": "travel",
+              "title": "Drive to Beech Bluff County Park"
+            },
+            {
+              "start": "08:50",
+              "end": "10:30",
+              "kind": "outing",
+              "title": "Beech Bluff County Park"
+            },
+            {
+              "start": "10:30",
+              "end": "10:50",
+              "kind": "travel",
+              "title": "Drive home"
+            },
+            {
+              "start": "10:50",
+              "end": "11:45",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "11:45",
+              "end": "12:15",
+              "kind": "meal",
+              "title": "Lunch"
+            },
+            {
+              "start": "12:15",
+              "end": "18:00",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "18:00",
+              "end": "18:45",
+              "kind": "meal",
+              "title": "Dinner"
+            },
+            {
+              "start": "18:45",
+              "end": "19:30",
+              "kind": "routine",
+              "title": "Bath, books and bed"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "checked": {
+    "at": "2026-11-01T11:03:30.200Z",
+    "forecast": "nws",
+    "weather": {
+      "period": "Monday",
+      "tempF": 70,
+      "precipProbability": 0,
+      "shortForecast": "Partly Sunny",
+      "hours": [
+        {
+          "t": "05:00",
+          "tempF": 50,
+          "pop": 0
+        },
+        {
+          "t": "06:00",
+          "tempF": 50,
+          "pop": 0
+        },
+        {
+          "t": "07:00",
+          "tempF": 50,
+          "pop": 0
+        },
+        {
+          "t": "08:00",
+          "tempF": 53,
+          "pop": 0
+        },
+        {
+          "t": "09:00",
+          "tempF": 56,
+          "pop": 0
+        },
+        {
+          "t": "10:00",
+          "tempF": 60,
+          "pop": 0
+        },
+        {
+          "t": "11:00",
+          "tempF": 63,
+          "pop": 0
+        },
+        {
+          "t": "12:00",
+          "tempF": 66,
+          "pop": 0
+        },
+        {
+          "t": "13:00",
+          "tempF": 68,
+          "pop": 0
+        },
+        {
+          "t": "14:00",
+          "tempF": 69,
+          "pop": 0
+        },
+        {
+          "t": "15:00",
+          "tempF": 69,
+          "pop": 0
+        },
+        {
+          "t": "16:00",
+          "tempF": 69,
+          "pop": 0
+        },
+        {
+          "t": "17:00",
+          "tempF": 66,
+          "pop": 0
+        },
+        {
+          "t": "18:00",
+          "tempF": 63,
+          "pop": 0
+        },
+        {
+          "t": "19:00",
+          "tempF": 60,
+          "pop": 0
+        },
+        {
+          "t": "20:00",
+          "tempF": 58,
+          "pop": 0
+        },
+        {
+          "t": "21:00",
+          "tempF": 56,
+          "pop": 0
+        },
+        {
+          "t": "22:00",
+          "tempF": 55,
+          "pop": 0
+        },
+        {
+          "t": "23:00",
+          "tempF": 54,
+          "pop": 0
+        }
+      ]
+    },
+    "hidden": []
+  }
+}

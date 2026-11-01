@@ -1,0 +1,901 @@
+{
+  "date": "2026-11-08",
+  "band": "t2",
+  "versions": [
+    {
+      "at": "2026-10-27T08:32:35.830Z",
+      "reason": null,
+      "forecast": "none",
+      "weather": null,
+      "plans": [
+        {
+          "nap": "early-nap",
+          "napLabel": "One nap, 12 to 2",
+          "headline": "Levelle Moton Park and Dueling Dinosaurs Sensory Friendly Morning",
+          "main": {
+            "ref": "place:levelle-moton-park",
+            "also": [
+              {
+                "ref": "event:museum:nc-natural-sciences:119080",
+                "source": {
+                  "kind": "event",
+                  "title": "Dueling Dinosaurs Sensory Friendly Mornings",
+                  "start": "2026-11-08T10:00:00",
+                  "end": "2026-11-08T12:00:00",
+                  "venue": "NC Museum of Natural Sciences",
+                  "address": "11 West Jones Street, Raleigh, NC, 27601",
+                  "url": "https://www.naturalsciences.org/calendar/event/dueling-dinosaurs-sensory-friendly-mornings-2/2026-11-08/",
+                  "cost": null,
+                  "ages": "Recommended Audience All ages, particularly neurodivergent audiences.",
+                  "registration": null,
+                  "indoor": true,
+                  "area": "raleigh",
+                  "source": "museum",
+                  "dropIn": false,
+                  "lat": 35.7822735,
+                  "lon": -78.6395502
+                }
+              }
+            ],
+            "arrive": "09:15",
+            "leave": "11:30",
+            "why": "A playground run at Levelle Moton Park gets the wiggles out before the Sensory Friendly Morning at Dueling Dinosaurs, where the exhibits are calmer and better lit for young visitors exploring giant fossil casts.",
+            "tips": [
+              "Start at the park by 09:15 so your child has a good run and some fresh air before the museum opens at 10:00.",
+              "The sensory-friendly setting means lower noise and softer lighting — a snack in the bag helps for the drive home.",
+              "Plan to leave the museum by 11:30 so you are home comfortably before the noon nap."
+            ],
+            "interests": [
+              "dinosaurs",
+              "science",
+              "movement"
+            ],
+            "area": "raleigh",
+            "outdoor": false,
+            "source": {
+              "kind": "park",
+              "title": "LeVelle Moton Park",
+              "address": "920 E. Lane Street, Raleigh, NC 27601",
+              "url": "https://raleighnc.gov/parks-and-recreation/places/levelle-moton-park",
+              "amenities": [
+                "picnic-shelter",
+                "courts",
+                "playground"
+              ],
+              "indoor": false,
+              "area": "raleigh",
+              "hours": null,
+              "lat": 35.78316,
+              "lon": -78.62606,
+              "cost": null
+            }
+          },
+          "alternatives": [
+            {
+              "ref": "place:nc-botanical-garden",
+              "arrive": "09:00",
+              "leave": "11:00",
+              "why": "The free trails and display gardens at NC Botanical Garden give a calm Sunday morning of plants, seeds and nature discoveries at a pace a two-year-old can set themselves.",
+              "tips": [
+                "Arrive at open for the quietest paths of the day.",
+                "The short forest trails at the back are just the right length for little legs.",
+                "Pack a snack to eat on a bench before the drive home."
+              ],
+              "interests": [
+                "nature",
+                "science"
+              ],
+              "also": [],
+              "area": "chapel-hill",
+              "outdoor": true,
+              "source": {
+                "kind": "garden",
+                "title": "NC Botanical Garden",
+                "address": "100 Old Mason Farm Rd, Chapel Hill, NC 27517",
+                "url": "https://ncbg.unc.edu/visit/",
+                "amenities": [
+                  "garden",
+                  "nature",
+                  "restroom"
+                ],
+                "indoor": false,
+                "area": "chapel-hill",
+                "lat": 35.9011,
+                "lon": -79.0319,
+                "cost": "Free",
+                "note": "Free. Display gardens, and nature trails through the forest behind them."
+              }
+            },
+            {
+              "ref": "event:museum:duke-gardens:17496",
+              "arrive": "09:50",
+              "leave": "11:20",
+              "why": "The Japanese Garden at Duke Gardens is filled with vivid exhibition mums — a beautiful, free drop-in walk that makes a calm and colourful Sunday morning out.",
+              "tips": [
+                "Arrive just before 10:00 when the drop-in opens; no registration needed.",
+                "Paths handle a stroller easily throughout.",
+                "A snack in the bag helps bridge the gap home."
+              ],
+              "interests": [
+                "art",
+                "nature"
+              ],
+              "also": [],
+              "area": "durham",
+              "outdoor": true,
+              "source": {
+                "kind": "event",
+                "title": "A Festival of Fabulous Mums",
+                "start": "2026-11-08T10:00:00",
+                "end": "2026-11-08T16:00:00",
+                "venue": "Sarah P. Duke Gardens",
+                "address": "420 Anderson Street, Durham, NC, 27708",
+                "url": "https://gardens.duke.edu/event/a-festival-of-fabulous-mums-6/",
+                "cost": "Free",
+                "ages": "Adult Programs Family programs Festival of Fabulous Mums",
+                "registration": false,
+                "indoor": false,
+                "area": "durham",
+                "source": "museum",
+                "dropIn": true,
+                "lat": 36.0024,
+                "lon": -78.9328
+              }
+            },
+            {
+              "ref": "event:wake-parks:8358:2026-11-08",
+              "arrive": "08:30",
+              "leave": "11:00",
+              "why": "Pages of a picture book are posted along an accessible trail loop at Beech Bluff County Park, so story time and a nature walk happen together.",
+              "tips": [
+                "Start early so you have plenty of trail time before heading home for the nap.",
+                "The ADA-accessible loop works well with a stroller or wagon.",
+                "Bring a snack to eat at the picnic shelter when you finish."
+              ],
+              "interests": [
+                "stories",
+                "nature",
+                "movement"
+              ],
+              "also": [],
+              "area": "south-wake",
+              "outdoor": true,
+              "source": {
+                "kind": "event",
+                "title": "Beech Bluff County Park StoryWalk® 2026 (Self-Led)",
+                "start": "2026-11-08T08:00:00",
+                "end": "2026-11-08T17:30:00",
+                "venue": "Beech Bluff County Park",
+                "address": "Beech Bluff Park Drive, Fuquay-Varina, NC",
+                "url": "https://apm.activecommunities.com/wakeparks/Activity_Search/beech-bluff-county-park-storywalk-2026-self-led/8358?locale=en-US",
+                "cost": "Free",
+                "ages": null,
+                "registration": false,
+                "indoor": false,
+                "area": "south-wake",
+                "source": "wake-parks",
+                "dropIn": true,
+                "lat": 35.58537279715877,
+                "lon": -78.6793341971644
+              }
+            },
+            {
+              "ref": "event:wake-parks:9418",
+              "arrive": "14:20",
+              "leave": "16:00",
+              "why": "The doors of Historic Yates Mill are thrown open with interpreters on hand to explain how the mill works — a free and unusual afternoon outing at a pretty county park on the pond.",
+              "tips": [
+                "Registration is required; book your spot before the day.",
+                "The mill sits beside a pond and trails you can wander after looking around inside.",
+                "Arrive at 14:20 and leave by 16:00 when the program ends."
+              ],
+              "interests": [
+                "science",
+                "nature"
+              ],
+              "also": [],
+              "area": "raleigh",
+              "outdoor": true,
+              "source": {
+                "kind": "event",
+                "title": "Mill Open House",
+                "start": "2026-11-08T13:00:00",
+                "end": "2026-11-08T16:00:00",
+                "venue": "Historic Yates Mill County Park",
+                "address": "4620 Lake Wheeler Rd., Raleigh, NC  27603",
+                "url": "https://apm.activecommunities.com/wakeparks/Activity_Search/mill-open-house/9418?locale=en-US",
+                "cost": null,
+                "ages": null,
+                "registration": "https://apm.activecommunities.com/wakeparks/Activity_Search/mill-open-house/9418?locale=en-US",
+                "indoor": false,
+                "area": "raleigh",
+                "source": "wake-parks",
+                "dropIn": false,
+                "lat": 35.72157134974476,
+                "lon": -78.68526087901417
+              }
+            }
+          ],
+          "rainBackup": null,
+          "timeline": [
+            {
+              "start": "07:00",
+              "end": "07:30",
+              "kind": "meal",
+              "title": "Up and breakfast"
+            },
+            {
+              "start": "07:30",
+              "end": "08:35",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "08:35",
+              "end": "08:55",
+              "kind": "routine",
+              "title": "Get ready to go",
+              "detail": "Shoes on, diaper bag, water and a snack."
+            },
+            {
+              "start": "08:55",
+              "end": "09:15",
+              "kind": "travel",
+              "title": "Drive to LeVelle Moton Park"
+            },
+            {
+              "start": "09:15",
+              "end": "09:50",
+              "kind": "outing",
+              "title": "LeVelle Moton Park",
+              "detail": "Pack a lunch to eat there."
+            },
+            {
+              "start": "09:50",
+              "end": "10:00",
+              "kind": "travel",
+              "title": "Drive to NC Museum of Natural Sciences"
+            },
+            {
+              "start": "10:00",
+              "end": "11:30",
+              "kind": "outing",
+              "title": "Dueling Dinosaurs Sensory Friendly Mornings"
+            },
+            {
+              "start": "11:30",
+              "end": "11:50",
+              "kind": "travel",
+              "title": "Drive home"
+            },
+            {
+              "start": "11:50",
+              "end": "12:00",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "12:00",
+              "end": "14:00",
+              "kind": "nap",
+              "title": "Nap"
+            },
+            {
+              "start": "14:00",
+              "end": "14:20",
+              "kind": "routine",
+              "title": "Up and a snack"
+            },
+            {
+              "start": "14:20",
+              "end": "18:00",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "18:00",
+              "end": "18:45",
+              "kind": "meal",
+              "title": "Dinner"
+            },
+            {
+              "start": "18:45",
+              "end": "19:30",
+              "kind": "routine",
+              "title": "Bath, books and bed"
+            }
+          ]
+        },
+        {
+          "nap": "late-nap",
+          "napLabel": "One nap, 1 to 3",
+          "headline": "NC Botanical Garden Sunday morning",
+          "main": {
+            "ref": "place:nc-botanical-garden",
+            "arrive": "09:00",
+            "leave": "11:00",
+            "why": "The free display gardens and short forest trails at NC Botanical Garden give a two-year-old a relaxed Sunday morning of plants, seeds and nature discoveries at their own pace.",
+            "tips": [
+              "Arrive at open when the paths are at their quietest.",
+              "The forest trails at the back of the garden are short enough for little legs but feel like a real adventure.",
+              "Pack a water bottle and a snack to eat on a bench before the drive home."
+            ],
+            "interests": [
+              "nature",
+              "science"
+            ],
+            "also": [],
+            "area": "chapel-hill",
+            "outdoor": true,
+            "source": {
+              "kind": "garden",
+              "title": "NC Botanical Garden",
+              "address": "100 Old Mason Farm Rd, Chapel Hill, NC 27517",
+              "url": "https://ncbg.unc.edu/visit/",
+              "amenities": [
+                "garden",
+                "nature",
+                "restroom"
+              ],
+              "indoor": false,
+              "area": "chapel-hill",
+              "lat": 35.9011,
+              "lon": -79.0319,
+              "cost": "Free",
+              "note": "Free. Display gardens, and nature trails through the forest behind them."
+            }
+          },
+          "alternatives": [
+            {
+              "ref": "place:levelle-moton-park",
+              "also": [
+                {
+                  "ref": "event:museum:nc-natural-sciences:119080",
+                  "source": {
+                    "kind": "event",
+                    "title": "Dueling Dinosaurs Sensory Friendly Mornings",
+                    "start": "2026-11-08T10:00:00",
+                    "end": "2026-11-08T12:00:00",
+                    "venue": "NC Museum of Natural Sciences",
+                    "address": "11 West Jones Street, Raleigh, NC, 27601",
+                    "url": "https://www.naturalsciences.org/calendar/event/dueling-dinosaurs-sensory-friendly-mornings-2/2026-11-08/",
+                    "cost": null,
+                    "ages": "Recommended Audience All ages, particularly neurodivergent audiences.",
+                    "registration": null,
+                    "indoor": true,
+                    "area": "raleigh",
+                    "source": "museum",
+                    "dropIn": false,
+                    "lat": 35.7822735,
+                    "lon": -78.6395502
+                  }
+                }
+              ],
+              "arrive": "09:15",
+              "leave": "12:00",
+              "why": "A playground run at Levelle Moton Park leads into the Sensory Friendly Morning at Dueling Dinosaurs, with quieter, lower-lit exhibits that suit young visitors well.",
+              "tips": [
+                "Arrive at the park by 09:15 for a good run before the museum opens at 10:00.",
+                "The sensory-friendly setting is calmer than a regular museum morning — good for this age.",
+                "Bring a snack for the drive home."
+              ],
+              "interests": [
+                "dinosaurs",
+                "science",
+                "movement"
+              ],
+              "area": "raleigh",
+              "outdoor": false,
+              "source": {
+                "kind": "park",
+                "title": "LeVelle Moton Park",
+                "address": "920 E. Lane Street, Raleigh, NC 27601",
+                "url": "https://raleighnc.gov/parks-and-recreation/places/levelle-moton-park",
+                "amenities": [
+                  "picnic-shelter",
+                  "courts",
+                  "playground"
+                ],
+                "indoor": false,
+                "area": "raleigh",
+                "hours": null,
+                "lat": 35.78316,
+                "lon": -78.62606,
+                "cost": null
+              }
+            },
+            {
+              "ref": "event:museum:duke-gardens:17496",
+              "arrive": "09:50",
+              "leave": "11:20",
+              "why": "Exhibition mums fill the Japanese Garden at Duke Gardens with peak fall colour — a free and calm drop-in walk that is easy to leave whenever energy runs out.",
+              "tips": [
+                "Arrive just before 10:00; no ticket or registration needed.",
+                "A stroller handles all the paths easily.",
+                "Pack a snack for the drive home."
+              ],
+              "interests": [
+                "art",
+                "nature"
+              ],
+              "also": [],
+              "area": "durham",
+              "outdoor": true,
+              "source": {
+                "kind": "event",
+                "title": "A Festival of Fabulous Mums",
+                "start": "2026-11-08T10:00:00",
+                "end": "2026-11-08T16:00:00",
+                "venue": "Sarah P. Duke Gardens",
+                "address": "420 Anderson Street, Durham, NC, 27708",
+                "url": "https://gardens.duke.edu/event/a-festival-of-fabulous-mums-6/",
+                "cost": "Free",
+                "ages": "Adult Programs Family programs Festival of Fabulous Mums",
+                "registration": false,
+                "indoor": false,
+                "area": "durham",
+                "source": "museum",
+                "dropIn": true,
+                "lat": 36.0024,
+                "lon": -78.9328
+              }
+            },
+            {
+              "ref": "event:wake-parks:8358:2026-11-08",
+              "arrive": "08:30",
+              "leave": "11:00",
+              "why": "A picture book is laid out page by page along an accessible trail at Beech Bluff County Park, so the story and the walk happen at the same time.",
+              "tips": [
+                "Start early for the best of the morning light and the coolest air.",
+                "The loop is ADA accessible — stroller or wagon works fine.",
+                "Bring a snack for the picnic shelter at the end."
+              ],
+              "interests": [
+                "stories",
+                "nature",
+                "movement"
+              ],
+              "also": [],
+              "area": "south-wake",
+              "outdoor": true,
+              "source": {
+                "kind": "event",
+                "title": "Beech Bluff County Park StoryWalk® 2026 (Self-Led)",
+                "start": "2026-11-08T08:00:00",
+                "end": "2026-11-08T17:30:00",
+                "venue": "Beech Bluff County Park",
+                "address": "Beech Bluff Park Drive, Fuquay-Varina, NC",
+                "url": "https://apm.activecommunities.com/wakeparks/Activity_Search/beech-bluff-county-park-storywalk-2026-self-led/8358?locale=en-US",
+                "cost": "Free",
+                "ages": null,
+                "registration": false,
+                "indoor": false,
+                "area": "south-wake",
+                "source": "wake-parks",
+                "dropIn": true,
+                "lat": 35.58537279715877,
+                "lon": -78.6793341971644
+              }
+            },
+            {
+              "ref": "event:museum:durham-central-park:13905",
+              "arrive": "15:20",
+              "leave": "16:00",
+              "why": "National Pupusa Day at Durham Central Park is a free outdoor food and cultural drop-in — something different for a Sunday afternoon with a curious two-year-old.",
+              "tips": [
+                "Arrive at 15:20 and enjoy what time remains before the event ends at 16:00.",
+                "Bring a bib or a spare top — pupusas are tasty but messy.",
+                "The park has open lawn and paths to wander between food stops."
+              ],
+              "interests": [
+                "movement",
+                "nature"
+              ],
+              "also": [],
+              "area": "durham",
+              "outdoor": true,
+              "source": {
+                "kind": "event",
+                "title": "National Pupusa Day",
+                "start": "2026-11-08T12:00:00",
+                "end": "2026-11-08T16:00:00",
+                "venue": "Durham Central Park",
+                "address": "501 Foster Street, Durham, NC, 27701",
+                "url": "https://durhamcentralpark.org/upcoming-event/national-pupusa-day-3/",
+                "cost": null,
+                "ages": null,
+                "registration": null,
+                "indoor": false,
+                "area": "durham",
+                "source": "museum",
+                "dropIn": true,
+                "lat": 36.0008,
+                "lon": -78.9021
+              }
+            }
+          ],
+          "rainBackup": null,
+          "timeline": [
+            {
+              "start": "07:00",
+              "end": "07:30",
+              "kind": "meal",
+              "title": "Up and breakfast"
+            },
+            {
+              "start": "07:30",
+              "end": "08:20",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "08:20",
+              "end": "08:40",
+              "kind": "routine",
+              "title": "Get ready to go",
+              "detail": "Shoes on, diaper bag, water and a snack."
+            },
+            {
+              "start": "08:40",
+              "end": "09:00",
+              "kind": "travel",
+              "title": "Drive to NC Botanical Garden"
+            },
+            {
+              "start": "09:00",
+              "end": "11:00",
+              "kind": "outing",
+              "title": "NC Botanical Garden"
+            },
+            {
+              "start": "11:00",
+              "end": "11:20",
+              "kind": "travel",
+              "title": "Drive home"
+            },
+            {
+              "start": "11:20",
+              "end": "12:15",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "12:15",
+              "end": "12:45",
+              "kind": "meal",
+              "title": "Lunch"
+            },
+            {
+              "start": "12:45",
+              "end": "13:00",
+              "kind": "quiet",
+              "title": "Wind down",
+              "detail": "A couple of books to settle."
+            },
+            {
+              "start": "13:00",
+              "end": "15:00",
+              "kind": "nap",
+              "title": "Nap"
+            },
+            {
+              "start": "15:00",
+              "end": "15:20",
+              "kind": "routine",
+              "title": "Up and a snack"
+            },
+            {
+              "start": "15:20",
+              "end": "18:30",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "18:30",
+              "end": "19:15",
+              "kind": "meal",
+              "title": "Dinner"
+            },
+            {
+              "start": "19:15",
+              "end": "20:00",
+              "kind": "routine",
+              "title": "Bath, books and bed"
+            }
+          ]
+        },
+        {
+          "nap": "short-nap",
+          "napLabel": "Short nap, 1 to 2",
+          "headline": "National Pupusa Day at Durham Central Park",
+          "main": {
+            "ref": "event:museum:durham-central-park:13905",
+            "arrive": "14:40",
+            "leave": "15:30",
+            "why": "National Pupusa Day at Durham Central Park is a free outdoor food and cultural celebration — a lively afternoon browse with food, people and open park space that a two-year-old can enjoy at their own pace.",
+            "tips": [
+              "It is a drop-in, so arrive after the nap and stay as long as the mood holds.",
+              "Bring a bib or a spare shirt — pupusas are delicious and messy.",
+              "Durham Central Park has open lawn and paths to wander between stops."
+            ],
+            "interests": [
+              "movement",
+              "nature"
+            ],
+            "also": [],
+            "area": "durham",
+            "outdoor": true,
+            "source": {
+              "kind": "event",
+              "title": "National Pupusa Day",
+              "start": "2026-11-08T12:00:00",
+              "end": "2026-11-08T16:00:00",
+              "venue": "Durham Central Park",
+              "address": "501 Foster Street, Durham, NC, 27701",
+              "url": "https://durhamcentralpark.org/upcoming-event/national-pupusa-day-3/",
+              "cost": null,
+              "ages": null,
+              "registration": null,
+              "indoor": false,
+              "area": "durham",
+              "source": "museum",
+              "dropIn": true,
+              "lat": 36.0008,
+              "lon": -78.9021
+            }
+          },
+          "alternatives": [
+            {
+              "ref": "place:levelle-moton-park",
+              "also": [
+                {
+                  "ref": "event:museum:nc-natural-sciences:119080",
+                  "source": {
+                    "kind": "event",
+                    "title": "Dueling Dinosaurs Sensory Friendly Mornings",
+                    "start": "2026-11-08T10:00:00",
+                    "end": "2026-11-08T12:00:00",
+                    "venue": "NC Museum of Natural Sciences",
+                    "address": "11 West Jones Street, Raleigh, NC, 27601",
+                    "url": "https://www.naturalsciences.org/calendar/event/dueling-dinosaurs-sensory-friendly-mornings-2/2026-11-08/",
+                    "cost": null,
+                    "ages": "Recommended Audience All ages, particularly neurodivergent audiences.",
+                    "registration": null,
+                    "indoor": true,
+                    "area": "raleigh",
+                    "source": "museum",
+                    "dropIn": false,
+                    "lat": 35.7822735,
+                    "lon": -78.6395502
+                  }
+                }
+              ],
+              "arrive": "09:15",
+              "leave": "12:00",
+              "why": "A playground run at Levelle Moton Park leads into the Sensory Friendly Morning at Dueling Dinosaurs, where exhibits are calmer and quieter and the giant fossil casts are right at eye level.",
+              "tips": [
+                "Arrive at the park by 09:15 for a good run before the museum opens.",
+                "The sensory-friendly setting is well suited to this age — lower noise, softer lighting.",
+                "Bring a snack for the drive home."
+              ],
+              "interests": [
+                "dinosaurs",
+                "science",
+                "movement"
+              ],
+              "area": "raleigh",
+              "outdoor": false,
+              "source": {
+                "kind": "park",
+                "title": "LeVelle Moton Park",
+                "address": "920 E. Lane Street, Raleigh, NC 27601",
+                "url": "https://raleighnc.gov/parks-and-recreation/places/levelle-moton-park",
+                "amenities": [
+                  "picnic-shelter",
+                  "courts",
+                  "playground"
+                ],
+                "indoor": false,
+                "area": "raleigh",
+                "hours": null,
+                "lat": 35.78316,
+                "lon": -78.62606,
+                "cost": null
+              }
+            },
+            {
+              "ref": "place:nc-botanical-garden",
+              "arrive": "09:00",
+              "leave": "11:30",
+              "why": "Free trails and display gardens at NC Botanical Garden give a gentle Sunday morning of plants, seeds and nature discoveries at a pace a two-year-old can set for themselves.",
+              "tips": [
+                "Arrive at open when the paths are emptiest.",
+                "The short forest trails at the back feel like a real adventure for little legs.",
+                "Pack water and a snack for after the walk."
+              ],
+              "interests": [
+                "nature",
+                "science"
+              ],
+              "also": [],
+              "area": "chapel-hill",
+              "outdoor": true,
+              "source": {
+                "kind": "garden",
+                "title": "NC Botanical Garden",
+                "address": "100 Old Mason Farm Rd, Chapel Hill, NC 27517",
+                "url": "https://ncbg.unc.edu/visit/",
+                "amenities": [
+                  "garden",
+                  "nature",
+                  "restroom"
+                ],
+                "indoor": false,
+                "area": "chapel-hill",
+                "lat": 35.9011,
+                "lon": -79.0319,
+                "cost": "Free",
+                "note": "Free. Display gardens, and nature trails through the forest behind them."
+              }
+            },
+            {
+              "ref": "event:wake-parks:8358:2026-11-08",
+              "arrive": "08:30",
+              "leave": "11:00",
+              "why": "A picture book is posted page by page along an accessible trail at Beech Bluff County Park, so story time and a nature walk happen in one trip.",
+              "tips": [
+                "Start early so there is plenty of time before the drive home and the nap.",
+                "The ADA-accessible loop works well with a stroller.",
+                "Pack a snack to eat at the picnic shelter at the end of the trail."
+              ],
+              "interests": [
+                "stories",
+                "nature",
+                "movement"
+              ],
+              "also": [],
+              "area": "south-wake",
+              "outdoor": true,
+              "source": {
+                "kind": "event",
+                "title": "Beech Bluff County Park StoryWalk® 2026 (Self-Led)",
+                "start": "2026-11-08T08:00:00",
+                "end": "2026-11-08T17:30:00",
+                "venue": "Beech Bluff County Park",
+                "address": "Beech Bluff Park Drive, Fuquay-Varina, NC",
+                "url": "https://apm.activecommunities.com/wakeparks/Activity_Search/beech-bluff-county-park-storywalk-2026-self-led/8358?locale=en-US",
+                "cost": "Free",
+                "ages": null,
+                "registration": false,
+                "indoor": false,
+                "area": "south-wake",
+                "source": "wake-parks",
+                "dropIn": true,
+                "lat": 35.58537279715877,
+                "lon": -78.6793341971644
+              }
+            },
+            {
+              "ref": "event:museum:duke-gardens:17496",
+              "arrive": "09:50",
+              "leave": "11:20",
+              "why": "Exhibition mums fill the Japanese Garden at Duke Gardens with vivid fall colour — a free, calm drop-in walk that is easy to finish well before the nap.",
+              "tips": [
+                "Arrive just before 10:00 when the drop-in opens; no registration needed.",
+                "Strollers handle the paths throughout the gardens.",
+                "A snack in the bag keeps things smooth on the way home."
+              ],
+              "interests": [
+                "art",
+                "nature"
+              ],
+              "also": [],
+              "area": "durham",
+              "outdoor": true,
+              "source": {
+                "kind": "event",
+                "title": "A Festival of Fabulous Mums",
+                "start": "2026-11-08T10:00:00",
+                "end": "2026-11-08T16:00:00",
+                "venue": "Sarah P. Duke Gardens",
+                "address": "420 Anderson Street, Durham, NC, 27708",
+                "url": "https://gardens.duke.edu/event/a-festival-of-fabulous-mums-6/",
+                "cost": "Free",
+                "ages": "Adult Programs Family programs Festival of Fabulous Mums",
+                "registration": false,
+                "indoor": false,
+                "area": "durham",
+                "source": "museum",
+                "dropIn": true,
+                "lat": 36.0024,
+                "lon": -78.9328
+              }
+            }
+          ],
+          "rainBackup": null,
+          "timeline": [
+            {
+              "start": "07:00",
+              "end": "07:30",
+              "kind": "meal",
+              "title": "Up and breakfast"
+            },
+            {
+              "start": "07:30",
+              "end": "12:15",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "12:15",
+              "end": "12:45",
+              "kind": "meal",
+              "title": "Lunch"
+            },
+            {
+              "start": "12:45",
+              "end": "13:00",
+              "kind": "quiet",
+              "title": "Wind down",
+              "detail": "A couple of books to settle."
+            },
+            {
+              "start": "13:00",
+              "end": "14:00",
+              "kind": "nap",
+              "title": "Nap"
+            },
+            {
+              "start": "14:00",
+              "end": "14:20",
+              "kind": "routine",
+              "title": "Up and a snack"
+            },
+            {
+              "start": "14:20",
+              "end": "14:40",
+              "kind": "travel",
+              "title": "Drive to Durham Central Park"
+            },
+            {
+              "start": "14:40",
+              "end": "15:30",
+              "kind": "outing",
+              "title": "Durham Central Park"
+            },
+            {
+              "start": "15:30",
+              "end": "15:50",
+              "kind": "travel",
+              "title": "Drive home"
+            },
+            {
+              "start": "15:50",
+              "end": "18:00",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "18:00",
+              "end": "18:45",
+              "kind": "meal",
+              "title": "Dinner"
+            },
+            {
+              "start": "18:45",
+              "end": "19:30",
+              "kind": "routine",
+              "title": "Bath, books and bed"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "checked": {
+    "at": "2026-11-01T11:05:49.147Z",
+    "forecast": "none",
+    "weather": null,
+    "hidden": []
+  }
+}

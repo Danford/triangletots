@@ -1,0 +1,984 @@
+{
+  "date": "2026-11-10",
+  "band": "t1",
+  "versions": [
+    {
+      "at": "2026-10-28T05:31:41.929Z",
+      "reason": null,
+      "forecast": "none",
+      "weather": null,
+      "plans": [
+        {
+          "nap": "two-naps",
+          "napLabel": "Two naps",
+          "headline": "Morning at Harris Lake County Park",
+          "main": {
+            "ref": "place:harris-lake-county-park",
+            "arrive": "11:15",
+            "leave": "13:45",
+            "why": "Harris Lake offers wooded trails, a picnic shelter overlooking the water and wide open nature space — a lovely south-Wake morning after the first nap with plenty for a curious toddler to discover.",
+            "tips": [
+              "Bring a carrier for the longer lakeside trails when little legs need a rest.",
+              "Pack a snack and a sun hat; some of the viewpoints are open to the sky.",
+              "Leave by 13:45 so the drive home fits comfortably before the afternoon nap."
+            ],
+            "interests": [
+              "nature",
+              "movement",
+              "water"
+            ],
+            "also": [],
+            "area": "south-wake",
+            "outdoor": true,
+            "source": {
+              "kind": "park",
+              "title": "Harris Lake County Park",
+              "address": "2112 County Park Dr., New Hill, NC  27562",
+              "url": "https://www.wakegov.com/departments-government/parks-recreation-and-open-space/all-parks-trails/harris-lake-county-park",
+              "amenities": [
+                "playground",
+                "picnic-shelter",
+                "restroom",
+                "greenway",
+                "nature"
+              ],
+              "indoor": false,
+              "area": "south-wake",
+              "hours": null,
+              "lat": 35.63024208800726,
+              "lon": -78.91757987745865,
+              "cost": null
+            }
+          },
+          "alternatives": [
+            {
+              "ref": "place:sarah-p-duke-gardens",
+              "arrive": "10:50",
+              "leave": "13:40",
+              "why": "Duke Gardens in November has late-season colour, fallen leaves and winding paths that a toddler will want to crunch through slowly — free, beautiful and gently paced.",
+              "tips": [
+                "Arrive at 10:50 for a quieter start before midday visitors arrive.",
+                "Bring a snack and water for the longer path sections.",
+                "Leave by 13:40 so the drive home from Durham fits before the afternoon nap."
+              ],
+              "interests": [
+                "nature",
+                "art"
+              ],
+              "also": [],
+              "area": "durham",
+              "outdoor": true,
+              "source": {
+                "kind": "garden",
+                "title": "Sarah P. Duke Gardens",
+                "address": "420 Anderson St, Durham, NC 27708",
+                "url": "https://gardens.duke.edu/visit/",
+                "amenities": [
+                  "garden",
+                  "nature",
+                  "restroom"
+                ],
+                "indoor": false,
+                "area": "durham",
+                "hours": {
+                  "sun": "8 a.m. to sunset",
+                  "mon": "8 a.m. to sunset",
+                  "tue": "8 a.m. to sunset",
+                  "wed": "8 a.m. to sunset",
+                  "thu": "8 a.m. to sunset",
+                  "fri": "8 a.m. to sunset",
+                  "sat": "8 a.m. to sunset"
+                },
+                "lat": 36.0024,
+                "lon": -78.9328,
+                "cost": "Free",
+                "note": "Free; paid parking that often fills before 10 a.m. on nice days. Five miles of paths, and the Charlotte Brody Discovery Garden."
+              }
+            },
+            {
+              "ref": "place:crowder-county-park",
+              "arrive": "10:50",
+              "leave": "13:45",
+              "why": "Crowder County Park has a garden, playground and greenway loop — a gentle, unhurried outdoor morning in Cary that needs no planning and suits this age perfectly.",
+              "tips": [
+                "Let your toddler lead and follow whatever catches her eye between the playground and the garden paths.",
+                "Bring a blanket for a sit-down snack on the grass.",
+                "Leave by 13:45 to give yourself a comfortable run home before the afternoon nap."
+              ],
+              "interests": [
+                "nature",
+                "movement"
+              ],
+              "also": [],
+              "area": "cary-apex",
+              "outdoor": true,
+              "source": {
+                "kind": "park",
+                "title": "Crowder County Park",
+                "address": "4709 Ten Ten Road",
+                "url": "https://www.wakegov.com/departments-government/parks-recreation-and-open-space/all-parks-trails/crowder-county-park",
+                "amenities": [
+                  "playground",
+                  "picnic-shelter",
+                  "restroom",
+                  "greenway",
+                  "garden"
+                ],
+                "indoor": false,
+                "area": "cary-apex",
+                "hours": null,
+                "lat": 35.69174392711247,
+                "lon": -78.76585678897689,
+                "cost": null
+              }
+            },
+            {
+              "ref": "event:wake:22926",
+              "also": [
+                {
+                  "ref": "event:wake:23525",
+                  "source": {
+                    "kind": "event",
+                    "title": "Stay and Play",
+                    "start": "2026-11-10T17:00:00-05:00",
+                    "end": "2026-11-10T17:30:00-05:00",
+                    "venue": "Athens Drive Community Library",
+                    "address": "1420 Athens Drive, Raleigh, NC, 27606",
+                    "url": "https://www.eventbrite.com/e/stay-and-play-tickets-2000782999812",
+                    "cost": "Free",
+                    "ages": "Young Children",
+                    "registration": "https://www.eventbrite.com/e/stay-and-play-tickets-2000782999812",
+                    "indoor": true,
+                    "area": "raleigh",
+                    "source": "wake-county",
+                    "dropIn": false,
+                    "lat": 35.7682600041562,
+                    "lon": -78.7107215103108
+                  }
+                }
+              ],
+              "arrive": "16:20",
+              "leave": "17:30",
+              "why": "An interactive storytime followed immediately by a drop-in play session with magnetic tiles, blocks and puzzles — a fun late-afternoon double at Athens Drive Community Library.",
+              "tips": [
+                "Registration is required for both programs; book ahead for each.",
+                "Arrive at 16:20 to get settled before the storytime begins at 16:30.",
+                "Stay and Play runs straight after in the same space, so there is no rush between them."
+              ],
+              "interests": [
+                "stories",
+                "movement",
+                "art"
+              ],
+              "area": "raleigh",
+              "outdoor": false,
+              "source": {
+                "kind": "event",
+                "title": "Family Storytime",
+                "start": "2026-11-10T16:30:00-05:00",
+                "end": "2026-11-10T17:00:00-05:00",
+                "venue": "Athens Drive Community Library",
+                "address": "1420 Athens Drive, Raleigh, NC, 27606",
+                "url": "https://www.eventbrite.com/e/family-storytime-tickets-1998851351199",
+                "cost": "Free",
+                "ages": "Young Children",
+                "registration": "https://www.eventbrite.com/e/family-storytime-tickets-1998851351199",
+                "indoor": true,
+                "area": "raleigh",
+                "source": "wake-county",
+                "dropIn": false,
+                "lat": 35.7682600041562,
+                "lon": -78.7107215103108
+              }
+            },
+            {
+              "ref": "event:durham-rec:19599:2026-11-10",
+              "also": [
+                {
+                  "ref": "place:rock-quarry-park",
+                  "source": {
+                    "kind": "park",
+                    "title": "Rock Quarry Park",
+                    "address": "701 Stadium Dr, Durham, NC",
+                    "url": "https://www.dprplaymore.org/Facilities/Facility/Details/Rock-Quarry-Park-60",
+                    "amenities": [
+                      "playground",
+                      "splashpad",
+                      "restroom",
+                      "greenway"
+                    ],
+                    "indoor": false,
+                    "area": "durham",
+                    "hours": null,
+                    "lat": 36.03166363636364,
+                    "lon": -78.90176545454545,
+                    "cost": null
+                  }
+                }
+              ],
+              "arrive": "10:50",
+              "leave": "12:30",
+              "why": "An indoor gym session for toddlers at Edison Johnson Rec Centre in Durham — parachute play, tunnels and open movement — then a play at Rock Quarry Park nearby for fresh air before heading home.",
+              "tips": [
+                "Registration is required; check Durham Parks and Rec before you go.",
+                "Arrive at 10:50 to catch the bulk of the open session.",
+                "Weather permitting, head to Rock Quarry Park after; leave by 12:30 to be home well before the afternoon nap."
+              ],
+              "interests": [
+                "movement",
+                "music",
+                "nature"
+              ],
+              "area": "durham",
+              "outdoor": false,
+              "source": {
+                "kind": "event",
+                "title": "Total Tot Time",
+                "start": "2026-11-10T10:00:00",
+                "end": "2026-11-10T12:00:00",
+                "venue": "Edison Johnson Rec Ctr",
+                "address": "W Murray Ave, Durham, NC",
+                "url": "https://apm.activecommunities.com/dprplaymore/Activity_Search/total-tot-time/19599?locale=en-US",
+                "cost": null,
+                "ages": "0 - 6",
+                "registration": "https://apm.activecommunities.com/dprplaymore/Activity_Search/total-tot-time/19599?locale=en-US",
+                "indoor": true,
+                "area": "durham",
+                "source": "durham-rec",
+                "dropIn": false,
+                "lat": 36.0299,
+                "lon": -78.9011
+              }
+            }
+          ],
+          "rainBackup": null,
+          "timeline": [
+            {
+              "start": "07:00",
+              "end": "07:30",
+              "kind": "meal",
+              "title": "Up and breakfast"
+            },
+            {
+              "start": "07:30",
+              "end": "09:30",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "09:30",
+              "end": "10:30",
+              "kind": "nap",
+              "title": "Nap"
+            },
+            {
+              "start": "10:30",
+              "end": "10:55",
+              "kind": "routine",
+              "title": "Up and a snack"
+            },
+            {
+              "start": "10:55",
+              "end": "11:15",
+              "kind": "travel",
+              "title": "Drive to Harris Lake County Park"
+            },
+            {
+              "start": "11:15",
+              "end": "13:45",
+              "kind": "outing",
+              "title": "Harris Lake County Park",
+              "detail": "Pack a lunch to eat there."
+            },
+            {
+              "start": "13:45",
+              "end": "14:05",
+              "kind": "travel",
+              "title": "Drive home"
+            },
+            {
+              "start": "14:05",
+              "end": "14:30",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "14:30",
+              "end": "15:30",
+              "kind": "nap",
+              "title": "Nap"
+            },
+            {
+              "start": "15:30",
+              "end": "15:50",
+              "kind": "routine",
+              "title": "Up and a snack"
+            },
+            {
+              "start": "15:50",
+              "end": "17:30",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "17:30",
+              "end": "18:15",
+              "kind": "meal",
+              "title": "Dinner"
+            },
+            {
+              "start": "18:15",
+              "end": "19:00",
+              "kind": "routine",
+              "title": "Bath, books and bed"
+            }
+          ]
+        },
+        {
+          "nap": "early-nap",
+          "napLabel": "One nap, 12 to 2",
+          "headline": "JC Raulston Arboretum Morning",
+          "main": {
+            "ref": "place:jc-raulston-arboretum",
+            "arrive": "09:00",
+            "leave": "11:15",
+            "why": "The JC Raulston Arboretum at NC State is free and beautiful in November — late-season colour, a Japanese garden section and winding paths at exactly the right scale for a toddler-paced morning outside.",
+            "tips": [
+              "No pets are allowed; bring a carrier for when little legs tire on the longer paths.",
+              "Pack a morning snack and let her stop to look at everything that catches her eye.",
+              "Leave by 11:15 so you are home in good time before the nap."
+            ],
+            "interests": [
+              "nature",
+              "art"
+            ],
+            "also": [],
+            "area": "raleigh",
+            "outdoor": true,
+            "source": {
+              "kind": "garden",
+              "title": "JC Raulston Arboretum",
+              "address": "4415 Beryl Rd, Raleigh, NC 27606",
+              "url": "https://jcra.ncsu.edu/",
+              "amenities": [
+                "garden",
+                "nature"
+              ],
+              "indoor": false,
+              "area": "raleigh",
+              "hours": {
+                "mon": "9 a.m.–4:30 p.m.",
+                "tue": "9 a.m.–4:30 p.m.",
+                "wed": "9 a.m.–4:30 p.m.",
+                "thu": "9 a.m.–4:30 p.m.",
+                "fri": "9 a.m.–4:30 p.m.",
+                "sat": "9 a.m.–5 p.m.",
+                "sun": "9 a.m.–5 p.m."
+              },
+              "lat": 35.794,
+              "lon": -78.6987,
+              "cost": "Free",
+              "note": "Free. NC State’s garden; no pets."
+            }
+          },
+          "alternatives": [
+            {
+              "ref": "place:nc-botanical-garden",
+              "arrive": "09:00",
+              "leave": "11:10",
+              "why": "The NC Botanical Garden is free, tranquil and at its most natural in November — forest nature trails and display gardens where a toddler can explore at her own pace all morning.",
+              "tips": [
+                "Arrive at 09:00 for a peaceful start before any crowds arrive.",
+                "Bring a carrier for the forest trail sections.",
+                "Leave by 11:10 so the drive home from Durham fits before the nap."
+              ],
+              "interests": [
+                "nature",
+                "science"
+              ],
+              "also": [],
+              "area": "chapel-hill",
+              "outdoor": true,
+              "source": {
+                "kind": "garden",
+                "title": "NC Botanical Garden",
+                "address": "100 Old Mason Farm Rd, Chapel Hill, NC 27517",
+                "url": "https://ncbg.unc.edu/visit/",
+                "amenities": [
+                  "garden",
+                  "nature",
+                  "restroom"
+                ],
+                "indoor": false,
+                "area": "chapel-hill",
+                "lat": 35.9011,
+                "lon": -79.0319,
+                "cost": "Free",
+                "note": "Free. Display gardens, and nature trails through the forest behind them."
+              }
+            },
+            {
+              "ref": "event:wake:24338",
+              "also": [
+                {
+                  "ref": "place:apex-community-park",
+                  "source": {
+                    "kind": "park",
+                    "title": "Apex Community Park",
+                    "address": "2200 Laura Duncan Rd., Apex, NC",
+                    "url": "http://www.apexnc.org/795/Apex-Community-Park",
+                    "amenities": [
+                      "playground",
+                      "picnic-shelter",
+                      "restroom",
+                      "greenway"
+                    ],
+                    "indoor": false,
+                    "area": "cary-apex",
+                    "hours": null,
+                    "lat": 35.75461588131496,
+                    "lon": -78.82862025650613,
+                    "cost": null
+                  }
+                }
+              ],
+              "arrive": "09:20",
+              "leave": "10:30",
+              "why": "An interactive toddler storytime with books, music and movement at Eva Perry Regional Library, then a run at Apex Community Park nearby for fresh air before heading home for the nap.",
+              "tips": [
+                "Pick up a ticket at the Youth Services desk when you arrive at 09:20.",
+                "The park is a short drive from the library; head there straight after for the outdoor stretch.",
+                "Leave the park by 10:30 so you are home with a relaxed run before the nap."
+              ],
+              "interests": [
+                "stories",
+                "movement",
+                "nature"
+              ],
+              "area": "cary-apex",
+              "outdoor": false,
+              "source": {
+                "kind": "event",
+                "title": "Toddler Storytime",
+                "start": "2026-11-10T09:30:00-05:00",
+                "end": "2026-11-10T10:00:00-05:00",
+                "venue": "Eva Perry Regional Library",
+                "address": "2100 Shepherds Vineyard Drive, Apex, NC",
+                "url": "https://www.wake.gov/events/toddler-storytime-1043",
+                "cost": "Free",
+                "ages": "Young Children",
+                "registration": null,
+                "indoor": true,
+                "area": "cary-apex",
+                "source": "wake-county",
+                "dropIn": false,
+                "lat": 35.7437832024768,
+                "lon": -78.8251607833066
+              }
+            },
+            {
+              "ref": "event:wake:21989",
+              "also": [
+                {
+                  "ref": "place:tyler-run-park",
+                  "source": {
+                    "kind": "park",
+                    "title": "Tyler Run Park",
+                    "address": "830 Pineview Dr, Wake Forest, NC",
+                    "url": "https://www.wakeforestnc.gov/parks-recreation-cultural-resources/parks-facilities/tyler-run-park",
+                    "amenities": [
+                      "playground",
+                      "picnic-shelter",
+                      "greenway"
+                    ],
+                    "indoor": false,
+                    "area": "north-raleigh",
+                    "hours": null,
+                    "lat": 35.971215429049174,
+                    "lon": -78.5212159679015,
+                    "cost": null
+                  }
+                }
+              ],
+              "arrive": "09:05",
+              "leave": "10:15",
+              "why": "A short toddler storytime with rhymes, music and movement at Northeast Regional Library, then a play at Tyler Run Park just nearby — a quick, well-rounded morning pair for this age.",
+              "tips": [
+                "Arrive at 09:05 to pick up a ticket before the session begins at 09:15.",
+                "Tyler Run Park is a short drive from the library; head there straight after.",
+                "Leave the park by 10:15 so you have a relaxed morning at home before the nap."
+              ],
+              "interests": [
+                "stories",
+                "music",
+                "movement"
+              ],
+              "area": "north-raleigh",
+              "outdoor": false,
+              "source": {
+                "kind": "event",
+                "title": "Toddler Storytime",
+                "start": "2026-11-10T09:15:00-05:00",
+                "end": "2026-11-10T09:45:00-05:00",
+                "venue": "Northeast Regional Library",
+                "address": "14401 Green Elm Lane, Raleigh, NC",
+                "url": "https://www.wake.gov/events/toddler-storytime-1020",
+                "cost": "Free",
+                "ages": "Young Children",
+                "registration": null,
+                "indoor": true,
+                "area": "north-raleigh",
+                "source": "wake-county",
+                "dropIn": false,
+                "lat": 35.9541926372282,
+                "lon": -78.5438512128256
+              }
+            },
+            {
+              "ref": "event:libcal:durham-county-library:17813228",
+              "arrive": "16:20",
+              "leave": "17:15",
+              "why": "A toddler-friendly craft session at Durham South Regional Library making turkey puppets with lunch bags and craft supplies — a fun seasonal afternoon activity after the nap.",
+              "tips": [
+                "Registration is required; check the Durham County Library site before you go.",
+                "Bring a bag to carry the finished puppet home safely.",
+                "Leave by 17:15 so you have a calm window before the dinner and bedtime routine."
+              ],
+              "interests": [
+                "art",
+                "stories"
+              ],
+              "also": [],
+              "area": "durham",
+              "outdoor": false,
+              "source": {
+                "kind": "event",
+                "title": "Children's Turkey Puppet Crafts",
+                "start": "2026-11-10T16:30:00",
+                "end": "2026-11-10T17:15:00",
+                "venue": "South Regional Library",
+                "address": "4505 S. Alston Ave, Durham, NC",
+                "url": "https://durhamcountylibrary.libcal.com/event/17813228",
+                "cost": null,
+                "ages": "Kindergarten, Pre-School, Toddler",
+                "registration": "https://durhamcountylibrary.libcal.com/event/17813228",
+                "indoor": true,
+                "area": "durham",
+                "source": "libcal",
+                "dropIn": false,
+                "lat": 35.90245200165541,
+                "lon": -78.88831898463908
+              }
+            }
+          ],
+          "rainBackup": null,
+          "timeline": [
+            {
+              "start": "07:00",
+              "end": "07:30",
+              "kind": "meal",
+              "title": "Up and breakfast"
+            },
+            {
+              "start": "07:30",
+              "end": "08:20",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "08:20",
+              "end": "08:40",
+              "kind": "routine",
+              "title": "Get ready to go",
+              "detail": "Shoes on, diaper bag, water and a snack."
+            },
+            {
+              "start": "08:40",
+              "end": "09:00",
+              "kind": "travel",
+              "title": "Drive to JC Raulston Arboretum"
+            },
+            {
+              "start": "09:00",
+              "end": "11:15",
+              "kind": "outing",
+              "title": "JC Raulston Arboretum"
+            },
+            {
+              "start": "11:15",
+              "end": "11:35",
+              "kind": "travel",
+              "title": "Drive home"
+            },
+            {
+              "start": "11:35",
+              "end": "12:00",
+              "kind": "meal",
+              "title": "Lunch"
+            },
+            {
+              "start": "12:00",
+              "end": "14:00",
+              "kind": "nap",
+              "title": "Nap"
+            },
+            {
+              "start": "14:00",
+              "end": "14:20",
+              "kind": "routine",
+              "title": "Up and a snack"
+            },
+            {
+              "start": "14:20",
+              "end": "17:30",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "17:30",
+              "end": "18:15",
+              "kind": "meal",
+              "title": "Dinner"
+            },
+            {
+              "start": "18:15",
+              "end": "19:00",
+              "kind": "routine",
+              "title": "Bath, books and bed"
+            }
+          ]
+        },
+        {
+          "nap": "late-nap",
+          "napLabel": "One nap, 1 to 3",
+          "headline": "Morning at the NC Botanical Garden",
+          "main": {
+            "ref": "place:nc-botanical-garden",
+            "arrive": "09:00",
+            "leave": "12:00",
+            "why": "The NC Botanical Garden is free, quiet and at its most natural in November — forest nature trails and display gardens give a toddler a full morning of outdoor discovery at her own pace.",
+            "tips": [
+              "Bring a carrier for the forest trail sections when little legs tire.",
+              "Pack a morning snack and a sun hat for the open garden areas.",
+              "Leave by 12:00 so the drive home from Durham fits before lunch and the nap."
+            ],
+            "interests": [
+              "nature",
+              "science"
+            ],
+            "also": [],
+            "area": "chapel-hill",
+            "outdoor": true,
+            "source": {
+              "kind": "garden",
+              "title": "NC Botanical Garden",
+              "address": "100 Old Mason Farm Rd, Chapel Hill, NC 27517",
+              "url": "https://ncbg.unc.edu/visit/",
+              "amenities": [
+                "garden",
+                "nature",
+                "restroom"
+              ],
+              "indoor": false,
+              "area": "chapel-hill",
+              "lat": 35.9011,
+              "lon": -79.0319,
+              "cost": "Free",
+              "note": "Free. Display gardens, and nature trails through the forest behind them."
+            }
+          },
+          "alternatives": [
+            {
+              "ref": "place:harris-lake-county-park",
+              "arrive": "09:00",
+              "leave": "12:00",
+              "why": "Harris Lake has wooded trails, open water views and a picnic shelter — a wide, unhurried nature park in south Wake that a toddler who loves being outside will thrive in all morning.",
+              "tips": [
+                "Bring a carrier for the lakeside trail sections and a morning snack.",
+                "Pack a sun hat for the open viewpoints near the water.",
+                "Leave by 12:00 so you are home with time for lunch before the nap."
+              ],
+              "interests": [
+                "nature",
+                "movement",
+                "water"
+              ],
+              "also": [],
+              "area": "south-wake",
+              "outdoor": true,
+              "source": {
+                "kind": "park",
+                "title": "Harris Lake County Park",
+                "address": "2112 County Park Dr., New Hill, NC  27562",
+                "url": "https://www.wakegov.com/departments-government/parks-recreation-and-open-space/all-parks-trails/harris-lake-county-park",
+                "amenities": [
+                  "playground",
+                  "picnic-shelter",
+                  "restroom",
+                  "greenway",
+                  "nature"
+                ],
+                "indoor": false,
+                "area": "south-wake",
+                "hours": null,
+                "lat": 35.63024208800726,
+                "lon": -78.91757987745865,
+                "cost": null
+              }
+            },
+            {
+              "ref": "place:sarah-p-duke-gardens",
+              "arrive": "09:00",
+              "leave": "12:10",
+              "why": "Duke Gardens in November is free, stroller-friendly and full of late-season colour — a gentle garden morning in Durham that suits a toddler-paced walk beautifully.",
+              "tips": [
+                "Arrive at 09:00 for a peaceful start on the paths before the day gets busy.",
+                "Bring water and a snack for the longer stretches of garden.",
+                "Leave by 12:10 so the drive home from Durham fits before the nap."
+              ],
+              "interests": [
+                "nature",
+                "art"
+              ],
+              "also": [],
+              "area": "durham",
+              "outdoor": true,
+              "source": {
+                "kind": "garden",
+                "title": "Sarah P. Duke Gardens",
+                "address": "420 Anderson St, Durham, NC 27708",
+                "url": "https://gardens.duke.edu/visit/",
+                "amenities": [
+                  "garden",
+                  "nature",
+                  "restroom"
+                ],
+                "indoor": false,
+                "area": "durham",
+                "hours": {
+                  "sun": "8 a.m. to sunset",
+                  "mon": "8 a.m. to sunset",
+                  "tue": "8 a.m. to sunset",
+                  "wed": "8 a.m. to sunset",
+                  "thu": "8 a.m. to sunset",
+                  "fri": "8 a.m. to sunset",
+                  "sat": "8 a.m. to sunset"
+                },
+                "lat": 36.0024,
+                "lon": -78.9328,
+                "cost": "Free",
+                "note": "Free; paid parking that often fills before 10 a.m. on nice days. Five miles of paths, and the Charlotte Brody Discovery Garden."
+              }
+            },
+            {
+              "ref": "event:wake:23578",
+              "also": [
+                {
+                  "ref": "place:falcon-park",
+                  "source": {
+                    "kind": "park",
+                    "title": "Falcon Park",
+                    "address": "611 E. Academy Street, Fuquay-Varina, NC",
+                    "url": "https://www.fuquay-varina.org/Facilities/Facility/Details/9",
+                    "amenities": [
+                      "playground",
+                      "picnic-shelter",
+                      "restroom",
+                      "greenway"
+                    ],
+                    "indoor": false,
+                    "area": "south-wake",
+                    "hours": null,
+                    "lat": 35.5858018605673,
+                    "lon": -78.79303938673571,
+                    "cost": null
+                  }
+                }
+              ],
+              "arrive": "09:50",
+              "leave": "11:00",
+              "why": "A short, lively storytime with books, music and movement at Fuquay-Varina Community Library, then a play at Falcon Park right nearby for fresh air before heading home.",
+              "tips": [
+                "Arrive at 09:50 to get settled before the program begins at 10:00.",
+                "Falcon Park is a short drive from the library; head there straight after for the outdoor stretch.",
+                "Leave the park by 11:00 to be home with a relaxed run before the nap."
+              ],
+              "interests": [
+                "stories",
+                "music",
+                "nature"
+              ],
+              "area": "south-wake",
+              "outdoor": false,
+              "source": {
+                "kind": "event",
+                "title": "Family Storytime",
+                "start": "2026-11-10T10:00:00-05:00",
+                "end": "2026-11-10T10:30:00-05:00",
+                "venue": "Fuquay-Varina Community Library",
+                "address": "271 Bramblehill Drive, Fuquay-Varina, NC",
+                "url": "https://www.wake.gov/events/family-storytime-4563",
+                "cost": null,
+                "ages": "Young Children",
+                "registration": null,
+                "indoor": true,
+                "area": "south-wake",
+                "source": "wake-county",
+                "dropIn": false,
+                "lat": 35.5850617253451,
+                "lon": -78.7802518504044
+              }
+            },
+            {
+              "ref": "event:wake:22926",
+              "also": [
+                {
+                  "ref": "event:wake:23525",
+                  "source": {
+                    "kind": "event",
+                    "title": "Stay and Play",
+                    "start": "2026-11-10T17:00:00-05:00",
+                    "end": "2026-11-10T17:30:00-05:00",
+                    "venue": "Athens Drive Community Library",
+                    "address": "1420 Athens Drive, Raleigh, NC, 27606",
+                    "url": "https://www.eventbrite.com/e/stay-and-play-tickets-2000782999812",
+                    "cost": "Free",
+                    "ages": "Young Children",
+                    "registration": "https://www.eventbrite.com/e/stay-and-play-tickets-2000782999812",
+                    "indoor": true,
+                    "area": "raleigh",
+                    "source": "wake-county",
+                    "dropIn": false,
+                    "lat": 35.7682600041562,
+                    "lon": -78.7107215103108
+                  }
+                }
+              ],
+              "arrive": "16:20",
+              "leave": "17:30",
+              "why": "An interactive storytime followed immediately by a drop-in play session with tiles, blocks and puzzles at Athens Drive Community Library — a gentle late-afternoon option after the nap.",
+              "tips": [
+                "Registration is required for both programs; book ahead for each.",
+                "Arrive at 16:20 to get settled before the storytime begins at 16:30.",
+                "Stay and Play follows straight after in the same space, so there is no rush between them."
+              ],
+              "interests": [
+                "stories",
+                "movement",
+                "art"
+              ],
+              "area": "raleigh",
+              "outdoor": false,
+              "source": {
+                "kind": "event",
+                "title": "Family Storytime",
+                "start": "2026-11-10T16:30:00-05:00",
+                "end": "2026-11-10T17:00:00-05:00",
+                "venue": "Athens Drive Community Library",
+                "address": "1420 Athens Drive, Raleigh, NC, 27606",
+                "url": "https://www.eventbrite.com/e/family-storytime-tickets-1998851351199",
+                "cost": "Free",
+                "ages": "Young Children",
+                "registration": "https://www.eventbrite.com/e/family-storytime-tickets-1998851351199",
+                "indoor": true,
+                "area": "raleigh",
+                "source": "wake-county",
+                "dropIn": false,
+                "lat": 35.7682600041562,
+                "lon": -78.7107215103108
+              }
+            }
+          ],
+          "rainBackup": null,
+          "timeline": [
+            {
+              "start": "07:00",
+              "end": "07:30",
+              "kind": "meal",
+              "title": "Up and breakfast"
+            },
+            {
+              "start": "07:30",
+              "end": "08:20",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "08:20",
+              "end": "08:40",
+              "kind": "routine",
+              "title": "Get ready to go",
+              "detail": "Shoes on, diaper bag, water and a snack."
+            },
+            {
+              "start": "08:40",
+              "end": "09:00",
+              "kind": "travel",
+              "title": "Drive to NC Botanical Garden"
+            },
+            {
+              "start": "09:00",
+              "end": "12:00",
+              "kind": "outing",
+              "title": "NC Botanical Garden"
+            },
+            {
+              "start": "12:00",
+              "end": "12:20",
+              "kind": "travel",
+              "title": "Drive home"
+            },
+            {
+              "start": "12:20",
+              "end": "12:50",
+              "kind": "meal",
+              "title": "Lunch"
+            },
+            {
+              "start": "12:50",
+              "end": "13:00",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "13:00",
+              "end": "15:00",
+              "kind": "nap",
+              "title": "Nap"
+            },
+            {
+              "start": "15:00",
+              "end": "15:20",
+              "kind": "routine",
+              "title": "Up and a snack"
+            },
+            {
+              "start": "15:20",
+              "end": "18:00",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "18:00",
+              "end": "18:45",
+              "kind": "meal",
+              "title": "Dinner"
+            },
+            {
+              "start": "18:45",
+              "end": "19:30",
+              "kind": "routine",
+              "title": "Bath, books and bed"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "checked": {
+    "at": "2026-11-01T11:05:15.810Z",
+    "forecast": "none",
+    "weather": null,
+    "hidden": []
+  }
+}

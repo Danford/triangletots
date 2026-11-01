@@ -1,0 +1,1999 @@
+{
+  "date": "2026-11-05",
+  "band": "t1",
+  "versions": [
+    {
+      "at": "2026-10-27T08:22:44.035Z",
+      "reason": null,
+      "forecast": "none",
+      "weather": null,
+      "plans": [
+        {
+          "nap": "two-naps",
+          "napLabel": "Two naps",
+          "headline": "Discovery Drop-In, Storytime and Meet the Keepers at Sarah P. Duke Gardens",
+          "main": {
+            "ref": "event:museum:duke-gardens:17935",
+            "also": [
+              {
+                "ref": "event:museum:duke-gardens:17554",
+                "source": {
+                  "kind": "event",
+                  "title": "Meet the Keepers",
+                  "start": "2026-11-05T13:00:00",
+                  "end": "2026-11-05T14:00:00",
+                  "venue": "Sarah P. Duke Gardens",
+                  "address": "420 Anderson Street, Durham, NC, 27708",
+                  "url": "https://gardens.duke.edu/event/meet-the-keepers-15/",
+                  "cost": "Free",
+                  "ages": "Adult Programs Family programs",
+                  "registration": false,
+                  "indoor": false,
+                  "area": "durham",
+                  "source": "museum",
+                  "dropIn": false
+                }
+              }
+            ],
+            "arrive": "11:10",
+            "leave": "13:50",
+            "why": "Sarah P. Duke Gardens hosts a free drop-in discovery program with themed activities and two storytimes, then Meet the Keepers gives a close-up look at the garden's bees, chickens and edible plants. Both are fully outdoors and free.",
+            "interests": [
+              "animals",
+              "nature",
+              "stories"
+            ],
+            "tips": [
+              "Pack a picnic lunch to eat in the gardens before Meet the Keepers begins at 13:00.",
+              "The 10:30 and 11:30 storytimes are in the Charlotte Brody Discovery Garden; head there first.",
+              "Leave by 13:50 to get home in time for the second nap."
+            ],
+            "area": "durham",
+            "outdoor": true,
+            "source": {
+              "kind": "event",
+              "title": "Discovery Drop-In & Storytime",
+              "start": "2026-11-05T10:00:00",
+              "end": "2026-11-05T12:00:00",
+              "venue": "Sarah P. Duke Gardens",
+              "address": "420 Anderson Street, Durham, NC, 27708",
+              "url": "https://gardens.duke.edu/event/discovery-drop-in-storytime-24/",
+              "cost": "Free",
+              "ages": "Family programs",
+              "registration": false,
+              "indoor": false,
+              "area": "durham",
+              "source": "museum",
+              "dropIn": false
+            }
+          },
+          "alternatives": [
+            {
+              "ref": "place:hill-ridge-farms",
+              "arrive": "10:50",
+              "leave": "13:00",
+              "why": "The fall festival at Hill Ridge Farms lets toddlers roam a working farm with animals and open fields. Each gate ticket includes a free pumpkin.",
+              "interests": [
+                "animals",
+                "nature"
+              ],
+              "tips": [
+                "Last admission is one hour before closing; plan to arrive well before 13:00.",
+                "Pack extra layers — farm mornings in November can be cool.",
+                "Leave by 13:00 to get home in time for the afternoon nap."
+              ],
+              "also": [],
+              "area": "north-raleigh",
+              "outdoor": true,
+              "source": {
+                "kind": "farm",
+                "title": "Hill Ridge Farms",
+                "address": "703 Tarboro Rd, Youngsville, NC 27596",
+                "url": "https://www.hillridgefarms.com/",
+                "amenities": [
+                  "farm"
+                ],
+                "indoor": false,
+                "area": "north-raleigh"
+              }
+            },
+            {
+              "ref": "event:wake-parks:8358:2026-11-05",
+              "arrive": "10:50",
+              "leave": "13:45",
+              "why": "A self-guided StoryWalk along the accessible loop at Beech Bluff County Park weaves a picture book through the trail — a calm, free outdoor morning good for any pace.",
+              "interests": [
+                "stories",
+                "nature"
+              ],
+              "tips": [
+                "The walk is self-paced and drop-in; great for a toddler who likes to stop and look at things.",
+                "Pair with play in the park area before heading back.",
+                "Leave by 13:45 to get home before the afternoon nap."
+              ],
+              "also": [],
+              "area": "south-wake",
+              "outdoor": true,
+              "source": {
+                "kind": "event",
+                "title": "Beech Bluff County Park StoryWalk® 2026 (Self-Led)",
+                "start": "2026-11-05T08:00:00",
+                "end": "2026-11-05T17:30:00",
+                "venue": "Beech Bluff County Park",
+                "address": "Beech Bluff Park Drive, Fuquay-Varina, NC",
+                "url": "https://apm.activecommunities.com/wakeparks/Activity_Search/beech-bluff-county-park-storywalk-2026-self-led/8358?locale=en-US",
+                "cost": "Free",
+                "ages": null,
+                "registration": false,
+                "indoor": false,
+                "area": "south-wake",
+                "source": "wake-parks",
+                "dropIn": true
+              }
+            },
+            {
+              "ref": "event:museum:nc-natural-sciences:122999",
+              "arrive": "13:20",
+              "leave": "14:00",
+              "why": "A short live science program at the NC Museum of Natural Sciences gives a focused, engaging window for curious toddlers in the afternoon slot.",
+              "interests": [
+                "science"
+              ],
+              "tips": [
+                "The program runs 30 minutes; arrive a few minutes early to find a good spot.",
+                "Leave right at 14:00 to be home before the second nap.",
+                "A small snack in the car helps the transition home."
+              ],
+              "also": [],
+              "area": "raleigh",
+              "outdoor": false,
+              "source": {
+                "kind": "event",
+                "title": "Incredible Science",
+                "start": "2026-11-05T13:30:00",
+                "end": "2026-11-05T14:00:00",
+                "venue": "NC Museum of Natural Sciences",
+                "address": "11 West Jones Street, Raleigh, NC, 27601",
+                "url": "https://www.naturalsciences.org/calendar/event/incredible-science-5/2026-11-05/",
+                "cost": null,
+                "ages": "Adults All Ages Children Teens Walk-up Programs Windows on the World",
+                "registration": false,
+                "indoor": true,
+                "area": "raleigh",
+                "source": "museum",
+                "dropIn": false
+              }
+            },
+            {
+              "ref": "event:libcal:durham-county-library:17189108",
+              "arrive": "10:50",
+              "leave": "13:30",
+              "why": "A drop-in maker session at Durham Main Library lets little ones explore cardboard building with Makedo kits in a calm, creative space.",
+              "interests": [
+                "science",
+                "art"
+              ],
+              "tips": [
+                "No registration needed; drop in from 10:50.",
+                "Good for a toddler who likes stacking and pulling things apart.",
+                "Leave by 13:30 to get home for a quick lunch before the second nap."
+              ],
+              "also": [],
+              "area": "durham",
+              "outdoor": false,
+              "source": {
+                "kind": "event",
+                "title": "This Week In the Lab: Makedo Kit",
+                "start": "2026-11-05T10:00:00",
+                "end": "2026-11-05T14:00:00",
+                "venue": "Main Library",
+                "address": "300 N. Roxboro St, Durham, NC",
+                "url": "https://durhamcountylibrary.libcal.com/event/17189108",
+                "cost": null,
+                "ages": "Adult, Elementary School, Emerging Adult: 18-24 Year Olds, High School, Intergenerational, Kindergarten, Middle School, Pre-School, Senior Citizen, Teen, Toddler, Tweens: 9-12 Year Olds, DPS",
+                "registration": false,
+                "indoor": true,
+                "area": "durham",
+                "source": "libcal",
+                "dropIn": true
+              }
+            }
+          ],
+          "rainBackup": null,
+          "timeline": [
+            {
+              "start": "07:00",
+              "end": "07:30",
+              "kind": "routine",
+              "title": "Wake and breakfast"
+            },
+            {
+              "start": "07:30",
+              "end": "09:30",
+              "kind": "play",
+              "title": "Morning play at home"
+            },
+            {
+              "start": "09:30",
+              "end": "10:30",
+              "kind": "nap",
+              "title": "First nap"
+            },
+            {
+              "start": "10:30",
+              "end": "10:50",
+              "kind": "routine",
+              "title": "Wake up and get ready to head out"
+            },
+            {
+              "start": "10:50",
+              "end": "11:10",
+              "kind": "travel",
+              "title": "Drive to Sarah P. Duke Gardens"
+            },
+            {
+              "start": "11:10",
+              "end": "13:50",
+              "kind": "outing",
+              "title": "Discovery Drop-In, Storytime and Meet the Keepers",
+              "detail": "Drop-in discovery and storytime from 11:10; Meet the Keepers in the Charlotte Brody Discovery Garden at 13:00."
+            },
+            {
+              "start": "13:50",
+              "end": "14:10",
+              "kind": "travel",
+              "title": "Drive home"
+            },
+            {
+              "start": "14:10",
+              "end": "14:25",
+              "kind": "meal",
+              "title": "Quick lunch"
+            },
+            {
+              "start": "14:25",
+              "end": "14:30",
+              "kind": "routine",
+              "title": "Settle for second nap"
+            },
+            {
+              "start": "14:30",
+              "end": "15:30",
+              "kind": "nap",
+              "title": "Second nap"
+            },
+            {
+              "start": "15:30",
+              "end": "16:00",
+              "kind": "routine",
+              "title": "Wake up and afternoon snack"
+            },
+            {
+              "start": "16:00",
+              "end": "18:00",
+              "kind": "play",
+              "title": "Afternoon play at home or a nearby park"
+            },
+            {
+              "start": "18:00",
+              "end": "18:30",
+              "kind": "meal",
+              "title": "Dinner"
+            },
+            {
+              "start": "18:30",
+              "end": "19:00",
+              "kind": "routine",
+              "title": "Bath and bedtime routine"
+            }
+          ]
+        },
+        {
+          "nap": "early-nap",
+          "napLabel": "One nap, 12 to 2",
+          "headline": "Gipson Play Plaza and Public Library Pop-Up at Dix Park",
+          "main": {
+            "ref": "place:gipson-play-plaza",
+            "also": [
+              {
+                "ref": "event:dix-park:/event/public-library-pop:2026-11-05",
+                "source": {
+                  "kind": "event",
+                  "title": "Public Library Pop-Up",
+                  "start": "2026-11-05T10:00:00",
+                  "end": "2026-11-05T12:00:00",
+                  "venue": "Gipson Play Plaza, Dix Park",
+                  "address": null,
+                  "url": "https://dixpark.org/event/public-library-pop",
+                  "cost": null,
+                  "ages": null,
+                  "registration": false,
+                  "indoor": false,
+                  "area": "raleigh",
+                  "source": "dix-park",
+                  "dropIn": false
+                }
+              }
+            ],
+            "arrive": "09:30",
+            "leave": "11:30",
+            "why": "Start with playground time at Gipson Play Plaza at Dix Park, then enjoy the outdoor Public Library Pop-Up bringing story time and books right to the playground.",
+            "interests": [
+              "stories",
+              "movement"
+            ],
+            "tips": [
+              "Arrive at 09:30 for playground time before the pop-up starts at 10:00.",
+              "Bring a snack to eat at the playground after the story session.",
+              "Leave by 11:30 to get home in time for the noon nap."
+            ],
+            "area": "raleigh",
+            "outdoor": true,
+            "source": {
+              "kind": "park",
+              "title": "Gipson Play Plaza at Dix Park",
+              "address": "715 Biggs Dr, Raleigh, NC 27603",
+              "url": "https://dixpark.org/gipson-play-plaza",
+              "amenities": [
+                "playground",
+                "restroom"
+              ],
+              "indoor": false,
+              "area": "raleigh",
+              "hours": {
+                "sun": "8 a.m.–9 p.m.",
+                "mon": "8 a.m.–9 p.m.",
+                "tue": "8 a.m.–9 p.m.",
+                "wed": "8 a.m.–9 p.m.",
+                "thu": "8 a.m.–9 p.m.",
+                "fri": "8 a.m.–9 p.m.",
+                "sat": "8 a.m.–9 p.m."
+              }
+            }
+          },
+          "alternatives": [
+            {
+              "ref": "event:museum:duke-gardens:17935",
+              "arrive": "09:50",
+              "leave": "11:15",
+              "why": "A free drop-in discovery program with story time and self-guided activities in the Charlotte Brody Discovery Garden makes a beautiful outdoor morning in Durham.",
+              "interests": [
+                "nature",
+                "stories"
+              ],
+              "tips": [
+                "The story time begins at 10:30; arrive at 09:50 to explore the garden beforehand.",
+                "Dress in layers — the garden is fully outdoors.",
+                "Leave by 11:15 to be home in time for the noon nap."
+              ],
+              "also": [],
+              "area": "durham",
+              "outdoor": true,
+              "source": {
+                "kind": "event",
+                "title": "Discovery Drop-In & Storytime",
+                "start": "2026-11-05T10:00:00",
+                "end": "2026-11-05T12:00:00",
+                "venue": "Sarah P. Duke Gardens",
+                "address": "420 Anderson Street, Durham, NC, 27708",
+                "url": "https://gardens.duke.edu/event/discovery-drop-in-storytime-24/",
+                "cost": "Free",
+                "ages": "Family programs",
+                "registration": false,
+                "indoor": false,
+                "area": "durham",
+                "source": "museum",
+                "dropIn": false
+              }
+            },
+            {
+              "ref": "event:museum:nc-natural-sciences:124173",
+              "arrive": "09:50",
+              "leave": "11:30",
+              "why": "An outdoor birdwatching walk at Prairie Ridge introduces little ones to bird calls and the open meadow — a calm nature morning on the west side of Raleigh.",
+              "interests": [
+                "nature",
+                "science"
+              ],
+              "tips": [
+                "Arrive at 09:50 for the 10:00 start; dress for the weather as this is fully outdoors.",
+                "A carrier is handy for a wiggly toddler on the trail.",
+                "Leave by 11:30 to be home in time for the noon nap."
+              ],
+              "also": [],
+              "area": "raleigh",
+              "outdoor": true,
+              "source": {
+                "kind": "event",
+                "title": "Birdwatching for Beginners",
+                "start": "2026-11-05T10:00:00",
+                "end": "2026-11-05T12:00:00",
+                "venue": "Prairie Ridge",
+                "address": "1671 Gold Star Drive, Raleigh, NC, 27607",
+                "url": "https://www.naturalsciences.org/calendar/event/birdwatching-for-beginners-11-26/",
+                "cost": null,
+                "ages": "Adults Children Collaborative Science Educators K-12 Students Outdoor Experiences Teens",
+                "registration": false,
+                "indoor": false,
+                "area": "raleigh",
+                "source": "museum",
+                "dropIn": false
+              }
+            },
+            {
+              "ref": "event:wake:24335",
+              "also": [
+                {
+                  "ref": "place:apex-community-park",
+                  "source": {
+                    "kind": "park",
+                    "title": "Apex Community Park",
+                    "address": "2200 Laura Duncan Rd., Apex, NC",
+                    "url": "http://www.apexnc.org/795/Apex-Community-Park",
+                    "amenities": [
+                      "playground",
+                      "picnic-shelter",
+                      "restroom",
+                      "greenway"
+                    ],
+                    "indoor": false,
+                    "area": "cary-apex",
+                    "hours": null
+                  }
+                }
+              ],
+              "arrive": "09:20",
+              "leave": "11:30",
+              "why": "A short interactive storytime at Eva Perry Regional Library leads right into playground time at Apex Community Park nearby.",
+              "interests": [
+                "stories",
+                "movement"
+              ],
+              "tips": [
+                "Arrive a few minutes before 09:30 and pick up a ticket at the Youth Services desk.",
+                "The park visit is weather-permitting; stay at the library a bit longer if it rains.",
+                "Leave the park by 11:30 to be home before the noon nap."
+              ],
+              "area": "cary-apex",
+              "outdoor": false,
+              "source": {
+                "kind": "event",
+                "title": "Toddler Storytime",
+                "start": "2026-11-05T09:30:00-05:00",
+                "end": "2026-11-05T10:00:00-05:00",
+                "venue": "Eva Perry Regional Library",
+                "address": "2100 Shepherds Vineyard Drive, Apex, NC",
+                "url": "https://www.wake.gov/events/toddler-storytime-1034",
+                "cost": "Free",
+                "ages": "Young Children",
+                "registration": false,
+                "indoor": true,
+                "area": "cary-apex",
+                "source": "wake-county",
+                "dropIn": false
+              }
+            }
+          ],
+          "rainBackup": null,
+          "timeline": [
+            {
+              "start": "07:00",
+              "end": "07:30",
+              "kind": "routine",
+              "title": "Wake and breakfast"
+            },
+            {
+              "start": "07:30",
+              "end": "09:00",
+              "kind": "play",
+              "title": "Morning play at home"
+            },
+            {
+              "start": "09:00",
+              "end": "09:20",
+              "kind": "routine",
+              "title": "Get ready to head out"
+            },
+            {
+              "start": "09:20",
+              "end": "09:30",
+              "kind": "travel",
+              "title": "Drive to Gipson Play Plaza, Dix Park"
+            },
+            {
+              "start": "09:30",
+              "end": "11:30",
+              "kind": "outing",
+              "title": "Gipson Play Plaza and Public Library Pop-Up at Dix Park",
+              "detail": "Playground time from 09:30; outdoor story time pop-up from 10:00."
+            },
+            {
+              "start": "11:30",
+              "end": "11:50",
+              "kind": "travel",
+              "title": "Drive home"
+            },
+            {
+              "start": "11:50",
+              "end": "12:00",
+              "kind": "routine",
+              "title": "Settle for nap"
+            },
+            {
+              "start": "12:00",
+              "end": "14:00",
+              "kind": "nap",
+              "title": "Nap"
+            },
+            {
+              "start": "14:00",
+              "end": "14:30",
+              "kind": "routine",
+              "title": "Wake up and afternoon snack"
+            },
+            {
+              "start": "14:30",
+              "end": "17:30",
+              "kind": "play",
+              "title": "Afternoon play at home or a nearby park"
+            },
+            {
+              "start": "17:30",
+              "end": "18:15",
+              "kind": "meal",
+              "title": "Dinner"
+            },
+            {
+              "start": "18:15",
+              "end": "18:30",
+              "kind": "play",
+              "title": "Quiet wind-down play"
+            },
+            {
+              "start": "18:30",
+              "end": "19:00",
+              "kind": "routine",
+              "title": "Bath and bedtime routine"
+            }
+          ]
+        },
+        {
+          "nap": "late-nap",
+          "napLabel": "One nap, 1 to 3",
+          "headline": "Laurel Hills Park and Birdwatching for Beginners at Prairie Ridge",
+          "main": {
+            "ref": "place:laurel-hills-park",
+            "also": [
+              {
+                "ref": "event:museum:nc-natural-sciences:124173",
+                "source": {
+                  "kind": "event",
+                  "title": "Birdwatching for Beginners",
+                  "start": "2026-11-05T10:00:00",
+                  "end": "2026-11-05T12:00:00",
+                  "venue": "Prairie Ridge",
+                  "address": "1671 Gold Star Drive, Raleigh, NC, 27607",
+                  "url": "https://www.naturalsciences.org/calendar/event/birdwatching-for-beginners-11-26/",
+                  "cost": null,
+                  "ages": "Adults Children Collaborative Science Educators K-12 Students Outdoor Experiences Teens",
+                  "registration": false,
+                  "indoor": false,
+                  "area": "raleigh",
+                  "source": "museum",
+                  "dropIn": false
+                }
+              }
+            ],
+            "arrive": "09:30",
+            "leave": "12:00",
+            "why": "Start with playground time at Laurel Hills Park, then head to Prairie Ridge for Birdwatching for Beginners — a gentle outdoor nature program with time to listen for bird calls and explore the meadow habitat.",
+            "interests": [
+              "nature",
+              "science"
+            ],
+            "tips": [
+              "Arrive at the park by 09:30 for playground time before the 10:00 program at Prairie Ridge.",
+              "Bring a carrier and snacks and water for the outdoor walk.",
+              "Leave Prairie Ridge at 12:00 to be home in good time for the afternoon nap."
+            ],
+            "area": "raleigh",
+            "outdoor": true,
+            "source": {
+              "kind": "park",
+              "title": "Laurel Hills Park",
+              "address": "3808 Edwards Mill Rd, Raleigh, NC 27612",
+              "url": "https://raleighnc.gov/parks-and-recreation/places/laurel-hills-park",
+              "amenities": [
+                "community-center",
+                "playground",
+                "picnic-shelter",
+                "courts",
+                "fields"
+              ],
+              "indoor": false,
+              "area": "raleigh",
+              "hours": null
+            }
+          },
+          "alternatives": [
+            {
+              "ref": "event:museum:duke-gardens:17935",
+              "arrive": "09:50",
+              "leave": "12:00",
+              "why": "A free drop-in discovery program with story time and self-guided activities in the Charlotte Brody Discovery Garden is a lovely outdoor morning in Durham.",
+              "interests": [
+                "nature",
+                "stories"
+              ],
+              "tips": [
+                "The story time begins at 10:30; arrive at 09:50 to explore the garden first.",
+                "Dress in layers — the garden is fully outdoors.",
+                "Leave by 12:00 when the program ends to be home before the nap."
+              ],
+              "also": [],
+              "area": "durham",
+              "outdoor": true,
+              "source": {
+                "kind": "event",
+                "title": "Discovery Drop-In & Storytime",
+                "start": "2026-11-05T10:00:00",
+                "end": "2026-11-05T12:00:00",
+                "venue": "Sarah P. Duke Gardens",
+                "address": "420 Anderson Street, Durham, NC, 27708",
+                "url": "https://gardens.duke.edu/event/discovery-drop-in-storytime-24/",
+                "cost": "Free",
+                "ages": "Family programs",
+                "registration": false,
+                "indoor": false,
+                "area": "durham",
+                "source": "museum",
+                "dropIn": false
+              }
+            },
+            {
+              "ref": "event:wake-parks:8358:2026-11-05",
+              "arrive": "10:00",
+              "leave": "12:30",
+              "why": "A self-guided StoryWalk along the accessible loop at Beech Bluff County Park weaves a picture book through the trail at a toddler-friendly pace. Free and drop-in.",
+              "interests": [
+                "stories",
+                "nature"
+              ],
+              "tips": [
+                "Drop in any time from 10:00 and go at your own pace.",
+                "Bring a snack and water for the trail.",
+                "Leave by 12:30 to be home in time for the afternoon nap."
+              ],
+              "also": [],
+              "area": "south-wake",
+              "outdoor": true,
+              "source": {
+                "kind": "event",
+                "title": "Beech Bluff County Park StoryWalk® 2026 (Self-Led)",
+                "start": "2026-11-05T08:00:00",
+                "end": "2026-11-05T17:30:00",
+                "venue": "Beech Bluff County Park",
+                "address": "Beech Bluff Park Drive, Fuquay-Varina, NC",
+                "url": "https://apm.activecommunities.com/wakeparks/Activity_Search/beech-bluff-county-park-storywalk-2026-self-led/8358?locale=en-US",
+                "cost": "Free",
+                "ages": null,
+                "registration": false,
+                "indoor": false,
+                "area": "south-wake",
+                "source": "wake-parks",
+                "dropIn": true
+              }
+            },
+            {
+              "ref": "event:wake:21993",
+              "also": [
+                {
+                  "ref": "place:tyler-run-park",
+                  "source": {
+                    "kind": "park",
+                    "title": "Tyler Run Park",
+                    "address": "830 Pineview Dr, Wake Forest, NC",
+                    "url": "https://www.wakeforestnc.gov/parks-recreation-cultural-resources/parks-facilities/tyler-run-park",
+                    "amenities": [
+                      "playground",
+                      "picnic-shelter",
+                      "greenway"
+                    ],
+                    "indoor": false,
+                    "area": "north-raleigh",
+                    "hours": null
+                  }
+                }
+              ],
+              "arrive": "09:05",
+              "leave": "11:30",
+              "why": "A lively storytime at Northeast Regional Library followed by playground time at Tyler Run Park just up the road makes a gentle, varied morning.",
+              "interests": [
+                "stories",
+                "movement"
+              ],
+              "tips": [
+                "Arrive a few minutes before 09:15 for a good seat.",
+                "Tyler Run Park is weather-permitting; head home early if rain starts.",
+                "Leave by 11:30 to be home well ahead of the nap."
+              ],
+              "area": "north-raleigh",
+              "outdoor": false,
+              "source": {
+                "kind": "event",
+                "title": "Toddler Storytime",
+                "start": "2026-11-05T09:15:00-05:00",
+                "end": "2026-11-05T09:45:00-05:00",
+                "venue": "Northeast Regional Library",
+                "address": "14401 Green Elm Lane, Raleigh, NC",
+                "url": "https://www.wake.gov/events/toddler-storytime-1024",
+                "cost": "Free",
+                "ages": "Young Children",
+                "registration": false,
+                "indoor": true,
+                "area": "north-raleigh",
+                "source": "wake-county",
+                "dropIn": false
+              }
+            },
+            {
+              "ref": "event:wake:24335",
+              "also": [
+                {
+                  "ref": "place:hunter-street-park",
+                  "source": {
+                    "kind": "park",
+                    "title": "Hunter Street Park",
+                    "address": "1250 Ambergate Station, Apex, NC",
+                    "url": "https://www.apexnc.org/798/Hunter-Street-Park",
+                    "amenities": [
+                      "playground",
+                      "picnic-shelter",
+                      "restroom",
+                      "greenway"
+                    ],
+                    "indoor": false,
+                    "area": "cary-apex",
+                    "hours": null
+                  }
+                }
+              ],
+              "arrive": "09:20",
+              "leave": "11:30",
+              "why": "A storytime at Eva Perry Regional Library followed by playground time at Hunter Street Park gives a simple, enjoyable morning on the west side.",
+              "interests": [
+                "stories",
+                "movement"
+              ],
+              "tips": [
+                "Arrive a few minutes before 09:30 and pick up a ticket at the Youth Services desk.",
+                "The park is weather-permitting; stay at the library a bit longer if it rains.",
+                "Leave the park by 11:30 to be home in time for the nap."
+              ],
+              "area": "cary-apex",
+              "outdoor": false,
+              "source": {
+                "kind": "event",
+                "title": "Toddler Storytime",
+                "start": "2026-11-05T09:30:00-05:00",
+                "end": "2026-11-05T10:00:00-05:00",
+                "venue": "Eva Perry Regional Library",
+                "address": "2100 Shepherds Vineyard Drive, Apex, NC",
+                "url": "https://www.wake.gov/events/toddler-storytime-1034",
+                "cost": "Free",
+                "ages": "Young Children",
+                "registration": false,
+                "indoor": true,
+                "area": "cary-apex",
+                "source": "wake-county",
+                "dropIn": false
+              }
+            }
+          ],
+          "rainBackup": null,
+          "timeline": [
+            {
+              "start": "07:00",
+              "end": "07:30",
+              "kind": "routine",
+              "title": "Wake and breakfast"
+            },
+            {
+              "start": "07:30",
+              "end": "09:10",
+              "kind": "play",
+              "title": "Morning play at home"
+            },
+            {
+              "start": "09:10",
+              "end": "09:30",
+              "kind": "travel",
+              "title": "Drive to Laurel Hills Park"
+            },
+            {
+              "start": "09:30",
+              "end": "12:00",
+              "kind": "outing",
+              "title": "Laurel Hills Park and Birdwatching for Beginners at Prairie Ridge",
+              "detail": "Playground at Laurel Hills Park from 09:30; Birdwatching for Beginners at Prairie Ridge from 10:00."
+            },
+            {
+              "start": "12:00",
+              "end": "12:30",
+              "kind": "travel",
+              "title": "Drive home"
+            },
+            {
+              "start": "12:30",
+              "end": "12:50",
+              "kind": "meal",
+              "title": "Lunch"
+            },
+            {
+              "start": "12:50",
+              "end": "13:00",
+              "kind": "routine",
+              "title": "Settle for nap"
+            },
+            {
+              "start": "13:00",
+              "end": "15:00",
+              "kind": "nap",
+              "title": "Nap"
+            },
+            {
+              "start": "15:00",
+              "end": "15:20",
+              "kind": "routine",
+              "title": "Wake up and afternoon snack"
+            },
+            {
+              "start": "15:20",
+              "end": "17:30",
+              "kind": "play",
+              "title": "Afternoon play at home or a nearby park"
+            },
+            {
+              "start": "17:30",
+              "end": "18:15",
+              "kind": "meal",
+              "title": "Dinner"
+            },
+            {
+              "start": "18:15",
+              "end": "19:00",
+              "kind": "play",
+              "title": "Quiet evening play"
+            },
+            {
+              "start": "19:00",
+              "end": "19:30",
+              "kind": "routine",
+              "title": "Bath and bedtime routine"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "at": "2026-11-01T11:05:15.788Z",
+      "reason": "With a 51% chance of rain, each plan now centers on an indoor program (Total Tot Time, Music & Movement, a Fuquay-Varina storytime) instead of the outdoor garden and parks.",
+      "forecast": "nws",
+      "weather": {
+        "period": "Thursday",
+        "tempF": 79,
+        "precipProbability": 51,
+        "shortForecast": "Chance Rain Showers",
+        "hours": [
+          {
+            "t": "05:00",
+            "tempF": 62,
+            "pop": 19
+          },
+          {
+            "t": "06:00",
+            "tempF": 62,
+            "pop": 19
+          },
+          {
+            "t": "07:00",
+            "tempF": 63,
+            "pop": 46
+          },
+          {
+            "t": "08:00",
+            "tempF": 65,
+            "pop": 46
+          },
+          {
+            "t": "09:00",
+            "tempF": 68,
+            "pop": 46
+          },
+          {
+            "t": "10:00",
+            "tempF": 71,
+            "pop": 46
+          },
+          {
+            "t": "11:00",
+            "tempF": 73,
+            "pop": 46
+          },
+          {
+            "t": "12:00",
+            "tempF": 76,
+            "pop": 46
+          },
+          {
+            "t": "13:00",
+            "tempF": 77,
+            "pop": 51
+          },
+          {
+            "t": "14:00",
+            "tempF": 78,
+            "pop": 51
+          },
+          {
+            "t": "15:00",
+            "tempF": 79,
+            "pop": 51
+          },
+          {
+            "t": "16:00",
+            "tempF": 78,
+            "pop": 51
+          },
+          {
+            "t": "17:00",
+            "tempF": 76,
+            "pop": 51
+          },
+          {
+            "t": "18:00",
+            "tempF": 74,
+            "pop": 51
+          },
+          {
+            "t": "19:00",
+            "tempF": 71,
+            "pop": 45
+          },
+          {
+            "t": "20:00",
+            "tempF": 69,
+            "pop": 45
+          },
+          {
+            "t": "21:00",
+            "tempF": 68,
+            "pop": 45
+          },
+          {
+            "t": "22:00",
+            "tempF": 67,
+            "pop": 45
+          },
+          {
+            "t": "23:00",
+            "tempF": 66,
+            "pop": 45
+          }
+        ]
+      },
+      "plans": [
+        {
+          "nap": "two-naps",
+          "napLabel": "Two naps",
+          "headline": "Crawl through tunnels and shake a parachute in the gym",
+          "main": {
+            "ref": "event:durham-rec:19599:2026-11-05",
+            "arrive": "10:50",
+            "leave": "12:00",
+            "why": "Your toddler can crawl through tunnels and play with a parachute in the gym at Total Tot Time, alongside other little ones. A family needs to sign up first.",
+            "tips": [
+              "Sign up before you go, since this program needs a spot.",
+              "Let your child pick between the tunnel and the parachute and follow their lead.",
+              "Bring a water bottle and a snack for the ride home, then lunch before the 2:30 pm nap."
+            ],
+            "interests": [
+              "movement"
+            ],
+            "also": [],
+            "area": "durham",
+            "outdoor": false,
+            "source": {
+              "kind": "event",
+              "title": "Total Tot Time",
+              "start": "2026-11-05T10:00:00",
+              "end": "2026-11-05T12:00:00",
+              "venue": "Edison Johnson Rec Ctr",
+              "address": "W Murray Ave, Durham, NC",
+              "url": "https://apm.activecommunities.com/dprplaymore/Activity_Search/total-tot-time/19599?locale=en-US",
+              "cost": null,
+              "lat": 36.0299,
+              "lon": -78.9011,
+              "ages": "0 - 6",
+              "registration": "https://apm.activecommunities.com/dprplaymore/Activity_Search/total-tot-time/19599?locale=en-US",
+              "indoor": true,
+              "area": "durham",
+              "source": "durham-rec",
+              "dropIn": false
+            }
+          },
+          "alternatives": [
+            {
+              "ref": "event:libcal:durham-county-library:17189108",
+              "arrive": "10:50",
+              "leave": "12:20",
+              "why": "This is a drop-in maker table at Durham Main Library where your child can stack, pull and build with cardboard and Makedo kits at their own pace.",
+              "tips": [
+                "Drop in any time and stay as long as it holds their interest.",
+                "Offer big, simple pieces and let them explore first.",
+                "Pack a snack for the car."
+              ],
+              "interests": [
+                "science",
+                "art"
+              ],
+              "also": [],
+              "area": "durham",
+              "outdoor": false,
+              "source": {
+                "kind": "event",
+                "title": "This Week In the Lab: Makedo Kit",
+                "start": "2026-11-05T10:00:00",
+                "end": "2026-11-05T14:00:00",
+                "venue": "Main Library",
+                "address": "300 N. Roxboro St, Durham, NC",
+                "url": "https://durhamcountylibrary.libcal.com/event/17189108",
+                "cost": null,
+                "lat": 35.99490876306902,
+                "lon": -78.8964971677054,
+                "ages": "Adult, Elementary School, Emerging Adult: 18-24 Year Olds, High School, Intergenerational, Kindergarten, Middle School, Pre-School, Senior Citizen, Teen, Toddler, Tweens: 9-12 Year Olds, DPS",
+                "registration": false,
+                "indoor": true,
+                "area": "durham",
+                "source": "libcal",
+                "dropIn": true
+              }
+            },
+            {
+              "ref": "event:wake:23602",
+              "arrive": "10:50",
+              "leave": "12:00",
+              "why": "Family Storytime at Fuquay-Varina Community Library has books, rhymes and songs. Then your child can burn off energy at Library Park.",
+              "tips": [
+                "Sit near the front so your child can see the books.",
+                "Bring a snack for the park.",
+                "Head home for lunch before the nap."
+              ],
+              "interests": [
+                "stories",
+                "movement"
+              ],
+              "also": [
+                {
+                  "ref": "place:library-park",
+                  "source": {
+                    "kind": "park",
+                    "title": "Library Park",
+                    "address": "116 South Aiken Street, Fuquay-Varina, NC",
+                    "lat": 35.583119998491554,
+                    "lon": -78.79818382147192,
+                    "url": "https://www.fuquay-varina.org/Facilities/Facility/Details/20",
+                    "amenities": [
+                      "playground",
+                      "picnic-shelter"
+                    ],
+                    "indoor": false,
+                    "area": "south-wake",
+                    "hours": null,
+                    "cost": null
+                  }
+                }
+              ],
+              "area": "south-wake",
+              "outdoor": false,
+              "source": {
+                "kind": "event",
+                "title": "Family Storytime",
+                "start": "2026-11-05T11:00:00-05:00",
+                "end": "2026-11-05T11:30:00-05:00",
+                "venue": "Fuquay-Varina Community Library",
+                "address": "271 Bramblehill Drive, Fuquay-Varina, NC",
+                "url": "https://www.wake.gov/events/family-storytime-4587",
+                "cost": null,
+                "lat": 35.5850617253451,
+                "lon": -78.7802518504044,
+                "ages": "Young Children",
+                "registration": null,
+                "indoor": true,
+                "area": "south-wake",
+                "source": "wake-county",
+                "dropIn": false
+              }
+            },
+            {
+              "ref": "place:pullen-park-amusements",
+              "arrive": "11:00",
+              "leave": "12:30",
+              "why": "Pullen Park has a carousel and a train, which is a great fit for a toddler who loves vehicles. There is a playground too.",
+              "tips": [
+                "Start with the carousel and the train while your child is fresh.",
+                "Keep a snack handy for after the rides.",
+                "Pick a last ride so leaving feels like part of the plan."
+              ],
+              "interests": [
+                "vehicles",
+                "movement"
+              ],
+              "also": [],
+              "area": "raleigh",
+              "outdoor": true,
+              "source": {
+                "kind": "park",
+                "title": "Pullen Park Amusements",
+                "address": "410 Park Ave, Raleigh, NC 27606",
+                "lat": 35.7806,
+                "lon": -78.66396,
+                "url": "https://raleighnc.gov/parks-and-recreation/places/pullen-park-amusements",
+                "amenities": [
+                  "carousel",
+                  "boating",
+                  "train",
+                  "amusements",
+                  "courts",
+                  "playground",
+                  "picnic-shelter"
+                ],
+                "indoor": false,
+                "area": "raleigh",
+                "hours": {
+                  "mon": "10 a.m.–6 p.m.",
+                  "tue": "10 a.m.–6 p.m.",
+                  "wed": "10 a.m.–6 p.m.",
+                  "thu": "10 a.m.–6 p.m.",
+                  "fri": "10 a.m.–8 p.m.",
+                  "sat": "10 a.m.–8 p.m.",
+                  "sun": "10 a.m.–8 p.m."
+                },
+                "cost": null
+              }
+            }
+          ],
+          "rainBackup": null,
+          "timeline": [
+            {
+              "start": "07:00",
+              "end": "07:30",
+              "kind": "meal",
+              "title": "Up and breakfast"
+            },
+            {
+              "start": "07:30",
+              "end": "09:30",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "09:30",
+              "end": "10:30",
+              "kind": "nap",
+              "title": "Nap"
+            },
+            {
+              "start": "10:30",
+              "end": "10:50",
+              "kind": "travel",
+              "title": "Drive to Edison Johnson Rec Ctr"
+            },
+            {
+              "start": "10:50",
+              "end": "12:00",
+              "kind": "outing",
+              "title": "Edison Johnson Rec Ctr"
+            },
+            {
+              "start": "12:00",
+              "end": "12:20",
+              "kind": "travel",
+              "title": "Drive home"
+            },
+            {
+              "start": "12:20",
+              "end": "12:50",
+              "kind": "meal",
+              "title": "Lunch"
+            },
+            {
+              "start": "12:50",
+              "end": "14:30",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "14:30",
+              "end": "15:30",
+              "kind": "nap",
+              "title": "Nap"
+            },
+            {
+              "start": "15:30",
+              "end": "15:50",
+              "kind": "routine",
+              "title": "Up and a snack"
+            },
+            {
+              "start": "15:50",
+              "end": "17:30",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "17:30",
+              "end": "18:15",
+              "kind": "meal",
+              "title": "Dinner"
+            },
+            {
+              "start": "18:15",
+              "end": "19:00",
+              "kind": "routine",
+              "title": "Bath, books and bed"
+            }
+          ]
+        },
+        {
+          "nap": "early-nap",
+          "napLabel": "One nap, 12 to 2",
+          "headline": "Run at the park, then sing and dance with scarves and stories",
+          "main": {
+            "ref": "place:fred-fletcher-park",
+            "arrive": "10:00",
+            "leave": "11:00",
+            "why": "Your toddler can run and climb at Fred Fletcher Park, then go inside for Music & Movement at West Regional Library. There are songs, dancing and read-aloud stories.",
+            "tips": [
+              "Head inside by 10:25 so you are settled for the 10:30 start.",
+              "Sing along and copy the dance moves together.",
+              "Bring a snack for after, then go home for lunch before the noon nap."
+            ],
+            "interests": [
+              "movement",
+              "music",
+              "stories"
+            ],
+            "also": [
+              {
+                "ref": "event:wake:22611",
+                "source": {
+                  "kind": "event",
+                  "title": "Music & Movement",
+                  "start": "2026-11-05T10:30:00-05:00",
+                  "end": "2026-11-05T11:00:00-05:00",
+                  "venue": "West Regional Library",
+                  "address": "4000 Louis Stephens Drive, Cary, NC, 27519",
+                  "url": "https://www.wake.gov/events/music-movement-3",
+                  "cost": null,
+                  "lat": 35.78554,
+                  "lon": -78.65385,
+                  "ages": "Young Children",
+                  "registration": null,
+                  "indoor": true,
+                  "area": "raleigh",
+                  "source": "wake-county",
+                  "dropIn": false
+                }
+              }
+            ],
+            "area": "raleigh",
+            "outdoor": false,
+            "source": {
+              "kind": "park",
+              "title": "Fred Fletcher Park",
+              "address": "820 Clay Street, Raleigh, NC 27605",
+              "lat": 35.79264,
+              "lon": -78.64957,
+              "url": "https://raleighnc.gov/parks-and-recreation/places/fred-fletcher-park",
+              "amenities": [
+                "garden",
+                "picnic-shelter",
+                "courts",
+                "fields",
+                "playground"
+              ],
+              "indoor": false,
+              "area": "raleigh",
+              "hours": null,
+              "cost": null
+            }
+          },
+          "alternatives": [
+            {
+              "ref": "event:libcal:durham-county-library:15559144",
+              "arrive": "10:20",
+              "leave": "11:00",
+              "why": "Liv and Sing at Southwest Regional Library has lively music, dancing and a closing scarf-movement time. Babies and toddlers are welcome.",
+              "tips": [
+                "Arrive a little early to pick a spot with room to move.",
+                "Bring a favorite stuffed friend to dance with.",
+                "Leave right after the scarves for lunch before the nap."
+              ],
+              "interests": [
+                "music",
+                "movement"
+              ],
+              "also": [],
+              "area": "durham",
+              "outdoor": false,
+              "source": {
+                "kind": "event",
+                "title": "Liv and Sing!",
+                "start": "2026-11-05T10:30:00",
+                "end": "2026-11-05T11:00:00",
+                "venue": "Southwest Regional Library",
+                "address": "3605 Shannon Rd, Durham, NC",
+                "url": "https://durhamcountylibrary.libcal.com/event/15559144",
+                "cost": null,
+                "lat": 35.95871978266895,
+                "lon": -78.95455361473043,
+                "ages": "Baby, Kindergarten, Pre-School, Toddler",
+                "registration": false,
+                "indoor": true,
+                "area": "durham",
+                "source": "libcal",
+                "dropIn": false
+              }
+            },
+            {
+              "ref": "event:wake:24335",
+              "arrive": "09:20",
+              "leave": "10:40",
+              "why": "Toddler Storytime at Eva Perry Regional Library has books, music, rhymes and movement. Then your child can play at Apex Community Park.",
+              "tips": [
+                "Pick up a ticket at the Youth Services desk.",
+                "Bring a snack for the park.",
+                "Head home by 10:40 so lunch is easy before the nap."
+              ],
+              "interests": [
+                "stories",
+                "movement"
+              ],
+              "also": [
+                {
+                  "ref": "place:apex-community-park",
+                  "source": {
+                    "kind": "park",
+                    "title": "Apex Community Park",
+                    "address": "2200 Laura Duncan Rd., Apex, NC",
+                    "lat": 35.75461588131496,
+                    "lon": -78.82862025650613,
+                    "url": "http://www.apexnc.org/795/Apex-Community-Park",
+                    "amenities": [
+                      "playground",
+                      "picnic-shelter",
+                      "restroom",
+                      "greenway"
+                    ],
+                    "indoor": false,
+                    "area": "cary-apex",
+                    "hours": null,
+                    "cost": null
+                  }
+                }
+              ],
+              "area": "cary-apex",
+              "outdoor": false,
+              "source": {
+                "kind": "event",
+                "title": "Toddler Storytime",
+                "start": "2026-11-05T09:30:00-05:00",
+                "end": "2026-11-05T10:00:00-05:00",
+                "venue": "Eva Perry Regional Library",
+                "address": "2100 Shepherds Vineyard Drive, Apex, NC",
+                "url": "https://www.wake.gov/events/toddler-storytime-1034",
+                "cost": "Free",
+                "lat": 35.7437832024768,
+                "lon": -78.8251607833066,
+                "ages": "Young Children",
+                "registration": null,
+                "indoor": true,
+                "area": "cary-apex",
+                "source": "wake-county",
+                "dropIn": false
+              }
+            },
+            {
+              "ref": "event:wake:21993",
+              "arrive": "09:05",
+              "leave": "10:30",
+              "why": "Toddler Storytime at Northeast Regional Library has books, music, rhymes and movement. Then your child can play at Tyler Run Park.",
+              "tips": [
+                "Get there a few minutes early for a good spot.",
+                "Bring a snack for the playground.",
+                "Say a clear goodbye to the swings and head home for lunch."
+              ],
+              "interests": [
+                "stories",
+                "movement"
+              ],
+              "also": [
+                {
+                  "ref": "place:tyler-run-park",
+                  "source": {
+                    "kind": "park",
+                    "title": "Tyler Run Park",
+                    "address": "830 Pineview Dr, Wake Forest, NC",
+                    "lat": 35.971215429049174,
+                    "lon": -78.5212159679015,
+                    "url": "https://www.wakeforestnc.gov/parks-recreation-cultural-resources/parks-facilities/tyler-run-park",
+                    "amenities": [
+                      "playground",
+                      "picnic-shelter",
+                      "greenway"
+                    ],
+                    "indoor": false,
+                    "area": "north-raleigh",
+                    "hours": null,
+                    "cost": null
+                  }
+                }
+              ],
+              "area": "north-raleigh",
+              "outdoor": false,
+              "source": {
+                "kind": "event",
+                "title": "Toddler Storytime",
+                "start": "2026-11-05T09:15:00-05:00",
+                "end": "2026-11-05T09:45:00-05:00",
+                "venue": "Northeast Regional Library",
+                "address": "14401 Green Elm Lane, Raleigh, NC",
+                "url": "https://www.wake.gov/events/toddler-storytime-1024",
+                "cost": "Free",
+                "lat": 35.9541926372282,
+                "lon": -78.5438512128256,
+                "ages": "Young Children",
+                "registration": null,
+                "indoor": true,
+                "area": "north-raleigh",
+                "source": "wake-county",
+                "dropIn": false
+              }
+            }
+          ],
+          "rainBackup": null,
+          "timeline": [
+            {
+              "start": "07:00",
+              "end": "07:30",
+              "kind": "meal",
+              "title": "Up and breakfast"
+            },
+            {
+              "start": "07:30",
+              "end": "09:20",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "09:20",
+              "end": "09:40",
+              "kind": "routine",
+              "title": "Get ready to go",
+              "detail": "Shoes on, diaper bag, water and a snack."
+            },
+            {
+              "start": "09:40",
+              "end": "10:00",
+              "kind": "travel",
+              "title": "Drive to Fred Fletcher Park"
+            },
+            {
+              "start": "10:00",
+              "end": "10:20",
+              "kind": "outing",
+              "title": "Fred Fletcher Park"
+            },
+            {
+              "start": "10:20",
+              "end": "10:30",
+              "kind": "travel",
+              "title": "Drive to West Regional Library"
+            },
+            {
+              "start": "10:30",
+              "end": "11:00",
+              "kind": "outing",
+              "title": "Music & Movement"
+            },
+            {
+              "start": "11:00",
+              "end": "11:20",
+              "kind": "travel",
+              "title": "Drive home"
+            },
+            {
+              "start": "11:20",
+              "end": "11:50",
+              "kind": "meal",
+              "title": "Lunch"
+            },
+            {
+              "start": "11:50",
+              "end": "12:00",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "12:00",
+              "end": "14:00",
+              "kind": "nap",
+              "title": "Nap"
+            },
+            {
+              "start": "14:00",
+              "end": "14:20",
+              "kind": "routine",
+              "title": "Up and a snack"
+            },
+            {
+              "start": "14:20",
+              "end": "17:30",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "17:30",
+              "end": "18:15",
+              "kind": "meal",
+              "title": "Dinner"
+            },
+            {
+              "start": "18:15",
+              "end": "19:00",
+              "kind": "routine",
+              "title": "Bath, books and bed"
+            }
+          ]
+        },
+        {
+          "nap": "late-nap",
+          "napLabel": "One nap, 1 to 3",
+          "headline": "Sing and read at storytime, then play at Library Park",
+          "main": {
+            "ref": "event:wake:23596",
+            "arrive": "09:50",
+            "leave": "11:10",
+            "why": "Family Storytime at Fuquay-Varina Community Library has books, rhymes, songs and movement. Then your child can play at Library Park.",
+            "tips": [
+              "Sit near the front so your child can see the books.",
+              "Bring a snack for the park.",
+              "Give a five-minute warning at the playground, then head home for lunch before the 1:00 pm nap."
+            ],
+            "interests": [
+              "stories",
+              "movement"
+            ],
+            "also": [
+              {
+                "ref": "place:library-park",
+                "source": {
+                  "kind": "park",
+                  "title": "Library Park",
+                  "address": "116 South Aiken Street, Fuquay-Varina, NC",
+                  "lat": 35.583119998491554,
+                  "lon": -78.79818382147192,
+                  "url": "https://www.fuquay-varina.org/Facilities/Facility/Details/20",
+                  "amenities": [
+                    "playground",
+                    "picnic-shelter"
+                  ],
+                  "indoor": false,
+                  "area": "south-wake",
+                  "hours": null,
+                  "cost": null
+                }
+              }
+            ],
+            "area": "south-wake",
+            "outdoor": false,
+            "source": {
+              "kind": "event",
+              "title": "Family Storytime",
+              "start": "2026-11-05T10:00:00-05:00",
+              "end": "2026-11-05T10:30:00-05:00",
+              "venue": "Fuquay-Varina Community Library",
+              "address": "271 Bramblehill Drive, Fuquay-Varina, NC",
+              "url": "https://www.wake.gov/events/family-storytime-4581",
+              "cost": null,
+              "lat": 35.5850617253451,
+              "lon": -78.7802518504044,
+              "ages": "Young Children",
+              "registration": null,
+              "indoor": true,
+              "area": "south-wake",
+              "source": "wake-county",
+              "dropIn": false
+            }
+          },
+          "alternatives": [
+            {
+              "ref": "event:durham-rec:19599:2026-11-05",
+              "arrive": "09:50",
+              "leave": "11:30",
+              "why": "Your toddler can crawl through tunnels and play with a parachute in the gym at Total Tot Time. A family needs to sign up first.",
+              "tips": [
+                "Sign up before you go, since this program needs a spot.",
+                "Let your child lead from tunnel to parachute.",
+                "Bring a snack for the ride home."
+              ],
+              "interests": [
+                "movement"
+              ],
+              "also": [],
+              "area": "durham",
+              "outdoor": false,
+              "source": {
+                "kind": "event",
+                "title": "Total Tot Time",
+                "start": "2026-11-05T10:00:00",
+                "end": "2026-11-05T12:00:00",
+                "venue": "Edison Johnson Rec Ctr",
+                "address": "W Murray Ave, Durham, NC",
+                "url": "https://apm.activecommunities.com/dprplaymore/Activity_Search/total-tot-time/19599?locale=en-US",
+                "cost": null,
+                "lat": 36.0299,
+                "lon": -78.9011,
+                "ages": "0 - 6",
+                "registration": "https://apm.activecommunities.com/dprplaymore/Activity_Search/total-tot-time/19599?locale=en-US",
+                "indoor": true,
+                "area": "durham",
+                "source": "durham-rec",
+                "dropIn": false
+              }
+            },
+            {
+              "ref": "event:wake:24365",
+              "arrive": "10:20",
+              "leave": "11:30",
+              "why": "Family Storytime at Eva Perry Regional Library has books, music, rhymes and movement. Then your child can play at Seagroves Farm Park.",
+              "tips": [
+                "Pick up a ticket at the Youth Services desk.",
+                "Bring a snack for the park.",
+                "Head home for lunch before the nap."
+              ],
+              "interests": [
+                "stories",
+                "movement"
+              ],
+              "also": [
+                {
+                  "ref": "place:seagroves-farm-park",
+                  "source": {
+                    "kind": "park",
+                    "title": "Seagroves Farm Park",
+                    "address": "201 Parkfield Dr., Apex, NC",
+                    "lat": 35.72788436131107,
+                    "lon": -78.82838438475397,
+                    "url": "https://www.apexnc.org/1936/Seagroves-Farm-Park",
+                    "amenities": [
+                      "playground",
+                      "picnic-shelter",
+                      "restroom",
+                      "greenway"
+                    ],
+                    "indoor": false,
+                    "area": "cary-apex",
+                    "hours": null,
+                    "cost": null
+                  }
+                }
+              ],
+              "area": "cary-apex",
+              "outdoor": false,
+              "source": {
+                "kind": "event",
+                "title": "Family Storytime",
+                "start": "2026-11-05T10:30:00-05:00",
+                "end": "2026-11-05T11:00:00-05:00",
+                "venue": "Eva Perry Regional Library",
+                "address": "2100 Shepherds Vineyard Drive, Apex, NC",
+                "url": "https://www.wake.gov/events/family-storytime-4692",
+                "cost": "Free",
+                "lat": 35.7437832024768,
+                "lon": -78.8251607833066,
+                "ages": "Young Children",
+                "registration": null,
+                "indoor": true,
+                "area": "cary-apex",
+                "source": "wake-county",
+                "dropIn": false
+              }
+            },
+            {
+              "ref": "event:wake:22365",
+              "arrive": "09:50",
+              "leave": "11:00",
+              "why": "Family Storytime at Leesville Community Library has books, rhymes and songs. Then your child can play at Leesville Community Park.",
+              "tips": [
+                "Sit close so your child can join the songs.",
+                "Bring a snack for after the park.",
+                "Head home by 11:00 for an easy lunch before the nap."
+              ],
+              "interests": [
+                "stories",
+                "movement"
+              ],
+              "also": [
+                {
+                  "ref": "place:leesville-community-park",
+                  "source": {
+                    "kind": "park",
+                    "title": "Leesville Community Park",
+                    "address": "5105 Country Trail, Raleigh, NC 27613",
+                    "lat": 35.88424,
+                    "lon": -78.71549,
+                    "url": "https://raleighnc.gov/parks-and-recreation/places/leesville-community-park",
+                    "amenities": [
+                      "greenway",
+                      "playground",
+                      "garden"
+                    ],
+                    "indoor": false,
+                    "area": "north-raleigh",
+                    "hours": null,
+                    "cost": null
+                  }
+                }
+              ],
+              "area": "north-raleigh",
+              "outdoor": false,
+              "source": {
+                "kind": "event",
+                "title": "Family Storytime",
+                "start": "2026-11-05T10:00:00-05:00",
+                "end": "2026-11-05T10:30:00-05:00",
+                "venue": "Leesville Community Library",
+                "address": "5105 Country Trail, Raleigh, NC 27613",
+                "url": "https://www.wake.gov/events/family-storytime-4179",
+                "cost": "Free",
+                "lat": 35.88424,
+                "lon": -78.71549,
+                "ages": "Young Children",
+                "registration": null,
+                "indoor": true,
+                "area": "north-raleigh",
+                "source": "wake-county",
+                "dropIn": false
+              }
+            }
+          ],
+          "rainBackup": null,
+          "timeline": [
+            {
+              "start": "07:00",
+              "end": "07:30",
+              "kind": "meal",
+              "title": "Up and breakfast"
+            },
+            {
+              "start": "07:30",
+              "end": "09:10",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "09:10",
+              "end": "09:30",
+              "kind": "routine",
+              "title": "Get ready to go",
+              "detail": "Shoes on, diaper bag, water and a snack."
+            },
+            {
+              "start": "09:30",
+              "end": "09:50",
+              "kind": "travel",
+              "title": "Drive to Fuquay-Varina Community Library"
+            },
+            {
+              "start": "09:50",
+              "end": "10:30",
+              "kind": "outing",
+              "title": "Family Storytime"
+            },
+            {
+              "start": "10:30",
+              "end": "10:40",
+              "kind": "travel",
+              "title": "Drive to Library Park"
+            },
+            {
+              "start": "10:40",
+              "end": "11:10",
+              "kind": "outing",
+              "title": "Library Park"
+            },
+            {
+              "start": "11:10",
+              "end": "11:30",
+              "kind": "travel",
+              "title": "Drive home"
+            },
+            {
+              "start": "11:30",
+              "end": "12:15",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "12:15",
+              "end": "12:45",
+              "kind": "meal",
+              "title": "Lunch"
+            },
+            {
+              "start": "12:45",
+              "end": "13:00",
+              "kind": "quiet",
+              "title": "Wind down",
+              "detail": "A couple of books to settle."
+            },
+            {
+              "start": "13:00",
+              "end": "15:00",
+              "kind": "nap",
+              "title": "Nap"
+            },
+            {
+              "start": "15:00",
+              "end": "15:20",
+              "kind": "routine",
+              "title": "Up and a snack"
+            },
+            {
+              "start": "15:20",
+              "end": "18:00",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "18:00",
+              "end": "18:45",
+              "kind": "meal",
+              "title": "Dinner"
+            },
+            {
+              "start": "18:45",
+              "end": "19:30",
+              "kind": "routine",
+              "title": "Bath, books and bed"
+            }
+          ]
+        }
+      ],
+      "changes": [
+        {
+          "plan": "two-naps",
+          "message": "Discovery Drop-In & Storytime is outdoors and the forecast is now 51% chance of rain"
+        },
+        {
+          "plan": "early-nap",
+          "message": "Gipson Play Plaza at Dix Park is outdoors and the forecast is now 51% chance of rain"
+        },
+        {
+          "plan": "late-nap",
+          "message": "Laurel Hills Park is outdoors and the forecast is now 51% chance of rain"
+        }
+      ]
+    }
+  ],
+  "checked": {
+    "at": "2026-11-01T11:05:15.788Z",
+    "forecast": "nws",
+    "weather": {
+      "period": "Thursday",
+      "tempF": 79,
+      "precipProbability": 51,
+      "shortForecast": "Chance Rain Showers",
+      "hours": [
+        {
+          "t": "05:00",
+          "tempF": 62,
+          "pop": 19
+        },
+        {
+          "t": "06:00",
+          "tempF": 62,
+          "pop": 19
+        },
+        {
+          "t": "07:00",
+          "tempF": 63,
+          "pop": 46
+        },
+        {
+          "t": "08:00",
+          "tempF": 65,
+          "pop": 46
+        },
+        {
+          "t": "09:00",
+          "tempF": 68,
+          "pop": 46
+        },
+        {
+          "t": "10:00",
+          "tempF": 71,
+          "pop": 46
+        },
+        {
+          "t": "11:00",
+          "tempF": 73,
+          "pop": 46
+        },
+        {
+          "t": "12:00",
+          "tempF": 76,
+          "pop": 46
+        },
+        {
+          "t": "13:00",
+          "tempF": 77,
+          "pop": 51
+        },
+        {
+          "t": "14:00",
+          "tempF": 78,
+          "pop": 51
+        },
+        {
+          "t": "15:00",
+          "tempF": 79,
+          "pop": 51
+        },
+        {
+          "t": "16:00",
+          "tempF": 78,
+          "pop": 51
+        },
+        {
+          "t": "17:00",
+          "tempF": 76,
+          "pop": 51
+        },
+        {
+          "t": "18:00",
+          "tempF": 74,
+          "pop": 51
+        },
+        {
+          "t": "19:00",
+          "tempF": 71,
+          "pop": 45
+        },
+        {
+          "t": "20:00",
+          "tempF": 69,
+          "pop": 45
+        },
+        {
+          "t": "21:00",
+          "tempF": 68,
+          "pop": 45
+        },
+        {
+          "t": "22:00",
+          "tempF": 67,
+          "pop": 45
+        },
+        {
+          "t": "23:00",
+          "tempF": 66,
+          "pop": 45
+        }
+      ]
+    },
+    "hidden": []
+  }
+}

@@ -1,0 +1,896 @@
+{
+  "date": "2026-11-01",
+  "band": "t4",
+  "versions": [
+    {
+      "at": "2026-10-27T00:55:50.801Z",
+      "reason": null,
+      "forecast": "nws",
+      "weather": {
+        "period": "Sunday",
+        "tempF": 72,
+        "precipProbability": 31,
+        "shortForecast": "Chance Rain Showers"
+      },
+      "plans": [
+        {
+          "nap": "short-nap",
+          "napLabel": "Short nap, 1 to 2",
+          "headline": "Wild Rescue 3D at Marbles IMAX then John Chavis Memorial Park",
+          "main": {
+            "ref": "event:museum:marbles:46974",
+            "arrive": "10:50",
+            "leave": "12:20",
+            "why": "Wild Rescue 3D at the Marbles IMAX is a captivating short animal-rescue film for ages 3 and up. After the film, head to John Chavis Memorial Park for outdoor play to get some fresh air before the nap.",
+            "also": [
+              {
+                "ref": "place:john-chavis-memorial-park",
+                "source": {
+                  "kind": "park",
+                  "title": "John Chavis Memorial Park",
+                  "address": "505 Martin Luther King Jr Blvd, Raleigh, NC 27601",
+                  "url": "https://raleighnc.gov/parks-and-recreation/places/john-chavis-memorial-park",
+                  "amenities": [
+                    "community-center",
+                    "playground",
+                    "carousel",
+                    "fields"
+                  ],
+                  "indoor": false,
+                  "area": "raleigh",
+                  "hours": null,
+                  "lat": 35.7698,
+                  "lon": -78.63021,
+                  "cost": null
+                }
+              }
+            ],
+            "tips": [
+              "Arrive a few minutes before 11:00 to find good seats for the film.",
+              "Let your child pick one museum exhibit to explore after the film before heading to the park.",
+              "Weather permitting, plan at least 20 minutes at John Chavis Memorial Park before heading home for the nap."
+            ],
+            "interests": [
+              "animals",
+              "science",
+              "movement"
+            ],
+            "area": "raleigh",
+            "outdoor": false,
+            "source": {
+              "kind": "event",
+              "title": "Wild Rescue 3D",
+              "start": "2026-11-01T11:00:00",
+              "end": "2026-11-01T11:45:00",
+              "venue": "Marbles Kids Museum",
+              "address": "201 E Hargett St, Raleigh, NC 27601",
+              "url": "https://marbleskidsmuseum.org/event/48375/",
+              "cost": null,
+              "ages": "IMAX film, 4 and up",
+              "registration": null,
+              "indoor": true,
+              "area": "raleigh",
+              "source": "museum",
+              "dropIn": false,
+              "lat": 35.7789,
+              "lon": -78.6361
+            }
+          },
+          "alternatives": [
+            {
+              "ref": "event:wake-parks:9411:2026-11-01",
+              "arrive": "09:00",
+              "leave": "12:10",
+              "why": "Exploration Station: American Bison at Historic Yates Mill County Park is a free outdoor drop-in marking National Bison Day — a great chance to learn about America's national mammal at a beautiful Raleigh park.",
+              "tips": [
+                "Registration is required — sign up in advance.",
+                "Bring a snack and water for the park grounds.",
+                "Head home by 12:10 so there is time for lunch before the nap."
+              ],
+              "interests": [
+                "animals",
+                "nature",
+                "science"
+              ],
+              "also": [],
+              "area": "raleigh",
+              "outdoor": true,
+              "source": {
+                "kind": "event",
+                "title": "Exploration Station: American Bison",
+                "start": "2026-11-01T08:30:00",
+                "end": "2026-11-01T17:00:00",
+                "venue": "Historic Yates Mill County Park",
+                "address": "4620 Lake Wheeler Rd., Raleigh, NC  27603",
+                "url": "https://apm.activecommunities.com/wakeparks/Activity_Search/exploration-station-american-bison/9411?locale=en-US",
+                "cost": null,
+                "ages": null,
+                "registration": "https://apm.activecommunities.com/wakeparks/Activity_Search/exploration-station-american-bison/9411?locale=en-US",
+                "indoor": false,
+                "area": "raleigh",
+                "source": "wake-parks",
+                "dropIn": false,
+                "lat": 35.72157134974476,
+                "lon": -78.68526087901417
+              }
+            },
+            {
+              "ref": "event:wake-parks:8358:2026-11-01",
+              "arrive": "08:30",
+              "leave": "10:30",
+              "why": "The StoryWalk at Beech Bluff County Park is a self-guided story stroll on the ADA-accessible loop — a gentle south-Wake morning with stories and fresh air before the nap.",
+              "tips": [
+                "Arrive early while the day is fresh.",
+                "Let your child lead and stop at each panel together.",
+                "The playground is right there for play after the loop."
+              ],
+              "interests": [
+                "stories",
+                "nature",
+                "movement"
+              ],
+              "also": [],
+              "area": "south-wake",
+              "outdoor": true,
+              "source": {
+                "kind": "event",
+                "title": "Beech Bluff County Park StoryWalk® 2026 (Self-Led)",
+                "start": "2026-11-01T08:00:00",
+                "end": "2026-11-01T17:30:00",
+                "venue": "Beech Bluff County Park",
+                "address": "Beech Bluff Park Drive, Fuquay-Varina, NC",
+                "url": "https://apm.activecommunities.com/wakeparks/Activity_Search/beech-bluff-county-park-storywalk-2026-self-led/8358?locale=en-US",
+                "cost": "Free",
+                "ages": null,
+                "registration": false,
+                "indoor": false,
+                "area": "south-wake",
+                "source": "wake-parks",
+                "dropIn": true,
+                "lat": 35.58537279715877,
+                "lon": -78.6793341971644
+              }
+            },
+            {
+              "ref": "event:wake-parks:9415",
+              "arrive": "14:20",
+              "leave": "16:00",
+              "why": "The Mill Open House at Historic Yates Mill County Park is a free afternoon drop-in where interpreters explain the history of the working mill — a fascinating outdoor post-nap outing in Raleigh.",
+              "tips": [
+                "Registration is required — book a spot in advance.",
+                "The park grounds are lovely for a walk after the mill tour.",
+                "This is a calm, low-key contrast to a busier morning."
+              ],
+              "interests": [
+                "science",
+                "nature",
+                "stories"
+              ],
+              "also": [],
+              "area": "raleigh",
+              "outdoor": true,
+              "source": {
+                "kind": "event",
+                "title": "Mill Open House",
+                "start": "2026-11-01T13:00:00",
+                "end": "2026-11-01T16:00:00",
+                "venue": "Historic Yates Mill County Park",
+                "address": "4620 Lake Wheeler Rd., Raleigh, NC  27603",
+                "url": "https://apm.activecommunities.com/wakeparks/Activity_Search/mill-open-house/9415?locale=en-US",
+                "cost": null,
+                "ages": null,
+                "registration": "https://apm.activecommunities.com/wakeparks/Activity_Search/mill-open-house/9415?locale=en-US",
+                "indoor": false,
+                "area": "raleigh",
+                "source": "wake-parks",
+                "dropIn": false,
+                "lat": 35.72157134974476,
+                "lon": -78.68526087901417
+              }
+            },
+            {
+              "ref": "event:museum:durham-central-park:13914",
+              "arrive": "14:20",
+              "leave": "16:00",
+              "why": "Echo in the Park at Durham Central Park is an outdoor drop-in afternoon event — a laid-back way to spend the later afternoon in a Durham park.",
+              "tips": [
+                "Drop in any time from 14:20.",
+                "Durham Central Park has a playground and greenway for extra outdoor time.",
+                "Keep the afternoon calm to wind down after the nap."
+              ],
+              "interests": [
+                "movement",
+                "nature",
+                "music"
+              ],
+              "also": [],
+              "area": "durham",
+              "outdoor": true,
+              "source": {
+                "kind": "event",
+                "title": "echo in the Park",
+                "start": "2026-11-01T13:00:00",
+                "end": "2026-11-01T17:00:00",
+                "venue": "Durham Central Park",
+                "address": "501 Foster Street, Durham, NC, 27701",
+                "url": "https://durhamcentralpark.org/upcoming-event/echo-in-the-park/",
+                "cost": null,
+                "ages": null,
+                "registration": null,
+                "indoor": false,
+                "area": "durham",
+                "source": "museum",
+                "dropIn": true,
+                "lat": 36.0008,
+                "lon": -78.9021
+              }
+            }
+          ],
+          "rainBackup": null,
+          "timeline": [
+            {
+              "start": "07:00",
+              "end": "07:30",
+              "kind": "meal",
+              "title": "Up and breakfast"
+            },
+            {
+              "start": "07:30",
+              "end": "10:10",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "10:10",
+              "end": "10:30",
+              "kind": "routine",
+              "title": "Get ready to go",
+              "detail": "Shoes on, diaper bag, water and a snack."
+            },
+            {
+              "start": "10:30",
+              "end": "10:50",
+              "kind": "travel",
+              "title": "Drive to Marbles Kids Museum"
+            },
+            {
+              "start": "10:50",
+              "end": "11:45",
+              "kind": "outing",
+              "title": "Wild Rescue 3D",
+              "detail": "Pack a lunch to eat there."
+            },
+            {
+              "start": "11:45",
+              "end": "11:55",
+              "kind": "travel",
+              "title": "Drive to John Chavis Memorial Park"
+            },
+            {
+              "start": "11:55",
+              "end": "12:20",
+              "kind": "outing",
+              "title": "John Chavis Memorial Park"
+            },
+            {
+              "start": "12:20",
+              "end": "12:45",
+              "kind": "travel",
+              "title": "Drive home"
+            },
+            {
+              "start": "12:45",
+              "end": "13:00",
+              "kind": "quiet",
+              "title": "Wind down",
+              "detail": "A couple of books to settle."
+            },
+            {
+              "start": "13:00",
+              "end": "14:00",
+              "kind": "nap",
+              "title": "Nap"
+            },
+            {
+              "start": "14:00",
+              "end": "14:20",
+              "kind": "routine",
+              "title": "Up and a snack"
+            },
+            {
+              "start": "14:20",
+              "end": "18:30",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "18:30",
+              "end": "19:15",
+              "kind": "meal",
+              "title": "Dinner"
+            },
+            {
+              "start": "19:15",
+              "end": "20:00",
+              "kind": "routine",
+              "title": "Bath, books and bed"
+            }
+          ]
+        },
+        {
+          "nap": "quiet",
+          "napLabel": "Quiet time",
+          "headline": "Exploration Station: American Bison at Historic Yates Mill County Park",
+          "main": {
+            "ref": "event:wake-parks:9411:2026-11-01",
+            "arrive": "09:00",
+            "leave": "12:10",
+            "why": "Exploration Station: American Bison at Historic Yates Mill County Park is a free outdoor drop-in marking National Bison Day — a wonderful chance to learn about America's national mammal at a lovely Raleigh park on a Sunday morning.",
+            "tips": [
+              "Registration is required — sign up in advance.",
+              "Bring a snack and water for the park grounds.",
+              "Head home by 12:10 so there is time for lunch before quiet time."
+            ],
+            "interests": [
+              "animals",
+              "nature",
+              "science"
+            ],
+            "also": [],
+            "area": "raleigh",
+            "outdoor": true,
+            "source": {
+              "kind": "event",
+              "title": "Exploration Station: American Bison",
+              "start": "2026-11-01T08:30:00",
+              "end": "2026-11-01T17:00:00",
+              "venue": "Historic Yates Mill County Park",
+              "address": "4620 Lake Wheeler Rd., Raleigh, NC  27603",
+              "url": "https://apm.activecommunities.com/wakeparks/Activity_Search/exploration-station-american-bison/9411?locale=en-US",
+              "cost": null,
+              "ages": null,
+              "registration": "https://apm.activecommunities.com/wakeparks/Activity_Search/exploration-station-american-bison/9411?locale=en-US",
+              "indoor": false,
+              "area": "raleigh",
+              "source": "wake-parks",
+              "dropIn": false,
+              "lat": 35.72157134974476,
+              "lon": -78.68526087901417
+            }
+          },
+          "alternatives": [
+            {
+              "ref": "event:weekly:mols-early-childhood:2026-11-01",
+              "arrive": "10:00",
+              "leave": "12:00",
+              "why": "The Early Childhood Drop-In in Hideaway Woods at the Museum of Life and Science is an outdoor play-based morning with sensory play, songs and stories. Pair with Northgate Park for outdoor play before heading home.",
+              "also": [
+                {
+                  "ref": "place:northgate-park",
+                  "source": {
+                    "kind": "park",
+                    "title": "Northgate Park",
+                    "address": "300 W Club Blvd, Durham, NC",
+                    "url": "https://www.dprplaymore.org/Facilities/Facility/Details/Northgate-Park-47",
+                    "amenities": [
+                      "playground",
+                      "picnic-shelter",
+                      "restroom",
+                      "greenway"
+                    ],
+                    "indoor": false,
+                    "area": "durham",
+                    "hours": null,
+                    "lat": 36.02113714285714,
+                    "lon": -78.89581,
+                    "cost": null
+                  }
+                }
+              ],
+              "tips": [
+                "Arrive at 10:00 within the drop-in window and stay at least 20 minutes.",
+                "Northgate Park is 10 minutes away for outdoor play after.",
+                "Leave the park by 12:10 so you are home in time for quiet time."
+              ],
+              "interests": [
+                "nature",
+                "movement",
+                "stories"
+              ],
+              "area": "durham",
+              "outdoor": true,
+              "source": {
+                "kind": "event",
+                "title": "Early Childhood Drop-In",
+                "start": "2026-11-01T09:30:00",
+                "end": "2026-11-01T11:30:00",
+                "venue": "Hideaway Woods, Museum of Life and Science",
+                "address": "433 W Murray Ave, Durham, NC 27704",
+                "url": "https://www.lifeandscience.org/learn/drop-in-programs/",
+                "cost": "Included with museum admission",
+                "ages": "young children and their caregivers",
+                "registration": false,
+                "indoor": false,
+                "area": "durham",
+                "source": "weekly",
+                "dropIn": true,
+                "lat": 36.0294,
+                "lon": -78.8993
+              }
+            },
+            {
+              "ref": "event:wake-parks:8358:2026-11-01",
+              "arrive": "08:30",
+              "leave": "10:30",
+              "why": "The StoryWalk at Beech Bluff County Park is a self-guided story stroll on the ADA-accessible loop — a gentle south-Wake morning with stories and fresh air.",
+              "tips": [
+                "Arrive early for the coolest part of the day.",
+                "Let your child lead and stop at each panel.",
+                "The playground is right there for play after the loop."
+              ],
+              "interests": [
+                "stories",
+                "nature",
+                "movement"
+              ],
+              "also": [],
+              "area": "south-wake",
+              "outdoor": true,
+              "source": {
+                "kind": "event",
+                "title": "Beech Bluff County Park StoryWalk® 2026 (Self-Led)",
+                "start": "2026-11-01T08:00:00",
+                "end": "2026-11-01T17:30:00",
+                "venue": "Beech Bluff County Park",
+                "address": "Beech Bluff Park Drive, Fuquay-Varina, NC",
+                "url": "https://apm.activecommunities.com/wakeparks/Activity_Search/beech-bluff-county-park-storywalk-2026-self-led/8358?locale=en-US",
+                "cost": "Free",
+                "ages": null,
+                "registration": false,
+                "indoor": false,
+                "area": "south-wake",
+                "source": "wake-parks",
+                "dropIn": true,
+                "lat": 35.58537279715877,
+                "lon": -78.6793341971644
+              }
+            },
+            {
+              "ref": "event:wake:23514",
+              "arrive": "13:00",
+              "leave": "15:00",
+              "why": "Preschool Practice and Play at Athens Drive Community Library is a self-guided open play session with crafts, puzzles and building toys for ages 3–5 — a calm post-quiet-time afternoon in Raleigh.",
+              "tips": [
+                "Registration is required — book a spot in advance.",
+                "This is a gentle, unhurried outing — perfect for winding down after quiet time.",
+                "Method Community Park is nearby for outdoor play after, weather permitting."
+              ],
+              "interests": [
+                "art",
+                "stories",
+                "movement"
+              ],
+              "also": [],
+              "area": "raleigh",
+              "outdoor": false,
+              "source": {
+                "kind": "event",
+                "title": "Preschool Practice and Play",
+                "start": "2026-11-01T13:00:00-05:00",
+                "end": "2026-11-01T15:00:00-05:00",
+                "venue": "Athens Drive Community Library",
+                "address": "1420 Athens Drive, Raleigh, NC, 27606",
+                "url": "https://www.eventbrite.com/e/preschool-practice-and-play-tickets-2000660804322",
+                "cost": "Free",
+                "ages": "Young Children",
+                "registration": "https://www.eventbrite.com/e/preschool-practice-and-play-tickets-2000660804322",
+                "indoor": true,
+                "area": "raleigh",
+                "source": "wake-county",
+                "dropIn": false,
+                "lat": 35.7682600041562,
+                "lon": -78.7107215103108
+              }
+            }
+          ],
+          "rainBackup": null,
+          "timeline": [
+            {
+              "start": "07:00",
+              "end": "07:30",
+              "kind": "meal",
+              "title": "Up and breakfast"
+            },
+            {
+              "start": "07:30",
+              "end": "08:20",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "08:20",
+              "end": "08:40",
+              "kind": "routine",
+              "title": "Get ready to go",
+              "detail": "Shoes on, diaper bag, water and a snack."
+            },
+            {
+              "start": "08:40",
+              "end": "09:00",
+              "kind": "travel",
+              "title": "Drive to Historic Yates Mill County Park"
+            },
+            {
+              "start": "09:00",
+              "end": "12:10",
+              "kind": "outing",
+              "title": "Historic Yates Mill County Park",
+              "detail": "Pack a lunch to eat there."
+            },
+            {
+              "start": "12:10",
+              "end": "12:30",
+              "kind": "travel",
+              "title": "Drive home"
+            },
+            {
+              "start": "12:30",
+              "end": "13:00",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "13:00",
+              "end": "13:45",
+              "kind": "quiet",
+              "title": "Quiet time",
+              "detail": "Books or quiet play in their room."
+            },
+            {
+              "start": "13:45",
+              "end": "18:00",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "18:00",
+              "end": "18:45",
+              "kind": "meal",
+              "title": "Dinner"
+            },
+            {
+              "start": "18:45",
+              "end": "19:30",
+              "kind": "routine",
+              "title": "Bath, books and bed"
+            }
+          ]
+        },
+        {
+          "nap": "no-nap",
+          "napLabel": "No nap",
+          "headline": "Early Childhood Drop-In at Museum of Life and Science then Northgate Park",
+          "main": {
+            "ref": "event:weekly:mols-early-childhood:2026-11-01",
+            "arrive": "10:00",
+            "leave": "12:00",
+            "why": "The Early Childhood Drop-In in Hideaway Woods at the Museum of Life and Science is an outdoor play-based morning with sensory play, songs and stories — a beautiful Sunday in Durham. Explore the Dinosaur Trail and farmyard too, then finish with outdoor play at Northgate Park.",
+            "also": [
+              {
+                "ref": "place:northgate-park",
+                "source": {
+                  "kind": "park",
+                  "title": "Northgate Park",
+                  "address": "300 W Club Blvd, Durham, NC",
+                  "url": "https://www.dprplaymore.org/Facilities/Facility/Details/Northgate-Park-47",
+                  "amenities": [
+                    "playground",
+                    "picnic-shelter",
+                    "restroom",
+                    "greenway"
+                  ],
+                  "indoor": false,
+                  "area": "durham",
+                  "hours": null,
+                  "lat": 36.02113714285714,
+                  "lon": -78.89581,
+                  "cost": null
+                }
+              }
+            ],
+            "tips": [
+              "Arrive at 10:00 to join the drop-in already in progress and stay as long as your child stays engaged.",
+              "Head toward Northgate Park around 11:20 — 10 minutes to drive, then at least 20 minutes to play.",
+              "The drop-in is fully outdoors in Hideaway Woods; if showers arrive, the covered museum areas are right there."
+            ],
+            "interests": [
+              "nature",
+              "animals",
+              "movement"
+            ],
+            "area": "durham",
+            "outdoor": true,
+            "source": {
+              "kind": "event",
+              "title": "Early Childhood Drop-In",
+              "start": "2026-11-01T09:30:00",
+              "end": "2026-11-01T11:30:00",
+              "venue": "Hideaway Woods, Museum of Life and Science",
+              "address": "433 W Murray Ave, Durham, NC 27704",
+              "url": "https://www.lifeandscience.org/learn/drop-in-programs/",
+              "cost": "Included with museum admission",
+              "ages": "young children and their caregivers",
+              "registration": false,
+              "indoor": false,
+              "area": "durham",
+              "source": "weekly",
+              "dropIn": true,
+              "lat": 36.0294,
+              "lon": -78.8993
+            }
+          },
+          "alternatives": [
+            {
+              "ref": "event:wake-parks:9411:2026-11-01",
+              "arrive": "09:00",
+              "leave": "12:00",
+              "why": "Exploration Station: American Bison at Historic Yates Mill County Park is a free outdoor drop-in for National Bison Day — a great Raleigh morning learning about America's national mammal.",
+              "tips": [
+                "Registration is required — sign up in advance.",
+                "Bring a snack and water for the park grounds.",
+                "The park itself is lovely for a walk after the station."
+              ],
+              "interests": [
+                "animals",
+                "nature",
+                "science"
+              ],
+              "also": [],
+              "area": "raleigh",
+              "outdoor": true,
+              "source": {
+                "kind": "event",
+                "title": "Exploration Station: American Bison",
+                "start": "2026-11-01T08:30:00",
+                "end": "2026-11-01T17:00:00",
+                "venue": "Historic Yates Mill County Park",
+                "address": "4620 Lake Wheeler Rd., Raleigh, NC  27603",
+                "url": "https://apm.activecommunities.com/wakeparks/Activity_Search/exploration-station-american-bison/9411?locale=en-US",
+                "cost": null,
+                "ages": null,
+                "registration": "https://apm.activecommunities.com/wakeparks/Activity_Search/exploration-station-american-bison/9411?locale=en-US",
+                "indoor": false,
+                "area": "raleigh",
+                "source": "wake-parks",
+                "dropIn": false,
+                "lat": 35.72157134974476,
+                "lon": -78.68526087901417
+              }
+            },
+            {
+              "ref": "event:wake-parks:8358:2026-11-01",
+              "arrive": "08:30",
+              "leave": "10:30",
+              "why": "The StoryWalk at Beech Bluff County Park is a self-guided story stroll on the ADA-accessible loop — a calm south-Wake morning with stories and fresh air.",
+              "tips": [
+                "Arrive early for the coolest part of the day.",
+                "Let your child lead and stop at each panel together.",
+                "The playground is right there for play after the loop."
+              ],
+              "interests": [
+                "stories",
+                "nature",
+                "movement"
+              ],
+              "also": [],
+              "area": "south-wake",
+              "outdoor": true,
+              "source": {
+                "kind": "event",
+                "title": "Beech Bluff County Park StoryWalk® 2026 (Self-Led)",
+                "start": "2026-11-01T08:00:00",
+                "end": "2026-11-01T17:30:00",
+                "venue": "Beech Bluff County Park",
+                "address": "Beech Bluff Park Drive, Fuquay-Varina, NC",
+                "url": "https://apm.activecommunities.com/wakeparks/Activity_Search/beech-bluff-county-park-storywalk-2026-self-led/8358?locale=en-US",
+                "cost": "Free",
+                "ages": null,
+                "registration": false,
+                "indoor": false,
+                "area": "south-wake",
+                "source": "wake-parks",
+                "dropIn": true,
+                "lat": 35.58537279715877,
+                "lon": -78.6793341971644
+              }
+            }
+          ],
+          "rainBackup": null,
+          "timeline": [
+            {
+              "start": "07:00",
+              "end": "07:30",
+              "kind": "meal",
+              "title": "Up and breakfast"
+            },
+            {
+              "start": "07:30",
+              "end": "09:20",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "09:20",
+              "end": "09:40",
+              "kind": "routine",
+              "title": "Get ready to go",
+              "detail": "Shoes on, diaper bag, water and a snack."
+            },
+            {
+              "start": "09:40",
+              "end": "10:00",
+              "kind": "travel",
+              "title": "Drive to Hideaway Woods, Museum of Life and Science"
+            },
+            {
+              "start": "10:00",
+              "end": "11:30",
+              "kind": "outing",
+              "title": "Early Childhood Drop-In"
+            },
+            {
+              "start": "11:30",
+              "end": "11:40",
+              "kind": "travel",
+              "title": "Drive to Northgate Park"
+            },
+            {
+              "start": "11:40",
+              "end": "12:00",
+              "kind": "outing",
+              "title": "Northgate Park"
+            },
+            {
+              "start": "12:00",
+              "end": "12:20",
+              "kind": "travel",
+              "title": "Drive home"
+            },
+            {
+              "start": "12:20",
+              "end": "12:50",
+              "kind": "meal",
+              "title": "Lunch"
+            },
+            {
+              "start": "12:50",
+              "end": "18:00",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "18:00",
+              "end": "18:45",
+              "kind": "meal",
+              "title": "Dinner"
+            },
+            {
+              "start": "18:45",
+              "end": "19:30",
+              "kind": "routine",
+              "title": "Bath, books and bed"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "checked": {
+    "at": "2026-11-01T11:03:30.181Z",
+    "forecast": "nws",
+    "weather": {
+      "period": "Today",
+      "tempF": 67,
+      "precipProbability": 0,
+      "shortForecast": "Partly Sunny",
+      "hours": [
+        {
+          "t": "06:00",
+          "tempF": 49,
+          "pop": 0
+        },
+        {
+          "t": "07:00",
+          "tempF": 49,
+          "pop": 0
+        },
+        {
+          "t": "08:00",
+          "tempF": 51,
+          "pop": 0
+        },
+        {
+          "t": "09:00",
+          "tempF": 56,
+          "pop": 0
+        },
+        {
+          "t": "10:00",
+          "tempF": 60,
+          "pop": 0
+        },
+        {
+          "t": "11:00",
+          "tempF": 62,
+          "pop": 0
+        },
+        {
+          "t": "12:00",
+          "tempF": 64,
+          "pop": 0
+        },
+        {
+          "t": "13:00",
+          "tempF": 66,
+          "pop": 0
+        },
+        {
+          "t": "14:00",
+          "tempF": 67,
+          "pop": 0
+        },
+        {
+          "t": "15:00",
+          "tempF": 67,
+          "pop": 0
+        },
+        {
+          "t": "16:00",
+          "tempF": 67,
+          "pop": 0
+        },
+        {
+          "t": "17:00",
+          "tempF": 64,
+          "pop": 0
+        },
+        {
+          "t": "18:00",
+          "tempF": 61,
+          "pop": 0
+        },
+        {
+          "t": "19:00",
+          "tempF": 58,
+          "pop": 0
+        },
+        {
+          "t": "20:00",
+          "tempF": 57,
+          "pop": 0
+        },
+        {
+          "t": "21:00",
+          "tempF": 56,
+          "pop": 0
+        },
+        {
+          "t": "22:00",
+          "tempF": 55,
+          "pop": 0
+        },
+        {
+          "t": "23:00",
+          "tempF": 54,
+          "pop": 0
+        }
+      ]
+    },
+    "hidden": [
+      {
+        "ref": "event:reclink:BCCCSENSEXPL-008",
+        "why": "off its calendar"
+      }
+    ]
+  }
+}

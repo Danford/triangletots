@@ -1,0 +1,721 @@
+{
+  "date": "2026-11-01",
+  "band": "t3",
+  "versions": [
+    {
+      "at": "2026-10-27T00:51:57.664Z",
+      "reason": null,
+      "forecast": "nws",
+      "weather": {
+        "period": "Sunday",
+        "tempF": 72,
+        "precipProbability": 31,
+        "shortForecast": "Chance Rain Showers"
+      },
+      "plans": [
+        {
+          "nap": "nap",
+          "napLabel": "Nap, 1 to 2:30",
+          "headline": "Exploration Station: American Bison at Historic Yates Mill County Park",
+          "main": {
+            "ref": "event:wake-parks:9411:2026-11-01",
+            "arrive": "08:20",
+            "leave": "12:15",
+            "why": "Drop in to the Exploration Station at Historic Yates Mill to see artifacts and learn about bison on National Bison Day — a hands-on outdoor science stop at a beautiful mill pond park.",
+            "tips": [
+              "Registration is required; book the Exploration Station slot before you go.",
+              "Bring a mid-morning snack and eat it on the trail between the mill pond and the station.",
+              "Head back to the car by 12:15 so there is time for a calm lunch before nap."
+            ],
+            "interests": [
+              "animals",
+              "nature",
+              "science"
+            ],
+            "also": [],
+            "area": "raleigh",
+            "outdoor": true,
+            "source": {
+              "kind": "event",
+              "title": "Exploration Station: American Bison",
+              "start": "2026-11-01T08:30:00",
+              "end": "2026-11-01T17:00:00",
+              "venue": "Historic Yates Mill County Park",
+              "address": "4620 Lake Wheeler Rd., Raleigh, NC  27603",
+              "url": "https://apm.activecommunities.com/wakeparks/Activity_Search/exploration-station-american-bison/9411?locale=en-US",
+              "cost": null,
+              "ages": null,
+              "registration": "https://apm.activecommunities.com/wakeparks/Activity_Search/exploration-station-american-bison/9411?locale=en-US",
+              "indoor": false,
+              "area": "raleigh",
+              "source": "wake-parks",
+              "dropIn": false,
+              "lat": 35.72157134974476,
+              "lon": -78.68526087901417
+            }
+          },
+          "alternatives": [
+            {
+              "ref": "event:wake-parks:8358:2026-11-01",
+              "arrive": "09:00",
+              "leave": "11:00",
+              "why": "The self-guided StoryWalk® threads pages of a picture book along the accessible loop at Beech Bluff — a gentle outdoor walk that ends naturally when the story does.",
+              "tips": [
+                "The loop is stroller-friendly.",
+                "Leave by 11:00 for a comfortable drive home and lunch before nap."
+              ],
+              "interests": [
+                "nature",
+                "stories"
+              ],
+              "also": [],
+              "area": "south-wake",
+              "outdoor": true,
+              "source": {
+                "kind": "event",
+                "title": "Beech Bluff County Park StoryWalk® 2026 (Self-Led)",
+                "start": "2026-11-01T08:00:00",
+                "end": "2026-11-01T17:30:00",
+                "venue": "Beech Bluff County Park",
+                "address": "Beech Bluff Park Drive, Fuquay-Varina, NC",
+                "url": "https://apm.activecommunities.com/wakeparks/Activity_Search/beech-bluff-county-park-storywalk-2026-self-led/8358?locale=en-US",
+                "cost": "Free",
+                "ages": null,
+                "registration": false,
+                "indoor": false,
+                "area": "south-wake",
+                "source": "wake-parks",
+                "dropIn": true,
+                "lat": 35.58537279715877,
+                "lon": -78.6793341971644
+              }
+            },
+            {
+              "ref": "place:blue-jay-point-county-park",
+              "arrive": "09:00",
+              "leave": "12:00",
+              "why": "Blue Jay Point sits on Falls Lake with wooded trails and a playground — a quiet nature morning without crowds on a Sunday.",
+              "tips": [
+                "The playground is near the parking lot; good for burning energy before the trail.",
+                "Bring water and a snack; head back by noon for lunch before nap."
+              ],
+              "interests": [
+                "nature",
+                "water"
+              ],
+              "also": [],
+              "area": "north-raleigh",
+              "outdoor": true,
+              "source": {
+                "kind": "park",
+                "title": "Blue Jay Point County Park",
+                "address": "3200 Pleasant Union Church Road, Raleigh, NC 27614",
+                "url": "https://www.wakegov.com/departments-government/parks-recreation-and-open-space/all-parks-trails/blue-jay-point-county-park",
+                "amenities": [
+                  "playground",
+                  "picnic-shelter",
+                  "restroom",
+                  "greenway",
+                  "nature"
+                ],
+                "indoor": false,
+                "area": "north-raleigh",
+                "hours": null,
+                "lat": 35.96762827199893,
+                "lon": -78.64454785104198,
+                "cost": null
+              }
+            },
+            {
+              "ref": "place:lake-crabtree-county-park",
+              "arrive": "09:00",
+              "leave": "12:00",
+              "why": "Lake Crabtree has a paved lakeside trail and a playground — flat walking that is easy for a 3-year-old and lets you turn around whenever energy runs low.",
+              "tips": [
+                "The trail near the boat ramp is level and easy to manage with small kids.",
+                "Leave by noon to be home and settled well before the nap window."
+              ],
+              "interests": [
+                "nature",
+                "water"
+              ],
+              "also": [],
+              "area": "north-raleigh",
+              "outdoor": true,
+              "source": {
+                "kind": "park",
+                "title": "Lake Crabtree County Park",
+                "address": "1400 Aviation Pkwy., Morrisville, NC  27560",
+                "url": "https://www.wakegov.com/departments-government/parks-recreation-and-open-space/all-parks-trails/lake-crabtree-county-park",
+                "amenities": [
+                  "playground",
+                  "picnic-shelter",
+                  "restroom",
+                  "greenway",
+                  "nature",
+                  "garden",
+                  "boating"
+                ],
+                "indoor": false,
+                "area": "north-raleigh",
+                "hours": null,
+                "lat": 35.845600151785014,
+                "lon": -78.80104927513673,
+                "cost": null
+              }
+            }
+          ],
+          "rainBackup": null,
+          "timeline": [
+            {
+              "start": "07:00",
+              "end": "07:30",
+              "kind": "meal",
+              "title": "Up and breakfast"
+            },
+            {
+              "start": "07:30",
+              "end": "07:40",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "07:40",
+              "end": "08:00",
+              "kind": "routine",
+              "title": "Get ready to go",
+              "detail": "Shoes on, diaper bag, water and a snack."
+            },
+            {
+              "start": "08:00",
+              "end": "08:20",
+              "kind": "travel",
+              "title": "Drive to Historic Yates Mill County Park"
+            },
+            {
+              "start": "08:20",
+              "end": "12:15",
+              "kind": "outing",
+              "title": "Historic Yates Mill County Park",
+              "detail": "Pack a lunch to eat there."
+            },
+            {
+              "start": "12:15",
+              "end": "12:35",
+              "kind": "travel",
+              "title": "Drive home"
+            },
+            {
+              "start": "12:35",
+              "end": "12:45",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "12:45",
+              "end": "13:00",
+              "kind": "quiet",
+              "title": "Wind down",
+              "detail": "A couple of books to settle."
+            },
+            {
+              "start": "13:00",
+              "end": "14:30",
+              "kind": "nap",
+              "title": "Nap"
+            },
+            {
+              "start": "14:30",
+              "end": "14:50",
+              "kind": "routine",
+              "title": "Up and a snack"
+            },
+            {
+              "start": "14:50",
+              "end": "18:30",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "18:30",
+              "end": "19:15",
+              "kind": "meal",
+              "title": "Dinner"
+            },
+            {
+              "start": "19:15",
+              "end": "20:00",
+              "kind": "routine",
+              "title": "Bath, books and bed"
+            }
+          ]
+        },
+        {
+          "nap": "quiet",
+          "napLabel": "Quiet time, no sleep",
+          "headline": "NC Botanical Garden morning walk",
+          "main": {
+            "ref": "place:nc-botanical-garden",
+            "arrive": "09:00",
+            "leave": "11:30",
+            "why": "The Botanical Garden has winding paths through native plant collections — a calm outdoor walk where a 3-year-old can spot insects, seeds and fall color up close.",
+            "tips": [
+              "If showers arrive, head for the covered areas or leave early — the morning is likely drier than the afternoon.",
+              "Bring a snack for the halfway point to keep the walk going.",
+              "Let her set the pace; the paths loop back so you can turn around without backtracking."
+            ],
+            "interests": [
+              "nature",
+              "science"
+            ],
+            "also": [],
+            "area": "chapel-hill",
+            "outdoor": true,
+            "source": {
+              "kind": "garden",
+              "title": "NC Botanical Garden",
+              "address": "100 Old Mason Farm Rd, Chapel Hill, NC 27517",
+              "url": "https://ncbg.unc.edu/visit/",
+              "amenities": [
+                "garden",
+                "nature",
+                "restroom"
+              ],
+              "indoor": false,
+              "area": "chapel-hill",
+              "lat": 35.9011,
+              "lon": -79.0319,
+              "cost": "Free",
+              "note": "Free. Display gardens, and nature trails through the forest behind them."
+            }
+          },
+          "alternatives": [
+            {
+              "ref": "event:museum:durham-central-park:13914",
+              "arrive": "14:00",
+              "leave": "16:30",
+              "why": "Echo in the Park is a drop-in outdoor music and arts event in the afternoon — a good way to use the post-quiet-time window without a long drive.",
+              "tips": [
+                "Quiet time ends at 13:45; leave home around 13:45 to arrive fresh for the drop-in.",
+                "Weather permitting — the event is outdoors, so check conditions after quiet time."
+              ],
+              "interests": [
+                "music",
+                "art",
+                "movement"
+              ],
+              "also": [],
+              "area": "durham",
+              "outdoor": true,
+              "source": {
+                "kind": "event",
+                "title": "echo in the Park",
+                "start": "2026-11-01T13:00:00",
+                "end": "2026-11-01T17:00:00",
+                "venue": "Durham Central Park",
+                "address": "501 Foster Street, Durham, NC, 27701",
+                "url": "https://durhamcentralpark.org/upcoming-event/echo-in-the-park/",
+                "cost": null,
+                "ages": null,
+                "registration": null,
+                "indoor": false,
+                "area": "durham",
+                "source": "museum",
+                "dropIn": true,
+                "lat": 36.0008,
+                "lon": -78.9021
+              }
+            }
+          ],
+          "rainBackup": null,
+          "timeline": [
+            {
+              "start": "07:00",
+              "end": "07:30",
+              "kind": "meal",
+              "title": "Up and breakfast"
+            },
+            {
+              "start": "07:30",
+              "end": "08:20",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "08:20",
+              "end": "08:40",
+              "kind": "routine",
+              "title": "Get ready to go",
+              "detail": "Shoes on, diaper bag, water and a snack."
+            },
+            {
+              "start": "08:40",
+              "end": "09:00",
+              "kind": "travel",
+              "title": "Drive to NC Botanical Garden"
+            },
+            {
+              "start": "09:00",
+              "end": "11:30",
+              "kind": "outing",
+              "title": "NC Botanical Garden"
+            },
+            {
+              "start": "11:30",
+              "end": "11:50",
+              "kind": "travel",
+              "title": "Drive home"
+            },
+            {
+              "start": "11:50",
+              "end": "12:20",
+              "kind": "meal",
+              "title": "Lunch"
+            },
+            {
+              "start": "12:20",
+              "end": "13:00",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "13:00",
+              "end": "13:45",
+              "kind": "quiet",
+              "title": "Quiet time",
+              "detail": "Books or quiet play in their room."
+            },
+            {
+              "start": "13:45",
+              "end": "18:00",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "18:00",
+              "end": "18:45",
+              "kind": "meal",
+              "title": "Dinner"
+            },
+            {
+              "start": "18:45",
+              "end": "19:30",
+              "kind": "routine",
+              "title": "Bath, books and bed"
+            }
+          ]
+        },
+        {
+          "nap": "no-nap",
+          "napLabel": "No nap",
+          "headline": "Beech Bluff County Park StoryWalk®",
+          "main": {
+            "ref": "event:wake-parks:8358:2026-11-01",
+            "arrive": "09:00",
+            "leave": "11:00",
+            "why": "The StoryWalk® threads a picture book page by page along the accessible loop at Beech Bluff — the story gives little legs a reason to keep going to the next post.",
+            "tips": [
+              "The loop is ADA accessible and stroller-friendly.",
+              "Read each page out loud and pause to look for things in the real plants that match the pictures.",
+              "If showers arrive mid-walk, duck into the Park Center to finish with a snack before heading home."
+            ],
+            "interests": [
+              "nature",
+              "stories"
+            ],
+            "also": [],
+            "area": "south-wake",
+            "outdoor": true,
+            "source": {
+              "kind": "event",
+              "title": "Beech Bluff County Park StoryWalk® 2026 (Self-Led)",
+              "start": "2026-11-01T08:00:00",
+              "end": "2026-11-01T17:30:00",
+              "venue": "Beech Bluff County Park",
+              "address": "Beech Bluff Park Drive, Fuquay-Varina, NC",
+              "url": "https://apm.activecommunities.com/wakeparks/Activity_Search/beech-bluff-county-park-storywalk-2026-self-led/8358?locale=en-US",
+              "cost": "Free",
+              "ages": null,
+              "registration": false,
+              "indoor": false,
+              "area": "south-wake",
+              "source": "wake-parks",
+              "dropIn": true,
+              "lat": 35.58537279715877,
+              "lon": -78.6793341971644
+            }
+          },
+          "alternatives": [
+            {
+              "ref": "event:museum:durham-central-park:13914",
+              "arrive": "13:30",
+              "leave": "16:30",
+              "why": "Echo in the Park is a drop-in outdoor arts and music event — a good way to fill the long post-lunch window on a no-nap day.",
+              "tips": [
+                "Have lunch at home first; the event is at Durham Central Park.",
+                "Weather permitting — the event is outdoors."
+              ],
+              "interests": [
+                "music",
+                "art",
+                "movement"
+              ],
+              "also": [],
+              "area": "durham",
+              "outdoor": true,
+              "source": {
+                "kind": "event",
+                "title": "echo in the Park",
+                "start": "2026-11-01T13:00:00",
+                "end": "2026-11-01T17:00:00",
+                "venue": "Durham Central Park",
+                "address": "501 Foster Street, Durham, NC, 27701",
+                "url": "https://durhamcentralpark.org/upcoming-event/echo-in-the-park/",
+                "cost": null,
+                "ages": null,
+                "registration": null,
+                "indoor": false,
+                "area": "durham",
+                "source": "museum",
+                "dropIn": true,
+                "lat": 36.0008,
+                "lon": -78.9021
+              }
+            },
+            {
+              "ref": "event:museum:marbles:46974",
+              "arrive": "10:50",
+              "leave": "13:00",
+              "also": [
+                {
+                  "ref": "place:john-chavis-memorial-park",
+                  "source": {
+                    "kind": "park",
+                    "title": "John Chavis Memorial Park",
+                    "address": "505 Martin Luther King Jr Blvd, Raleigh, NC 27601",
+                    "url": "https://raleighnc.gov/parks-and-recreation/places/john-chavis-memorial-park",
+                    "amenities": [
+                      "community-center",
+                      "playground",
+                      "carousel",
+                      "fields"
+                    ],
+                    "indoor": false,
+                    "area": "raleigh",
+                    "hours": null,
+                    "lat": 35.7698,
+                    "lon": -78.63021,
+                    "cost": null
+                  }
+                }
+              ],
+              "why": "Wild Rescue 3D plays at 11:00 at the Marbles IMAX, then John Chavis Memorial Park is a short drive for outdoor play and a picnic lunch.",
+              "tips": [
+                "Book the IMAX ticket online before you leave.",
+                "The park has a good playground — bring a picnic lunch and stay until energy runs out."
+              ],
+              "interests": [
+                "animals",
+                "science",
+                "nature"
+              ],
+              "area": "raleigh",
+              "outdoor": false,
+              "source": {
+                "kind": "event",
+                "title": "Wild Rescue 3D",
+                "start": "2026-11-01T11:00:00",
+                "end": "2026-11-01T11:45:00",
+                "venue": "Marbles Kids Museum",
+                "address": "201 E Hargett St, Raleigh, NC 27601",
+                "url": "https://marbleskidsmuseum.org/event/48375/",
+                "cost": null,
+                "ages": "IMAX film, 4 and up",
+                "registration": null,
+                "indoor": true,
+                "area": "raleigh",
+                "source": "museum",
+                "dropIn": false,
+                "lat": 35.7789,
+                "lon": -78.6361
+              }
+            }
+          ],
+          "rainBackup": null,
+          "timeline": [
+            {
+              "start": "07:00",
+              "end": "07:30",
+              "kind": "meal",
+              "title": "Up and breakfast"
+            },
+            {
+              "start": "07:30",
+              "end": "08:20",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "08:20",
+              "end": "08:40",
+              "kind": "routine",
+              "title": "Get ready to go",
+              "detail": "Shoes on, diaper bag, water and a snack."
+            },
+            {
+              "start": "08:40",
+              "end": "09:00",
+              "kind": "travel",
+              "title": "Drive to Beech Bluff County Park"
+            },
+            {
+              "start": "09:00",
+              "end": "11:00",
+              "kind": "outing",
+              "title": "Beech Bluff County Park"
+            },
+            {
+              "start": "11:00",
+              "end": "11:20",
+              "kind": "travel",
+              "title": "Drive home"
+            },
+            {
+              "start": "11:20",
+              "end": "11:45",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "11:45",
+              "end": "12:15",
+              "kind": "meal",
+              "title": "Lunch"
+            },
+            {
+              "start": "12:15",
+              "end": "18:00",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "18:00",
+              "end": "18:45",
+              "kind": "meal",
+              "title": "Dinner"
+            },
+            {
+              "start": "18:45",
+              "end": "19:30",
+              "kind": "routine",
+              "title": "Bath, books and bed"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "checked": {
+    "at": "2026-11-01T11:03:30.177Z",
+    "forecast": "nws",
+    "weather": {
+      "period": "Today",
+      "tempF": 67,
+      "precipProbability": 0,
+      "shortForecast": "Partly Sunny",
+      "hours": [
+        {
+          "t": "06:00",
+          "tempF": 49,
+          "pop": 0
+        },
+        {
+          "t": "07:00",
+          "tempF": 49,
+          "pop": 0
+        },
+        {
+          "t": "08:00",
+          "tempF": 51,
+          "pop": 0
+        },
+        {
+          "t": "09:00",
+          "tempF": 56,
+          "pop": 0
+        },
+        {
+          "t": "10:00",
+          "tempF": 60,
+          "pop": 0
+        },
+        {
+          "t": "11:00",
+          "tempF": 62,
+          "pop": 0
+        },
+        {
+          "t": "12:00",
+          "tempF": 64,
+          "pop": 0
+        },
+        {
+          "t": "13:00",
+          "tempF": 66,
+          "pop": 0
+        },
+        {
+          "t": "14:00",
+          "tempF": 67,
+          "pop": 0
+        },
+        {
+          "t": "15:00",
+          "tempF": 67,
+          "pop": 0
+        },
+        {
+          "t": "16:00",
+          "tempF": 67,
+          "pop": 0
+        },
+        {
+          "t": "17:00",
+          "tempF": 64,
+          "pop": 0
+        },
+        {
+          "t": "18:00",
+          "tempF": 61,
+          "pop": 0
+        },
+        {
+          "t": "19:00",
+          "tempF": 58,
+          "pop": 0
+        },
+        {
+          "t": "20:00",
+          "tempF": 57,
+          "pop": 0
+        },
+        {
+          "t": "21:00",
+          "tempF": 56,
+          "pop": 0
+        },
+        {
+          "t": "22:00",
+          "tempF": 55,
+          "pop": 0
+        },
+        {
+          "t": "23:00",
+          "tempF": 54,
+          "pop": 0
+        }
+      ]
+    },
+    "hidden": []
+  }
+}

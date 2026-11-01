@@ -1,0 +1,1141 @@
+{
+  "date": "2026-11-02",
+  "band": "t3",
+  "versions": [
+    {
+      "at": "2026-10-27T00:57:04.423Z",
+      "reason": null,
+      "forecast": "nws",
+      "weather": {
+        "period": "Monday",
+        "tempF": 74,
+        "precipProbability": 44,
+        "shortForecast": "Chance Rain Showers"
+      },
+      "plans": [
+        {
+          "nap": "nap",
+          "napLabel": "Nap, 1 to 2:30",
+          "headline": "Knightdale Station Park and ABC Craft and Learn at East Regional Library",
+          "main": {
+            "ref": "place:knightdale-station-park",
+            "arrive": "10:45",
+            "leave": "12:00",
+            "also": [
+              {
+                "ref": "event:wake:21661",
+                "source": {
+                  "kind": "event",
+                  "title": "ABC Craft and Learn",
+                  "start": "2026-11-02T11:15:00-05:00",
+                  "end": "2026-11-02T12:00:00-05:00",
+                  "venue": "East Regional Library",
+                  "address": "946 Steeple Square Court, Knightdale, NC",
+                  "url": "https://www.wake.gov/events/abc-craft-and-learn-557",
+                  "cost": "Free",
+                  "ages": "Young Children",
+                  "registration": null,
+                  "indoor": true,
+                  "area": "east-wake",
+                  "source": "wake-county",
+                  "dropIn": false,
+                  "lat": 35.8028243321954,
+                  "lon": -78.487155767495
+                }
+              }
+            ],
+            "why": "Burn morning energy at Knightdale Station Park, then walk over to the ABC Craft and Learn program at East Regional Library for a hands-on alphabet craft for ages 3–5.",
+            "tips": [
+              "Arrive at the park at 10:45 so there is time to play before heading over for the 11:15 program.",
+              "Bring a light snack to eat on the park bench after the craft before heading home.",
+              "Leave the library by 12:00 for a calm drive home and lunch before nap."
+            ],
+            "interests": [
+              "art",
+              "stories",
+              "nature"
+            ],
+            "area": "east-wake",
+            "outdoor": false,
+            "source": {
+              "kind": "park",
+              "title": "Knightdale Station Park",
+              "address": "810 North First Avenue, Knightdale, NC",
+              "url": "https://www.knightdalenc.gov/knightdalestationpark",
+              "amenities": [
+                "playground",
+                "picnic-shelter",
+                "greenway"
+              ],
+              "indoor": false,
+              "area": "east-wake",
+              "hours": null,
+              "lat": 35.795776739559024,
+              "lon": -78.47584503817626,
+              "cost": null
+            }
+          },
+          "alternatives": [
+            {
+              "ref": "place:blue-jay-point-county-park",
+              "arrive": "09:00",
+              "leave": "12:00",
+              "why": "Blue Jay Point sits on Falls Lake with wooded trails and a good playground — a quiet outdoor morning without crowds.",
+              "tips": [
+                "The playground is close to the parking lot; good for warming up before the trail.",
+                "Bring water and a snack and head back by noon for lunch before nap."
+              ],
+              "interests": [
+                "nature",
+                "water"
+              ],
+              "also": [],
+              "area": "north-raleigh",
+              "outdoor": true,
+              "source": {
+                "kind": "park",
+                "title": "Blue Jay Point County Park",
+                "address": "3200 Pleasant Union Church Road, Raleigh, NC 27614",
+                "url": "https://www.wakegov.com/departments-government/parks-recreation-and-open-space/all-parks-trails/blue-jay-point-county-park",
+                "amenities": [
+                  "playground",
+                  "picnic-shelter",
+                  "restroom",
+                  "greenway",
+                  "nature"
+                ],
+                "indoor": false,
+                "area": "north-raleigh",
+                "hours": null,
+                "lat": 35.96762827199893,
+                "lon": -78.64454785104198,
+                "cost": null
+              }
+            },
+            {
+              "ref": "event:wake-parks:9411:2026-11-02",
+              "arrive": "08:20",
+              "leave": "12:00",
+              "why": "The Exploration Station at Historic Yates Mill is an outdoor drop-in with artifacts about American bison — a good hands-on science stop at a beautiful mill pond park.",
+              "tips": [
+                "Registration is required; book before you go.",
+                "Leave by 12:00 to be home for lunch before nap."
+              ],
+              "interests": [
+                "animals",
+                "nature",
+                "science"
+              ],
+              "also": [],
+              "area": "raleigh",
+              "outdoor": true,
+              "source": {
+                "kind": "event",
+                "title": "Exploration Station: American Bison",
+                "start": "2026-11-02T08:30:00",
+                "end": "2026-11-02T17:00:00",
+                "venue": "Historic Yates Mill County Park",
+                "address": "4620 Lake Wheeler Rd., Raleigh, NC  27603",
+                "url": "https://apm.activecommunities.com/wakeparks/Activity_Search/exploration-station-american-bison/9411?locale=en-US",
+                "cost": null,
+                "ages": null,
+                "registration": "https://apm.activecommunities.com/wakeparks/Activity_Search/exploration-station-american-bison/9411?locale=en-US",
+                "indoor": false,
+                "area": "raleigh",
+                "source": "wake-parks",
+                "dropIn": false,
+                "lat": 35.72157134974476,
+                "lon": -78.68526087901417
+              }
+            },
+            {
+              "ref": "place:heater-park",
+              "arrive": "10:00",
+              "leave": "11:00",
+              "also": [
+                {
+                  "ref": "event:wake:22431",
+                  "source": {
+                    "kind": "event",
+                    "title": "Family Storytime",
+                    "start": "2026-11-02T10:30:00-05:00",
+                    "end": "2026-11-02T11:00:00-05:00",
+                    "venue": "Cary Regional Library",
+                    "address": "315 Kildaire Farm Road, Cary, NC",
+                    "url": "https://www.wake.gov/events/family-storytime-4218",
+                    "cost": "Free",
+                    "ages": "Young Children",
+                    "registration": null,
+                    "indoor": true,
+                    "area": "cary-apex",
+                    "source": "wake-county",
+                    "dropIn": false,
+                    "lat": 35.7829780174653,
+                    "lon": -78.780241332586
+                  }
+                }
+              ],
+              "why": "Play at Heater Park in Cary, then walk to the Family Storytime at Cary Regional Library for books, songs and movement — a compact morning that fits well before nap.",
+              "tips": [
+                "Arrive at the park at 10:00 for a 20-minute play before the 10:30 storytime.",
+                "Pick up a ticket at the Youth Services desk early — space is limited."
+              ],
+              "interests": [
+                "stories",
+                "music",
+                "movement"
+              ],
+              "area": "cary-apex",
+              "outdoor": false,
+              "source": {
+                "kind": "park",
+                "title": "Heater Park",
+                "address": "400 S West Street, Cary, NC",
+                "url": "https://www.carync.gov/recreation-enjoyment/parks-greenways-environment/parks/heater-park",
+                "amenities": [
+                  "playground"
+                ],
+                "indoor": false,
+                "area": "cary-apex",
+                "hours": null,
+                "lat": 35.782741238152695,
+                "lon": -78.78762242839083,
+                "cost": null
+              }
+            },
+            {
+              "ref": "event:durham-rec:19772:2026-11-02",
+              "arrive": "09:50",
+              "leave": "12:30",
+              "also": [
+                {
+                  "ref": "place:hillside-park",
+                  "source": {
+                    "kind": "park",
+                    "title": "Hillside Park",
+                    "address": "1301 S Roxboro St, Durham, NC",
+                    "url": "https://www.dprplaymore.org/Facilities/Facility/Details/Hillside-Park-32",
+                    "amenities": [
+                      "playground",
+                      "splashpad",
+                      "pool",
+                      "picnic-shelter",
+                      "restroom"
+                    ],
+                    "indoor": false,
+                    "area": "durham",
+                    "hours": null,
+                    "lat": 35.98093222222222,
+                    "lon": -78.90178333333333,
+                    "cost": null
+                  }
+                }
+              ],
+              "why": "Total Tot Time at W.D. Hill is an indoor gym session with a parachute and tunnels, followed by outdoor play at Hillside Park — a full morning for a 3-year-old.",
+              "tips": [
+                "Registration is required; check the Durham Rec page before you go.",
+                "Leave Hillside Park by 12:30 to be home for lunch before nap."
+              ],
+              "interests": [
+                "movement",
+                "science",
+                "nature"
+              ],
+              "area": "durham",
+              "outdoor": false,
+              "source": {
+                "kind": "event",
+                "title": "Total Tot Time",
+                "start": "2026-11-02T10:00:00",
+                "end": "2026-11-02T12:00:00",
+                "venue": "W.D. Hill Rec Ctr",
+                "address": "1308 Fayetteville St, Durham, NC",
+                "url": "https://apm.activecommunities.com/dprplaymore/Activity_Search/total-tot-time/19772?locale=en-US",
+                "cost": null,
+                "ages": "1 - 6",
+                "registration": "https://apm.activecommunities.com/dprplaymore/Activity_Search/total-tot-time/19772?locale=en-US",
+                "indoor": true,
+                "area": "durham",
+                "source": "durham-rec",
+                "dropIn": false,
+                "lat": 35.9797,
+                "lon": -78.8985
+              }
+            }
+          ],
+          "rainBackup": null,
+          "timeline": [
+            {
+              "start": "07:00",
+              "end": "07:30",
+              "kind": "meal",
+              "title": "Up and breakfast"
+            },
+            {
+              "start": "07:30",
+              "end": "10:05",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "10:05",
+              "end": "10:25",
+              "kind": "routine",
+              "title": "Get ready to go",
+              "detail": "Shoes on, diaper bag, water and a snack."
+            },
+            {
+              "start": "10:25",
+              "end": "10:45",
+              "kind": "travel",
+              "title": "Drive to Knightdale Station Park"
+            },
+            {
+              "start": "10:45",
+              "end": "11:05",
+              "kind": "outing",
+              "title": "Knightdale Station Park"
+            },
+            {
+              "start": "11:05",
+              "end": "11:15",
+              "kind": "travel",
+              "title": "Drive to East Regional Library"
+            },
+            {
+              "start": "11:15",
+              "end": "12:00",
+              "kind": "outing",
+              "title": "ABC Craft and Learn"
+            },
+            {
+              "start": "12:00",
+              "end": "12:20",
+              "kind": "travel",
+              "title": "Drive home"
+            },
+            {
+              "start": "12:20",
+              "end": "12:50",
+              "kind": "meal",
+              "title": "Lunch"
+            },
+            {
+              "start": "12:50",
+              "end": "13:00",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "13:00",
+              "end": "14:30",
+              "kind": "nap",
+              "title": "Nap"
+            },
+            {
+              "start": "14:30",
+              "end": "14:50",
+              "kind": "routine",
+              "title": "Up and a snack"
+            },
+            {
+              "start": "14:50",
+              "end": "18:30",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "18:30",
+              "end": "19:15",
+              "kind": "meal",
+              "title": "Dinner"
+            },
+            {
+              "start": "19:15",
+              "end": "20:00",
+              "kind": "routine",
+              "title": "Bath, books and bed"
+            }
+          ]
+        },
+        {
+          "nap": "quiet",
+          "napLabel": "Quiet time, no sleep",
+          "headline": "Trinity Park and Fringe Festival: Procession of the Cardinals at Durham Central Park",
+          "main": {
+            "ref": "place:trinity-park",
+            "arrive": "16:30",
+            "leave": "18:00",
+            "also": [
+              {
+                "ref": "event:museum:durham-central-park:13908",
+                "source": {
+                  "kind": "event",
+                  "title": "Fringe Festival: Procession of the Cardinals",
+                  "start": "2026-11-02T17:00:00",
+                  "end": "2026-11-02T18:00:00",
+                  "venue": "Durham Central Park",
+                  "address": "501 Foster Street, Durham, NC, 27701",
+                  "url": "https://durhamcentralpark.org/upcoming-event/fringe-festival-procession-of-the-cardinals/",
+                  "cost": null,
+                  "ages": null,
+                  "registration": null,
+                  "indoor": false,
+                  "area": "durham",
+                  "source": "museum",
+                  "dropIn": false,
+                  "lat": 36.0008,
+                  "lon": -78.9021
+                }
+              }
+            ],
+            "why": "Play at Trinity Park in the late afternoon, then walk over to Durham Central Park for the Fringe Festival's Procession of the Cardinals — a free outdoor arts event that ends right before dinner.",
+            "tips": [
+              "The event is outdoors; check the weather before you leave and bring a layer for the kids.",
+              "Let the child lead at the park first so she arrives at the procession ready to watch rather than wriggle.",
+              "Leave Durham Central Park at 18:00 to be home for dinner before the bedtime window."
+            ],
+            "interests": [
+              "art",
+              "music",
+              "movement"
+            ],
+            "area": "durham",
+            "outdoor": true,
+            "source": {
+              "kind": "park",
+              "title": "Trinity Park",
+              "address": "410 Watts St, Durham, NC",
+              "url": "https://www.dprplaymore.org/Facilities/Facility/Details/Trinity-Park-70",
+              "amenities": [
+                "playground",
+                "picnic-shelter"
+              ],
+              "indoor": false,
+              "area": "durham",
+              "hours": null,
+              "lat": 36.005112499999996,
+              "lon": -78.91073,
+              "cost": null
+            }
+          },
+          "alternatives": [
+            {
+              "ref": "event:wake-parks:8358:2026-11-02",
+              "arrive": "09:00",
+              "leave": "11:00",
+              "why": "The self-guided StoryWalk at Beech Bluff threads a picture book along the accessible loop — a gentle outdoor morning that ends when the story does.",
+              "tips": [
+                "The loop is stroller-friendly and ADA accessible.",
+                "Leave by 11:00 to be home for lunch and a relaxed lead-up to quiet time."
+              ],
+              "interests": [
+                "nature",
+                "stories"
+              ],
+              "also": [],
+              "area": "south-wake",
+              "outdoor": true,
+              "source": {
+                "kind": "event",
+                "title": "Beech Bluff County Park StoryWalk® 2026 (Self-Led)",
+                "start": "2026-11-02T08:00:00",
+                "end": "2026-11-02T17:30:00",
+                "venue": "Beech Bluff County Park",
+                "address": "Beech Bluff Park Drive, Fuquay-Varina, NC",
+                "url": "https://apm.activecommunities.com/wakeparks/Activity_Search/beech-bluff-county-park-storywalk-2026-self-led/8358?locale=en-US",
+                "cost": "Free",
+                "ages": null,
+                "registration": false,
+                "indoor": false,
+                "area": "south-wake",
+                "source": "wake-parks",
+                "dropIn": true,
+                "lat": 35.58537279715877,
+                "lon": -78.6793341971644
+              }
+            },
+            {
+              "ref": "event:durham-rec:19841:2026-11-02",
+              "arrive": "09:50",
+              "leave": "12:30",
+              "also": [
+                {
+                  "ref": "place:walltown-park",
+                  "source": {
+                    "kind": "park",
+                    "title": "Walltown Park",
+                    "address": "1308 W Club Blvd, Durham, NC",
+                    "url": "https://www.dprplaymore.org/Facilities/Facility/Details/Walltown-Park-74",
+                    "amenities": [
+                      "playground",
+                      "picnic-shelter"
+                    ],
+                    "indoor": false,
+                    "area": "durham",
+                    "hours": null,
+                    "lat": 36.018264,
+                    "lon": -78.91403399999999,
+                    "cost": null
+                  }
+                }
+              ],
+              "why": "Total Tot Time at Walltown Rec Center is an indoor gym session, then Walltown Park is right there for outdoor play before heading home for lunch and quiet time.",
+              "tips": [
+                "Registration required; check the Durham Rec page before you go.",
+                "Leave the park by 12:30 to be home for lunch before quiet time."
+              ],
+              "interests": [
+                "movement",
+                "science",
+                "nature"
+              ],
+              "area": "durham",
+              "outdoor": false,
+              "source": {
+                "kind": "event",
+                "title": "Total Tot Time",
+                "start": "2026-11-02T10:00:00",
+                "end": "2026-11-02T12:00:00",
+                "venue": "Walltown Park Rec Ctr",
+                "address": "1308 W Club Blvd, Durham, NC",
+                "url": "https://apm.activecommunities.com/dprplaymore/Activity_Search/total-tot-time/19841?locale=en-US",
+                "cost": null,
+                "ages": "0 - 4",
+                "registration": "https://apm.activecommunities.com/dprplaymore/Activity_Search/total-tot-time/19841?locale=en-US",
+                "indoor": true,
+                "area": "durham",
+                "source": "durham-rec",
+                "dropIn": false,
+                "lat": 36.018264,
+                "lon": -78.91403399999999
+              }
+            },
+            {
+              "ref": "place:lake-benson-park",
+              "arrive": "09:00",
+              "leave": "11:30",
+              "why": "Lake Benson has a paved lakeside path and playground — a calm outdoor morning in south Wake before the quiet-time window.",
+              "tips": [
+                "The path around the lake is level and easy for a 3-year-old.",
+                "Bring a snack and head back by 11:30 for lunch before quiet time."
+              ],
+              "interests": [
+                "nature",
+                "water"
+              ],
+              "also": [],
+              "area": "south-wake",
+              "outdoor": true,
+              "source": {
+                "kind": "park",
+                "title": "Lake Benson Park",
+                "address": "921 Buffaloe Road, Garner NC, 27529",
+                "url": "https://www.garnernc.gov/departments/parks-recreation-and-cultural-resources/garner-parks/lake-benson-park",
+                "amenities": [
+                  "playground",
+                  "picnic-shelter",
+                  "restroom",
+                  "greenway",
+                  "boating"
+                ],
+                "indoor": false,
+                "area": "south-wake",
+                "hours": null,
+                "lat": 35.67509092685942,
+                "lon": -78.62824702555534,
+                "cost": null
+              }
+            },
+            {
+              "ref": "place:heater-park",
+              "arrive": "10:00",
+              "leave": "11:00",
+              "also": [
+                {
+                  "ref": "event:wake:22431",
+                  "source": {
+                    "kind": "event",
+                    "title": "Family Storytime",
+                    "start": "2026-11-02T10:30:00-05:00",
+                    "end": "2026-11-02T11:00:00-05:00",
+                    "venue": "Cary Regional Library",
+                    "address": "315 Kildaire Farm Road, Cary, NC",
+                    "url": "https://www.wake.gov/events/family-storytime-4218",
+                    "cost": "Free",
+                    "ages": "Young Children",
+                    "registration": null,
+                    "indoor": true,
+                    "area": "cary-apex",
+                    "source": "wake-county",
+                    "dropIn": false,
+                    "lat": 35.7829780174653,
+                    "lon": -78.780241332586
+                  }
+                }
+              ],
+              "why": "A short play at Heater Park, then Family Storytime at Cary Regional Library — a compact morning that leaves the whole afternoon free after quiet time.",
+              "tips": [
+                "Arrive at the park at 10:00 to play before the 10:30 storytime.",
+                "Pick up a ticket at the Youth Services desk early — space is limited."
+              ],
+              "interests": [
+                "stories",
+                "music",
+                "movement"
+              ],
+              "area": "cary-apex",
+              "outdoor": false,
+              "source": {
+                "kind": "park",
+                "title": "Heater Park",
+                "address": "400 S West Street, Cary, NC",
+                "url": "https://www.carync.gov/recreation-enjoyment/parks-greenways-environment/parks/heater-park",
+                "amenities": [
+                  "playground"
+                ],
+                "indoor": false,
+                "area": "cary-apex",
+                "hours": null,
+                "lat": 35.782741238152695,
+                "lon": -78.78762242839083,
+                "cost": null
+              }
+            }
+          ],
+          "rainBackup": null,
+          "timeline": [
+            {
+              "start": "07:00",
+              "end": "07:30",
+              "kind": "meal",
+              "title": "Up and breakfast"
+            },
+            {
+              "start": "07:30",
+              "end": "11:45",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "11:45",
+              "end": "12:15",
+              "kind": "meal",
+              "title": "Lunch"
+            },
+            {
+              "start": "12:15",
+              "end": "13:00",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "13:00",
+              "end": "13:45",
+              "kind": "quiet",
+              "title": "Quiet time",
+              "detail": "Books or quiet play in their room."
+            },
+            {
+              "start": "13:45",
+              "end": "15:50",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "15:50",
+              "end": "16:10",
+              "kind": "routine",
+              "title": "Get ready to go",
+              "detail": "Shoes on, diaper bag, water and a snack."
+            },
+            {
+              "start": "16:10",
+              "end": "16:30",
+              "kind": "travel",
+              "title": "Drive to Trinity Park"
+            },
+            {
+              "start": "16:30",
+              "end": "16:50",
+              "kind": "outing",
+              "title": "Trinity Park"
+            },
+            {
+              "start": "16:50",
+              "end": "17:00",
+              "kind": "travel",
+              "title": "Drive to Durham Central Park"
+            },
+            {
+              "start": "17:00",
+              "end": "18:00",
+              "kind": "outing",
+              "title": "Fringe Festival: Procession of the Cardinals"
+            },
+            {
+              "start": "18:00",
+              "end": "18:20",
+              "kind": "travel",
+              "title": "Drive home"
+            },
+            {
+              "start": "18:20",
+              "end": "18:45",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "18:45",
+              "end": "19:30",
+              "kind": "routine",
+              "title": "Bath, books and bed"
+            }
+          ]
+        },
+        {
+          "nap": "no-nap",
+          "napLabel": "No nap",
+          "headline": "Historic Oak View County Park morning",
+          "main": {
+            "ref": "place:historic-oak-view-county-park",
+            "arrive": "09:00",
+            "leave": "11:30",
+            "why": "Historic Oak View is a working historic farm with trails and outdoor exhibits — a good outdoor morning where a 3-year-old can explore farm structures and wide-open grounds.",
+            "tips": [
+              "Wear shoes that are fine for grass and packed dirt paths.",
+              "Bring a snack for mid-morning and find a picnic table on the grounds.",
+              "If showers arrive, the covered farm buildings give a dry spot to wait it out briefly before heading home."
+            ],
+            "interests": [
+              "nature",
+              "science",
+              "animals"
+            ],
+            "also": [],
+            "area": "raleigh",
+            "outdoor": true,
+            "source": {
+              "kind": "park",
+              "title": "Historic Oak View County Park",
+              "address": "4028 Carya Dr., Raleigh, NC  27610",
+              "url": "https://www.wakegov.com/departments-government/parks-recreation-and-open-space/all-parks-trails/historic-oak-view-county-park",
+              "amenities": [
+                "picnic-shelter",
+                "restroom",
+                "greenway",
+                "animals",
+                "garden"
+              ],
+              "indoor": false,
+              "area": "raleigh",
+              "hours": null,
+              "lat": 35.76980126731367,
+              "lon": -78.57063248179927,
+              "cost": null
+            }
+          },
+          "alternatives": [
+            {
+              "ref": "event:wake-parks:8358:2026-11-02",
+              "arrive": "09:00",
+              "leave": "11:00",
+              "why": "The StoryWalk at Beech Bluff threads a picture book along the accessible loop — a free outdoor morning walk that ends naturally when the story does.",
+              "tips": [
+                "The loop is ADA accessible and stroller-friendly.",
+                "Weather permitting; duck into the Park Center if showers arrive."
+              ],
+              "interests": [
+                "nature",
+                "stories"
+              ],
+              "also": [],
+              "area": "south-wake",
+              "outdoor": true,
+              "source": {
+                "kind": "event",
+                "title": "Beech Bluff County Park StoryWalk® 2026 (Self-Led)",
+                "start": "2026-11-02T08:00:00",
+                "end": "2026-11-02T17:30:00",
+                "venue": "Beech Bluff County Park",
+                "address": "Beech Bluff Park Drive, Fuquay-Varina, NC",
+                "url": "https://apm.activecommunities.com/wakeparks/Activity_Search/beech-bluff-county-park-storywalk-2026-self-led/8358?locale=en-US",
+                "cost": "Free",
+                "ages": null,
+                "registration": false,
+                "indoor": false,
+                "area": "south-wake",
+                "source": "wake-parks",
+                "dropIn": true,
+                "lat": 35.58537279715877,
+                "lon": -78.6793341971644
+              }
+            },
+            {
+              "ref": "place:pullen-park-amusements",
+              "arrive": "10:00",
+              "leave": "12:30",
+              "why": "Pullen Park has a carousel, a train ride and boating — a classic outdoor amusements morning that is hard to beat for a 3-year-old with energy to burn.",
+              "tips": [
+                "The park opens at 10:00; arriving right at open avoids the longest lines.",
+                "Bring cash or a card for ride tickets."
+              ],
+              "interests": [
+                "movement",
+                "vehicles"
+              ],
+              "also": [],
+              "area": "raleigh",
+              "outdoor": true,
+              "source": {
+                "kind": "park",
+                "title": "Pullen Park Amusements",
+                "address": "410 Park Ave, Raleigh, NC 27606",
+                "url": "https://raleighnc.gov/parks-and-recreation/places/pullen-park-amusements",
+                "amenities": [
+                  "carousel",
+                  "boating",
+                  "train",
+                  "amusements",
+                  "courts",
+                  "playground",
+                  "picnic-shelter"
+                ],
+                "indoor": false,
+                "area": "raleigh",
+                "hours": {
+                  "mon": "10 a.m.–6 p.m.",
+                  "tue": "10 a.m.–6 p.m.",
+                  "wed": "10 a.m.–6 p.m.",
+                  "thu": "10 a.m.–6 p.m.",
+                  "fri": "10 a.m.–8 p.m.",
+                  "sat": "10 a.m.–8 p.m.",
+                  "sun": "10 a.m.–8 p.m."
+                },
+                "lat": 35.7806,
+                "lon": -78.66396,
+                "cost": null
+              }
+            },
+            {
+              "ref": "place:old-north-durham-park",
+              "arrive": "16:30",
+              "leave": "18:00",
+              "also": [
+                {
+                  "ref": "event:museum:durham-central-park:13908",
+                  "source": {
+                    "kind": "event",
+                    "title": "Fringe Festival: Procession of the Cardinals",
+                    "start": "2026-11-02T17:00:00",
+                    "end": "2026-11-02T18:00:00",
+                    "venue": "Durham Central Park",
+                    "address": "501 Foster Street, Durham, NC, 27701",
+                    "url": "https://durhamcentralpark.org/upcoming-event/fringe-festival-procession-of-the-cardinals/",
+                    "cost": null,
+                    "ages": null,
+                    "registration": null,
+                    "indoor": false,
+                    "area": "durham",
+                    "source": "museum",
+                    "dropIn": false,
+                    "lat": 36.0008,
+                    "lon": -78.9021
+                  }
+                }
+              ],
+              "why": "Play at Old North Durham Park in the afternoon, then walk to Durham Central Park for the Fringe Festival's Procession of the Cardinals — a free outdoor arts event to close the day.",
+              "tips": [
+                "The event starts at 17:00; arriving at the park at 16:30 gives time to play first.",
+                "Bring a light layer for the outdoor evening event."
+              ],
+              "interests": [
+                "art",
+                "music",
+                "movement"
+              ],
+              "area": "durham",
+              "outdoor": true,
+              "source": {
+                "kind": "park",
+                "title": "Old North Durham Park",
+                "address": "310 W Geer St, Durham, NC",
+                "url": "https://www.dprplaymore.org/Facilities/Facility/Details/Old-North-Durham-Park-52",
+                "amenities": [
+                  "playground"
+                ],
+                "indoor": false,
+                "area": "durham",
+                "hours": null,
+                "lat": 36.004560000000005,
+                "lon": -78.899686,
+                "cost": null
+              }
+            },
+            {
+              "ref": "place:heater-park",
+              "arrive": "10:00",
+              "leave": "11:00",
+              "also": [
+                {
+                  "ref": "event:wake:22431",
+                  "source": {
+                    "kind": "event",
+                    "title": "Family Storytime",
+                    "start": "2026-11-02T10:30:00-05:00",
+                    "end": "2026-11-02T11:00:00-05:00",
+                    "venue": "Cary Regional Library",
+                    "address": "315 Kildaire Farm Road, Cary, NC",
+                    "url": "https://www.wake.gov/events/family-storytime-4218",
+                    "cost": "Free",
+                    "ages": "Young Children",
+                    "registration": null,
+                    "indoor": true,
+                    "area": "cary-apex",
+                    "source": "wake-county",
+                    "dropIn": false,
+                    "lat": 35.7829780174653,
+                    "lon": -78.780241332586
+                  }
+                }
+              ],
+              "why": "Play at Heater Park in Cary, then Family Storytime at Cary Regional Library — a compact morning that leaves a long afternoon free on a no-nap day.",
+              "tips": [
+                "Arrive at the park at 10:00 to play before the 10:30 storytime.",
+                "Pick up a ticket at the Youth Services desk early."
+              ],
+              "interests": [
+                "stories",
+                "music",
+                "movement"
+              ],
+              "area": "cary-apex",
+              "outdoor": false,
+              "source": {
+                "kind": "park",
+                "title": "Heater Park",
+                "address": "400 S West Street, Cary, NC",
+                "url": "https://www.carync.gov/recreation-enjoyment/parks-greenways-environment/parks/heater-park",
+                "amenities": [
+                  "playground"
+                ],
+                "indoor": false,
+                "area": "cary-apex",
+                "hours": null,
+                "lat": 35.782741238152695,
+                "lon": -78.78762242839083,
+                "cost": null
+              }
+            }
+          ],
+          "rainBackup": {
+            "ref": "event:durham-rec:19841:2026-11-02",
+            "arrive": "09:50",
+            "leave": "12:00",
+            "why": "Total Tot Time at Walltown Rec Center is an indoor gym session with a parachute, tunnels and balls — a good rainy-morning option for a no-nap day that needs real movement.",
+            "tips": [
+              "Registration is required; check the Durham Rec page before you go.",
+              "The session runs until noon, so there is plenty of time to tire little legs out."
+            ],
+            "interests": [
+              "movement",
+              "science"
+            ],
+            "also": [],
+            "area": "durham",
+            "outdoor": false,
+            "source": {
+              "kind": "event",
+              "title": "Total Tot Time",
+              "start": "2026-11-02T10:00:00",
+              "end": "2026-11-02T12:00:00",
+              "venue": "Walltown Park Rec Ctr",
+              "address": "1308 W Club Blvd, Durham, NC",
+              "url": "https://apm.activecommunities.com/dprplaymore/Activity_Search/total-tot-time/19841?locale=en-US",
+              "cost": null,
+              "ages": "0 - 4",
+              "registration": "https://apm.activecommunities.com/dprplaymore/Activity_Search/total-tot-time/19841?locale=en-US",
+              "indoor": true,
+              "area": "durham",
+              "source": "durham-rec",
+              "dropIn": false,
+              "lat": 36.018264,
+              "lon": -78.91403399999999
+            }
+          },
+          "timeline": [
+            {
+              "start": "07:00",
+              "end": "07:30",
+              "kind": "meal",
+              "title": "Up and breakfast"
+            },
+            {
+              "start": "07:30",
+              "end": "08:20",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "08:20",
+              "end": "08:40",
+              "kind": "routine",
+              "title": "Get ready to go",
+              "detail": "Shoes on, diaper bag, water and a snack."
+            },
+            {
+              "start": "08:40",
+              "end": "09:00",
+              "kind": "travel",
+              "title": "Drive to Historic Oak View County Park"
+            },
+            {
+              "start": "09:00",
+              "end": "11:30",
+              "kind": "outing",
+              "title": "Historic Oak View County Park"
+            },
+            {
+              "start": "11:30",
+              "end": "11:50",
+              "kind": "travel",
+              "title": "Drive home"
+            },
+            {
+              "start": "11:50",
+              "end": "12:20",
+              "kind": "meal",
+              "title": "Lunch"
+            },
+            {
+              "start": "12:20",
+              "end": "18:00",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "18:00",
+              "end": "18:45",
+              "kind": "meal",
+              "title": "Dinner"
+            },
+            {
+              "start": "18:45",
+              "end": "19:30",
+              "kind": "routine",
+              "title": "Bath, books and bed"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "checked": {
+    "at": "2026-11-01T11:03:30.196Z",
+    "forecast": "nws",
+    "weather": {
+      "period": "Monday",
+      "tempF": 70,
+      "precipProbability": 0,
+      "shortForecast": "Partly Sunny",
+      "hours": [
+        {
+          "t": "05:00",
+          "tempF": 50,
+          "pop": 0
+        },
+        {
+          "t": "06:00",
+          "tempF": 50,
+          "pop": 0
+        },
+        {
+          "t": "07:00",
+          "tempF": 50,
+          "pop": 0
+        },
+        {
+          "t": "08:00",
+          "tempF": 53,
+          "pop": 0
+        },
+        {
+          "t": "09:00",
+          "tempF": 56,
+          "pop": 0
+        },
+        {
+          "t": "10:00",
+          "tempF": 60,
+          "pop": 0
+        },
+        {
+          "t": "11:00",
+          "tempF": 63,
+          "pop": 0
+        },
+        {
+          "t": "12:00",
+          "tempF": 66,
+          "pop": 0
+        },
+        {
+          "t": "13:00",
+          "tempF": 68,
+          "pop": 0
+        },
+        {
+          "t": "14:00",
+          "tempF": 69,
+          "pop": 0
+        },
+        {
+          "t": "15:00",
+          "tempF": 69,
+          "pop": 0
+        },
+        {
+          "t": "16:00",
+          "tempF": 69,
+          "pop": 0
+        },
+        {
+          "t": "17:00",
+          "tempF": 66,
+          "pop": 0
+        },
+        {
+          "t": "18:00",
+          "tempF": 63,
+          "pop": 0
+        },
+        {
+          "t": "19:00",
+          "tempF": 60,
+          "pop": 0
+        },
+        {
+          "t": "20:00",
+          "tempF": 58,
+          "pop": 0
+        },
+        {
+          "t": "21:00",
+          "tempF": 56,
+          "pop": 0
+        },
+        {
+          "t": "22:00",
+          "tempF": 55,
+          "pop": 0
+        },
+        {
+          "t": "23:00",
+          "tempF": 54,
+          "pop": 0
+        }
+      ]
+    },
+    "hidden": []
+  }
+}

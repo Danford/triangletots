@@ -1,0 +1,1137 @@
+{
+  "date": "2026-11-03",
+  "band": "t4",
+  "versions": [
+    {
+      "at": "2026-10-27T08:20:08.856Z",
+      "reason": null,
+      "forecast": "nws",
+      "weather": {
+        "period": "Tuesday",
+        "tempF": 76,
+        "precipProbability": 14,
+        "shortForecast": "Mostly Sunny"
+      },
+      "plans": [
+        {
+          "nap": "short-nap",
+          "napLabel": "Short nap, 1 to 2",
+          "headline": "Muddy Boots nature walk at Whippoorwill Park",
+          "main": {
+            "ref": "event:durham-rec:19863",
+            "arrive": "09:50",
+            "leave": "11:30",
+            "why": "Muddy Boots at Whippoorwill Park is a guided outdoor nature program where children hear a nature-themed book and then take a walk to discover plants and creatures right outside. Stay for playground play after the walk.",
+            "also": [
+              {
+                "ref": "place:whippoorwill-park",
+                "source": {
+                  "kind": "park",
+                  "title": "Whippoorwill Park",
+                  "address": "1632 Rowemont Dr, Durham, NC",
+                  "url": "https://www.dprplaymore.org/Facilities/Facility/Details/Whippoorwill-Park-79",
+                  "amenities": [
+                    "playground",
+                    "picnic-shelter",
+                    "restroom",
+                    "greenway"
+                  ],
+                  "indoor": false,
+                  "area": "durham",
+                  "hours": null,
+                  "lat": 36.047740000000005,
+                  "lon": -78.92395166666667,
+                  "cost": null
+                }
+              }
+            ],
+            "tips": [
+              "Registration is required — sign up in advance.",
+              "Dress for getting muddy — waterproof boots and old clothes are a good idea.",
+              "Stay for at least 20 minutes of free play at the playground after the walk before heading home."
+            ],
+            "interests": [
+              "nature",
+              "stories",
+              "movement"
+            ],
+            "area": "durham",
+            "outdoor": true,
+            "source": {
+              "kind": "event",
+              "title": "Muddy Boots",
+              "start": "2026-11-03T10:00:00",
+              "end": "2026-11-03T11:00:00",
+              "venue": "Whippoorwill Park",
+              "address": "1632 Rowemont Dr, Durham, NC",
+              "url": "https://apm.activecommunities.com/dprplaymore/Activity_Search/muddy-boots/19863?locale=en-US",
+              "cost": null,
+              "ages": "1 - 6",
+              "registration": "https://apm.activecommunities.com/dprplaymore/Activity_Search/muddy-boots/19863?locale=en-US",
+              "indoor": false,
+              "area": "durham",
+              "source": "durham-rec",
+              "dropIn": false,
+              "lat": 36.047740000000005,
+              "lon": -78.92395166666667
+            }
+          },
+          "alternatives": [
+            {
+              "ref": "place:nc-botanical-garden",
+              "arrive": "09:15",
+              "leave": "11:30",
+              "why": "The NC Botanical Garden is a free outdoor garden with nature trails through the forest — a lovely south-Durham morning for a 4-year-old who loves exploring.",
+              "tips": [
+                "Arrive early while the garden is quiet.",
+                "Bring a small bag for leaf and seed collecting along the trails.",
+                "Head home by 11:30 so there is time for lunch before the nap."
+              ],
+              "interests": [
+                "nature",
+                "science",
+                "movement"
+              ],
+              "also": [],
+              "area": "chapel-hill",
+              "outdoor": true,
+              "source": {
+                "kind": "garden",
+                "title": "NC Botanical Garden",
+                "address": "100 Old Mason Farm Rd, Chapel Hill, NC 27517",
+                "url": "https://ncbg.unc.edu/visit/",
+                "amenities": [
+                  "garden",
+                  "nature",
+                  "restroom"
+                ],
+                "indoor": false,
+                "area": "chapel-hill",
+                "lat": 35.9011,
+                "lon": -79.0319,
+                "cost": "Free",
+                "note": "Free. Display gardens, and nature trails through the forest behind them."
+              }
+            },
+            {
+              "ref": "event:wake-parks:9411:2026-11-03",
+              "arrive": "09:00",
+              "leave": "12:10",
+              "why": "Exploration Station: American Bison at Historic Yates Mill County Park is a free outdoor drop-in to learn about America's national mammal at a beautiful Raleigh park.",
+              "tips": [
+                "Registration is required — sign up in advance.",
+                "Bring a snack and water for the park grounds.",
+                "Head home by 12:10 so there is time for lunch before the nap."
+              ],
+              "interests": [
+                "animals",
+                "nature",
+                "science"
+              ],
+              "also": [],
+              "area": "raleigh",
+              "outdoor": true,
+              "source": {
+                "kind": "event",
+                "title": "Exploration Station: American Bison",
+                "start": "2026-11-03T08:30:00",
+                "end": "2026-11-03T17:00:00",
+                "venue": "Historic Yates Mill County Park",
+                "address": "4620 Lake Wheeler Rd., Raleigh, NC  27603",
+                "url": "https://apm.activecommunities.com/wakeparks/Activity_Search/exploration-station-american-bison/9411?locale=en-US",
+                "cost": null,
+                "ages": null,
+                "registration": "https://apm.activecommunities.com/wakeparks/Activity_Search/exploration-station-american-bison/9411?locale=en-US",
+                "indoor": false,
+                "area": "raleigh",
+                "source": "wake-parks",
+                "dropIn": false,
+                "lat": 35.72157134974476,
+                "lon": -78.68526087901417
+              }
+            },
+            {
+              "ref": "place:ncma-museum-park",
+              "arrive": "09:30",
+              "leave": "11:30",
+              "why": "The NC Museum of Art Museum Park is a free 164-acre outdoor space with trails, lawns and big outdoor art installations — a fun and different Raleigh morning.",
+              "tips": [
+                "Arrive early and let your child lead the way along the trails.",
+                "The outdoor art pieces spark great conversations.",
+                "Head home by 11:30 so there is time for lunch before the nap."
+              ],
+              "interests": [
+                "art",
+                "nature",
+                "movement"
+              ],
+              "also": [],
+              "area": "raleigh",
+              "outdoor": true,
+              "source": {
+                "kind": "garden",
+                "title": "NC Museum of Art Museum Park",
+                "address": "2110 Blue Ridge Rd, Raleigh, NC 27607",
+                "url": "https://ncartmuseum.org/museum-park/",
+                "amenities": [
+                  "garden",
+                  "nature",
+                  "greenway",
+                  "restroom"
+                ],
+                "indoor": false,
+                "area": "raleigh",
+                "hours": {
+                  "sun": "dawn to dusk",
+                  "mon": "dawn to dusk",
+                  "tue": "dawn to dusk",
+                  "wed": "dawn to dusk",
+                  "thu": "dawn to dusk",
+                  "fri": "dawn to dusk",
+                  "sat": "dawn to dusk"
+                },
+                "lat": 35.8105,
+                "lon": -78.7022,
+                "cost": "Free",
+                "note": "Free. 164 acres of trails, lawns and big outdoor art; the Capital Area Greenway runs through."
+              }
+            },
+            {
+              "ref": "event:museum:marbles:47911",
+              "arrive": "10:05",
+              "leave": "12:20",
+              "why": "Lost Wolves of Yellowstone 2D at Marbles IMAX is a captivating short wildlife film for ages 3 and up. Stay for museum play and finish at John Chavis Memorial Park for outdoor time.",
+              "also": [
+                {
+                  "ref": "place:john-chavis-memorial-park",
+                  "source": {
+                    "kind": "park",
+                    "title": "John Chavis Memorial Park",
+                    "address": "505 Martin Luther King Jr Blvd, Raleigh, NC 27601",
+                    "url": "https://raleighnc.gov/parks-and-recreation/places/john-chavis-memorial-park",
+                    "amenities": [
+                      "community-center",
+                      "playground",
+                      "carousel",
+                      "fields"
+                    ],
+                    "indoor": false,
+                    "area": "raleigh",
+                    "hours": null,
+                    "lat": 35.7698,
+                    "lon": -78.63021,
+                    "cost": null
+                  }
+                }
+              ],
+              "tips": [
+                "Arrive a few minutes before 10:15 to get good seats.",
+                "Let your child pick one museum exhibit to explore after the film before heading to the park.",
+                "Weather permitting, plan at least 20 minutes at the park before heading home."
+              ],
+              "interests": [
+                "animals",
+                "science",
+                "movement"
+              ],
+              "area": "raleigh",
+              "outdoor": false,
+              "source": {
+                "kind": "event",
+                "title": "Lost Wolves of Yellowstone 2D",
+                "start": "2026-11-03T10:15:00",
+                "end": "2026-11-03T11:00:00",
+                "venue": "Marbles Kids Museum",
+                "address": "201 E Hargett St, Raleigh, NC 27601",
+                "url": null,
+                "cost": null,
+                "ages": "IMAX film, 4 and up",
+                "registration": null,
+                "indoor": true,
+                "area": "raleigh",
+                "source": "museum",
+                "dropIn": false,
+                "lat": 35.7789,
+                "lon": -78.6361
+              }
+            }
+          ],
+          "rainBackup": null,
+          "timeline": [
+            {
+              "start": "07:00",
+              "end": "07:30",
+              "kind": "meal",
+              "title": "Up and breakfast"
+            },
+            {
+              "start": "07:30",
+              "end": "09:10",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "09:10",
+              "end": "09:30",
+              "kind": "routine",
+              "title": "Get ready to go",
+              "detail": "Shoes on, diaper bag, water and a snack."
+            },
+            {
+              "start": "09:30",
+              "end": "09:50",
+              "kind": "travel",
+              "title": "Drive to Whippoorwill Park"
+            },
+            {
+              "start": "09:50",
+              "end": "11:00",
+              "kind": "outing",
+              "title": "Muddy Boots"
+            },
+            {
+              "start": "11:00",
+              "end": "11:10",
+              "kind": "travel",
+              "title": "Drive to Whippoorwill Park"
+            },
+            {
+              "start": "11:10",
+              "end": "11:30",
+              "kind": "outing",
+              "title": "Whippoorwill Park"
+            },
+            {
+              "start": "11:30",
+              "end": "11:50",
+              "kind": "travel",
+              "title": "Drive home"
+            },
+            {
+              "start": "11:50",
+              "end": "12:15",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "12:15",
+              "end": "12:45",
+              "kind": "meal",
+              "title": "Lunch"
+            },
+            {
+              "start": "12:45",
+              "end": "13:00",
+              "kind": "quiet",
+              "title": "Wind down",
+              "detail": "A couple of books to settle."
+            },
+            {
+              "start": "13:00",
+              "end": "14:00",
+              "kind": "nap",
+              "title": "Nap"
+            },
+            {
+              "start": "14:00",
+              "end": "14:20",
+              "kind": "routine",
+              "title": "Up and a snack"
+            },
+            {
+              "start": "14:20",
+              "end": "18:30",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "18:30",
+              "end": "19:15",
+              "kind": "meal",
+              "title": "Dinner"
+            },
+            {
+              "start": "19:15",
+              "end": "20:00",
+              "kind": "routine",
+              "title": "Bath, books and bed"
+            }
+          ]
+        },
+        {
+          "nap": "quiet",
+          "napLabel": "Quiet time",
+          "headline": "NC Botanical Garden morning nature walk",
+          "main": {
+            "ref": "place:nc-botanical-garden",
+            "arrive": "09:15",
+            "leave": "12:00",
+            "why": "The NC Botanical Garden is a free outdoor garden in Durham with display gardens and forest nature trails — a wonderful, unhurried outdoor morning for a 4-year-old who loves exploring plants and paths.",
+            "tips": [
+              "Arrive early while the garden is quiet and the trails are peaceful.",
+              "Bring a small bag for collecting interesting leaves and seed pods along the way.",
+              "Head home by noon so there is time for lunch before quiet time."
+            ],
+            "interests": [
+              "nature",
+              "science",
+              "movement"
+            ],
+            "also": [],
+            "area": "chapel-hill",
+            "outdoor": true,
+            "source": {
+              "kind": "garden",
+              "title": "NC Botanical Garden",
+              "address": "100 Old Mason Farm Rd, Chapel Hill, NC 27517",
+              "url": "https://ncbg.unc.edu/visit/",
+              "amenities": [
+                "garden",
+                "nature",
+                "restroom"
+              ],
+              "indoor": false,
+              "area": "chapel-hill",
+              "lat": 35.9011,
+              "lon": -79.0319,
+              "cost": "Free",
+              "note": "Free. Display gardens, and nature trails through the forest behind them."
+            }
+          },
+          "alternatives": [
+            {
+              "ref": "event:durham-rec:19863",
+              "arrive": "09:50",
+              "leave": "11:30",
+              "why": "Muddy Boots at Whippoorwill Park is a guided outdoor nature program with a book and a nature walk — a great Durham morning before quiet time.",
+              "also": [
+                {
+                  "ref": "place:whippoorwill-park",
+                  "source": {
+                    "kind": "park",
+                    "title": "Whippoorwill Park",
+                    "address": "1632 Rowemont Dr, Durham, NC",
+                    "url": "https://www.dprplaymore.org/Facilities/Facility/Details/Whippoorwill-Park-79",
+                    "amenities": [
+                      "playground",
+                      "picnic-shelter",
+                      "restroom",
+                      "greenway"
+                    ],
+                    "indoor": false,
+                    "area": "durham",
+                    "hours": null,
+                    "lat": 36.047740000000005,
+                    "lon": -78.92395166666667,
+                    "cost": null
+                  }
+                }
+              ],
+              "tips": [
+                "Registration is required — sign up in advance.",
+                "Dress for getting muddy.",
+                "Head home by 11:30 so there is time for lunch before quiet time."
+              ],
+              "interests": [
+                "nature",
+                "stories",
+                "movement"
+              ],
+              "area": "durham",
+              "outdoor": true,
+              "source": {
+                "kind": "event",
+                "title": "Muddy Boots",
+                "start": "2026-11-03T10:00:00",
+                "end": "2026-11-03T11:00:00",
+                "venue": "Whippoorwill Park",
+                "address": "1632 Rowemont Dr, Durham, NC",
+                "url": "https://apm.activecommunities.com/dprplaymore/Activity_Search/muddy-boots/19863?locale=en-US",
+                "cost": null,
+                "ages": "1 - 6",
+                "registration": "https://apm.activecommunities.com/dprplaymore/Activity_Search/muddy-boots/19863?locale=en-US",
+                "indoor": false,
+                "area": "durham",
+                "source": "durham-rec",
+                "dropIn": false,
+                "lat": 36.047740000000005,
+                "lon": -78.92395166666667
+              }
+            },
+            {
+              "ref": "place:gipson-play-plaza",
+              "arrive": "09:00",
+              "leave": "11:30",
+              "why": "Gipson Play Plaza at Dix Park is a big, free destination playground on the south edge of Dix Park — a great outdoor Raleigh morning for a 4-year-old who loves movement.",
+              "tips": [
+                "Arrive early to have the playground almost to yourselves.",
+                "Bring a snack and water for a mid-play break.",
+                "Head home by 11:30 so there is time for lunch before quiet time."
+              ],
+              "interests": [
+                "movement",
+                "nature"
+              ],
+              "also": [],
+              "area": "raleigh",
+              "outdoor": true,
+              "source": {
+                "kind": "park",
+                "title": "Gipson Play Plaza at Dix Park",
+                "address": "715 Biggs Dr, Raleigh, NC 27603",
+                "url": "https://dixpark.org/gipson-play-plaza",
+                "amenities": [
+                  "playground",
+                  "restroom"
+                ],
+                "indoor": false,
+                "area": "raleigh",
+                "hours": {
+                  "sun": "8 a.m.–9 p.m.",
+                  "mon": "8 a.m.–9 p.m.",
+                  "tue": "8 a.m.–9 p.m.",
+                  "wed": "8 a.m.–9 p.m.",
+                  "thu": "8 a.m.–9 p.m.",
+                  "fri": "8 a.m.–9 p.m.",
+                  "sat": "8 a.m.–9 p.m."
+                },
+                "lat": 35.7667,
+                "lon": -78.6539,
+                "cost": "Free",
+                "note": "Free; free parking. Big destination playground on the south edge of Dix Park."
+              }
+            },
+            {
+              "ref": "event:museum:nc-natural-sciences:123480",
+              "arrive": "13:20",
+              "leave": "14:15",
+              "why": "Live Animal Feeding: Lobster at the NC Museum of Natural Sciences is a short, captivating walk-up program — a fun post-quiet-time outing. Finish with outdoor play at LeVelle Moton Park.",
+              "also": [
+                {
+                  "ref": "place:levelle-moton-park",
+                  "source": {
+                    "kind": "park",
+                    "title": "LeVelle Moton Park",
+                    "address": "920 E. Lane Street, Raleigh, NC 27601",
+                    "url": "https://raleighnc.gov/parks-and-recreation/places/levelle-moton-park",
+                    "amenities": [
+                      "picnic-shelter",
+                      "courts",
+                      "playground"
+                    ],
+                    "indoor": false,
+                    "area": "raleigh",
+                    "hours": null,
+                    "lat": 35.78316,
+                    "lon": -78.62606,
+                    "cost": null
+                  }
+                }
+              ],
+              "tips": [
+                "Walk-up program — arrive a few minutes early.",
+                "LeVelle Moton Park is nearby for outdoor play after, weather permitting.",
+                "Keep the visit short and focused after quiet time."
+              ],
+              "interests": [
+                "animals",
+                "science"
+              ],
+              "area": "raleigh",
+              "outdoor": false,
+              "source": {
+                "kind": "event",
+                "title": "Live Animal Feeding: Lobster",
+                "start": "2026-11-03T13:30:00",
+                "end": "2026-11-03T13:45:00",
+                "venue": "NC Museum of Natural Sciences",
+                "address": "11 West Jones Street, Raleigh, NC, 27601",
+                "url": "https://www.naturalsciences.org/calendar/event/live-animal-feeding-lobster-4/2026-11-03/",
+                "cost": null,
+                "ages": "Adults All Ages Children Downtown Raleigh Live Animals Teens Walk-up Programs",
+                "registration": false,
+                "indoor": true,
+                "area": "raleigh",
+                "source": "museum",
+                "dropIn": false,
+                "lat": 35.7822735,
+                "lon": -78.6395502
+              }
+            },
+            {
+              "ref": "event:wake:22112",
+              "arrive": "09:20",
+              "leave": "10:45",
+              "why": "ABC Craft and Learn at Southeast Regional Library is an interactive kindergarten-readiness craft program for ages 3–5. Garner Jaycee Park is right nearby for outdoor play after.",
+              "also": [
+                {
+                  "ref": "place:garner-jaycee-park",
+                  "source": {
+                    "kind": "park",
+                    "title": "Garner Jaycee Park",
+                    "address": "1300 Vandora Springs Road, Garner NC, 27529",
+                    "url": "https://www.garnernc.gov/departments/parks-recreation-and-cultural-resources/garner-parks/jaycee-park",
+                    "amenities": [
+                      "playground",
+                      "picnic-shelter"
+                    ],
+                    "indoor": false,
+                    "area": "raleigh",
+                    "hours": null,
+                    "lat": 35.69851219013472,
+                    "lon": -78.63043787809701,
+                    "cost": null
+                  }
+                }
+              ],
+              "tips": [
+                "No registration needed — just drop in.",
+                "Garner Jaycee Park is a short drive for outdoor play after, weather permitting.",
+                "Plan 20 minutes at the park before heading home."
+              ],
+              "interests": [
+                "art",
+                "stories",
+                "movement"
+              ],
+              "area": "raleigh",
+              "outdoor": false,
+              "source": {
+                "kind": "event",
+                "title": "ABC Craft and Learn",
+                "start": "2026-11-03T09:30:00-05:00",
+                "end": "2026-11-03T10:15:00-05:00",
+                "venue": "Southeast Regional Library",
+                "address": "908 Seventh Avenue, Garner, NC",
+                "url": "https://www.wake.gov/events/abc-craft-and-learn-577",
+                "cost": null,
+                "ages": "Young Children",
+                "registration": null,
+                "indoor": true,
+                "area": "raleigh",
+                "source": "wake-county",
+                "dropIn": false,
+                "lat": 35.7060263640315,
+                "lon": -78.6211614329399
+              }
+            }
+          ],
+          "rainBackup": null,
+          "timeline": [
+            {
+              "start": "07:00",
+              "end": "07:30",
+              "kind": "meal",
+              "title": "Up and breakfast"
+            },
+            {
+              "start": "07:30",
+              "end": "08:35",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "08:35",
+              "end": "08:55",
+              "kind": "routine",
+              "title": "Get ready to go",
+              "detail": "Shoes on, diaper bag, water and a snack."
+            },
+            {
+              "start": "08:55",
+              "end": "09:15",
+              "kind": "travel",
+              "title": "Drive to NC Botanical Garden"
+            },
+            {
+              "start": "09:15",
+              "end": "12:00",
+              "kind": "outing",
+              "title": "NC Botanical Garden"
+            },
+            {
+              "start": "12:00",
+              "end": "12:20",
+              "kind": "travel",
+              "title": "Drive home"
+            },
+            {
+              "start": "12:20",
+              "end": "12:50",
+              "kind": "meal",
+              "title": "Lunch"
+            },
+            {
+              "start": "12:50",
+              "end": "13:00",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "13:00",
+              "end": "13:45",
+              "kind": "quiet",
+              "title": "Quiet time",
+              "detail": "Books or quiet play in their room."
+            },
+            {
+              "start": "13:45",
+              "end": "18:00",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "18:00",
+              "end": "18:45",
+              "kind": "meal",
+              "title": "Dinner"
+            },
+            {
+              "start": "18:45",
+              "end": "19:30",
+              "kind": "routine",
+              "title": "Bath, books and bed"
+            }
+          ]
+        },
+        {
+          "nap": "no-nap",
+          "napLabel": "No nap",
+          "headline": "NC Museum of Art Museum Park outdoor morning",
+          "main": {
+            "ref": "place:ncma-museum-park",
+            "arrive": "09:20",
+            "leave": "11:30",
+            "why": "The NC Museum of Art Museum Park is a free 164-acre outdoor space in Raleigh with trails, wide lawns and big outdoor art installations that surprise and delight — a different kind of outdoor morning that mixes movement, nature, and art.",
+            "tips": [
+              "Arrive early and let your child lead the way — the outdoor art pieces spark great conversations.",
+              "Bring a snack for a break on the grass between the sculptures.",
+              "The Capital Area Greenway runs through the park for extra walking if your child has energy to burn."
+            ],
+            "interests": [
+              "art",
+              "nature",
+              "movement"
+            ],
+            "also": [],
+            "area": "raleigh",
+            "outdoor": true,
+            "source": {
+              "kind": "garden",
+              "title": "NC Museum of Art Museum Park",
+              "address": "2110 Blue Ridge Rd, Raleigh, NC 27607",
+              "url": "https://ncartmuseum.org/museum-park/",
+              "amenities": [
+                "garden",
+                "nature",
+                "greenway",
+                "restroom"
+              ],
+              "indoor": false,
+              "area": "raleigh",
+              "hours": {
+                "sun": "dawn to dusk",
+                "mon": "dawn to dusk",
+                "tue": "dawn to dusk",
+                "wed": "dawn to dusk",
+                "thu": "dawn to dusk",
+                "fri": "dawn to dusk",
+                "sat": "dawn to dusk"
+              },
+              "lat": 35.8105,
+              "lon": -78.7022,
+              "cost": "Free",
+              "note": "Free. 164 acres of trails, lawns and big outdoor art; the Capital Area Greenway runs through."
+            }
+          },
+          "alternatives": [
+            {
+              "ref": "event:durham-rec:19863",
+              "arrive": "09:50",
+              "leave": "11:30",
+              "why": "Muddy Boots at Whippoorwill Park is a guided outdoor nature program with a book and a walk — a great Durham morning for a nature-curious 4-year-old.",
+              "also": [
+                {
+                  "ref": "place:whippoorwill-park",
+                  "source": {
+                    "kind": "park",
+                    "title": "Whippoorwill Park",
+                    "address": "1632 Rowemont Dr, Durham, NC",
+                    "url": "https://www.dprplaymore.org/Facilities/Facility/Details/Whippoorwill-Park-79",
+                    "amenities": [
+                      "playground",
+                      "picnic-shelter",
+                      "restroom",
+                      "greenway"
+                    ],
+                    "indoor": false,
+                    "area": "durham",
+                    "hours": null,
+                    "lat": 36.047740000000005,
+                    "lon": -78.92395166666667,
+                    "cost": null
+                  }
+                }
+              ],
+              "tips": [
+                "Registration is required — sign up in advance.",
+                "Dress for getting muddy.",
+                "Stay for park play after the walk before heading home."
+              ],
+              "interests": [
+                "nature",
+                "stories",
+                "movement"
+              ],
+              "area": "durham",
+              "outdoor": true,
+              "source": {
+                "kind": "event",
+                "title": "Muddy Boots",
+                "start": "2026-11-03T10:00:00",
+                "end": "2026-11-03T11:00:00",
+                "venue": "Whippoorwill Park",
+                "address": "1632 Rowemont Dr, Durham, NC",
+                "url": "https://apm.activecommunities.com/dprplaymore/Activity_Search/muddy-boots/19863?locale=en-US",
+                "cost": null,
+                "ages": "1 - 6",
+                "registration": "https://apm.activecommunities.com/dprplaymore/Activity_Search/muddy-boots/19863?locale=en-US",
+                "indoor": false,
+                "area": "durham",
+                "source": "durham-rec",
+                "dropIn": false,
+                "lat": 36.047740000000005,
+                "lon": -78.92395166666667
+              }
+            },
+            {
+              "ref": "place:nc-botanical-garden",
+              "arrive": "09:15",
+              "leave": "11:30",
+              "why": "The NC Botanical Garden is a free outdoor garden with nature trails through the forest — a calm, exploratory Durham morning.",
+              "tips": [
+                "Arrive early while the garden is quiet.",
+                "Bring a small bag for leaf and seed collecting.",
+                "Let your child lead the pace on the forest trails."
+              ],
+              "interests": [
+                "nature",
+                "science",
+                "movement"
+              ],
+              "also": [],
+              "area": "chapel-hill",
+              "outdoor": true,
+              "source": {
+                "kind": "garden",
+                "title": "NC Botanical Garden",
+                "address": "100 Old Mason Farm Rd, Chapel Hill, NC 27517",
+                "url": "https://ncbg.unc.edu/visit/",
+                "amenities": [
+                  "garden",
+                  "nature",
+                  "restroom"
+                ],
+                "indoor": false,
+                "area": "chapel-hill",
+                "lat": 35.9011,
+                "lon": -79.0319,
+                "cost": "Free",
+                "note": "Free. Display gardens, and nature trails through the forest behind them."
+              }
+            },
+            {
+              "ref": "event:wake-parks:9411:2026-11-03",
+              "arrive": "09:00",
+              "leave": "12:00",
+              "why": "Exploration Station: American Bison at Historic Yates Mill County Park is a free outdoor drop-in to learn about America's national mammal — a great Raleigh morning.",
+              "tips": [
+                "Registration is required — sign up in advance.",
+                "Bring a snack and water for the park grounds.",
+                "The park grounds are lovely for a walk after the station."
+              ],
+              "interests": [
+                "animals",
+                "nature",
+                "science"
+              ],
+              "also": [],
+              "area": "raleigh",
+              "outdoor": true,
+              "source": {
+                "kind": "event",
+                "title": "Exploration Station: American Bison",
+                "start": "2026-11-03T08:30:00",
+                "end": "2026-11-03T17:00:00",
+                "venue": "Historic Yates Mill County Park",
+                "address": "4620 Lake Wheeler Rd., Raleigh, NC  27603",
+                "url": "https://apm.activecommunities.com/wakeparks/Activity_Search/exploration-station-american-bison/9411?locale=en-US",
+                "cost": null,
+                "ages": null,
+                "registration": "https://apm.activecommunities.com/wakeparks/Activity_Search/exploration-station-american-bison/9411?locale=en-US",
+                "indoor": false,
+                "area": "raleigh",
+                "source": "wake-parks",
+                "dropIn": false,
+                "lat": 35.72157134974476,
+                "lon": -78.68526087901417
+              }
+            },
+            {
+              "ref": "event:museum:marbles:47911",
+              "arrive": "10:05",
+              "leave": "12:30",
+              "why": "Lost Wolves of Yellowstone 2D followed by Secrets of Great Salt Lake at Marbles IMAX are two back-to-back wildlife films for ages 3 and up. Finish with outdoor play at John Chavis Memorial Park.",
+              "also": [
+                {
+                  "ref": "event:museum:marbles:47653",
+                  "source": {
+                    "kind": "event",
+                    "title": "Secrets of Great Salt Lake",
+                    "start": "2026-11-03T11:15:00",
+                    "end": "2026-11-03T12:00:00",
+                    "venue": "Marbles Kids Museum",
+                    "address": "201 E Hargett St, Raleigh, NC 27601",
+                    "url": "https://marbleskidsmuseum.org/event/48644/",
+                    "cost": null,
+                    "ages": "IMAX film, 4 and up",
+                    "registration": null,
+                    "indoor": true,
+                    "area": "raleigh",
+                    "source": "museum",
+                    "dropIn": false,
+                    "lat": 35.7789,
+                    "lon": -78.6361
+                  }
+                },
+                {
+                  "ref": "place:john-chavis-memorial-park",
+                  "source": {
+                    "kind": "park",
+                    "title": "John Chavis Memorial Park",
+                    "address": "505 Martin Luther King Jr Blvd, Raleigh, NC 27601",
+                    "url": "https://raleighnc.gov/parks-and-recreation/places/john-chavis-memorial-park",
+                    "amenities": [
+                      "community-center",
+                      "playground",
+                      "carousel",
+                      "fields"
+                    ],
+                    "indoor": false,
+                    "area": "raleigh",
+                    "hours": null,
+                    "lat": 35.7698,
+                    "lon": -78.63021,
+                    "cost": null
+                  }
+                }
+              ],
+              "tips": [
+                "Arrive a few minutes before 10:15 to get good seats for the first film.",
+                "The 15-minute gap between films is a good snack break in the lobby.",
+                "Weather permitting, plan at least 20 minutes at John Chavis Memorial Park before heading home."
+              ],
+              "interests": [
+                "animals",
+                "science",
+                "nature"
+              ],
+              "area": "raleigh",
+              "outdoor": false,
+              "source": {
+                "kind": "event",
+                "title": "Lost Wolves of Yellowstone 2D",
+                "start": "2026-11-03T10:15:00",
+                "end": "2026-11-03T11:00:00",
+                "venue": "Marbles Kids Museum",
+                "address": "201 E Hargett St, Raleigh, NC 27601",
+                "url": null,
+                "cost": null,
+                "ages": "IMAX film, 4 and up",
+                "registration": null,
+                "indoor": true,
+                "area": "raleigh",
+                "source": "museum",
+                "dropIn": false,
+                "lat": 35.7789,
+                "lon": -78.6361
+              }
+            }
+          ],
+          "rainBackup": null,
+          "timeline": [
+            {
+              "start": "07:00",
+              "end": "07:30",
+              "kind": "meal",
+              "title": "Up and breakfast"
+            },
+            {
+              "start": "07:30",
+              "end": "08:40",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "08:40",
+              "end": "09:00",
+              "kind": "routine",
+              "title": "Get ready to go",
+              "detail": "Shoes on, diaper bag, water and a snack."
+            },
+            {
+              "start": "09:00",
+              "end": "09:20",
+              "kind": "travel",
+              "title": "Drive to NC Museum of Art Museum Park"
+            },
+            {
+              "start": "09:20",
+              "end": "11:30",
+              "kind": "outing",
+              "title": "NC Museum of Art Museum Park"
+            },
+            {
+              "start": "11:30",
+              "end": "11:50",
+              "kind": "travel",
+              "title": "Drive home"
+            },
+            {
+              "start": "11:50",
+              "end": "12:20",
+              "kind": "meal",
+              "title": "Lunch"
+            },
+            {
+              "start": "12:20",
+              "end": "18:00",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "18:00",
+              "end": "18:45",
+              "kind": "meal",
+              "title": "Dinner"
+            },
+            {
+              "start": "18:45",
+              "end": "19:30",
+              "kind": "routine",
+              "title": "Bath, books and bed"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "checked": {
+    "at": "2026-11-01T11:03:30.218Z",
+    "forecast": "nws",
+    "weather": {
+      "period": "Tuesday",
+      "tempF": 77,
+      "precipProbability": 0,
+      "shortForecast": "Sunny",
+      "hours": [
+        {
+          "t": "05:00",
+          "tempF": 51,
+          "pop": 0
+        },
+        {
+          "t": "06:00",
+          "tempF": 50,
+          "pop": 0
+        },
+        {
+          "t": "07:00",
+          "tempF": 50,
+          "pop": 0
+        },
+        {
+          "t": "08:00",
+          "tempF": 54,
+          "pop": 0
+        },
+        {
+          "t": "09:00",
+          "tempF": 60,
+          "pop": 0
+        },
+        {
+          "t": "10:00",
+          "tempF": 65,
+          "pop": 0
+        },
+        {
+          "t": "11:00",
+          "tempF": 69,
+          "pop": 0
+        },
+        {
+          "t": "12:00",
+          "tempF": 72,
+          "pop": 0
+        },
+        {
+          "t": "13:00",
+          "tempF": 75,
+          "pop": 0
+        },
+        {
+          "t": "14:00",
+          "tempF": 76,
+          "pop": 0
+        },
+        {
+          "t": "15:00",
+          "tempF": 77,
+          "pop": 0
+        },
+        {
+          "t": "16:00",
+          "tempF": 75,
+          "pop": 0
+        },
+        {
+          "t": "17:00",
+          "tempF": 72,
+          "pop": 0
+        },
+        {
+          "t": "18:00",
+          "tempF": 68,
+          "pop": 0
+        },
+        {
+          "t": "19:00",
+          "tempF": 64,
+          "pop": 0
+        },
+        {
+          "t": "20:00",
+          "tempF": 62,
+          "pop": 0
+        },
+        {
+          "t": "21:00",
+          "tempF": 61,
+          "pop": 0
+        },
+        {
+          "t": "22:00",
+          "tempF": 60,
+          "pop": 0
+        },
+        {
+          "t": "23:00",
+          "tempF": 59,
+          "pop": 0
+        }
+      ]
+    },
+    "hidden": []
+  }
+}

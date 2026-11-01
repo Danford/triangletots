@@ -1,0 +1,1040 @@
+{
+  "date": "2026-11-10",
+  "band": "t4",
+  "versions": [
+    {
+      "at": "2026-10-28T05:34:42.778Z",
+      "reason": null,
+      "forecast": "none",
+      "weather": null,
+      "plans": [
+        {
+          "nap": "short-nap",
+          "napLabel": "Short nap, 1 to 2",
+          "headline": "Harvest Helpers at Laurel Hills Community Center and Laurel Hills Park",
+          "main": {
+            "ref": "event:reclink:LHCCHARVEST-001",
+            "arrive": "10:20",
+            "leave": "12:00",
+            "also": [
+              {
+                "ref": "place:laurel-hills-park",
+                "source": {
+                  "kind": "park",
+                  "title": "Laurel Hills Park",
+                  "address": "3808 Edwards Mill Rd, Raleigh, NC 27612",
+                  "url": "https://raleighnc.gov/parks-and-recreation/places/laurel-hills-park",
+                  "amenities": [
+                    "community-center",
+                    "playground",
+                    "picnic-shelter",
+                    "courts",
+                    "fields"
+                  ],
+                  "indoor": false,
+                  "area": "raleigh",
+                  "hours": null,
+                  "lat": 35.82986,
+                  "lon": -78.69733,
+                  "cost": null
+                }
+              }
+            ],
+            "interests": [
+              "art",
+              "stories",
+              "movement"
+            ],
+            "why": "Harvest Helpers is a seasonal program for ages 3–6 with songs and stories about sharing, then a hands-on craft making harvest hats. Laurel Hills Park is right next door for outdoor play after, weather permitting.",
+            "tips": [
+              "Registration is required and there is an $8 fee; book ahead.",
+              "Bring an old shirt or art smock if your child minds glue on their clothes.",
+              "The park after is weather permitting — if conditions change, head straight home for lunch."
+            ],
+            "area": "raleigh",
+            "outdoor": false,
+            "source": {
+              "kind": "event",
+              "title": "Harvest Helpers",
+              "start": "2026-11-10T10:30:00",
+              "end": "2026-11-10T11:30:00",
+              "venue": "Laurel Hills Community Center",
+              "address": "3808 Edwards Mill Rd, Raleigh, NC 27612",
+              "url": "https://ncraleighweb.myvscloud.com/webtrac/web/search.html?module=AR",
+              "cost": "$8.00",
+              "ages": "3-5.99",
+              "registration": "https://ncraleighweb.myvscloud.com/webtrac/web/search.html?module=AR",
+              "indoor": true,
+              "area": "raleigh",
+              "source": "reclink",
+              "dropIn": false,
+              "lat": 35.82986,
+              "lon": -78.69733
+            }
+          },
+          "alternatives": [
+            {
+              "ref": "place:blue-jay-point-county-park",
+              "arrive": "09:00",
+              "leave": "11:30",
+              "interests": [
+                "nature",
+                "movement"
+              ],
+              "why": "Blue Jay Point sits above Falls Lake with overlook trails, a nature playground, and forest paths to explore — a full outdoor morning before heading home for lunch and the nap.",
+              "tips": [
+                "Arrive at 09:00 for the quietest stretch on the trails.",
+                "Bring a snack and water for the walk.",
+                "Dress in layers — the overlook can be breezy in November."
+              ],
+              "also": [],
+              "area": "north-raleigh",
+              "outdoor": true,
+              "source": {
+                "kind": "park",
+                "title": "Blue Jay Point County Park",
+                "address": "3200 Pleasant Union Church Road, Raleigh, NC 27614",
+                "url": "https://www.wakegov.com/departments-government/parks-recreation-and-open-space/all-parks-trails/blue-jay-point-county-park",
+                "amenities": [
+                  "playground",
+                  "picnic-shelter",
+                  "restroom",
+                  "greenway",
+                  "nature"
+                ],
+                "indoor": false,
+                "area": "north-raleigh",
+                "hours": null,
+                "lat": 35.96762827199893,
+                "lon": -78.64454785104198,
+                "cost": null
+              }
+            },
+            {
+              "ref": "event:museum:marbles:45955",
+              "arrive": "10:05",
+              "leave": "12:30",
+              "also": [
+                {
+                  "ref": "event:museum:marbles:46182",
+                  "source": {
+                    "kind": "event",
+                    "title": "Animal Kingdom 3D",
+                    "start": "2026-11-10T11:15:00",
+                    "end": "2026-11-10T12:00:00",
+                    "venue": "Marbles Kids Museum",
+                    "address": "201 E Hargett St, Raleigh, NC 27601",
+                    "url": "https://marbleskidsmuseum.org/event/48021/",
+                    "cost": null,
+                    "ages": "IMAX film, 4 and up",
+                    "registration": null,
+                    "indoor": true,
+                    "area": "raleigh",
+                    "source": "museum",
+                    "dropIn": false,
+                    "lat": 35.7789,
+                    "lon": -78.6361
+                  }
+                },
+                {
+                  "ref": "place:john-chavis-memorial-park",
+                  "source": {
+                    "kind": "park",
+                    "title": "John Chavis Memorial Park",
+                    "address": "505 Martin Luther King Jr Blvd, Raleigh, NC 27601",
+                    "url": "https://raleighnc.gov/parks-and-recreation/places/john-chavis-memorial-park",
+                    "amenities": [
+                      "community-center",
+                      "playground",
+                      "carousel",
+                      "fields"
+                    ],
+                    "indoor": false,
+                    "area": "raleigh",
+                    "hours": null,
+                    "lat": 35.7698,
+                    "lon": -78.63021,
+                    "cost": null
+                  }
+                }
+              ],
+              "interests": [
+                "science",
+                "animals",
+                "movement"
+              ],
+              "why": "Extreme Weather 3D and Animal Kingdom 3D back to back at the Marbles IMAX, followed by outdoor play at John Chavis Memorial Park — two short films with a run afterwards before the drive home.",
+              "tips": [
+                "Arrive at 10:05 to settle before Extreme Weather starts at 10:15; Animal Kingdom follows at 11:15 at the same screen.",
+                "The park is a short drive; weather permitting, allow the full 20 minutes.",
+                "Leave the park by 12:30 to be home for lunch and the nap."
+              ],
+              "area": "raleigh",
+              "outdoor": false,
+              "source": {
+                "kind": "event",
+                "title": "Extreme Weather 3D",
+                "start": "2026-11-10T10:15:00",
+                "end": "2026-11-10T11:00:00",
+                "venue": "Marbles Kids Museum",
+                "address": "201 E Hargett St, Raleigh, NC 27601",
+                "url": "https://marbleskidsmuseum.org/event/47871/",
+                "cost": null,
+                "ages": "IMAX film, 4 and up",
+                "registration": null,
+                "indoor": true,
+                "area": "raleigh",
+                "source": "museum",
+                "dropIn": false,
+                "lat": 35.7789,
+                "lon": -78.6361
+              }
+            },
+            {
+              "ref": "event:durham-rec:19599:2026-11-10",
+              "arrive": "09:50",
+              "leave": "12:30",
+              "also": [
+                {
+                  "ref": "place:northgate-park",
+                  "source": {
+                    "kind": "park",
+                    "title": "Northgate Park",
+                    "address": "300 W Club Blvd, Durham, NC",
+                    "url": "https://www.dprplaymore.org/Facilities/Facility/Details/Northgate-Park-47",
+                    "amenities": [
+                      "playground",
+                      "picnic-shelter",
+                      "restroom",
+                      "greenway"
+                    ],
+                    "indoor": false,
+                    "area": "durham",
+                    "hours": null,
+                    "lat": 36.02113714285714,
+                    "lon": -78.89581,
+                    "cost": null
+                  }
+                }
+              ],
+              "interests": [
+                "movement",
+                "science",
+                "stories"
+              ],
+              "why": "Total Tot Time at Edison Johnson Rec Center is an open gym session with a parachute, tunnels, and free play for ages 0–6, followed by outdoor time at Northgate Park. Registration required.",
+              "tips": [
+                "Register ahead.",
+                "Dress in layers — the gym can be warm and the park is cooler.",
+                "Leave the park by 12:30 to be home for lunch and the nap."
+              ],
+              "area": "durham",
+              "outdoor": false,
+              "source": {
+                "kind": "event",
+                "title": "Total Tot Time",
+                "start": "2026-11-10T10:00:00",
+                "end": "2026-11-10T12:00:00",
+                "venue": "Edison Johnson Rec Ctr",
+                "address": "W Murray Ave, Durham, NC",
+                "url": "https://apm.activecommunities.com/dprplaymore/Activity_Search/total-tot-time/19599?locale=en-US",
+                "cost": null,
+                "ages": "0 - 6",
+                "registration": "https://apm.activecommunities.com/dprplaymore/Activity_Search/total-tot-time/19599?locale=en-US",
+                "indoor": true,
+                "area": "durham",
+                "source": "durham-rec",
+                "dropIn": false,
+                "lat": 36.0299,
+                "lon": -78.9011
+              }
+            },
+            {
+              "ref": "place:harris-lake-county-park",
+              "arrive": "09:00",
+              "leave": "12:00",
+              "interests": [
+                "nature",
+                "water",
+                "movement"
+              ],
+              "why": "Harris Lake has wooded trails, open water views, and a playground — a big natural outdoor morning in south Wake that fits inside the pre-nap window.",
+              "tips": [
+                "Arrive at 09:00 for a quiet stretch before crowds build.",
+                "Bring snacks and a blanket for a rest by the water.",
+                "Leave by noon to get home for lunch and the nap."
+              ],
+              "also": [],
+              "area": "south-wake",
+              "outdoor": true,
+              "source": {
+                "kind": "park",
+                "title": "Harris Lake County Park",
+                "address": "2112 County Park Dr., New Hill, NC  27562",
+                "url": "https://www.wakegov.com/departments-government/parks-recreation-and-open-space/all-parks-trails/harris-lake-county-park",
+                "amenities": [
+                  "playground",
+                  "picnic-shelter",
+                  "restroom",
+                  "greenway",
+                  "nature"
+                ],
+                "indoor": false,
+                "area": "south-wake",
+                "hours": null,
+                "lat": 35.63024208800726,
+                "lon": -78.91757987745865,
+                "cost": null
+              }
+            }
+          ],
+          "rainBackup": null,
+          "timeline": [
+            {
+              "start": "07:00",
+              "end": "07:30",
+              "kind": "meal",
+              "title": "Up and breakfast"
+            },
+            {
+              "start": "07:30",
+              "end": "09:40",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "09:40",
+              "end": "10:00",
+              "kind": "routine",
+              "title": "Get ready to go",
+              "detail": "Shoes on, diaper bag, water and a snack."
+            },
+            {
+              "start": "10:00",
+              "end": "10:20",
+              "kind": "travel",
+              "title": "Drive to Laurel Hills Community Center"
+            },
+            {
+              "start": "10:20",
+              "end": "11:30",
+              "kind": "outing",
+              "title": "Harvest Helpers"
+            },
+            {
+              "start": "11:30",
+              "end": "11:40",
+              "kind": "travel",
+              "title": "Drive to Laurel Hills Park"
+            },
+            {
+              "start": "11:40",
+              "end": "12:00",
+              "kind": "outing",
+              "title": "Laurel Hills Park"
+            },
+            {
+              "start": "12:00",
+              "end": "12:20",
+              "kind": "travel",
+              "title": "Drive home"
+            },
+            {
+              "start": "12:20",
+              "end": "12:50",
+              "kind": "meal",
+              "title": "Lunch"
+            },
+            {
+              "start": "12:50",
+              "end": "13:00",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "13:00",
+              "end": "14:00",
+              "kind": "nap",
+              "title": "Nap"
+            },
+            {
+              "start": "14:00",
+              "end": "14:20",
+              "kind": "routine",
+              "title": "Up and a snack"
+            },
+            {
+              "start": "14:20",
+              "end": "18:30",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "18:30",
+              "end": "19:15",
+              "kind": "meal",
+              "title": "Dinner"
+            },
+            {
+              "start": "19:15",
+              "end": "20:00",
+              "kind": "routine",
+              "title": "Bath, books and bed"
+            }
+          ]
+        },
+        {
+          "nap": "quiet",
+          "napLabel": "Quiet time",
+          "headline": "Blue Jay Point County Park — overlook trails and forest play",
+          "main": {
+            "ref": "place:blue-jay-point-county-park",
+            "arrive": "09:00",
+            "leave": "11:00",
+            "interests": [
+              "nature",
+              "movement"
+            ],
+            "why": "Blue Jay Point sits on a ridge above Falls Lake with overlook trails, a nature-themed playground, and wooded paths — a full two-hour outdoor morning for a 4.5-year-old with room to explore before heading home for lunch and quiet.",
+            "tips": [
+              "Arrive at 09:00 for the quietest stretch on the trails.",
+              "Bring a snack and water for the walk.",
+              "Dress in layers — the overlook can be breezy in November."
+            ],
+            "also": [],
+            "area": "north-raleigh",
+            "outdoor": true,
+            "source": {
+              "kind": "park",
+              "title": "Blue Jay Point County Park",
+              "address": "3200 Pleasant Union Church Road, Raleigh, NC 27614",
+              "url": "https://www.wakegov.com/departments-government/parks-recreation-and-open-space/all-parks-trails/blue-jay-point-county-park",
+              "amenities": [
+                "playground",
+                "picnic-shelter",
+                "restroom",
+                "greenway",
+                "nature"
+              ],
+              "indoor": false,
+              "area": "north-raleigh",
+              "hours": null,
+              "lat": 35.96762827199893,
+              "lon": -78.64454785104198,
+              "cost": null
+            }
+          },
+          "alternatives": [
+            {
+              "ref": "event:reclink:LHCCHARVEST-001",
+              "arrive": "10:20",
+              "leave": "12:00",
+              "also": [
+                {
+                  "ref": "place:laurel-hills-park",
+                  "source": {
+                    "kind": "park",
+                    "title": "Laurel Hills Park",
+                    "address": "3808 Edwards Mill Rd, Raleigh, NC 27612",
+                    "url": "https://raleighnc.gov/parks-and-recreation/places/laurel-hills-park",
+                    "amenities": [
+                      "community-center",
+                      "playground",
+                      "picnic-shelter",
+                      "courts",
+                      "fields"
+                    ],
+                    "indoor": false,
+                    "area": "raleigh",
+                    "hours": null,
+                    "lat": 35.82986,
+                    "lon": -78.69733,
+                    "cost": null
+                  }
+                }
+              ],
+              "interests": [
+                "art",
+                "stories",
+                "movement"
+              ],
+              "why": "A seasonal craft program for ages 3–6 with harvest songs, stories, and hat-making, followed by outdoor play at the park next door — a contained morning well before quiet time. Registration and $8 fee required.",
+              "tips": [
+                "Book ahead; spaces are limited.",
+                "Bring an old shirt if your child minds craft mess.",
+                "The park after is weather permitting."
+              ],
+              "area": "raleigh",
+              "outdoor": false,
+              "source": {
+                "kind": "event",
+                "title": "Harvest Helpers",
+                "start": "2026-11-10T10:30:00",
+                "end": "2026-11-10T11:30:00",
+                "venue": "Laurel Hills Community Center",
+                "address": "3808 Edwards Mill Rd, Raleigh, NC 27612",
+                "url": "https://ncraleighweb.myvscloud.com/webtrac/web/search.html?module=AR",
+                "cost": "$8.00",
+                "ages": "3-5.99",
+                "registration": "https://ncraleighweb.myvscloud.com/webtrac/web/search.html?module=AR",
+                "indoor": true,
+                "area": "raleigh",
+                "source": "reclink",
+                "dropIn": false,
+                "lat": 35.82986,
+                "lon": -78.69733
+              }
+            },
+            {
+              "ref": "place:harris-lake-county-park",
+              "arrive": "09:00",
+              "leave": "11:30",
+              "interests": [
+                "nature",
+                "water",
+                "movement"
+              ],
+              "why": "Harris Lake gives a 4.5-year-old wooded trails, open water, a playground, and picnic grounds — a relaxed outdoor morning in south Wake with time to get home before quiet.",
+              "tips": [
+                "Arrive at 09:00 for a quiet start.",
+                "Bring snacks and a blanket for a rest by the water.",
+                "Leave by 11:30 to be home for lunch and quiet time."
+              ],
+              "also": [],
+              "area": "south-wake",
+              "outdoor": true,
+              "source": {
+                "kind": "park",
+                "title": "Harris Lake County Park",
+                "address": "2112 County Park Dr., New Hill, NC  27562",
+                "url": "https://www.wakegov.com/departments-government/parks-recreation-and-open-space/all-parks-trails/harris-lake-county-park",
+                "amenities": [
+                  "playground",
+                  "picnic-shelter",
+                  "restroom",
+                  "greenway",
+                  "nature"
+                ],
+                "indoor": false,
+                "area": "south-wake",
+                "hours": null,
+                "lat": 35.63024208800726,
+                "lon": -78.91757987745865,
+                "cost": null
+              }
+            },
+            {
+              "ref": "event:durham-rec:19599:2026-11-10",
+              "arrive": "09:50",
+              "leave": "12:30",
+              "also": [
+                {
+                  "ref": "place:northgate-park",
+                  "source": {
+                    "kind": "park",
+                    "title": "Northgate Park",
+                    "address": "300 W Club Blvd, Durham, NC",
+                    "url": "https://www.dprplaymore.org/Facilities/Facility/Details/Northgate-Park-47",
+                    "amenities": [
+                      "playground",
+                      "picnic-shelter",
+                      "restroom",
+                      "greenway"
+                    ],
+                    "indoor": false,
+                    "area": "durham",
+                    "hours": null,
+                    "lat": 36.02113714285714,
+                    "lon": -78.89581,
+                    "cost": null
+                  }
+                }
+              ],
+              "interests": [
+                "movement",
+                "stories",
+                "science"
+              ],
+              "why": "Open gym play with a parachute, tunnels, and free socialization at Edison Johnson Rec Center, then outdoor time at Northgate Park — a sociable morning before quiet. Registration required.",
+              "tips": [
+                "Register ahead.",
+                "Leave the park by 12:30 for a quick lunch before quiet time.",
+                "Dress in layers for the gym-to-park transition."
+              ],
+              "area": "durham",
+              "outdoor": false,
+              "source": {
+                "kind": "event",
+                "title": "Total Tot Time",
+                "start": "2026-11-10T10:00:00",
+                "end": "2026-11-10T12:00:00",
+                "venue": "Edison Johnson Rec Ctr",
+                "address": "W Murray Ave, Durham, NC",
+                "url": "https://apm.activecommunities.com/dprplaymore/Activity_Search/total-tot-time/19599?locale=en-US",
+                "cost": null,
+                "ages": "0 - 6",
+                "registration": "https://apm.activecommunities.com/dprplaymore/Activity_Search/total-tot-time/19599?locale=en-US",
+                "indoor": true,
+                "area": "durham",
+                "source": "durham-rec",
+                "dropIn": false,
+                "lat": 36.0299,
+                "lon": -78.9011
+              }
+            },
+            {
+              "ref": "event:wake-parks:9411:2026-11-10",
+              "arrive": "08:20",
+              "leave": "11:00",
+              "interests": [
+                "animals",
+                "science",
+                "nature"
+              ],
+              "why": "The Bison Day Exploration Station at Yates Mill wraps up well before quiet time — a hands-on outdoor morning learning about bison conservation. Registration required.",
+              "tips": [
+                "Register ahead.",
+                "Wear sturdy shoes for the natural surface park.",
+                "Leaving by 11:00 gives a comfortable run-up to quiet time."
+              ],
+              "also": [],
+              "area": "raleigh",
+              "outdoor": true,
+              "source": {
+                "kind": "event",
+                "title": "Exploration Station: American Bison",
+                "start": "2026-11-10T08:30:00",
+                "end": "2026-11-10T17:00:00",
+                "venue": "Historic Yates Mill County Park",
+                "address": "4620 Lake Wheeler Rd., Raleigh, NC  27603",
+                "url": "https://apm.activecommunities.com/wakeparks/Activity_Search/exploration-station-american-bison/9411?locale=en-US",
+                "cost": null,
+                "ages": null,
+                "registration": "https://apm.activecommunities.com/wakeparks/Activity_Search/exploration-station-american-bison/9411?locale=en-US",
+                "indoor": false,
+                "area": "raleigh",
+                "source": "wake-parks",
+                "dropIn": false,
+                "lat": 35.72157134974476,
+                "lon": -78.68526087901417
+              }
+            }
+          ],
+          "rainBackup": null,
+          "timeline": [
+            {
+              "start": "07:00",
+              "end": "07:30",
+              "kind": "meal",
+              "title": "Up and breakfast"
+            },
+            {
+              "start": "07:30",
+              "end": "08:20",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "08:20",
+              "end": "08:40",
+              "kind": "routine",
+              "title": "Get ready to go",
+              "detail": "Shoes on, diaper bag, water and a snack."
+            },
+            {
+              "start": "08:40",
+              "end": "09:00",
+              "kind": "travel",
+              "title": "Drive to Blue Jay Point County Park"
+            },
+            {
+              "start": "09:00",
+              "end": "11:00",
+              "kind": "outing",
+              "title": "Blue Jay Point County Park"
+            },
+            {
+              "start": "11:00",
+              "end": "11:20",
+              "kind": "travel",
+              "title": "Drive home"
+            },
+            {
+              "start": "11:20",
+              "end": "11:45",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "11:45",
+              "end": "12:15",
+              "kind": "meal",
+              "title": "Lunch"
+            },
+            {
+              "start": "12:15",
+              "end": "13:00",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "13:00",
+              "end": "13:45",
+              "kind": "quiet",
+              "title": "Quiet time",
+              "detail": "Books or quiet play in their room."
+            },
+            {
+              "start": "13:45",
+              "end": "18:00",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "18:00",
+              "end": "18:45",
+              "kind": "meal",
+              "title": "Dinner"
+            },
+            {
+              "start": "18:45",
+              "end": "19:30",
+              "kind": "routine",
+              "title": "Bath, books and bed"
+            }
+          ]
+        },
+        {
+          "nap": "no-nap",
+          "napLabel": "No nap",
+          "headline": "Harris Lake County Park — trails and open water in south Wake",
+          "main": {
+            "ref": "place:harris-lake-county-park",
+            "arrive": "09:00",
+            "leave": "11:30",
+            "interests": [
+              "nature",
+              "water",
+              "movement"
+            ],
+            "why": "Harris Lake gives a 4.5-year-old a big natural lake to look at, wooded trails to wander, a playground, and open picnic grounds — a genuine outdoor morning with space to roam and no agenda.",
+            "tips": [
+              "Arrive at 09:00 for a quiet stretch before other families arrive.",
+              "Bring snacks and a blanket for a rest by the water.",
+              "Dress in layers — the lakeside can be cool and breezy in November."
+            ],
+            "also": [],
+            "area": "south-wake",
+            "outdoor": true,
+            "source": {
+              "kind": "park",
+              "title": "Harris Lake County Park",
+              "address": "2112 County Park Dr., New Hill, NC  27562",
+              "url": "https://www.wakegov.com/departments-government/parks-recreation-and-open-space/all-parks-trails/harris-lake-county-park",
+              "amenities": [
+                "playground",
+                "picnic-shelter",
+                "restroom",
+                "greenway",
+                "nature"
+              ],
+              "indoor": false,
+              "area": "south-wake",
+              "hours": null,
+              "lat": 35.63024208800726,
+              "lon": -78.91757987745865,
+              "cost": null
+            }
+          },
+          "alternatives": [
+            {
+              "ref": "place:blue-jay-point-county-park",
+              "arrive": "09:00",
+              "leave": "11:00",
+              "interests": [
+                "nature",
+                "movement"
+              ],
+              "why": "Blue Jay Point's ridge trails, overlook views of Falls Lake, and nature playground make a strong outdoor morning — a different feel from Harris Lake but the same spirit.",
+              "tips": [
+                "Arrive at 09:00 for the quietest trails.",
+                "Bring a snack and water.",
+                "Dress in layers for the exposed overlook."
+              ],
+              "also": [],
+              "area": "north-raleigh",
+              "outdoor": true,
+              "source": {
+                "kind": "park",
+                "title": "Blue Jay Point County Park",
+                "address": "3200 Pleasant Union Church Road, Raleigh, NC 27614",
+                "url": "https://www.wakegov.com/departments-government/parks-recreation-and-open-space/all-parks-trails/blue-jay-point-county-park",
+                "amenities": [
+                  "playground",
+                  "picnic-shelter",
+                  "restroom",
+                  "greenway",
+                  "nature"
+                ],
+                "indoor": false,
+                "area": "north-raleigh",
+                "hours": null,
+                "lat": 35.96762827199893,
+                "lon": -78.64454785104198,
+                "cost": null
+              }
+            },
+            {
+              "ref": "event:reclink:LHCCHARVEST-001",
+              "arrive": "10:20",
+              "leave": "12:00",
+              "also": [
+                {
+                  "ref": "place:laurel-hills-park",
+                  "source": {
+                    "kind": "park",
+                    "title": "Laurel Hills Park",
+                    "address": "3808 Edwards Mill Rd, Raleigh, NC 27612",
+                    "url": "https://raleighnc.gov/parks-and-recreation/places/laurel-hills-park",
+                    "amenities": [
+                      "community-center",
+                      "playground",
+                      "picnic-shelter",
+                      "courts",
+                      "fields"
+                    ],
+                    "indoor": false,
+                    "area": "raleigh",
+                    "hours": null,
+                    "lat": 35.82986,
+                    "lon": -78.69733,
+                    "cost": null
+                  }
+                }
+              ],
+              "interests": [
+                "art",
+                "stories",
+                "movement"
+              ],
+              "why": "A seasonal harvest craft program for ages 3–6, followed by outdoor play at the park next door — a focused creative morning with an outdoor finish, weather permitting. Registration and $8 fee required.",
+              "tips": [
+                "Book ahead; spaces are limited.",
+                "Bring an old shirt if your child minds craft mess.",
+                "The park finish is weather permitting."
+              ],
+              "area": "raleigh",
+              "outdoor": false,
+              "source": {
+                "kind": "event",
+                "title": "Harvest Helpers",
+                "start": "2026-11-10T10:30:00",
+                "end": "2026-11-10T11:30:00",
+                "venue": "Laurel Hills Community Center",
+                "address": "3808 Edwards Mill Rd, Raleigh, NC 27612",
+                "url": "https://ncraleighweb.myvscloud.com/webtrac/web/search.html?module=AR",
+                "cost": "$8.00",
+                "ages": "3-5.99",
+                "registration": "https://ncraleighweb.myvscloud.com/webtrac/web/search.html?module=AR",
+                "indoor": true,
+                "area": "raleigh",
+                "source": "reclink",
+                "dropIn": false,
+                "lat": 35.82986,
+                "lon": -78.69733
+              }
+            },
+            {
+              "ref": "event:durham-rec:19599:2026-11-10",
+              "arrive": "09:50",
+              "leave": "12:30",
+              "also": [
+                {
+                  "ref": "place:northgate-park",
+                  "source": {
+                    "kind": "park",
+                    "title": "Northgate Park",
+                    "address": "300 W Club Blvd, Durham, NC",
+                    "url": "https://www.dprplaymore.org/Facilities/Facility/Details/Northgate-Park-47",
+                    "amenities": [
+                      "playground",
+                      "picnic-shelter",
+                      "restroom",
+                      "greenway"
+                    ],
+                    "indoor": false,
+                    "area": "durham",
+                    "hours": null,
+                    "lat": 36.02113714285714,
+                    "lon": -78.89581,
+                    "cost": null
+                  }
+                }
+              ],
+              "interests": [
+                "movement",
+                "stories",
+                "science"
+              ],
+              "why": "Open gym play with a parachute and tunnels at Edison Johnson, then outdoor time at Northgate Park — a social and physical morning in Durham. Registration required.",
+              "tips": [
+                "Register ahead.",
+                "Dress in layers for the gym-to-park transition.",
+                "Bring a snack for the park."
+              ],
+              "area": "durham",
+              "outdoor": false,
+              "source": {
+                "kind": "event",
+                "title": "Total Tot Time",
+                "start": "2026-11-10T10:00:00",
+                "end": "2026-11-10T12:00:00",
+                "venue": "Edison Johnson Rec Ctr",
+                "address": "W Murray Ave, Durham, NC",
+                "url": "https://apm.activecommunities.com/dprplaymore/Activity_Search/total-tot-time/19599?locale=en-US",
+                "cost": null,
+                "ages": "0 - 6",
+                "registration": "https://apm.activecommunities.com/dprplaymore/Activity_Search/total-tot-time/19599?locale=en-US",
+                "indoor": true,
+                "area": "durham",
+                "source": "durham-rec",
+                "dropIn": false,
+                "lat": 36.0299,
+                "lon": -78.9011
+              }
+            },
+            {
+              "ref": "event:museum:marbles:47856",
+              "arrive": "14:05",
+              "leave": "15:30",
+              "also": [
+                {
+                  "ref": "place:john-chavis-memorial-park",
+                  "source": {
+                    "kind": "park",
+                    "title": "John Chavis Memorial Park",
+                    "address": "505 Martin Luther King Jr Blvd, Raleigh, NC 27601",
+                    "url": "https://raleighnc.gov/parks-and-recreation/places/john-chavis-memorial-park",
+                    "amenities": [
+                      "community-center",
+                      "playground",
+                      "carousel",
+                      "fields"
+                    ],
+                    "indoor": false,
+                    "area": "raleigh",
+                    "hours": null,
+                    "lat": 35.7698,
+                    "lon": -78.63021,
+                    "cost": null
+                  }
+                }
+              ],
+              "interests": [
+                "water",
+                "science",
+                "nature"
+              ],
+              "why": "Secrets of Great Salt Lake on the Marbles IMAX screen in the afternoon, then outdoor play at John Chavis Memorial Park — a calm, contained afternoon outing for a no-nap day.",
+              "tips": [
+                "Arrive at 14:05 to get seats before the 14:15 showtime.",
+                "John Chavis Memorial Park has a carousel and playground; allow 20 minutes after the film.",
+                "Leave the park by 15:30 to have a full afternoon and early dinner."
+              ],
+              "area": "raleigh",
+              "outdoor": false,
+              "source": {
+                "kind": "event",
+                "title": "Secrets of Great Salt Lake",
+                "start": "2026-11-10T14:15:00",
+                "end": "2026-11-10T15:00:00",
+                "venue": "Marbles Kids Museum",
+                "address": "201 E Hargett St, Raleigh, NC 27601",
+                "url": "https://marbleskidsmuseum.org/event/48776/",
+                "cost": null,
+                "ages": "IMAX film, 4 and up",
+                "registration": null,
+                "indoor": true,
+                "area": "raleigh",
+                "source": "museum",
+                "dropIn": false,
+                "lat": 35.7789,
+                "lon": -78.6361
+              }
+            }
+          ],
+          "rainBackup": null,
+          "timeline": [
+            {
+              "start": "07:00",
+              "end": "07:30",
+              "kind": "meal",
+              "title": "Up and breakfast"
+            },
+            {
+              "start": "07:30",
+              "end": "08:20",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "08:20",
+              "end": "08:40",
+              "kind": "routine",
+              "title": "Get ready to go",
+              "detail": "Shoes on, diaper bag, water and a snack."
+            },
+            {
+              "start": "08:40",
+              "end": "09:00",
+              "kind": "travel",
+              "title": "Drive to Harris Lake County Park"
+            },
+            {
+              "start": "09:00",
+              "end": "11:30",
+              "kind": "outing",
+              "title": "Harris Lake County Park"
+            },
+            {
+              "start": "11:30",
+              "end": "11:50",
+              "kind": "travel",
+              "title": "Drive home"
+            },
+            {
+              "start": "11:50",
+              "end": "12:20",
+              "kind": "meal",
+              "title": "Lunch"
+            },
+            {
+              "start": "12:20",
+              "end": "18:00",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "18:00",
+              "end": "18:45",
+              "kind": "meal",
+              "title": "Dinner"
+            },
+            {
+              "start": "18:45",
+              "end": "19:30",
+              "kind": "routine",
+              "title": "Bath, books and bed"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "checked": {
+    "at": "2026-11-01T11:12:06.523Z",
+    "forecast": "none",
+    "weather": null,
+    "hidden": []
+  }
+}

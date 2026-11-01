@@ -1,0 +1,933 @@
+{
+  "date": "2026-11-08",
+  "band": "t4",
+  "versions": [
+    {
+      "at": "2026-10-27T08:33:19.265Z",
+      "reason": null,
+      "forecast": "none",
+      "weather": null,
+      "plans": [
+        {
+          "nap": "short-nap",
+          "napLabel": "Short nap, 1 to 2",
+          "headline": "Early Childhood Drop-In at Hideaway Woods, Museum of Life and Science",
+          "main": {
+            "ref": "event:weekly:mols-early-childhood:2026-11-08",
+            "arrive": "09:20",
+            "leave": "11:00",
+            "interests": [
+              "animals",
+              "nature",
+              "science"
+            ],
+            "why": "Hideaway Woods is an outdoor play space with treehouses, a creek, and farm animals where a 4.5-year-old can roam freely while songs, sensory play, and stories happen naturally around them.",
+            "tips": [
+              "Arrive at 09:20 to get the full open stretch before heading home for lunch and the nap.",
+              "Dress for outdoor play — the creek and treehouses invite muddy hands and feet.",
+              "This is included with museum admission."
+            ],
+            "also": [],
+            "area": "durham",
+            "outdoor": true,
+            "source": {
+              "kind": "event",
+              "title": "Early Childhood Drop-In",
+              "start": "2026-11-08T09:30:00",
+              "end": "2026-11-08T11:30:00",
+              "venue": "Hideaway Woods, Museum of Life and Science",
+              "address": "433 W Murray Ave, Durham, NC 27704",
+              "url": "https://www.lifeandscience.org/learn/drop-in-programs/",
+              "cost": "Included with museum admission",
+              "ages": "young children and their caregivers",
+              "registration": false,
+              "indoor": false,
+              "area": "durham",
+              "source": "weekly",
+              "dropIn": true,
+              "lat": 36.0294,
+              "lon": -78.8993
+            }
+          },
+          "alternatives": [
+            {
+              "ref": "event:wake-parks:9411:2026-11-08",
+              "arrive": "08:20",
+              "leave": "12:00",
+              "interests": [
+                "animals",
+                "science",
+                "nature"
+              ],
+              "why": "A drop-in Exploration Station at Yates Mill on National Bison Day with hands-on activities about bison conservation — an outdoor naturalist morning that wraps up well before the nap. Registration required.",
+              "tips": [
+                "Register ahead; materials may be limited.",
+                "Wear sturdy shoes for the natural surface grounds.",
+                "Leave by noon to be home comfortably before the nap."
+              ],
+              "also": [],
+              "area": "raleigh",
+              "outdoor": true,
+              "source": {
+                "kind": "event",
+                "title": "Exploration Station: American Bison",
+                "start": "2026-11-08T08:30:00",
+                "end": "2026-11-08T17:00:00",
+                "venue": "Historic Yates Mill County Park",
+                "address": "4620 Lake Wheeler Rd., Raleigh, NC  27603",
+                "url": "https://apm.activecommunities.com/wakeparks/Activity_Search/exploration-station-american-bison/9411?locale=en-US",
+                "cost": null,
+                "ages": null,
+                "registration": "https://apm.activecommunities.com/wakeparks/Activity_Search/exploration-station-american-bison/9411?locale=en-US",
+                "indoor": false,
+                "area": "raleigh",
+                "source": "wake-parks",
+                "dropIn": false,
+                "lat": 35.72157134974476,
+                "lon": -78.68526087901417
+              }
+            },
+            {
+              "ref": "event:museum:nc-natural-sciences:119080",
+              "arrive": "09:50",
+              "leave": "12:30",
+              "also": [
+                {
+                  "ref": "place:halifax-park",
+                  "source": {
+                    "kind": "park",
+                    "title": "Halifax Park",
+                    "address": "1015 Halifax St, Raleigh, NC 27604",
+                    "url": "https://raleighnc.gov/parks-and-recreation/places/halifax-park",
+                    "amenities": [
+                      "community-center",
+                      "courts",
+                      "playground"
+                    ],
+                    "indoor": false,
+                    "area": "raleigh",
+                    "hours": null,
+                    "lat": 35.79327,
+                    "lon": -78.63884,
+                    "cost": null
+                  }
+                }
+              ],
+              "interests": [
+                "dinosaurs",
+                "science"
+              ],
+              "why": "The Dueling Dinosaurs sensory-friendly morning at the NC Museum of Natural Sciences is a calm, accessible experience, followed by outdoor play at Halifax Park before heading home.",
+              "tips": [
+                "Arrive at 09:50 to settle in before the program begins at 10:00.",
+                "Halifax Park is a short drive after; weather permitting, allow 20 minutes there.",
+                "Leave the park by 12:30 to be home for lunch and the nap."
+              ],
+              "area": "raleigh",
+              "outdoor": false,
+              "source": {
+                "kind": "event",
+                "title": "Dueling Dinosaurs Sensory Friendly Mornings",
+                "start": "2026-11-08T10:00:00",
+                "end": "2026-11-08T12:00:00",
+                "venue": "NC Museum of Natural Sciences",
+                "address": "11 West Jones Street, Raleigh, NC, 27601",
+                "url": "https://www.naturalsciences.org/calendar/event/dueling-dinosaurs-sensory-friendly-mornings-2/2026-11-08/",
+                "cost": null,
+                "ages": "Recommended Audience All ages, particularly neurodivergent audiences.",
+                "registration": null,
+                "indoor": true,
+                "area": "raleigh",
+                "source": "museum",
+                "dropIn": false,
+                "lat": 35.7822735,
+                "lon": -78.6395502
+              }
+            },
+            {
+              "ref": "event:museum:duke-gardens:17496",
+              "arrive": "14:20",
+              "leave": "16:00",
+              "interests": [
+                "nature",
+                "art"
+              ],
+              "why": "The afternoon window fits a drop-in visit to the Festival of Fabulous Mums — the Japanese Garden is full of vivid exhibition mums that a child can count and wander through after the nap.",
+              "tips": [
+                "Arrive at 14:20 and follow your child's pace through the paths.",
+                "Bring a snack and water for the walk.",
+                "The garden's paths provide plenty of outdoor space without needing to rush."
+              ],
+              "also": [],
+              "area": "durham",
+              "outdoor": true,
+              "source": {
+                "kind": "event",
+                "title": "A Festival of Fabulous Mums",
+                "start": "2026-11-08T10:00:00",
+                "end": "2026-11-08T16:00:00",
+                "venue": "Sarah P. Duke Gardens",
+                "address": "420 Anderson Street, Durham, NC, 27708",
+                "url": "https://gardens.duke.edu/event/a-festival-of-fabulous-mums-6/",
+                "cost": "Free",
+                "ages": "Adult Programs Family programs Festival of Fabulous Mums",
+                "registration": false,
+                "indoor": false,
+                "area": "durham",
+                "source": "museum",
+                "dropIn": true,
+                "lat": 36.0024,
+                "lon": -78.9328
+              }
+            },
+            {
+              "ref": "event:dix-park:/event/instrument-petting-zoo:2026-11-08",
+              "arrive": "14:20",
+              "leave": "16:30",
+              "also": [
+                {
+                  "ref": "place:gipson-play-plaza",
+                  "source": {
+                    "kind": "park",
+                    "title": "Gipson Play Plaza at Dix Park",
+                    "address": "715 Biggs Dr, Raleigh, NC 27603",
+                    "url": "https://dixpark.org/gipson-play-plaza",
+                    "amenities": [
+                      "playground",
+                      "restroom"
+                    ],
+                    "indoor": false,
+                    "area": "raleigh",
+                    "hours": {
+                      "sun": "8 a.m.–9 p.m.",
+                      "mon": "8 a.m.–9 p.m.",
+                      "tue": "8 a.m.–9 p.m.",
+                      "wed": "8 a.m.–9 p.m.",
+                      "thu": "8 a.m.–9 p.m.",
+                      "fri": "8 a.m.–9 p.m.",
+                      "sat": "8 a.m.–9 p.m."
+                    },
+                    "lat": 35.7667,
+                    "lon": -78.6539,
+                    "cost": "Free",
+                    "note": "Free; free parking. Big destination playground on the south edge of Dix Park."
+                  }
+                }
+              ],
+              "interests": [
+                "music",
+                "movement",
+                "science"
+              ],
+              "why": "Children try real instruments and discover how sound is made at this outdoor event at Gipson Play Plaza, followed by time on the big destination playground after the instruments wrap up.",
+              "tips": [
+                "Arrive at 14:20 so the full session is ahead of you.",
+                "Let your child pick which instrument to try first — there's no set order.",
+                "The playground at Gipson is large; leave time for a proper run after the instruments."
+              ],
+              "area": "raleigh",
+              "outdoor": true,
+              "source": {
+                "kind": "event",
+                "title": "Instrument Petting Zoo",
+                "start": "2026-11-08T14:00:00",
+                "end": "2026-11-08T16:00:00",
+                "venue": "Gipson Play Plaza, Dix Park",
+                "address": "715 Biggs Dr, Raleigh, NC 27603",
+                "url": "https://dixpark.org/event/instrument-petting-zoo",
+                "cost": null,
+                "ages": null,
+                "registration": null,
+                "indoor": false,
+                "area": "raleigh",
+                "source": "dix-park",
+                "dropIn": false,
+                "lat": 35.7667,
+                "lon": -78.6539
+              }
+            }
+          ],
+          "rainBackup": null,
+          "timeline": [
+            {
+              "start": "07:00",
+              "end": "07:30",
+              "kind": "meal",
+              "title": "Up and breakfast"
+            },
+            {
+              "start": "07:30",
+              "end": "08:40",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "08:40",
+              "end": "09:00",
+              "kind": "routine",
+              "title": "Get ready to go",
+              "detail": "Shoes on, diaper bag, water and a snack."
+            },
+            {
+              "start": "09:00",
+              "end": "09:20",
+              "kind": "travel",
+              "title": "Drive to Hideaway Woods, Museum of Life and Science"
+            },
+            {
+              "start": "09:20",
+              "end": "11:00",
+              "kind": "outing",
+              "title": "Hideaway Woods, Museum of Life and Science"
+            },
+            {
+              "start": "11:00",
+              "end": "11:20",
+              "kind": "travel",
+              "title": "Drive home"
+            },
+            {
+              "start": "11:20",
+              "end": "12:15",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "12:15",
+              "end": "12:45",
+              "kind": "meal",
+              "title": "Lunch"
+            },
+            {
+              "start": "12:45",
+              "end": "13:00",
+              "kind": "quiet",
+              "title": "Wind down",
+              "detail": "A couple of books to settle."
+            },
+            {
+              "start": "13:00",
+              "end": "14:00",
+              "kind": "nap",
+              "title": "Nap"
+            },
+            {
+              "start": "14:00",
+              "end": "14:20",
+              "kind": "routine",
+              "title": "Up and a snack"
+            },
+            {
+              "start": "14:20",
+              "end": "18:30",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "18:30",
+              "end": "19:15",
+              "kind": "meal",
+              "title": "Dinner"
+            },
+            {
+              "start": "19:15",
+              "end": "20:00",
+              "kind": "routine",
+              "title": "Bath, books and bed"
+            }
+          ]
+        },
+        {
+          "nap": "quiet",
+          "napLabel": "Quiet time",
+          "headline": "Instrument Petting Zoo at Gipson Play Plaza, Dix Park",
+          "main": {
+            "ref": "event:dix-park:/event/instrument-petting-zoo:2026-11-08",
+            "arrive": "14:10",
+            "leave": "16:30",
+            "also": [
+              {
+                "ref": "place:gipson-play-plaza",
+                "source": {
+                  "kind": "park",
+                  "title": "Gipson Play Plaza at Dix Park",
+                  "address": "715 Biggs Dr, Raleigh, NC 27603",
+                  "url": "https://dixpark.org/gipson-play-plaza",
+                  "amenities": [
+                    "playground",
+                    "restroom"
+                  ],
+                  "indoor": false,
+                  "area": "raleigh",
+                  "hours": {
+                    "sun": "8 a.m.–9 p.m.",
+                    "mon": "8 a.m.–9 p.m.",
+                    "tue": "8 a.m.–9 p.m.",
+                    "wed": "8 a.m.–9 p.m.",
+                    "thu": "8 a.m.–9 p.m.",
+                    "fri": "8 a.m.–9 p.m.",
+                    "sat": "8 a.m.–9 p.m."
+                  },
+                  "lat": 35.7667,
+                  "lon": -78.6539,
+                  "cost": "Free",
+                  "note": "Free; free parking. Big destination playground on the south edge of Dix Park."
+                }
+              }
+            ],
+            "interests": [
+              "music",
+              "movement",
+              "science"
+            ],
+            "why": "Children get to pick up and try real instruments outdoors and discover how each one makes its sound — a hands-on musical afternoon in the open air, with the big Gipson Play Plaza playground right there to run on after.",
+            "tips": [
+              "Arrive at 14:10 with good energy; let your child try instruments in any order they like.",
+              "The Gipson playground is large and keeps a 4.5-year-old busy well after the instrument session ends.",
+              "Leave by 16:30 so there's a relaxed stretch at home before dinner."
+            ],
+            "area": "raleigh",
+            "outdoor": true,
+            "source": {
+              "kind": "event",
+              "title": "Instrument Petting Zoo",
+              "start": "2026-11-08T14:00:00",
+              "end": "2026-11-08T16:00:00",
+              "venue": "Gipson Play Plaza, Dix Park",
+              "address": "715 Biggs Dr, Raleigh, NC 27603",
+              "url": "https://dixpark.org/event/instrument-petting-zoo",
+              "cost": null,
+              "ages": null,
+              "registration": null,
+              "indoor": false,
+              "area": "raleigh",
+              "source": "dix-park",
+              "dropIn": false,
+              "lat": 35.7667,
+              "lon": -78.6539
+            }
+          },
+          "alternatives": [
+            {
+              "ref": "event:weekly:mols-early-childhood:2026-11-08",
+              "arrive": "09:20",
+              "leave": "11:30",
+              "interests": [
+                "animals",
+                "nature",
+                "science"
+              ],
+              "why": "A full outdoor morning at Hideaway Woods — treehouses, a creek, farm animals, songs, and sensory play all before quiet time with plenty of buffer for lunch.",
+              "tips": [
+                "Drop in at 09:20 and stay as long as your child is engaged.",
+                "Dress for outdoor play including a change of shoes for the creek.",
+                "Included with museum admission."
+              ],
+              "also": [],
+              "area": "durham",
+              "outdoor": true,
+              "source": {
+                "kind": "event",
+                "title": "Early Childhood Drop-In",
+                "start": "2026-11-08T09:30:00",
+                "end": "2026-11-08T11:30:00",
+                "venue": "Hideaway Woods, Museum of Life and Science",
+                "address": "433 W Murray Ave, Durham, NC 27704",
+                "url": "https://www.lifeandscience.org/learn/drop-in-programs/",
+                "cost": "Included with museum admission",
+                "ages": "young children and their caregivers",
+                "registration": false,
+                "indoor": false,
+                "area": "durham",
+                "source": "weekly",
+                "dropIn": true,
+                "lat": 36.0294,
+                "lon": -78.8993
+              }
+            },
+            {
+              "ref": "event:museum:duke-gardens:17496",
+              "arrive": "09:50",
+              "leave": "12:00",
+              "interests": [
+                "nature",
+                "art"
+              ],
+              "why": "A morning visit to the Festival of Fabulous Mums at Duke Gardens — wandering through vivid exhibition mums before heading home for lunch and quiet time.",
+              "tips": [
+                "Arrive at 09:50 to get ahead of the midday crowds.",
+                "Follow your child's pace through the paths and let them name the colors.",
+                "Leave by noon to be home comfortably before quiet time."
+              ],
+              "also": [],
+              "area": "durham",
+              "outdoor": true,
+              "source": {
+                "kind": "event",
+                "title": "A Festival of Fabulous Mums",
+                "start": "2026-11-08T10:00:00",
+                "end": "2026-11-08T16:00:00",
+                "venue": "Sarah P. Duke Gardens",
+                "address": "420 Anderson Street, Durham, NC, 27708",
+                "url": "https://gardens.duke.edu/event/a-festival-of-fabulous-mums-6/",
+                "cost": "Free",
+                "ages": "Adult Programs Family programs Festival of Fabulous Mums",
+                "registration": false,
+                "indoor": false,
+                "area": "durham",
+                "source": "museum",
+                "dropIn": true,
+                "lat": 36.0024,
+                "lon": -78.9328
+              }
+            },
+            {
+              "ref": "event:wake-parks:9411:2026-11-08",
+              "arrive": "08:20",
+              "leave": "11:00",
+              "interests": [
+                "animals",
+                "science",
+                "nature"
+              ],
+              "why": "The Bison Day Exploration Station at Yates Mill is a focused outdoor morning with hands-on activities about bison conservation. Registration required.",
+              "tips": [
+                "Register ahead.",
+                "Wear sturdy shoes for the natural ground.",
+                "Leaving by 11:00 leaves a relaxed run-up to quiet time."
+              ],
+              "also": [],
+              "area": "raleigh",
+              "outdoor": true,
+              "source": {
+                "kind": "event",
+                "title": "Exploration Station: American Bison",
+                "start": "2026-11-08T08:30:00",
+                "end": "2026-11-08T17:00:00",
+                "venue": "Historic Yates Mill County Park",
+                "address": "4620 Lake Wheeler Rd., Raleigh, NC  27603",
+                "url": "https://apm.activecommunities.com/wakeparks/Activity_Search/exploration-station-american-bison/9411?locale=en-US",
+                "cost": null,
+                "ages": null,
+                "registration": "https://apm.activecommunities.com/wakeparks/Activity_Search/exploration-station-american-bison/9411?locale=en-US",
+                "indoor": false,
+                "area": "raleigh",
+                "source": "wake-parks",
+                "dropIn": false,
+                "lat": 35.72157134974476,
+                "lon": -78.68526087901417
+              }
+            },
+            {
+              "ref": "event:wake-parks:8358:2026-11-08",
+              "arrive": "09:00",
+              "leave": "10:30",
+              "interests": [
+                "stories",
+                "nature"
+              ],
+              "why": "A self-guided story walk along the ADA-accessible loop at Beech Bluff County Park — a calm, early morning outing before the day gets busy.",
+              "tips": [
+                "Read each panel aloud and let your child look for plants and animals from the story.",
+                "The loop is stroller-friendly.",
+                "Bring a snack for after the walk."
+              ],
+              "also": [],
+              "area": "south-wake",
+              "outdoor": true,
+              "source": {
+                "kind": "event",
+                "title": "Beech Bluff County Park StoryWalk® 2026 (Self-Led)",
+                "start": "2026-11-08T08:00:00",
+                "end": "2026-11-08T17:30:00",
+                "venue": "Beech Bluff County Park",
+                "address": "Beech Bluff Park Drive, Fuquay-Varina, NC",
+                "url": "https://apm.activecommunities.com/wakeparks/Activity_Search/beech-bluff-county-park-storywalk-2026-self-led/8358?locale=en-US",
+                "cost": "Free",
+                "ages": null,
+                "registration": false,
+                "indoor": false,
+                "area": "south-wake",
+                "source": "wake-parks",
+                "dropIn": true,
+                "lat": 35.58537279715877,
+                "lon": -78.6793341971644
+              }
+            }
+          ],
+          "rainBackup": null,
+          "timeline": [
+            {
+              "start": "07:00",
+              "end": "07:30",
+              "kind": "meal",
+              "title": "Up and breakfast"
+            },
+            {
+              "start": "07:30",
+              "end": "11:45",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "11:45",
+              "end": "12:15",
+              "kind": "meal",
+              "title": "Lunch"
+            },
+            {
+              "start": "12:15",
+              "end": "13:00",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "13:00",
+              "end": "13:50",
+              "kind": "quiet",
+              "title": "Quiet time",
+              "detail": "Books or quiet play in their room."
+            },
+            {
+              "start": "13:50",
+              "end": "14:10",
+              "kind": "travel",
+              "title": "Drive to Gipson Play Plaza, Dix Park"
+            },
+            {
+              "start": "14:10",
+              "end": "16:00",
+              "kind": "outing",
+              "title": "Instrument Petting Zoo"
+            },
+            {
+              "start": "16:00",
+              "end": "16:10",
+              "kind": "travel",
+              "title": "Drive to Gipson Play Plaza at Dix Park"
+            },
+            {
+              "start": "16:10",
+              "end": "16:30",
+              "kind": "outing",
+              "title": "Gipson Play Plaza at Dix Park"
+            },
+            {
+              "start": "16:30",
+              "end": "16:50",
+              "kind": "travel",
+              "title": "Drive home"
+            },
+            {
+              "start": "16:50",
+              "end": "18:00",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "18:00",
+              "end": "18:45",
+              "kind": "meal",
+              "title": "Dinner"
+            },
+            {
+              "start": "18:45",
+              "end": "19:30",
+              "kind": "routine",
+              "title": "Bath, books and bed"
+            }
+          ]
+        },
+        {
+          "nap": "no-nap",
+          "napLabel": "No nap",
+          "headline": "Exploration Station: American Bison at Historic Yates Mill County Park",
+          "main": {
+            "ref": "event:wake-parks:9411:2026-11-08",
+            "arrive": "08:20",
+            "leave": "11:30",
+            "interests": [
+              "animals",
+              "science",
+              "nature"
+            ],
+            "why": "On National Bison Day a 4.5-year-old can learn about North America's largest land animal through hands-on drop-in activities at Yates Mill, an outdoor naturalist site with a working historic mill nearby. Registration required.",
+            "tips": [
+              "Register ahead; materials at drop-in stations can run low.",
+              "Wear sturdy shoes and a layer — the park is on natural ground and breezy in November.",
+              "Bring water and a snack for the morning."
+            ],
+            "also": [],
+            "area": "raleigh",
+            "outdoor": true,
+            "source": {
+              "kind": "event",
+              "title": "Exploration Station: American Bison",
+              "start": "2026-11-08T08:30:00",
+              "end": "2026-11-08T17:00:00",
+              "venue": "Historic Yates Mill County Park",
+              "address": "4620 Lake Wheeler Rd., Raleigh, NC  27603",
+              "url": "https://apm.activecommunities.com/wakeparks/Activity_Search/exploration-station-american-bison/9411?locale=en-US",
+              "cost": null,
+              "ages": null,
+              "registration": "https://apm.activecommunities.com/wakeparks/Activity_Search/exploration-station-american-bison/9411?locale=en-US",
+              "indoor": false,
+              "area": "raleigh",
+              "source": "wake-parks",
+              "dropIn": false,
+              "lat": 35.72157134974476,
+              "lon": -78.68526087901417
+            }
+          },
+          "alternatives": [
+            {
+              "ref": "event:weekly:mols-early-childhood:2026-11-08",
+              "arrive": "09:20",
+              "leave": "11:30",
+              "interests": [
+                "animals",
+                "nature",
+                "science"
+              ],
+              "why": "Outdoor play-based activities, songs, and sensory exploration at Hideaway Woods — a full morning with treehouses, a creek, and farm animals in a natural setting.",
+              "tips": [
+                "Drop in at 09:20 and follow your child's pace.",
+                "Dress for outdoor play; bring a change of shoes.",
+                "Included with museum admission."
+              ],
+              "also": [],
+              "area": "durham",
+              "outdoor": true,
+              "source": {
+                "kind": "event",
+                "title": "Early Childhood Drop-In",
+                "start": "2026-11-08T09:30:00",
+                "end": "2026-11-08T11:30:00",
+                "venue": "Hideaway Woods, Museum of Life and Science",
+                "address": "433 W Murray Ave, Durham, NC 27704",
+                "url": "https://www.lifeandscience.org/learn/drop-in-programs/",
+                "cost": "Included with museum admission",
+                "ages": "young children and their caregivers",
+                "registration": false,
+                "indoor": false,
+                "area": "durham",
+                "source": "weekly",
+                "dropIn": true,
+                "lat": 36.0294,
+                "lon": -78.8993
+              }
+            },
+            {
+              "ref": "event:museum:duke-gardens:17496",
+              "arrive": "09:50",
+              "leave": "13:00",
+              "interests": [
+                "nature",
+                "art"
+              ],
+              "why": "A long morning visit to the Festival of Fabulous Mums at Duke Gardens — your child can lead the way through five miles of garden paths with hundreds of vivid mums on display.",
+              "tips": [
+                "Arrive at 09:50 while the light is good and the garden is quieter.",
+                "Bring a snack and water for a long walk.",
+                "Let your child decide when they are ready to leave."
+              ],
+              "also": [],
+              "area": "durham",
+              "outdoor": true,
+              "source": {
+                "kind": "event",
+                "title": "A Festival of Fabulous Mums",
+                "start": "2026-11-08T10:00:00",
+                "end": "2026-11-08T16:00:00",
+                "venue": "Sarah P. Duke Gardens",
+                "address": "420 Anderson Street, Durham, NC, 27708",
+                "url": "https://gardens.duke.edu/event/a-festival-of-fabulous-mums-6/",
+                "cost": "Free",
+                "ages": "Adult Programs Family programs Festival of Fabulous Mums",
+                "registration": false,
+                "indoor": false,
+                "area": "durham",
+                "source": "museum",
+                "dropIn": true,
+                "lat": 36.0024,
+                "lon": -78.9328
+              }
+            },
+            {
+              "ref": "event:dix-park:/event/instrument-petting-zoo:2026-11-08",
+              "arrive": "13:50",
+              "leave": "16:30",
+              "also": [
+                {
+                  "ref": "place:gipson-play-plaza",
+                  "source": {
+                    "kind": "park",
+                    "title": "Gipson Play Plaza at Dix Park",
+                    "address": "715 Biggs Dr, Raleigh, NC 27603",
+                    "url": "https://dixpark.org/gipson-play-plaza",
+                    "amenities": [
+                      "playground",
+                      "restroom"
+                    ],
+                    "indoor": false,
+                    "area": "raleigh",
+                    "hours": {
+                      "sun": "8 a.m.–9 p.m.",
+                      "mon": "8 a.m.–9 p.m.",
+                      "tue": "8 a.m.–9 p.m.",
+                      "wed": "8 a.m.–9 p.m.",
+                      "thu": "8 a.m.–9 p.m.",
+                      "fri": "8 a.m.–9 p.m.",
+                      "sat": "8 a.m.–9 p.m."
+                    },
+                    "lat": 35.7667,
+                    "lon": -78.6539,
+                    "cost": "Free",
+                    "note": "Free; free parking. Big destination playground on the south edge of Dix Park."
+                  }
+                }
+              ],
+              "interests": [
+                "music",
+                "movement",
+                "science"
+              ],
+              "why": "An afternoon of real instruments to try outdoors at Gipson Play Plaza, followed by free play on the large playground — a musical and physical close to a Sunday.",
+              "tips": [
+                "Arrive at 13:50 so you're ready when the session opens at 14:00.",
+                "Let your child linger on whichever instrument catches their interest.",
+                "The playground gives a good wind-down before heading home for dinner."
+              ],
+              "area": "raleigh",
+              "outdoor": true,
+              "source": {
+                "kind": "event",
+                "title": "Instrument Petting Zoo",
+                "start": "2026-11-08T14:00:00",
+                "end": "2026-11-08T16:00:00",
+                "venue": "Gipson Play Plaza, Dix Park",
+                "address": "715 Biggs Dr, Raleigh, NC 27603",
+                "url": "https://dixpark.org/event/instrument-petting-zoo",
+                "cost": null,
+                "ages": null,
+                "registration": null,
+                "indoor": false,
+                "area": "raleigh",
+                "source": "dix-park",
+                "dropIn": false,
+                "lat": 35.7667,
+                "lon": -78.6539
+              }
+            },
+            {
+              "ref": "event:wake-parks:8358:2026-11-08",
+              "arrive": "08:00",
+              "leave": "09:30",
+              "interests": [
+                "stories",
+                "nature"
+              ],
+              "why": "An early self-guided story walk along the accessible loop at Beech Bluff County Park — a quiet start to the day that leaves the rest of Sunday wide open.",
+              "tips": [
+                "Going at 08:00 means a peaceful trail with no crowds.",
+                "Read the panels aloud and pause at each one.",
+                "Bring a snack for after the loop."
+              ],
+              "also": [],
+              "area": "south-wake",
+              "outdoor": true,
+              "source": {
+                "kind": "event",
+                "title": "Beech Bluff County Park StoryWalk® 2026 (Self-Led)",
+                "start": "2026-11-08T08:00:00",
+                "end": "2026-11-08T17:30:00",
+                "venue": "Beech Bluff County Park",
+                "address": "Beech Bluff Park Drive, Fuquay-Varina, NC",
+                "url": "https://apm.activecommunities.com/wakeparks/Activity_Search/beech-bluff-county-park-storywalk-2026-self-led/8358?locale=en-US",
+                "cost": "Free",
+                "ages": null,
+                "registration": false,
+                "indoor": false,
+                "area": "south-wake",
+                "source": "wake-parks",
+                "dropIn": true,
+                "lat": 35.58537279715877,
+                "lon": -78.6793341971644
+              }
+            }
+          ],
+          "rainBackup": null,
+          "timeline": [
+            {
+              "start": "07:00",
+              "end": "07:30",
+              "kind": "meal",
+              "title": "Up and breakfast"
+            },
+            {
+              "start": "07:30",
+              "end": "07:40",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "07:40",
+              "end": "08:00",
+              "kind": "routine",
+              "title": "Get ready to go",
+              "detail": "Shoes on, diaper bag, water and a snack."
+            },
+            {
+              "start": "08:00",
+              "end": "08:20",
+              "kind": "travel",
+              "title": "Drive to Historic Yates Mill County Park"
+            },
+            {
+              "start": "08:20",
+              "end": "11:30",
+              "kind": "outing",
+              "title": "Historic Yates Mill County Park"
+            },
+            {
+              "start": "11:30",
+              "end": "11:50",
+              "kind": "travel",
+              "title": "Drive home"
+            },
+            {
+              "start": "11:50",
+              "end": "12:20",
+              "kind": "meal",
+              "title": "Lunch"
+            },
+            {
+              "start": "12:20",
+              "end": "18:00",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "18:00",
+              "end": "18:45",
+              "kind": "meal",
+              "title": "Dinner"
+            },
+            {
+              "start": "18:45",
+              "end": "19:30",
+              "kind": "routine",
+              "title": "Bath, books and bed"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "checked": {
+    "at": "2026-11-01T11:06:04.572Z",
+    "forecast": "none",
+    "weather": null,
+    "hidden": []
+  }
+}

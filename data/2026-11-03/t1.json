@@ -1,0 +1,1023 @@
+{
+  "date": "2026-11-03",
+  "band": "t1",
+  "versions": [
+    {
+      "at": "2026-10-27T08:20:11.984Z",
+      "reason": null,
+      "forecast": "nws",
+      "weather": {
+        "period": "Tuesday",
+        "tempF": 76,
+        "precipProbability": 14,
+        "shortForecast": "Mostly Sunny"
+      },
+      "plans": [
+        {
+          "nap": "two-naps",
+          "napLabel": "Two naps",
+          "headline": "Kids Voting Event at Durham Central Park",
+          "main": {
+            "ref": "event:museum:durham-central-park:13932",
+            "arrive": "11:10",
+            "leave": "14:00",
+            "why": "The Kids Voting Event at Durham Central Park is a free outdoor drop-in where children of all ages can take part in a community activity in a big open park — a lively midday outing in Durham after the first nap.",
+            "tips": [
+              "Arrive at 10:50 just as the event opens and explore the park while you visit.",
+              "Durham Central Park has plenty of open space for a toddler to run around between activities.",
+              "Leave by 14:00 to get home for lunch before the second nap."
+            ],
+            "interests": [
+              "movement",
+              "nature"
+            ],
+            "also": [],
+            "area": "durham",
+            "outdoor": true,
+            "source": {
+              "kind": "event",
+              "title": "Kids Voting Event",
+              "start": "2026-11-03T11:00:00",
+              "end": "2026-11-03T16:00:00",
+              "venue": "Durham Central Park",
+              "address": "501 Foster Street, Durham, NC, 27701",
+              "url": "https://durhamcentralpark.org/upcoming-event/kids-voting-event/",
+              "cost": null,
+              "ages": "We invite all youth of all ages to come and participate in our event !",
+              "registration": null,
+              "indoor": false,
+              "area": "durham",
+              "source": "museum",
+              "dropIn": true,
+              "lat": 36.0008,
+              "lon": -78.9021
+            }
+          },
+          "alternatives": [
+            {
+              "ref": "event:wake-parks:8358:2026-11-03",
+              "arrive": "10:50",
+              "leave": "13:00",
+              "why": "The Beech Bluff StoryWalk is a free self-guided story loop on an accessible trail in south Wake — a calm outdoor midday stretch after the first nap.",
+              "tips": [
+                "The ADA-accessible loop is stroller-friendly.",
+                "Let the child spot each story panel before you read it aloud.",
+                "Leave by 13:00 to get home for lunch before the second nap."
+              ],
+              "interests": [
+                "stories",
+                "nature"
+              ],
+              "also": [],
+              "area": "south-wake",
+              "outdoor": true,
+              "source": {
+                "kind": "event",
+                "title": "Beech Bluff County Park StoryWalk® 2026 (Self-Led)",
+                "start": "2026-11-03T08:00:00",
+                "end": "2026-11-03T17:30:00",
+                "venue": "Beech Bluff County Park",
+                "address": "Beech Bluff Park Drive, Fuquay-Varina, NC",
+                "url": "https://apm.activecommunities.com/wakeparks/Activity_Search/beech-bluff-county-park-storywalk-2026-self-led/8358?locale=en-US",
+                "cost": "Free",
+                "ages": null,
+                "registration": false,
+                "indoor": false,
+                "area": "south-wake",
+                "source": "wake-parks",
+                "dropIn": true,
+                "lat": 35.58537279715877,
+                "lon": -78.6793341971644
+              }
+            },
+            {
+              "ref": "event:museum:nc-natural-sciences:123480",
+              "arrive": "13:20",
+              "leave": "14:15",
+              "also": [
+                {
+                  "ref": "place:fred-fletcher-park",
+                  "source": {
+                    "kind": "park",
+                    "title": "Fred Fletcher Park",
+                    "address": "820 Clay Street, Raleigh, NC 27605",
+                    "url": "https://raleighnc.gov/parks-and-recreation/places/fred-fletcher-park",
+                    "amenities": [
+                      "garden",
+                      "picnic-shelter",
+                      "courts",
+                      "fields",
+                      "playground"
+                    ],
+                    "indoor": false,
+                    "area": "raleigh",
+                    "hours": null,
+                    "lat": 35.79264,
+                    "lon": -78.64957,
+                    "cost": null
+                  }
+                }
+              ],
+              "why": "Live Animal Feeding: Lobster at the NC Museum of Natural Sciences is a short walk-up program, then Fred Fletcher Park is a short drive for outdoor play before the second nap.",
+              "tips": [
+                "Arrive a few minutes before 13:30 to get a good spot up front.",
+                "Fred Fletcher Park has a big playground and garden to explore after.",
+                "Leave the park by 14:15 to get home in time for the second nap."
+              ],
+              "interests": [
+                "animals",
+                "science"
+              ],
+              "area": "raleigh",
+              "outdoor": false,
+              "source": {
+                "kind": "event",
+                "title": "Live Animal Feeding: Lobster",
+                "start": "2026-11-03T13:30:00",
+                "end": "2026-11-03T13:45:00",
+                "venue": "NC Museum of Natural Sciences",
+                "address": "11 West Jones Street, Raleigh, NC, 27601",
+                "url": "https://www.naturalsciences.org/calendar/event/live-animal-feeding-lobster-4/2026-11-03/",
+                "cost": null,
+                "ages": "Adults All Ages Children Downtown Raleigh Live Animals Teens Walk-up Programs",
+                "registration": false,
+                "indoor": true,
+                "area": "raleigh",
+                "source": "museum",
+                "dropIn": false,
+                "lat": 35.7822735,
+                "lon": -78.6395502
+              }
+            },
+            {
+              "ref": "event:wake:22929",
+              "arrive": "16:20",
+              "leave": "17:30",
+              "also": [
+                {
+                  "ref": "event:wake:23524",
+                  "source": {
+                    "kind": "event",
+                    "title": "Stay and Play",
+                    "start": "2026-11-03T17:00:00-05:00",
+                    "end": "2026-11-03T17:30:00-05:00",
+                    "venue": "Athens Drive Community Library",
+                    "address": "1420 Athens Drive, Raleigh, NC, 27606",
+                    "url": "https://www.eventbrite.com/e/stay-and-play-tickets-2000782989782",
+                    "cost": "Free",
+                    "ages": "Young Children",
+                    "registration": "https://www.eventbrite.com/e/stay-and-play-tickets-2000782989782",
+                    "indoor": true,
+                    "area": "raleigh",
+                    "source": "wake-county",
+                    "dropIn": false,
+                    "lat": 35.7682600041562,
+                    "lon": -78.7107215103108
+                  }
+                }
+              ],
+              "why": "Family Storytime followed by Stay and Play at Athens Drive Community Library is a free indoor evening double — books and music then free-build play with tiles and blocks.",
+              "tips": [
+                "Both programs require registration; book ahead.",
+                "Stay and Play runs right after storytime in the same spot.",
+                "Leave by 17:30 to get home for dinner and the bedtime routine."
+              ],
+              "interests": [
+                "stories",
+                "music",
+                "movement"
+              ],
+              "area": "raleigh",
+              "outdoor": false,
+              "source": {
+                "kind": "event",
+                "title": "Family Storytime",
+                "start": "2026-11-03T16:30:00-05:00",
+                "end": "2026-11-03T17:00:00-05:00",
+                "venue": "Athens Drive Community Library",
+                "address": "1420 Athens Drive, Raleigh, NC, 27606",
+                "url": "https://www.eventbrite.com/e/family-storytime-tickets-1998851350196",
+                "cost": "Free",
+                "ages": "Young Children",
+                "registration": "https://www.eventbrite.com/e/family-storytime-tickets-1998851350196",
+                "indoor": true,
+                "area": "raleigh",
+                "source": "wake-county",
+                "dropIn": false,
+                "lat": 35.7682600041562,
+                "lon": -78.7107215103108
+              }
+            }
+          ],
+          "rainBackup": null,
+          "timeline": [
+            {
+              "start": "07:00",
+              "end": "07:30",
+              "kind": "meal",
+              "title": "Up and breakfast"
+            },
+            {
+              "start": "07:30",
+              "end": "09:30",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "09:30",
+              "end": "10:30",
+              "kind": "nap",
+              "title": "Nap"
+            },
+            {
+              "start": "10:30",
+              "end": "10:50",
+              "kind": "routine",
+              "title": "Up and a snack"
+            },
+            {
+              "start": "10:50",
+              "end": "11:10",
+              "kind": "travel",
+              "title": "Drive to Durham Central Park"
+            },
+            {
+              "start": "11:10",
+              "end": "14:00",
+              "kind": "outing",
+              "title": "Durham Central Park",
+              "detail": "Pack a lunch to eat there."
+            },
+            {
+              "start": "14:00",
+              "end": "14:20",
+              "kind": "travel",
+              "title": "Drive home"
+            },
+            {
+              "start": "14:20",
+              "end": "14:30",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "14:30",
+              "end": "15:30",
+              "kind": "nap",
+              "title": "Nap"
+            },
+            {
+              "start": "15:30",
+              "end": "15:50",
+              "kind": "routine",
+              "title": "Up and a snack"
+            },
+            {
+              "start": "15:50",
+              "end": "17:30",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "17:30",
+              "end": "18:15",
+              "kind": "meal",
+              "title": "Dinner"
+            },
+            {
+              "start": "18:15",
+              "end": "19:00",
+              "kind": "routine",
+              "title": "Bath, books and bed"
+            }
+          ]
+        },
+        {
+          "nap": "early-nap",
+          "napLabel": "One nap, 12 to 2",
+          "headline": "Beech Bluff StoryWalk and Family Storytime at Beech Bluff County Park",
+          "main": {
+            "ref": "event:wake-parks:8358:2026-11-03",
+            "arrive": "08:20",
+            "leave": "11:00",
+            "also": [
+              {
+                "ref": "event:wake:22485",
+                "source": {
+                  "kind": "event",
+                  "title": "Family Storytime @ Beech Bluff County Park",
+                  "start": "2026-11-03T10:30:00-05:00",
+                  "end": "2026-11-03T11:00:00-05:00",
+                  "venue": "Beech Bluff County Park",
+                  "address": "Beech Bluff Park Drive, Fuquay-Varina, NC",
+                  "url": "https://www.wake.gov/events/family-storytime-beech-bluff-county-park-9",
+                  "cost": "Free",
+                  "ages": "Young Children",
+                  "registration": null,
+                  "indoor": true,
+                  "area": "south-wake",
+                  "source": "wake-county",
+                  "dropIn": false,
+                  "lat": 35.58537279715877,
+                  "lon": -78.6793341971644
+                }
+              }
+            ],
+            "why": "The self-guided StoryWalk and Family Storytime both happen at Beech Bluff County Park — walk the outdoor story loop through the park, then settle in for a live storytime at 10:30 before heading home for the nap.",
+            "tips": [
+              "Arrive at 08:20 to walk the story loop while the park is quiet before the storytime crowd arrives.",
+              "The loop is stroller-friendly; let the child hop out at each story panel.",
+              "Family Storytime starts at 10:30 in the same spot — no need to move the buggy."
+            ],
+            "interests": [
+              "stories",
+              "nature"
+            ],
+            "area": "south-wake",
+            "outdoor": true,
+            "source": {
+              "kind": "event",
+              "title": "Beech Bluff County Park StoryWalk® 2026 (Self-Led)",
+              "start": "2026-11-03T08:00:00",
+              "end": "2026-11-03T17:30:00",
+              "venue": "Beech Bluff County Park",
+              "address": "Beech Bluff Park Drive, Fuquay-Varina, NC",
+              "url": "https://apm.activecommunities.com/wakeparks/Activity_Search/beech-bluff-county-park-storywalk-2026-self-led/8358?locale=en-US",
+              "cost": "Free",
+              "ages": null,
+              "registration": false,
+              "indoor": false,
+              "area": "south-wake",
+              "source": "wake-parks",
+              "dropIn": true,
+              "lat": 35.58537279715877,
+              "lon": -78.6793341971644
+            }
+          },
+          "alternatives": [
+            {
+              "ref": "event:durham-rec:19863",
+              "arrive": "09:50",
+              "leave": "11:00",
+              "why": "Muddy Boots at Whippoorwill Park is a registered outdoor nature program for 1–6 year olds — a book read-aloud then a walk to discover what is living right outside the door in Durham.",
+              "tips": [
+                "Registration is required; sign up ahead of time.",
+                "Dress for mud and wet grass; a spare set of clothes is worth packing.",
+                "The park picnic shelter is the meeting point."
+              ],
+              "interests": [
+                "nature",
+                "stories"
+              ],
+              "also": [],
+              "area": "durham",
+              "outdoor": true,
+              "source": {
+                "kind": "event",
+                "title": "Muddy Boots",
+                "start": "2026-11-03T10:00:00",
+                "end": "2026-11-03T11:00:00",
+                "venue": "Whippoorwill Park",
+                "address": "1632 Rowemont Dr, Durham, NC",
+                "url": "https://apm.activecommunities.com/dprplaymore/Activity_Search/muddy-boots/19863?locale=en-US",
+                "cost": null,
+                "ages": "1 - 6",
+                "registration": "https://apm.activecommunities.com/dprplaymore/Activity_Search/muddy-boots/19863?locale=en-US",
+                "indoor": false,
+                "area": "durham",
+                "source": "durham-rec",
+                "dropIn": false,
+                "lat": 36.047740000000005,
+                "lon": -78.92395166666667
+              }
+            },
+            {
+              "ref": "place:ncma-museum-park",
+              "arrive": "09:00",
+              "leave": "11:00",
+              "why": "The NC Museum of Art Museum Park has 164 acres of free trails and outdoor sculptures — a beautiful open morning in Raleigh before the nap.",
+              "tips": [
+                "Arrive at 09:00 before the park gets busy.",
+                "Big outdoor sculptures are surprising and fun for a toddler to discover.",
+                "Bring a snack and water for the walk."
+              ],
+              "interests": [
+                "art",
+                "nature"
+              ],
+              "also": [],
+              "area": "raleigh",
+              "outdoor": true,
+              "source": {
+                "kind": "garden",
+                "title": "NC Museum of Art Museum Park",
+                "address": "2110 Blue Ridge Rd, Raleigh, NC 27607",
+                "url": "https://ncartmuseum.org/museum-park/",
+                "amenities": [
+                  "garden",
+                  "nature",
+                  "greenway",
+                  "restroom"
+                ],
+                "indoor": false,
+                "area": "raleigh",
+                "hours": {
+                  "sun": "dawn to dusk",
+                  "mon": "dawn to dusk",
+                  "tue": "dawn to dusk",
+                  "wed": "dawn to dusk",
+                  "thu": "dawn to dusk",
+                  "fri": "dawn to dusk",
+                  "sat": "dawn to dusk"
+                },
+                "lat": 35.8105,
+                "lon": -78.7022,
+                "cost": "Free",
+                "note": "Free. 164 acres of trails, lawns and big outdoor art; the Capital Area Greenway runs through."
+              }
+            },
+            {
+              "ref": "event:wake:22929",
+              "arrive": "16:20",
+              "leave": "17:30",
+              "also": [
+                {
+                  "ref": "event:wake:23524",
+                  "source": {
+                    "kind": "event",
+                    "title": "Stay and Play",
+                    "start": "2026-11-03T17:00:00-05:00",
+                    "end": "2026-11-03T17:30:00-05:00",
+                    "venue": "Athens Drive Community Library",
+                    "address": "1420 Athens Drive, Raleigh, NC, 27606",
+                    "url": "https://www.eventbrite.com/e/stay-and-play-tickets-2000782989782",
+                    "cost": "Free",
+                    "ages": "Young Children",
+                    "registration": "https://www.eventbrite.com/e/stay-and-play-tickets-2000782989782",
+                    "indoor": true,
+                    "area": "raleigh",
+                    "source": "wake-county",
+                    "dropIn": false,
+                    "lat": 35.7682600041562,
+                    "lon": -78.7107215103108
+                  }
+                }
+              ],
+              "why": "Family Storytime followed by Stay and Play at Athens Drive Library is a free indoor afternoon double after the nap — books, music and movement then free-build play with tiles and blocks.",
+              "tips": [
+                "Both programs require registration; book ahead.",
+                "Stay and Play runs right after storytime in the same spot.",
+                "Leave by 17:30 to get home for dinner."
+              ],
+              "interests": [
+                "stories",
+                "music",
+                "movement"
+              ],
+              "area": "raleigh",
+              "outdoor": false,
+              "source": {
+                "kind": "event",
+                "title": "Family Storytime",
+                "start": "2026-11-03T16:30:00-05:00",
+                "end": "2026-11-03T17:00:00-05:00",
+                "venue": "Athens Drive Community Library",
+                "address": "1420 Athens Drive, Raleigh, NC, 27606",
+                "url": "https://www.eventbrite.com/e/family-storytime-tickets-1998851350196",
+                "cost": "Free",
+                "ages": "Young Children",
+                "registration": "https://www.eventbrite.com/e/family-storytime-tickets-1998851350196",
+                "indoor": true,
+                "area": "raleigh",
+                "source": "wake-county",
+                "dropIn": false,
+                "lat": 35.7682600041562,
+                "lon": -78.7107215103108
+              }
+            }
+          ],
+          "rainBackup": null,
+          "timeline": [
+            {
+              "start": "07:00",
+              "end": "07:30",
+              "kind": "meal",
+              "title": "Up and breakfast"
+            },
+            {
+              "start": "07:30",
+              "end": "07:40",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "07:40",
+              "end": "08:00",
+              "kind": "routine",
+              "title": "Get ready to go",
+              "detail": "Shoes on, diaper bag, water and a snack."
+            },
+            {
+              "start": "08:00",
+              "end": "08:20",
+              "kind": "travel",
+              "title": "Drive to Beech Bluff County Park"
+            },
+            {
+              "start": "08:20",
+              "end": "11:00",
+              "kind": "outing",
+              "title": "Beech Bluff County Park"
+            },
+            {
+              "start": "11:00",
+              "end": "11:20",
+              "kind": "travel",
+              "title": "Drive home"
+            },
+            {
+              "start": "11:20",
+              "end": "11:50",
+              "kind": "meal",
+              "title": "Lunch"
+            },
+            {
+              "start": "11:50",
+              "end": "12:00",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "12:00",
+              "end": "14:00",
+              "kind": "nap",
+              "title": "Nap"
+            },
+            {
+              "start": "14:00",
+              "end": "14:20",
+              "kind": "routine",
+              "title": "Up and a snack"
+            },
+            {
+              "start": "14:20",
+              "end": "17:30",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "17:30",
+              "end": "18:15",
+              "kind": "meal",
+              "title": "Dinner"
+            },
+            {
+              "start": "18:15",
+              "end": "19:00",
+              "kind": "routine",
+              "title": "Bath, books and bed"
+            }
+          ]
+        },
+        {
+          "nap": "late-nap",
+          "napLabel": "One nap, 1 to 3",
+          "headline": "Muddy Boots nature walk at Whippoorwill Park",
+          "main": {
+            "ref": "event:durham-rec:19863",
+            "arrive": "09:50",
+            "leave": "11:00",
+            "why": "Muddy Boots at Whippoorwill Park is an outdoor nature program for 1–6 year olds where a ranger reads a nature-themed book then leads a walk to discover what is living right outside. A lovely unhurried outdoor morning in Durham well before the nap.",
+            "tips": [
+              "Registration is required; sign up ahead of time.",
+              "Dress the child in layers and old clothes — mud and wet grass are part of the fun.",
+              "The picnic shelter at the park is the meeting point; arrive a few minutes early to settle in."
+            ],
+            "interests": [
+              "nature",
+              "stories"
+            ],
+            "also": [],
+            "area": "durham",
+            "outdoor": true,
+            "source": {
+              "kind": "event",
+              "title": "Muddy Boots",
+              "start": "2026-11-03T10:00:00",
+              "end": "2026-11-03T11:00:00",
+              "venue": "Whippoorwill Park",
+              "address": "1632 Rowemont Dr, Durham, NC",
+              "url": "https://apm.activecommunities.com/dprplaymore/Activity_Search/muddy-boots/19863?locale=en-US",
+              "cost": null,
+              "ages": "1 - 6",
+              "registration": "https://apm.activecommunities.com/dprplaymore/Activity_Search/muddy-boots/19863?locale=en-US",
+              "indoor": false,
+              "area": "durham",
+              "source": "durham-rec",
+              "dropIn": false,
+              "lat": 36.047740000000005,
+              "lon": -78.92395166666667
+            }
+          },
+          "alternatives": [
+            {
+              "ref": "event:wake-parks:8358:2026-11-03",
+              "arrive": "08:20",
+              "leave": "11:00",
+              "also": [
+                {
+                  "ref": "event:wake:22485",
+                  "source": {
+                    "kind": "event",
+                    "title": "Family Storytime @ Beech Bluff County Park",
+                    "start": "2026-11-03T10:30:00-05:00",
+                    "end": "2026-11-03T11:00:00-05:00",
+                    "venue": "Beech Bluff County Park",
+                    "address": "Beech Bluff Park Drive, Fuquay-Varina, NC",
+                    "url": "https://www.wake.gov/events/family-storytime-beech-bluff-county-park-9",
+                    "cost": "Free",
+                    "ages": "Young Children",
+                    "registration": null,
+                    "indoor": true,
+                    "area": "south-wake",
+                    "source": "wake-county",
+                    "dropIn": false,
+                    "lat": 35.58537279715877,
+                    "lon": -78.6793341971644
+                  }
+                }
+              ],
+              "why": "The StoryWalk and Family Storytime both happen at Beech Bluff County Park — walk the outdoor story loop then settle in for live storytime at 10:30, all in one south Wake morning.",
+              "tips": [
+                "Arrive at 08:20 to walk the story loop while the park is quiet.",
+                "Family Storytime starts at 10:30 in the same spot.",
+                "Leave by 11:00 to get home well before the nap."
+              ],
+              "interests": [
+                "stories",
+                "nature"
+              ],
+              "area": "south-wake",
+              "outdoor": true,
+              "source": {
+                "kind": "event",
+                "title": "Beech Bluff County Park StoryWalk® 2026 (Self-Led)",
+                "start": "2026-11-03T08:00:00",
+                "end": "2026-11-03T17:30:00",
+                "venue": "Beech Bluff County Park",
+                "address": "Beech Bluff Park Drive, Fuquay-Varina, NC",
+                "url": "https://apm.activecommunities.com/wakeparks/Activity_Search/beech-bluff-county-park-storywalk-2026-self-led/8358?locale=en-US",
+                "cost": "Free",
+                "ages": null,
+                "registration": false,
+                "indoor": false,
+                "area": "south-wake",
+                "source": "wake-parks",
+                "dropIn": true,
+                "lat": 35.58537279715877,
+                "lon": -78.6793341971644
+              }
+            },
+            {
+              "ref": "place:ncma-museum-park",
+              "arrive": "09:00",
+              "leave": "11:00",
+              "why": "The NC Museum of Art Museum Park has 164 acres of free trails and outdoor sculptures — a beautiful open morning in Raleigh before the long nap.",
+              "tips": [
+                "Arrive at 09:00 before the park fills up.",
+                "The Capital Area Greenway is great for a stroller walk.",
+                "Bring a snack and water for the wander."
+              ],
+              "interests": [
+                "art",
+                "nature"
+              ],
+              "also": [],
+              "area": "raleigh",
+              "outdoor": true,
+              "source": {
+                "kind": "garden",
+                "title": "NC Museum of Art Museum Park",
+                "address": "2110 Blue Ridge Rd, Raleigh, NC 27607",
+                "url": "https://ncartmuseum.org/museum-park/",
+                "amenities": [
+                  "garden",
+                  "nature",
+                  "greenway",
+                  "restroom"
+                ],
+                "indoor": false,
+                "area": "raleigh",
+                "hours": {
+                  "sun": "dawn to dusk",
+                  "mon": "dawn to dusk",
+                  "tue": "dawn to dusk",
+                  "wed": "dawn to dusk",
+                  "thu": "dawn to dusk",
+                  "fri": "dawn to dusk",
+                  "sat": "dawn to dusk"
+                },
+                "lat": 35.8105,
+                "lon": -78.7022,
+                "cost": "Free",
+                "note": "Free. 164 acres of trails, lawns and big outdoor art; the Capital Area Greenway runs through."
+              }
+            },
+            {
+              "ref": "event:museum:durham-central-park:13932",
+              "arrive": "10:50",
+              "leave": "12:30",
+              "why": "The Kids Voting Event at Durham Central Park is a free outdoor drop-in with open park space — a lively late-morning outing in Durham before heading home for the nap.",
+              "tips": [
+                "Arrive at 10:50 when the event opens.",
+                "Durham Central Park has plenty of open lawn for a toddler to run around.",
+                "Leave by 12:30 to get home in time for lunch before the nap."
+              ],
+              "interests": [
+                "movement",
+                "nature"
+              ],
+              "also": [],
+              "area": "durham",
+              "outdoor": true,
+              "source": {
+                "kind": "event",
+                "title": "Kids Voting Event",
+                "start": "2026-11-03T11:00:00",
+                "end": "2026-11-03T16:00:00",
+                "venue": "Durham Central Park",
+                "address": "501 Foster Street, Durham, NC, 27701",
+                "url": "https://durhamcentralpark.org/upcoming-event/kids-voting-event/",
+                "cost": null,
+                "ages": "We invite all youth of all ages to come and participate in our event !",
+                "registration": null,
+                "indoor": false,
+                "area": "durham",
+                "source": "museum",
+                "dropIn": true,
+                "lat": 36.0008,
+                "lon": -78.9021
+              }
+            },
+            {
+              "ref": "event:wake:22929",
+              "arrive": "16:20",
+              "leave": "17:30",
+              "also": [
+                {
+                  "ref": "event:wake:23524",
+                  "source": {
+                    "kind": "event",
+                    "title": "Stay and Play",
+                    "start": "2026-11-03T17:00:00-05:00",
+                    "end": "2026-11-03T17:30:00-05:00",
+                    "venue": "Athens Drive Community Library",
+                    "address": "1420 Athens Drive, Raleigh, NC, 27606",
+                    "url": "https://www.eventbrite.com/e/stay-and-play-tickets-2000782989782",
+                    "cost": "Free",
+                    "ages": "Young Children",
+                    "registration": "https://www.eventbrite.com/e/stay-and-play-tickets-2000782989782",
+                    "indoor": true,
+                    "area": "raleigh",
+                    "source": "wake-county",
+                    "dropIn": false,
+                    "lat": 35.7682600041562,
+                    "lon": -78.7107215103108
+                  }
+                }
+              ],
+              "why": "Family Storytime followed by Stay and Play at Athens Drive Library is a free indoor afternoon double after the nap — books, music and movement then free-build play.",
+              "tips": [
+                "Both programs require registration; book ahead.",
+                "Stay and Play runs straight after storytime in the same spot.",
+                "Leave by 17:30 to get home for dinner and the bedtime routine."
+              ],
+              "interests": [
+                "stories",
+                "music",
+                "movement"
+              ],
+              "area": "raleigh",
+              "outdoor": false,
+              "source": {
+                "kind": "event",
+                "title": "Family Storytime",
+                "start": "2026-11-03T16:30:00-05:00",
+                "end": "2026-11-03T17:00:00-05:00",
+                "venue": "Athens Drive Community Library",
+                "address": "1420 Athens Drive, Raleigh, NC, 27606",
+                "url": "https://www.eventbrite.com/e/family-storytime-tickets-1998851350196",
+                "cost": "Free",
+                "ages": "Young Children",
+                "registration": "https://www.eventbrite.com/e/family-storytime-tickets-1998851350196",
+                "indoor": true,
+                "area": "raleigh",
+                "source": "wake-county",
+                "dropIn": false,
+                "lat": 35.7682600041562,
+                "lon": -78.7107215103108
+              }
+            }
+          ],
+          "rainBackup": null,
+          "timeline": [
+            {
+              "start": "07:00",
+              "end": "07:30",
+              "kind": "meal",
+              "title": "Up and breakfast"
+            },
+            {
+              "start": "07:30",
+              "end": "09:10",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "09:10",
+              "end": "09:30",
+              "kind": "routine",
+              "title": "Get ready to go",
+              "detail": "Shoes on, diaper bag, water and a snack."
+            },
+            {
+              "start": "09:30",
+              "end": "09:50",
+              "kind": "travel",
+              "title": "Drive to Whippoorwill Park"
+            },
+            {
+              "start": "09:50",
+              "end": "11:00",
+              "kind": "outing",
+              "title": "Whippoorwill Park"
+            },
+            {
+              "start": "11:00",
+              "end": "11:20",
+              "kind": "travel",
+              "title": "Drive home"
+            },
+            {
+              "start": "11:20",
+              "end": "12:15",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "12:15",
+              "end": "12:45",
+              "kind": "meal",
+              "title": "Lunch"
+            },
+            {
+              "start": "12:45",
+              "end": "13:00",
+              "kind": "quiet",
+              "title": "Wind down",
+              "detail": "A couple of books to settle."
+            },
+            {
+              "start": "13:00",
+              "end": "15:00",
+              "kind": "nap",
+              "title": "Nap"
+            },
+            {
+              "start": "15:00",
+              "end": "15:20",
+              "kind": "routine",
+              "title": "Up and a snack"
+            },
+            {
+              "start": "15:20",
+              "end": "18:00",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "18:00",
+              "end": "18:45",
+              "kind": "meal",
+              "title": "Dinner"
+            },
+            {
+              "start": "18:45",
+              "end": "19:30",
+              "kind": "routine",
+              "title": "Bath, books and bed"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "checked": {
+    "at": "2026-11-01T11:03:30.204Z",
+    "forecast": "nws",
+    "weather": {
+      "period": "Tuesday",
+      "tempF": 77,
+      "precipProbability": 0,
+      "shortForecast": "Sunny",
+      "hours": [
+        {
+          "t": "05:00",
+          "tempF": 51,
+          "pop": 0
+        },
+        {
+          "t": "06:00",
+          "tempF": 50,
+          "pop": 0
+        },
+        {
+          "t": "07:00",
+          "tempF": 50,
+          "pop": 0
+        },
+        {
+          "t": "08:00",
+          "tempF": 54,
+          "pop": 0
+        },
+        {
+          "t": "09:00",
+          "tempF": 60,
+          "pop": 0
+        },
+        {
+          "t": "10:00",
+          "tempF": 65,
+          "pop": 0
+        },
+        {
+          "t": "11:00",
+          "tempF": 69,
+          "pop": 0
+        },
+        {
+          "t": "12:00",
+          "tempF": 72,
+          "pop": 0
+        },
+        {
+          "t": "13:00",
+          "tempF": 75,
+          "pop": 0
+        },
+        {
+          "t": "14:00",
+          "tempF": 76,
+          "pop": 0
+        },
+        {
+          "t": "15:00",
+          "tempF": 77,
+          "pop": 0
+        },
+        {
+          "t": "16:00",
+          "tempF": 75,
+          "pop": 0
+        },
+        {
+          "t": "17:00",
+          "tempF": 72,
+          "pop": 0
+        },
+        {
+          "t": "18:00",
+          "tempF": 68,
+          "pop": 0
+        },
+        {
+          "t": "19:00",
+          "tempF": 64,
+          "pop": 0
+        },
+        {
+          "t": "20:00",
+          "tempF": 62,
+          "pop": 0
+        },
+        {
+          "t": "21:00",
+          "tempF": 61,
+          "pop": 0
+        },
+        {
+          "t": "22:00",
+          "tempF": 60,
+          "pop": 0
+        },
+        {
+          "t": "23:00",
+          "tempF": 59,
+          "pop": 0
+        }
+      ]
+    },
+    "hidden": []
+  }
+}

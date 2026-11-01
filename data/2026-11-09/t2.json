@@ -1,0 +1,945 @@
+{
+  "date": "2026-11-09",
+  "band": "t2",
+  "versions": [
+    {
+      "at": "2026-10-27T08:34:38.282Z",
+      "reason": null,
+      "forecast": "none",
+      "weather": null,
+      "plans": [
+        {
+          "nap": "early-nap",
+          "napLabel": "One nap, 12 to 2",
+          "headline": "Historic Oak View County Park morning",
+          "main": {
+            "ref": "place:historic-oak-view-county-park",
+            "arrive": "08:30",
+            "leave": "11:00",
+            "why": "Historic Oak View County Park has farm animals and heritage gardens on a peaceful property that gives a two-year-old animals to meet and paths to wander on a quiet Monday morning.",
+            "tips": [
+              "Arrive early while the animals are most active and the paths are at their calmest.",
+              "The grounds are walkable with a stroller; bring one if your child tires easily.",
+              "Pack a snack for a bench stop partway through to keep the morning going."
+            ],
+            "interests": [
+              "animals",
+              "nature"
+            ],
+            "also": [],
+            "area": "raleigh",
+            "outdoor": true,
+            "source": {
+              "kind": "park",
+              "title": "Historic Oak View County Park",
+              "address": "4028 Carya Dr., Raleigh, NC  27610",
+              "url": "https://www.wakegov.com/departments-government/parks-recreation-and-open-space/all-parks-trails/historic-oak-view-county-park",
+              "amenities": [
+                "picnic-shelter",
+                "restroom",
+                "greenway",
+                "animals",
+                "garden"
+              ],
+              "indoor": false,
+              "area": "raleigh",
+              "hours": null,
+              "lat": 35.76980126731367,
+              "lon": -78.57063248179927,
+              "cost": null
+            }
+          },
+          "alternatives": [
+            {
+              "ref": "place:blue-jay-point-county-park",
+              "arrive": "08:30",
+              "leave": "10:30",
+              "why": "Blue Jay Point sits above Falls Lake with woodland trails, a playground and lake views — an excellent Monday morning nature outing for a curious two-year-old.",
+              "tips": [
+                "Arrive early for the quietest trails and the best light over the lake.",
+                "Paths can be uneven; closed-toe shoes are worth putting on.",
+                "Pack a snack for a mid-walk break."
+              ],
+              "interests": [
+                "nature",
+                "water",
+                "movement"
+              ],
+              "also": [],
+              "area": "north-raleigh",
+              "outdoor": true,
+              "source": {
+                "kind": "park",
+                "title": "Blue Jay Point County Park",
+                "address": "3200 Pleasant Union Church Road, Raleigh, NC 27614",
+                "url": "https://www.wakegov.com/departments-government/parks-recreation-and-open-space/all-parks-trails/blue-jay-point-county-park",
+                "amenities": [
+                  "playground",
+                  "picnic-shelter",
+                  "restroom",
+                  "greenway",
+                  "nature"
+                ],
+                "indoor": false,
+                "area": "north-raleigh",
+                "hours": null,
+                "lat": 35.96762827199893,
+                "lon": -78.64454785104198,
+                "cost": null
+              }
+            },
+            {
+              "ref": "event:libcal:durham-county-library:17592395",
+              "also": [
+                {
+                  "ref": "place:durham-central-park",
+                  "source": {
+                    "kind": "park",
+                    "title": "Durham Central Park",
+                    "address": "501 Foster St, Durham, NC",
+                    "url": "https://www.dprplaymore.org/Facilities/Facility/Details/Durham-Central-Park-18",
+                    "amenities": [
+                      "playground",
+                      "restroom",
+                      "greenway"
+                    ],
+                    "indoor": false,
+                    "area": "durham",
+                    "hours": null,
+                    "lat": 36.0006525,
+                    "lon": -78.90071999999999,
+                    "cost": null
+                  }
+                }
+              ],
+              "arrive": "09:50",
+              "leave": "11:00",
+              "why": "A seasonal storytime at the Hub Farm's 30-acre outdoor learning centre is something different from a standard library visit, rounded off with a run at Durham Central Park.",
+              "tips": [
+                "Registration is required for the storytime; book ahead.",
+                "The Hub Farm is an outdoor space so dress for outside.",
+                "Durham Central Park is right nearby for a quick run after the story."
+              ],
+              "interests": [
+                "stories",
+                "nature",
+                "animals"
+              ],
+              "area": "durham",
+              "outdoor": false,
+              "source": {
+                "kind": "event",
+                "title": "Storytime @ the Hub Farm",
+                "start": "2026-11-09T10:00:00",
+                "end": "2026-11-09T10:30:00",
+                "venue": "Durham County Library",
+                "address": "501 Foster St, Durham, NC",
+                "url": "https://durhamcountylibrary.libcal.com/event/17592395",
+                "cost": null,
+                "ages": "Pre-School, Toddler",
+                "registration": "https://durhamcountylibrary.libcal.com/event/17592395",
+                "indoor": true,
+                "area": "durham",
+                "source": "libcal",
+                "dropIn": false,
+                "lat": 36.0006525,
+                "lon": -78.90071999999999
+              }
+            },
+            {
+              "ref": "place:burton-park",
+              "also": [
+                {
+                  "ref": "event:durham-rec:19772:2026-11-09",
+                  "source": {
+                    "kind": "event",
+                    "title": "Total Tot Time",
+                    "start": "2026-11-09T10:00:00",
+                    "end": "2026-11-09T12:00:00",
+                    "venue": "W.D. Hill Rec Ctr",
+                    "address": "1308 Fayetteville St, Durham, NC",
+                    "url": "https://apm.activecommunities.com/dprplaymore/Activity_Search/total-tot-time/19772?locale=en-US",
+                    "cost": null,
+                    "ages": "1 - 6",
+                    "registration": "https://apm.activecommunities.com/dprplaymore/Activity_Search/total-tot-time/19772?locale=en-US",
+                    "indoor": true,
+                    "area": "durham",
+                    "source": "durham-rec",
+                    "dropIn": false,
+                    "lat": 35.9797,
+                    "lon": -78.8985
+                  }
+                }
+              ],
+              "arrive": "09:20",
+              "leave": "11:20",
+              "why": "A playground warm-up at Burton Park leads into Total Tot Time at W.D. Hill Rec Ctr, where gym play, a parachute and tunnels fill out the morning for children under five.",
+              "tips": [
+                "Registration is required for Total Tot Time; book your spot before the day.",
+                "Arrive at Burton Park by 09:20 so your child has a good run before the programme begins.",
+                "Plan to leave by 11:20 to be home comfortably before the noon nap."
+              ],
+              "interests": [
+                "movement",
+                "science"
+              ],
+              "area": "durham",
+              "outdoor": false,
+              "source": {
+                "kind": "park",
+                "title": "Burton Park",
+                "address": "1501 Sima Ave, Durham, NC",
+                "url": "https://www.dprplaymore.org/Facilities/Facility/Details/Burton-Park-7",
+                "amenities": [
+                  "playground",
+                  "picnic-shelter"
+                ],
+                "indoor": false,
+                "area": "durham",
+                "hours": null,
+                "lat": 35.97788714285714,
+                "lon": -78.88701714285715,
+                "cost": null
+              }
+            },
+            {
+              "ref": "event:wake-parks:8358:2026-11-09",
+              "arrive": "08:30",
+              "leave": "11:00",
+              "why": "A picture book is posted page by page along an accessible loop trail at Beech Bluff County Park, so story time and a nature walk happen in one trip.",
+              "tips": [
+                "Start early for the best of the morning light.",
+                "The ADA-accessible loop works well with a stroller or wagon.",
+                "Pack a snack to eat at the picnic shelter at the end."
+              ],
+              "interests": [
+                "stories",
+                "nature",
+                "movement"
+              ],
+              "also": [],
+              "area": "south-wake",
+              "outdoor": true,
+              "source": {
+                "kind": "event",
+                "title": "Beech Bluff County Park StoryWalk® 2026 (Self-Led)",
+                "start": "2026-11-09T08:00:00",
+                "end": "2026-11-09T17:30:00",
+                "venue": "Beech Bluff County Park",
+                "address": "Beech Bluff Park Drive, Fuquay-Varina, NC",
+                "url": "https://apm.activecommunities.com/wakeparks/Activity_Search/beech-bluff-county-park-storywalk-2026-self-led/8358?locale=en-US",
+                "cost": "Free",
+                "ages": null,
+                "registration": false,
+                "indoor": false,
+                "area": "south-wake",
+                "source": "wake-parks",
+                "dropIn": true,
+                "lat": 35.58537279715877,
+                "lon": -78.6793341971644
+              }
+            }
+          ],
+          "rainBackup": null,
+          "timeline": [
+            {
+              "start": "07:00",
+              "end": "07:30",
+              "kind": "meal",
+              "title": "Up and breakfast"
+            },
+            {
+              "start": "07:30",
+              "end": "07:50",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "07:50",
+              "end": "08:10",
+              "kind": "routine",
+              "title": "Get ready to go",
+              "detail": "Shoes on, diaper bag, water and a snack."
+            },
+            {
+              "start": "08:10",
+              "end": "08:30",
+              "kind": "travel",
+              "title": "Drive to Historic Oak View County Park"
+            },
+            {
+              "start": "08:30",
+              "end": "11:00",
+              "kind": "outing",
+              "title": "Historic Oak View County Park"
+            },
+            {
+              "start": "11:00",
+              "end": "11:20",
+              "kind": "travel",
+              "title": "Drive home"
+            },
+            {
+              "start": "11:20",
+              "end": "11:50",
+              "kind": "meal",
+              "title": "Lunch"
+            },
+            {
+              "start": "11:50",
+              "end": "12:00",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "12:00",
+              "end": "14:00",
+              "kind": "nap",
+              "title": "Nap"
+            },
+            {
+              "start": "14:00",
+              "end": "14:20",
+              "kind": "routine",
+              "title": "Up and a snack"
+            },
+            {
+              "start": "14:20",
+              "end": "18:00",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "18:00",
+              "end": "18:45",
+              "kind": "meal",
+              "title": "Dinner"
+            },
+            {
+              "start": "18:45",
+              "end": "19:30",
+              "kind": "routine",
+              "title": "Bath, books and bed"
+            }
+          ]
+        },
+        {
+          "nap": "late-nap",
+          "napLabel": "One nap, 1 to 3",
+          "headline": "Lake Crabtree County Park morning",
+          "main": {
+            "ref": "place:lake-crabtree-county-park",
+            "arrive": "09:00",
+            "leave": "11:00",
+            "why": "Lake Crabtree County Park wraps a big lake with trails, a playground and open green space — a lovely Monday morning for a two-year-old to roam and spot birds and water from the shore.",
+            "tips": [
+              "Arrive at 09:00 for the calmest trails and the best chance of spotting wildlife on the water.",
+              "The playground is close to the lake trail so you can do both without a long walk.",
+              "Pack a snack and water bottle; a mid-visit break is welcome in a park this size."
+            ],
+            "interests": [
+              "nature",
+              "water",
+              "movement"
+            ],
+            "also": [],
+            "area": "north-raleigh",
+            "outdoor": true,
+            "source": {
+              "kind": "park",
+              "title": "Lake Crabtree County Park",
+              "address": "1400 Aviation Pkwy., Morrisville, NC  27560",
+              "url": "https://www.wakegov.com/departments-government/parks-recreation-and-open-space/all-parks-trails/lake-crabtree-county-park",
+              "amenities": [
+                "playground",
+                "picnic-shelter",
+                "restroom",
+                "greenway",
+                "nature",
+                "garden",
+                "boating"
+              ],
+              "indoor": false,
+              "area": "north-raleigh",
+              "hours": null,
+              "lat": 35.845600151785014,
+              "lon": -78.80104927513673,
+              "cost": null
+            }
+          },
+          "alternatives": [
+            {
+              "ref": "place:historic-oak-view-county-park",
+              "arrive": "08:30",
+              "leave": "11:00",
+              "why": "Farm animals and heritage gardens at Historic Oak View County Park give a two-year-old plenty to look at and wander around on a quiet Monday morning.",
+              "tips": [
+                "Arrive early when the animals are most active.",
+                "Stroller-friendly paths make it easy to cover the whole property.",
+                "Pack a snack for a bench break partway through."
+              ],
+              "interests": [
+                "animals",
+                "nature"
+              ],
+              "also": [],
+              "area": "raleigh",
+              "outdoor": true,
+              "source": {
+                "kind": "park",
+                "title": "Historic Oak View County Park",
+                "address": "4028 Carya Dr., Raleigh, NC  27610",
+                "url": "https://www.wakegov.com/departments-government/parks-recreation-and-open-space/all-parks-trails/historic-oak-view-county-park",
+                "amenities": [
+                  "picnic-shelter",
+                  "restroom",
+                  "greenway",
+                  "animals",
+                  "garden"
+                ],
+                "indoor": false,
+                "area": "raleigh",
+                "hours": null,
+                "lat": 35.76980126731367,
+                "lon": -78.57063248179927,
+                "cost": null
+              }
+            },
+            {
+              "ref": "place:crowder-county-park",
+              "arrive": "09:00",
+              "leave": "11:00",
+              "why": "A garden, playground and greenway trails at Crowder County Park give a quiet, uncrowded morning of outdoor discovery in the Cary area.",
+              "tips": [
+                "The garden and playground are close together — easy to move between both.",
+                "Stroller-friendly greenway trails add distance if energy holds.",
+                "Pack a snack and water bottle."
+              ],
+              "interests": [
+                "nature",
+                "movement"
+              ],
+              "also": [],
+              "area": "cary-apex",
+              "outdoor": true,
+              "source": {
+                "kind": "park",
+                "title": "Crowder County Park",
+                "address": "4709 Ten Ten Road",
+                "url": "https://www.wakegov.com/departments-government/parks-recreation-and-open-space/all-parks-trails/crowder-county-park",
+                "amenities": [
+                  "playground",
+                  "picnic-shelter",
+                  "restroom",
+                  "greenway",
+                  "garden"
+                ],
+                "indoor": false,
+                "area": "cary-apex",
+                "hours": null,
+                "lat": 35.69174392711247,
+                "lon": -78.76585678897689,
+                "cost": null
+              }
+            },
+            {
+              "ref": "event:libcal:durham-county-library:17592395",
+              "also": [
+                {
+                  "ref": "place:durham-central-park",
+                  "source": {
+                    "kind": "park",
+                    "title": "Durham Central Park",
+                    "address": "501 Foster St, Durham, NC",
+                    "url": "https://www.dprplaymore.org/Facilities/Facility/Details/Durham-Central-Park-18",
+                    "amenities": [
+                      "playground",
+                      "restroom",
+                      "greenway"
+                    ],
+                    "indoor": false,
+                    "area": "durham",
+                    "hours": null,
+                    "lat": 36.0006525,
+                    "lon": -78.90071999999999,
+                    "cost": null
+                  }
+                }
+              ],
+              "arrive": "09:50",
+              "leave": "11:00",
+              "why": "A seasonal storytime at the Hub Farm's 30-acre outdoor learning centre is a genuinely different outing, followed by a run at Durham Central Park.",
+              "tips": [
+                "Registration is required; book ahead.",
+                "The Hub Farm is an outdoor venue so dress for the weather.",
+                "Durham Central Park is close by for a quick play after the story."
+              ],
+              "interests": [
+                "stories",
+                "nature",
+                "animals"
+              ],
+              "area": "durham",
+              "outdoor": false,
+              "source": {
+                "kind": "event",
+                "title": "Storytime @ the Hub Farm",
+                "start": "2026-11-09T10:00:00",
+                "end": "2026-11-09T10:30:00",
+                "venue": "Durham County Library",
+                "address": "501 Foster St, Durham, NC",
+                "url": "https://durhamcountylibrary.libcal.com/event/17592395",
+                "cost": null,
+                "ages": "Pre-School, Toddler",
+                "registration": "https://durhamcountylibrary.libcal.com/event/17592395",
+                "indoor": true,
+                "area": "durham",
+                "source": "libcal",
+                "dropIn": false,
+                "lat": 36.0006525,
+                "lon": -78.90071999999999
+              }
+            },
+            {
+              "ref": "event:wake-parks:8358:2026-11-09",
+              "arrive": "08:30",
+              "leave": "11:00",
+              "why": "Pages of a picture book line an accessible loop trail at Beech Bluff County Park, making story time and a nature walk the same trip.",
+              "tips": [
+                "Start early for the best of the morning.",
+                "The ADA-accessible loop works with a stroller or wagon.",
+                "Bring a snack for the picnic shelter at the end of the trail."
+              ],
+              "interests": [
+                "stories",
+                "nature",
+                "movement"
+              ],
+              "also": [],
+              "area": "south-wake",
+              "outdoor": true,
+              "source": {
+                "kind": "event",
+                "title": "Beech Bluff County Park StoryWalk® 2026 (Self-Led)",
+                "start": "2026-11-09T08:00:00",
+                "end": "2026-11-09T17:30:00",
+                "venue": "Beech Bluff County Park",
+                "address": "Beech Bluff Park Drive, Fuquay-Varina, NC",
+                "url": "https://apm.activecommunities.com/wakeparks/Activity_Search/beech-bluff-county-park-storywalk-2026-self-led/8358?locale=en-US",
+                "cost": "Free",
+                "ages": null,
+                "registration": false,
+                "indoor": false,
+                "area": "south-wake",
+                "source": "wake-parks",
+                "dropIn": true,
+                "lat": 35.58537279715877,
+                "lon": -78.6793341971644
+              }
+            }
+          ],
+          "rainBackup": null,
+          "timeline": [
+            {
+              "start": "07:00",
+              "end": "07:30",
+              "kind": "meal",
+              "title": "Up and breakfast"
+            },
+            {
+              "start": "07:30",
+              "end": "08:20",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "08:20",
+              "end": "08:40",
+              "kind": "routine",
+              "title": "Get ready to go",
+              "detail": "Shoes on, diaper bag, water and a snack."
+            },
+            {
+              "start": "08:40",
+              "end": "09:00",
+              "kind": "travel",
+              "title": "Drive to Lake Crabtree County Park"
+            },
+            {
+              "start": "09:00",
+              "end": "11:00",
+              "kind": "outing",
+              "title": "Lake Crabtree County Park"
+            },
+            {
+              "start": "11:00",
+              "end": "11:20",
+              "kind": "travel",
+              "title": "Drive home"
+            },
+            {
+              "start": "11:20",
+              "end": "12:15",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "12:15",
+              "end": "12:45",
+              "kind": "meal",
+              "title": "Lunch"
+            },
+            {
+              "start": "12:45",
+              "end": "13:00",
+              "kind": "quiet",
+              "title": "Wind down",
+              "detail": "A couple of books to settle."
+            },
+            {
+              "start": "13:00",
+              "end": "15:00",
+              "kind": "nap",
+              "title": "Nap"
+            },
+            {
+              "start": "15:00",
+              "end": "15:20",
+              "kind": "routine",
+              "title": "Up and a snack"
+            },
+            {
+              "start": "15:20",
+              "end": "18:30",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "18:30",
+              "end": "19:15",
+              "kind": "meal",
+              "title": "Dinner"
+            },
+            {
+              "start": "19:15",
+              "end": "20:00",
+              "kind": "routine",
+              "title": "Bath, books and bed"
+            }
+          ]
+        },
+        {
+          "nap": "short-nap",
+          "napLabel": "Short nap, 1 to 2",
+          "headline": "Crowder County Park morning in Cary",
+          "main": {
+            "ref": "place:crowder-county-park",
+            "arrive": "09:00",
+            "leave": "11:00",
+            "why": "Crowder County Park has a garden, playground and greenway trails that give a two-year-old a full two-hour morning of outdoor discovery in a quiet, uncrowded spot in Cary.",
+            "tips": [
+              "The garden area rewards slow wandering — plants and textures keep little hands busy.",
+              "The greenway trail is stroller-friendly; bring the buggy if your child likes to mix walking and riding.",
+              "Leave when energy starts to flag so there is plenty of fuel left for lunch and the nap."
+            ],
+            "interests": [
+              "nature",
+              "movement"
+            ],
+            "also": [],
+            "area": "cary-apex",
+            "outdoor": true,
+            "source": {
+              "kind": "park",
+              "title": "Crowder County Park",
+              "address": "4709 Ten Ten Road",
+              "url": "https://www.wakegov.com/departments-government/parks-recreation-and-open-space/all-parks-trails/crowder-county-park",
+              "amenities": [
+                "playground",
+                "picnic-shelter",
+                "restroom",
+                "greenway",
+                "garden"
+              ],
+              "indoor": false,
+              "area": "cary-apex",
+              "hours": null,
+              "lat": 35.69174392711247,
+              "lon": -78.76585678897689,
+              "cost": null
+            }
+          },
+          "alternatives": [
+            {
+              "ref": "place:historic-oak-view-county-park",
+              "arrive": "08:30",
+              "leave": "11:00",
+              "why": "Farm animals and heritage gardens at Historic Oak View County Park make for a memorable Monday morning with a two-year-old — animals to meet and peaceful paths to wander.",
+              "tips": [
+                "Arrive early when the animals are at their liveliest.",
+                "The whole property is walkable with a stroller.",
+                "Pack a snack for a mid-visit bench break."
+              ],
+              "interests": [
+                "animals",
+                "nature"
+              ],
+              "also": [],
+              "area": "raleigh",
+              "outdoor": true,
+              "source": {
+                "kind": "park",
+                "title": "Historic Oak View County Park",
+                "address": "4028 Carya Dr., Raleigh, NC  27610",
+                "url": "https://www.wakegov.com/departments-government/parks-recreation-and-open-space/all-parks-trails/historic-oak-view-county-park",
+                "amenities": [
+                  "picnic-shelter",
+                  "restroom",
+                  "greenway",
+                  "animals",
+                  "garden"
+                ],
+                "indoor": false,
+                "area": "raleigh",
+                "hours": null,
+                "lat": 35.76980126731367,
+                "lon": -78.57063248179927,
+                "cost": null
+              }
+            },
+            {
+              "ref": "place:lake-crabtree-county-park",
+              "arrive": "09:00",
+              "leave": "11:00",
+              "why": "Lake Crabtree County Park offers trails, a lake shore and a playground all in one — a lovely Monday morning of water-watching and wandering for a two-year-old.",
+              "tips": [
+                "Arrive at 09:00 for the quietest trails of the day.",
+                "The playground and the lake trail are close together — easy to do both.",
+                "Pack water and a snack for the walk."
+              ],
+              "interests": [
+                "nature",
+                "water",
+                "movement"
+              ],
+              "also": [],
+              "area": "north-raleigh",
+              "outdoor": true,
+              "source": {
+                "kind": "park",
+                "title": "Lake Crabtree County Park",
+                "address": "1400 Aviation Pkwy., Morrisville, NC  27560",
+                "url": "https://www.wakegov.com/departments-government/parks-recreation-and-open-space/all-parks-trails/lake-crabtree-county-park",
+                "amenities": [
+                  "playground",
+                  "picnic-shelter",
+                  "restroom",
+                  "greenway",
+                  "nature",
+                  "garden",
+                  "boating"
+                ],
+                "indoor": false,
+                "area": "north-raleigh",
+                "hours": null,
+                "lat": 35.845600151785014,
+                "lon": -78.80104927513673,
+                "cost": null
+              }
+            },
+            {
+              "ref": "event:libcal:durham-county-library:17592395",
+              "also": [
+                {
+                  "ref": "place:durham-central-park",
+                  "source": {
+                    "kind": "park",
+                    "title": "Durham Central Park",
+                    "address": "501 Foster St, Durham, NC",
+                    "url": "https://www.dprplaymore.org/Facilities/Facility/Details/Durham-Central-Park-18",
+                    "amenities": [
+                      "playground",
+                      "restroom",
+                      "greenway"
+                    ],
+                    "indoor": false,
+                    "area": "durham",
+                    "hours": null,
+                    "lat": 36.0006525,
+                    "lon": -78.90071999999999,
+                    "cost": null
+                  }
+                }
+              ],
+              "arrive": "09:50",
+              "leave": "11:00",
+              "why": "A seasonal storytime at the Hub Farm's 30-acre outdoor learning centre stands out from a standard library visit, rounded off with a run at Durham Central Park.",
+              "tips": [
+                "Registration is required for the storytime; book ahead.",
+                "The Hub Farm is an outdoor venue so dress for the weather.",
+                "Durham Central Park is close by for a play after the story."
+              ],
+              "interests": [
+                "stories",
+                "nature",
+                "animals"
+              ],
+              "area": "durham",
+              "outdoor": false,
+              "source": {
+                "kind": "event",
+                "title": "Storytime @ the Hub Farm",
+                "start": "2026-11-09T10:00:00",
+                "end": "2026-11-09T10:30:00",
+                "venue": "Durham County Library",
+                "address": "501 Foster St, Durham, NC",
+                "url": "https://durhamcountylibrary.libcal.com/event/17592395",
+                "cost": null,
+                "ages": "Pre-School, Toddler",
+                "registration": "https://durhamcountylibrary.libcal.com/event/17592395",
+                "indoor": true,
+                "area": "durham",
+                "source": "libcal",
+                "dropIn": false,
+                "lat": 36.0006525,
+                "lon": -78.90071999999999
+              }
+            },
+            {
+              "ref": "event:wake-parks:8358:2026-11-09",
+              "arrive": "08:30",
+              "leave": "11:00",
+              "why": "A picture book is spread page by page along an accessible loop trail at Beech Bluff County Park, combining story time and a nature walk in one easy trip.",
+              "tips": [
+                "Start early to leave plenty of time before the drive home and nap.",
+                "The ADA-accessible loop is stroller-friendly throughout.",
+                "Pack a snack to eat at the picnic shelter at the end."
+              ],
+              "interests": [
+                "stories",
+                "nature",
+                "movement"
+              ],
+              "also": [],
+              "area": "south-wake",
+              "outdoor": true,
+              "source": {
+                "kind": "event",
+                "title": "Beech Bluff County Park StoryWalk® 2026 (Self-Led)",
+                "start": "2026-11-09T08:00:00",
+                "end": "2026-11-09T17:30:00",
+                "venue": "Beech Bluff County Park",
+                "address": "Beech Bluff Park Drive, Fuquay-Varina, NC",
+                "url": "https://apm.activecommunities.com/wakeparks/Activity_Search/beech-bluff-county-park-storywalk-2026-self-led/8358?locale=en-US",
+                "cost": "Free",
+                "ages": null,
+                "registration": false,
+                "indoor": false,
+                "area": "south-wake",
+                "source": "wake-parks",
+                "dropIn": true,
+                "lat": 35.58537279715877,
+                "lon": -78.6793341971644
+              }
+            }
+          ],
+          "rainBackup": null,
+          "timeline": [
+            {
+              "start": "07:00",
+              "end": "07:30",
+              "kind": "meal",
+              "title": "Up and breakfast"
+            },
+            {
+              "start": "07:30",
+              "end": "08:20",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "08:20",
+              "end": "08:40",
+              "kind": "routine",
+              "title": "Get ready to go",
+              "detail": "Shoes on, diaper bag, water and a snack."
+            },
+            {
+              "start": "08:40",
+              "end": "09:00",
+              "kind": "travel",
+              "title": "Drive to Crowder County Park"
+            },
+            {
+              "start": "09:00",
+              "end": "11:00",
+              "kind": "outing",
+              "title": "Crowder County Park"
+            },
+            {
+              "start": "11:00",
+              "end": "11:20",
+              "kind": "travel",
+              "title": "Drive home"
+            },
+            {
+              "start": "11:20",
+              "end": "12:15",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "12:15",
+              "end": "12:45",
+              "kind": "meal",
+              "title": "Lunch"
+            },
+            {
+              "start": "12:45",
+              "end": "13:00",
+              "kind": "quiet",
+              "title": "Wind down",
+              "detail": "A couple of books to settle."
+            },
+            {
+              "start": "13:00",
+              "end": "14:00",
+              "kind": "nap",
+              "title": "Nap"
+            },
+            {
+              "start": "14:00",
+              "end": "14:20",
+              "kind": "routine",
+              "title": "Up and a snack"
+            },
+            {
+              "start": "14:20",
+              "end": "18:00",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "18:00",
+              "end": "18:45",
+              "kind": "meal",
+              "title": "Dinner"
+            },
+            {
+              "start": "18:45",
+              "end": "19:30",
+              "kind": "routine",
+              "title": "Bath, books and bed"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "checked": {
+    "at": "2026-11-01T11:05:49.151Z",
+    "forecast": "none",
+    "weather": null,
+    "hidden": []
+  }
+}

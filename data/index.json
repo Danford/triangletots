@@ -1,0 +1,411 @@
+{
+  "updated": "2026-11-01T11:19:48.970Z",
+  "days": [
+    {
+      "date": "2026-11-01",
+      "bands": {
+        "t1": {
+          "versions": 1,
+          "updated": "2026-10-27T00:52:54.798Z",
+          "revised": false,
+          "forecast": "nws"
+        },
+        "t2": {
+          "versions": 1,
+          "updated": "2026-10-27T00:54:56.065Z",
+          "revised": false,
+          "forecast": "nws"
+        },
+        "t3": {
+          "versions": 1,
+          "updated": "2026-10-27T00:51:57.664Z",
+          "revised": false,
+          "forecast": "nws"
+        },
+        "t4": {
+          "versions": 1,
+          "updated": "2026-10-27T00:55:50.801Z",
+          "revised": false,
+          "forecast": "nws"
+        }
+      }
+    },
+    {
+      "date": "2026-11-02",
+      "bands": {
+        "t1": {
+          "versions": 1,
+          "updated": "2026-10-27T00:57:02.895Z",
+          "revised": false,
+          "forecast": "nws"
+        },
+        "t2": {
+          "versions": 1,
+          "updated": "2026-10-27T00:58:05.612Z",
+          "revised": false,
+          "forecast": "nws"
+        },
+        "t3": {
+          "versions": 1,
+          "updated": "2026-10-27T00:57:04.423Z",
+          "revised": false,
+          "forecast": "nws"
+        },
+        "t4": {
+          "versions": 1,
+          "updated": "2026-10-27T00:57:13.877Z",
+          "revised": false,
+          "forecast": "nws"
+        }
+      }
+    },
+    {
+      "date": "2026-11-03",
+      "bands": {
+        "t1": {
+          "versions": 1,
+          "updated": "2026-10-27T08:20:11.984Z",
+          "revised": false,
+          "forecast": "nws"
+        },
+        "t2": {
+          "versions": 1,
+          "updated": "2026-10-27T08:20:08.596Z",
+          "revised": false,
+          "forecast": "nws"
+        },
+        "t3": {
+          "versions": 1,
+          "updated": "2026-10-27T08:19:57.429Z",
+          "revised": false,
+          "forecast": "nws"
+        },
+        "t4": {
+          "versions": 1,
+          "updated": "2026-10-27T08:20:08.856Z",
+          "revised": false,
+          "forecast": "nws"
+        }
+      }
+    },
+    {
+      "date": "2026-11-04",
+      "bands": {
+        "t1": {
+          "versions": 1,
+          "updated": "2026-10-27T08:21:27.929Z",
+          "revised": false,
+          "forecast": "nws"
+        },
+        "t2": {
+          "versions": 1,
+          "updated": "2026-10-27T08:21:31.775Z",
+          "revised": false,
+          "forecast": "nws"
+        },
+        "t3": {
+          "versions": 1,
+          "updated": "2026-10-27T08:21:23.664Z",
+          "revised": false,
+          "forecast": "nws"
+        },
+        "t4": {
+          "versions": 1,
+          "updated": "2026-10-27T08:21:39.649Z",
+          "revised": false,
+          "forecast": "nws"
+        }
+      }
+    },
+    {
+      "date": "2026-11-05",
+      "bands": {
+        "t1": {
+          "versions": 2,
+          "updated": "2026-11-01T11:05:15.788Z",
+          "revised": true,
+          "forecast": "nws"
+        },
+        "t2": {
+          "versions": 2,
+          "updated": "2026-11-01T11:05:49.132Z",
+          "revised": true,
+          "forecast": "nws"
+        },
+        "t3": {
+          "versions": 2,
+          "updated": "2026-11-01T11:15:29.088Z",
+          "revised": true,
+          "forecast": "nws"
+        },
+        "t4": {
+          "versions": 2,
+          "updated": "2026-11-01T11:06:04.554Z",
+          "revised": true,
+          "forecast": "nws"
+        }
+      }
+    },
+    {
+      "date": "2026-11-06",
+      "bands": {
+        "t1": {
+          "versions": 1,
+          "updated": "2026-10-27T08:24:06.319Z",
+          "revised": false,
+          "forecast": "nws"
+        },
+        "t2": {
+          "versions": 1,
+          "updated": "2026-10-27T08:24:39.487Z",
+          "revised": false,
+          "forecast": "nws"
+        },
+        "t3": {
+          "versions": 1,
+          "updated": "2026-10-27T08:24:10.873Z",
+          "revised": false,
+          "forecast": "nws"
+        },
+        "t4": {
+          "versions": 1,
+          "updated": "2026-10-27T08:24:02.284Z",
+          "revised": false,
+          "forecast": "nws"
+        }
+      }
+    },
+    {
+      "date": "2026-11-07",
+      "bands": {
+        "t1": {
+          "versions": 1,
+          "updated": "2026-10-27T08:28:03.096Z",
+          "revised": false,
+          "forecast": "nws"
+        },
+        "t2": {
+          "versions": 1,
+          "updated": "2026-10-27T08:25:58.474Z",
+          "revised": false,
+          "forecast": "nws"
+        },
+        "t3": {
+          "versions": 1,
+          "updated": "2026-10-27T08:27:56.577Z",
+          "revised": false,
+          "forecast": "nws"
+        },
+        "t4": {
+          "versions": 1,
+          "updated": "2026-10-27T08:28:51.887Z",
+          "revised": false,
+          "forecast": "nws"
+        }
+      }
+    },
+    {
+      "date": "2026-11-08",
+      "bands": {
+        "t1": {
+          "versions": 1,
+          "updated": "2026-10-27T08:31:55.711Z",
+          "revised": false,
+          "forecast": "none"
+        },
+        "t2": {
+          "versions": 1,
+          "updated": "2026-10-27T08:32:35.830Z",
+          "revised": false,
+          "forecast": "none"
+        },
+        "t3": {
+          "versions": 1,
+          "updated": "2026-10-27T08:32:14.359Z",
+          "revised": false,
+          "forecast": "none"
+        },
+        "t4": {
+          "versions": 1,
+          "updated": "2026-10-27T08:33:19.265Z",
+          "revised": false,
+          "forecast": "none"
+        }
+      }
+    },
+    {
+      "date": "2026-11-09",
+      "bands": {
+        "t1": {
+          "versions": 1,
+          "updated": "2026-10-27T08:34:26.772Z",
+          "revised": false,
+          "forecast": "none"
+        },
+        "t2": {
+          "versions": 1,
+          "updated": "2026-10-27T08:34:38.282Z",
+          "revised": false,
+          "forecast": "none"
+        },
+        "t3": {
+          "versions": 1,
+          "updated": "2026-10-27T08:34:28.551Z",
+          "revised": false,
+          "forecast": "none"
+        },
+        "t4": {
+          "versions": 1,
+          "updated": "2026-10-27T08:34:27.996Z",
+          "revised": false,
+          "forecast": "none"
+        }
+      }
+    },
+    {
+      "date": "2026-11-10",
+      "bands": {
+        "t1": {
+          "versions": 1,
+          "updated": "2026-10-28T05:31:41.929Z",
+          "revised": false,
+          "forecast": "none"
+        },
+        "t2": {
+          "versions": 1,
+          "updated": "2026-10-28T05:29:44.207Z",
+          "revised": false,
+          "forecast": "none"
+        },
+        "t3": {
+          "versions": 1,
+          "updated": "2026-10-28T05:31:16.187Z",
+          "revised": false,
+          "forecast": "none"
+        },
+        "t4": {
+          "versions": 1,
+          "updated": "2026-10-28T05:34:42.778Z",
+          "revised": false,
+          "forecast": "none"
+        }
+      }
+    },
+    {
+      "date": "2026-11-11",
+      "bands": {
+        "t1": {
+          "versions": 1,
+          "updated": "2026-10-31T16:15:35.354Z",
+          "revised": false,
+          "forecast": "none"
+        },
+        "t2": {
+          "versions": 1,
+          "updated": "2026-10-31T16:15:11.162Z",
+          "revised": false,
+          "forecast": "none"
+        },
+        "t3": {
+          "versions": 1,
+          "updated": "2026-10-31T16:19:55.363Z",
+          "revised": false,
+          "forecast": "none"
+        },
+        "t4": {
+          "versions": 1,
+          "updated": "2026-10-31T16:14:04.216Z",
+          "revised": false,
+          "forecast": "none"
+        }
+      }
+    },
+    {
+      "date": "2026-11-12",
+      "bands": {
+        "t1": {
+          "versions": 1,
+          "updated": "2026-11-01T11:06:40.066Z",
+          "revised": false,
+          "forecast": "none"
+        },
+        "t2": {
+          "versions": 1,
+          "updated": "2026-11-01T11:07:35.538Z",
+          "revised": false,
+          "forecast": "none"
+        },
+        "t3": {
+          "versions": 1,
+          "updated": "2026-11-01T11:16:53.270Z",
+          "revised": false,
+          "forecast": "none"
+        },
+        "t4": {
+          "versions": 1,
+          "updated": "2026-11-01T11:13:36.490Z",
+          "revised": false,
+          "forecast": "none"
+        }
+      }
+    },
+    {
+      "date": "2026-11-13",
+      "bands": {
+        "t1": {
+          "versions": 1,
+          "updated": "2026-11-01T11:08:12.232Z",
+          "revised": false,
+          "forecast": "none"
+        },
+        "t2": {
+          "versions": 1,
+          "updated": "2026-11-01T11:09:07.554Z",
+          "revised": false,
+          "forecast": "none"
+        },
+        "t3": {
+          "versions": 1,
+          "updated": "2026-11-01T11:18:02.790Z",
+          "revised": false,
+          "forecast": "none"
+        },
+        "t4": {
+          "versions": 1,
+          "updated": "2026-11-01T11:14:51.859Z",
+          "revised": false,
+          "forecast": "none"
+        }
+      }
+    },
+    {
+      "date": "2026-11-14",
+      "bands": {
+        "t1": {
+          "versions": 1,
+          "updated": "2026-11-01T11:09:55.109Z",
+          "revised": false,
+          "forecast": "none"
+        },
+        "t2": {
+          "versions": 1,
+          "updated": "2026-11-01T11:10:34.324Z",
+          "revised": false,
+          "forecast": "none"
+        },
+        "t3": {
+          "versions": 1,
+          "updated": "2026-11-01T11:19:48.967Z",
+          "revised": false,
+          "forecast": "none"
+        },
+        "t4": {
+          "versions": 1,
+          "updated": "2026-11-01T11:16:16.353Z",
+          "revised": false,
+          "forecast": "none"
+        }
+      }
+    }
+  ]
+}

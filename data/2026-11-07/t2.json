@@ -1,0 +1,909 @@
+{
+  "date": "2026-11-07",
+  "band": "t2",
+  "versions": [
+    {
+      "at": "2026-10-27T08:25:58.474Z",
+      "reason": null,
+      "forecast": "none",
+      "weather": null,
+      "plans": [
+        {
+          "nap": "early-nap",
+          "napLabel": "One nap, 12 to 2",
+          "headline": "Fall Arts Fair at Fred Fletcher Park",
+          "main": {
+            "ref": "event:raleigh:fall-arts-fair",
+            "arrive": "14:50",
+            "leave": "16:30",
+            "why": "A free outdoor art fair at Fred Fletcher Park gives a Saturday afternoon you can drift through at toddler pace — browse, watch artists work, and wander the park between stops.",
+            "tips": [
+              "Arrive around 14:50 when the fair opens; the first hour tends to be calmer before more families arrive.",
+              "Keep snacks in the bag — browsing builds an appetite and there may not be food close by.",
+              "Let your child lead at each stall and stop as long as they like; there is no hurry."
+            ],
+            "interests": [
+              "art",
+              "movement",
+              "nature"
+            ],
+            "also": [],
+            "area": "raleigh",
+            "outdoor": true,
+            "source": {
+              "kind": "event",
+              "title": "Fall Arts Fair",
+              "start": "2026-11-07T15:00:00",
+              "end": "2026-11-07T21:00:00",
+              "venue": "Fred Fletcher Park",
+              "address": "805 Washington St, Raleigh, NC 27605",
+              "url": "https://raleighnc.gov/arts/events/fall-arts-fair",
+              "cost": "Free and open to the public!",
+              "ages": null,
+              "registration": null,
+              "indoor": false,
+              "area": "raleigh",
+              "source": "raleigh",
+              "dropIn": true,
+              "lat": 35.79264,
+              "lon": -78.64957
+            }
+          },
+          "alternatives": [
+            {
+              "ref": "place:nc-botanical-garden",
+              "arrive": "09:00",
+              "leave": "11:00",
+              "why": "The free trails and display gardens at NC Botanical Garden give a two-year-old space to roam and spot plants, seeds and insects at their own pace on a quiet Saturday morning.",
+              "tips": [
+                "Arrive at open for the calmest paths.",
+                "The short forest trails behind the display gardens are just right for little legs.",
+                "Pack a snack to eat before heading home."
+              ],
+              "interests": [
+                "nature",
+                "science"
+              ],
+              "also": [],
+              "area": "chapel-hill",
+              "outdoor": true,
+              "source": {
+                "kind": "garden",
+                "title": "NC Botanical Garden",
+                "address": "100 Old Mason Farm Rd, Chapel Hill, NC 27517",
+                "url": "https://ncbg.unc.edu/visit/",
+                "amenities": [
+                  "garden",
+                  "nature",
+                  "restroom"
+                ],
+                "indoor": false,
+                "area": "chapel-hill",
+                "lat": 35.9011,
+                "lon": -79.0319,
+                "cost": "Free",
+                "note": "Free. Display gardens, and nature trails through the forest behind them."
+              }
+            },
+            {
+              "ref": "event:museum:duke-gardens:17494",
+              "arrive": "14:20",
+              "leave": "15:50",
+              "why": "The Japanese Garden at Duke Gardens is filled with vivid exhibition mums in full fall bloom — a calm and colourful afternoon drop-in with no agenda.",
+              "tips": [
+                "This is a free drop-in; come and go as the mood allows.",
+                "Paths are stroller-friendly throughout.",
+                "A snack in the bag helps bridge the gap home."
+              ],
+              "interests": [
+                "art",
+                "nature"
+              ],
+              "also": [],
+              "area": "durham",
+              "outdoor": true,
+              "source": {
+                "kind": "event",
+                "title": "A Festival of Fabulous Mums",
+                "start": "2026-11-07T10:00:00",
+                "end": "2026-11-07T16:00:00",
+                "venue": "Sarah P. Duke Gardens",
+                "address": "420 Anderson Street, Durham, NC, 27708",
+                "url": "https://gardens.duke.edu/event/a-festival-of-fabulous-mums-5/",
+                "cost": "Free",
+                "ages": "Adult Programs Family programs Festival of Fabulous Mums",
+                "registration": false,
+                "indoor": false,
+                "area": "durham",
+                "source": "museum",
+                "dropIn": true,
+                "lat": 36.0024,
+                "lon": -78.9328
+              }
+            },
+            {
+              "ref": "event:wake-parks:8358:2026-11-07",
+              "arrive": "08:30",
+              "leave": "10:30",
+              "why": "The self-guided StoryWalk at Beech Bluff County Park takes a two-year-old along an accessible loop trail where story pages are posted at each turn, mixing reading, walking and fresh air.",
+              "tips": [
+                "This is a free drop-in; no booking needed.",
+                "The loop is ADA accessible, so a stroller works fine.",
+                "Pack a snack to enjoy at the picnic shelter before heading home."
+              ],
+              "interests": [
+                "stories",
+                "nature",
+                "movement"
+              ],
+              "also": [],
+              "area": "south-wake",
+              "outdoor": true,
+              "source": {
+                "kind": "event",
+                "title": "Beech Bluff County Park StoryWalk® 2026 (Self-Led)",
+                "start": "2026-11-07T08:00:00",
+                "end": "2026-11-07T17:30:00",
+                "venue": "Beech Bluff County Park",
+                "address": "Beech Bluff Park Drive, Fuquay-Varina, NC",
+                "url": "https://apm.activecommunities.com/wakeparks/Activity_Search/beech-bluff-county-park-storywalk-2026-self-led/8358?locale=en-US",
+                "cost": "Free",
+                "ages": null,
+                "registration": false,
+                "indoor": false,
+                "area": "south-wake",
+                "source": "wake-parks",
+                "dropIn": true,
+                "lat": 35.58537279715877,
+                "lon": -78.6793341971644
+              }
+            }
+          ],
+          "rainBackup": null,
+          "timeline": [
+            {
+              "start": "07:00",
+              "end": "07:30",
+              "kind": "meal",
+              "title": "Up and breakfast"
+            },
+            {
+              "start": "07:30",
+              "end": "11:15",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "11:15",
+              "end": "11:45",
+              "kind": "meal",
+              "title": "Lunch"
+            },
+            {
+              "start": "11:45",
+              "end": "12:00",
+              "kind": "quiet",
+              "title": "Wind down",
+              "detail": "A couple of books to settle."
+            },
+            {
+              "start": "12:00",
+              "end": "14:00",
+              "kind": "nap",
+              "title": "Nap"
+            },
+            {
+              "start": "14:00",
+              "end": "14:20",
+              "kind": "routine",
+              "title": "Up and a snack"
+            },
+            {
+              "start": "14:20",
+              "end": "14:30",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "14:30",
+              "end": "14:50",
+              "kind": "travel",
+              "title": "Drive to Fred Fletcher Park"
+            },
+            {
+              "start": "14:50",
+              "end": "16:30",
+              "kind": "outing",
+              "title": "Fred Fletcher Park"
+            },
+            {
+              "start": "16:30",
+              "end": "16:50",
+              "kind": "travel",
+              "title": "Drive home"
+            },
+            {
+              "start": "16:50",
+              "end": "18:00",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "18:00",
+              "end": "18:45",
+              "kind": "meal",
+              "title": "Dinner"
+            },
+            {
+              "start": "18:45",
+              "end": "19:30",
+              "kind": "routine",
+              "title": "Bath, books and bed"
+            }
+          ]
+        },
+        {
+          "nap": "late-nap",
+          "napLabel": "One nap, 1 to 3",
+          "headline": "Durham Farmers' Market at Durham Central Park",
+          "main": {
+            "ref": "event:museum:durham-central-park:13372",
+            "arrive": "09:00",
+            "leave": "12:00",
+            "why": "The Durham Farmers' Market fills Durham Central Park on Saturday morning with produce, flowers and food stalls — a free outdoor wander where a two-year-old can look, touch and take it all in at park pace.",
+            "tips": [
+              "Arrive by 09:00 for the least crowded stalls and easy walking space for little legs.",
+              "Let your child carry a small item from the market — a piece of fruit or a flower — to stay engaged.",
+              "The park has plenty of open space to run between stalls when sitting still runs out."
+            ],
+            "interests": [
+              "nature",
+              "movement",
+              "science"
+            ],
+            "also": [],
+            "area": "durham",
+            "outdoor": true,
+            "source": {
+              "kind": "event",
+              "title": "Durham Farmer’ Market",
+              "start": "2026-11-07T08:00:00",
+              "end": "2026-11-07T12:00:00",
+              "venue": "Durham Central Park",
+              "address": "501 Foster Street, Durham, NC, 27701",
+              "url": "https://durhamcentralpark.org/upcoming-event/durham-farmer-market/2026-11-07/",
+              "cost": null,
+              "ages": null,
+              "registration": null,
+              "indoor": false,
+              "area": "durham",
+              "source": "museum",
+              "dropIn": true,
+              "lat": 36.0008,
+              "lon": -78.9021
+            }
+          },
+          "alternatives": [
+            {
+              "ref": "event:raleigh:fall-arts-fair",
+              "arrive": "15:20",
+              "leave": "17:30",
+              "why": "A free outdoor art fair at Fred Fletcher Park is a relaxed Saturday afternoon browse for little ones — outdoor, at a nice park, and easy to leave whenever the mood shifts.",
+              "tips": [
+                "Arrive at 15:20; the fair runs until late but earlier is calmer for toddlers.",
+                "Snacks in the bag keep spirits up while you browse.",
+                "Let your child set the pace at each stall."
+              ],
+              "interests": [
+                "art",
+                "movement",
+                "nature"
+              ],
+              "also": [],
+              "area": "raleigh",
+              "outdoor": true,
+              "source": {
+                "kind": "event",
+                "title": "Fall Arts Fair",
+                "start": "2026-11-07T15:00:00",
+                "end": "2026-11-07T21:00:00",
+                "venue": "Fred Fletcher Park",
+                "address": "805 Washington St, Raleigh, NC 27605",
+                "url": "https://raleighnc.gov/arts/events/fall-arts-fair",
+                "cost": "Free and open to the public!",
+                "ages": null,
+                "registration": null,
+                "indoor": false,
+                "area": "raleigh",
+                "source": "raleigh",
+                "dropIn": true,
+                "lat": 35.79264,
+                "lon": -78.64957
+              }
+            },
+            {
+              "ref": "place:nc-botanical-garden",
+              "arrive": "09:00",
+              "leave": "11:00",
+              "why": "Free trails and display gardens at NC Botanical Garden give a quiet Saturday morning of plants, seeds and insects at a pace that works for a two-year-old.",
+              "tips": [
+                "Arrive at open for the calmest experience.",
+                "The short forest trails at the back suit little legs well.",
+                "Pack a snack to eat at a picnic spot before the drive home."
+              ],
+              "interests": [
+                "nature",
+                "science"
+              ],
+              "also": [],
+              "area": "chapel-hill",
+              "outdoor": true,
+              "source": {
+                "kind": "garden",
+                "title": "NC Botanical Garden",
+                "address": "100 Old Mason Farm Rd, Chapel Hill, NC 27517",
+                "url": "https://ncbg.unc.edu/visit/",
+                "amenities": [
+                  "garden",
+                  "nature",
+                  "restroom"
+                ],
+                "indoor": false,
+                "area": "chapel-hill",
+                "lat": 35.9011,
+                "lon": -79.0319,
+                "cost": "Free",
+                "note": "Free. Display gardens, and nature trails through the forest behind them."
+              }
+            },
+            {
+              "ref": "event:museum:duke-gardens:17494",
+              "arrive": "09:50",
+              "leave": "11:20",
+              "why": "The Festival of Fabulous Mums fills the Japanese Garden at Duke Gardens with vivid fall colour — a beautiful free drop-in walk for any age.",
+              "tips": [
+                "Arrive just before 10:00; it is a drop-in so no registration needed.",
+                "Strollers handle the paths easily.",
+                "A snack in the bag keeps things smooth on the way home."
+              ],
+              "interests": [
+                "art",
+                "nature"
+              ],
+              "also": [],
+              "area": "durham",
+              "outdoor": true,
+              "source": {
+                "kind": "event",
+                "title": "A Festival of Fabulous Mums",
+                "start": "2026-11-07T10:00:00",
+                "end": "2026-11-07T16:00:00",
+                "venue": "Sarah P. Duke Gardens",
+                "address": "420 Anderson Street, Durham, NC, 27708",
+                "url": "https://gardens.duke.edu/event/a-festival-of-fabulous-mums-5/",
+                "cost": "Free",
+                "ages": "Adult Programs Family programs Festival of Fabulous Mums",
+                "registration": false,
+                "indoor": false,
+                "area": "durham",
+                "source": "museum",
+                "dropIn": true,
+                "lat": 36.0024,
+                "lon": -78.9328
+              }
+            },
+            {
+              "ref": "event:wake-parks:9411:2026-11-07",
+              "arrive": "08:20",
+              "leave": "11:00",
+              "why": "The Exploration Station at Yates Mill marks National Bison Day with hands-on drop-in activities about the conservation of America's national mammal, outside at the millpond park.",
+              "tips": [
+                "Registration is required; book your spot before you go.",
+                "Wear shoes for natural trail surfaces and bring a water bottle.",
+                "A walk around the millpond after the station uses up the rest of the morning nicely."
+              ],
+              "interests": [
+                "animals",
+                "science",
+                "nature"
+              ],
+              "also": [],
+              "area": "raleigh",
+              "outdoor": true,
+              "source": {
+                "kind": "event",
+                "title": "Exploration Station: American Bison",
+                "start": "2026-11-07T08:30:00",
+                "end": "2026-11-07T17:00:00",
+                "venue": "Historic Yates Mill County Park",
+                "address": "4620 Lake Wheeler Rd., Raleigh, NC  27603",
+                "url": "https://apm.activecommunities.com/wakeparks/Activity_Search/exploration-station-american-bison/9411?locale=en-US",
+                "cost": null,
+                "ages": null,
+                "registration": "https://apm.activecommunities.com/wakeparks/Activity_Search/exploration-station-american-bison/9411?locale=en-US",
+                "indoor": false,
+                "area": "raleigh",
+                "source": "wake-parks",
+                "dropIn": false,
+                "lat": 35.72157134974476,
+                "lon": -78.68526087901417
+              }
+            }
+          ],
+          "rainBackup": null,
+          "timeline": [
+            {
+              "start": "07:00",
+              "end": "07:30",
+              "kind": "meal",
+              "title": "Up and breakfast"
+            },
+            {
+              "start": "07:30",
+              "end": "08:20",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "08:20",
+              "end": "08:40",
+              "kind": "routine",
+              "title": "Get ready to go",
+              "detail": "Shoes on, diaper bag, water and a snack."
+            },
+            {
+              "start": "08:40",
+              "end": "09:00",
+              "kind": "travel",
+              "title": "Drive to Durham Central Park"
+            },
+            {
+              "start": "09:00",
+              "end": "12:00",
+              "kind": "outing",
+              "title": "Durham Central Park"
+            },
+            {
+              "start": "12:00",
+              "end": "12:20",
+              "kind": "travel",
+              "title": "Drive home"
+            },
+            {
+              "start": "12:20",
+              "end": "12:50",
+              "kind": "meal",
+              "title": "Lunch"
+            },
+            {
+              "start": "12:50",
+              "end": "13:00",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "13:00",
+              "end": "15:00",
+              "kind": "nap",
+              "title": "Nap"
+            },
+            {
+              "start": "15:00",
+              "end": "15:20",
+              "kind": "routine",
+              "title": "Up and a snack"
+            },
+            {
+              "start": "15:20",
+              "end": "18:30",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "18:30",
+              "end": "19:15",
+              "kind": "meal",
+              "title": "Dinner"
+            },
+            {
+              "start": "19:15",
+              "end": "20:00",
+              "kind": "routine",
+              "title": "Bath, books and bed"
+            }
+          ]
+        },
+        {
+          "nap": "short-nap",
+          "napLabel": "Short nap, 1 to 2",
+          "headline": "Hillside Park then Circle & Square at Stanford L. Warren Library",
+          "main": {
+            "ref": "place:hillside-park",
+            "arrive": "10:25",
+            "leave": "11:45",
+            "why": "A good playground run at Hillside Park leads straight into Circle & Square, a short interactive play for ages 2–5 that blends movement, stories and imagination in a show sized just right for this age.",
+            "tips": [
+              "Registration is required for the 11:15 show; book ahead.",
+              "Arriving at the park first gives your child a proper run so they are ready to sit for the show.",
+              "The play is mostly nonverbal and designed for wiggly audiences — no need for perfect behaviour."
+            ],
+            "interests": [
+              "stories",
+              "movement"
+            ],
+            "also": [
+              {
+                "ref": "event:libcal:durham-county-library:17463480",
+                "source": {
+                  "kind": "event",
+                  "title": "Small is All Productions Presents: Circle & Square @ Stanford L. Warren",
+                  "start": "2026-11-07T11:15:00",
+                  "end": "2026-11-07T11:45:00",
+                  "venue": "Stanford L. Warren Library",
+                  "address": "1201 Fayetteville St, Durham, NC",
+                  "url": "https://durhamcountylibrary.libcal.com/event/17463480",
+                  "cost": null,
+                  "ages": "Baby, Elementary School, Intergenerational, Kindergarten, Pre-School, Toddler",
+                  "registration": "https://durhamcountylibrary.libcal.com/event/17463480",
+                  "indoor": true,
+                  "area": "durham",
+                  "source": "libcal",
+                  "dropIn": false,
+                  "lat": 35.98257910627115,
+                  "lon": -78.89855829826878
+                }
+              }
+            ],
+            "area": "durham",
+            "outdoor": false,
+            "source": {
+              "kind": "park",
+              "title": "Hillside Park",
+              "address": "1301 S Roxboro St, Durham, NC",
+              "url": "https://www.dprplaymore.org/Facilities/Facility/Details/Hillside-Park-32",
+              "amenities": [
+                "playground",
+                "splashpad",
+                "pool",
+                "picnic-shelter",
+                "restroom"
+              ],
+              "indoor": false,
+              "area": "durham",
+              "hours": null,
+              "lat": 35.98093222222222,
+              "lon": -78.90178333333333,
+              "cost": null
+            }
+          },
+          "alternatives": [
+            {
+              "ref": "event:raleigh:fall-arts-fair",
+              "arrive": "14:50",
+              "leave": "16:30",
+              "why": "A free outdoor art fair at Fred Fletcher Park in central Raleigh is an easy Saturday afternoon browse — outdoors, at a park, and simple to leave when energy runs out.",
+              "tips": [
+                "Arrive around 14:50 when the fair opens; the first stretch is the calmest.",
+                "Pack snacks for the walk around the stalls.",
+                "Let your child stop and look as long as they like at anything that catches their eye."
+              ],
+              "interests": [
+                "art",
+                "movement",
+                "nature"
+              ],
+              "also": [],
+              "area": "raleigh",
+              "outdoor": true,
+              "source": {
+                "kind": "event",
+                "title": "Fall Arts Fair",
+                "start": "2026-11-07T15:00:00",
+                "end": "2026-11-07T21:00:00",
+                "venue": "Fred Fletcher Park",
+                "address": "805 Washington St, Raleigh, NC 27605",
+                "url": "https://raleighnc.gov/arts/events/fall-arts-fair",
+                "cost": "Free and open to the public!",
+                "ages": null,
+                "registration": null,
+                "indoor": false,
+                "area": "raleigh",
+                "source": "raleigh",
+                "dropIn": true,
+                "lat": 35.79264,
+                "lon": -78.64957
+              }
+            },
+            {
+              "ref": "event:wake-parks:9411:2026-11-07",
+              "arrive": "08:20",
+              "leave": "11:00",
+              "why": "The Exploration Station at Yates Mill marks National Bison Day with hands-on drop-in activities about America's national mammal, outside at the millpond park — a great morning for animal lovers.",
+              "tips": [
+                "Registration is required; book your spot before you go.",
+                "Wear shoes for natural trail surfaces and bring a water bottle.",
+                "A walk around the millpond after the station makes a nice finish to the morning."
+              ],
+              "interests": [
+                "animals",
+                "science",
+                "nature"
+              ],
+              "also": [],
+              "area": "raleigh",
+              "outdoor": true,
+              "source": {
+                "kind": "event",
+                "title": "Exploration Station: American Bison",
+                "start": "2026-11-07T08:30:00",
+                "end": "2026-11-07T17:00:00",
+                "venue": "Historic Yates Mill County Park",
+                "address": "4620 Lake Wheeler Rd., Raleigh, NC  27603",
+                "url": "https://apm.activecommunities.com/wakeparks/Activity_Search/exploration-station-american-bison/9411?locale=en-US",
+                "cost": null,
+                "ages": null,
+                "registration": "https://apm.activecommunities.com/wakeparks/Activity_Search/exploration-station-american-bison/9411?locale=en-US",
+                "indoor": false,
+                "area": "raleigh",
+                "source": "wake-parks",
+                "dropIn": false,
+                "lat": 35.72157134974476,
+                "lon": -78.68526087901417
+              }
+            },
+            {
+              "ref": "place:nc-botanical-garden",
+              "arrive": "09:00",
+              "leave": "11:30",
+              "why": "The free garden and forest trails at NC Botanical Garden give a quiet morning of plants, seeds and nature discoveries at a pace a two-year-old can set for themselves.",
+              "tips": [
+                "Arrive at open when the paths are emptiest.",
+                "The short forest trails at the back are a great length for little legs.",
+                "Pack a snack to eat on a bench before heading home."
+              ],
+              "interests": [
+                "nature",
+                "science"
+              ],
+              "also": [],
+              "area": "chapel-hill",
+              "outdoor": true,
+              "source": {
+                "kind": "garden",
+                "title": "NC Botanical Garden",
+                "address": "100 Old Mason Farm Rd, Chapel Hill, NC 27517",
+                "url": "https://ncbg.unc.edu/visit/",
+                "amenities": [
+                  "garden",
+                  "nature",
+                  "restroom"
+                ],
+                "indoor": false,
+                "area": "chapel-hill",
+                "lat": 35.9011,
+                "lon": -79.0319,
+                "cost": "Free",
+                "note": "Free. Display gardens, and nature trails through the forest behind them."
+              }
+            },
+            {
+              "ref": "event:museum:duke-gardens:17494",
+              "arrive": "14:20",
+              "leave": "15:50",
+              "why": "The Festival of Fabulous Mums fills the Japanese Garden at Duke Gardens with exhibition mums in peak fall bloom — a free, calm and colourful afternoon drop-in.",
+              "tips": [
+                "This is a free drop-in; arrive at 14:20 and wander until the mood runs out.",
+                "Paths are stroller-friendly throughout the gardens.",
+                "A small snack for the car keeps the evening routine on track."
+              ],
+              "interests": [
+                "art",
+                "nature"
+              ],
+              "also": [],
+              "area": "durham",
+              "outdoor": true,
+              "source": {
+                "kind": "event",
+                "title": "A Festival of Fabulous Mums",
+                "start": "2026-11-07T10:00:00",
+                "end": "2026-11-07T16:00:00",
+                "venue": "Sarah P. Duke Gardens",
+                "address": "420 Anderson Street, Durham, NC, 27708",
+                "url": "https://gardens.duke.edu/event/a-festival-of-fabulous-mums-5/",
+                "cost": "Free",
+                "ages": "Adult Programs Family programs Festival of Fabulous Mums",
+                "registration": false,
+                "indoor": false,
+                "area": "durham",
+                "source": "museum",
+                "dropIn": true,
+                "lat": 36.0024,
+                "lon": -78.9328
+              }
+            }
+          ],
+          "rainBackup": null,
+          "timeline": [
+            {
+              "start": "07:00",
+              "end": "07:30",
+              "kind": "meal",
+              "title": "Up and breakfast"
+            },
+            {
+              "start": "07:30",
+              "end": "09:45",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "09:45",
+              "end": "10:05",
+              "kind": "routine",
+              "title": "Get ready to go",
+              "detail": "Shoes on, diaper bag, water and a snack."
+            },
+            {
+              "start": "10:05",
+              "end": "10:25",
+              "kind": "travel",
+              "title": "Drive to Hillside Park"
+            },
+            {
+              "start": "10:25",
+              "end": "11:05",
+              "kind": "outing",
+              "title": "Hillside Park"
+            },
+            {
+              "start": "11:05",
+              "end": "11:15",
+              "kind": "travel",
+              "title": "Drive to Stanford L. Warren Library"
+            },
+            {
+              "start": "11:15",
+              "end": "11:45",
+              "kind": "outing",
+              "title": "Small is All Productions Presents: Circle & Square @ Stanford L. Warren"
+            },
+            {
+              "start": "11:45",
+              "end": "12:05",
+              "kind": "travel",
+              "title": "Drive home"
+            },
+            {
+              "start": "12:05",
+              "end": "12:15",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "12:15",
+              "end": "12:45",
+              "kind": "meal",
+              "title": "Lunch"
+            },
+            {
+              "start": "12:45",
+              "end": "13:00",
+              "kind": "quiet",
+              "title": "Wind down",
+              "detail": "A couple of books to settle."
+            },
+            {
+              "start": "13:00",
+              "end": "14:00",
+              "kind": "nap",
+              "title": "Nap"
+            },
+            {
+              "start": "14:00",
+              "end": "14:20",
+              "kind": "routine",
+              "title": "Up and a snack"
+            },
+            {
+              "start": "14:20",
+              "end": "18:00",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "18:00",
+              "end": "18:45",
+              "kind": "meal",
+              "title": "Dinner"
+            },
+            {
+              "start": "18:45",
+              "end": "19:30",
+              "kind": "routine",
+              "title": "Bath, books and bed"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "checked": {
+    "at": "2026-11-01T11:05:49.144Z",
+    "forecast": "nws",
+    "weather": {
+      "period": "Saturday",
+      "tempF": 74,
+      "precipProbability": 16,
+      "shortForecast": "Slight Chance Rain Showers then Partly Sunny",
+      "hours": [
+        {
+          "t": "05:00",
+          "tempF": 58,
+          "pop": 16
+        },
+        {
+          "t": "06:00",
+          "tempF": 57,
+          "pop": 16
+        },
+        {
+          "t": "07:00",
+          "tempF": 58,
+          "pop": 9
+        },
+        {
+          "t": "08:00",
+          "tempF": 60,
+          "pop": 9
+        },
+        {
+          "t": "09:00",
+          "tempF": 64,
+          "pop": 9
+        },
+        {
+          "t": "10:00",
+          "tempF": 67,
+          "pop": 9
+        },
+        {
+          "t": "11:00",
+          "tempF": 69,
+          "pop": 9
+        },
+        {
+          "t": "12:00",
+          "tempF": 71,
+          "pop": 9
+        },
+        {
+          "t": "13:00",
+          "tempF": 72,
+          "pop": 7
+        },
+        {
+          "t": "14:00",
+          "tempF": 73,
+          "pop": 7
+        },
+        {
+          "t": "15:00",
+          "tempF": 74,
+          "pop": 7
+        },
+        {
+          "t": "16:00",
+          "tempF": 73,
+          "pop": 7
+        },
+        {
+          "t": "17:00",
+          "tempF": 71,
+          "pop": 7
+        }
+      ]
+    },
+    "hidden": []
+  }
+}

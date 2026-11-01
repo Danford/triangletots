@@ -1,0 +1,1171 @@
+{
+  "date": "2026-11-04",
+  "band": "t3",
+  "versions": [
+    {
+      "at": "2026-10-27T08:21:23.664Z",
+      "reason": null,
+      "forecast": "none",
+      "weather": null,
+      "plans": [
+        {
+          "nap": "nap",
+          "napLabel": "Nap, 1 to 2:30",
+          "headline": "Young Explorers Club at Forest Ridge Park",
+          "main": {
+            "ref": "event:reclink:FROREXPLORER-070",
+            "arrive": "10:20",
+            "leave": "12:00",
+            "why": "A forest educator leads a small group through hands-on outdoor activities at Forest Ridge Park, giving a three-year-old a real taste of nature science in the woods.",
+            "tips": [
+              "Register ahead; this program fills and spots go early.",
+              "Wear shoes that can get muddy and bring a water bottle.",
+              "Head straight to the car at the end so you are home well before nap."
+            ],
+            "interests": [
+              "nature",
+              "science",
+              "movement"
+            ],
+            "also": [],
+            "area": "north-raleigh",
+            "outdoor": true,
+            "source": {
+              "kind": "event",
+              "title": "Jakes and Jennies: Young Explorers Club",
+              "start": "2026-11-04T10:30:00",
+              "end": "2026-11-04T12:00:00",
+              "venue": "Forest Ridge Park",
+              "address": "11405 Falls of Neuse Rd, Raleigh, NC 27587",
+              "url": "https://ncraleighweb.myvscloud.com/webtrac/web/search.html?module=AR",
+              "cost": "$5.00",
+              "ages": "3-6.99",
+              "registration": "https://ncraleighweb.myvscloud.com/webtrac/web/search.html?module=AR",
+              "indoor": false,
+              "area": "north-raleigh",
+              "source": "reclink",
+              "dropIn": false,
+              "lat": 35.96515,
+              "lon": -78.58743
+            }
+          },
+          "alternatives": [
+            {
+              "ref": "place:hill-ridge-farms",
+              "arrive": "09:30",
+              "leave": "12:00",
+              "why": "The fall festival at Hill Ridge Farms lets a three-year-old walk among the animals and explore the farm at a relaxed pace.",
+              "tips": [
+                "Arrive right at opening so you have the most time before the midday nap drive.",
+                "Bring a change of socks in case the ground is damp.",
+                "Leave by noon to be home and settled before nap."
+              ],
+              "interests": [
+                "animals",
+                "nature"
+              ],
+              "also": [],
+              "area": "north-raleigh",
+              "outdoor": true,
+              "source": {
+                "kind": "farm",
+                "title": "Hill Ridge Farms",
+                "address": "703 Tarboro Rd, Youngsville, NC 27596",
+                "url": "https://www.hillridgefarms.com/",
+                "amenities": [
+                  "farm"
+                ],
+                "indoor": false,
+                "area": "north-raleigh",
+                "lat": 36.0161,
+                "lon": -78.4416,
+                "cost": "Tickets at the gate",
+                "note": "Fall festival: tickets at the gate, each with a free pumpkin. Last admission an hour before closing; less busy Wednesday to Friday."
+              }
+            },
+            {
+              "ref": "event:wake-parks:8358:2026-11-04",
+              "arrive": "08:30",
+              "leave": "10:30",
+              "why": "Beech Bluff County Park's self-guided StoryWalk® puts story pages along an accessible trail so the child reads and walks at the same time.",
+              "tips": [
+                "Go early while the trail is quiet and the air is cool.",
+                "Let the child stop at each page and look at the pictures before moving on.",
+                "Bring a snack for a rest at the end of the loop."
+              ],
+              "interests": [
+                "nature",
+                "stories"
+              ],
+              "also": [],
+              "area": "south-wake",
+              "outdoor": true,
+              "source": {
+                "kind": "event",
+                "title": "Beech Bluff County Park StoryWalk® 2026 (Self-Led)",
+                "start": "2026-11-04T08:00:00",
+                "end": "2026-11-04T17:30:00",
+                "venue": "Beech Bluff County Park",
+                "address": "Beech Bluff Park Drive, Fuquay-Varina, NC",
+                "url": "https://apm.activecommunities.com/wakeparks/Activity_Search/beech-bluff-county-park-storywalk-2026-self-led/8358?locale=en-US",
+                "cost": "Free",
+                "ages": null,
+                "registration": false,
+                "indoor": false,
+                "area": "south-wake",
+                "source": "wake-parks",
+                "dropIn": true,
+                "lat": 35.58537279715877,
+                "lon": -78.6793341971644
+              }
+            },
+            {
+              "ref": "event:museum:ncma:5148",
+              "also": [
+                {
+                  "ref": "place:ncma-museum-park",
+                  "source": {
+                    "kind": "garden",
+                    "title": "NC Museum of Art Museum Park",
+                    "address": "2110 Blue Ridge Rd, Raleigh, NC 27607",
+                    "url": "https://ncartmuseum.org/museum-park/",
+                    "amenities": [
+                      "garden",
+                      "nature",
+                      "greenway",
+                      "restroom"
+                    ],
+                    "indoor": false,
+                    "area": "raleigh",
+                    "hours": {
+                      "sun": "dawn to dusk",
+                      "mon": "dawn to dusk",
+                      "tue": "dawn to dusk",
+                      "wed": "dawn to dusk",
+                      "thu": "dawn to dusk",
+                      "fri": "dawn to dusk",
+                      "sat": "dawn to dusk"
+                    },
+                    "lat": 35.8105,
+                    "lon": -78.7022,
+                    "cost": "Free",
+                    "note": "Free. 164 acres of trails, lawns and big outdoor art; the Capital Area Greenway runs through."
+                  }
+                }
+              ],
+              "arrive": "09:50",
+              "leave": "11:30",
+              "why": "The museum's discovery program opens boxes of objects for children to handle and examine, then the sculpture park outside gives them room to run.",
+              "tips": [
+                "Walk-up program; arrive right at opening.",
+                "Pack a snack to eat on the lawn after the program ends.",
+                "Leave while energy is still positive for the drive home."
+              ],
+              "interests": [
+                "art",
+                "nature"
+              ],
+              "area": "raleigh",
+              "outdoor": false,
+              "source": {
+                "kind": "event",
+                "title": "What’s in the Box?",
+                "start": "2026-11-04T10:00:00",
+                "end": "2026-11-04T11:00:00",
+                "venue": "NC Museum of Art",
+                "address": "2110 Blue Ridge Rd, Raleigh, NC 27607",
+                "url": "https://ncartmuseum.org/event/whats-in-the-box-8/",
+                "cost": null,
+                "ages": "Families",
+                "registration": null,
+                "indoor": true,
+                "area": "raleigh",
+                "source": "museum",
+                "dropIn": false,
+                "lat": 35.8105,
+                "lon": -78.7022
+              }
+            },
+            {
+              "ref": "event:durham-rec:19772:2026-11-04",
+              "also": [
+                {
+                  "ref": "place:burton-park",
+                  "source": {
+                    "kind": "park",
+                    "title": "Burton Park",
+                    "address": "1501 Sima Ave, Durham, NC",
+                    "url": "https://www.dprplaymore.org/Facilities/Facility/Details/Burton-Park-7",
+                    "amenities": [
+                      "playground",
+                      "picnic-shelter"
+                    ],
+                    "indoor": false,
+                    "area": "durham",
+                    "hours": null,
+                    "lat": 35.97788714285714,
+                    "lon": -78.88701714285715,
+                    "cost": null
+                  }
+                }
+              ],
+              "arrive": "09:50",
+              "leave": "12:30",
+              "why": "W.D. Hill Rec Center sets up parachutes, tunnels and balls for open gym play; a quick stop at Burton Park adds a breath of fresh air before the drive home.",
+              "tips": [
+                "Registration required; sign up before the day.",
+                "Bring a snack and water for the park stop.",
+                "Leave the park by 12:25 so you are home before nap."
+              ],
+              "interests": [
+                "movement"
+              ],
+              "area": "durham",
+              "outdoor": false,
+              "source": {
+                "kind": "event",
+                "title": "Total Tot Time",
+                "start": "2026-11-04T10:00:00",
+                "end": "2026-11-04T12:00:00",
+                "venue": "W.D. Hill Rec Ctr",
+                "address": "1308 Fayetteville St, Durham, NC",
+                "url": "https://apm.activecommunities.com/dprplaymore/Activity_Search/total-tot-time/19772?locale=en-US",
+                "cost": null,
+                "ages": "1 - 6",
+                "registration": "https://apm.activecommunities.com/dprplaymore/Activity_Search/total-tot-time/19772?locale=en-US",
+                "indoor": true,
+                "area": "durham",
+                "source": "durham-rec",
+                "dropIn": false,
+                "lat": 35.9797,
+                "lon": -78.8985
+              }
+            }
+          ],
+          "rainBackup": null,
+          "timeline": [
+            {
+              "start": "07:00",
+              "end": "07:30",
+              "kind": "meal",
+              "title": "Up and breakfast"
+            },
+            {
+              "start": "07:30",
+              "end": "09:40",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "09:40",
+              "end": "10:00",
+              "kind": "routine",
+              "title": "Get ready to go",
+              "detail": "Shoes on, diaper bag, water and a snack."
+            },
+            {
+              "start": "10:00",
+              "end": "10:20",
+              "kind": "travel",
+              "title": "Drive to Forest Ridge Park"
+            },
+            {
+              "start": "10:20",
+              "end": "12:00",
+              "kind": "outing",
+              "title": "Forest Ridge Park"
+            },
+            {
+              "start": "12:00",
+              "end": "12:20",
+              "kind": "travel",
+              "title": "Drive home"
+            },
+            {
+              "start": "12:20",
+              "end": "12:50",
+              "kind": "meal",
+              "title": "Lunch"
+            },
+            {
+              "start": "12:50",
+              "end": "13:00",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "13:00",
+              "end": "14:30",
+              "kind": "nap",
+              "title": "Nap"
+            },
+            {
+              "start": "14:30",
+              "end": "14:50",
+              "kind": "routine",
+              "title": "Up and a snack"
+            },
+            {
+              "start": "14:50",
+              "end": "18:30",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "18:30",
+              "end": "19:15",
+              "kind": "meal",
+              "title": "Dinner"
+            },
+            {
+              "start": "19:15",
+              "end": "20:00",
+              "kind": "routine",
+              "title": "Bath, books and bed"
+            }
+          ]
+        },
+        {
+          "nap": "quiet",
+          "napLabel": "Quiet time, no sleep",
+          "headline": "NC Museum of Art Museum Park and What's in the Box?",
+          "main": {
+            "ref": "place:ncma-museum-park",
+            "also": [
+              {
+                "ref": "event:museum:ncma:5148",
+                "source": {
+                  "kind": "event",
+                  "title": "What’s in the Box?",
+                  "start": "2026-11-04T10:00:00",
+                  "end": "2026-11-04T11:00:00",
+                  "venue": "NC Museum of Art",
+                  "address": "2110 Blue Ridge Rd, Raleigh, NC 27607",
+                  "url": "https://ncartmuseum.org/event/whats-in-the-box-8/",
+                  "cost": null,
+                  "ages": "Families",
+                  "registration": null,
+                  "indoor": true,
+                  "area": "raleigh",
+                  "source": "museum",
+                  "dropIn": false,
+                  "lat": 35.8105,
+                  "lon": -78.7022
+                }
+              }
+            ],
+            "arrive": "09:30",
+            "leave": "11:00",
+            "why": "Wide lawns and big outdoor sculptures give little legs room to move before heading inside for a hands-on discovery program where children open mystery boxes full of objects to touch and examine.",
+            "tips": [
+              "Let the child run on the grass for a good 20 minutes before going in so the indoor time feels easy.",
+              "Bring a small snack to eat on the lawn on the way back to the car.",
+              "Leave while spirits are still high; the walk back across the park is a natural wind-down before the drive home."
+            ],
+            "interests": [
+              "art",
+              "nature"
+            ],
+            "area": "raleigh",
+            "outdoor": false,
+            "source": {
+              "kind": "garden",
+              "title": "NC Museum of Art Museum Park",
+              "address": "2110 Blue Ridge Rd, Raleigh, NC 27607",
+              "url": "https://ncartmuseum.org/museum-park/",
+              "amenities": [
+                "garden",
+                "nature",
+                "greenway",
+                "restroom"
+              ],
+              "indoor": false,
+              "area": "raleigh",
+              "hours": {
+                "sun": "dawn to dusk",
+                "mon": "dawn to dusk",
+                "tue": "dawn to dusk",
+                "wed": "dawn to dusk",
+                "thu": "dawn to dusk",
+                "fri": "dawn to dusk",
+                "sat": "dawn to dusk"
+              },
+              "lat": 35.8105,
+              "lon": -78.7022,
+              "cost": "Free",
+              "note": "Free. 164 acres of trails, lawns and big outdoor art; the Capital Area Greenway runs through."
+            }
+          },
+          "alternatives": [
+            {
+              "ref": "event:reclink:FROREXPLORER-070",
+              "arrive": "10:20",
+              "leave": "12:00",
+              "why": "An outdoor guided nature program at Forest Ridge Park that leads a small group of three-to-six-year-olds through hands-on discovery in the woods.",
+              "tips": [
+                "Register ahead; this fills quickly.",
+                "Wear clothes that can get dirty and closed-toe shoes.",
+                "You will be home well before quiet time."
+              ],
+              "interests": [
+                "nature",
+                "science"
+              ],
+              "also": [],
+              "area": "north-raleigh",
+              "outdoor": true,
+              "source": {
+                "kind": "event",
+                "title": "Jakes and Jennies: Young Explorers Club",
+                "start": "2026-11-04T10:30:00",
+                "end": "2026-11-04T12:00:00",
+                "venue": "Forest Ridge Park",
+                "address": "11405 Falls of Neuse Rd, Raleigh, NC 27587",
+                "url": "https://ncraleighweb.myvscloud.com/webtrac/web/search.html?module=AR",
+                "cost": "$5.00",
+                "ages": "3-6.99",
+                "registration": "https://ncraleighweb.myvscloud.com/webtrac/web/search.html?module=AR",
+                "indoor": false,
+                "area": "north-raleigh",
+                "source": "reclink",
+                "dropIn": false,
+                "lat": 35.96515,
+                "lon": -78.58743
+              }
+            },
+            {
+              "ref": "event:wake-parks:8358:2026-11-04",
+              "arrive": "08:30",
+              "leave": "10:30",
+              "why": "Beech Bluff County Park's self-guided StoryWalk® lines an accessible loop with picture-book pages so reading and walking happen together.",
+              "tips": [
+                "Start early when the park is quiet and the air is fresh.",
+                "Let the child stop at every page and take their time.",
+                "Bring snacks and water for a rest at the end of the loop."
+              ],
+              "interests": [
+                "nature",
+                "stories"
+              ],
+              "also": [],
+              "area": "south-wake",
+              "outdoor": true,
+              "source": {
+                "kind": "event",
+                "title": "Beech Bluff County Park StoryWalk® 2026 (Self-Led)",
+                "start": "2026-11-04T08:00:00",
+                "end": "2026-11-04T17:30:00",
+                "venue": "Beech Bluff County Park",
+                "address": "Beech Bluff Park Drive, Fuquay-Varina, NC",
+                "url": "https://apm.activecommunities.com/wakeparks/Activity_Search/beech-bluff-county-park-storywalk-2026-self-led/8358?locale=en-US",
+                "cost": "Free",
+                "ages": null,
+                "registration": false,
+                "indoor": false,
+                "area": "south-wake",
+                "source": "wake-parks",
+                "dropIn": true,
+                "lat": 35.58537279715877,
+                "lon": -78.6793341971644
+              }
+            },
+            {
+              "ref": "event:wake:17794",
+              "also": [
+                {
+                  "ref": "place:morrisville-community-park",
+                  "source": {
+                    "kind": "park",
+                    "title": "Morrisville Community Park",
+                    "address": "1520 Morrisville Parkway",
+                    "url": "https://www.morrisvillenc.gov/Things-To-Do/Parks-and-Greenways/Morrisville-Community-Park",
+                    "amenities": [
+                      "playground",
+                      "picnic-shelter",
+                      "restroom",
+                      "greenway"
+                    ],
+                    "indoor": false,
+                    "area": "cary-apex",
+                    "hours": null,
+                    "lat": 35.81559704085067,
+                    "lon": -78.84725645294697,
+                    "cost": null
+                  }
+                }
+              ],
+              "arrive": "14:00",
+              "leave": "15:15",
+              "why": "An afternoon kindergarten-readiness craft program at Morrisville Community Library, followed by outdoor play at the park nearby.",
+              "tips": [
+                "Stop at the front desk for a space ticket when you arrive.",
+                "Morrisville Community Park is right nearby; it makes a good outdoor finish to the afternoon.",
+                "Leave the park by 15:15 so there is time to relax before dinner."
+              ],
+              "interests": [
+                "art",
+                "nature"
+              ],
+              "area": "cary-apex",
+              "outdoor": false,
+              "source": {
+                "kind": "event",
+                "title": "ABC Craft & Learn",
+                "start": "2026-11-04T14:00:00-05:00",
+                "end": "2026-11-04T14:45:00-05:00",
+                "venue": "Morrisville Community Library",
+                "address": "310 Town Hall Drive, Morrisville, NC",
+                "url": "https://www.wake.gov/events/abc-craft-learn-164",
+                "cost": null,
+                "ages": "Young Children",
+                "registration": null,
+                "indoor": true,
+                "area": "cary-apex",
+                "source": "wake-county",
+                "dropIn": false,
+                "lat": 35.8248479257278,
+                "lon": -78.8334621430841
+              }
+            },
+            {
+              "ref": "event:durham-rec:19772:2026-11-04",
+              "also": [
+                {
+                  "ref": "place:edgemont-park",
+                  "source": {
+                    "kind": "park",
+                    "title": "Edgemont Park",
+                    "address": "205 S Elm St, Durham, NC",
+                    "url": "https://www.dprplaymore.org/Facilities/Facility/Details/Edgemont-Park-22",
+                    "amenities": [
+                      "playground",
+                      "picnic-shelter"
+                    ],
+                    "indoor": false,
+                    "area": "durham",
+                    "hours": null,
+                    "lat": 35.987715,
+                    "lon": -78.8918725,
+                    "cost": null
+                  }
+                }
+              ],
+              "arrive": "09:50",
+              "leave": "12:30",
+              "why": "Open gym at W.D. Hill Rec Center fills the morning with parachutes, tunnels and balls; Edgemont Park adds a quick outdoor stretch before heading home.",
+              "tips": [
+                "Registration required; book a spot ahead of time.",
+                "Bring a snack for the short park stop on the way out.",
+                "Leave the park by 12:25 to be home before quiet time at 13:00."
+              ],
+              "interests": [
+                "movement"
+              ],
+              "area": "durham",
+              "outdoor": false,
+              "source": {
+                "kind": "event",
+                "title": "Total Tot Time",
+                "start": "2026-11-04T10:00:00",
+                "end": "2026-11-04T12:00:00",
+                "venue": "W.D. Hill Rec Ctr",
+                "address": "1308 Fayetteville St, Durham, NC",
+                "url": "https://apm.activecommunities.com/dprplaymore/Activity_Search/total-tot-time/19772?locale=en-US",
+                "cost": null,
+                "ages": "1 - 6",
+                "registration": "https://apm.activecommunities.com/dprplaymore/Activity_Search/total-tot-time/19772?locale=en-US",
+                "indoor": true,
+                "area": "durham",
+                "source": "durham-rec",
+                "dropIn": false,
+                "lat": 35.9797,
+                "lon": -78.8985
+              }
+            }
+          ],
+          "rainBackup": null,
+          "timeline": [
+            {
+              "start": "07:00",
+              "end": "07:30",
+              "kind": "meal",
+              "title": "Up and breakfast"
+            },
+            {
+              "start": "07:30",
+              "end": "08:50",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "08:50",
+              "end": "09:10",
+              "kind": "routine",
+              "title": "Get ready to go",
+              "detail": "Shoes on, diaper bag, water and a snack."
+            },
+            {
+              "start": "09:10",
+              "end": "09:30",
+              "kind": "travel",
+              "title": "Drive to NC Museum of Art Museum Park"
+            },
+            {
+              "start": "09:30",
+              "end": "09:50",
+              "kind": "outing",
+              "title": "NC Museum of Art Museum Park"
+            },
+            {
+              "start": "09:50",
+              "end": "10:00",
+              "kind": "travel",
+              "title": "Drive to NC Museum of Art"
+            },
+            {
+              "start": "10:00",
+              "end": "11:00",
+              "kind": "outing",
+              "title": "What’s in the Box?"
+            },
+            {
+              "start": "11:00",
+              "end": "11:20",
+              "kind": "travel",
+              "title": "Drive home"
+            },
+            {
+              "start": "11:20",
+              "end": "11:45",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "11:45",
+              "end": "12:15",
+              "kind": "meal",
+              "title": "Lunch"
+            },
+            {
+              "start": "12:15",
+              "end": "13:00",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "13:00",
+              "end": "13:45",
+              "kind": "quiet",
+              "title": "Quiet time",
+              "detail": "Books or quiet play in their room."
+            },
+            {
+              "start": "13:45",
+              "end": "18:00",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "18:00",
+              "end": "18:45",
+              "kind": "meal",
+              "title": "Dinner"
+            },
+            {
+              "start": "18:45",
+              "end": "19:30",
+              "kind": "routine",
+              "title": "Bath, books and bed"
+            }
+          ]
+        },
+        {
+          "nap": "no-nap",
+          "napLabel": "No nap",
+          "headline": "Oceans: Our Blue Planet 3D and Wild Rescue 3D at Marbles, then John Chavis Memorial Park",
+          "main": {
+            "ref": "event:museum:marbles:47648",
+            "also": [
+              {
+                "ref": "event:museum:marbles:47659",
+                "source": {
+                  "kind": "event",
+                  "title": "Wild Rescue 3D",
+                  "start": "2026-11-04T11:15:00",
+                  "end": "2026-11-04T12:00:00",
+                  "venue": "Marbles Kids Museum",
+                  "address": "201 E Hargett St, Raleigh, NC 27601",
+                  "url": "https://marbleskidsmuseum.org/event/48647/",
+                  "cost": null,
+                  "ages": "IMAX film, 4 and up",
+                  "registration": null,
+                  "indoor": true,
+                  "area": "raleigh",
+                  "source": "museum",
+                  "dropIn": false,
+                  "lat": 35.7789,
+                  "lon": -78.6361
+                }
+              },
+              {
+                "ref": "place:john-chavis-memorial-park",
+                "source": {
+                  "kind": "park",
+                  "title": "John Chavis Memorial Park",
+                  "address": "505 Martin Luther King Jr Blvd, Raleigh, NC 27601",
+                  "url": "https://raleighnc.gov/parks-and-recreation/places/john-chavis-memorial-park",
+                  "amenities": [
+                    "community-center",
+                    "playground",
+                    "carousel",
+                    "fields"
+                  ],
+                  "indoor": false,
+                  "area": "raleigh",
+                  "hours": null,
+                  "lat": 35.7698,
+                  "lon": -78.63021,
+                  "cost": null
+                }
+              }
+            ],
+            "arrive": "10:05",
+            "leave": "13:00",
+            "why": "Two back-to-back giant-screen IMAX films fill the screen with the ocean and wild animals up close; John Chavis Memorial Park nearby has a carousel and a playground to round out the morning outside.",
+            "tips": [
+              "Arrive a few minutes early so the child can settle into the seat before the lights go down.",
+              "Bring a small snack for the 15-minute gap between the two films.",
+              "Let the child lead at the park—carousel or playground, whichever they head toward first."
+            ],
+            "interests": [
+              "water",
+              "animals",
+              "movement"
+            ],
+            "area": "raleigh",
+            "outdoor": false,
+            "source": {
+              "kind": "event",
+              "title": "Oceans: Our Blue Planet 3D",
+              "start": "2026-11-04T10:15:00",
+              "end": "2026-11-04T11:00:00",
+              "venue": "Marbles Kids Museum",
+              "address": "201 E Hargett St, Raleigh, NC 27601",
+              "url": "https://marbleskidsmuseum.org/event/48499/",
+              "cost": null,
+              "ages": "IMAX film, 4 and up",
+              "registration": null,
+              "indoor": true,
+              "area": "raleigh",
+              "source": "museum",
+              "dropIn": false,
+              "lat": 35.7789,
+              "lon": -78.6361
+            }
+          },
+          "alternatives": [
+            {
+              "ref": "event:reclink:FROREXPLORER-070",
+              "arrive": "10:20",
+              "leave": "12:00",
+              "why": "A guided outdoor nature program at Forest Ridge Park for ages three to six, with hands-on discovery led by a park educator.",
+              "tips": [
+                "Register ahead; the group is small and fills early.",
+                "Wear clothes and shoes that can get muddy.",
+                "A snack in the car keeps hunger at bay until lunch."
+              ],
+              "interests": [
+                "nature",
+                "science"
+              ],
+              "also": [],
+              "area": "north-raleigh",
+              "outdoor": true,
+              "source": {
+                "kind": "event",
+                "title": "Jakes and Jennies: Young Explorers Club",
+                "start": "2026-11-04T10:30:00",
+                "end": "2026-11-04T12:00:00",
+                "venue": "Forest Ridge Park",
+                "address": "11405 Falls of Neuse Rd, Raleigh, NC 27587",
+                "url": "https://ncraleighweb.myvscloud.com/webtrac/web/search.html?module=AR",
+                "cost": "$5.00",
+                "ages": "3-6.99",
+                "registration": "https://ncraleighweb.myvscloud.com/webtrac/web/search.html?module=AR",
+                "indoor": false,
+                "area": "north-raleigh",
+                "source": "reclink",
+                "dropIn": false,
+                "lat": 35.96515,
+                "lon": -78.58743
+              }
+            },
+            {
+              "ref": "event:durham-rec:19772:2026-11-04",
+              "also": [
+                {
+                  "ref": "place:edgemont-park",
+                  "source": {
+                    "kind": "park",
+                    "title": "Edgemont Park",
+                    "address": "205 S Elm St, Durham, NC",
+                    "url": "https://www.dprplaymore.org/Facilities/Facility/Details/Edgemont-Park-22",
+                    "amenities": [
+                      "playground",
+                      "picnic-shelter"
+                    ],
+                    "indoor": false,
+                    "area": "durham",
+                    "hours": null,
+                    "lat": 35.987715,
+                    "lon": -78.8918725,
+                    "cost": null
+                  }
+                }
+              ],
+              "arrive": "09:50",
+              "leave": "12:30",
+              "why": "Open gym at W.D. Hill Rec Center fills the morning with parachutes, tunnels and balls; Edgemont Park adds outdoor time before heading home for lunch.",
+              "tips": [
+                "Registration required; sign up ahead.",
+                "Bring a change of clothes; things get warm and energetic.",
+                "Pack a snack for the short park stop."
+              ],
+              "interests": [
+                "movement"
+              ],
+              "area": "durham",
+              "outdoor": false,
+              "source": {
+                "kind": "event",
+                "title": "Total Tot Time",
+                "start": "2026-11-04T10:00:00",
+                "end": "2026-11-04T12:00:00",
+                "venue": "W.D. Hill Rec Ctr",
+                "address": "1308 Fayetteville St, Durham, NC",
+                "url": "https://apm.activecommunities.com/dprplaymore/Activity_Search/total-tot-time/19772?locale=en-US",
+                "cost": null,
+                "ages": "1 - 6",
+                "registration": "https://apm.activecommunities.com/dprplaymore/Activity_Search/total-tot-time/19772?locale=en-US",
+                "indoor": true,
+                "area": "durham",
+                "source": "durham-rec",
+                "dropIn": false,
+                "lat": 35.9797,
+                "lon": -78.8985
+              }
+            },
+            {
+              "ref": "event:wake:23011",
+              "also": [
+                {
+                  "ref": "place:falcon-park",
+                  "source": {
+                    "kind": "park",
+                    "title": "Falcon Park",
+                    "address": "611 E. Academy Street, Fuquay-Varina, NC",
+                    "url": "https://www.fuquay-varina.org/Facilities/Facility/Details/9",
+                    "amenities": [
+                      "playground",
+                      "picnic-shelter",
+                      "restroom",
+                      "greenway"
+                    ],
+                    "indoor": false,
+                    "area": "south-wake",
+                    "hours": null,
+                    "lat": 35.5858018605673,
+                    "lon": -78.79303938673571,
+                    "cost": null
+                  }
+                }
+              ],
+              "arrive": "13:50",
+              "leave": "15:30",
+              "why": "An afternoon craft-and-learn program for ages three to five at Fuquay-Varina Community Library, followed by outdoor play at Falcon Park nearby.",
+              "tips": [
+                "Check at the library desk for any ticket requirements when you arrive.",
+                "Falcon Park is just minutes away; bring a snack to eat there.",
+                "Leave the park by 15:30 so dinner is not rushed."
+              ],
+              "interests": [
+                "art",
+                "nature"
+              ],
+              "area": "south-wake",
+              "outdoor": false,
+              "source": {
+                "kind": "event",
+                "title": "ABC Craft & Learn",
+                "start": "2026-11-04T14:00:00-05:00",
+                "end": "2026-11-04T15:00:00-05:00",
+                "venue": "Fuquay-Varina Community Library",
+                "address": "271 Bramblehill Drive, Fuquay-Varina, NC",
+                "url": "https://www.wake.gov/events/abc-craft-learn-192",
+                "cost": null,
+                "ages": "Young Children",
+                "registration": null,
+                "indoor": true,
+                "area": "south-wake",
+                "source": "wake-county",
+                "dropIn": false,
+                "lat": 35.5850617253451,
+                "lon": -78.7802518504044
+              }
+            },
+            {
+              "ref": "event:museum:nc-natural-sciences:122998",
+              "also": [
+                {
+                  "ref": "place:fred-fletcher-park",
+                  "source": {
+                    "kind": "park",
+                    "title": "Fred Fletcher Park",
+                    "address": "820 Clay Street, Raleigh, NC 27605",
+                    "url": "https://raleighnc.gov/parks-and-recreation/places/fred-fletcher-park",
+                    "amenities": [
+                      "garden",
+                      "picnic-shelter",
+                      "courts",
+                      "fields",
+                      "playground"
+                    ],
+                    "indoor": false,
+                    "area": "raleigh",
+                    "hours": null,
+                    "lat": 35.79264,
+                    "lon": -78.64957,
+                    "cost": null
+                  }
+                }
+              ],
+              "arrive": "13:20",
+              "leave": "14:30",
+              "why": "A short walk-up science demonstration at the NC Museum of Natural Sciences in the afternoon, followed by outdoor play at Fred Fletcher Park close by.",
+              "tips": [
+                "Walk-up program; no registration; arrive a few minutes early for a good spot.",
+                "The demonstration is short so the park visit is what makes it a full outing.",
+                "Bring something to eat at the park after."
+              ],
+              "interests": [
+                "science",
+                "nature"
+              ],
+              "area": "raleigh",
+              "outdoor": false,
+              "source": {
+                "kind": "event",
+                "title": "Incredible Science",
+                "start": "2026-11-04T13:30:00",
+                "end": "2026-11-04T14:00:00",
+                "venue": "NC Museum of Natural Sciences",
+                "address": "11 West Jones Street, Raleigh, NC, 27601",
+                "url": "https://www.naturalsciences.org/calendar/event/incredible-science-5/2026-11-04/",
+                "cost": null,
+                "ages": "ages 7 and up",
+                "registration": false,
+                "indoor": true,
+                "area": "raleigh",
+                "source": "museum",
+                "dropIn": false,
+                "lat": 35.7822735,
+                "lon": -78.6395502
+              }
+            }
+          ],
+          "rainBackup": null,
+          "timeline": [
+            {
+              "start": "07:00",
+              "end": "07:30",
+              "kind": "meal",
+              "title": "Up and breakfast"
+            },
+            {
+              "start": "07:30",
+              "end": "09:25",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "09:25",
+              "end": "09:45",
+              "kind": "routine",
+              "title": "Get ready to go",
+              "detail": "Shoes on, diaper bag, water and a snack."
+            },
+            {
+              "start": "09:45",
+              "end": "10:05",
+              "kind": "travel",
+              "title": "Drive to Marbles Kids Museum"
+            },
+            {
+              "start": "10:05",
+              "end": "11:00",
+              "kind": "outing",
+              "title": "Oceans: Our Blue Planet 3D",
+              "detail": "Pack a lunch to eat there."
+            },
+            {
+              "start": "11:00",
+              "end": "11:10",
+              "kind": "travel",
+              "title": "Drive to Marbles Kids Museum"
+            },
+            {
+              "start": "11:10",
+              "end": "12:00",
+              "kind": "outing",
+              "title": "Wild Rescue 3D"
+            },
+            {
+              "start": "12:00",
+              "end": "12:10",
+              "kind": "travel",
+              "title": "Drive to John Chavis Memorial Park"
+            },
+            {
+              "start": "12:10",
+              "end": "13:00",
+              "kind": "outing",
+              "title": "John Chavis Memorial Park"
+            },
+            {
+              "start": "13:00",
+              "end": "13:20",
+              "kind": "travel",
+              "title": "Drive home"
+            },
+            {
+              "start": "13:20",
+              "end": "18:00",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "18:00",
+              "end": "18:45",
+              "kind": "meal",
+              "title": "Dinner"
+            },
+            {
+              "start": "18:45",
+              "end": "19:30",
+              "kind": "routine",
+              "title": "Bath, books and bed"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "checked": {
+    "at": "2026-11-01T11:03:30.232Z",
+    "forecast": "nws",
+    "weather": {
+      "period": "Wednesday",
+      "tempF": 79,
+      "precipProbability": 8,
+      "shortForecast": "Partly Sunny",
+      "hours": [
+        {
+          "t": "05:00",
+          "tempF": 56,
+          "pop": 1
+        },
+        {
+          "t": "06:00",
+          "tempF": 56,
+          "pop": 1
+        },
+        {
+          "t": "07:00",
+          "tempF": 57,
+          "pop": 2
+        },
+        {
+          "t": "08:00",
+          "tempF": 60,
+          "pop": 2
+        },
+        {
+          "t": "09:00",
+          "tempF": 65,
+          "pop": 2
+        },
+        {
+          "t": "10:00",
+          "tempF": 69,
+          "pop": 2
+        },
+        {
+          "t": "11:00",
+          "tempF": 73,
+          "pop": 2
+        },
+        {
+          "t": "12:00",
+          "tempF": 75,
+          "pop": 2
+        },
+        {
+          "t": "13:00",
+          "tempF": 77,
+          "pop": 8
+        },
+        {
+          "t": "14:00",
+          "tempF": 79,
+          "pop": 8
+        },
+        {
+          "t": "15:00",
+          "tempF": 79,
+          "pop": 8
+        },
+        {
+          "t": "16:00",
+          "tempF": 77,
+          "pop": 8
+        },
+        {
+          "t": "17:00",
+          "tempF": 75,
+          "pop": 8
+        },
+        {
+          "t": "18:00",
+          "tempF": 72,
+          "pop": 8
+        },
+        {
+          "t": "19:00",
+          "tempF": 71,
+          "pop": 8
+        },
+        {
+          "t": "20:00",
+          "tempF": 69,
+          "pop": 8
+        },
+        {
+          "t": "21:00",
+          "tempF": 67,
+          "pop": 8
+        },
+        {
+          "t": "22:00",
+          "tempF": 65,
+          "pop": 8
+        },
+        {
+          "t": "23:00",
+          "tempF": 64,
+          "pop": 8
+        }
+      ]
+    },
+    "hidden": []
+  }
+}

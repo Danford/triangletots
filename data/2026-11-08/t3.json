@@ -1,0 +1,962 @@
+{
+  "date": "2026-11-08",
+  "band": "t3",
+  "versions": [
+    {
+      "at": "2026-10-27T08:32:14.359Z",
+      "reason": null,
+      "forecast": "none",
+      "weather": null,
+      "plans": [
+        {
+          "nap": "nap",
+          "napLabel": "Nap, 1 to 2:30",
+          "headline": "Morning at JC Raulston Arboretum",
+          "main": {
+            "ref": "place:jc-raulston-arboretum",
+            "arrive": "09:00",
+            "leave": "12:00",
+            "why": "NC State's free arboretum is full of texture and fall color in early November — a calm, beautiful morning walk with no admission and no crowds. A 3.5-year-old can touch bark, look at seed heads, and wander at a comfortable pace.",
+            "tips": [
+              "No pets are allowed; leave the dog at home.",
+              "Bring a snack to eat on one of the benches mid-visit to stretch the morning comfortably.",
+              "Head home by noon so there is plenty of time for a relaxed lunch before nap."
+            ],
+            "interests": [
+              "nature",
+              "science"
+            ],
+            "also": [],
+            "area": "raleigh",
+            "outdoor": true,
+            "source": {
+              "kind": "garden",
+              "title": "JC Raulston Arboretum",
+              "address": "4415 Beryl Rd, Raleigh, NC 27606",
+              "url": "https://jcra.ncsu.edu/",
+              "amenities": [
+                "garden",
+                "nature"
+              ],
+              "indoor": false,
+              "area": "raleigh",
+              "hours": {
+                "mon": "9 a.m.–4:30 p.m.",
+                "tue": "9 a.m.–4:30 p.m.",
+                "wed": "9 a.m.–4:30 p.m.",
+                "thu": "9 a.m.–4:30 p.m.",
+                "fri": "9 a.m.–4:30 p.m.",
+                "sat": "9 a.m.–5 p.m.",
+                "sun": "9 a.m.–5 p.m."
+              },
+              "lat": 35.794,
+              "lon": -78.6987,
+              "cost": "Free",
+              "note": "Free. NC State’s garden; no pets."
+            }
+          },
+          "alternatives": [
+            {
+              "ref": "place:museum-of-life-and-science",
+              "arrive": "10:00",
+              "leave": "11:30",
+              "also": [
+                {
+                  "ref": "event:weekly:mols-early-childhood:2026-11-08",
+                  "source": {
+                    "kind": "event",
+                    "title": "Early Childhood Drop-In",
+                    "start": "2026-11-08T09:30:00",
+                    "end": "2026-11-08T11:30:00",
+                    "venue": "Hideaway Woods, Museum of Life and Science",
+                    "address": "433 W Murray Ave, Durham, NC 27704",
+                    "url": "https://www.lifeandscience.org/learn/drop-in-programs/",
+                    "cost": "Included with museum admission",
+                    "ages": "young children and their caregivers",
+                    "registration": false,
+                    "indoor": false,
+                    "area": "durham",
+                    "source": "weekly",
+                    "dropIn": true,
+                    "lat": 36.0294,
+                    "lon": -78.8993
+                  }
+                }
+              ],
+              "why": "The outdoor Early Childhood Drop-In at Hideaway Woods mixes songs, sensory play, and forest exploration; the Dinosaur Trail and farmyard are steps away on the same ticket.",
+              "tips": [
+                "Museum admission required; arrive right at opening and head straight to Hideaway Woods.",
+                "The drop-in is casual — join whenever you arrive and stay as long as your child is engaged."
+              ],
+              "interests": [
+                "animals",
+                "nature",
+                "dinosaurs"
+              ],
+              "area": "durham",
+              "outdoor": true,
+              "source": {
+                "kind": "museum",
+                "title": "Museum of Life and Science",
+                "address": "433 W Murray Ave, Durham, NC 27704",
+                "url": "https://www.lifeandscience.org/visit/",
+                "amenities": [
+                  "nature",
+                  "animals",
+                  "train",
+                  "playground",
+                  "restroom"
+                ],
+                "indoor": false,
+                "area": "durham",
+                "lat": 36.0294,
+                "lon": -78.8993,
+                "cost": "$24 adults, $19 ages 3–15, under 3 free",
+                "note": "Tickets: $24 adults, $19 ages 3–15, under 3 free. Hideaway Woods treehouses and creek, farmyard, train ride and Dinosaur Trail are outside."
+              }
+            },
+            {
+              "ref": "place:blue-jay-point-county-park",
+              "arrive": "09:00",
+              "leave": "11:30",
+              "why": "Blue Jay Point is a quiet county park with greenway trails through the woods and open meadows — a calm, low-key Sunday morning outdoors with nothing to rush for.",
+              "tips": [
+                "Dress in layers for a November morning walk on the trails.",
+                "The paths are easy for a 3.5-year-old on foot; bring water and a snack."
+              ],
+              "interests": [
+                "nature",
+                "movement"
+              ],
+              "also": [],
+              "area": "north-raleigh",
+              "outdoor": true,
+              "source": {
+                "kind": "park",
+                "title": "Blue Jay Point County Park",
+                "address": "3200 Pleasant Union Church Road, Raleigh, NC 27614",
+                "url": "https://www.wakegov.com/departments-government/parks-recreation-and-open-space/all-parks-trails/blue-jay-point-county-park",
+                "amenities": [
+                  "playground",
+                  "picnic-shelter",
+                  "restroom",
+                  "greenway",
+                  "nature"
+                ],
+                "indoor": false,
+                "area": "north-raleigh",
+                "hours": null,
+                "lat": 35.96762827199893,
+                "lon": -78.64454785104198,
+                "cost": null
+              }
+            },
+            {
+              "ref": "event:wake-parks:8358:2026-11-08",
+              "arrive": "07:50",
+              "leave": "10:30",
+              "why": "The self-guided StoryWalk at Beech Bluff spaces picture-book panels along an accessible loop, so your child reads a story one panel at a time while walking the trail.",
+              "tips": [
+                "The loop is ADA-accessible and stroller-friendly.",
+                "Go early on a Sunday to have the path quietly to yourselves."
+              ],
+              "interests": [
+                "stories",
+                "nature"
+              ],
+              "also": [],
+              "area": "south-wake",
+              "outdoor": true,
+              "source": {
+                "kind": "event",
+                "title": "Beech Bluff County Park StoryWalk® 2026 (Self-Led)",
+                "start": "2026-11-08T08:00:00",
+                "end": "2026-11-08T17:30:00",
+                "venue": "Beech Bluff County Park",
+                "address": "Beech Bluff Park Drive, Fuquay-Varina, NC",
+                "url": "https://apm.activecommunities.com/wakeparks/Activity_Search/beech-bluff-county-park-storywalk-2026-self-led/8358?locale=en-US",
+                "cost": "Free",
+                "ages": null,
+                "registration": false,
+                "indoor": false,
+                "area": "south-wake",
+                "source": "wake-parks",
+                "dropIn": true,
+                "lat": 35.58537279715877,
+                "lon": -78.6793341971644
+              }
+            },
+            {
+              "ref": "event:museum:nc-natural-sciences:119080",
+              "arrive": "09:50",
+              "leave": "12:30",
+              "also": [
+                {
+                  "ref": "place:fred-fletcher-park",
+                  "source": {
+                    "kind": "park",
+                    "title": "Fred Fletcher Park",
+                    "address": "820 Clay Street, Raleigh, NC 27605",
+                    "url": "https://raleighnc.gov/parks-and-recreation/places/fred-fletcher-park",
+                    "amenities": [
+                      "garden",
+                      "picnic-shelter",
+                      "courts",
+                      "fields",
+                      "playground"
+                    ],
+                    "indoor": false,
+                    "area": "raleigh",
+                    "hours": null,
+                    "lat": 35.79264,
+                    "lon": -78.64957,
+                    "cost": null
+                  }
+                }
+              ],
+              "why": "The Dueling Dinosaurs sensory-friendly morning runs at reduced stimulation levels, making it a comfortable museum visit for younger children; Fred Fletcher Park is a short walk after for an outdoor stretch before heading home.",
+              "tips": [
+                "No registration needed — walk up and go in.",
+                "The park visit after the exhibit is weather-permitting; skip or shorten it if the morning turns cold or wet."
+              ],
+              "interests": [
+                "dinosaurs",
+                "science",
+                "nature"
+              ],
+              "area": "raleigh",
+              "outdoor": false,
+              "source": {
+                "kind": "event",
+                "title": "Dueling Dinosaurs Sensory Friendly Mornings",
+                "start": "2026-11-08T10:00:00",
+                "end": "2026-11-08T12:00:00",
+                "venue": "NC Museum of Natural Sciences",
+                "address": "11 West Jones Street, Raleigh, NC, 27601",
+                "url": "https://www.naturalsciences.org/calendar/event/dueling-dinosaurs-sensory-friendly-mornings-2/2026-11-08/",
+                "cost": null,
+                "ages": "Recommended Audience All ages, particularly neurodivergent audiences.",
+                "registration": null,
+                "indoor": true,
+                "area": "raleigh",
+                "source": "museum",
+                "dropIn": false,
+                "lat": 35.7822735,
+                "lon": -78.6395502
+              }
+            }
+          ],
+          "rainBackup": null,
+          "timeline": [
+            {
+              "start": "07:00",
+              "end": "07:30",
+              "kind": "meal",
+              "title": "Up and breakfast"
+            },
+            {
+              "start": "07:30",
+              "end": "08:20",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "08:20",
+              "end": "08:40",
+              "kind": "routine",
+              "title": "Get ready to go",
+              "detail": "Shoes on, diaper bag, water and a snack."
+            },
+            {
+              "start": "08:40",
+              "end": "09:00",
+              "kind": "travel",
+              "title": "Drive to JC Raulston Arboretum"
+            },
+            {
+              "start": "09:00",
+              "end": "12:00",
+              "kind": "outing",
+              "title": "JC Raulston Arboretum"
+            },
+            {
+              "start": "12:00",
+              "end": "12:20",
+              "kind": "travel",
+              "title": "Drive home"
+            },
+            {
+              "start": "12:20",
+              "end": "12:50",
+              "kind": "meal",
+              "title": "Lunch"
+            },
+            {
+              "start": "12:50",
+              "end": "13:00",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "13:00",
+              "end": "14:30",
+              "kind": "nap",
+              "title": "Nap"
+            },
+            {
+              "start": "14:30",
+              "end": "14:50",
+              "kind": "routine",
+              "title": "Up and a snack"
+            },
+            {
+              "start": "14:50",
+              "end": "18:30",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "18:30",
+              "end": "19:15",
+              "kind": "meal",
+              "title": "Dinner"
+            },
+            {
+              "start": "19:15",
+              "end": "20:00",
+              "kind": "routine",
+              "title": "Bath, books and bed"
+            }
+          ]
+        },
+        {
+          "nap": "quiet",
+          "napLabel": "Quiet time, no sleep",
+          "headline": "Instrument Petting Zoo at Gipson Play Plaza, Dix Park",
+          "main": {
+            "ref": "event:dix-park:/event/instrument-petting-zoo:2026-11-08",
+            "arrive": "14:00",
+            "leave": "16:00",
+            "why": "Gipson Play Plaza's outdoor instrument petting zoo lets children handle and play real instruments in the open air; the destination playground at Dix Park is right there for running between the music and the climbing equipment.",
+            "tips": [
+              "The event is not drop-in; plan to arrive right at 14:00.",
+              "The big playground is part of the same space, so little ones can move naturally between the instruments and the equipment.",
+              "Leave by 16:00 so the drive home lands well before dinner."
+            ],
+            "interests": [
+              "music",
+              "movement"
+            ],
+            "also": [],
+            "area": "raleigh",
+            "outdoor": true,
+            "source": {
+              "kind": "event",
+              "title": "Instrument Petting Zoo",
+              "start": "2026-11-08T14:00:00",
+              "end": "2026-11-08T16:00:00",
+              "venue": "Gipson Play Plaza, Dix Park",
+              "address": "715 Biggs Dr, Raleigh, NC 27603",
+              "url": "https://dixpark.org/event/instrument-petting-zoo",
+              "cost": null,
+              "ages": null,
+              "registration": null,
+              "indoor": false,
+              "area": "raleigh",
+              "source": "dix-park",
+              "dropIn": false,
+              "lat": 35.7667,
+              "lon": -78.6539
+            }
+          },
+          "alternatives": [
+            {
+              "ref": "place:jc-raulston-arboretum",
+              "arrive": "09:00",
+              "leave": "11:30",
+              "why": "The free arboretum is full of fall color and interesting textures — a gentle, unhurried morning garden walk that gets everyone home with plenty of time before quiet.",
+              "tips": [
+                "Bring a snack for a bench break mid-visit.",
+                "No pets allowed."
+              ],
+              "interests": [
+                "nature",
+                "science"
+              ],
+              "also": [],
+              "area": "raleigh",
+              "outdoor": true,
+              "source": {
+                "kind": "garden",
+                "title": "JC Raulston Arboretum",
+                "address": "4415 Beryl Rd, Raleigh, NC 27606",
+                "url": "https://jcra.ncsu.edu/",
+                "amenities": [
+                  "garden",
+                  "nature"
+                ],
+                "indoor": false,
+                "area": "raleigh",
+                "hours": {
+                  "mon": "9 a.m.–4:30 p.m.",
+                  "tue": "9 a.m.–4:30 p.m.",
+                  "wed": "9 a.m.–4:30 p.m.",
+                  "thu": "9 a.m.–4:30 p.m.",
+                  "fri": "9 a.m.–4:30 p.m.",
+                  "sat": "9 a.m.–5 p.m.",
+                  "sun": "9 a.m.–5 p.m."
+                },
+                "lat": 35.794,
+                "lon": -78.6987,
+                "cost": "Free",
+                "note": "Free. NC State’s garden; no pets."
+              }
+            },
+            {
+              "ref": "place:museum-of-life-and-science",
+              "arrive": "10:00",
+              "leave": "11:30",
+              "also": [
+                {
+                  "ref": "event:weekly:mols-early-childhood:2026-11-08",
+                  "source": {
+                    "kind": "event",
+                    "title": "Early Childhood Drop-In",
+                    "start": "2026-11-08T09:30:00",
+                    "end": "2026-11-08T11:30:00",
+                    "venue": "Hideaway Woods, Museum of Life and Science",
+                    "address": "433 W Murray Ave, Durham, NC 27704",
+                    "url": "https://www.lifeandscience.org/learn/drop-in-programs/",
+                    "cost": "Included with museum admission",
+                    "ages": "young children and their caregivers",
+                    "registration": false,
+                    "indoor": false,
+                    "area": "durham",
+                    "source": "weekly",
+                    "dropIn": true,
+                    "lat": 36.0294,
+                    "lon": -78.8993
+                  }
+                }
+              ],
+              "why": "The outdoor Early Childhood Drop-In at Hideaway Woods blends songs, sensory play, and forest exploration, with the Dinosaur Trail and farmyard nearby on the same ticket.",
+              "tips": [
+                "Museum admission required; head to Hideaway Woods first.",
+                "Leave by 11:30 to be home for lunch ahead of quiet time."
+              ],
+              "interests": [
+                "animals",
+                "nature",
+                "dinosaurs"
+              ],
+              "area": "durham",
+              "outdoor": true,
+              "source": {
+                "kind": "museum",
+                "title": "Museum of Life and Science",
+                "address": "433 W Murray Ave, Durham, NC 27704",
+                "url": "https://www.lifeandscience.org/visit/",
+                "amenities": [
+                  "nature",
+                  "animals",
+                  "train",
+                  "playground",
+                  "restroom"
+                ],
+                "indoor": false,
+                "area": "durham",
+                "lat": 36.0294,
+                "lon": -78.8993,
+                "cost": "$24 adults, $19 ages 3–15, under 3 free",
+                "note": "Tickets: $24 adults, $19 ages 3–15, under 3 free. Hideaway Woods treehouses and creek, farmyard, train ride and Dinosaur Trail are outside."
+              }
+            },
+            {
+              "ref": "place:sarah-p-duke-gardens",
+              "arrive": "14:10",
+              "leave": "16:00",
+              "also": [
+                {
+                  "ref": "event:museum:duke-gardens:17496",
+                  "source": {
+                    "kind": "event",
+                    "title": "A Festival of Fabulous Mums",
+                    "start": "2026-11-08T10:00:00",
+                    "end": "2026-11-08T16:00:00",
+                    "venue": "Sarah P. Duke Gardens",
+                    "address": "420 Anderson Street, Durham, NC, 27708",
+                    "url": "https://gardens.duke.edu/event/a-festival-of-fabulous-mums-6/",
+                    "cost": "Free",
+                    "ages": "Adult Programs Family programs Festival of Fabulous Mums",
+                    "registration": false,
+                    "indoor": false,
+                    "area": "durham",
+                    "source": "museum",
+                    "dropIn": true,
+                    "lat": 36.0024,
+                    "lon": -78.9328
+                  }
+                }
+              ],
+              "why": "Duke Gardens' Japanese Garden is free and lovely in autumn; arriving after quiet time gives a calm, colourful afternoon of garden wandering while the mum display is still in full bloom.",
+              "tips": [
+                "Paved paths are stroller-friendly throughout the garden.",
+                "Aim to arrive by 14:10 to have a full two hours before the display closes at 16:00."
+              ],
+              "interests": [
+                "nature",
+                "art"
+              ],
+              "area": "durham",
+              "outdoor": true,
+              "source": {
+                "kind": "garden",
+                "title": "Sarah P. Duke Gardens",
+                "address": "420 Anderson St, Durham, NC 27708",
+                "url": "https://gardens.duke.edu/visit/",
+                "amenities": [
+                  "garden",
+                  "nature",
+                  "restroom"
+                ],
+                "indoor": false,
+                "area": "durham",
+                "hours": {
+                  "sun": "8 a.m. to sunset",
+                  "mon": "8 a.m. to sunset",
+                  "tue": "8 a.m. to sunset",
+                  "wed": "8 a.m. to sunset",
+                  "thu": "8 a.m. to sunset",
+                  "fri": "8 a.m. to sunset",
+                  "sat": "8 a.m. to sunset"
+                },
+                "lat": 36.0024,
+                "lon": -78.9328,
+                "cost": "Free",
+                "note": "Free; paid parking that often fills before 10 a.m. on nice days. Five miles of paths, and the Charlotte Brody Discovery Garden."
+              }
+            },
+            {
+              "ref": "event:wake-parks:8358:2026-11-08",
+              "arrive": "07:50",
+              "leave": "10:30",
+              "why": "Picture-book panels spaced along Beech Bluff's accessible loop turn an early morning walk into a story your child follows one panel at a time.",
+              "tips": [
+                "The loop is ADA-accessible and stroller-friendly.",
+                "Go early on a Sunday to have the path to yourselves."
+              ],
+              "interests": [
+                "stories",
+                "nature"
+              ],
+              "also": [],
+              "area": "south-wake",
+              "outdoor": true,
+              "source": {
+                "kind": "event",
+                "title": "Beech Bluff County Park StoryWalk® 2026 (Self-Led)",
+                "start": "2026-11-08T08:00:00",
+                "end": "2026-11-08T17:30:00",
+                "venue": "Beech Bluff County Park",
+                "address": "Beech Bluff Park Drive, Fuquay-Varina, NC",
+                "url": "https://apm.activecommunities.com/wakeparks/Activity_Search/beech-bluff-county-park-storywalk-2026-self-led/8358?locale=en-US",
+                "cost": "Free",
+                "ages": null,
+                "registration": false,
+                "indoor": false,
+                "area": "south-wake",
+                "source": "wake-parks",
+                "dropIn": true,
+                "lat": 35.58537279715877,
+                "lon": -78.6793341971644
+              }
+            }
+          ],
+          "rainBackup": null,
+          "timeline": [
+            {
+              "start": "07:00",
+              "end": "07:30",
+              "kind": "meal",
+              "title": "Up and breakfast"
+            },
+            {
+              "start": "07:30",
+              "end": "11:45",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "11:45",
+              "end": "12:15",
+              "kind": "meal",
+              "title": "Lunch"
+            },
+            {
+              "start": "12:15",
+              "end": "13:00",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "13:00",
+              "end": "13:45",
+              "kind": "quiet",
+              "title": "Quiet time",
+              "detail": "Books or quiet play in their room."
+            },
+            {
+              "start": "13:40",
+              "end": "14:00",
+              "kind": "travel",
+              "title": "Drive to Gipson Play Plaza, Dix Park"
+            },
+            {
+              "start": "14:00",
+              "end": "16:00",
+              "kind": "outing",
+              "title": "Gipson Play Plaza, Dix Park"
+            },
+            {
+              "start": "16:00",
+              "end": "16:20",
+              "kind": "travel",
+              "title": "Drive home"
+            },
+            {
+              "start": "16:20",
+              "end": "18:00",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "18:00",
+              "end": "18:45",
+              "kind": "meal",
+              "title": "Dinner"
+            },
+            {
+              "start": "18:45",
+              "end": "19:30",
+              "kind": "routine",
+              "title": "Bath, books and bed"
+            }
+          ]
+        },
+        {
+          "nap": "no-nap",
+          "napLabel": "No nap",
+          "headline": "Durham Central Park and National Pupusa Day",
+          "main": {
+            "ref": "place:durham-central-park",
+            "arrive": "10:00",
+            "leave": "16:00",
+            "also": [
+              {
+                "ref": "event:museum:durham-central-park:13905",
+                "source": {
+                  "kind": "event",
+                  "title": "National Pupusa Day",
+                  "start": "2026-11-08T12:00:00",
+                  "end": "2026-11-08T16:00:00",
+                  "venue": "Durham Central Park",
+                  "address": "501 Foster Street, Durham, NC, 27701",
+                  "url": "https://durhamcentralpark.org/upcoming-event/national-pupusa-day-3/",
+                  "cost": null,
+                  "ages": null,
+                  "registration": null,
+                  "indoor": false,
+                  "area": "durham",
+                  "source": "museum",
+                  "dropIn": true,
+                  "lat": 36.0008,
+                  "lon": -78.9021
+                }
+              }
+            ],
+            "why": "Durham Central Park is a lovely spot for a relaxed Sunday morning; National Pupusa Day brings a free outdoor food and cultural festival to the same park from noon, turning the whole day into one unhurried Durham outing.",
+            "tips": [
+              "Arrive at 10:00 to enjoy the park before the festival crowd builds from noon.",
+              "Pupusa Day is a food event — bring an appetite and let your child try something new.",
+              "Bring a blanket to claim a comfortable spot on the grass before the festival fills in."
+            ],
+            "interests": [
+              "music",
+              "movement",
+              "nature"
+            ],
+            "area": "durham",
+            "outdoor": true,
+            "source": {
+              "kind": "park",
+              "title": "Durham Central Park",
+              "address": "501 Foster St, Durham, NC",
+              "url": "https://www.dprplaymore.org/Facilities/Facility/Details/Durham-Central-Park-18",
+              "amenities": [
+                "playground",
+                "restroom",
+                "greenway"
+              ],
+              "indoor": false,
+              "area": "durham",
+              "hours": null,
+              "lat": 36.0006525,
+              "lon": -78.90071999999999,
+              "cost": null
+            }
+          },
+          "alternatives": [
+            {
+              "ref": "place:jc-raulston-arboretum",
+              "arrive": "09:00",
+              "leave": "12:00",
+              "why": "The free arboretum is quiet and beautiful in early November — a gentle morning walk with interesting textures, seed heads, and fall colour to explore at a toddler's pace.",
+              "tips": [
+                "No pets allowed.",
+                "Bring a snack for a bench break mid-visit."
+              ],
+              "interests": [
+                "nature",
+                "science"
+              ],
+              "also": [],
+              "area": "raleigh",
+              "outdoor": true,
+              "source": {
+                "kind": "garden",
+                "title": "JC Raulston Arboretum",
+                "address": "4415 Beryl Rd, Raleigh, NC 27606",
+                "url": "https://jcra.ncsu.edu/",
+                "amenities": [
+                  "garden",
+                  "nature"
+                ],
+                "indoor": false,
+                "area": "raleigh",
+                "hours": {
+                  "mon": "9 a.m.–4:30 p.m.",
+                  "tue": "9 a.m.–4:30 p.m.",
+                  "wed": "9 a.m.–4:30 p.m.",
+                  "thu": "9 a.m.–4:30 p.m.",
+                  "fri": "9 a.m.–4:30 p.m.",
+                  "sat": "9 a.m.–5 p.m.",
+                  "sun": "9 a.m.–5 p.m."
+                },
+                "lat": 35.794,
+                "lon": -78.6987,
+                "cost": "Free",
+                "note": "Free. NC State’s garden; no pets."
+              }
+            },
+            {
+              "ref": "event:dix-park:/event/instrument-petting-zoo:2026-11-08",
+              "arrive": "13:50",
+              "leave": "16:00",
+              "why": "Real instruments to touch, strum, and bang at Gipson Play Plaza's big outdoor destination playground — a fun early-afternoon outing for a music-loving 3.5-year-old.",
+              "tips": [
+                "The event is not drop-in; plan to arrive by 13:50.",
+                "The playground is right there if energy runs ahead of the instruments."
+              ],
+              "interests": [
+                "music",
+                "movement"
+              ],
+              "also": [],
+              "area": "raleigh",
+              "outdoor": true,
+              "source": {
+                "kind": "event",
+                "title": "Instrument Petting Zoo",
+                "start": "2026-11-08T14:00:00",
+                "end": "2026-11-08T16:00:00",
+                "venue": "Gipson Play Plaza, Dix Park",
+                "address": "715 Biggs Dr, Raleigh, NC 27603",
+                "url": "https://dixpark.org/event/instrument-petting-zoo",
+                "cost": null,
+                "ages": null,
+                "registration": null,
+                "indoor": false,
+                "area": "raleigh",
+                "source": "dix-park",
+                "dropIn": false,
+                "lat": 35.7667,
+                "lon": -78.6539
+              }
+            },
+            {
+              "ref": "place:museum-of-life-and-science",
+              "arrive": "10:00",
+              "leave": "11:30",
+              "also": [
+                {
+                  "ref": "event:weekly:mols-early-childhood:2026-11-08",
+                  "source": {
+                    "kind": "event",
+                    "title": "Early Childhood Drop-In",
+                    "start": "2026-11-08T09:30:00",
+                    "end": "2026-11-08T11:30:00",
+                    "venue": "Hideaway Woods, Museum of Life and Science",
+                    "address": "433 W Murray Ave, Durham, NC 27704",
+                    "url": "https://www.lifeandscience.org/learn/drop-in-programs/",
+                    "cost": "Included with museum admission",
+                    "ages": "young children and their caregivers",
+                    "registration": false,
+                    "indoor": false,
+                    "area": "durham",
+                    "source": "weekly",
+                    "dropIn": true,
+                    "lat": 36.0294,
+                    "lon": -78.8993
+                  }
+                }
+              ],
+              "why": "The outdoor Early Childhood Drop-In at Hideaway Woods blends songs, sensory play, and forest exploration, with the Dinosaur Trail, farmyard, and train all on the same ticket.",
+              "tips": [
+                "Museum admission required.",
+                "Head to Hideaway Woods when you arrive, then work toward the Dinosaur Trail."
+              ],
+              "interests": [
+                "animals",
+                "nature",
+                "dinosaurs"
+              ],
+              "area": "durham",
+              "outdoor": true,
+              "source": {
+                "kind": "museum",
+                "title": "Museum of Life and Science",
+                "address": "433 W Murray Ave, Durham, NC 27704",
+                "url": "https://www.lifeandscience.org/visit/",
+                "amenities": [
+                  "nature",
+                  "animals",
+                  "train",
+                  "playground",
+                  "restroom"
+                ],
+                "indoor": false,
+                "area": "durham",
+                "lat": 36.0294,
+                "lon": -78.8993,
+                "cost": "$24 adults, $19 ages 3–15, under 3 free",
+                "note": "Tickets: $24 adults, $19 ages 3–15, under 3 free. Hideaway Woods treehouses and creek, farmyard, train ride and Dinosaur Trail are outside."
+              }
+            },
+            {
+              "ref": "event:wake-parks:8358:2026-11-08",
+              "arrive": "07:50",
+              "leave": "10:30",
+              "why": "Picture-book panels along Beech Bluff's accessible loop turn a morning walk into a story — calm, free, and easy on a Sunday.",
+              "tips": [
+                "Go early to have the path to yourselves.",
+                "The loop is ADA-accessible and stroller-friendly."
+              ],
+              "interests": [
+                "stories",
+                "nature"
+              ],
+              "also": [],
+              "area": "south-wake",
+              "outdoor": true,
+              "source": {
+                "kind": "event",
+                "title": "Beech Bluff County Park StoryWalk® 2026 (Self-Led)",
+                "start": "2026-11-08T08:00:00",
+                "end": "2026-11-08T17:30:00",
+                "venue": "Beech Bluff County Park",
+                "address": "Beech Bluff Park Drive, Fuquay-Varina, NC",
+                "url": "https://apm.activecommunities.com/wakeparks/Activity_Search/beech-bluff-county-park-storywalk-2026-self-led/8358?locale=en-US",
+                "cost": "Free",
+                "ages": null,
+                "registration": false,
+                "indoor": false,
+                "area": "south-wake",
+                "source": "wake-parks",
+                "dropIn": true,
+                "lat": 35.58537279715877,
+                "lon": -78.6793341971644
+              }
+            }
+          ],
+          "rainBackup": null,
+          "timeline": [
+            {
+              "start": "07:00",
+              "end": "07:30",
+              "kind": "meal",
+              "title": "Up and breakfast"
+            },
+            {
+              "start": "07:30",
+              "end": "09:20",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "09:20",
+              "end": "09:40",
+              "kind": "routine",
+              "title": "Get ready to go",
+              "detail": "Shoes on, diaper bag, water and a snack."
+            },
+            {
+              "start": "09:40",
+              "end": "10:00",
+              "kind": "travel",
+              "title": "Drive to Durham Central Park"
+            },
+            {
+              "start": "10:00",
+              "end": "11:50",
+              "kind": "outing",
+              "title": "Durham Central Park",
+              "detail": "Pack a lunch to eat there."
+            },
+            {
+              "start": "11:50",
+              "end": "12:00",
+              "kind": "travel",
+              "title": "Drive to Durham Central Park"
+            },
+            {
+              "start": "12:00",
+              "end": "16:00",
+              "kind": "outing",
+              "title": "National Pupusa Day"
+            },
+            {
+              "start": "16:00",
+              "end": "16:20",
+              "kind": "travel",
+              "title": "Drive home"
+            },
+            {
+              "start": "16:20",
+              "end": "18:00",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "18:00",
+              "end": "18:45",
+              "kind": "meal",
+              "title": "Dinner"
+            },
+            {
+              "start": "18:45",
+              "end": "19:30",
+              "kind": "routine",
+              "title": "Bath, books and bed"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "checked": {
+    "at": "2026-11-01T11:15:29.106Z",
+    "forecast": "none",
+    "weather": null,
+    "hidden": []
+  }
+}

@@ -1,0 +1,929 @@
+{
+  "date": "2026-11-09",
+  "band": "t4",
+  "versions": [
+    {
+      "at": "2026-10-27T08:34:27.996Z",
+      "reason": null,
+      "forecast": "none",
+      "weather": null,
+      "plans": [
+        {
+          "nap": "short-nap",
+          "napLabel": "Short nap, 1 to 2",
+          "headline": "Storytime at the Hub Farm and a nearby park in Durham",
+          "main": {
+            "ref": "event:libcal:durham-county-library:17592395",
+            "arrive": "09:50",
+            "leave": "11:00",
+            "also": [
+              {
+                "ref": "place:durham-central-park",
+                "source": {
+                  "kind": "park",
+                  "title": "Durham Central Park",
+                  "address": "501 Foster St, Durham, NC",
+                  "url": "https://www.dprplaymore.org/Facilities/Facility/Details/Durham-Central-Park-18",
+                  "amenities": [
+                    "playground",
+                    "restroom",
+                    "greenway"
+                  ],
+                  "indoor": false,
+                  "area": "durham",
+                  "hours": null
+                }
+              }
+            ],
+            "interests": [
+              "stories",
+              "nature",
+              "science"
+            ],
+            "why": "Storytime at the Hub Farm takes place at a 30-acre outdoor learning center, giving the stories and songs a farm setting that is very different from an ordinary library visit. Durham Central Park adds outdoor play right after, weather permitting.",
+            "tips": [
+              "Registration is required; book your spot ahead of time.",
+              "Arrive at 09:50 to get settled before the session starts at 10:00.",
+              "The park stop is weather permitting; it is a short drive from the farm."
+            ],
+            "area": "durham",
+            "outdoor": false,
+            "source": {
+              "kind": "event",
+              "title": "Storytime @ the Hub Farm",
+              "start": "2026-11-09T10:00:00",
+              "end": "2026-11-09T10:30:00",
+              "venue": "Durham County Library",
+              "address": "501 Foster St, Durham, NC",
+              "url": "https://durhamcountylibrary.libcal.com/event/17592395",
+              "cost": null,
+              "ages": "Pre-School, Toddler",
+              "registration": "https://durhamcountylibrary.libcal.com/event/17592395",
+              "indoor": true,
+              "area": "durham",
+              "source": "libcal",
+              "dropIn": false
+            }
+          },
+          "alternatives": [
+            {
+              "ref": "event:wake-parks:9411:2026-11-09",
+              "arrive": "08:20",
+              "leave": "12:00",
+              "interests": [
+                "animals",
+                "science",
+                "nature"
+              ],
+              "why": "The Bison Day Exploration Station at Yates Mill is a hands-on outdoor drop-in about bison conservation that fills the whole pre-nap morning. Registration required.",
+              "tips": [
+                "Register ahead; materials can run low at busy drop-in stations.",
+                "Wear sturdy shoes for the natural surface grounds.",
+                "Leave by noon to be home comfortably before the nap."
+              ],
+              "also": [],
+              "area": "raleigh",
+              "outdoor": true,
+              "source": {
+                "kind": "event",
+                "title": "Exploration Station: American Bison",
+                "start": "2026-11-09T08:30:00",
+                "end": "2026-11-09T17:00:00",
+                "venue": "Historic Yates Mill County Park",
+                "address": "4620 Lake Wheeler Rd., Raleigh, NC  27603",
+                "url": "https://apm.activecommunities.com/wakeparks/Activity_Search/exploration-station-american-bison/9411?locale=en-US",
+                "cost": null,
+                "ages": null,
+                "registration": "https://apm.activecommunities.com/wakeparks/Activity_Search/exploration-station-american-bison/9411?locale=en-US",
+                "indoor": false,
+                "area": "raleigh",
+                "source": "wake-parks",
+                "dropIn": false
+              }
+            },
+            {
+              "ref": "event:libcal:durham-county-library:16966212",
+              "arrive": "10:20",
+              "leave": "11:30",
+              "also": [
+                {
+                  "ref": "place:honeycutt-park",
+                  "source": {
+                    "kind": "park",
+                    "title": "Honeycutt Park",
+                    "address": "1032 Clear Creek Farm Road, Raleigh, NC 27615",
+                    "url": "https://raleighnc.gov/parks-and-recreation/places/honeycutt-park",
+                    "amenities": [
+                      "picnic-shelter",
+                      "courts",
+                      "fields",
+                      "playground"
+                    ],
+                    "indoor": false,
+                    "area": "north-raleigh",
+                    "hours": null
+                  }
+                }
+              ],
+              "interests": [
+                "art",
+                "stories"
+              ],
+              "why": "A hands-on craft workshop at North Regional Library — making things alongside Ms. Chelsea — followed by outdoor play at Honeycutt Park before heading home for lunch.",
+              "tips": [
+                "Registration is required; sign up ahead.",
+                "The park is a short drive after the workshop; weather permitting, allow 20 minutes there.",
+                "Leave the park by 11:30 to be home in time for lunch and the nap."
+              ],
+              "area": "durham",
+              "outdoor": false,
+              "source": {
+                "kind": "event",
+                "title": "Mini Makers Workshop",
+                "start": "2026-11-09T10:30:00",
+                "end": "2026-11-09T11:00:00",
+                "venue": "North Regional Library",
+                "address": "221 Milton Rd, Durham, NC",
+                "url": "https://durhamcountylibrary.libcal.com/event/16966212",
+                "cost": null,
+                "ages": "Elementary School, Kindergarten, Toddler, DPS",
+                "registration": "https://durhamcountylibrary.libcal.com/event/16966212",
+                "indoor": true,
+                "area": "durham",
+                "source": "libcal",
+                "dropIn": false
+              }
+            },
+            {
+              "ref": "event:wake-parks:8358:2026-11-09",
+              "arrive": "08:00",
+              "leave": "09:30",
+              "interests": [
+                "stories",
+                "nature"
+              ],
+              "why": "A self-guided story walk along the accessible loop at Beech Bluff County Park — a calm early start to the day that leaves plenty of morning ahead.",
+              "tips": [
+                "Going at 08:00 means a quiet trail to yourselves.",
+                "Read each panel aloud and let your child spot what is described in the story.",
+                "Bring a snack for after the loop."
+              ],
+              "also": [],
+              "area": "south-wake",
+              "outdoor": true,
+              "source": {
+                "kind": "event",
+                "title": "Beech Bluff County Park StoryWalk® 2026 (Self-Led)",
+                "start": "2026-11-09T08:00:00",
+                "end": "2026-11-09T17:30:00",
+                "venue": "Beech Bluff County Park",
+                "address": "Beech Bluff Park Drive, Fuquay-Varina, NC",
+                "url": "https://apm.activecommunities.com/wakeparks/Activity_Search/beech-bluff-county-park-storywalk-2026-self-led/8358?locale=en-US",
+                "cost": "Free",
+                "ages": null,
+                "registration": false,
+                "indoor": false,
+                "area": "south-wake",
+                "source": "wake-parks",
+                "dropIn": true
+              }
+            },
+            {
+              "ref": "place:pullen-park-amusements",
+              "arrive": "10:00",
+              "leave": "12:30",
+              "interests": [
+                "vehicles",
+                "movement"
+              ],
+              "why": "Carousel, train, boats, and a playground make Pullen Park a full morning of rides and outdoor play that fits neatly inside the pre-nap window.",
+              "tips": [
+                "Arrive at 10:00 when the park opens for the shortest queues at the rides.",
+                "Bring cash or card for ride tokens.",
+                "Leave by 12:30 to be home for lunch before the nap."
+              ],
+              "also": [],
+              "area": "raleigh",
+              "outdoor": true,
+              "source": {
+                "kind": "park",
+                "title": "Pullen Park Amusements",
+                "address": "410 Park Ave, Raleigh, NC 27606",
+                "url": "https://raleighnc.gov/parks-and-recreation/places/pullen-park-amusements",
+                "amenities": [
+                  "carousel",
+                  "boating",
+                  "train",
+                  "amusements",
+                  "courts",
+                  "playground",
+                  "picnic-shelter"
+                ],
+                "indoor": false,
+                "area": "raleigh",
+                "hours": {
+                  "mon": "10 a.m.–6 p.m.",
+                  "tue": "10 a.m.–6 p.m.",
+                  "wed": "10 a.m.–6 p.m.",
+                  "thu": "10 a.m.–6 p.m.",
+                  "fri": "10 a.m.–8 p.m.",
+                  "sat": "10 a.m.–8 p.m.",
+                  "sun": "10 a.m.–8 p.m."
+                }
+              }
+            }
+          ],
+          "rainBackup": null,
+          "timeline": [
+            {
+              "start": "07:00",
+              "end": "07:30",
+              "kind": "routine",
+              "title": "Wake up and breakfast"
+            },
+            {
+              "start": "07:30",
+              "end": "09:15",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "09:15",
+              "end": "09:50",
+              "kind": "travel",
+              "title": "Drive to Hub Farm, Durham"
+            },
+            {
+              "start": "09:50",
+              "end": "10:30",
+              "kind": "outing",
+              "title": "Storytime at the Hub Farm",
+              "detail": "Seasonal-themed storytime at a 30-acre outdoor learning center."
+            },
+            {
+              "start": "10:30",
+              "end": "10:40",
+              "kind": "travel",
+              "title": "Drive to a nearby park"
+            },
+            {
+              "start": "10:40",
+              "end": "11:00",
+              "kind": "play",
+              "title": "Play at a nearby park"
+            },
+            {
+              "start": "11:00",
+              "end": "11:35",
+              "kind": "travel",
+              "title": "Drive home"
+            },
+            {
+              "start": "11:35",
+              "end": "12:15",
+              "kind": "meal",
+              "title": "Lunch"
+            },
+            {
+              "start": "12:15",
+              "end": "13:00",
+              "kind": "play",
+              "title": "Quiet play at home"
+            },
+            {
+              "start": "13:00",
+              "end": "14:00",
+              "kind": "nap",
+              "title": "Nap"
+            },
+            {
+              "start": "14:00",
+              "end": "14:30",
+              "kind": "routine",
+              "title": "Wake up and snack"
+            },
+            {
+              "start": "14:30",
+              "end": "17:30",
+              "kind": "play",
+              "title": "Afternoon play at home or a nearby park"
+            },
+            {
+              "start": "17:30",
+              "end": "18:15",
+              "kind": "meal",
+              "title": "Dinner"
+            },
+            {
+              "start": "18:15",
+              "end": "20:00",
+              "kind": "routine",
+              "title": "Bath and bedtime routine"
+            }
+          ]
+        },
+        {
+          "nap": "quiet",
+          "napLabel": "Quiet time",
+          "headline": "Pullen Park Amusements — carousel, train, and boats",
+          "main": {
+            "ref": "place:pullen-park-amusements",
+            "arrive": "10:00",
+            "leave": "12:00",
+            "interests": [
+              "vehicles",
+              "movement",
+              "water"
+            ],
+            "why": "Pullen Park has a carousel, a train ride, and boats to paddle — everything a 4.5-year-old wants from a morning out. The rides and playground fill the time nicely before the drive home for lunch and quiet.",
+            "tips": [
+              "Arrive right at 10:00 when the park opens for the shortest waits at the rides.",
+              "Bring cash or card for ride tokens.",
+              "Leave by noon so there is time for a proper lunch before quiet time."
+            ],
+            "also": [],
+            "area": "raleigh",
+            "outdoor": true,
+            "source": {
+              "kind": "park",
+              "title": "Pullen Park Amusements",
+              "address": "410 Park Ave, Raleigh, NC 27606",
+              "url": "https://raleighnc.gov/parks-and-recreation/places/pullen-park-amusements",
+              "amenities": [
+                "carousel",
+                "boating",
+                "train",
+                "amusements",
+                "courts",
+                "playground",
+                "picnic-shelter"
+              ],
+              "indoor": false,
+              "area": "raleigh",
+              "hours": {
+                "mon": "10 a.m.–6 p.m.",
+                "tue": "10 a.m.–6 p.m.",
+                "wed": "10 a.m.–6 p.m.",
+                "thu": "10 a.m.–6 p.m.",
+                "fri": "10 a.m.–8 p.m.",
+                "sat": "10 a.m.–8 p.m.",
+                "sun": "10 a.m.–8 p.m."
+              }
+            }
+          },
+          "alternatives": [
+            {
+              "ref": "event:libcal:durham-county-library:17592395",
+              "arrive": "09:50",
+              "leave": "11:00",
+              "also": [
+                {
+                  "ref": "place:durham-central-park",
+                  "source": {
+                    "kind": "park",
+                    "title": "Durham Central Park",
+                    "address": "501 Foster St, Durham, NC",
+                    "url": "https://www.dprplaymore.org/Facilities/Facility/Details/Durham-Central-Park-18",
+                    "amenities": [
+                      "playground",
+                      "restroom",
+                      "greenway"
+                    ],
+                    "indoor": false,
+                    "area": "durham",
+                    "hours": null
+                  }
+                }
+              ],
+              "interests": [
+                "stories",
+                "nature",
+                "science"
+              ],
+              "why": "A seasonal storytime at the Hub Farm in Durham, then a short stop at Durham Central Park for outdoor play — a contained morning well clear of quiet time. Registration required.",
+              "tips": [
+                "Book your spot ahead.",
+                "Arrive at 09:50 to settle in before the session starts.",
+                "The park stop is weather permitting."
+              ],
+              "area": "durham",
+              "outdoor": false,
+              "source": {
+                "kind": "event",
+                "title": "Storytime @ the Hub Farm",
+                "start": "2026-11-09T10:00:00",
+                "end": "2026-11-09T10:30:00",
+                "venue": "Durham County Library",
+                "address": "501 Foster St, Durham, NC",
+                "url": "https://durhamcountylibrary.libcal.com/event/17592395",
+                "cost": null,
+                "ages": "Pre-School, Toddler",
+                "registration": "https://durhamcountylibrary.libcal.com/event/17592395",
+                "indoor": true,
+                "area": "durham",
+                "source": "libcal",
+                "dropIn": false
+              }
+            },
+            {
+              "ref": "place:falls-lake-state-recreation-area-holly-point-entrance",
+              "arrive": "09:00",
+              "leave": "11:30",
+              "interests": [
+                "nature",
+                "water",
+                "movement"
+              ],
+              "why": "An open morning at Falls Lake gives your child water to look at, trails through the trees, a playground, and plenty of space — a natural outdoor stretch before heading home.",
+              "tips": [
+                "Arrive at 09:00 for a quiet start before other families arrive.",
+                "Bring snacks and a blanket for a break near the water.",
+                "Dress in layers; it can be breezy at the lake in November."
+              ],
+              "also": [],
+              "area": "north-raleigh",
+              "outdoor": true,
+              "source": {
+                "kind": "park",
+                "title": "Falls Lake State Recreation Area - Holly Point Entrance",
+                "address": "14424 New Light Rd. Wake Forest",
+                "url": "https://www.ncparks.gov/falls-lake-state-recreation-area",
+                "amenities": [
+                  "playground",
+                  "picnic-shelter",
+                  "restroom",
+                  "greenway"
+                ],
+                "indoor": false,
+                "area": "north-raleigh",
+                "hours": null
+              }
+            },
+            {
+              "ref": "event:wake-parks:9411:2026-11-09",
+              "arrive": "08:20",
+              "leave": "11:00",
+              "interests": [
+                "animals",
+                "science",
+                "nature"
+              ],
+              "why": "A hands-on outdoor drop-in about bison conservation at Yates Mill on National Bison Day, with time to be home well before quiet. Registration required.",
+              "tips": [
+                "Register ahead.",
+                "Wear sturdy shoes for the natural surface park.",
+                "Leave by 11:00 for a comfortable run-up to quiet time."
+              ],
+              "also": [],
+              "area": "raleigh",
+              "outdoor": true,
+              "source": {
+                "kind": "event",
+                "title": "Exploration Station: American Bison",
+                "start": "2026-11-09T08:30:00",
+                "end": "2026-11-09T17:00:00",
+                "venue": "Historic Yates Mill County Park",
+                "address": "4620 Lake Wheeler Rd., Raleigh, NC  27603",
+                "url": "https://apm.activecommunities.com/wakeparks/Activity_Search/exploration-station-american-bison/9411?locale=en-US",
+                "cost": null,
+                "ages": null,
+                "registration": "https://apm.activecommunities.com/wakeparks/Activity_Search/exploration-station-american-bison/9411?locale=en-US",
+                "indoor": false,
+                "area": "raleigh",
+                "source": "wake-parks",
+                "dropIn": false
+              }
+            },
+            {
+              "ref": "event:durham-rec:19772:2026-11-09",
+              "arrive": "09:50",
+              "leave": "12:30",
+              "also": [
+                {
+                  "ref": "place:burton-park",
+                  "source": {
+                    "kind": "park",
+                    "title": "Burton Park",
+                    "address": "1501 Sima Ave, Durham, NC",
+                    "url": "https://www.dprplaymore.org/Facilities/Facility/Details/Burton-Park-7",
+                    "amenities": [
+                      "playground",
+                      "picnic-shelter"
+                    ],
+                    "indoor": false,
+                    "area": "durham",
+                    "hours": null
+                  }
+                }
+              ],
+              "interests": [
+                "movement",
+                "science",
+                "stories"
+              ],
+              "why": "Total Tot Time is an open gym session with a parachute, tunnels, and free play for ages 0–5, followed by outdoor time at Burton Park — a full social morning before quiet. Registration required.",
+              "tips": [
+                "Register ahead.",
+                "Dress in layers; the gym can be warm and the park is cooler outside.",
+                "Leave the park by 12:30 to be home for a quick lunch before quiet time."
+              ],
+              "area": "durham",
+              "outdoor": false,
+              "source": {
+                "kind": "event",
+                "title": "Total Tot Time",
+                "start": "2026-11-09T10:00:00",
+                "end": "2026-11-09T12:00:00",
+                "venue": "W.D. Hill Rec Ctr",
+                "address": "1308 Fayetteville St, Durham, NC",
+                "url": "https://apm.activecommunities.com/dprplaymore/Activity_Search/total-tot-time/19772?locale=en-US",
+                "cost": null,
+                "ages": "1 - 6",
+                "registration": "https://apm.activecommunities.com/dprplaymore/Activity_Search/total-tot-time/19772?locale=en-US",
+                "indoor": true,
+                "area": "durham",
+                "source": "durham-rec",
+                "dropIn": false
+              }
+            }
+          ],
+          "rainBackup": null,
+          "timeline": [
+            {
+              "start": "07:00",
+              "end": "07:30",
+              "kind": "routine",
+              "title": "Wake up and breakfast"
+            },
+            {
+              "start": "07:30",
+              "end": "09:30",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "09:30",
+              "end": "10:00",
+              "kind": "travel",
+              "title": "Drive to Pullen Park"
+            },
+            {
+              "start": "10:00",
+              "end": "12:00",
+              "kind": "outing",
+              "title": "Pullen Park Amusements",
+              "detail": "Carousel, train ride, paddleboats, and playground in the open air."
+            },
+            {
+              "start": "12:00",
+              "end": "12:25",
+              "kind": "travel",
+              "title": "Drive home"
+            },
+            {
+              "start": "12:25",
+              "end": "13:00",
+              "kind": "meal",
+              "title": "Lunch"
+            },
+            {
+              "start": "13:00",
+              "end": "13:45",
+              "kind": "quiet",
+              "title": "Quiet time"
+            },
+            {
+              "start": "13:45",
+              "end": "14:15",
+              "kind": "routine",
+              "title": "Snack and get ready for the afternoon"
+            },
+            {
+              "start": "14:15",
+              "end": "16:00",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "16:00",
+              "end": "17:30",
+              "kind": "play",
+              "title": "Play at a nearby park"
+            },
+            {
+              "start": "17:30",
+              "end": "17:45",
+              "kind": "travel",
+              "title": "Drive home"
+            },
+            {
+              "start": "17:45",
+              "end": "18:15",
+              "kind": "meal",
+              "title": "Dinner"
+            },
+            {
+              "start": "18:15",
+              "end": "19:30",
+              "kind": "routine",
+              "title": "Bath and bedtime routine"
+            }
+          ]
+        },
+        {
+          "nap": "no-nap",
+          "napLabel": "No nap",
+          "headline": "Falls Lake State Recreation Area — Holly Point morning",
+          "main": {
+            "ref": "place:falls-lake-state-recreation-area-holly-point-entrance",
+            "arrive": "09:00",
+            "leave": "11:30",
+            "interests": [
+              "nature",
+              "water",
+              "movement"
+            ],
+            "why": "Falls Lake gives a 4.5-year-old open water to look at, trails through the November trees, a playground, and wide-open space with no agenda — a real outdoor morning with plenty to explore at their own pace.",
+            "tips": [
+              "Arrive at 09:00 for a quiet stretch before other families arrive.",
+              "Bring snacks and a blanket for a rest near the water.",
+              "Dress in layers — it can be breezy at the lake in November."
+            ],
+            "also": [],
+            "area": "north-raleigh",
+            "outdoor": true,
+            "source": {
+              "kind": "park",
+              "title": "Falls Lake State Recreation Area - Holly Point Entrance",
+              "address": "14424 New Light Rd. Wake Forest",
+              "url": "https://www.ncparks.gov/falls-lake-state-recreation-area",
+              "amenities": [
+                "playground",
+                "picnic-shelter",
+                "restroom",
+                "greenway"
+              ],
+              "indoor": false,
+              "area": "north-raleigh",
+              "hours": null
+            }
+          },
+          "alternatives": [
+            {
+              "ref": "place:pullen-park-amusements",
+              "arrive": "10:00",
+              "leave": "12:30",
+              "interests": [
+                "vehicles",
+                "movement",
+                "water"
+              ],
+              "why": "Carousel, train, boats, and a playground fill a relaxed mid-morning at Pullen Park — a classic outdoor outing for this age with no registration needed.",
+              "tips": [
+                "Arrive at 10:00 when the park opens.",
+                "Bring cash or card for ride tokens.",
+                "The playground fills time between rides."
+              ],
+              "also": [],
+              "area": "raleigh",
+              "outdoor": true,
+              "source": {
+                "kind": "park",
+                "title": "Pullen Park Amusements",
+                "address": "410 Park Ave, Raleigh, NC 27606",
+                "url": "https://raleighnc.gov/parks-and-recreation/places/pullen-park-amusements",
+                "amenities": [
+                  "carousel",
+                  "boating",
+                  "train",
+                  "amusements",
+                  "courts",
+                  "playground",
+                  "picnic-shelter"
+                ],
+                "indoor": false,
+                "area": "raleigh",
+                "hours": {
+                  "mon": "10 a.m.–6 p.m.",
+                  "tue": "10 a.m.–6 p.m.",
+                  "wed": "10 a.m.–6 p.m.",
+                  "thu": "10 a.m.–6 p.m.",
+                  "fri": "10 a.m.–8 p.m.",
+                  "sat": "10 a.m.–8 p.m.",
+                  "sun": "10 a.m.–8 p.m."
+                }
+              }
+            },
+            {
+              "ref": "event:libcal:durham-county-library:17592395",
+              "arrive": "09:50",
+              "leave": "11:00",
+              "also": [
+                {
+                  "ref": "place:durham-central-park",
+                  "source": {
+                    "kind": "park",
+                    "title": "Durham Central Park",
+                    "address": "501 Foster St, Durham, NC",
+                    "url": "https://www.dprplaymore.org/Facilities/Facility/Details/Durham-Central-Park-18",
+                    "amenities": [
+                      "playground",
+                      "restroom",
+                      "greenway"
+                    ],
+                    "indoor": false,
+                    "area": "durham",
+                    "hours": null
+                  }
+                }
+              ],
+              "interests": [
+                "stories",
+                "nature",
+                "science"
+              ],
+              "why": "A seasonal farm storytime followed by outdoor play at Durham Central Park — a short, contained morning with a distinctive farm setting. Registration required.",
+              "tips": [
+                "Book your spot ahead.",
+                "Arrive at 09:50 to settle in at the farm before the session starts.",
+                "The park stop is weather permitting."
+              ],
+              "area": "durham",
+              "outdoor": false,
+              "source": {
+                "kind": "event",
+                "title": "Storytime @ the Hub Farm",
+                "start": "2026-11-09T10:00:00",
+                "end": "2026-11-09T10:30:00",
+                "venue": "Durham County Library",
+                "address": "501 Foster St, Durham, NC",
+                "url": "https://durhamcountylibrary.libcal.com/event/17592395",
+                "cost": null,
+                "ages": "Pre-School, Toddler",
+                "registration": "https://durhamcountylibrary.libcal.com/event/17592395",
+                "indoor": true,
+                "area": "durham",
+                "source": "libcal",
+                "dropIn": false
+              }
+            },
+            {
+              "ref": "place:jc-raulston-arboretum",
+              "arrive": "09:00",
+              "leave": "11:00",
+              "interests": [
+                "nature",
+                "science"
+              ],
+              "why": "A free morning walk through the NC State arboretum — seasonal plants and open garden paths that a curious 4.5-year-old can explore without rushing.",
+              "tips": [
+                "Arrive at 09:00 when the arboretum opens for the quietest stretch.",
+                "No pets are allowed.",
+                "Bring a snack for a sit-down break in the garden."
+              ],
+              "also": [],
+              "area": "raleigh",
+              "outdoor": true,
+              "source": {
+                "kind": "garden",
+                "title": "JC Raulston Arboretum",
+                "address": "4415 Beryl Rd, Raleigh, NC 27606",
+                "url": "https://jcra.ncsu.edu/",
+                "amenities": [
+                  "garden",
+                  "nature"
+                ],
+                "indoor": false,
+                "area": "raleigh",
+                "hours": {
+                  "mon": "9 a.m.–4:30 p.m.",
+                  "tue": "9 a.m.–4:30 p.m.",
+                  "wed": "9 a.m.–4:30 p.m.",
+                  "thu": "9 a.m.–4:30 p.m.",
+                  "fri": "9 a.m.–4:30 p.m.",
+                  "sat": "9 a.m.–5 p.m.",
+                  "sun": "9 a.m.–5 p.m."
+                }
+              }
+            },
+            {
+              "ref": "event:wake-parks:8358:2026-11-09",
+              "arrive": "08:00",
+              "leave": "09:30",
+              "interests": [
+                "stories",
+                "nature"
+              ],
+              "why": "An early self-guided story walk along the accessible loop at Beech Bluff County Park — a calm start that leaves the whole rest of the day open.",
+              "tips": [
+                "Going at 08:00 means a peaceful trail to yourselves.",
+                "Read each panel aloud and pause to look around.",
+                "Bring a snack for after the loop."
+              ],
+              "also": [],
+              "area": "south-wake",
+              "outdoor": true,
+              "source": {
+                "kind": "event",
+                "title": "Beech Bluff County Park StoryWalk® 2026 (Self-Led)",
+                "start": "2026-11-09T08:00:00",
+                "end": "2026-11-09T17:30:00",
+                "venue": "Beech Bluff County Park",
+                "address": "Beech Bluff Park Drive, Fuquay-Varina, NC",
+                "url": "https://apm.activecommunities.com/wakeparks/Activity_Search/beech-bluff-county-park-storywalk-2026-self-led/8358?locale=en-US",
+                "cost": "Free",
+                "ages": null,
+                "registration": false,
+                "indoor": false,
+                "area": "south-wake",
+                "source": "wake-parks",
+                "dropIn": true
+              }
+            }
+          ],
+          "rainBackup": null,
+          "timeline": [
+            {
+              "start": "07:00",
+              "end": "07:30",
+              "kind": "routine",
+              "title": "Wake up and breakfast"
+            },
+            {
+              "start": "07:30",
+              "end": "08:30",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "08:30",
+              "end": "09:00",
+              "kind": "travel",
+              "title": "Drive to Falls Lake — Holly Point"
+            },
+            {
+              "start": "09:00",
+              "end": "11:30",
+              "kind": "outing",
+              "title": "Falls Lake State Recreation Area — Holly Point",
+              "detail": "Open water, woodland trails, playground, and picnic area at the lake's edge."
+            },
+            {
+              "start": "11:30",
+              "end": "12:00",
+              "kind": "travel",
+              "title": "Drive home"
+            },
+            {
+              "start": "12:00",
+              "end": "12:45",
+              "kind": "meal",
+              "title": "Lunch"
+            },
+            {
+              "start": "12:45",
+              "end": "14:30",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "14:30",
+              "end": "16:00",
+              "kind": "play",
+              "title": "Play at a nearby park"
+            },
+            {
+              "start": "16:00",
+              "end": "16:15",
+              "kind": "travel",
+              "title": "Drive home"
+            },
+            {
+              "start": "16:15",
+              "end": "17:30",
+              "kind": "play",
+              "title": "Play at home and snack"
+            },
+            {
+              "start": "17:30",
+              "end": "18:15",
+              "kind": "meal",
+              "title": "Dinner"
+            },
+            {
+              "start": "18:15",
+              "end": "19:30",
+              "kind": "routine",
+              "title": "Bath and bedtime routine"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "checked": {
+    "at": "2026-10-31T16:05:33.437Z",
+    "forecast": "none",
+    "weather": null
+  }
+}

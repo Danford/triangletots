@@ -1,0 +1,1030 @@
+{
+  "date": "2026-11-07",
+  "band": "t4",
+  "versions": [
+    {
+      "at": "2026-10-27T08:28:51.887Z",
+      "reason": null,
+      "forecast": "none",
+      "weather": null,
+      "plans": [
+        {
+          "nap": "short-nap",
+          "napLabel": "Short nap, 1 to 2",
+          "headline": "Durham Farmers' Market at Durham Central Park",
+          "main": {
+            "ref": "event:museum:durham-central-park:13372",
+            "arrive": "08:00",
+            "leave": "10:30",
+            "interests": [
+              "nature",
+              "science",
+              "movement"
+            ],
+            "why": "A Saturday farmers' market at Durham Central Park is an outdoor sensory adventure for a 4.5-year-old: fresh flowers, colorful produce, baked goods, and the bustle of vendors and neighbors all in the open air.",
+            "tips": [
+              "Arrive right at 08:00 while the stalls are freshest and the crowds are thin.",
+              "Let your child pick one thing to buy from a vendor — it makes the trip feel like theirs.",
+              "Head home by 10:30 to leave plenty of time for lunch and a comfortable nap."
+            ],
+            "also": [],
+            "area": "durham",
+            "outdoor": true,
+            "source": {
+              "kind": "event",
+              "title": "Durham Farmer’ Market",
+              "start": "2026-11-07T08:00:00",
+              "end": "2026-11-07T12:00:00",
+              "venue": "Durham Central Park",
+              "address": "501 Foster Street, Durham, NC, 27701",
+              "url": "https://durhamcentralpark.org/upcoming-event/durham-farmer-market/2026-11-07/",
+              "cost": null,
+              "ages": null,
+              "registration": null,
+              "indoor": false,
+              "area": "durham",
+              "source": "museum",
+              "dropIn": true,
+              "lat": 36.0008,
+              "lon": -78.9021
+            }
+          },
+          "alternatives": [
+            {
+              "ref": "event:wake-parks:9411:2026-11-07",
+              "arrive": "08:20",
+              "leave": "12:00",
+              "interests": [
+                "animals",
+                "science",
+                "nature"
+              ],
+              "why": "A drop-in Exploration Station at Yates Mill celebrates National Bison Day with hands-on activities about the conservation of the United States' national mammal. Registration required.",
+              "tips": [
+                "Register ahead — drop-in programs at Yates Mill fill quickly.",
+                "Dress for the outdoors; the site is on natural grounds.",
+                "Leave by noon to be home well before the nap."
+              ],
+              "also": [],
+              "area": "raleigh",
+              "outdoor": true,
+              "source": {
+                "kind": "event",
+                "title": "Exploration Station: American Bison",
+                "start": "2026-11-07T08:30:00",
+                "end": "2026-11-07T17:00:00",
+                "venue": "Historic Yates Mill County Park",
+                "address": "4620 Lake Wheeler Rd., Raleigh, NC  27603",
+                "url": "https://apm.activecommunities.com/wakeparks/Activity_Search/exploration-station-american-bison/9411?locale=en-US",
+                "cost": null,
+                "ages": null,
+                "registration": "https://apm.activecommunities.com/wakeparks/Activity_Search/exploration-station-american-bison/9411?locale=en-US",
+                "indoor": false,
+                "area": "raleigh",
+                "source": "wake-parks",
+                "dropIn": false,
+                "lat": 35.72157134974476,
+                "lon": -78.68526087901417
+              }
+            },
+            {
+              "ref": "event:weekly:mols-early-childhood:2026-11-07",
+              "arrive": "09:20",
+              "leave": "11:00",
+              "interests": [
+                "animals",
+                "nature",
+                "science"
+              ],
+              "why": "Outdoor play-based activities, songs, and sensory play at Hideaway Woods in the Museum of Life and Science — treehouses, a creek, and farm animals within a short morning.",
+              "tips": [
+                "Drop in at 09:20 and stay as long as your child is engaged.",
+                "Dress for outdoor play including muddy shoes.",
+                "This is included with museum admission."
+              ],
+              "also": [],
+              "area": "durham",
+              "outdoor": true,
+              "source": {
+                "kind": "event",
+                "title": "Early Childhood Drop-In",
+                "start": "2026-11-07T09:30:00",
+                "end": "2026-11-07T11:30:00",
+                "venue": "Hideaway Woods, Museum of Life and Science",
+                "address": "433 W Murray Ave, Durham, NC 27704",
+                "url": "https://www.lifeandscience.org/learn/drop-in-programs/",
+                "cost": "Included with museum admission",
+                "ages": "young children and their caregivers",
+                "registration": false,
+                "indoor": false,
+                "area": "durham",
+                "source": "weekly",
+                "dropIn": true,
+                "lat": 36.0294,
+                "lon": -78.8993
+              }
+            },
+            {
+              "ref": "event:libcal:durham-county-library:17463477",
+              "arrive": "09:50",
+              "leave": "11:00",
+              "also": [
+                {
+                  "ref": "place:forest-hills-park",
+                  "source": {
+                    "kind": "park",
+                    "title": "Forest Hills Park",
+                    "address": "1639 University Dr, Durham, NC",
+                    "url": "https://www.dprplaymore.org/Facilities/Facility/Details/Forest-Hills-Park-24",
+                    "amenities": [
+                      "playground",
+                      "splashpad",
+                      "picnic-shelter",
+                      "restroom",
+                      "greenway"
+                    ],
+                    "indoor": false,
+                    "area": "durham",
+                    "hours": null,
+                    "lat": 35.98149000000001,
+                    "lon": -78.91138333333333,
+                    "cost": null
+                  }
+                }
+              ],
+              "interests": [
+                "stories",
+                "movement",
+                "art"
+              ],
+              "why": "Circle and Square is a short theatrical performance for ages 2–5 with a mostly non-verbal story about shapes and friendship, followed by playground time at Forest Hills Park.",
+              "tips": [
+                "Registration is required; book ahead.",
+                "The performance is only 30 minutes, so reassure your child there is more fun at the park right after.",
+                "Weather permitting, the park adds a good run before heading home."
+              ],
+              "area": "durham",
+              "outdoor": false,
+              "source": {
+                "kind": "event",
+                "title": "Small is All Productions Presents: Circle & Square @ Stanford L. Warren",
+                "start": "2026-11-07T10:00:00",
+                "end": "2026-11-07T10:30:00",
+                "venue": "Stanford L. Warren Library",
+                "address": "1201 Fayetteville St, Durham, NC",
+                "url": "https://durhamcountylibrary.libcal.com/event/17463477",
+                "cost": null,
+                "ages": "Baby, Elementary School, Intergenerational, Kindergarten, Pre-School, Toddler",
+                "registration": "https://durhamcountylibrary.libcal.com/event/17463477",
+                "indoor": true,
+                "area": "durham",
+                "source": "libcal",
+                "dropIn": false,
+                "lat": 35.98257910627115,
+                "lon": -78.89855829826878
+              }
+            },
+            {
+              "ref": "event:museum:ncma:5364",
+              "arrive": "11:50",
+              "leave": "12:30",
+              "interests": [
+                "art",
+                "science"
+              ],
+              "why": "A drop-in outdoor art program at the NC Museum of Art exploring digital art — a low-key creative experience that fits neatly in the late-morning slot before the nap.",
+              "tips": [
+                "Arrive at 11:50 so you catch the start; leaving by 12:30 gives enough time to get home for lunch and nap.",
+                "The museum grounds are expansive and good for a short walk if you arrive a few minutes early.",
+                "Check admission requirements before you go."
+              ],
+              "also": [],
+              "area": "raleigh",
+              "outdoor": true,
+              "source": {
+                "kind": "event",
+                "title": "Pop-Up Art with Nancy Baker Cahill",
+                "start": "2026-11-07T12:00:00",
+                "end": "2026-11-07T15:00:00",
+                "venue": "NC Museum of Art",
+                "address": "2110 Blue Ridge Rd, Raleigh, NC 27607",
+                "url": "https://ncartmuseum.org/event/pop-up-art-with-nancy-baker-cahill/",
+                "cost": null,
+                "ages": "Families",
+                "registration": null,
+                "indoor": false,
+                "area": "raleigh",
+                "source": "museum",
+                "dropIn": true,
+                "lat": 35.8105,
+                "lon": -78.7022
+              }
+            }
+          ],
+          "rainBackup": null,
+          "timeline": [
+            {
+              "start": "07:00",
+              "end": "07:30",
+              "kind": "meal",
+              "title": "Up and breakfast"
+            },
+            {
+              "start": "07:30",
+              "end": "07:40",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "07:40",
+              "end": "08:00",
+              "kind": "travel",
+              "title": "Drive to Durham Central Park"
+            },
+            {
+              "start": "08:00",
+              "end": "10:30",
+              "kind": "outing",
+              "title": "Durham Central Park"
+            },
+            {
+              "start": "10:30",
+              "end": "10:50",
+              "kind": "travel",
+              "title": "Drive home"
+            },
+            {
+              "start": "10:50",
+              "end": "12:15",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "12:15",
+              "end": "12:45",
+              "kind": "meal",
+              "title": "Lunch"
+            },
+            {
+              "start": "12:45",
+              "end": "13:00",
+              "kind": "quiet",
+              "title": "Wind down",
+              "detail": "A couple of books to settle."
+            },
+            {
+              "start": "13:00",
+              "end": "14:00",
+              "kind": "nap",
+              "title": "Nap"
+            },
+            {
+              "start": "14:00",
+              "end": "14:20",
+              "kind": "routine",
+              "title": "Up and a snack"
+            },
+            {
+              "start": "14:20",
+              "end": "18:30",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "18:30",
+              "end": "19:15",
+              "kind": "meal",
+              "title": "Dinner"
+            },
+            {
+              "start": "19:15",
+              "end": "20:00",
+              "kind": "routine",
+              "title": "Bath, books and bed"
+            }
+          ]
+        },
+        {
+          "nap": "quiet",
+          "napLabel": "Quiet time",
+          "headline": "Sensory Time at Eva Perry Regional Library and Apex Community Park",
+          "main": {
+            "ref": "event:wake:24350",
+            "arrive": "14:50",
+            "leave": "16:30",
+            "also": [
+              {
+                "ref": "place:apex-community-park",
+                "source": {
+                  "kind": "park",
+                  "title": "Apex Community Park",
+                  "address": "2200 Laura Duncan Rd., Apex, NC",
+                  "url": "http://www.apexnc.org/795/Apex-Community-Park",
+                  "amenities": [
+                    "playground",
+                    "picnic-shelter",
+                    "restroom",
+                    "greenway"
+                  ],
+                  "indoor": false,
+                  "area": "cary-apex",
+                  "hours": null,
+                  "lat": 35.75461588131496,
+                  "lon": -78.82862025650613,
+                  "cost": null
+                }
+              }
+            ],
+            "interests": [
+              "movement",
+              "music",
+              "stories"
+            ],
+            "why": "A creative class blending yoga, music, stories, and imagination gives your child a gentle, expressive afternoon — then Apex Community Park adds outdoor time straight after, weather permitting.",
+            "tips": [
+              "Wear comfortable clothes your child can move and stretch in freely.",
+              "Arrive at 14:50 to settle in before the session begins.",
+              "If the weather holds, the park after is a lovely way to close the afternoon; skip it if conditions change."
+            ],
+            "area": "cary-apex",
+            "outdoor": false,
+            "source": {
+              "kind": "event",
+              "title": "Sensory Time",
+              "start": "2026-11-07T15:00:00-05:00",
+              "end": "2026-11-07T16:00:00-05:00",
+              "venue": "Eva Perry Regional Library",
+              "address": "2100 Shepherds Vineyard Drive, Apex, NC",
+              "url": "https://www.wake.gov/events/sensory-time-3",
+              "cost": "Free",
+              "ages": "Young Children",
+              "registration": null,
+              "indoor": true,
+              "area": "cary-apex",
+              "source": "wake-county",
+              "dropIn": false,
+              "lat": 35.7437832024768,
+              "lon": -78.8251607833066
+            }
+          },
+          "alternatives": [
+            {
+              "ref": "event:museum:durham-central-park:13372",
+              "arrive": "08:00",
+              "leave": "10:30",
+              "interests": [
+                "nature",
+                "science",
+                "movement"
+              ],
+              "why": "A Saturday farmers' market at Durham Central Park — a relaxed outdoor morning of stalls, fresh produce, and community before heading home for lunch.",
+              "tips": [
+                "Arrive at 08:00 for the freshest stalls and fewest crowds.",
+                "Let your child choose one thing to buy from a vendor.",
+                "Head home by 10:30 for a comfortable stretch before quiet time."
+              ],
+              "also": [],
+              "area": "durham",
+              "outdoor": true,
+              "source": {
+                "kind": "event",
+                "title": "Durham Farmer’ Market",
+                "start": "2026-11-07T08:00:00",
+                "end": "2026-11-07T12:00:00",
+                "venue": "Durham Central Park",
+                "address": "501 Foster Street, Durham, NC, 27701",
+                "url": "https://durhamcentralpark.org/upcoming-event/durham-farmer-market/2026-11-07/",
+                "cost": null,
+                "ages": null,
+                "registration": null,
+                "indoor": false,
+                "area": "durham",
+                "source": "museum",
+                "dropIn": true,
+                "lat": 36.0008,
+                "lon": -78.9021
+              }
+            },
+            {
+              "ref": "event:wake-parks:9411:2026-11-07",
+              "arrive": "08:20",
+              "leave": "11:00",
+              "interests": [
+                "animals",
+                "science",
+                "nature"
+              ],
+              "why": "National Bison Day drop-in Exploration Station at Yates Mill — hands-on learning about bison conservation on an outdoor natural site. Registration required.",
+              "tips": [
+                "Register ahead.",
+                "Wear sturdy shoes for the natural grounds.",
+                "Leaving by 11:00 keeps the morning well clear of quiet time."
+              ],
+              "also": [],
+              "area": "raleigh",
+              "outdoor": true,
+              "source": {
+                "kind": "event",
+                "title": "Exploration Station: American Bison",
+                "start": "2026-11-07T08:30:00",
+                "end": "2026-11-07T17:00:00",
+                "venue": "Historic Yates Mill County Park",
+                "address": "4620 Lake Wheeler Rd., Raleigh, NC  27603",
+                "url": "https://apm.activecommunities.com/wakeparks/Activity_Search/exploration-station-american-bison/9411?locale=en-US",
+                "cost": null,
+                "ages": null,
+                "registration": "https://apm.activecommunities.com/wakeparks/Activity_Search/exploration-station-american-bison/9411?locale=en-US",
+                "indoor": false,
+                "area": "raleigh",
+                "source": "wake-parks",
+                "dropIn": false,
+                "lat": 35.72157134974476,
+                "lon": -78.68526087901417
+              }
+            },
+            {
+              "ref": "event:raleigh:fall-arts-fair",
+              "arrive": "14:50",
+              "leave": "17:30",
+              "interests": [
+                "art",
+                "movement",
+                "nature"
+              ],
+              "why": "A free outdoor arts festival at Fred Fletcher Park on a Saturday afternoon — artists at work, stalls to explore, and an open green space for your child to move through at their own pace.",
+              "tips": [
+                "Arrive at 14:50 with good energy for the fair.",
+                "Bring a snack and something to sit on for breaks.",
+                "Leave by 17:30 to be home in time for dinner and a comfortable bedtime."
+              ],
+              "also": [],
+              "area": "raleigh",
+              "outdoor": true,
+              "source": {
+                "kind": "event",
+                "title": "Fall Arts Fair",
+                "start": "2026-11-07T15:00:00",
+                "end": "2026-11-07T21:00:00",
+                "venue": "Fred Fletcher Park",
+                "address": "805 Washington St, Raleigh, NC 27605",
+                "url": "https://raleighnc.gov/arts/events/fall-arts-fair",
+                "cost": "Free and open to the public!",
+                "ages": null,
+                "registration": null,
+                "indoor": false,
+                "area": "raleigh",
+                "source": "raleigh",
+                "dropIn": true,
+                "lat": 35.79264,
+                "lon": -78.64957
+              }
+            },
+            {
+              "ref": "event:libcal:durham-county-library:17463477",
+              "arrive": "09:50",
+              "leave": "11:00",
+              "also": [
+                {
+                  "ref": "place:forest-hills-park",
+                  "source": {
+                    "kind": "park",
+                    "title": "Forest Hills Park",
+                    "address": "1639 University Dr, Durham, NC",
+                    "url": "https://www.dprplaymore.org/Facilities/Facility/Details/Forest-Hills-Park-24",
+                    "amenities": [
+                      "playground",
+                      "splashpad",
+                      "picnic-shelter",
+                      "restroom",
+                      "greenway"
+                    ],
+                    "indoor": false,
+                    "area": "durham",
+                    "hours": null,
+                    "lat": 35.98149000000001,
+                    "lon": -78.91138333333333,
+                    "cost": null
+                  }
+                }
+              ],
+              "interests": [
+                "stories",
+                "movement",
+                "art"
+              ],
+              "why": "A short theatrical performance for ages 2–5 followed by outdoor play at Forest Hills Park — a gentle, contained morning activity well before quiet time.",
+              "tips": [
+                "Registration is required; book ahead.",
+                "The show is 30 minutes; reassure your child the park comes right after.",
+                "Weather permitting, allow the full 20 minutes at the park."
+              ],
+              "area": "durham",
+              "outdoor": false,
+              "source": {
+                "kind": "event",
+                "title": "Small is All Productions Presents: Circle & Square @ Stanford L. Warren",
+                "start": "2026-11-07T10:00:00",
+                "end": "2026-11-07T10:30:00",
+                "venue": "Stanford L. Warren Library",
+                "address": "1201 Fayetteville St, Durham, NC",
+                "url": "https://durhamcountylibrary.libcal.com/event/17463477",
+                "cost": null,
+                "ages": "Baby, Elementary School, Intergenerational, Kindergarten, Pre-School, Toddler",
+                "registration": "https://durhamcountylibrary.libcal.com/event/17463477",
+                "indoor": true,
+                "area": "durham",
+                "source": "libcal",
+                "dropIn": false,
+                "lat": 35.98257910627115,
+                "lon": -78.89855829826878
+              }
+            }
+          ],
+          "rainBackup": null,
+          "timeline": [
+            {
+              "start": "07:00",
+              "end": "07:30",
+              "kind": "meal",
+              "title": "Up and breakfast"
+            },
+            {
+              "start": "07:30",
+              "end": "11:45",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "11:45",
+              "end": "12:15",
+              "kind": "meal",
+              "title": "Lunch"
+            },
+            {
+              "start": "12:15",
+              "end": "13:00",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "13:00",
+              "end": "13:45",
+              "kind": "quiet",
+              "title": "Quiet time",
+              "detail": "Books or quiet play in their room."
+            },
+            {
+              "start": "13:45",
+              "end": "14:10",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "14:10",
+              "end": "14:30",
+              "kind": "routine",
+              "title": "Get ready to go",
+              "detail": "Shoes on, diaper bag, water and a snack."
+            },
+            {
+              "start": "14:30",
+              "end": "14:50",
+              "kind": "travel",
+              "title": "Drive to Eva Perry Regional Library"
+            },
+            {
+              "start": "14:50",
+              "end": "16:00",
+              "kind": "outing",
+              "title": "Sensory Time"
+            },
+            {
+              "start": "16:00",
+              "end": "16:10",
+              "kind": "travel",
+              "title": "Drive to Apex Community Park"
+            },
+            {
+              "start": "16:10",
+              "end": "16:30",
+              "kind": "outing",
+              "title": "Apex Community Park"
+            },
+            {
+              "start": "16:30",
+              "end": "16:50",
+              "kind": "travel",
+              "title": "Drive home"
+            },
+            {
+              "start": "16:50",
+              "end": "18:00",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "18:00",
+              "end": "18:45",
+              "kind": "meal",
+              "title": "Dinner"
+            },
+            {
+              "start": "18:45",
+              "end": "19:30",
+              "kind": "routine",
+              "title": "Bath, books and bed"
+            }
+          ]
+        },
+        {
+          "nap": "no-nap",
+          "napLabel": "No nap",
+          "headline": "Fall Arts Fair at Fred Fletcher Park",
+          "main": {
+            "ref": "event:raleigh:fall-arts-fair",
+            "arrive": "14:50",
+            "leave": "17:45",
+            "interests": [
+              "art",
+              "movement",
+              "nature"
+            ],
+            "why": "A free outdoor arts festival at Fred Fletcher Park fills a Saturday afternoon with artists, stalls, and an open green space for your child to wander and explore at their own pace.",
+            "tips": [
+              "Arrive at 14:50 with good energy — the fair has a lot to take in.",
+              "Bring a small snack and something to sit on for rest breaks between stops.",
+              "Leave by 17:45 to have a comfortable dinner and bedtime."
+            ],
+            "also": [],
+            "area": "raleigh",
+            "outdoor": true,
+            "source": {
+              "kind": "event",
+              "title": "Fall Arts Fair",
+              "start": "2026-11-07T15:00:00",
+              "end": "2026-11-07T21:00:00",
+              "venue": "Fred Fletcher Park",
+              "address": "805 Washington St, Raleigh, NC 27605",
+              "url": "https://raleighnc.gov/arts/events/fall-arts-fair",
+              "cost": "Free and open to the public!",
+              "ages": null,
+              "registration": null,
+              "indoor": false,
+              "area": "raleigh",
+              "source": "raleigh",
+              "dropIn": true,
+              "lat": 35.79264,
+              "lon": -78.64957
+            }
+          },
+          "alternatives": [
+            {
+              "ref": "event:museum:durham-central-park:13372",
+              "arrive": "08:00",
+              "leave": "10:30",
+              "interests": [
+                "nature",
+                "science",
+                "movement"
+              ],
+              "why": "An early Saturday morning at the Durham Farmers' Market — fresh stalls, flowers, and the lively outdoor atmosphere of Durham Central Park.",
+              "tips": [
+                "Arrive at 08:00 for the best selection and quieter crowds.",
+                "Let your child pick something from a vendor for a sense of ownership.",
+                "Head home by 10:30 for a relaxed morning back at home."
+              ],
+              "also": [],
+              "area": "durham",
+              "outdoor": true,
+              "source": {
+                "kind": "event",
+                "title": "Durham Farmer’ Market",
+                "start": "2026-11-07T08:00:00",
+                "end": "2026-11-07T12:00:00",
+                "venue": "Durham Central Park",
+                "address": "501 Foster Street, Durham, NC, 27701",
+                "url": "https://durhamcentralpark.org/upcoming-event/durham-farmer-market/2026-11-07/",
+                "cost": null,
+                "ages": null,
+                "registration": null,
+                "indoor": false,
+                "area": "durham",
+                "source": "museum",
+                "dropIn": true,
+                "lat": 36.0008,
+                "lon": -78.9021
+              }
+            },
+            {
+              "ref": "event:wake-parks:9411:2026-11-07",
+              "arrive": "08:20",
+              "leave": "11:00",
+              "interests": [
+                "animals",
+                "science",
+                "nature"
+              ],
+              "why": "Drop in at the Exploration Station at Yates Mill on National Bison Day for hands-on activities about these iconic animals and their conservation. Registration required.",
+              "tips": [
+                "Register ahead.",
+                "Wear closed-toe shoes for the natural surface grounds.",
+                "Bring water; the site is outdoors and can be breezy in November."
+              ],
+              "also": [],
+              "area": "raleigh",
+              "outdoor": true,
+              "source": {
+                "kind": "event",
+                "title": "Exploration Station: American Bison",
+                "start": "2026-11-07T08:30:00",
+                "end": "2026-11-07T17:00:00",
+                "venue": "Historic Yates Mill County Park",
+                "address": "4620 Lake Wheeler Rd., Raleigh, NC  27603",
+                "url": "https://apm.activecommunities.com/wakeparks/Activity_Search/exploration-station-american-bison/9411?locale=en-US",
+                "cost": null,
+                "ages": null,
+                "registration": "https://apm.activecommunities.com/wakeparks/Activity_Search/exploration-station-american-bison/9411?locale=en-US",
+                "indoor": false,
+                "area": "raleigh",
+                "source": "wake-parks",
+                "dropIn": false,
+                "lat": 35.72157134974476,
+                "lon": -78.68526087901417
+              }
+            },
+            {
+              "ref": "event:libcal:durham-county-library:17463477",
+              "arrive": "09:50",
+              "leave": "11:00",
+              "also": [
+                {
+                  "ref": "place:forest-hills-park",
+                  "source": {
+                    "kind": "park",
+                    "title": "Forest Hills Park",
+                    "address": "1639 University Dr, Durham, NC",
+                    "url": "https://www.dprplaymore.org/Facilities/Facility/Details/Forest-Hills-Park-24",
+                    "amenities": [
+                      "playground",
+                      "splashpad",
+                      "picnic-shelter",
+                      "restroom",
+                      "greenway"
+                    ],
+                    "indoor": false,
+                    "area": "durham",
+                    "hours": null,
+                    "lat": 35.98149000000001,
+                    "lon": -78.91138333333333,
+                    "cost": null
+                  }
+                }
+              ],
+              "interests": [
+                "stories",
+                "movement",
+                "art"
+              ],
+              "why": "A short interactive theater piece for ages 2–5 about shapes and friendship, followed by a run at Forest Hills Park — a contained and memorable morning outing.",
+              "tips": [
+                "Registration is required; secure spots ahead of time.",
+                "The show is 30 minutes, so tell your child the park comes right after.",
+                "Weather permitting, stay at the park for the full 20 minutes before heading home."
+              ],
+              "area": "durham",
+              "outdoor": false,
+              "source": {
+                "kind": "event",
+                "title": "Small is All Productions Presents: Circle & Square @ Stanford L. Warren",
+                "start": "2026-11-07T10:00:00",
+                "end": "2026-11-07T10:30:00",
+                "venue": "Stanford L. Warren Library",
+                "address": "1201 Fayetteville St, Durham, NC",
+                "url": "https://durhamcountylibrary.libcal.com/event/17463477",
+                "cost": null,
+                "ages": "Baby, Elementary School, Intergenerational, Kindergarten, Pre-School, Toddler",
+                "registration": "https://durhamcountylibrary.libcal.com/event/17463477",
+                "indoor": true,
+                "area": "durham",
+                "source": "libcal",
+                "dropIn": false,
+                "lat": 35.98257910627115,
+                "lon": -78.89855829826878
+              }
+            },
+            {
+              "ref": "event:museum:ncma:5364",
+              "arrive": "11:50",
+              "leave": "15:30",
+              "also": [
+                {
+                  "ref": "place:ncma-museum-park",
+                  "source": {
+                    "kind": "garden",
+                    "title": "NC Museum of Art Museum Park",
+                    "address": "2110 Blue Ridge Rd, Raleigh, NC 27607",
+                    "url": "https://ncartmuseum.org/museum-park/",
+                    "amenities": [
+                      "garden",
+                      "nature",
+                      "greenway",
+                      "restroom"
+                    ],
+                    "indoor": false,
+                    "area": "raleigh",
+                    "hours": {
+                      "sun": "dawn to dusk",
+                      "mon": "dawn to dusk",
+                      "tue": "dawn to dusk",
+                      "wed": "dawn to dusk",
+                      "thu": "dawn to dusk",
+                      "fri": "dawn to dusk",
+                      "sat": "dawn to dusk"
+                    },
+                    "lat": 35.8105,
+                    "lon": -78.7022,
+                    "cost": "Free",
+                    "note": "Free. 164 acres of trails, lawns and big outdoor art; the Capital Area Greenway runs through."
+                  }
+                }
+              ],
+              "interests": [
+                "art",
+                "science",
+                "nature"
+              ],
+              "why": "A drop-in outdoor art program at the NC Museum of Art followed by a walk through the museum's open-air park — sculptures, trails, and big open lawns to explore after the creative session.",
+              "tips": [
+                "Arrive at 11:50 for a smooth start when the program opens at noon.",
+                "The museum park has 164 acres of trails and outdoor art; bring snacks for the walk.",
+                "Check admission requirements before you go."
+              ],
+              "area": "raleigh",
+              "outdoor": true,
+              "source": {
+                "kind": "event",
+                "title": "Pop-Up Art with Nancy Baker Cahill",
+                "start": "2026-11-07T12:00:00",
+                "end": "2026-11-07T15:00:00",
+                "venue": "NC Museum of Art",
+                "address": "2110 Blue Ridge Rd, Raleigh, NC 27607",
+                "url": "https://ncartmuseum.org/event/pop-up-art-with-nancy-baker-cahill/",
+                "cost": null,
+                "ages": "Families",
+                "registration": null,
+                "indoor": false,
+                "area": "raleigh",
+                "source": "museum",
+                "dropIn": true,
+                "lat": 35.8105,
+                "lon": -78.7022
+              }
+            }
+          ],
+          "rainBackup": null,
+          "timeline": [
+            {
+              "start": "07:00",
+              "end": "07:30",
+              "kind": "meal",
+              "title": "Up and breakfast"
+            },
+            {
+              "start": "07:30",
+              "end": "11:45",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "11:45",
+              "end": "12:15",
+              "kind": "meal",
+              "title": "Lunch"
+            },
+            {
+              "start": "12:15",
+              "end": "14:10",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "14:10",
+              "end": "14:30",
+              "kind": "routine",
+              "title": "Get ready to go",
+              "detail": "Shoes on, diaper bag, water and a snack."
+            },
+            {
+              "start": "14:30",
+              "end": "14:50",
+              "kind": "travel",
+              "title": "Drive to Fred Fletcher Park"
+            },
+            {
+              "start": "14:50",
+              "end": "17:45",
+              "kind": "outing",
+              "title": "Fred Fletcher Park"
+            },
+            {
+              "start": "17:45",
+              "end": "18:05",
+              "kind": "travel",
+              "title": "Drive home"
+            },
+            {
+              "start": "18:05",
+              "end": "18:45",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "18:45",
+              "end": "19:30",
+              "kind": "routine",
+              "title": "Bath, books and bed"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "checked": {
+    "at": "2026-11-01T11:06:04.567Z",
+    "forecast": "nws",
+    "weather": {
+      "period": "Saturday",
+      "tempF": 74,
+      "precipProbability": 16,
+      "shortForecast": "Slight Chance Rain Showers then Partly Sunny",
+      "hours": [
+        {
+          "t": "05:00",
+          "tempF": 58,
+          "pop": 16
+        },
+        {
+          "t": "06:00",
+          "tempF": 57,
+          "pop": 16
+        },
+        {
+          "t": "07:00",
+          "tempF": 58,
+          "pop": 9
+        },
+        {
+          "t": "08:00",
+          "tempF": 60,
+          "pop": 9
+        },
+        {
+          "t": "09:00",
+          "tempF": 64,
+          "pop": 9
+        },
+        {
+          "t": "10:00",
+          "tempF": 67,
+          "pop": 9
+        },
+        {
+          "t": "11:00",
+          "tempF": 69,
+          "pop": 9
+        },
+        {
+          "t": "12:00",
+          "tempF": 71,
+          "pop": 9
+        },
+        {
+          "t": "13:00",
+          "tempF": 72,
+          "pop": 7
+        },
+        {
+          "t": "14:00",
+          "tempF": 73,
+          "pop": 7
+        },
+        {
+          "t": "15:00",
+          "tempF": 74,
+          "pop": 7
+        },
+        {
+          "t": "16:00",
+          "tempF": 73,
+          "pop": 7
+        },
+        {
+          "t": "17:00",
+          "tempF": 71,
+          "pop": 7
+        }
+      ]
+    },
+    "hidden": []
+  }
+}

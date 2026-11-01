@@ -1,0 +1,964 @@
+{
+  "date": "2026-11-14",
+  "band": "t4",
+  "versions": [
+    {
+      "at": "2026-11-01T11:16:16.353Z",
+      "reason": null,
+      "forecast": "none",
+      "weather": null,
+      "plans": [
+        {
+          "nap": "short-nap",
+          "napLabel": "Short nap, 1 to 2",
+          "headline": "Carve foam stamps and print your own art",
+          "main": {
+            "ref": "event:raleigh:foam-stamp-printing-workshop",
+            "arrive": "14:30",
+            "leave": "16:30",
+            "why": "At Brentwood Park, artist Adam Cooley helps kids cut simple shapes and make their own foam stamps. Your child makes a print to take home.",
+            "tips": [
+              "Wear play clothes that can get messy.",
+              "Bring a snack and water for a break between prints.",
+              "Let your child pick the shapes, and say the last print is the one to take home."
+            ],
+            "interests": [
+              "art"
+            ],
+            "also": [],
+            "area": "raleigh",
+            "outdoor": true,
+            "source": {
+              "kind": "event",
+              "title": "Foam Stamp Printing Workshop",
+              "start": "2026-11-14T14:30:00",
+              "end": "2026-11-14T17:00:00",
+              "venue": "Brentwood Park",
+              "address": "3315 Vinson Ct, Raleigh, NC 27604",
+              "url": "https://raleighnc.gov/arts/events/foam-stamp-printing-workshop",
+              "cost": null,
+              "lat": 35.82856,
+              "lon": -78.59885,
+              "ages": null,
+              "registration": null,
+              "indoor": false,
+              "area": "raleigh",
+              "source": "raleigh",
+              "dropIn": false
+            }
+          },
+          "alternatives": [
+            {
+              "ref": "event:wake-parks:8357",
+              "arrive": "09:50",
+              "leave": "11:30",
+              "why": "Beech Bluff Explorers at 10:00 am is a hunt for animal signs. A family needs to sign up first. Then the playground at Beech Bluff County Park.",
+              "tips": [
+                "Sign up ahead and meet at the Canopy Room.",
+                "Ask your child to be a detective and guess who was here.",
+                "Save the playground until the hunt is done."
+              ],
+              "interests": [
+                "animals",
+                "nature"
+              ],
+              "also": [
+                {
+                  "ref": "place:beech-bluff-county-park",
+                  "source": {
+                    "kind": "park",
+                    "title": "Beech Bluff County Park",
+                    "address": "Beech Bluff Park Drive, Fuquay-Varina, NC",
+                    "lat": 35.58537279715877,
+                    "lon": -78.6793341971644,
+                    "url": "https://www.wake.gov/departments-government/parks-recreation-open-space/all-parks-trails/beech-bluff-county-park",
+                    "amenities": [
+                      "playground",
+                      "garden",
+                      "greenway",
+                      "restroom",
+                      "picnic-shelter"
+                    ],
+                    "indoor": false,
+                    "area": "south-wake",
+                    "hours": null,
+                    "cost": null
+                  }
+                }
+              ],
+              "area": "south-wake",
+              "outdoor": true,
+              "source": {
+                "kind": "event",
+                "title": "Beech Bluff Explorers: Who Was Here?",
+                "start": "2026-11-14T10:00:00",
+                "end": "2026-11-14T11:00:00",
+                "venue": "Beech Bluff County Park",
+                "address": "Beech Bluff Park Drive, Fuquay-Varina, NC",
+                "url": "https://apm.activecommunities.com/wakeparks/Activity_Search/beech-bluff-explorers-who-was-here/8357?locale=en-US",
+                "cost": "Free",
+                "lat": 35.58537279715877,
+                "lon": -78.6793341971644,
+                "ages": "At least 3 but less than 6",
+                "registration": "https://apm.activecommunities.com/wakeparks/Activity_Search/beech-bluff-explorers-who-was-here/8357?locale=en-US",
+                "indoor": false,
+                "area": "south-wake",
+                "source": "wake-parks",
+                "dropIn": false
+              }
+            },
+            {
+              "ref": "event:durham-rec:19867",
+              "arrive": "08:50",
+              "leave": "10:45",
+              "why": "Muddy Boots at 9:00 am starts with a nature book, then a walk to find nature at the park. A family needs to sign up first. Then Twin Lakes Park.",
+              "tips": [
+                "Sign up ahead and wear boots that can get dirty.",
+                "Bring a small bag for leaves and acorns."
+              ],
+              "interests": [
+                "nature",
+                "stories"
+              ],
+              "also": [
+                {
+                  "ref": "place:twin-lakes-park",
+                  "source": {
+                    "kind": "park",
+                    "title": "Twin Lakes Park",
+                    "address": "439 Chandler Rd, Durham, NC",
+                    "lat": 35.99826947368421,
+                    "lon": -78.84030210526319,
+                    "url": "https://www.dprplaymore.org/Facilities/Facility/Details/Twin-Lakes-Park-71",
+                    "amenities": [
+                      "playground",
+                      "picnic-shelter",
+                      "restroom"
+                    ],
+                    "indoor": false,
+                    "area": "durham",
+                    "hours": null,
+                    "cost": null
+                  }
+                }
+              ],
+              "area": "durham",
+              "outdoor": true,
+              "source": {
+                "kind": "event",
+                "title": "Muddy Boots",
+                "start": "2026-11-14T09:00:00",
+                "end": "2026-11-14T10:00:00",
+                "venue": "Twin Lakes-Picnic Shelter",
+                "address": "439 Chandler Rd, Durham, NC",
+                "url": "https://apm.activecommunities.com/dprplaymore/Activity_Search/muddy-boots/19867?locale=en-US",
+                "cost": null,
+                "lat": 35.99826947368421,
+                "lon": -78.84030210526319,
+                "ages": "1 - 6",
+                "registration": "https://apm.activecommunities.com/dprplaymore/Activity_Search/muddy-boots/19867?locale=en-US",
+                "indoor": false,
+                "area": "durham",
+                "source": "durham-rec",
+                "dropIn": false
+              }
+            },
+            {
+              "ref": "event:wake:24375",
+              "arrive": "10:20",
+              "leave": "11:45",
+              "why": "Family Storytime at Eva Perry Regional Library at 10:30 am has books, rhymes and movement. Then a run at Apex Community Park.",
+              "tips": [
+                "Pick up a ticket at the Youth Services desk.",
+                "Bring a snack for the playground."
+              ],
+              "interests": [
+                "stories",
+                "movement"
+              ],
+              "also": [
+                {
+                  "ref": "place:apex-community-park",
+                  "source": {
+                    "kind": "park",
+                    "title": "Apex Community Park",
+                    "address": "2200 Laura Duncan Rd., Apex, NC",
+                    "lat": 35.75461588131496,
+                    "lon": -78.82862025650613,
+                    "url": "http://www.apexnc.org/795/Apex-Community-Park",
+                    "amenities": [
+                      "playground",
+                      "picnic-shelter",
+                      "restroom",
+                      "greenway"
+                    ],
+                    "indoor": false,
+                    "area": "cary-apex",
+                    "hours": null,
+                    "cost": null
+                  }
+                }
+              ],
+              "area": "cary-apex",
+              "outdoor": false,
+              "source": {
+                "kind": "event",
+                "title": "Family Storytime",
+                "start": "2026-11-14T10:30:00-05:00",
+                "end": "2026-11-14T11:00:00-05:00",
+                "venue": "Eva Perry Regional Library",
+                "address": "2100 Shepherds Vineyard Drive, Apex, NC",
+                "url": "https://www.wake.gov/events/family-storytime-4702",
+                "cost": "Free",
+                "lat": 35.7437832024768,
+                "lon": -78.8251607833066,
+                "ages": "Young Children",
+                "registration": null,
+                "indoor": true,
+                "area": "cary-apex",
+                "source": "wake-county",
+                "dropIn": false
+              }
+            },
+            {
+              "ref": "event:dix-park:/event/learn-ride-bike-0:2026-11-14",
+              "arrive": "14:20",
+              "leave": "16:00",
+              "why": "Learn to Ride a Bike at Gipson Play Plaza runs from 2:00 to 4:00 pm for kids and families. Your child can try at a gentle pace.",
+              "tips": [
+                "Bring your child's bike and a helmet if you have them.",
+                "Take water breaks and cheer for every wobble."
+              ],
+              "interests": [
+                "movement",
+                "vehicles"
+              ],
+              "also": [],
+              "area": "raleigh",
+              "outdoor": true,
+              "source": {
+                "kind": "event",
+                "title": "Learn to Ride a Bike",
+                "start": "2026-11-14T14:00:00",
+                "end": "2026-11-14T16:00:00",
+                "venue": "Gipson Play Plaza, Dix Park",
+                "address": "715 Biggs Dr, Raleigh, NC 27603",
+                "url": "https://dixpark.org/event/learn-ride-bike-0",
+                "cost": null,
+                "lat": 35.7667,
+                "lon": -78.6539,
+                "ages": null,
+                "registration": null,
+                "indoor": false,
+                "area": "raleigh",
+                "source": "dix-park",
+                "dropIn": false
+              }
+            }
+          ],
+          "rainBackup": null,
+          "timeline": [
+            {
+              "start": "07:00",
+              "end": "07:30",
+              "kind": "meal",
+              "title": "Up and breakfast"
+            },
+            {
+              "start": "07:30",
+              "end": "12:15",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "12:15",
+              "end": "12:45",
+              "kind": "meal",
+              "title": "Lunch"
+            },
+            {
+              "start": "12:45",
+              "end": "13:00",
+              "kind": "quiet",
+              "title": "Wind down",
+              "detail": "A couple of books to settle."
+            },
+            {
+              "start": "13:00",
+              "end": "14:00",
+              "kind": "nap",
+              "title": "Nap"
+            },
+            {
+              "start": "14:00",
+              "end": "14:10",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "14:10",
+              "end": "14:30",
+              "kind": "travel",
+              "title": "Drive to Brentwood Park"
+            },
+            {
+              "start": "14:30",
+              "end": "16:30",
+              "kind": "outing",
+              "title": "Brentwood Park"
+            },
+            {
+              "start": "16:30",
+              "end": "16:50",
+              "kind": "travel",
+              "title": "Drive home"
+            },
+            {
+              "start": "16:50",
+              "end": "18:30",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "18:30",
+              "end": "19:15",
+              "kind": "meal",
+              "title": "Dinner"
+            },
+            {
+              "start": "19:15",
+              "end": "20:00",
+              "kind": "routine",
+              "title": "Bath, books and bed"
+            }
+          ]
+        },
+        {
+          "nap": "quiet",
+          "napLabel": "Quiet time",
+          "headline": "Stroll by the lake, then play on the playground",
+          "main": {
+            "ref": "place:lake-benson-park",
+            "arrive": "09:30",
+            "leave": "11:45",
+            "why": "Walk the lakeside greenway and look at the water, then spend time on the playground. There is a picnic shelter for a snack before home.",
+            "tips": [
+              "Bring a snack to eat at the picnic shelter.",
+              "Make a game of finding the biggest puddle, the flattest rock and the tallest tree.",
+              "Say the playground is the last stop so leaving feels planned."
+            ],
+            "interests": [
+              "water",
+              "movement"
+            ],
+            "also": [],
+            "area": "south-wake",
+            "outdoor": true,
+            "source": {
+              "kind": "park",
+              "title": "Lake Benson Park",
+              "address": "921 Buffaloe Road, Garner NC, 27529",
+              "lat": 35.67509092685942,
+              "lon": -78.62824702555534,
+              "url": "https://www.garnernc.gov/departments/parks-recreation-and-cultural-resources/garner-parks/lake-benson-park",
+              "amenities": [
+                "playground",
+                "picnic-shelter",
+                "restroom",
+                "greenway",
+                "boating"
+              ],
+              "indoor": false,
+              "area": "south-wake",
+              "hours": null,
+              "cost": null
+            }
+          },
+          "alternatives": [
+            {
+              "ref": "event:dix-park:/event/learn-ride-bike-0:2026-11-14",
+              "arrive": "14:00",
+              "leave": "15:45",
+              "why": "Learn to Ride a Bike at Gipson Play Plaza runs from 2:00 to 4:00 pm for kids and families. This is an afternoon outing after quiet time.",
+              "tips": [
+                "Bring your child's bike and a helmet if you have them.",
+                "Take water breaks and cheer for every wobble."
+              ],
+              "interests": [
+                "movement",
+                "vehicles"
+              ],
+              "also": [],
+              "area": "raleigh",
+              "outdoor": true,
+              "source": {
+                "kind": "event",
+                "title": "Learn to Ride a Bike",
+                "start": "2026-11-14T14:00:00",
+                "end": "2026-11-14T16:00:00",
+                "venue": "Gipson Play Plaza, Dix Park",
+                "address": "715 Biggs Dr, Raleigh, NC 27603",
+                "url": "https://dixpark.org/event/learn-ride-bike-0",
+                "cost": null,
+                "lat": 35.7667,
+                "lon": -78.6539,
+                "ages": null,
+                "registration": null,
+                "indoor": false,
+                "area": "raleigh",
+                "source": "dix-park",
+                "dropIn": false
+              }
+            },
+            {
+              "ref": "event:durham-rec:19867",
+              "arrive": "08:50",
+              "leave": "10:45",
+              "why": "Muddy Boots at 9:00 am starts with a nature book, then a walk to find nature at the park. A family needs to sign up first. Then Twin Lakes Park.",
+              "tips": [
+                "Sign up ahead and wear boots that can get dirty.",
+                "Bring a small bag for leaves and acorns."
+              ],
+              "interests": [
+                "nature",
+                "stories"
+              ],
+              "also": [
+                {
+                  "ref": "place:twin-lakes-park",
+                  "source": {
+                    "kind": "park",
+                    "title": "Twin Lakes Park",
+                    "address": "439 Chandler Rd, Durham, NC",
+                    "lat": 35.99826947368421,
+                    "lon": -78.84030210526319,
+                    "url": "https://www.dprplaymore.org/Facilities/Facility/Details/Twin-Lakes-Park-71",
+                    "amenities": [
+                      "playground",
+                      "picnic-shelter",
+                      "restroom"
+                    ],
+                    "indoor": false,
+                    "area": "durham",
+                    "hours": null,
+                    "cost": null
+                  }
+                }
+              ],
+              "area": "durham",
+              "outdoor": true,
+              "source": {
+                "kind": "event",
+                "title": "Muddy Boots",
+                "start": "2026-11-14T09:00:00",
+                "end": "2026-11-14T10:00:00",
+                "venue": "Twin Lakes-Picnic Shelter",
+                "address": "439 Chandler Rd, Durham, NC",
+                "url": "https://apm.activecommunities.com/dprplaymore/Activity_Search/muddy-boots/19867?locale=en-US",
+                "cost": null,
+                "lat": 35.99826947368421,
+                "lon": -78.84030210526319,
+                "ages": "1 - 6",
+                "registration": "https://apm.activecommunities.com/dprplaymore/Activity_Search/muddy-boots/19867?locale=en-US",
+                "indoor": false,
+                "area": "durham",
+                "source": "durham-rec",
+                "dropIn": false
+              }
+            },
+            {
+              "ref": "place:plummer-park",
+              "arrive": "10:55",
+              "leave": "12:15",
+              "why": "Play at Plummer Park first, then join A Nutcracker Experience at Northeast Regional Library at 11:30 am with a story, a dance demo and a craft.",
+              "tips": [
+                "Play hard first so sitting for the story is easy.",
+                "Pack a snack for after the craft."
+              ],
+              "interests": [
+                "music",
+                "movement",
+                "art"
+              ],
+              "also": [
+                {
+                  "ref": "event:wake:24268",
+                  "source": {
+                    "kind": "event",
+                    "title": "A Nutcracker Experience",
+                    "start": "2026-11-14T11:30:00-05:00",
+                    "end": "2026-11-14T12:15:00-05:00",
+                    "venue": "Northeast Regional Library",
+                    "address": "14401 Green Elm Lane, Raleigh, NC",
+                    "url": "https://www.wake.gov/events/nutcracker-experience",
+                    "cost": "Free",
+                    "lat": 35.9541926372282,
+                    "lon": -78.5438512128256,
+                    "ages": "Young Children",
+                    "registration": null,
+                    "indoor": true,
+                    "area": "north-raleigh",
+                    "source": "wake-county",
+                    "dropIn": false
+                  }
+                }
+              ],
+              "area": "north-raleigh",
+              "outdoor": false,
+              "source": {
+                "kind": "park",
+                "title": "Plummer Park",
+                "address": "965 Jones Wynd, Wake Forest, NC",
+                "lat": 35.96978706226675,
+                "lon": -78.5486469005171,
+                "url": "https://www.wakeforestnc.gov/parks-recreation-cultural-resources/parks-facilities/plummer-park",
+                "amenities": [
+                  "playground",
+                  "picnic-shelter"
+                ],
+                "indoor": false,
+                "area": "north-raleigh",
+                "hours": null,
+                "cost": null
+              }
+            },
+            {
+              "ref": "event:wake:24375",
+              "arrive": "10:20",
+              "leave": "11:45",
+              "why": "Family Storytime at Eva Perry Regional Library at 10:30 am has books, rhymes and movement. Then a run at Apex Community Park.",
+              "tips": [
+                "Pick up a ticket at the Youth Services desk.",
+                "Bring a snack for the playground."
+              ],
+              "interests": [
+                "stories",
+                "movement"
+              ],
+              "also": [
+                {
+                  "ref": "place:apex-community-park",
+                  "source": {
+                    "kind": "park",
+                    "title": "Apex Community Park",
+                    "address": "2200 Laura Duncan Rd., Apex, NC",
+                    "lat": 35.75461588131496,
+                    "lon": -78.82862025650613,
+                    "url": "http://www.apexnc.org/795/Apex-Community-Park",
+                    "amenities": [
+                      "playground",
+                      "picnic-shelter",
+                      "restroom",
+                      "greenway"
+                    ],
+                    "indoor": false,
+                    "area": "cary-apex",
+                    "hours": null,
+                    "cost": null
+                  }
+                }
+              ],
+              "area": "cary-apex",
+              "outdoor": false,
+              "source": {
+                "kind": "event",
+                "title": "Family Storytime",
+                "start": "2026-11-14T10:30:00-05:00",
+                "end": "2026-11-14T11:00:00-05:00",
+                "venue": "Eva Perry Regional Library",
+                "address": "2100 Shepherds Vineyard Drive, Apex, NC",
+                "url": "https://www.wake.gov/events/family-storytime-4702",
+                "cost": "Free",
+                "lat": 35.7437832024768,
+                "lon": -78.8251607833066,
+                "ages": "Young Children",
+                "registration": null,
+                "indoor": true,
+                "area": "cary-apex",
+                "source": "wake-county",
+                "dropIn": false
+              }
+            }
+          ],
+          "rainBackup": null,
+          "timeline": [
+            {
+              "start": "07:00",
+              "end": "07:30",
+              "kind": "meal",
+              "title": "Up and breakfast"
+            },
+            {
+              "start": "07:30",
+              "end": "08:50",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "08:50",
+              "end": "09:10",
+              "kind": "routine",
+              "title": "Get ready to go",
+              "detail": "Shoes on, diaper bag, water and a snack."
+            },
+            {
+              "start": "09:10",
+              "end": "09:30",
+              "kind": "travel",
+              "title": "Drive to Lake Benson Park"
+            },
+            {
+              "start": "09:30",
+              "end": "11:45",
+              "kind": "outing",
+              "title": "Lake Benson Park"
+            },
+            {
+              "start": "11:45",
+              "end": "12:05",
+              "kind": "travel",
+              "title": "Drive home"
+            },
+            {
+              "start": "12:05",
+              "end": "12:35",
+              "kind": "meal",
+              "title": "Lunch"
+            },
+            {
+              "start": "12:35",
+              "end": "13:00",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "13:00",
+              "end": "13:45",
+              "kind": "quiet",
+              "title": "Quiet time",
+              "detail": "Books or quiet play in their room."
+            },
+            {
+              "start": "13:45",
+              "end": "18:00",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "18:00",
+              "end": "18:45",
+              "kind": "meal",
+              "title": "Dinner"
+            },
+            {
+              "start": "18:45",
+              "end": "19:30",
+              "kind": "routine",
+              "title": "Bath, books and bed"
+            }
+          ]
+        },
+        {
+          "nap": "no-nap",
+          "napLabel": "No nap",
+          "headline": "Wander a garden, then greenway and playground",
+          "main": {
+            "ref": "place:crowder-county-park",
+            "arrive": "09:30",
+            "leave": "12:00",
+            "why": "Walk the greenway, explore the garden and spend a long stretch on the playground. A picnic shelter gives you a place for a snack.",
+            "tips": [
+              "Bring a snack and eat at the picnic shelter halfway through.",
+              "Give your child a job: find three kinds of leaves and one smooth stone.",
+              "Pick the last stop early so leaving feels like part of the plan."
+            ],
+            "interests": [
+              "nature",
+              "movement"
+            ],
+            "also": [],
+            "area": "cary-apex",
+            "outdoor": true,
+            "source": {
+              "kind": "park",
+              "title": "Crowder County Park",
+              "address": "4709 Ten Ten Road",
+              "lat": 35.69174392711247,
+              "lon": -78.76585678897689,
+              "url": "https://www.wakegov.com/departments-government/parks-recreation-and-open-space/all-parks-trails/crowder-county-park",
+              "amenities": [
+                "playground",
+                "picnic-shelter",
+                "restroom",
+                "greenway",
+                "garden"
+              ],
+              "indoor": false,
+              "area": "cary-apex",
+              "hours": null,
+              "cost": null
+            }
+          },
+          "alternatives": [
+            {
+              "ref": "event:dix-park:/event/learn-ride-bike-0:2026-11-14",
+              "arrive": "13:50",
+              "leave": "15:45",
+              "why": "Learn to Ride a Bike at Gipson Play Plaza runs from 2:00 to 4:00 pm for kids and families. Your child can try wheels at a gentle pace.",
+              "tips": [
+                "Bring your child's bike and a helmet if you have them.",
+                "Take water breaks and cheer for every wobble."
+              ],
+              "interests": [
+                "movement",
+                "vehicles"
+              ],
+              "also": [],
+              "area": "raleigh",
+              "outdoor": true,
+              "source": {
+                "kind": "event",
+                "title": "Learn to Ride a Bike",
+                "start": "2026-11-14T14:00:00",
+                "end": "2026-11-14T16:00:00",
+                "venue": "Gipson Play Plaza, Dix Park",
+                "address": "715 Biggs Dr, Raleigh, NC 27603",
+                "url": "https://dixpark.org/event/learn-ride-bike-0",
+                "cost": null,
+                "lat": 35.7667,
+                "lon": -78.6539,
+                "ages": null,
+                "registration": null,
+                "indoor": false,
+                "area": "raleigh",
+                "source": "dix-park",
+                "dropIn": false
+              }
+            },
+            {
+              "ref": "place:plummer-park",
+              "arrive": "10:55",
+              "leave": "12:15",
+              "why": "Play at Plummer Park first, then join A Nutcracker Experience at Northeast Regional Library at 11:30 am with a story, a dance demo and a craft.",
+              "tips": [
+                "Play hard first so sitting for the story is easy.",
+                "Pack a snack for after the craft."
+              ],
+              "interests": [
+                "music",
+                "movement",
+                "art"
+              ],
+              "also": [
+                {
+                  "ref": "event:wake:24268",
+                  "source": {
+                    "kind": "event",
+                    "title": "A Nutcracker Experience",
+                    "start": "2026-11-14T11:30:00-05:00",
+                    "end": "2026-11-14T12:15:00-05:00",
+                    "venue": "Northeast Regional Library",
+                    "address": "14401 Green Elm Lane, Raleigh, NC",
+                    "url": "https://www.wake.gov/events/nutcracker-experience",
+                    "cost": "Free",
+                    "lat": 35.9541926372282,
+                    "lon": -78.5438512128256,
+                    "ages": "Young Children",
+                    "registration": null,
+                    "indoor": true,
+                    "area": "north-raleigh",
+                    "source": "wake-county",
+                    "dropIn": false
+                  }
+                }
+              ],
+              "area": "north-raleigh",
+              "outdoor": false,
+              "source": {
+                "kind": "park",
+                "title": "Plummer Park",
+                "address": "965 Jones Wynd, Wake Forest, NC",
+                "lat": 35.96978706226675,
+                "lon": -78.5486469005171,
+                "url": "https://www.wakeforestnc.gov/parks-recreation-cultural-resources/parks-facilities/plummer-park",
+                "amenities": [
+                  "playground",
+                  "picnic-shelter"
+                ],
+                "indoor": false,
+                "area": "north-raleigh",
+                "hours": null,
+                "cost": null
+              }
+            },
+            {
+              "ref": "event:wake-parks:8357",
+              "arrive": "09:50",
+              "leave": "11:30",
+              "why": "Beech Bluff Explorers at 10:00 am is a hunt for animal signs. A family needs to sign up first. Then the playground at Beech Bluff County Park.",
+              "tips": [
+                "Sign up ahead and meet at the Canopy Room.",
+                "Ask your child to be a detective and guess who was here.",
+                "Save the playground until the hunt is done."
+              ],
+              "interests": [
+                "animals",
+                "nature"
+              ],
+              "also": [
+                {
+                  "ref": "place:beech-bluff-county-park",
+                  "source": {
+                    "kind": "park",
+                    "title": "Beech Bluff County Park",
+                    "address": "Beech Bluff Park Drive, Fuquay-Varina, NC",
+                    "lat": 35.58537279715877,
+                    "lon": -78.6793341971644,
+                    "url": "https://www.wake.gov/departments-government/parks-recreation-open-space/all-parks-trails/beech-bluff-county-park",
+                    "amenities": [
+                      "playground",
+                      "garden",
+                      "greenway",
+                      "restroom",
+                      "picnic-shelter"
+                    ],
+                    "indoor": false,
+                    "area": "south-wake",
+                    "hours": null,
+                    "cost": null
+                  }
+                }
+              ],
+              "area": "south-wake",
+              "outdoor": true,
+              "source": {
+                "kind": "event",
+                "title": "Beech Bluff Explorers: Who Was Here?",
+                "start": "2026-11-14T10:00:00",
+                "end": "2026-11-14T11:00:00",
+                "venue": "Beech Bluff County Park",
+                "address": "Beech Bluff Park Drive, Fuquay-Varina, NC",
+                "url": "https://apm.activecommunities.com/wakeparks/Activity_Search/beech-bluff-explorers-who-was-here/8357?locale=en-US",
+                "cost": "Free",
+                "lat": 35.58537279715877,
+                "lon": -78.6793341971644,
+                "ages": "At least 3 but less than 6",
+                "registration": "https://apm.activecommunities.com/wakeparks/Activity_Search/beech-bluff-explorers-who-was-here/8357?locale=en-US",
+                "indoor": false,
+                "area": "south-wake",
+                "source": "wake-parks",
+                "dropIn": false
+              }
+            },
+            {
+              "ref": "event:weekly:mols-early-childhood:2026-11-14",
+              "arrive": "09:30",
+              "leave": "11:15",
+              "why": "Early Childhood Drop-In in Hideaway Woods has sensory play, songs and stories. Come and go as your child likes.",
+              "tips": [
+                "Start with sensory play while energy is high.",
+                "Head out when the first yawn shows up."
+              ],
+              "interests": [
+                "nature",
+                "music",
+                "stories"
+              ],
+              "also": [],
+              "area": "durham",
+              "outdoor": true,
+              "source": {
+                "kind": "event",
+                "title": "Early Childhood Drop-In",
+                "start": "2026-11-14T09:30:00",
+                "end": "2026-11-14T11:30:00",
+                "venue": "Hideaway Woods, Museum of Life and Science",
+                "address": "433 W Murray Ave, Durham, NC 27704",
+                "url": "https://www.lifeandscience.org/learn/drop-in-programs/",
+                "cost": "Included with museum admission",
+                "lat": 36.0294,
+                "lon": -78.8993,
+                "ages": "young children and their caregivers",
+                "registration": false,
+                "indoor": false,
+                "area": "durham",
+                "source": "weekly",
+                "dropIn": true
+              }
+            }
+          ],
+          "rainBackup": null,
+          "timeline": [
+            {
+              "start": "07:00",
+              "end": "07:30",
+              "kind": "meal",
+              "title": "Up and breakfast"
+            },
+            {
+              "start": "07:30",
+              "end": "08:50",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "08:50",
+              "end": "09:10",
+              "kind": "routine",
+              "title": "Get ready to go",
+              "detail": "Shoes on, diaper bag, water and a snack."
+            },
+            {
+              "start": "09:10",
+              "end": "09:30",
+              "kind": "travel",
+              "title": "Drive to Crowder County Park"
+            },
+            {
+              "start": "09:30",
+              "end": "12:00",
+              "kind": "outing",
+              "title": "Crowder County Park"
+            },
+            {
+              "start": "12:00",
+              "end": "12:20",
+              "kind": "travel",
+              "title": "Drive home"
+            },
+            {
+              "start": "12:20",
+              "end": "12:50",
+              "kind": "meal",
+              "title": "Lunch"
+            },
+            {
+              "start": "12:50",
+              "end": "18:00",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "18:00",
+              "end": "18:45",
+              "kind": "meal",
+              "title": "Dinner"
+            },
+            {
+              "start": "18:45",
+              "end": "19:30",
+              "kind": "routine",
+              "title": "Bath, books and bed"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "checked": {
+    "at": "2026-11-01T11:16:16.353Z",
+    "forecast": "none",
+    "weather": null,
+    "hidden": []
+  }
+}

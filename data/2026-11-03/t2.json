@@ -1,0 +1,1255 @@
+{
+  "date": "2026-11-03",
+  "band": "t2",
+  "versions": [
+    {
+      "at": "2026-10-27T08:20:08.596Z",
+      "reason": null,
+      "forecast": "nws",
+      "weather": {
+        "period": "Tuesday",
+        "tempF": 76,
+        "precipProbability": 21,
+        "shortForecast": "Slight Chance Rain Showers"
+      },
+      "plans": [
+        {
+          "nap": "early-nap",
+          "napLabel": "One nap, 12 to 2",
+          "headline": "Whippoorwill Park and Muddy Boots nature walk",
+          "main": {
+            "ref": "place:whippoorwill-park",
+            "also": [
+              {
+                "ref": "event:durham-rec:19863",
+                "source": {
+                  "kind": "event",
+                  "title": "Muddy Boots",
+                  "start": "2026-11-03T10:00:00",
+                  "end": "2026-11-03T11:00:00",
+                  "venue": "Whippoorwill Park",
+                  "address": "1632 Rowemont Dr, Durham, NC",
+                  "url": "https://apm.activecommunities.com/dprplaymore/Activity_Search/muddy-boots/19863?locale=en-US",
+                  "cost": null,
+                  "ages": "1 - 6",
+                  "registration": "https://apm.activecommunities.com/dprplaymore/Activity_Search/muddy-boots/19863?locale=en-US",
+                  "indoor": false,
+                  "area": "durham",
+                  "source": "durham-rec",
+                  "dropIn": false,
+                  "lat": 36.047740000000005,
+                  "lon": -78.92395166666667
+                }
+              }
+            ],
+            "arrive": "09:30",
+            "leave": "11:00",
+            "why": "She plays at Whippoorwill Park for 30 minutes before joining Muddy Boots: a nature-themed book at the picnic shelter, then a wild walk through the park to find the creatures and plants right outside the door.",
+            "tips": [
+              "Registration is required — book your spot before the day.",
+              "Dress her in clothes that can get muddy; the name is a fair warning.",
+              "Pack a snack for the drive home so she stays calm on the way to the noon nap."
+            ],
+            "interests": [
+              "nature",
+              "stories",
+              "movement"
+            ],
+            "area": "durham",
+            "outdoor": true,
+            "source": {
+              "kind": "park",
+              "title": "Whippoorwill Park",
+              "address": "1632 Rowemont Dr, Durham, NC",
+              "url": "https://www.dprplaymore.org/Facilities/Facility/Details/Whippoorwill-Park-79",
+              "amenities": [
+                "playground",
+                "picnic-shelter",
+                "restroom",
+                "greenway"
+              ],
+              "indoor": false,
+              "area": "durham",
+              "hours": null,
+              "lat": 36.047740000000005,
+              "lon": -78.92395166666667,
+              "cost": null
+            }
+          },
+          "alternatives": [
+            {
+              "ref": "event:wake:21988",
+              "also": [
+                {
+                  "ref": "event:wake:21998",
+                  "source": {
+                    "kind": "event",
+                    "title": "Family Storytime",
+                    "start": "2026-11-03T10:15:00-05:00",
+                    "end": "2026-11-03T10:45:00-05:00",
+                    "venue": "Northeast Regional Library",
+                    "address": "14401 Green Elm Lane, Raleigh, NC",
+                    "url": "https://www.wake.gov/events/family-storytime-4020",
+                    "cost": "Free",
+                    "ages": "Young Children",
+                    "registration": null,
+                    "indoor": true,
+                    "area": "north-raleigh",
+                    "source": "wake-county",
+                    "dropIn": false,
+                    "lat": 35.9541926372282,
+                    "lon": -78.5438512128256
+                  }
+                },
+                {
+                  "ref": "place:tyler-run-park",
+                  "source": {
+                    "kind": "park",
+                    "title": "Tyler Run Park",
+                    "address": "830 Pineview Dr, Wake Forest, NC",
+                    "url": "https://www.wakeforestnc.gov/parks-recreation-cultural-resources/parks-facilities/tyler-run-park",
+                    "amenities": [
+                      "playground",
+                      "picnic-shelter",
+                      "greenway"
+                    ],
+                    "indoor": false,
+                    "area": "north-raleigh",
+                    "hours": null,
+                    "lat": 35.971215429049174,
+                    "lon": -78.5212159679015,
+                    "cost": null
+                  }
+                }
+              ],
+              "arrive": "09:05",
+              "leave": "11:15",
+              "why": "Two back-to-back storytimes at the Northeast Regional Library — Toddler at 09:15, Family at 10:15 — finish with outdoor play at Tyler Run Park nearby.",
+              "tips": [
+                "Arrive at 09:05 to get a seat before the first storytime fills.",
+                "The 30-minute gap between storytimes is a good snack moment in the children's area.",
+                "The park stop is weather permitting — head there if it stays dry."
+              ],
+              "interests": [
+                "stories",
+                "music",
+                "movement"
+              ],
+              "area": "north-raleigh",
+              "outdoor": false,
+              "source": {
+                "kind": "event",
+                "title": "Toddler Storytime",
+                "start": "2026-11-03T09:15:00-05:00",
+                "end": "2026-11-03T09:45:00-05:00",
+                "venue": "Northeast Regional Library",
+                "address": "14401 Green Elm Lane, Raleigh, NC",
+                "url": "https://www.wake.gov/events/toddler-storytime-1019",
+                "cost": "Free",
+                "ages": "Young Children",
+                "registration": null,
+                "indoor": true,
+                "area": "north-raleigh",
+                "source": "wake-county",
+                "dropIn": false,
+                "lat": 35.9541926372282,
+                "lon": -78.5438512128256
+              }
+            },
+            {
+              "ref": "place:powell-drive-park",
+              "also": [
+                {
+                  "ref": "event:wake:22929",
+                  "source": {
+                    "kind": "event",
+                    "title": "Family Storytime",
+                    "start": "2026-11-03T16:30:00-05:00",
+                    "end": "2026-11-03T17:00:00-05:00",
+                    "venue": "Athens Drive Community Library",
+                    "address": "1420 Athens Drive, Raleigh, NC, 27606",
+                    "url": "https://www.eventbrite.com/e/family-storytime-tickets-1998851350196",
+                    "cost": "Free",
+                    "ages": "Young Children",
+                    "registration": "https://www.eventbrite.com/e/family-storytime-tickets-1998851350196",
+                    "indoor": true,
+                    "area": "raleigh",
+                    "source": "wake-county",
+                    "dropIn": false,
+                    "lat": 35.7682600041562,
+                    "lon": -78.7107215103108
+                  }
+                },
+                {
+                  "ref": "event:wake:23524",
+                  "source": {
+                    "kind": "event",
+                    "title": "Stay and Play",
+                    "start": "2026-11-03T17:00:00-05:00",
+                    "end": "2026-11-03T17:30:00-05:00",
+                    "venue": "Athens Drive Community Library",
+                    "address": "1420 Athens Drive, Raleigh, NC, 27606",
+                    "url": "https://www.eventbrite.com/e/stay-and-play-tickets-2000782989782",
+                    "cost": "Free",
+                    "ages": "Young Children",
+                    "registration": "https://www.eventbrite.com/e/stay-and-play-tickets-2000782989782",
+                    "indoor": true,
+                    "area": "raleigh",
+                    "source": "wake-county",
+                    "dropIn": false,
+                    "lat": 35.7682600041562,
+                    "lon": -78.7107215103108
+                  }
+                }
+              ],
+              "arrive": "16:00",
+              "leave": "17:30",
+              "why": "Afternoon playground time at Powell Drive Park leads into Family Storytime at 16:30 at Athens Drive Library, with Stay and Play immediately after for building and puzzles.",
+              "tips": [
+                "Both the storytime and Stay and Play require registration — book ahead.",
+                "Head to the park first for 20 minutes of outdoor play, then walk to the library at 16:30.",
+                "The park portion is weather permitting."
+              ],
+              "interests": [
+                "stories",
+                "music",
+                "movement"
+              ],
+              "area": "raleigh",
+              "outdoor": false,
+              "source": {
+                "kind": "park",
+                "title": "Powell Drive Park",
+                "address": "740 Powell Drive, Raleigh, NC 27606",
+                "url": "https://raleighnc.gov/parks-and-recreation/places/powell-drive-park",
+                "amenities": [
+                  "courts",
+                  "picnic-shelter",
+                  "playground",
+                  "fields"
+                ],
+                "indoor": false,
+                "area": "raleigh",
+                "hours": null,
+                "lat": 35.779,
+                "lon": -78.71436,
+                "cost": null
+              }
+            },
+            {
+              "ref": "place:nc-botanical-garden",
+              "arrive": "09:00",
+              "leave": "11:00",
+              "why": "Free garden walks and shaded forest trails make the NC Botanical Garden a calm, beautiful morning for a toddler who loves plants, birds and the outdoors.",
+              "tips": [
+                "Good shoes help on the forest trail behind the main gardens.",
+                "Bring water and a snack for the trail.",
+                "If light rain arrives, the tree canopy gives some cover to keep walking."
+              ],
+              "interests": [
+                "nature",
+                "science"
+              ],
+              "also": [],
+              "area": "chapel-hill",
+              "outdoor": true,
+              "source": {
+                "kind": "garden",
+                "title": "NC Botanical Garden",
+                "address": "100 Old Mason Farm Rd, Chapel Hill, NC 27517",
+                "url": "https://ncbg.unc.edu/visit/",
+                "amenities": [
+                  "garden",
+                  "nature",
+                  "restroom"
+                ],
+                "indoor": false,
+                "area": "chapel-hill",
+                "lat": 35.9011,
+                "lon": -79.0319,
+                "cost": "Free",
+                "note": "Free. Display gardens, and nature trails through the forest behind them."
+              }
+            }
+          ],
+          "rainBackup": null,
+          "timeline": [
+            {
+              "start": "07:00",
+              "end": "07:30",
+              "kind": "meal",
+              "title": "Up and breakfast"
+            },
+            {
+              "start": "07:30",
+              "end": "08:50",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "08:50",
+              "end": "09:10",
+              "kind": "routine",
+              "title": "Get ready to go",
+              "detail": "Shoes on, diaper bag, water and a snack."
+            },
+            {
+              "start": "09:10",
+              "end": "09:30",
+              "kind": "travel",
+              "title": "Drive to Whippoorwill Park"
+            },
+            {
+              "start": "09:30",
+              "end": "09:50",
+              "kind": "outing",
+              "title": "Whippoorwill Park"
+            },
+            {
+              "start": "09:50",
+              "end": "10:00",
+              "kind": "travel",
+              "title": "Drive to Whippoorwill Park"
+            },
+            {
+              "start": "10:00",
+              "end": "11:00",
+              "kind": "outing",
+              "title": "Muddy Boots"
+            },
+            {
+              "start": "11:00",
+              "end": "11:20",
+              "kind": "travel",
+              "title": "Drive home"
+            },
+            {
+              "start": "11:20",
+              "end": "11:50",
+              "kind": "meal",
+              "title": "Lunch"
+            },
+            {
+              "start": "11:50",
+              "end": "12:00",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "12:00",
+              "end": "14:00",
+              "kind": "nap",
+              "title": "Nap"
+            },
+            {
+              "start": "14:00",
+              "end": "14:20",
+              "kind": "routine",
+              "title": "Up and a snack"
+            },
+            {
+              "start": "14:20",
+              "end": "18:00",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "18:00",
+              "end": "18:45",
+              "kind": "meal",
+              "title": "Dinner"
+            },
+            {
+              "start": "18:45",
+              "end": "19:30",
+              "kind": "routine",
+              "title": "Bath, books and bed"
+            }
+          ]
+        },
+        {
+          "nap": "late-nap",
+          "napLabel": "One nap, 1 to 3",
+          "headline": "Morning walk at NC Botanical Garden",
+          "main": {
+            "ref": "place:nc-botanical-garden",
+            "arrive": "09:00",
+            "leave": "12:00",
+            "why": "Free display gardens and shaded forest nature trails make for a long, unhurried outdoor morning — she can wander paths, study plants up close and listen for birds at her own pace.",
+            "tips": [
+              "Bring water and a snack for the trail behind the main gardens.",
+              "Sturdy shoes help on the forest path, which can be uneven.",
+              "If a light shower passes through, the tree canopy keeps much of the trail dry enough to continue."
+            ],
+            "interests": [
+              "nature",
+              "science"
+            ],
+            "also": [],
+            "area": "chapel-hill",
+            "outdoor": true,
+            "source": {
+              "kind": "garden",
+              "title": "NC Botanical Garden",
+              "address": "100 Old Mason Farm Rd, Chapel Hill, NC 27517",
+              "url": "https://ncbg.unc.edu/visit/",
+              "amenities": [
+                "garden",
+                "nature",
+                "restroom"
+              ],
+              "indoor": false,
+              "area": "chapel-hill",
+              "lat": 35.9011,
+              "lon": -79.0319,
+              "cost": "Free",
+              "note": "Free. Display gardens, and nature trails through the forest behind them."
+            }
+          },
+          "alternatives": [
+            {
+              "ref": "place:whippoorwill-park",
+              "also": [
+                {
+                  "ref": "event:durham-rec:19863",
+                  "source": {
+                    "kind": "event",
+                    "title": "Muddy Boots",
+                    "start": "2026-11-03T10:00:00",
+                    "end": "2026-11-03T11:00:00",
+                    "venue": "Whippoorwill Park",
+                    "address": "1632 Rowemont Dr, Durham, NC",
+                    "url": "https://apm.activecommunities.com/dprplaymore/Activity_Search/muddy-boots/19863?locale=en-US",
+                    "cost": null,
+                    "ages": "1 - 6",
+                    "registration": "https://apm.activecommunities.com/dprplaymore/Activity_Search/muddy-boots/19863?locale=en-US",
+                    "indoor": false,
+                    "area": "durham",
+                    "source": "durham-rec",
+                    "dropIn": false,
+                    "lat": 36.047740000000005,
+                    "lon": -78.92395166666667
+                  }
+                }
+              ],
+              "arrive": "09:30",
+              "leave": "11:00",
+              "why": "Arrive early to play at Whippoorwill Park, then join Muddy Boots at 10:00 for a nature book and a wild walk through the park to find what is living right outside.",
+              "tips": [
+                "Registration is required — secure your spot before the day.",
+                "Dress for mud.",
+                "Leave at 11:00 to be home with two hours before the 13:00 nap."
+              ],
+              "interests": [
+                "nature",
+                "stories",
+                "movement"
+              ],
+              "area": "durham",
+              "outdoor": true,
+              "source": {
+                "kind": "park",
+                "title": "Whippoorwill Park",
+                "address": "1632 Rowemont Dr, Durham, NC",
+                "url": "https://www.dprplaymore.org/Facilities/Facility/Details/Whippoorwill-Park-79",
+                "amenities": [
+                  "playground",
+                  "picnic-shelter",
+                  "restroom",
+                  "greenway"
+                ],
+                "indoor": false,
+                "area": "durham",
+                "hours": null,
+                "lat": 36.047740000000005,
+                "lon": -78.92395166666667,
+                "cost": null
+              }
+            },
+            {
+              "ref": "event:wake:21988",
+              "also": [
+                {
+                  "ref": "event:wake:21998",
+                  "source": {
+                    "kind": "event",
+                    "title": "Family Storytime",
+                    "start": "2026-11-03T10:15:00-05:00",
+                    "end": "2026-11-03T10:45:00-05:00",
+                    "venue": "Northeast Regional Library",
+                    "address": "14401 Green Elm Lane, Raleigh, NC",
+                    "url": "https://www.wake.gov/events/family-storytime-4020",
+                    "cost": "Free",
+                    "ages": "Young Children",
+                    "registration": null,
+                    "indoor": true,
+                    "area": "north-raleigh",
+                    "source": "wake-county",
+                    "dropIn": false,
+                    "lat": 35.9541926372282,
+                    "lon": -78.5438512128256
+                  }
+                },
+                {
+                  "ref": "place:tyler-run-park",
+                  "source": {
+                    "kind": "park",
+                    "title": "Tyler Run Park",
+                    "address": "830 Pineview Dr, Wake Forest, NC",
+                    "url": "https://www.wakeforestnc.gov/parks-recreation-cultural-resources/parks-facilities/tyler-run-park",
+                    "amenities": [
+                      "playground",
+                      "picnic-shelter",
+                      "greenway"
+                    ],
+                    "indoor": false,
+                    "area": "north-raleigh",
+                    "hours": null,
+                    "lat": 35.971215429049174,
+                    "lon": -78.5212159679015,
+                    "cost": null
+                  }
+                }
+              ],
+              "arrive": "09:05",
+              "leave": "11:15",
+              "why": "Two back-to-back storytimes at Northeast Regional Library, Toddler then Family, finish with outdoor play at Tyler Run Park right nearby.",
+              "tips": [
+                "Arrive at 09:05 to grab a spot before the first storytime.",
+                "Use the 30-minute gap between storytimes for a snack and a browse in the children's area.",
+                "The park stop is weather permitting."
+              ],
+              "interests": [
+                "stories",
+                "music",
+                "movement"
+              ],
+              "area": "north-raleigh",
+              "outdoor": false,
+              "source": {
+                "kind": "event",
+                "title": "Toddler Storytime",
+                "start": "2026-11-03T09:15:00-05:00",
+                "end": "2026-11-03T09:45:00-05:00",
+                "venue": "Northeast Regional Library",
+                "address": "14401 Green Elm Lane, Raleigh, NC",
+                "url": "https://www.wake.gov/events/toddler-storytime-1019",
+                "cost": "Free",
+                "ages": "Young Children",
+                "registration": null,
+                "indoor": true,
+                "area": "north-raleigh",
+                "source": "wake-county",
+                "dropIn": false,
+                "lat": 35.9541926372282,
+                "lon": -78.5438512128256
+              }
+            },
+            {
+              "ref": "place:powell-drive-park",
+              "also": [
+                {
+                  "ref": "event:wake:22929",
+                  "source": {
+                    "kind": "event",
+                    "title": "Family Storytime",
+                    "start": "2026-11-03T16:30:00-05:00",
+                    "end": "2026-11-03T17:00:00-05:00",
+                    "venue": "Athens Drive Community Library",
+                    "address": "1420 Athens Drive, Raleigh, NC, 27606",
+                    "url": "https://www.eventbrite.com/e/family-storytime-tickets-1998851350196",
+                    "cost": "Free",
+                    "ages": "Young Children",
+                    "registration": "https://www.eventbrite.com/e/family-storytime-tickets-1998851350196",
+                    "indoor": true,
+                    "area": "raleigh",
+                    "source": "wake-county",
+                    "dropIn": false,
+                    "lat": 35.7682600041562,
+                    "lon": -78.7107215103108
+                  }
+                },
+                {
+                  "ref": "event:wake:23524",
+                  "source": {
+                    "kind": "event",
+                    "title": "Stay and Play",
+                    "start": "2026-11-03T17:00:00-05:00",
+                    "end": "2026-11-03T17:30:00-05:00",
+                    "venue": "Athens Drive Community Library",
+                    "address": "1420 Athens Drive, Raleigh, NC, 27606",
+                    "url": "https://www.eventbrite.com/e/stay-and-play-tickets-2000782989782",
+                    "cost": "Free",
+                    "ages": "Young Children",
+                    "registration": "https://www.eventbrite.com/e/stay-and-play-tickets-2000782989782",
+                    "indoor": true,
+                    "area": "raleigh",
+                    "source": "wake-county",
+                    "dropIn": false,
+                    "lat": 35.7682600041562,
+                    "lon": -78.7107215103108
+                  }
+                }
+              ],
+              "arrive": "16:00",
+              "leave": "17:30",
+              "why": "Playground time at Powell Drive Park before Family Storytime and Stay and Play at Athens Drive Library — a calm, easy afternoon outing.",
+              "tips": [
+                "Both events require registration — book ahead.",
+                "Play at the park first, then walk to the library for the 16:30 storytime.",
+                "The park portion is weather permitting."
+              ],
+              "interests": [
+                "stories",
+                "music",
+                "movement"
+              ],
+              "area": "raleigh",
+              "outdoor": false,
+              "source": {
+                "kind": "park",
+                "title": "Powell Drive Park",
+                "address": "740 Powell Drive, Raleigh, NC 27606",
+                "url": "https://raleighnc.gov/parks-and-recreation/places/powell-drive-park",
+                "amenities": [
+                  "courts",
+                  "picnic-shelter",
+                  "playground",
+                  "fields"
+                ],
+                "indoor": false,
+                "area": "raleigh",
+                "hours": null,
+                "lat": 35.779,
+                "lon": -78.71436,
+                "cost": null
+              }
+            }
+          ],
+          "rainBackup": null,
+          "timeline": [
+            {
+              "start": "07:00",
+              "end": "07:30",
+              "kind": "meal",
+              "title": "Up and breakfast"
+            },
+            {
+              "start": "07:30",
+              "end": "08:20",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "08:20",
+              "end": "08:40",
+              "kind": "routine",
+              "title": "Get ready to go",
+              "detail": "Shoes on, diaper bag, water and a snack."
+            },
+            {
+              "start": "08:40",
+              "end": "09:00",
+              "kind": "travel",
+              "title": "Drive to NC Botanical Garden"
+            },
+            {
+              "start": "09:00",
+              "end": "12:00",
+              "kind": "outing",
+              "title": "NC Botanical Garden"
+            },
+            {
+              "start": "12:00",
+              "end": "12:20",
+              "kind": "travel",
+              "title": "Drive home"
+            },
+            {
+              "start": "12:20",
+              "end": "12:50",
+              "kind": "meal",
+              "title": "Lunch"
+            },
+            {
+              "start": "12:50",
+              "end": "13:00",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "13:00",
+              "end": "15:00",
+              "kind": "nap",
+              "title": "Nap"
+            },
+            {
+              "start": "15:00",
+              "end": "15:20",
+              "kind": "routine",
+              "title": "Up and a snack"
+            },
+            {
+              "start": "15:20",
+              "end": "18:30",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "18:30",
+              "end": "19:15",
+              "kind": "meal",
+              "title": "Dinner"
+            },
+            {
+              "start": "19:15",
+              "end": "20:00",
+              "kind": "routine",
+              "title": "Bath, books and bed"
+            }
+          ]
+        },
+        {
+          "nap": "short-nap",
+          "napLabel": "Short nap, 1 to 2",
+          "headline": "Powell Drive Park, Family Storytime and Stay and Play at Athens Drive Library",
+          "main": {
+            "ref": "place:powell-drive-park",
+            "also": [
+              {
+                "ref": "event:wake:22929",
+                "source": {
+                  "kind": "event",
+                  "title": "Family Storytime",
+                  "start": "2026-11-03T16:30:00-05:00",
+                  "end": "2026-11-03T17:00:00-05:00",
+                  "venue": "Athens Drive Community Library",
+                  "address": "1420 Athens Drive, Raleigh, NC, 27606",
+                  "url": "https://www.eventbrite.com/e/family-storytime-tickets-1998851350196",
+                  "cost": "Free",
+                  "ages": "Young Children",
+                  "registration": "https://www.eventbrite.com/e/family-storytime-tickets-1998851350196",
+                  "indoor": true,
+                  "area": "raleigh",
+                  "source": "wake-county",
+                  "dropIn": false,
+                  "lat": 35.7682600041562,
+                  "lon": -78.7107215103108
+                }
+              },
+              {
+                "ref": "event:wake:23524",
+                "source": {
+                  "kind": "event",
+                  "title": "Stay and Play",
+                  "start": "2026-11-03T17:00:00-05:00",
+                  "end": "2026-11-03T17:30:00-05:00",
+                  "venue": "Athens Drive Community Library",
+                  "address": "1420 Athens Drive, Raleigh, NC, 27606",
+                  "url": "https://www.eventbrite.com/e/stay-and-play-tickets-2000782989782",
+                  "cost": "Free",
+                  "ages": "Young Children",
+                  "registration": "https://www.eventbrite.com/e/stay-and-play-tickets-2000782989782",
+                  "indoor": true,
+                  "area": "raleigh",
+                  "source": "wake-county",
+                  "dropIn": false,
+                  "lat": 35.7682600041562,
+                  "lon": -78.7107215103108
+                }
+              }
+            ],
+            "arrive": "16:00",
+            "leave": "17:30",
+            "why": "She gets outdoor playground time at Powell Drive Park first, then steps into Athens Drive Library for an interactive storytime and a Stay and Play session with blocks, puzzles and magnetic tiles right after.",
+            "tips": [
+              "Both the Family Storytime and Stay and Play require registration — book both before the day.",
+              "Head to the park first for 20 minutes of outdoor play, then walk to the library for the 16:30 start.",
+              "The park stop is weather permitting; if it is raining, go straight to the library at 16:30."
+            ],
+            "interests": [
+              "stories",
+              "music",
+              "movement"
+            ],
+            "area": "raleigh",
+            "outdoor": false,
+            "source": {
+              "kind": "park",
+              "title": "Powell Drive Park",
+              "address": "740 Powell Drive, Raleigh, NC 27606",
+              "url": "https://raleighnc.gov/parks-and-recreation/places/powell-drive-park",
+              "amenities": [
+                "courts",
+                "picnic-shelter",
+                "playground",
+                "fields"
+              ],
+              "indoor": false,
+              "area": "raleigh",
+              "hours": null,
+              "lat": 35.779,
+              "lon": -78.71436,
+              "cost": null
+            }
+          },
+          "alternatives": [
+            {
+              "ref": "place:whippoorwill-park",
+              "also": [
+                {
+                  "ref": "event:durham-rec:19863",
+                  "source": {
+                    "kind": "event",
+                    "title": "Muddy Boots",
+                    "start": "2026-11-03T10:00:00",
+                    "end": "2026-11-03T11:00:00",
+                    "venue": "Whippoorwill Park",
+                    "address": "1632 Rowemont Dr, Durham, NC",
+                    "url": "https://apm.activecommunities.com/dprplaymore/Activity_Search/muddy-boots/19863?locale=en-US",
+                    "cost": null,
+                    "ages": "1 - 6",
+                    "registration": "https://apm.activecommunities.com/dprplaymore/Activity_Search/muddy-boots/19863?locale=en-US",
+                    "indoor": false,
+                    "area": "durham",
+                    "source": "durham-rec",
+                    "dropIn": false,
+                    "lat": 36.047740000000005,
+                    "lon": -78.92395166666667
+                  }
+                }
+              ],
+              "arrive": "09:30",
+              "leave": "11:00",
+              "why": "Free play at Whippoorwill Park leads into the Muddy Boots nature walk and book at 10:00 — the standout outdoor event of the day.",
+              "tips": [
+                "Registration is required so book your spot first.",
+                "Dress her in clothes that can get muddy.",
+                "Leave at 11:00 to be home comfortably before the 13:00 nap."
+              ],
+              "interests": [
+                "nature",
+                "stories",
+                "movement"
+              ],
+              "area": "durham",
+              "outdoor": true,
+              "source": {
+                "kind": "park",
+                "title": "Whippoorwill Park",
+                "address": "1632 Rowemont Dr, Durham, NC",
+                "url": "https://www.dprplaymore.org/Facilities/Facility/Details/Whippoorwill-Park-79",
+                "amenities": [
+                  "playground",
+                  "picnic-shelter",
+                  "restroom",
+                  "greenway"
+                ],
+                "indoor": false,
+                "area": "durham",
+                "hours": null,
+                "lat": 36.047740000000005,
+                "lon": -78.92395166666667,
+                "cost": null
+              }
+            },
+            {
+              "ref": "place:nc-botanical-garden",
+              "arrive": "09:00",
+              "leave": "12:00",
+              "why": "A free morning of garden paths and forest trails at the NC Botanical Garden — she can poke at plants, hear birds and walk at her own pace.",
+              "tips": [
+                "Bring water and a snack for the forest trail.",
+                "Good shoes help on the uneven path.",
+                "Leave by 12:00 to be home before the 13:00 nap."
+              ],
+              "interests": [
+                "nature",
+                "science"
+              ],
+              "also": [],
+              "area": "chapel-hill",
+              "outdoor": true,
+              "source": {
+                "kind": "garden",
+                "title": "NC Botanical Garden",
+                "address": "100 Old Mason Farm Rd, Chapel Hill, NC 27517",
+                "url": "https://ncbg.unc.edu/visit/",
+                "amenities": [
+                  "garden",
+                  "nature",
+                  "restroom"
+                ],
+                "indoor": false,
+                "area": "chapel-hill",
+                "lat": 35.9011,
+                "lon": -79.0319,
+                "cost": "Free",
+                "note": "Free. Display gardens, and nature trails through the forest behind them."
+              }
+            },
+            {
+              "ref": "event:wake:21988",
+              "also": [
+                {
+                  "ref": "event:wake:21998",
+                  "source": {
+                    "kind": "event",
+                    "title": "Family Storytime",
+                    "start": "2026-11-03T10:15:00-05:00",
+                    "end": "2026-11-03T10:45:00-05:00",
+                    "venue": "Northeast Regional Library",
+                    "address": "14401 Green Elm Lane, Raleigh, NC",
+                    "url": "https://www.wake.gov/events/family-storytime-4020",
+                    "cost": "Free",
+                    "ages": "Young Children",
+                    "registration": null,
+                    "indoor": true,
+                    "area": "north-raleigh",
+                    "source": "wake-county",
+                    "dropIn": false,
+                    "lat": 35.9541926372282,
+                    "lon": -78.5438512128256
+                  }
+                },
+                {
+                  "ref": "place:tyler-run-park",
+                  "source": {
+                    "kind": "park",
+                    "title": "Tyler Run Park",
+                    "address": "830 Pineview Dr, Wake Forest, NC",
+                    "url": "https://www.wakeforestnc.gov/parks-recreation-cultural-resources/parks-facilities/tyler-run-park",
+                    "amenities": [
+                      "playground",
+                      "picnic-shelter",
+                      "greenway"
+                    ],
+                    "indoor": false,
+                    "area": "north-raleigh",
+                    "hours": null,
+                    "lat": 35.971215429049174,
+                    "lon": -78.5212159679015,
+                    "cost": null
+                  }
+                }
+              ],
+              "arrive": "09:05",
+              "leave": "11:15",
+              "why": "Toddler Storytime at 09:15 and Family Storytime at 10:15 at Northeast Regional Library, then outdoor play at Tyler Run Park to round out the morning.",
+              "tips": [
+                "Arrive at 09:05 to get settled before the first storytime.",
+                "Use the gap between storytimes for a snack.",
+                "The park stop is weather permitting."
+              ],
+              "interests": [
+                "stories",
+                "music",
+                "movement"
+              ],
+              "area": "north-raleigh",
+              "outdoor": false,
+              "source": {
+                "kind": "event",
+                "title": "Toddler Storytime",
+                "start": "2026-11-03T09:15:00-05:00",
+                "end": "2026-11-03T09:45:00-05:00",
+                "venue": "Northeast Regional Library",
+                "address": "14401 Green Elm Lane, Raleigh, NC",
+                "url": "https://www.wake.gov/events/toddler-storytime-1019",
+                "cost": "Free",
+                "ages": "Young Children",
+                "registration": null,
+                "indoor": true,
+                "area": "north-raleigh",
+                "source": "wake-county",
+                "dropIn": false,
+                "lat": 35.9541926372282,
+                "lon": -78.5438512128256
+              }
+            },
+            {
+              "ref": "event:wake:24333",
+              "also": [
+                {
+                  "ref": "place:apex-community-park",
+                  "source": {
+                    "kind": "park",
+                    "title": "Apex Community Park",
+                    "address": "2200 Laura Duncan Rd., Apex, NC",
+                    "url": "http://www.apexnc.org/795/Apex-Community-Park",
+                    "amenities": [
+                      "playground",
+                      "picnic-shelter",
+                      "restroom",
+                      "greenway"
+                    ],
+                    "indoor": false,
+                    "area": "cary-apex",
+                    "hours": null,
+                    "lat": 35.75461588131496,
+                    "lon": -78.82862025650613,
+                    "cost": null
+                  }
+                }
+              ],
+              "arrive": "09:20",
+              "leave": "11:00",
+              "why": "Toddler Storytime at Eva Perry Regional Library in Apex, then outdoor play at Apex Community Park right nearby — a quick, cheerful cary-apex morning.",
+              "tips": [
+                "No registration needed — just pick up a free ticket at the Youth Services desk on arrival.",
+                "Head straight to the park after the storytime while she is still energised.",
+                "The park stop is weather permitting."
+              ],
+              "interests": [
+                "stories",
+                "music",
+                "movement"
+              ],
+              "area": "cary-apex",
+              "outdoor": false,
+              "source": {
+                "kind": "event",
+                "title": "Toddler Storytime",
+                "start": "2026-11-03T09:30:00-05:00",
+                "end": "2026-11-03T10:00:00-05:00",
+                "venue": "Eva Perry Regional Library",
+                "address": "2100 Shepherds Vineyard Drive, Apex, NC",
+                "url": "https://www.wake.gov/events/toddler-storytime-1032",
+                "cost": "Free",
+                "ages": "Young Children",
+                "registration": null,
+                "indoor": true,
+                "area": "cary-apex",
+                "source": "wake-county",
+                "dropIn": false,
+                "lat": 35.7437832024768,
+                "lon": -78.8251607833066
+              }
+            }
+          ],
+          "rainBackup": null,
+          "timeline": [
+            {
+              "start": "07:00",
+              "end": "07:30",
+              "kind": "meal",
+              "title": "Up and breakfast"
+            },
+            {
+              "start": "07:30",
+              "end": "12:15",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "12:15",
+              "end": "12:45",
+              "kind": "meal",
+              "title": "Lunch"
+            },
+            {
+              "start": "12:45",
+              "end": "13:00",
+              "kind": "quiet",
+              "title": "Wind down",
+              "detail": "A couple of books to settle."
+            },
+            {
+              "start": "13:00",
+              "end": "14:00",
+              "kind": "nap",
+              "title": "Nap"
+            },
+            {
+              "start": "14:00",
+              "end": "14:20",
+              "kind": "routine",
+              "title": "Up and a snack"
+            },
+            {
+              "start": "14:20",
+              "end": "15:20",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "15:20",
+              "end": "15:40",
+              "kind": "routine",
+              "title": "Get ready to go",
+              "detail": "Shoes on, diaper bag, water and a snack."
+            },
+            {
+              "start": "15:40",
+              "end": "16:00",
+              "kind": "travel",
+              "title": "Drive to Powell Drive Park"
+            },
+            {
+              "start": "16:00",
+              "end": "16:20",
+              "kind": "outing",
+              "title": "Powell Drive Park"
+            },
+            {
+              "start": "16:20",
+              "end": "16:30",
+              "kind": "travel",
+              "title": "Drive to Athens Drive Community Library"
+            },
+            {
+              "start": "16:30",
+              "end": "17:00",
+              "kind": "outing",
+              "title": "Family Storytime"
+            },
+            {
+              "start": "17:00",
+              "end": "17:10",
+              "kind": "travel",
+              "title": "Drive to Athens Drive Community Library"
+            },
+            {
+              "start": "17:10",
+              "end": "17:30",
+              "kind": "outing",
+              "title": "Stay and Play"
+            },
+            {
+              "start": "17:30",
+              "end": "17:50",
+              "kind": "travel",
+              "title": "Drive home"
+            },
+            {
+              "start": "17:50",
+              "end": "18:00",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "18:00",
+              "end": "18:45",
+              "kind": "meal",
+              "title": "Dinner"
+            },
+            {
+              "start": "18:45",
+              "end": "19:30",
+              "kind": "routine",
+              "title": "Bath, books and bed"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "checked": {
+    "at": "2026-11-01T11:03:30.209Z",
+    "forecast": "nws",
+    "weather": {
+      "period": "Tuesday",
+      "tempF": 77,
+      "precipProbability": 0,
+      "shortForecast": "Sunny",
+      "hours": [
+        {
+          "t": "05:00",
+          "tempF": 51,
+          "pop": 0
+        },
+        {
+          "t": "06:00",
+          "tempF": 50,
+          "pop": 0
+        },
+        {
+          "t": "07:00",
+          "tempF": 50,
+          "pop": 0
+        },
+        {
+          "t": "08:00",
+          "tempF": 54,
+          "pop": 0
+        },
+        {
+          "t": "09:00",
+          "tempF": 60,
+          "pop": 0
+        },
+        {
+          "t": "10:00",
+          "tempF": 65,
+          "pop": 0
+        },
+        {
+          "t": "11:00",
+          "tempF": 69,
+          "pop": 0
+        },
+        {
+          "t": "12:00",
+          "tempF": 72,
+          "pop": 0
+        },
+        {
+          "t": "13:00",
+          "tempF": 75,
+          "pop": 0
+        },
+        {
+          "t": "14:00",
+          "tempF": 76,
+          "pop": 0
+        },
+        {
+          "t": "15:00",
+          "tempF": 77,
+          "pop": 0
+        },
+        {
+          "t": "16:00",
+          "tempF": 75,
+          "pop": 0
+        },
+        {
+          "t": "17:00",
+          "tempF": 72,
+          "pop": 0
+        },
+        {
+          "t": "18:00",
+          "tempF": 68,
+          "pop": 0
+        },
+        {
+          "t": "19:00",
+          "tempF": 64,
+          "pop": 0
+        },
+        {
+          "t": "20:00",
+          "tempF": 62,
+          "pop": 0
+        },
+        {
+          "t": "21:00",
+          "tempF": 61,
+          "pop": 0
+        },
+        {
+          "t": "22:00",
+          "tempF": 60,
+          "pop": 0
+        },
+        {
+          "t": "23:00",
+          "tempF": 59,
+          "pop": 0
+        }
+      ]
+    },
+    "hidden": []
+  }
+}

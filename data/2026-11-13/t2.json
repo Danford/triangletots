@@ -1,0 +1,979 @@
+{
+  "date": "2026-11-13",
+  "band": "t2",
+  "versions": [
+    {
+      "at": "2026-11-01T11:09:07.554Z",
+      "reason": null,
+      "forecast": "none",
+      "weather": null,
+      "plans": [
+        {
+          "nap": "early-nap",
+          "napLabel": "One nap, 12 to 2",
+          "headline": "Hear a story about leaves and meet garden creatures",
+          "main": {
+            "ref": "event:wake-parks:9361",
+            "arrive": "09:50",
+            "leave": "11:00",
+            "why": "Budding Sprouts at Beech Bluff County Park starts at 10 am at the Harvest Hub. Your 2-year-old hears a leaf story and learns about garden creatures. A family needs to sign up first.",
+            "tips": [
+              "Bring a snack for after the story and let your child collect a few leaves to take home.",
+              "Say it is almost time to go a few minutes before the end."
+            ],
+            "interests": [
+              "nature",
+              "stories"
+            ],
+            "also": [],
+            "area": "south-wake",
+            "outdoor": true,
+            "source": {
+              "kind": "event",
+              "title": "Budding Sprouts: Leave the Leaves",
+              "start": "2026-11-13T10:00:00",
+              "end": "2026-11-13T11:00:00",
+              "venue": "Beech Bluff County Park",
+              "address": "Beech Bluff Park Drive, Fuquay-Varina, NC",
+              "url": "https://apm.activecommunities.com/wakeparks/Activity_Search/budding-sprouts-leave-the-leaves/9361?locale=en-US",
+              "cost": "Free",
+              "lat": 35.58537279715877,
+              "lon": -78.6793341971644,
+              "ages": "At least 2 but less than 6",
+              "registration": "https://apm.activecommunities.com/wakeparks/Activity_Search/budding-sprouts-leave-the-leaves/9361?locale=en-US",
+              "indoor": false,
+              "area": "south-wake",
+              "source": "wake-parks",
+              "dropIn": false
+            }
+          },
+          "alternatives": [
+            {
+              "ref": "event:wake:24648",
+              "arrive": "10:00",
+              "leave": "11:20",
+              "why": "At Touch A Truck your child can meet emergency service workers and see the special vehicles that help them do their jobs. It starts at 10 am.",
+              "tips": [
+                "Let your child look first and come closer when ready.",
+                "Bring a snack and head out while they are still having fun."
+              ],
+              "interests": [
+                "vehicles"
+              ],
+              "also": [],
+              "area": "north-raleigh",
+              "outdoor": true,
+              "source": {
+                "kind": "event",
+                "title": "Touch A Truck!",
+                "start": "2026-11-13T10:00:00-05:00",
+                "end": "2026-11-13T11:30:00-05:00",
+                "venue": "Wake Forest Community Library",
+                "address": "400 E Holding Avenue, Wake Forest, NC",
+                "url": "https://www.wake.gov/events/touch-truck-4",
+                "cost": "Free",
+                "lat": 35.9699502750089,
+                "lon": -78.5102712176725,
+                "ages": "Young Children",
+                "registration": null,
+                "indoor": false,
+                "area": "north-raleigh",
+                "source": "wake-county",
+                "dropIn": false
+              }
+            },
+            {
+              "ref": "event:weekly:mols-early-childhood:2026-11-13",
+              "arrive": "10:00",
+              "leave": "11:15",
+              "why": "The Early Childhood Drop-In in Hideaway Woods has sensory play, songs and stories for little ones and their grown-ups. Come and go as your child likes.",
+              "tips": [
+                "Stay as long as your child is happy and leave when interest fades.",
+                "Bring a snack for a break between activities."
+              ],
+              "interests": [
+                "nature",
+                "science",
+                "music"
+              ],
+              "also": [],
+              "area": "durham",
+              "outdoor": true,
+              "source": {
+                "kind": "event",
+                "title": "Early Childhood Drop-In",
+                "start": "2026-11-13T09:30:00",
+                "end": "2026-11-13T11:30:00",
+                "venue": "Hideaway Woods, Museum of Life and Science",
+                "address": "433 W Murray Ave, Durham, NC 27704",
+                "url": "https://www.lifeandscience.org/learn/drop-in-programs/",
+                "cost": "Included with museum admission",
+                "lat": 36.0294,
+                "lon": -78.8993,
+                "ages": "young children and their caregivers",
+                "registration": false,
+                "indoor": false,
+                "area": "durham",
+                "source": "weekly",
+                "dropIn": true
+              }
+            },
+            {
+              "ref": "place:ncma-museum-park",
+              "arrive": "14:30",
+              "leave": "16:15",
+              "why": "After nap, your child can run across the lawns and walk the trails to see the big outdoor art. It is free.",
+              "tips": [
+                "Bring a snack and water for a break on a lawn.",
+                "Let your child pick which way to go at each turn."
+              ],
+              "interests": [
+                "art",
+                "nature",
+                "movement"
+              ],
+              "also": [],
+              "area": "raleigh",
+              "outdoor": true,
+              "source": {
+                "kind": "garden",
+                "title": "NC Museum of Art Museum Park",
+                "address": "2110 Blue Ridge Rd, Raleigh, NC 27607",
+                "lat": 35.8105,
+                "lon": -78.7022,
+                "url": "https://ncartmuseum.org/museum-park/",
+                "amenities": [
+                  "garden",
+                  "nature",
+                  "greenway",
+                  "restroom"
+                ],
+                "indoor": false,
+                "area": "raleigh",
+                "hours": {
+                  "sun": "dawn to dusk",
+                  "mon": "dawn to dusk",
+                  "tue": "dawn to dusk",
+                  "wed": "dawn to dusk",
+                  "thu": "dawn to dusk",
+                  "fri": "dawn to dusk",
+                  "sat": "dawn to dusk"
+                },
+                "cost": "Free",
+                "note": "Free. 164 acres of trails, lawns and big outdoor art; the Capital Area Greenway runs through."
+              }
+            },
+            {
+              "ref": "place:apex-community-park",
+              "also": [
+                {
+                  "ref": "event:wake:24372",
+                  "source": {
+                    "kind": "event",
+                    "title": "Family Storytime",
+                    "start": "2026-11-13T10:30:00-05:00",
+                    "end": "2026-11-13T11:00:00-05:00",
+                    "venue": "Eva Perry Regional Library",
+                    "address": "2100 Shepherds Vineyard Drive, Apex, NC",
+                    "url": "https://www.wake.gov/events/family-storytime-4699",
+                    "cost": "Free",
+                    "lat": 35.7437832024768,
+                    "lon": -78.8251607833066,
+                    "ages": "Young Children",
+                    "registration": null,
+                    "indoor": true,
+                    "area": "cary-apex",
+                    "source": "wake-county",
+                    "dropIn": false
+                  }
+                }
+              ],
+              "arrive": "10:00",
+              "leave": "11:00",
+              "why": "Your child plays at Apex Community Park first, then goes to Family Storytime at Eva Perry Regional Library at 10:30 am for books, rhymes and songs.",
+              "tips": [
+                "Stop by the Youth Services desk to pick up a ticket for storytime.",
+                "Tell your child the library is next so the move feels easy."
+              ],
+              "interests": [
+                "movement",
+                "stories",
+                "music"
+              ],
+              "area": "cary-apex",
+              "outdoor": false,
+              "source": {
+                "kind": "park",
+                "title": "Apex Community Park",
+                "address": "2200 Laura Duncan Rd., Apex, NC",
+                "lat": 35.75461588131496,
+                "lon": -78.82862025650613,
+                "url": "http://www.apexnc.org/795/Apex-Community-Park",
+                "amenities": [
+                  "playground",
+                  "picnic-shelter",
+                  "restroom",
+                  "greenway"
+                ],
+                "indoor": false,
+                "area": "cary-apex",
+                "hours": null,
+                "cost": null
+              }
+            }
+          ],
+          "rainBackup": null,
+          "timeline": [
+            {
+              "start": "07:00",
+              "end": "07:30",
+              "kind": "meal",
+              "title": "Up and breakfast"
+            },
+            {
+              "start": "07:30",
+              "end": "09:10",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "09:10",
+              "end": "09:30",
+              "kind": "routine",
+              "title": "Get ready to go",
+              "detail": "Shoes on, diaper bag, water and a snack."
+            },
+            {
+              "start": "09:30",
+              "end": "09:50",
+              "kind": "travel",
+              "title": "Drive to Beech Bluff County Park"
+            },
+            {
+              "start": "09:50",
+              "end": "11:00",
+              "kind": "outing",
+              "title": "Beech Bluff County Park"
+            },
+            {
+              "start": "11:00",
+              "end": "11:20",
+              "kind": "travel",
+              "title": "Drive home"
+            },
+            {
+              "start": "11:20",
+              "end": "11:50",
+              "kind": "meal",
+              "title": "Lunch"
+            },
+            {
+              "start": "11:50",
+              "end": "12:00",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "12:00",
+              "end": "14:00",
+              "kind": "nap",
+              "title": "Nap"
+            },
+            {
+              "start": "14:00",
+              "end": "14:20",
+              "kind": "routine",
+              "title": "Up and a snack"
+            },
+            {
+              "start": "14:20",
+              "end": "18:00",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "18:00",
+              "end": "18:45",
+              "kind": "meal",
+              "title": "Dinner"
+            },
+            {
+              "start": "18:45",
+              "end": "19:30",
+              "kind": "routine",
+              "title": "Bath, books and bed"
+            }
+          ]
+        },
+        {
+          "nap": "late-nap",
+          "napLabel": "One nap, 1 to 3",
+          "headline": "Run at John Chavis Park, then try hands-on science",
+          "main": {
+            "ref": "place:john-chavis-memorial-park",
+            "also": [
+              {
+                "ref": "event:museum:marbles:47399",
+                "source": {
+                  "kind": "event",
+                  "title": "Guest Star: Science",
+                  "start": "2026-11-13T10:00:00",
+                  "end": "2026-11-13T12:00:00",
+                  "venue": "Marbles Kids Museum",
+                  "address": "201 E Hargett St, Raleigh, NC 27601",
+                  "url": "https://marbleskidsmuseum.org/event/48522/",
+                  "cost": null,
+                  "lat": 35.7789,
+                  "lon": -78.6361,
+                  "ages": "Included with Admission Non-ticketed",
+                  "registration": null,
+                  "indoor": true,
+                  "area": "raleigh",
+                  "source": "museum",
+                  "dropIn": false
+                }
+              }
+            ],
+            "arrive": "09:30",
+            "leave": "11:30",
+            "why": "Your 2-year-old plays at John Chavis Memorial Park first. Then Guest Star: Science at Marbles Kids Museum begins at 10 am. It is included with admission and needs no ticket.",
+            "tips": [
+              "Bring a snack for the park so your child comes to the museum ready to explore.",
+              "Leave while your child is still busy and mention lunch at home."
+            ],
+            "interests": [
+              "movement",
+              "science"
+            ],
+            "area": "raleigh",
+            "outdoor": false,
+            "source": {
+              "kind": "park",
+              "title": "John Chavis Memorial Park",
+              "address": "505 Martin Luther King Jr Blvd, Raleigh, NC 27601",
+              "lat": 35.7698,
+              "lon": -78.63021,
+              "url": "https://raleighnc.gov/parks-and-recreation/places/john-chavis-memorial-park",
+              "amenities": [
+                "community-center",
+                "playground",
+                "carousel",
+                "fields"
+              ],
+              "indoor": false,
+              "area": "raleigh",
+              "hours": null,
+              "cost": null
+            }
+          },
+          "alternatives": [
+            {
+              "ref": "event:wake:24648",
+              "arrive": "09:55",
+              "leave": "11:30",
+              "why": "At Touch A Truck your child can meet emergency service workers and see the special vehicles that help them do their jobs. It starts at 10 am.",
+              "tips": [
+                "Let your child look first and come closer when ready.",
+                "Bring a snack and head out while they are still having fun."
+              ],
+              "interests": [
+                "vehicles"
+              ],
+              "also": [],
+              "area": "north-raleigh",
+              "outdoor": true,
+              "source": {
+                "kind": "event",
+                "title": "Touch A Truck!",
+                "start": "2026-11-13T10:00:00-05:00",
+                "end": "2026-11-13T11:30:00-05:00",
+                "venue": "Wake Forest Community Library",
+                "address": "400 E Holding Avenue, Wake Forest, NC",
+                "url": "https://www.wake.gov/events/touch-truck-4",
+                "cost": "Free",
+                "lat": 35.9699502750089,
+                "lon": -78.5102712176725,
+                "ages": "Young Children",
+                "registration": null,
+                "indoor": false,
+                "area": "north-raleigh",
+                "source": "wake-county",
+                "dropIn": false
+              }
+            },
+            {
+              "ref": "event:weekly:mols-early-childhood:2026-11-13",
+              "arrive": "10:00",
+              "leave": "11:30",
+              "why": "The Early Childhood Drop-In in Hideaway Woods has sensory play, songs and stories for little ones and their grown-ups. Come and go as your child likes.",
+              "tips": [
+                "Visit when your child feels like it and leave when interest fades.",
+                "Bring a snack for a break outside the activities."
+              ],
+              "interests": [
+                "nature",
+                "science",
+                "music"
+              ],
+              "also": [],
+              "area": "durham",
+              "outdoor": true,
+              "source": {
+                "kind": "event",
+                "title": "Early Childhood Drop-In",
+                "start": "2026-11-13T09:30:00",
+                "end": "2026-11-13T11:30:00",
+                "venue": "Hideaway Woods, Museum of Life and Science",
+                "address": "433 W Murray Ave, Durham, NC 27704",
+                "url": "https://www.lifeandscience.org/learn/drop-in-programs/",
+                "cost": "Included with museum admission",
+                "lat": 36.0294,
+                "lon": -78.8993,
+                "ages": "young children and their caregivers",
+                "registration": false,
+                "indoor": false,
+                "area": "durham",
+                "source": "weekly",
+                "dropIn": true
+              }
+            },
+            {
+              "ref": "place:pullen-park-amusements",
+              "arrive": "15:30",
+              "leave": "17:00",
+              "why": "After nap, your child can ride the carousel and the train, then play on the playground.",
+              "tips": [
+                "Do the rides first and finish at the playground.",
+                "Give a heads-up before the last ride."
+              ],
+              "interests": [
+                "vehicles",
+                "movement"
+              ],
+              "also": [],
+              "area": "raleigh",
+              "outdoor": true,
+              "source": {
+                "kind": "park",
+                "title": "Pullen Park Amusements",
+                "address": "410 Park Ave, Raleigh, NC 27606",
+                "lat": 35.7806,
+                "lon": -78.66396,
+                "url": "https://raleighnc.gov/parks-and-recreation/places/pullen-park-amusements",
+                "amenities": [
+                  "carousel",
+                  "boating",
+                  "train",
+                  "amusements",
+                  "courts",
+                  "playground",
+                  "picnic-shelter"
+                ],
+                "indoor": false,
+                "area": "raleigh",
+                "hours": {
+                  "mon": "10 a.m.–6 p.m.",
+                  "tue": "10 a.m.–6 p.m.",
+                  "wed": "10 a.m.–6 p.m.",
+                  "thu": "10 a.m.–6 p.m.",
+                  "fri": "10 a.m.–8 p.m.",
+                  "sat": "10 a.m.–8 p.m.",
+                  "sun": "10 a.m.–8 p.m."
+                },
+                "cost": null
+              }
+            },
+            {
+              "ref": "event:wake:24341",
+              "also": [
+                {
+                  "ref": "place:seagroves-farm-park",
+                  "source": {
+                    "kind": "park",
+                    "title": "Seagroves Farm Park",
+                    "address": "201 Parkfield Dr., Apex, NC",
+                    "lat": 35.72788436131107,
+                    "lon": -78.82838438475397,
+                    "url": "https://www.apexnc.org/1936/Seagroves-Farm-Park",
+                    "amenities": [
+                      "playground",
+                      "picnic-shelter",
+                      "restroom",
+                      "greenway"
+                    ],
+                    "indoor": false,
+                    "area": "cary-apex",
+                    "hours": null,
+                    "cost": null
+                  }
+                }
+              ],
+              "arrive": "09:20",
+              "leave": "10:50",
+              "why": "Toddler Storytime at Eva Perry Regional Library at 9:30 am has books, rhymes, music and movement. Then your child can run at Seagroves Farm Park.",
+              "tips": [
+                "Pick up a ticket at the Youth Services desk when you arrive.",
+                "Bring a snack for the park."
+              ],
+              "interests": [
+                "stories",
+                "music",
+                "movement"
+              ],
+              "area": "cary-apex",
+              "outdoor": false,
+              "source": {
+                "kind": "event",
+                "title": "Toddler Storytime",
+                "start": "2026-11-13T09:30:00-05:00",
+                "end": "2026-11-13T10:00:00-05:00",
+                "venue": "Eva Perry Regional Library",
+                "address": "2100 Shepherds Vineyard Drive, Apex, NC",
+                "url": "https://www.wake.gov/events/toddler-storytime-1046",
+                "cost": "Free",
+                "lat": 35.7437832024768,
+                "lon": -78.8251607833066,
+                "ages": "Young Children",
+                "registration": null,
+                "indoor": true,
+                "area": "cary-apex",
+                "source": "wake-county",
+                "dropIn": false
+              }
+            }
+          ],
+          "rainBackup": null,
+          "timeline": [
+            {
+              "start": "07:00",
+              "end": "07:30",
+              "kind": "meal",
+              "title": "Up and breakfast"
+            },
+            {
+              "start": "07:30",
+              "end": "08:50",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "08:50",
+              "end": "09:10",
+              "kind": "routine",
+              "title": "Get ready to go",
+              "detail": "Shoes on, diaper bag, water and a snack."
+            },
+            {
+              "start": "09:10",
+              "end": "09:30",
+              "kind": "travel",
+              "title": "Drive to John Chavis Memorial Park"
+            },
+            {
+              "start": "09:30",
+              "end": "09:50",
+              "kind": "outing",
+              "title": "John Chavis Memorial Park"
+            },
+            {
+              "start": "09:50",
+              "end": "10:00",
+              "kind": "travel",
+              "title": "Drive to Marbles Kids Museum"
+            },
+            {
+              "start": "10:00",
+              "end": "11:30",
+              "kind": "outing",
+              "title": "Guest Star: Science"
+            },
+            {
+              "start": "11:30",
+              "end": "11:50",
+              "kind": "travel",
+              "title": "Drive home"
+            },
+            {
+              "start": "11:50",
+              "end": "12:15",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "12:15",
+              "end": "12:45",
+              "kind": "meal",
+              "title": "Lunch"
+            },
+            {
+              "start": "12:45",
+              "end": "13:00",
+              "kind": "quiet",
+              "title": "Wind down",
+              "detail": "A couple of books to settle."
+            },
+            {
+              "start": "13:00",
+              "end": "15:00",
+              "kind": "nap",
+              "title": "Nap"
+            },
+            {
+              "start": "15:00",
+              "end": "15:20",
+              "kind": "routine",
+              "title": "Up and a snack"
+            },
+            {
+              "start": "15:20",
+              "end": "18:30",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "18:30",
+              "end": "19:15",
+              "kind": "meal",
+              "title": "Dinner"
+            },
+            {
+              "start": "19:15",
+              "end": "20:00",
+              "kind": "routine",
+              "title": "Bath, books and bed"
+            }
+          ]
+        },
+        {
+          "nap": "short-nap",
+          "napLabel": "Short nap, 1 to 2",
+          "headline": "See emergency vehicles up close, then play at the park",
+          "main": {
+            "ref": "event:wake:24648",
+            "also": [
+              {
+                "ref": "place:wake-forest-kiwanis-park",
+                "source": {
+                  "kind": "park",
+                  "title": "Wake Forest Kiwanis Park",
+                  "address": "404 E Holding Ave, Wake Forest, NC",
+                  "lat": 35.96949541581039,
+                  "lon": -78.50987455178895,
+                  "url": "https://www.wakeforestnc.gov/parks-recreation-cultural-resources/parks-facilities/kiwanis-park",
+                  "amenities": [
+                    "playground",
+                    "picnic-shelter"
+                  ],
+                  "indoor": false,
+                  "area": "north-raleigh",
+                  "hours": null,
+                  "cost": null
+                }
+              }
+            ],
+            "arrive": "09:55",
+            "leave": "12:00",
+            "why": "At Touch A Truck at Wake Forest Community Library your 2-year-old meets emergency service workers and sees special vehicles. Then there is time to play at Wake Forest Kiwanis Park.",
+            "tips": [
+              "Let your child watch for a bit before getting close to each vehicle.",
+              "Bring a snack for the park and head home for lunch and nap when it is time."
+            ],
+            "interests": [
+              "vehicles",
+              "movement"
+            ],
+            "area": "north-raleigh",
+            "outdoor": true,
+            "source": {
+              "kind": "event",
+              "title": "Touch A Truck!",
+              "start": "2026-11-13T10:00:00-05:00",
+              "end": "2026-11-13T11:30:00-05:00",
+              "venue": "Wake Forest Community Library",
+              "address": "400 E Holding Avenue, Wake Forest, NC",
+              "url": "https://www.wake.gov/events/touch-truck-4",
+              "cost": "Free",
+              "lat": 35.9699502750089,
+              "lon": -78.5102712176725,
+              "ages": "Young Children",
+              "registration": null,
+              "indoor": false,
+              "area": "north-raleigh",
+              "source": "wake-county",
+              "dropIn": false
+            }
+          },
+          "alternatives": [
+            {
+              "ref": "event:wake-parks:9361",
+              "also": [
+                {
+                  "ref": "place:beech-bluff-county-park",
+                  "source": {
+                    "kind": "park",
+                    "title": "Beech Bluff County Park",
+                    "address": "Beech Bluff Park Drive, Fuquay-Varina, NC",
+                    "lat": 35.58537279715877,
+                    "lon": -78.6793341971644,
+                    "url": "https://www.wake.gov/departments-government/parks-recreation-open-space/all-parks-trails/beech-bluff-county-park",
+                    "amenities": [
+                      "playground",
+                      "garden",
+                      "greenway",
+                      "restroom",
+                      "picnic-shelter"
+                    ],
+                    "indoor": false,
+                    "area": "south-wake",
+                    "hours": null,
+                    "cost": null
+                  }
+                }
+              ],
+              "arrive": "09:50",
+              "leave": "11:30",
+              "why": "Budding Sprouts at Beech Bluff County Park starts at 10 am with a story about leaves and garden creatures. A family needs to sign up first. Then your child can play at the park.",
+              "tips": [
+                "Bring a snack for the park after the story."
+              ],
+              "interests": [
+                "nature",
+                "stories"
+              ],
+              "area": "south-wake",
+              "outdoor": true,
+              "source": {
+                "kind": "event",
+                "title": "Budding Sprouts: Leave the Leaves",
+                "start": "2026-11-13T10:00:00",
+                "end": "2026-11-13T11:00:00",
+                "venue": "Beech Bluff County Park",
+                "address": "Beech Bluff Park Drive, Fuquay-Varina, NC",
+                "url": "https://apm.activecommunities.com/wakeparks/Activity_Search/budding-sprouts-leave-the-leaves/9361?locale=en-US",
+                "cost": "Free",
+                "lat": 35.58537279715877,
+                "lon": -78.6793341971644,
+                "ages": "At least 2 but less than 6",
+                "registration": "https://apm.activecommunities.com/wakeparks/Activity_Search/budding-sprouts-leave-the-leaves/9361?locale=en-US",
+                "indoor": false,
+                "area": "south-wake",
+                "source": "wake-parks",
+                "dropIn": false
+              }
+            },
+            {
+              "ref": "place:pullen-park-amusements",
+              "arrive": "14:30",
+              "leave": "16:30",
+              "why": "After nap, your child can ride the carousel and the train, then play on the playground.",
+              "tips": [
+                "Choose the rides first and finish on the playground.",
+                "Bring a snack and give a warning before the last ride."
+              ],
+              "interests": [
+                "vehicles",
+                "movement"
+              ],
+              "also": [],
+              "area": "raleigh",
+              "outdoor": true,
+              "source": {
+                "kind": "park",
+                "title": "Pullen Park Amusements",
+                "address": "410 Park Ave, Raleigh, NC 27606",
+                "lat": 35.7806,
+                "lon": -78.66396,
+                "url": "https://raleighnc.gov/parks-and-recreation/places/pullen-park-amusements",
+                "amenities": [
+                  "carousel",
+                  "boating",
+                  "train",
+                  "amusements",
+                  "courts",
+                  "playground",
+                  "picnic-shelter"
+                ],
+                "indoor": false,
+                "area": "raleigh",
+                "hours": {
+                  "mon": "10 a.m.–6 p.m.",
+                  "tue": "10 a.m.–6 p.m.",
+                  "wed": "10 a.m.–6 p.m.",
+                  "thu": "10 a.m.–6 p.m.",
+                  "fri": "10 a.m.–8 p.m.",
+                  "sat": "10 a.m.–8 p.m.",
+                  "sun": "10 a.m.–8 p.m."
+                },
+                "cost": null
+              }
+            },
+            {
+              "ref": "place:apex-community-park",
+              "also": [
+                {
+                  "ref": "event:wake:24372",
+                  "source": {
+                    "kind": "event",
+                    "title": "Family Storytime",
+                    "start": "2026-11-13T10:30:00-05:00",
+                    "end": "2026-11-13T11:00:00-05:00",
+                    "venue": "Eva Perry Regional Library",
+                    "address": "2100 Shepherds Vineyard Drive, Apex, NC",
+                    "url": "https://www.wake.gov/events/family-storytime-4699",
+                    "cost": "Free",
+                    "lat": 35.7437832024768,
+                    "lon": -78.8251607833066,
+                    "ages": "Young Children",
+                    "registration": null,
+                    "indoor": true,
+                    "area": "cary-apex",
+                    "source": "wake-county",
+                    "dropIn": false
+                  }
+                }
+              ],
+              "arrive": "10:00",
+              "leave": "11:00",
+              "why": "Your child plays at Apex Community Park first, then goes to Family Storytime at Eva Perry Regional Library at 10:30 am for books, rhymes and songs.",
+              "tips": [
+                "Stop by the Youth Services desk to pick up a ticket for storytime.",
+                "Tell your child the library is next so the move feels easy."
+              ],
+              "interests": [
+                "movement",
+                "stories",
+                "music"
+              ],
+              "area": "cary-apex",
+              "outdoor": false,
+              "source": {
+                "kind": "park",
+                "title": "Apex Community Park",
+                "address": "2200 Laura Duncan Rd., Apex, NC",
+                "lat": 35.75461588131496,
+                "lon": -78.82862025650613,
+                "url": "http://www.apexnc.org/795/Apex-Community-Park",
+                "amenities": [
+                  "playground",
+                  "picnic-shelter",
+                  "restroom",
+                  "greenway"
+                ],
+                "indoor": false,
+                "area": "cary-apex",
+                "hours": null,
+                "cost": null
+              }
+            }
+          ],
+          "rainBackup": null,
+          "timeline": [
+            {
+              "start": "07:00",
+              "end": "07:30",
+              "kind": "meal",
+              "title": "Up and breakfast"
+            },
+            {
+              "start": "07:30",
+              "end": "09:15",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "09:15",
+              "end": "09:35",
+              "kind": "routine",
+              "title": "Get ready to go",
+              "detail": "Shoes on, diaper bag, water and a snack."
+            },
+            {
+              "start": "09:35",
+              "end": "09:55",
+              "kind": "travel",
+              "title": "Drive to Wake Forest Community Library"
+            },
+            {
+              "start": "09:55",
+              "end": "11:30",
+              "kind": "outing",
+              "title": "Touch A Truck!"
+            },
+            {
+              "start": "11:30",
+              "end": "11:40",
+              "kind": "travel",
+              "title": "Drive to Wake Forest Kiwanis Park"
+            },
+            {
+              "start": "11:40",
+              "end": "12:00",
+              "kind": "outing",
+              "title": "Wake Forest Kiwanis Park"
+            },
+            {
+              "start": "12:00",
+              "end": "12:20",
+              "kind": "travel",
+              "title": "Drive home"
+            },
+            {
+              "start": "12:20",
+              "end": "12:50",
+              "kind": "meal",
+              "title": "Lunch"
+            },
+            {
+              "start": "12:50",
+              "end": "13:00",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "13:00",
+              "end": "14:00",
+              "kind": "nap",
+              "title": "Nap"
+            },
+            {
+              "start": "14:00",
+              "end": "14:20",
+              "kind": "routine",
+              "title": "Up and a snack"
+            },
+            {
+              "start": "14:20",
+              "end": "18:00",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "18:00",
+              "end": "18:45",
+              "kind": "meal",
+              "title": "Dinner"
+            },
+            {
+              "start": "18:45",
+              "end": "19:30",
+              "kind": "routine",
+              "title": "Bath, books and bed"
+            }
+          ]
+        }
+      ],
+      "dropped": [
+        "[early-nap] event:wake-parks:9361 tip: says drop-in, but sign-up is needed: \"Sign up ahead of time, since this program is not a drop-in.\"",
+        "[short-nap] event:wake-parks:9361 tip: says drop-in, but sign-up is needed: \"Sign up ahead of time, since this program is not a drop-in.\"",
+        "[short-nap] alternative event:weekly:mols-early-childhood:2026-11-13: leaves 11:45, event ends 11:30",
+        "[short-nap] event:wake-parks:9361 tip: says drop-in, but sign-up is needed: \"Sign up ahead of time, since this program is not a drop-in.\""
+      ]
+    }
+  ],
+  "checked": {
+    "at": "2026-11-01T11:09:07.554Z",
+    "forecast": "none",
+    "weather": null,
+    "hidden": []
+  }
+}

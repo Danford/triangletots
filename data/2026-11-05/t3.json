@@ -1,0 +1,2450 @@
+{
+  "date": "2026-11-05",
+  "band": "t3",
+  "versions": [
+    {
+      "at": "2026-10-27T08:22:56.238Z",
+      "reason": null,
+      "forecast": "none",
+      "weather": null,
+      "plans": [
+        {
+          "nap": "nap",
+          "napLabel": "Nap, 1 to 2:30",
+          "headline": "Kids Discover Nature: Fall Leaves Fall at Harris Lake County Park",
+          "main": {
+            "ref": "place:harris-lake-county-park",
+            "arrive": "10:30",
+            "leave": "12:00",
+            "why": "A naturalist leads 2–6 year olds on a short hike to find fallen leaves, reads Fall Leaves Fall, and makes a leaf craft — all outside at Harris Lake County Park.",
+            "tips": [
+              "Registration is required; book ahead of time.",
+              "Dress in layers and bring a water bottle; the hike is gentle but it is November.",
+              "Leave the park by 12:00 so you are home for lunch before nap."
+            ],
+            "interests": [
+              "nature",
+              "science",
+              "stories"
+            ],
+            "also": [
+              {
+                "ref": "event:wake-parks:9302",
+                "source": {
+                  "kind": "event",
+                  "title": "Kids Discover Nature: Fall Leaves Fall",
+                  "start": "2026-11-05T11:00:00",
+                  "end": "2026-11-05T12:00:00",
+                  "venue": "Harris Lake County Park",
+                  "address": "2112 County Park Dr., New Hill, NC  27562",
+                  "url": "https://apm.activecommunities.com/wakeparks/Activity_Search/kids-discover-nature-fall-leaves-fall/9302?locale=en-US",
+                  "cost": "Free",
+                  "ages": "At least 2 but less than 6",
+                  "registration": "https://apm.activecommunities.com/wakeparks/Activity_Search/kids-discover-nature-fall-leaves-fall/9302?locale=en-US",
+                  "indoor": false,
+                  "area": "south-wake",
+                  "source": "wake-parks",
+                  "dropIn": false
+                }
+              }
+            ],
+            "area": "south-wake",
+            "outdoor": true,
+            "source": {
+              "kind": "park",
+              "title": "Harris Lake County Park",
+              "address": "2112 County Park Dr., New Hill, NC  27562",
+              "url": "https://www.wakegov.com/departments-government/parks-recreation-and-open-space/all-parks-trails/harris-lake-county-park",
+              "amenities": [
+                "playground",
+                "picnic-shelter",
+                "restroom",
+                "greenway",
+                "nature"
+              ],
+              "indoor": false,
+              "area": "south-wake",
+              "hours": null
+            }
+          },
+          "alternatives": [
+            {
+              "ref": "place:sarah-p-duke-gardens",
+              "arrive": "09:30",
+              "leave": "12:00",
+              "why": "Discovery Drop-In at the Charlotte Brody Discovery Garden has self-guided activities and a storytime at 10:30 — a relaxed outdoor morning in Durham's beautiful gardens.",
+              "tips": [
+                "Arrive at 09:30 to explore the discovery garden before the drop-in opens at 10:00.",
+                "Story time runs at 10:30 inside the garden area; find a spot early.",
+                "Weather permitting for the outdoor portions — bring a layer."
+              ],
+              "interests": [
+                "nature",
+                "stories",
+                "science"
+              ],
+              "also": [
+                {
+                  "ref": "event:museum:duke-gardens:17935",
+                  "source": {
+                    "kind": "event",
+                    "title": "Discovery Drop-In & Storytime",
+                    "start": "2026-11-05T10:00:00",
+                    "end": "2026-11-05T12:00:00",
+                    "venue": "Sarah P. Duke Gardens",
+                    "address": "420 Anderson Street, Durham, NC, 27708",
+                    "url": "https://gardens.duke.edu/event/discovery-drop-in-storytime-24/",
+                    "cost": "Free",
+                    "ages": "Family programs",
+                    "registration": false,
+                    "indoor": false,
+                    "area": "durham",
+                    "source": "museum",
+                    "dropIn": false
+                  }
+                }
+              ],
+              "area": "durham",
+              "outdoor": true,
+              "source": {
+                "kind": "garden",
+                "title": "Sarah P. Duke Gardens",
+                "address": "420 Anderson St, Durham, NC 27708",
+                "url": "https://gardens.duke.edu/visit/",
+                "amenities": [
+                  "garden",
+                  "nature",
+                  "restroom"
+                ],
+                "indoor": false,
+                "area": "durham",
+                "hours": {
+                  "sun": "8 a.m. to sunset",
+                  "mon": "8 a.m. to sunset",
+                  "tue": "8 a.m. to sunset",
+                  "wed": "8 a.m. to sunset",
+                  "thu": "8 a.m. to sunset",
+                  "fri": "8 a.m. to sunset",
+                  "sat": "8 a.m. to sunset"
+                }
+              }
+            },
+            {
+              "ref": "place:gipson-play-plaza",
+              "arrive": "09:30",
+              "leave": "12:00",
+              "why": "The Public Library Pop-Up at Gipson Play Plaza pairs books and storytime with the big destination playground at Dix Park — a great outdoor morning in Raleigh.",
+              "tips": [
+                "Arrive early to play before the library pop-up starts at 10:00.",
+                "The playground is large; agree on a meeting spot before you spread out.",
+                "Bring a snack for after storytime so you can keep playing."
+              ],
+              "interests": [
+                "stories",
+                "movement",
+                "nature"
+              ],
+              "also": [
+                {
+                  "ref": "event:dix-park:/event/public-library-pop:2026-11-05",
+                  "source": {
+                    "kind": "event",
+                    "title": "Public Library Pop-Up",
+                    "start": "2026-11-05T10:00:00",
+                    "end": "2026-11-05T12:00:00",
+                    "venue": "Gipson Play Plaza, Dix Park",
+                    "address": null,
+                    "url": "https://dixpark.org/event/public-library-pop",
+                    "cost": null,
+                    "ages": null,
+                    "registration": false,
+                    "indoor": false,
+                    "area": "raleigh",
+                    "source": "dix-park",
+                    "dropIn": false
+                  }
+                }
+              ],
+              "area": "raleigh",
+              "outdoor": true,
+              "source": {
+                "kind": "park",
+                "title": "Gipson Play Plaza at Dix Park",
+                "address": "715 Biggs Dr, Raleigh, NC 27603",
+                "url": "https://dixpark.org/gipson-play-plaza",
+                "amenities": [
+                  "playground",
+                  "restroom"
+                ],
+                "indoor": false,
+                "area": "raleigh",
+                "hours": {
+                  "sun": "8 a.m.–9 p.m.",
+                  "mon": "8 a.m.–9 p.m.",
+                  "tue": "8 a.m.–9 p.m.",
+                  "wed": "8 a.m.–9 p.m.",
+                  "thu": "8 a.m.–9 p.m.",
+                  "fri": "8 a.m.–9 p.m.",
+                  "sat": "8 a.m.–9 p.m."
+                }
+              }
+            },
+            {
+              "ref": "event:cary-rec:ENVI0044-029",
+              "arrive": "09:50",
+              "leave": "11:30",
+              "why": "Colorful Leaves at Hemlock Bluffs Nature Preserve takes 3–5 year olds and their grown-ups outside to explore fall colors through guided activities at this lovely Cary nature preserve.",
+              "tips": [
+                "Registration is required; sign up in advance.",
+                "Bring a small backpack with a snack and a water bottle.",
+                "Head to Jack Smith Park after the program for more outdoor play — weather permitting."
+              ],
+              "interests": [
+                "nature",
+                "science"
+              ],
+              "also": [
+                {
+                  "ref": "place:jack-smith-park",
+                  "source": {
+                    "kind": "park",
+                    "title": "Jack Smith Park",
+                    "address": "9725 Penny Road, Cary, NC",
+                    "url": "http://www.townofcary.org/recreation-enjoyment/parks-greenways-environment/parks/jack-smith-park",
+                    "amenities": [
+                      "playground",
+                      "picnic-shelter",
+                      "restroom",
+                      "greenway"
+                    ],
+                    "indoor": false,
+                    "area": "cary-apex",
+                    "hours": null
+                  }
+                }
+              ],
+              "area": "cary-apex",
+              "outdoor": true,
+              "source": {
+                "kind": "event",
+                "title": "Colorful Leaves",
+                "start": "2026-11-05T10:00:00",
+                "end": "2026-11-05T11:00:00",
+                "venue": "Hemlock Bluffs Nature Preserve",
+                "address": "2616 Kildaire Farm Road, Cary, NC",
+                "url": "https://nccaryweb.myvscloud.com/webtrac/web/search.html?module=AR",
+                "cost": "$8.00 resident / $10.00 non-resident",
+                "ages": "3-5 w/guardian",
+                "registration": "https://nccaryweb.myvscloud.com/webtrac/web/search.html?module=AR",
+                "indoor": false,
+                "area": "cary-apex",
+                "source": "cary-rec",
+                "dropIn": false
+              }
+            },
+            {
+              "ref": "event:museum:marbles:47667",
+              "arrive": "10:05",
+              "leave": "12:00",
+              "why": "Secrets of Great Salt Lake then Superpower Dogs 3D at Marbles IMAX make a back-to-back big-screen double feature for kids 3 and up — a fun indoor morning in downtown Raleigh.",
+              "tips": [
+                "Arrive a few minutes early to get settled before the first film starts.",
+                "Bring a small snack for the gap between films.",
+                "The museum floor is right there if you have energy left after the second film."
+              ],
+              "interests": [
+                "science",
+                "animals",
+                "nature"
+              ],
+              "also": [
+                {
+                  "ref": "event:museum:marbles:47434",
+                  "source": {
+                    "kind": "event",
+                    "title": "Superpower Dogs 3D",
+                    "start": "2026-11-05T11:15:00",
+                    "end": "2026-11-05T12:00:00",
+                    "venue": "Marbles Kids Museum",
+                    "address": null,
+                    "url": "https://marbleskidsmuseum.org/event/48535/",
+                    "cost": null,
+                    "ages": "IMAX film, 3 and up",
+                    "registration": false,
+                    "indoor": true,
+                    "area": "raleigh",
+                    "source": "museum",
+                    "dropIn": false
+                  }
+                }
+              ],
+              "area": "raleigh",
+              "outdoor": false,
+              "source": {
+                "kind": "event",
+                "title": "Secrets of Great Salt Lake",
+                "start": "2026-11-05T10:15:00",
+                "end": "2026-11-05T11:00:00",
+                "venue": "Marbles Kids Museum",
+                "address": null,
+                "url": "https://marbleskidsmuseum.org/event/48651/",
+                "cost": null,
+                "ages": "IMAX film, 3 and up",
+                "registration": false,
+                "indoor": true,
+                "area": "raleigh",
+                "source": "museum",
+                "dropIn": false
+              }
+            }
+          ],
+          "rainBackup": null,
+          "timeline": [
+            {
+              "start": "07:00",
+              "end": "07:30",
+              "kind": "routine",
+              "title": "Wake up and breakfast"
+            },
+            {
+              "start": "07:30",
+              "end": "09:00",
+              "kind": "play",
+              "title": "Morning play at home"
+            },
+            {
+              "start": "09:00",
+              "end": "09:30",
+              "kind": "routine",
+              "title": "Get dressed and pack the bag"
+            },
+            {
+              "start": "09:30",
+              "end": "10:00",
+              "kind": "play",
+              "title": "Play at home while heading out"
+            },
+            {
+              "start": "10:00",
+              "end": "10:30",
+              "kind": "travel",
+              "title": "Drive to Harris Lake County Park"
+            },
+            {
+              "start": "10:30",
+              "end": "11:00",
+              "kind": "outing",
+              "title": "Explore Harris Lake playground and trails",
+              "detail": "Free play at the park while waiting for the program to begin at 11:00."
+            },
+            {
+              "start": "11:00",
+              "end": "12:00",
+              "kind": "outing",
+              "title": "Kids Discover Nature: Fall Leaves Fall",
+              "detail": "Guided hike, leaf craft, and story for ages 2–6 at the Cypress Shelter area."
+            },
+            {
+              "start": "12:00",
+              "end": "12:30",
+              "kind": "travel",
+              "title": "Drive home"
+            },
+            {
+              "start": "12:30",
+              "end": "13:00",
+              "kind": "meal",
+              "title": "Lunch at home"
+            },
+            {
+              "start": "13:00",
+              "end": "14:30",
+              "kind": "nap",
+              "title": "Nap time"
+            },
+            {
+              "start": "14:30",
+              "end": "14:50",
+              "kind": "routine",
+              "title": "Wake from nap and snack"
+            },
+            {
+              "start": "14:50",
+              "end": "17:30",
+              "kind": "play",
+              "title": "Afternoon play at home or a nearby park"
+            },
+            {
+              "start": "17:30",
+              "end": "18:15",
+              "kind": "meal",
+              "title": "Dinner"
+            },
+            {
+              "start": "18:15",
+              "end": "19:00",
+              "kind": "play",
+              "title": "Calm play and wind-down"
+            },
+            {
+              "start": "19:00",
+              "end": "20:00",
+              "kind": "routine",
+              "title": "Bath and bedtime routine"
+            }
+          ]
+        },
+        {
+          "nap": "quiet",
+          "napLabel": "Quiet time, no sleep",
+          "headline": "Discovery Drop-In and Storytime at Sarah P. Duke Gardens",
+          "main": {
+            "ref": "place:sarah-p-duke-gardens",
+            "arrive": "09:30",
+            "leave": "12:00",
+            "why": "The Charlotte Brody Discovery Garden hosts self-guided activities and two storytimes (10:30 and 11:30) every Thursday — a lovely way to spend a fall morning among the plants and chickens.",
+            "tips": [
+              "Arrive at 09:30 to wander the discovery garden before the drop-in opens at 10:00.",
+              "The 10:30 storytime is well-timed for a 3-year-old's attention span; aim for that one.",
+              "Parking can fill early on nice days — arrive on the earlier side."
+            ],
+            "interests": [
+              "nature",
+              "stories",
+              "science"
+            ],
+            "also": [
+              {
+                "ref": "event:museum:duke-gardens:17935",
+                "source": {
+                  "kind": "event",
+                  "title": "Discovery Drop-In & Storytime",
+                  "start": "2026-11-05T10:00:00",
+                  "end": "2026-11-05T12:00:00",
+                  "venue": "Sarah P. Duke Gardens",
+                  "address": "420 Anderson Street, Durham, NC, 27708",
+                  "url": "https://gardens.duke.edu/event/discovery-drop-in-storytime-24/",
+                  "cost": "Free",
+                  "ages": "Family programs",
+                  "registration": false,
+                  "indoor": false,
+                  "area": "durham",
+                  "source": "museum",
+                  "dropIn": false
+                }
+              }
+            ],
+            "area": "durham",
+            "outdoor": true,
+            "source": {
+              "kind": "garden",
+              "title": "Sarah P. Duke Gardens",
+              "address": "420 Anderson St, Durham, NC 27708",
+              "url": "https://gardens.duke.edu/visit/",
+              "amenities": [
+                "garden",
+                "nature",
+                "restroom"
+              ],
+              "indoor": false,
+              "area": "durham",
+              "hours": {
+                "sun": "8 a.m. to sunset",
+                "mon": "8 a.m. to sunset",
+                "tue": "8 a.m. to sunset",
+                "wed": "8 a.m. to sunset",
+                "thu": "8 a.m. to sunset",
+                "fri": "8 a.m. to sunset",
+                "sat": "8 a.m. to sunset"
+              }
+            }
+          },
+          "alternatives": [
+            {
+              "ref": "place:harris-lake-county-park",
+              "arrive": "10:30",
+              "leave": "12:00",
+              "why": "Kids Discover Nature: Fall Leaves Fall is a guided hike, story, and leaf craft for ages 2–6 at Harris Lake County Park — an active, hands-on outdoor morning in south Wake.",
+              "tips": [
+                "Registration is required; book in advance.",
+                "Dress in layers and bring a water bottle for the hike.",
+                "Leave by 12:00 so you are home for lunch before quiet time."
+              ],
+              "interests": [
+                "nature",
+                "science",
+                "stories"
+              ],
+              "also": [
+                {
+                  "ref": "event:wake-parks:9302",
+                  "source": {
+                    "kind": "event",
+                    "title": "Kids Discover Nature: Fall Leaves Fall",
+                    "start": "2026-11-05T11:00:00",
+                    "end": "2026-11-05T12:00:00",
+                    "venue": "Harris Lake County Park",
+                    "address": "2112 County Park Dr., New Hill, NC  27562",
+                    "url": "https://apm.activecommunities.com/wakeparks/Activity_Search/kids-discover-nature-fall-leaves-fall/9302?locale=en-US",
+                    "cost": "Free",
+                    "ages": "At least 2 but less than 6",
+                    "registration": "https://apm.activecommunities.com/wakeparks/Activity_Search/kids-discover-nature-fall-leaves-fall/9302?locale=en-US",
+                    "indoor": false,
+                    "area": "south-wake",
+                    "source": "wake-parks",
+                    "dropIn": false
+                  }
+                }
+              ],
+              "area": "south-wake",
+              "outdoor": true,
+              "source": {
+                "kind": "park",
+                "title": "Harris Lake County Park",
+                "address": "2112 County Park Dr., New Hill, NC  27562",
+                "url": "https://www.wakegov.com/departments-government/parks-recreation-and-open-space/all-parks-trails/harris-lake-county-park",
+                "amenities": [
+                  "playground",
+                  "picnic-shelter",
+                  "restroom",
+                  "greenway",
+                  "nature"
+                ],
+                "indoor": false,
+                "area": "south-wake",
+                "hours": null
+              }
+            },
+            {
+              "ref": "event:cary-rec:ENVI0044-029",
+              "arrive": "09:50",
+              "leave": "11:30",
+              "why": "Colorful Leaves at Hemlock Bluffs takes 3–5 year olds outside for guided fall nature exploration in Cary, followed by play at Jack Smith Park.",
+              "tips": [
+                "Registration is required; sign up ahead of time.",
+                "Bring a snack and water bottle for after the program.",
+                "Jack Smith Park is a short drive away for extra outdoor time — weather permitting."
+              ],
+              "interests": [
+                "nature",
+                "science"
+              ],
+              "also": [
+                {
+                  "ref": "place:jack-smith-park",
+                  "source": {
+                    "kind": "park",
+                    "title": "Jack Smith Park",
+                    "address": "9725 Penny Road, Cary, NC",
+                    "url": "http://www.townofcary.org/recreation-enjoyment/parks-greenways-environment/parks/jack-smith-park",
+                    "amenities": [
+                      "playground",
+                      "picnic-shelter",
+                      "restroom",
+                      "greenway"
+                    ],
+                    "indoor": false,
+                    "area": "cary-apex",
+                    "hours": null
+                  }
+                }
+              ],
+              "area": "cary-apex",
+              "outdoor": true,
+              "source": {
+                "kind": "event",
+                "title": "Colorful Leaves",
+                "start": "2026-11-05T10:00:00",
+                "end": "2026-11-05T11:00:00",
+                "venue": "Hemlock Bluffs Nature Preserve",
+                "address": "2616 Kildaire Farm Road, Cary, NC",
+                "url": "https://nccaryweb.myvscloud.com/webtrac/web/search.html?module=AR",
+                "cost": "$8.00 resident / $10.00 non-resident",
+                "ages": "3-5 w/guardian",
+                "registration": "https://nccaryweb.myvscloud.com/webtrac/web/search.html?module=AR",
+                "indoor": false,
+                "area": "cary-apex",
+                "source": "cary-rec",
+                "dropIn": false
+              }
+            },
+            {
+              "ref": "event:libcal:durham-county-library:15318482",
+              "arrive": "10:20",
+              "leave": "11:30",
+              "why": "Bilingual Storytime at the Nasher blends a fun Spanish-and-English story in the museum galleries, then a short walk to Durham Central Park for outdoor play.",
+              "tips": [
+                "No registration needed; arrive a few minutes early to find your spot in the gallery.",
+                "Keep the language fun and light — repetition of words is part of the experience.",
+                "Head to Durham Central Park after for outdoor play — weather permitting."
+              ],
+              "interests": [
+                "stories",
+                "music",
+                "art"
+              ],
+              "also": [
+                {
+                  "ref": "place:durham-central-park",
+                  "source": {
+                    "kind": "park",
+                    "title": "Durham Central Park",
+                    "address": "501 Foster St, Durham, NC",
+                    "url": "https://www.dprplaymore.org/Facilities/Facility/Details/Durham-Central-Park-18",
+                    "amenities": [
+                      "playground",
+                      "restroom",
+                      "greenway"
+                    ],
+                    "indoor": false,
+                    "area": "durham",
+                    "hours": null
+                  }
+                }
+              ],
+              "area": "durham",
+              "outdoor": false,
+              "source": {
+                "kind": "event",
+                "title": "Bilingual Storytime at The Nasher / Cuento Bilingüe en el Museo de Arte Nasher",
+                "start": "2026-11-05T10:30:00",
+                "end": "2026-11-05T11:00:00",
+                "venue": "Durham County Library",
+                "address": "501 Foster St, Durham, NC",
+                "url": "https://durhamcountylibrary.libcal.com/event/15318482",
+                "cost": null,
+                "ages": "Baby, Kindergarten, Pre-School, Toddler",
+                "registration": false,
+                "indoor": true,
+                "area": "durham",
+                "source": "libcal",
+                "dropIn": false
+              }
+            },
+            {
+              "ref": "place:pullen-park-amusements",
+              "arrive": "14:00",
+              "leave": "15:15",
+              "why": "An afternoon ride on the Pullen Park carousel and train, then a short drive to West Regional Library for ABC Craft and Learn — a fun mix of classic park magic and hands-on learning.",
+              "tips": [
+                "Pullen Park opens at 10:00 a.m.; arrive at 14:00 for a post-quiet-time afternoon outing.",
+                "Budget time for the carousel and the train before you need to leave for the library.",
+                "The craft program is for ages 3–5; bring a snack to eat at the park beforehand."
+              ],
+              "interests": [
+                "vehicles",
+                "movement",
+                "art"
+              ],
+              "also": [
+                {
+                  "ref": "event:wake:23241",
+                  "source": {
+                    "kind": "event",
+                    "title": "ABC Craft and Learn",
+                    "start": "2026-11-05T14:30:00-05:00",
+                    "end": "2026-11-05T15:15:00-05:00",
+                    "venue": "West Regional Library",
+                    "address": "4000 Louis Stephens Drive, Cary, NC, 27519",
+                    "url": "https://www.wake.gov/events/abc-craft-and-learn-604",
+                    "cost": null,
+                    "ages": "Young Children",
+                    "registration": false,
+                    "indoor": true,
+                    "area": "raleigh",
+                    "source": "wake-county",
+                    "dropIn": false
+                  }
+                }
+              ],
+              "area": "raleigh",
+              "outdoor": false,
+              "source": {
+                "kind": "park",
+                "title": "Pullen Park Amusements",
+                "address": "410 Park Ave, Raleigh, NC 27606",
+                "url": "https://raleighnc.gov/parks-and-recreation/places/pullen-park-amusements",
+                "amenities": [
+                  "carousel",
+                  "boating",
+                  "train",
+                  "amusements",
+                  "courts",
+                  "playground",
+                  "picnic-shelter"
+                ],
+                "indoor": false,
+                "area": "raleigh",
+                "hours": {
+                  "mon": "10 a.m.–6 p.m.",
+                  "tue": "10 a.m.–6 p.m.",
+                  "wed": "10 a.m.–6 p.m.",
+                  "thu": "10 a.m.–6 p.m.",
+                  "fri": "10 a.m.–8 p.m.",
+                  "sat": "10 a.m.–8 p.m.",
+                  "sun": "10 a.m.–8 p.m."
+                }
+              }
+            }
+          ],
+          "rainBackup": null,
+          "timeline": [
+            {
+              "start": "07:00",
+              "end": "07:30",
+              "kind": "routine",
+              "title": "Wake up and breakfast"
+            },
+            {
+              "start": "07:30",
+              "end": "08:30",
+              "kind": "play",
+              "title": "Morning play at home"
+            },
+            {
+              "start": "08:30",
+              "end": "09:00",
+              "kind": "routine",
+              "title": "Get dressed and pack the bag"
+            },
+            {
+              "start": "09:00",
+              "end": "09:30",
+              "kind": "travel",
+              "title": "Drive to Sarah P. Duke Gardens"
+            },
+            {
+              "start": "09:30",
+              "end": "10:00",
+              "kind": "outing",
+              "title": "Explore the discovery garden before drop-in",
+              "detail": "Wander the Charlotte Brody Discovery Garden paths before the program opens at 10:00."
+            },
+            {
+              "start": "10:00",
+              "end": "12:00",
+              "kind": "outing",
+              "title": "Discovery Drop-In and Storytime",
+              "detail": "Self-guided garden activities and storytime at 10:30 in the Storytime Nook."
+            },
+            {
+              "start": "12:00",
+              "end": "12:30",
+              "kind": "travel",
+              "title": "Drive home"
+            },
+            {
+              "start": "12:30",
+              "end": "13:00",
+              "kind": "meal",
+              "title": "Lunch at home"
+            },
+            {
+              "start": "13:00",
+              "end": "13:45",
+              "kind": "quiet",
+              "title": "Quiet time"
+            },
+            {
+              "start": "13:45",
+              "end": "17:30",
+              "kind": "play",
+              "title": "Afternoon play at home or a nearby park"
+            },
+            {
+              "start": "17:30",
+              "end": "18:15",
+              "kind": "meal",
+              "title": "Dinner"
+            },
+            {
+              "start": "18:15",
+              "end": "18:45",
+              "kind": "play",
+              "title": "Calm wind-down play"
+            },
+            {
+              "start": "18:45",
+              "end": "19:30",
+              "kind": "routine",
+              "title": "Bath and bedtime routine"
+            }
+          ]
+        },
+        {
+          "nap": "no-nap",
+          "napLabel": "No nap",
+          "headline": "Colorful Leaves at Hemlock Bluffs Nature Preserve, then Jack Smith Park",
+          "main": {
+            "ref": "event:cary-rec:ENVI0044-029",
+            "arrive": "09:50",
+            "leave": "11:40",
+            "why": "Colorful Leaves takes 3–5 year olds and their grown-ups outside at Hemlock Bluffs to explore the season through guided nature activities, followed by play at Jack Smith Park.",
+            "tips": [
+              "Registration is required; book ahead as spots fill quickly for this age group.",
+              "Dress for the outdoors — bluffs can be breezy in November.",
+              "Jack Smith Park is a short drive for post-program play — weather permitting."
+            ],
+            "interests": [
+              "nature",
+              "science"
+            ],
+            "also": [
+              {
+                "ref": "place:jack-smith-park",
+                "source": {
+                  "kind": "park",
+                  "title": "Jack Smith Park",
+                  "address": "9725 Penny Road, Cary, NC",
+                  "url": "http://www.townofcary.org/recreation-enjoyment/parks-greenways-environment/parks/jack-smith-park",
+                  "amenities": [
+                    "playground",
+                    "picnic-shelter",
+                    "restroom",
+                    "greenway"
+                  ],
+                  "indoor": false,
+                  "area": "cary-apex",
+                  "hours": null
+                }
+              }
+            ],
+            "area": "cary-apex",
+            "outdoor": true,
+            "source": {
+              "kind": "event",
+              "title": "Colorful Leaves",
+              "start": "2026-11-05T10:00:00",
+              "end": "2026-11-05T11:00:00",
+              "venue": "Hemlock Bluffs Nature Preserve",
+              "address": "2616 Kildaire Farm Road, Cary, NC",
+              "url": "https://nccaryweb.myvscloud.com/webtrac/web/search.html?module=AR",
+              "cost": "$8.00 resident / $10.00 non-resident",
+              "ages": "3-5 w/guardian",
+              "registration": "https://nccaryweb.myvscloud.com/webtrac/web/search.html?module=AR",
+              "indoor": false,
+              "area": "cary-apex",
+              "source": "cary-rec",
+              "dropIn": false
+            }
+          },
+          "alternatives": [
+            {
+              "ref": "place:sarah-p-duke-gardens",
+              "arrive": "09:30",
+              "leave": "12:00",
+              "why": "Discovery Drop-In and Storytime at Sarah P. Duke Gardens is a relaxed, drop-in outdoor morning of discovery garden activities and storytime at 10:30 and 11:30.",
+              "tips": [
+                "Arrive at 09:30 to wander the garden before the drop-in opens.",
+                "The 10:30 storytime is a natural anchor for the morning.",
+                "Bring a snack to eat on the garden paths after the program."
+              ],
+              "interests": [
+                "nature",
+                "stories",
+                "science"
+              ],
+              "also": [
+                {
+                  "ref": "event:museum:duke-gardens:17935",
+                  "source": {
+                    "kind": "event",
+                    "title": "Discovery Drop-In & Storytime",
+                    "start": "2026-11-05T10:00:00",
+                    "end": "2026-11-05T12:00:00",
+                    "venue": "Sarah P. Duke Gardens",
+                    "address": "420 Anderson Street, Durham, NC, 27708",
+                    "url": "https://gardens.duke.edu/event/discovery-drop-in-storytime-24/",
+                    "cost": "Free",
+                    "ages": "Family programs",
+                    "registration": false,
+                    "indoor": false,
+                    "area": "durham",
+                    "source": "museum",
+                    "dropIn": false
+                  }
+                }
+              ],
+              "area": "durham",
+              "outdoor": true,
+              "source": {
+                "kind": "garden",
+                "title": "Sarah P. Duke Gardens",
+                "address": "420 Anderson St, Durham, NC 27708",
+                "url": "https://gardens.duke.edu/visit/",
+                "amenities": [
+                  "garden",
+                  "nature",
+                  "restroom"
+                ],
+                "indoor": false,
+                "area": "durham",
+                "hours": {
+                  "sun": "8 a.m. to sunset",
+                  "mon": "8 a.m. to sunset",
+                  "tue": "8 a.m. to sunset",
+                  "wed": "8 a.m. to sunset",
+                  "thu": "8 a.m. to sunset",
+                  "fri": "8 a.m. to sunset",
+                  "sat": "8 a.m. to sunset"
+                }
+              }
+            },
+            {
+              "ref": "event:museum:nc-natural-sciences:124173",
+              "arrive": "09:50",
+              "leave": "12:30",
+              "why": "Birdwatching for Beginners at Prairie Ridge Ecostation is a free outdoor program where kids and grown-ups learn to spot and identify local birds, followed by play at Laurel Hills Park.",
+              "tips": [
+                "Bring binoculars if you have them — even cheap ones delight a 3-year-old.",
+                "Prairie Ridge is open grassland; dress in layers.",
+                "Laurel Hills Park is a short drive away for a run-around after — weather permitting."
+              ],
+              "interests": [
+                "animals",
+                "nature",
+                "science"
+              ],
+              "also": [
+                {
+                  "ref": "place:laurel-hills-park",
+                  "source": {
+                    "kind": "park",
+                    "title": "Laurel Hills Park",
+                    "address": "3808 Edwards Mill Rd, Raleigh, NC 27612",
+                    "url": "https://raleighnc.gov/parks-and-recreation/places/laurel-hills-park",
+                    "amenities": [
+                      "community-center",
+                      "playground",
+                      "picnic-shelter",
+                      "courts",
+                      "fields"
+                    ],
+                    "indoor": false,
+                    "area": "raleigh",
+                    "hours": null
+                  }
+                }
+              ],
+              "area": "raleigh",
+              "outdoor": true,
+              "source": {
+                "kind": "event",
+                "title": "Birdwatching for Beginners",
+                "start": "2026-11-05T10:00:00",
+                "end": "2026-11-05T12:00:00",
+                "venue": "Prairie Ridge",
+                "address": "1671 Gold Star Drive, Raleigh, NC, 27607",
+                "url": "https://www.naturalsciences.org/calendar/event/birdwatching-for-beginners-11-26/",
+                "cost": null,
+                "ages": "Adults Children Collaborative Science Educators K-12 Students Outdoor Experiences Teens",
+                "registration": false,
+                "indoor": false,
+                "area": "raleigh",
+                "source": "museum",
+                "dropIn": false
+              }
+            },
+            {
+              "ref": "place:pullen-park-amusements",
+              "arrive": "14:00",
+              "leave": "15:15",
+              "why": "An afternoon at Pullen Park for the carousel and train ride, then ABC Craft and Learn at West Regional Library — classic park fun followed by hands-on learning for ages 3–5.",
+              "tips": [
+                "Pullen Park opens at 10:00; arrive at 14:00 for an afternoon visit.",
+                "Ride the carousel first, then the train, so you have a natural stopping point.",
+                "The craft program is a 45-minute gentle wind-down to finish the afternoon."
+              ],
+              "interests": [
+                "vehicles",
+                "movement",
+                "art"
+              ],
+              "also": [
+                {
+                  "ref": "event:wake:23241",
+                  "source": {
+                    "kind": "event",
+                    "title": "ABC Craft and Learn",
+                    "start": "2026-11-05T14:30:00-05:00",
+                    "end": "2026-11-05T15:15:00-05:00",
+                    "venue": "West Regional Library",
+                    "address": "4000 Louis Stephens Drive, Cary, NC, 27519",
+                    "url": "https://www.wake.gov/events/abc-craft-and-learn-604",
+                    "cost": null,
+                    "ages": "Young Children",
+                    "registration": false,
+                    "indoor": true,
+                    "area": "raleigh",
+                    "source": "wake-county",
+                    "dropIn": false
+                  }
+                }
+              ],
+              "area": "raleigh",
+              "outdoor": false,
+              "source": {
+                "kind": "park",
+                "title": "Pullen Park Amusements",
+                "address": "410 Park Ave, Raleigh, NC 27606",
+                "url": "https://raleighnc.gov/parks-and-recreation/places/pullen-park-amusements",
+                "amenities": [
+                  "carousel",
+                  "boating",
+                  "train",
+                  "amusements",
+                  "courts",
+                  "playground",
+                  "picnic-shelter"
+                ],
+                "indoor": false,
+                "area": "raleigh",
+                "hours": {
+                  "mon": "10 a.m.–6 p.m.",
+                  "tue": "10 a.m.–6 p.m.",
+                  "wed": "10 a.m.–6 p.m.",
+                  "thu": "10 a.m.–6 p.m.",
+                  "fri": "10 a.m.–8 p.m.",
+                  "sat": "10 a.m.–8 p.m.",
+                  "sun": "10 a.m.–8 p.m."
+                }
+              }
+            },
+            {
+              "ref": "place:fred-fletcher-park",
+              "arrive": "13:00",
+              "leave": "14:30",
+              "why": "An afternoon at Fred Fletcher Park for outdoor play, then the Sensory Playdate at Oberlin Regional Library — an inclusive, low-key program for kids who love hands-on sensory exploration.",
+              "tips": [
+                "Registration is required for the Sensory Playdate; sign up ahead of time.",
+                "Fred Fletcher has a good playground; save 10 minutes to walk or drive to the library.",
+                "The sensory program is designed to be calm and welcoming for all kids."
+              ],
+              "interests": [
+                "movement",
+                "science"
+              ],
+              "also": [
+                {
+                  "ref": "event:wake:22948",
+                  "source": {
+                    "kind": "event",
+                    "title": "Sensory Playdate",
+                    "start": "2026-11-05T13:30:00-05:00",
+                    "end": "2026-11-05T14:30:00-05:00",
+                    "venue": "Oberlin Regional Library",
+                    "address": "1930 Clark Ave., Raleigh, NC, 27605",
+                    "url": "https://www.eventbrite.com/e/sensory-playdate-tickets-1998896413983",
+                    "cost": "Free",
+                    "ages": "Young Children",
+                    "registration": "https://www.eventbrite.com/e/sensory-playdate-tickets-1998896413983",
+                    "indoor": true,
+                    "area": "raleigh",
+                    "source": "wake-county",
+                    "dropIn": false
+                  }
+                }
+              ],
+              "area": "raleigh",
+              "outdoor": false,
+              "source": {
+                "kind": "park",
+                "title": "Fred Fletcher Park",
+                "address": "820 Clay Street, Raleigh, NC 27605",
+                "url": "https://raleighnc.gov/parks-and-recreation/places/fred-fletcher-park",
+                "amenities": [
+                  "garden",
+                  "picnic-shelter",
+                  "courts",
+                  "fields",
+                  "playground"
+                ],
+                "indoor": false,
+                "area": "raleigh",
+                "hours": null
+              }
+            }
+          ],
+          "rainBackup": null,
+          "timeline": [
+            {
+              "start": "07:00",
+              "end": "07:30",
+              "kind": "routine",
+              "title": "Wake up and breakfast"
+            },
+            {
+              "start": "07:30",
+              "end": "09:00",
+              "kind": "play",
+              "title": "Morning play at home"
+            },
+            {
+              "start": "09:00",
+              "end": "09:20",
+              "kind": "routine",
+              "title": "Get dressed and pack the bag"
+            },
+            {
+              "start": "09:20",
+              "end": "09:50",
+              "kind": "travel",
+              "title": "Drive to Hemlock Bluffs Nature Preserve"
+            },
+            {
+              "start": "09:50",
+              "end": "11:00",
+              "kind": "outing",
+              "title": "Colorful Leaves at Hemlock Bluffs",
+              "detail": "Guided outdoor nature program for ages 3–5 exploring fall leaves and colors."
+            },
+            {
+              "start": "11:00",
+              "end": "11:10",
+              "kind": "travel",
+              "title": "Drive to Jack Smith Park"
+            },
+            {
+              "start": "11:10",
+              "end": "11:40",
+              "kind": "outing",
+              "title": "Play at Jack Smith Park",
+              "detail": "Outdoor play — weather permitting."
+            },
+            {
+              "start": "11:40",
+              "end": "12:20",
+              "kind": "travel",
+              "title": "Drive home"
+            },
+            {
+              "start": "12:20",
+              "end": "13:00",
+              "kind": "meal",
+              "title": "Lunch at home"
+            },
+            {
+              "start": "13:00",
+              "end": "17:30",
+              "kind": "play",
+              "title": "Afternoon play at home or a nearby park"
+            },
+            {
+              "start": "17:30",
+              "end": "18:15",
+              "kind": "meal",
+              "title": "Dinner"
+            },
+            {
+              "start": "18:15",
+              "end": "18:45",
+              "kind": "play",
+              "title": "Calm wind-down play"
+            },
+            {
+              "start": "18:45",
+              "end": "19:30",
+              "kind": "routine",
+              "title": "Bath and bedtime routine"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "at": "2026-11-01T11:15:29.088Z",
+      "reason": "Rain is now likely at 51%, so the three outdoor mains at Harris Lake, Sarah P. Duke Gardens, and Hemlock Bluffs were replaced with Garden Gourmet at Marbles, the Makedo Kit drop-in at Main Library Durham, and Pullen Park plus ABC Craft at West Regional Library.",
+      "forecast": "nws",
+      "weather": {
+        "period": "Thursday",
+        "tempF": 79,
+        "precipProbability": 51,
+        "shortForecast": "Chance Rain Showers",
+        "hours": [
+          {
+            "t": "05:00",
+            "tempF": 62,
+            "pop": 19
+          },
+          {
+            "t": "06:00",
+            "tempF": 62,
+            "pop": 19
+          },
+          {
+            "t": "07:00",
+            "tempF": 63,
+            "pop": 46
+          },
+          {
+            "t": "08:00",
+            "tempF": 65,
+            "pop": 46
+          },
+          {
+            "t": "09:00",
+            "tempF": 68,
+            "pop": 46
+          },
+          {
+            "t": "10:00",
+            "tempF": 71,
+            "pop": 46
+          },
+          {
+            "t": "11:00",
+            "tempF": 73,
+            "pop": 46
+          },
+          {
+            "t": "12:00",
+            "tempF": 76,
+            "pop": 46
+          },
+          {
+            "t": "13:00",
+            "tempF": 77,
+            "pop": 51
+          },
+          {
+            "t": "14:00",
+            "tempF": 78,
+            "pop": 51
+          },
+          {
+            "t": "15:00",
+            "tempF": 79,
+            "pop": 51
+          },
+          {
+            "t": "16:00",
+            "tempF": 78,
+            "pop": 51
+          },
+          {
+            "t": "17:00",
+            "tempF": 76,
+            "pop": 51
+          },
+          {
+            "t": "18:00",
+            "tempF": 74,
+            "pop": 51
+          },
+          {
+            "t": "19:00",
+            "tempF": 71,
+            "pop": 45
+          },
+          {
+            "t": "20:00",
+            "tempF": 69,
+            "pop": 45
+          },
+          {
+            "t": "21:00",
+            "tempF": 68,
+            "pop": 45
+          },
+          {
+            "t": "22:00",
+            "tempF": 67,
+            "pop": 45
+          },
+          {
+            "t": "23:00",
+            "tempF": 66,
+            "pop": 45
+          }
+        ]
+      },
+      "plans": [
+        {
+          "nap": "nap",
+          "napLabel": "Nap, 1 to 2:30",
+          "headline": "An afternoon program at Marbles Kids Museum",
+          "main": {
+            "ref": "event:museum:marbles:48224",
+            "arrive": "17:20",
+            "leave": "18:10",
+            "why": "Garden Gourmet is an afternoon program at Marbles Kids Museum in Raleigh. It is a fun way to round off a Thursday after nap.",
+            "tips": [
+              "Arrive just before 5:30 pm to get settled before the program begins.",
+              "Plan to leave by 6:10 pm so bedtime stays on track.",
+              "Let your child pick one thing to look at on the way out to avoid a rush."
+            ],
+            "interests": [
+              "nature",
+              "art"
+            ],
+            "also": [],
+            "area": "raleigh",
+            "outdoor": false,
+            "source": {
+              "kind": "event",
+              "title": "Garden Gourmet",
+              "start": "2026-11-05T17:30:00",
+              "end": "2026-11-05T18:30:00",
+              "venue": "Marbles Kids Museum",
+              "address": "201 E Hargett St, Raleigh, NC 27601",
+              "url": "https://marbleskidsmuseum.org/event/48524/",
+              "cost": null,
+              "lat": 35.7789,
+              "lon": -78.6361,
+              "ages": "Included with Admission Non-ticketed",
+              "registration": null,
+              "indoor": true,
+              "area": "raleigh",
+              "source": "museum",
+              "dropIn": false
+            }
+          },
+          "alternatives": [
+            {
+              "ref": "place:sarah-p-duke-gardens",
+              "arrive": "09:30",
+              "leave": "12:00",
+              "why": "Discovery Drop-In at the Charlotte Brody Discovery Garden has self-guided activities and a storytime at 10:30 — a relaxed outdoor morning in Durham's beautiful gardens.",
+              "tips": [
+                "Arrive at 9:30 am to explore the discovery garden before the drop-in opens at 10:00 am.",
+                "The 10:30 am storytime is well-timed for a 3-year-old's attention span; find a spot early.",
+                "Bring a layer and a water bottle for the morning outside."
+              ],
+              "interests": [
+                "nature",
+                "stories",
+                "science"
+              ],
+              "also": [
+                {
+                  "ref": "event:museum:duke-gardens:17935",
+                  "source": {
+                    "kind": "event",
+                    "title": "Discovery Drop-In & Storytime",
+                    "start": "2026-11-05T10:00:00",
+                    "end": "2026-11-05T12:00:00",
+                    "venue": "Sarah P. Duke Gardens",
+                    "address": "420 Anderson Street, Durham, NC, 27708",
+                    "url": "https://gardens.duke.edu/event/discovery-drop-in-storytime-24/",
+                    "cost": "Free",
+                    "lat": 36.0024,
+                    "lon": -78.9328,
+                    "ages": "Family programs",
+                    "registration": false,
+                    "indoor": false,
+                    "area": "durham",
+                    "source": "museum",
+                    "dropIn": false
+                  }
+                }
+              ],
+              "area": "durham",
+              "outdoor": true,
+              "source": {
+                "kind": "garden",
+                "title": "Sarah P. Duke Gardens",
+                "address": "420 Anderson St, Durham, NC 27708",
+                "lat": 36.0024,
+                "lon": -78.9328,
+                "url": "https://gardens.duke.edu/visit/",
+                "amenities": [
+                  "garden",
+                  "nature",
+                  "restroom"
+                ],
+                "indoor": false,
+                "area": "durham",
+                "hours": {
+                  "sun": "8 a.m. to sunset",
+                  "mon": "8 a.m. to sunset",
+                  "tue": "8 a.m. to sunset",
+                  "wed": "8 a.m. to sunset",
+                  "thu": "8 a.m. to sunset",
+                  "fri": "8 a.m. to sunset",
+                  "sat": "8 a.m. to sunset"
+                },
+                "cost": "Free",
+                "note": "Free; paid parking that often fills before 10 a.m. on nice days. Five miles of paths, and the Charlotte Brody Discovery Garden."
+              }
+            },
+            {
+              "ref": "place:gipson-play-plaza",
+              "arrive": "09:30",
+              "leave": "12:00",
+              "why": "The Public Library Pop-Up at Gipson Play Plaza pairs books and storytime with the big destination playground at Dix Park — a great outdoor morning in Raleigh.",
+              "tips": [
+                "Arrive early to play before the library pop-up starts at 10:00 am.",
+                "The playground is large; agree on a meeting spot before you spread out.",
+                "Bring a snack for after storytime so you can keep playing."
+              ],
+              "interests": [
+                "stories",
+                "movement",
+                "nature"
+              ],
+              "also": [
+                {
+                  "ref": "event:dix-park:/event/public-library-pop:2026-11-05",
+                  "source": {
+                    "kind": "event",
+                    "title": "Public Library Pop-Up",
+                    "start": "2026-11-05T10:00:00",
+                    "end": "2026-11-05T12:00:00",
+                    "venue": "Gipson Play Plaza, Dix Park",
+                    "address": "715 Biggs Dr, Raleigh, NC 27603",
+                    "url": "https://dixpark.org/event/public-library-pop",
+                    "cost": null,
+                    "lat": 35.7667,
+                    "lon": -78.6539,
+                    "ages": null,
+                    "registration": null,
+                    "indoor": false,
+                    "area": "raleigh",
+                    "source": "dix-park",
+                    "dropIn": false
+                  }
+                }
+              ],
+              "area": "raleigh",
+              "outdoor": true,
+              "source": {
+                "kind": "park",
+                "title": "Gipson Play Plaza at Dix Park",
+                "address": "715 Biggs Dr, Raleigh, NC 27603",
+                "lat": 35.7667,
+                "lon": -78.6539,
+                "url": "https://dixpark.org/gipson-play-plaza",
+                "amenities": [
+                  "playground",
+                  "restroom"
+                ],
+                "indoor": false,
+                "area": "raleigh",
+                "hours": {
+                  "sun": "8 a.m.–9 p.m.",
+                  "mon": "8 a.m.–9 p.m.",
+                  "tue": "8 a.m.–9 p.m.",
+                  "wed": "8 a.m.–9 p.m.",
+                  "thu": "8 a.m.–9 p.m.",
+                  "fri": "8 a.m.–9 p.m.",
+                  "sat": "8 a.m.–9 p.m."
+                },
+                "cost": "Free",
+                "note": "Free; free parking. Big destination playground on the south edge of Dix Park."
+              }
+            },
+            {
+              "ref": "event:cary-rec:ENVI0044-029",
+              "arrive": "09:50",
+              "leave": "11:30",
+              "why": "Colorful Leaves at Hemlock Bluffs Nature Preserve takes 3 to 5 year olds and their grown-ups outside to explore fall colors. Families need to sign up. Jack Smith Park follows for extra outdoor play.",
+              "tips": [
+                "Registration is required; sign up in advance.",
+                "Bring a small backpack with a snack and a water bottle.",
+                "Jack Smith Park is a short drive after the program for extra time outside."
+              ],
+              "interests": [
+                "nature",
+                "science"
+              ],
+              "also": [
+                {
+                  "ref": "place:jack-smith-park",
+                  "source": {
+                    "kind": "park",
+                    "title": "Jack Smith Park",
+                    "address": "9725 Penny Road, Cary, NC",
+                    "lat": 35.71181466796333,
+                    "lon": -78.7659772347373,
+                    "url": "http://www.townofcary.org/recreation-enjoyment/parks-greenways-environment/parks/jack-smith-park",
+                    "amenities": [
+                      "playground",
+                      "picnic-shelter",
+                      "restroom",
+                      "greenway"
+                    ],
+                    "indoor": false,
+                    "area": "cary-apex",
+                    "hours": null,
+                    "cost": null
+                  }
+                }
+              ],
+              "area": "cary-apex",
+              "outdoor": true,
+              "source": {
+                "kind": "event",
+                "title": "Colorful Leaves",
+                "start": "2026-11-05T10:00:00",
+                "end": "2026-11-05T11:00:00",
+                "venue": "Hemlock Bluffs Nature Preserve",
+                "address": "2616 Kildaire Farm Road, Cary, NC",
+                "url": "https://nccaryweb.myvscloud.com/webtrac/web/search.html?module=AR",
+                "cost": "$8.00 resident / $10.00 non-resident",
+                "lat": 35.72308620195308,
+                "lon": -78.7831641933086,
+                "ages": "3-5 w/guardian",
+                "registration": "https://nccaryweb.myvscloud.com/webtrac/web/search.html?module=AR",
+                "indoor": false,
+                "area": "cary-apex",
+                "source": "cary-rec",
+                "dropIn": false
+              }
+            },
+            {
+              "ref": "event:durham-rec:19599:2026-11-05",
+              "arrive": "09:50",
+              "leave": "11:45",
+              "why": "Total Tot Time at Edison Johnson Rec Ctr lets your 3-year-old play in the gym with a parachute and crawl through tunnels. Families need to sign up.",
+              "tips": [
+                "Wear shoes and clothes that are easy to move in.",
+                "Bring water and a snack for after the session.",
+                "Leave a little before the end while energy is still high so the journey home is easy."
+              ],
+              "interests": [
+                "movement"
+              ],
+              "also": [],
+              "area": "durham",
+              "outdoor": false,
+              "source": {
+                "kind": "event",
+                "title": "Total Tot Time",
+                "start": "2026-11-05T10:00:00",
+                "end": "2026-11-05T12:00:00",
+                "venue": "Edison Johnson Rec Ctr",
+                "address": "W Murray Ave, Durham, NC",
+                "url": "https://apm.activecommunities.com/dprplaymore/Activity_Search/total-tot-time/19599?locale=en-US",
+                "cost": null,
+                "lat": 36.0299,
+                "lon": -78.9011,
+                "ages": "0 - 6",
+                "registration": "https://apm.activecommunities.com/dprplaymore/Activity_Search/total-tot-time/19599?locale=en-US",
+                "indoor": true,
+                "area": "durham",
+                "source": "durham-rec",
+                "dropIn": false
+              }
+            }
+          ],
+          "rainBackup": null,
+          "timeline": [
+            {
+              "start": "07:00",
+              "end": "07:30",
+              "kind": "meal",
+              "title": "Up and breakfast"
+            },
+            {
+              "start": "07:30",
+              "end": "12:15",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "12:15",
+              "end": "12:45",
+              "kind": "meal",
+              "title": "Lunch"
+            },
+            {
+              "start": "12:45",
+              "end": "13:00",
+              "kind": "quiet",
+              "title": "Wind down",
+              "detail": "A couple of books to settle."
+            },
+            {
+              "start": "13:00",
+              "end": "14:30",
+              "kind": "nap",
+              "title": "Nap"
+            },
+            {
+              "start": "14:30",
+              "end": "14:50",
+              "kind": "routine",
+              "title": "Up and a snack"
+            },
+            {
+              "start": "14:50",
+              "end": "16:40",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "16:40",
+              "end": "17:00",
+              "kind": "routine",
+              "title": "Get ready to go",
+              "detail": "Shoes on, diaper bag, water and a snack."
+            },
+            {
+              "start": "17:00",
+              "end": "17:20",
+              "kind": "travel",
+              "title": "Drive to Marbles Kids Museum"
+            },
+            {
+              "start": "17:20",
+              "end": "18:10",
+              "kind": "outing",
+              "title": "Marbles Kids Museum"
+            },
+            {
+              "start": "18:10",
+              "end": "18:30",
+              "kind": "travel",
+              "title": "Drive home"
+            },
+            {
+              "start": "18:30",
+              "end": "19:15",
+              "kind": "meal",
+              "title": "Dinner"
+            },
+            {
+              "start": "19:15",
+              "end": "20:00",
+              "kind": "routine",
+              "title": "Bath, books and bed"
+            }
+          ]
+        },
+        {
+          "nap": "quiet",
+          "napLabel": "Quiet time, no sleep",
+          "headline": "Build and engineer with cardboard at the library maker lab",
+          "main": {
+            "ref": "event:libcal:durham-county-library:17189108",
+            "arrive": "09:50",
+            "leave": "11:30",
+            "why": "Your 3-year-old builds and engineers cardboard creations with Makedo kits in the Innovation Lab at Main Library Durham. Come and go any time during the drop-in window.",
+            "tips": [
+              "Come in during the first hour for the most materials and space.",
+              "Let your child build freely — there are no wrong creations.",
+              "Take a photo of the finished build to show off later."
+            ],
+            "interests": [
+              "science",
+              "art"
+            ],
+            "also": [],
+            "area": "durham",
+            "outdoor": false,
+            "source": {
+              "kind": "event",
+              "title": "This Week In the Lab: Makedo Kit",
+              "start": "2026-11-05T10:00:00",
+              "end": "2026-11-05T14:00:00",
+              "venue": "Main Library",
+              "address": "300 N. Roxboro St, Durham, NC",
+              "url": "https://durhamcountylibrary.libcal.com/event/17189108",
+              "cost": null,
+              "lat": 35.99490876306902,
+              "lon": -78.8964971677054,
+              "ages": "Adult, Elementary School, Emerging Adult: 18-24 Year Olds, High School, Intergenerational, Kindergarten, Middle School, Pre-School, Senior Citizen, Teen, Toddler, Tweens: 9-12 Year Olds, DPS",
+              "registration": false,
+              "indoor": true,
+              "area": "durham",
+              "source": "libcal",
+              "dropIn": true
+            }
+          },
+          "alternatives": [
+            {
+              "ref": "place:harris-lake-county-park",
+              "arrive": "10:30",
+              "leave": "12:00",
+              "why": "Kids Discover Nature: Fall Leaves Fall at 11:00 am has a story, a short hike for fallen leaves and a leaf craft for ages 2 to 6. Families need to sign up.",
+              "tips": [
+                "Registration is required; book in advance.",
+                "Dress in layers and bring a water bottle for the hike.",
+                "Leave by noon so you are home for lunch before quiet time."
+              ],
+              "interests": [
+                "nature",
+                "science",
+                "stories"
+              ],
+              "also": [
+                {
+                  "ref": "event:wake-parks:9302",
+                  "source": {
+                    "kind": "event",
+                    "title": "Kids Discover Nature: Fall Leaves Fall",
+                    "start": "2026-11-05T11:00:00",
+                    "end": "2026-11-05T12:00:00",
+                    "venue": "Harris Lake County Park",
+                    "address": "2112 County Park Dr., New Hill, NC  27562",
+                    "url": "https://apm.activecommunities.com/wakeparks/Activity_Search/kids-discover-nature-fall-leaves-fall/9302?locale=en-US",
+                    "cost": "Free",
+                    "lat": 35.63024208800726,
+                    "lon": -78.91757987745865,
+                    "ages": "At least 2 but less than 6",
+                    "registration": "https://apm.activecommunities.com/wakeparks/Activity_Search/kids-discover-nature-fall-leaves-fall/9302?locale=en-US",
+                    "indoor": false,
+                    "area": "south-wake",
+                    "source": "wake-parks",
+                    "dropIn": false
+                  }
+                }
+              ],
+              "area": "south-wake",
+              "outdoor": true,
+              "source": {
+                "kind": "park",
+                "title": "Harris Lake County Park",
+                "address": "2112 County Park Dr., New Hill, NC  27562",
+                "lat": 35.63024208800726,
+                "lon": -78.91757987745865,
+                "url": "https://www.wakegov.com/departments-government/parks-recreation-and-open-space/all-parks-trails/harris-lake-county-park",
+                "amenities": [
+                  "playground",
+                  "picnic-shelter",
+                  "restroom",
+                  "greenway",
+                  "nature"
+                ],
+                "indoor": false,
+                "area": "south-wake",
+                "hours": null,
+                "cost": null
+              }
+            },
+            {
+              "ref": "event:cary-rec:ENVI0044-029",
+              "arrive": "09:50",
+              "leave": "11:30",
+              "why": "Colorful Leaves at Hemlock Bluffs takes 3 to 5 year olds outside for guided fall nature exploration in Cary. Families need to sign up. Jack Smith Park follows for extra outdoor time.",
+              "tips": [
+                "Registration is required; sign up ahead of time.",
+                "Bring a snack and water bottle for after the program.",
+                "Jack Smith Park is a short drive away for extra outdoor time after the program."
+              ],
+              "interests": [
+                "nature",
+                "science"
+              ],
+              "also": [
+                {
+                  "ref": "place:jack-smith-park",
+                  "source": {
+                    "kind": "park",
+                    "title": "Jack Smith Park",
+                    "address": "9725 Penny Road, Cary, NC",
+                    "lat": 35.71181466796333,
+                    "lon": -78.7659772347373,
+                    "url": "http://www.townofcary.org/recreation-enjoyment/parks-greenways-environment/parks/jack-smith-park",
+                    "amenities": [
+                      "playground",
+                      "picnic-shelter",
+                      "restroom",
+                      "greenway"
+                    ],
+                    "indoor": false,
+                    "area": "cary-apex",
+                    "hours": null,
+                    "cost": null
+                  }
+                }
+              ],
+              "area": "cary-apex",
+              "outdoor": true,
+              "source": {
+                "kind": "event",
+                "title": "Colorful Leaves",
+                "start": "2026-11-05T10:00:00",
+                "end": "2026-11-05T11:00:00",
+                "venue": "Hemlock Bluffs Nature Preserve",
+                "address": "2616 Kildaire Farm Road, Cary, NC",
+                "url": "https://nccaryweb.myvscloud.com/webtrac/web/search.html?module=AR",
+                "cost": "$8.00 resident / $10.00 non-resident",
+                "lat": 35.72308620195308,
+                "lon": -78.7831641933086,
+                "ages": "3-5 w/guardian",
+                "registration": "https://nccaryweb.myvscloud.com/webtrac/web/search.html?module=AR",
+                "indoor": false,
+                "area": "cary-apex",
+                "source": "cary-rec",
+                "dropIn": false
+              }
+            },
+            {
+              "ref": "place:pullen-park-amusements",
+              "arrive": "14:00",
+              "leave": "15:15",
+              "why": "Ride the carousel and explore Pullen Park, then head to ABC Craft and Learn at West Regional Library — a fun mix of classic park fun and hands-on learning for ages 3 to 5.",
+              "tips": [
+                "Arrive at 2:00 pm so your child has time to ride and play before the craft program.",
+                "Budget time for the carousel and a ride before you need to leave for the library.",
+                "The craft program is for ages 3 to 5; bring a snack to eat at the park beforehand."
+              ],
+              "interests": [
+                "vehicles",
+                "movement",
+                "art"
+              ],
+              "also": [
+                {
+                  "ref": "event:wake:23241",
+                  "source": {
+                    "kind": "event",
+                    "title": "ABC Craft and Learn",
+                    "start": "2026-11-05T14:30:00-05:00",
+                    "end": "2026-11-05T15:15:00-05:00",
+                    "venue": "West Regional Library",
+                    "address": "4000 Louis Stephens Drive, Cary, NC, 27519",
+                    "url": "https://www.wake.gov/events/abc-craft-and-learn-604",
+                    "cost": null,
+                    "lat": 35.78554,
+                    "lon": -78.65385,
+                    "ages": "Young Children",
+                    "registration": null,
+                    "indoor": true,
+                    "area": "raleigh",
+                    "source": "wake-county",
+                    "dropIn": false
+                  }
+                }
+              ],
+              "area": "raleigh",
+              "outdoor": false,
+              "source": {
+                "kind": "park",
+                "title": "Pullen Park Amusements",
+                "address": "410 Park Ave, Raleigh, NC 27606",
+                "lat": 35.7806,
+                "lon": -78.66396,
+                "url": "https://raleighnc.gov/parks-and-recreation/places/pullen-park-amusements",
+                "amenities": [
+                  "carousel",
+                  "boating",
+                  "train",
+                  "amusements",
+                  "courts",
+                  "playground",
+                  "picnic-shelter"
+                ],
+                "indoor": false,
+                "area": "raleigh",
+                "hours": {
+                  "mon": "10 a.m.–6 p.m.",
+                  "tue": "10 a.m.–6 p.m.",
+                  "wed": "10 a.m.–6 p.m.",
+                  "thu": "10 a.m.–6 p.m.",
+                  "fri": "10 a.m.–8 p.m.",
+                  "sat": "10 a.m.–8 p.m.",
+                  "sun": "10 a.m.–8 p.m."
+                },
+                "cost": null
+              }
+            }
+          ],
+          "rainBackup": null,
+          "timeline": [
+            {
+              "start": "07:00",
+              "end": "07:30",
+              "kind": "meal",
+              "title": "Up and breakfast"
+            },
+            {
+              "start": "07:30",
+              "end": "09:10",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "09:10",
+              "end": "09:30",
+              "kind": "routine",
+              "title": "Get ready to go",
+              "detail": "Shoes on, diaper bag, water and a snack."
+            },
+            {
+              "start": "09:30",
+              "end": "09:50",
+              "kind": "travel",
+              "title": "Drive to Main Library"
+            },
+            {
+              "start": "09:50",
+              "end": "11:30",
+              "kind": "outing",
+              "title": "Main Library"
+            },
+            {
+              "start": "11:30",
+              "end": "11:50",
+              "kind": "travel",
+              "title": "Drive home"
+            },
+            {
+              "start": "11:50",
+              "end": "12:20",
+              "kind": "meal",
+              "title": "Lunch"
+            },
+            {
+              "start": "12:20",
+              "end": "13:00",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "13:00",
+              "end": "13:45",
+              "kind": "quiet",
+              "title": "Quiet time",
+              "detail": "Books or quiet play in their room."
+            },
+            {
+              "start": "13:45",
+              "end": "18:00",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "18:00",
+              "end": "18:45",
+              "kind": "meal",
+              "title": "Dinner"
+            },
+            {
+              "start": "18:45",
+              "end": "19:30",
+              "kind": "routine",
+              "title": "Bath, books and bed"
+            }
+          ]
+        },
+        {
+          "nap": "no-nap",
+          "napLabel": "No nap",
+          "headline": "Ride the carousel, then make a craft at the library",
+          "main": {
+            "ref": "place:pullen-park-amusements",
+            "arrive": "14:00",
+            "leave": "15:15",
+            "why": "Your 3-year-old rides the carousel at Pullen Park, then heads to ABC Craft and Learn at West Regional Library — a mix of classic park fun and hands-on learning for ages 3 to 5.",
+            "tips": [
+              "Arrive at 2:00 pm so your child has time to ride and play before the craft program.",
+              "Tell your child the craft is coming next — having something to look forward to makes leaving the park easy.",
+              "Bring a water bottle; the program runs for about 45 minutes of creative work."
+            ],
+            "interests": [
+              "vehicles",
+              "movement",
+              "art"
+            ],
+            "also": [
+              {
+                "ref": "event:wake:23241",
+                "source": {
+                  "kind": "event",
+                  "title": "ABC Craft and Learn",
+                  "start": "2026-11-05T14:30:00-05:00",
+                  "end": "2026-11-05T15:15:00-05:00",
+                  "venue": "West Regional Library",
+                  "address": "4000 Louis Stephens Drive, Cary, NC, 27519",
+                  "url": "https://www.wake.gov/events/abc-craft-and-learn-604",
+                  "cost": null,
+                  "lat": 35.78554,
+                  "lon": -78.65385,
+                  "ages": "Young Children",
+                  "registration": null,
+                  "indoor": true,
+                  "area": "raleigh",
+                  "source": "wake-county",
+                  "dropIn": false
+                }
+              }
+            ],
+            "area": "raleigh",
+            "outdoor": false,
+            "source": {
+              "kind": "park",
+              "title": "Pullen Park Amusements",
+              "address": "410 Park Ave, Raleigh, NC 27606",
+              "lat": 35.7806,
+              "lon": -78.66396,
+              "url": "https://raleighnc.gov/parks-and-recreation/places/pullen-park-amusements",
+              "amenities": [
+                "carousel",
+                "boating",
+                "train",
+                "amusements",
+                "courts",
+                "playground",
+                "picnic-shelter"
+              ],
+              "indoor": false,
+              "area": "raleigh",
+              "hours": {
+                "mon": "10 a.m.–6 p.m.",
+                "tue": "10 a.m.–6 p.m.",
+                "wed": "10 a.m.–6 p.m.",
+                "thu": "10 a.m.–6 p.m.",
+                "fri": "10 a.m.–8 p.m.",
+                "sat": "10 a.m.–8 p.m.",
+                "sun": "10 a.m.–8 p.m."
+              },
+              "cost": null
+            }
+          },
+          "alternatives": [
+            {
+              "ref": "place:sarah-p-duke-gardens",
+              "arrive": "09:30",
+              "leave": "12:00",
+              "why": "Discovery Drop-In and Storytime at Sarah P. Duke Gardens is a relaxed outdoor morning of discovery garden activities and storytime at 10:30 am and 11:30 am.",
+              "tips": [
+                "Arrive at 9:30 am to wander the garden before the drop-in opens at 10:00 am.",
+                "The 10:30 am storytime is a natural anchor for the morning.",
+                "Bring a snack to eat on the garden paths after the program."
+              ],
+              "interests": [
+                "nature",
+                "stories",
+                "science"
+              ],
+              "also": [
+                {
+                  "ref": "event:museum:duke-gardens:17935",
+                  "source": {
+                    "kind": "event",
+                    "title": "Discovery Drop-In & Storytime",
+                    "start": "2026-11-05T10:00:00",
+                    "end": "2026-11-05T12:00:00",
+                    "venue": "Sarah P. Duke Gardens",
+                    "address": "420 Anderson Street, Durham, NC, 27708",
+                    "url": "https://gardens.duke.edu/event/discovery-drop-in-storytime-24/",
+                    "cost": "Free",
+                    "lat": 36.0024,
+                    "lon": -78.9328,
+                    "ages": "Family programs",
+                    "registration": false,
+                    "indoor": false,
+                    "area": "durham",
+                    "source": "museum",
+                    "dropIn": false
+                  }
+                }
+              ],
+              "area": "durham",
+              "outdoor": true,
+              "source": {
+                "kind": "garden",
+                "title": "Sarah P. Duke Gardens",
+                "address": "420 Anderson St, Durham, NC 27708",
+                "lat": 36.0024,
+                "lon": -78.9328,
+                "url": "https://gardens.duke.edu/visit/",
+                "amenities": [
+                  "garden",
+                  "nature",
+                  "restroom"
+                ],
+                "indoor": false,
+                "area": "durham",
+                "hours": {
+                  "sun": "8 a.m. to sunset",
+                  "mon": "8 a.m. to sunset",
+                  "tue": "8 a.m. to sunset",
+                  "wed": "8 a.m. to sunset",
+                  "thu": "8 a.m. to sunset",
+                  "fri": "8 a.m. to sunset",
+                  "sat": "8 a.m. to sunset"
+                },
+                "cost": "Free",
+                "note": "Free; paid parking that often fills before 10 a.m. on nice days. Five miles of paths, and the Charlotte Brody Discovery Garden."
+              }
+            },
+            {
+              "ref": "event:libcal:durham-county-library:15991632",
+              "arrive": "11:05",
+              "leave": "12:15",
+              "why": "Your 3-year-old squishes and sculpts with colorful Play-Doh and toys in a creative sensory session at Southwest Regional Library. Families need to sign up. Cornwallis Road Park follows for a run-around.",
+              "tips": [
+                "Sign up ahead of time as spots fill quickly for this age group.",
+                "Bring a change of clothes in case of Play-Doh enthusiasm.",
+                "The park is a short drive after for burning off creative energy."
+              ],
+              "interests": [
+                "art",
+                "science"
+              ],
+              "also": [
+                {
+                  "ref": "place:cornwallis-road-park",
+                  "source": {
+                    "kind": "park",
+                    "title": "Cornwallis Road Park",
+                    "address": "2830 Wade Rd, Durham, NC",
+                    "lat": 35.97904,
+                    "lon": -78.95229666666667,
+                    "url": "https://www.dprplaymore.org/Facilities/Facility/Details/Cornwallis-Road-Park-13",
+                    "amenities": [
+                      "playground",
+                      "restroom"
+                    ],
+                    "indoor": false,
+                    "area": "durham",
+                    "hours": null,
+                    "cost": null
+                  }
+                }
+              ],
+              "area": "durham",
+              "outdoor": false,
+              "source": {
+                "kind": "event",
+                "title": "Playdough Playtime (Ages 2-6)",
+                "start": "2026-11-05T11:15:00",
+                "end": "2026-11-05T11:45:00",
+                "venue": "Southwest Regional Library",
+                "address": "3605 Shannon Rd, Durham, NC",
+                "url": "https://durhamcountylibrary.libcal.com/event/15991632",
+                "cost": null,
+                "lat": 35.95871978266895,
+                "lon": -78.95455361473043,
+                "ages": "Kindergarten, Pre-School",
+                "registration": "https://durhamcountylibrary.libcal.com/event/15991632",
+                "indoor": true,
+                "area": "durham",
+                "source": "libcal",
+                "dropIn": false
+              }
+            },
+            {
+              "ref": "place:fred-fletcher-park",
+              "arrive": "13:00",
+              "leave": "14:30",
+              "why": "Play at Fred Fletcher Park first, then the Sensory Playdate at 1:30 pm at Oberlin Regional Library — a calm, hands-on program for young children. Families need to sign up.",
+              "tips": [
+                "Registration is required for the Sensory Playdate; sign up ahead of time.",
+                "Fred Fletcher has a playground; leave by 1:20 pm to arrive at the library on time.",
+                "The program is designed to be welcoming and calm for all kids."
+              ],
+              "interests": [
+                "movement",
+                "science"
+              ],
+              "also": [
+                {
+                  "ref": "event:wake:22948",
+                  "source": {
+                    "kind": "event",
+                    "title": "Sensory Playdate",
+                    "start": "2026-11-05T13:30:00-05:00",
+                    "end": "2026-11-05T14:30:00-05:00",
+                    "venue": "Oberlin Regional Library",
+                    "address": "1930 Clark Ave., Raleigh, NC, 27605",
+                    "url": "https://www.eventbrite.com/e/sensory-playdate-tickets-1998896413983",
+                    "cost": "Free",
+                    "lat": 35.7898395688737,
+                    "lon": -78.65822660779,
+                    "ages": "Young Children",
+                    "registration": "https://www.eventbrite.com/e/sensory-playdate-tickets-1998896413983",
+                    "indoor": true,
+                    "area": "raleigh",
+                    "source": "wake-county",
+                    "dropIn": false
+                  }
+                }
+              ],
+              "area": "raleigh",
+              "outdoor": false,
+              "source": {
+                "kind": "park",
+                "title": "Fred Fletcher Park",
+                "address": "820 Clay Street, Raleigh, NC 27605",
+                "lat": 35.79264,
+                "lon": -78.64957,
+                "url": "https://raleighnc.gov/parks-and-recreation/places/fred-fletcher-park",
+                "amenities": [
+                  "garden",
+                  "picnic-shelter",
+                  "courts",
+                  "fields",
+                  "playground"
+                ],
+                "indoor": false,
+                "area": "raleigh",
+                "hours": null,
+                "cost": null
+              }
+            },
+            {
+              "ref": "event:cary-rec:ENVI0044-029",
+              "arrive": "09:50",
+              "leave": "11:30",
+              "why": "Colorful Leaves at Hemlock Bluffs takes 3 to 5 year olds and their grown-ups outside for guided fall nature activities in Cary. Families need to sign up. Jack Smith Park follows.",
+              "tips": [
+                "Registration is required; sign up before the day.",
+                "Bring a water bottle and a snack for after the program.",
+                "Jack Smith Park is a short drive for outdoor play after."
+              ],
+              "interests": [
+                "nature",
+                "science"
+              ],
+              "also": [
+                {
+                  "ref": "place:jack-smith-park",
+                  "source": {
+                    "kind": "park",
+                    "title": "Jack Smith Park",
+                    "address": "9725 Penny Road, Cary, NC",
+                    "lat": 35.71181466796333,
+                    "lon": -78.7659772347373,
+                    "url": "http://www.townofcary.org/recreation-enjoyment/parks-greenways-environment/parks/jack-smith-park",
+                    "amenities": [
+                      "playground",
+                      "picnic-shelter",
+                      "restroom",
+                      "greenway"
+                    ],
+                    "indoor": false,
+                    "area": "cary-apex",
+                    "hours": null,
+                    "cost": null
+                  }
+                }
+              ],
+              "area": "cary-apex",
+              "outdoor": true,
+              "source": {
+                "kind": "event",
+                "title": "Colorful Leaves",
+                "start": "2026-11-05T10:00:00",
+                "end": "2026-11-05T11:00:00",
+                "venue": "Hemlock Bluffs Nature Preserve",
+                "address": "2616 Kildaire Farm Road, Cary, NC",
+                "url": "https://nccaryweb.myvscloud.com/webtrac/web/search.html?module=AR",
+                "cost": "$8.00 resident / $10.00 non-resident",
+                "lat": 35.72308620195308,
+                "lon": -78.7831641933086,
+                "ages": "3-5 w/guardian",
+                "registration": "https://nccaryweb.myvscloud.com/webtrac/web/search.html?module=AR",
+                "indoor": false,
+                "area": "cary-apex",
+                "source": "cary-rec",
+                "dropIn": false
+              }
+            }
+          ],
+          "rainBackup": null,
+          "timeline": [
+            {
+              "start": "07:00",
+              "end": "07:30",
+              "kind": "meal",
+              "title": "Up and breakfast"
+            },
+            {
+              "start": "07:30",
+              "end": "11:45",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "11:45",
+              "end": "12:15",
+              "kind": "meal",
+              "title": "Lunch"
+            },
+            {
+              "start": "12:15",
+              "end": "13:20",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "13:20",
+              "end": "13:40",
+              "kind": "routine",
+              "title": "Get ready to go",
+              "detail": "Shoes on, diaper bag, water and a snack."
+            },
+            {
+              "start": "13:40",
+              "end": "14:00",
+              "kind": "travel",
+              "title": "Drive to Pullen Park Amusements"
+            },
+            {
+              "start": "14:00",
+              "end": "14:20",
+              "kind": "outing",
+              "title": "Pullen Park Amusements"
+            },
+            {
+              "start": "14:20",
+              "end": "14:30",
+              "kind": "travel",
+              "title": "Drive to West Regional Library"
+            },
+            {
+              "start": "14:30",
+              "end": "15:15",
+              "kind": "outing",
+              "title": "ABC Craft and Learn"
+            },
+            {
+              "start": "15:15",
+              "end": "15:35",
+              "kind": "travel",
+              "title": "Drive home"
+            },
+            {
+              "start": "15:35",
+              "end": "18:00",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "18:00",
+              "end": "18:45",
+              "kind": "meal",
+              "title": "Dinner"
+            },
+            {
+              "start": "18:45",
+              "end": "19:30",
+              "kind": "routine",
+              "title": "Bath, books and bed"
+            }
+          ]
+        }
+      ],
+      "dropped": [
+        "[quiet] event:libcal:durham-county-library:15318482 tip: says to sign up, but the event says no sign-up is needed: \"No registration needed; arrive a few minutes early to find your spot in the gallery.\"",
+        "[quiet] alternative event:libcal:durham-county-library:15318482 Bilingual Storytime at The Nasher / Cuento Bilingüe en el Museo de Arte Nasher is for Baby, Kindergarten, Pre-School, Toddler"
+      ],
+      "changes": [
+        {
+          "plan": "nap",
+          "message": "Harris Lake County Park is outdoors and the forecast is now 51% chance of rain"
+        },
+        {
+          "plan": "quiet",
+          "message": "Sarah P. Duke Gardens is outdoors and the forecast is now 51% chance of rain"
+        },
+        {
+          "plan": "no-nap",
+          "message": "Colorful Leaves is outdoors and the forecast is now 51% chance of rain"
+        }
+      ]
+    }
+  ],
+  "checked": {
+    "at": "2026-11-01T11:15:29.088Z",
+    "forecast": "nws",
+    "weather": {
+      "period": "Thursday",
+      "tempF": 79,
+      "precipProbability": 51,
+      "shortForecast": "Chance Rain Showers",
+      "hours": [
+        {
+          "t": "05:00",
+          "tempF": 62,
+          "pop": 19
+        },
+        {
+          "t": "06:00",
+          "tempF": 62,
+          "pop": 19
+        },
+        {
+          "t": "07:00",
+          "tempF": 63,
+          "pop": 46
+        },
+        {
+          "t": "08:00",
+          "tempF": 65,
+          "pop": 46
+        },
+        {
+          "t": "09:00",
+          "tempF": 68,
+          "pop": 46
+        },
+        {
+          "t": "10:00",
+          "tempF": 71,
+          "pop": 46
+        },
+        {
+          "t": "11:00",
+          "tempF": 73,
+          "pop": 46
+        },
+        {
+          "t": "12:00",
+          "tempF": 76,
+          "pop": 46
+        },
+        {
+          "t": "13:00",
+          "tempF": 77,
+          "pop": 51
+        },
+        {
+          "t": "14:00",
+          "tempF": 78,
+          "pop": 51
+        },
+        {
+          "t": "15:00",
+          "tempF": 79,
+          "pop": 51
+        },
+        {
+          "t": "16:00",
+          "tempF": 78,
+          "pop": 51
+        },
+        {
+          "t": "17:00",
+          "tempF": 76,
+          "pop": 51
+        },
+        {
+          "t": "18:00",
+          "tempF": 74,
+          "pop": 51
+        },
+        {
+          "t": "19:00",
+          "tempF": 71,
+          "pop": 45
+        },
+        {
+          "t": "20:00",
+          "tempF": 69,
+          "pop": 45
+        },
+        {
+          "t": "21:00",
+          "tempF": 68,
+          "pop": 45
+        },
+        {
+          "t": "22:00",
+          "tempF": 67,
+          "pop": 45
+        },
+        {
+          "t": "23:00",
+          "tempF": 66,
+          "pop": 45
+        }
+      ]
+    },
+    "hidden": []
+  }
+}

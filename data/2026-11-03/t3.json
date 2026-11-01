@@ -1,0 +1,1029 @@
+{
+  "date": "2026-11-03",
+  "band": "t3",
+  "versions": [
+    {
+      "at": "2026-10-27T08:19:57.429Z",
+      "reason": null,
+      "forecast": "nws",
+      "weather": {
+        "period": "Tuesday",
+        "tempF": 76,
+        "precipProbability": 14,
+        "shortForecast": "Mostly Sunny"
+      },
+      "plans": [
+        {
+          "nap": "nap",
+          "napLabel": "Nap, 1 to 2:30",
+          "headline": "Whippoorwill Park and Muddy Boots nature walk",
+          "main": {
+            "ref": "place:whippoorwill-park",
+            "arrive": "09:30",
+            "leave": "11:00",
+            "also": [
+              {
+                "ref": "event:durham-rec:19863",
+                "source": {
+                  "kind": "event",
+                  "title": "Muddy Boots",
+                  "start": "2026-11-03T10:00:00",
+                  "end": "2026-11-03T11:00:00",
+                  "venue": "Whippoorwill Park",
+                  "address": "1632 Rowemont Dr, Durham, NC",
+                  "url": "https://apm.activecommunities.com/dprplaymore/Activity_Search/muddy-boots/19863?locale=en-US",
+                  "cost": null,
+                  "ages": "1 - 6",
+                  "registration": "https://apm.activecommunities.com/dprplaymore/Activity_Search/muddy-boots/19863?locale=en-US",
+                  "indoor": false,
+                  "area": "durham",
+                  "source": "durham-rec",
+                  "dropIn": false,
+                  "lat": 36.047740000000005,
+                  "lon": -78.92395166666667
+                }
+              }
+            ],
+            "why": "Play at Whippoorwill Park, then join Muddy Boots at the picnic shelter: a nature-themed book read aloud followed by a guided walk to find what is growing and living right outside the door.",
+            "tips": [
+              "Registration is required; book the Muddy Boots slot before you go.",
+              "Dress for dirt — muddy knees are the point of this one.",
+              "Leave at 11:00 when the program ends; plenty of time for lunch and a calm lead-up to nap."
+            ],
+            "interests": [
+              "nature",
+              "science",
+              "stories"
+            ],
+            "area": "durham",
+            "outdoor": true,
+            "source": {
+              "kind": "park",
+              "title": "Whippoorwill Park",
+              "address": "1632 Rowemont Dr, Durham, NC",
+              "url": "https://www.dprplaymore.org/Facilities/Facility/Details/Whippoorwill-Park-79",
+              "amenities": [
+                "playground",
+                "picnic-shelter",
+                "restroom",
+                "greenway"
+              ],
+              "indoor": false,
+              "area": "durham",
+              "hours": null,
+              "lat": 36.047740000000005,
+              "lon": -78.92395166666667,
+              "cost": null
+            }
+          },
+          "alternatives": [
+            {
+              "ref": "event:wake:22432",
+              "arrive": "09:20",
+              "leave": "10:30",
+              "also": [
+                {
+                  "ref": "place:heater-park",
+                  "source": {
+                    "kind": "park",
+                    "title": "Heater Park",
+                    "address": "400 S West Street, Cary, NC",
+                    "url": "https://www.carync.gov/recreation-enjoyment/parks-greenways-environment/parks/heater-park",
+                    "amenities": [
+                      "playground"
+                    ],
+                    "indoor": false,
+                    "area": "cary-apex",
+                    "hours": null,
+                    "lat": 35.782741238152695,
+                    "lon": -78.78762242839083,
+                    "cost": null
+                  }
+                }
+              ],
+              "why": "A quick Family Storytime at Cary Regional Library, then outdoor play at Heater Park right nearby — a compact morning that fits easily before the nap window.",
+              "tips": [
+                "Pick up a ticket at the Youth Services desk when you arrive — space is limited.",
+                "The park is a short drive from the library; bring a snack for the playground."
+              ],
+              "interests": [
+                "stories",
+                "music",
+                "movement"
+              ],
+              "area": "cary-apex",
+              "outdoor": false,
+              "source": {
+                "kind": "event",
+                "title": "Family Storytime",
+                "start": "2026-11-03T09:30:00-05:00",
+                "end": "2026-11-03T10:00:00-05:00",
+                "venue": "Cary Regional Library",
+                "address": "315 Kildaire Farm Road, Cary, NC",
+                "url": "https://www.wake.gov/events/family-storytime-4219",
+                "cost": "Free",
+                "ages": "Young Children",
+                "registration": null,
+                "indoor": true,
+                "area": "cary-apex",
+                "source": "wake-county",
+                "dropIn": false,
+                "lat": 35.7829780174653,
+                "lon": -78.780241332586
+              }
+            },
+            {
+              "ref": "place:blue-jay-point-county-park",
+              "arrive": "09:00",
+              "leave": "12:00",
+              "why": "Blue Jay Point sits on Falls Lake with wooded trails and a good playground — a quiet outdoor morning without crowds.",
+              "tips": [
+                "The playground is close to the parking lot; a good warm-up before the trail.",
+                "Bring water and a snack and head back by noon for lunch before nap."
+              ],
+              "interests": [
+                "nature",
+                "water"
+              ],
+              "also": [],
+              "area": "north-raleigh",
+              "outdoor": true,
+              "source": {
+                "kind": "park",
+                "title": "Blue Jay Point County Park",
+                "address": "3200 Pleasant Union Church Road, Raleigh, NC 27614",
+                "url": "https://www.wakegov.com/departments-government/parks-recreation-and-open-space/all-parks-trails/blue-jay-point-county-park",
+                "amenities": [
+                  "playground",
+                  "picnic-shelter",
+                  "restroom",
+                  "greenway",
+                  "nature"
+                ],
+                "indoor": false,
+                "area": "north-raleigh",
+                "hours": null,
+                "lat": 35.96762827199893,
+                "lon": -78.64454785104198,
+                "cost": null
+              }
+            }
+          ],
+          "rainBackup": null,
+          "timeline": [
+            {
+              "start": "07:00",
+              "end": "07:30",
+              "kind": "meal",
+              "title": "Up and breakfast"
+            },
+            {
+              "start": "07:30",
+              "end": "08:50",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "08:50",
+              "end": "09:10",
+              "kind": "routine",
+              "title": "Get ready to go",
+              "detail": "Shoes on, diaper bag, water and a snack."
+            },
+            {
+              "start": "09:10",
+              "end": "09:30",
+              "kind": "travel",
+              "title": "Drive to Whippoorwill Park"
+            },
+            {
+              "start": "09:30",
+              "end": "09:50",
+              "kind": "outing",
+              "title": "Whippoorwill Park"
+            },
+            {
+              "start": "09:50",
+              "end": "10:00",
+              "kind": "travel",
+              "title": "Drive to Whippoorwill Park"
+            },
+            {
+              "start": "10:00",
+              "end": "11:00",
+              "kind": "outing",
+              "title": "Muddy Boots"
+            },
+            {
+              "start": "11:00",
+              "end": "11:20",
+              "kind": "travel",
+              "title": "Drive home"
+            },
+            {
+              "start": "11:20",
+              "end": "12:15",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "12:15",
+              "end": "12:45",
+              "kind": "meal",
+              "title": "Lunch"
+            },
+            {
+              "start": "12:45",
+              "end": "13:00",
+              "kind": "quiet",
+              "title": "Wind down",
+              "detail": "A couple of books to settle."
+            },
+            {
+              "start": "13:00",
+              "end": "14:30",
+              "kind": "nap",
+              "title": "Nap"
+            },
+            {
+              "start": "14:30",
+              "end": "14:50",
+              "kind": "routine",
+              "title": "Up and a snack"
+            },
+            {
+              "start": "14:50",
+              "end": "18:30",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "18:30",
+              "end": "19:15",
+              "kind": "meal",
+              "title": "Dinner"
+            },
+            {
+              "start": "19:15",
+              "end": "20:00",
+              "kind": "routine",
+              "title": "Bath, books and bed"
+            }
+          ]
+        },
+        {
+          "nap": "quiet",
+          "napLabel": "Quiet time, no sleep",
+          "headline": "Lake Benson Park morning",
+          "main": {
+            "ref": "place:lake-benson-park",
+            "arrive": "09:00",
+            "leave": "11:30",
+            "why": "Lake Benson has a paved lakeside path and a playground — a calm outdoor morning where a 3-year-old can watch the water, spot birds and run the open grounds.",
+            "tips": [
+              "The path around the lake is level and easy for little legs.",
+              "Bring a snack for the halfway point and let her set the pace.",
+              "Head back by 11:30 for a relaxed lunch before quiet time."
+            ],
+            "interests": [
+              "nature",
+              "water"
+            ],
+            "also": [],
+            "area": "south-wake",
+            "outdoor": true,
+            "source": {
+              "kind": "park",
+              "title": "Lake Benson Park",
+              "address": "921 Buffaloe Road, Garner NC, 27529",
+              "url": "https://www.garnernc.gov/departments/parks-recreation-and-cultural-resources/garner-parks/lake-benson-park",
+              "amenities": [
+                "playground",
+                "picnic-shelter",
+                "restroom",
+                "greenway",
+                "boating"
+              ],
+              "indoor": false,
+              "area": "south-wake",
+              "hours": null,
+              "lat": 35.67509092685942,
+              "lon": -78.62824702555534,
+              "cost": null
+            }
+          },
+          "alternatives": [
+            {
+              "ref": "place:whippoorwill-park",
+              "arrive": "09:30",
+              "leave": "11:00",
+              "also": [
+                {
+                  "ref": "event:durham-rec:19863",
+                  "source": {
+                    "kind": "event",
+                    "title": "Muddy Boots",
+                    "start": "2026-11-03T10:00:00",
+                    "end": "2026-11-03T11:00:00",
+                    "venue": "Whippoorwill Park",
+                    "address": "1632 Rowemont Dr, Durham, NC",
+                    "url": "https://apm.activecommunities.com/dprplaymore/Activity_Search/muddy-boots/19863?locale=en-US",
+                    "cost": null,
+                    "ages": "1 - 6",
+                    "registration": "https://apm.activecommunities.com/dprplaymore/Activity_Search/muddy-boots/19863?locale=en-US",
+                    "indoor": false,
+                    "area": "durham",
+                    "source": "durham-rec",
+                    "dropIn": false,
+                    "lat": 36.047740000000005,
+                    "lon": -78.92395166666667
+                  }
+                }
+              ],
+              "why": "Play at Whippoorwill Park, then join Muddy Boots for a guided nature walk and a book at the picnic shelter — a hands-on outdoor morning in Durham.",
+              "tips": [
+                "Registration required for Muddy Boots; book ahead.",
+                "Leave at 11:00 when the program ends to be home for lunch before quiet time."
+              ],
+              "interests": [
+                "nature",
+                "science",
+                "stories"
+              ],
+              "area": "durham",
+              "outdoor": true,
+              "source": {
+                "kind": "park",
+                "title": "Whippoorwill Park",
+                "address": "1632 Rowemont Dr, Durham, NC",
+                "url": "https://www.dprplaymore.org/Facilities/Facility/Details/Whippoorwill-Park-79",
+                "amenities": [
+                  "playground",
+                  "picnic-shelter",
+                  "restroom",
+                  "greenway"
+                ],
+                "indoor": false,
+                "area": "durham",
+                "hours": null,
+                "lat": 36.047740000000005,
+                "lon": -78.92395166666667,
+                "cost": null
+              }
+            },
+            {
+              "ref": "place:levelle-moton-park",
+              "arrive": "09:45",
+              "leave": "12:00",
+              "also": [
+                {
+                  "ref": "event:museum:marbles:47911",
+                  "source": {
+                    "kind": "event",
+                    "title": "Lost Wolves of Yellowstone 2D",
+                    "start": "2026-11-03T10:15:00",
+                    "end": "2026-11-03T11:00:00",
+                    "venue": "Marbles Kids Museum",
+                    "address": "201 E Hargett St, Raleigh, NC 27601",
+                    "url": null,
+                    "cost": null,
+                    "ages": "IMAX film, 4 and up",
+                    "registration": null,
+                    "indoor": true,
+                    "area": "raleigh",
+                    "source": "museum",
+                    "dropIn": false,
+                    "lat": 35.7789,
+                    "lon": -78.6361
+                  }
+                },
+                {
+                  "ref": "event:museum:marbles:47653",
+                  "source": {
+                    "kind": "event",
+                    "title": "Secrets of Great Salt Lake",
+                    "start": "2026-11-03T11:15:00",
+                    "end": "2026-11-03T12:00:00",
+                    "venue": "Marbles Kids Museum",
+                    "address": "201 E Hargett St, Raleigh, NC 27601",
+                    "url": "https://marbleskidsmuseum.org/event/48644/",
+                    "cost": null,
+                    "ages": "IMAX film, 4 and up",
+                    "registration": null,
+                    "indoor": true,
+                    "area": "raleigh",
+                    "source": "museum",
+                    "dropIn": false,
+                    "lat": 35.7789,
+                    "lon": -78.6361
+                  }
+                }
+              ],
+              "why": "Play at Levelle Moton Park, then see Lost Wolves of Yellowstone 2D and Secrets of Great Salt Lake at the Marbles IMAX — a morning that mixes outdoor play with vivid nature films.",
+              "tips": [
+                "Book both IMAX tickets online before leaving.",
+                "Leave by 12:00 to be home for lunch before quiet time."
+              ],
+              "interests": [
+                "animals",
+                "science",
+                "nature"
+              ],
+              "area": "raleigh",
+              "outdoor": false,
+              "source": {
+                "kind": "park",
+                "title": "LeVelle Moton Park",
+                "address": "920 E. Lane Street, Raleigh, NC 27601",
+                "url": "https://raleighnc.gov/parks-and-recreation/places/levelle-moton-park",
+                "amenities": [
+                  "picnic-shelter",
+                  "courts",
+                  "playground"
+                ],
+                "indoor": false,
+                "area": "raleigh",
+                "hours": null,
+                "lat": 35.78316,
+                "lon": -78.62606,
+                "cost": null
+              }
+            },
+            {
+              "ref": "event:wake:22112",
+              "arrive": "09:20",
+              "leave": "10:45",
+              "also": [
+                {
+                  "ref": "place:south-garner-park",
+                  "source": {
+                    "kind": "park",
+                    "title": "South Garner Park",
+                    "address": "1210 Poole Drive, Garner NC, 27529",
+                    "url": "https://www.garnernc.gov/departments/parks-recreation-and-cultural-resources/garner-parks/south-garner-park",
+                    "amenities": [
+                      "playground",
+                      "restroom",
+                      "greenway"
+                    ],
+                    "indoor": false,
+                    "area": "raleigh",
+                    "hours": null,
+                    "lat": 35.69350262186872,
+                    "lon": -78.62489741348564,
+                    "cost": null
+                  }
+                }
+              ],
+              "why": "The ABC Craft and Learn at Southeast Regional Library is a hands-on alphabet craft for ages 3–5, then South Garner Park is a short drive for outdoor play before heading home.",
+              "tips": [
+                "No registration listed — arrive a few minutes early just in case.",
+                "The park is a good way to use up energy before quiet time."
+              ],
+              "interests": [
+                "art",
+                "stories",
+                "nature"
+              ],
+              "area": "raleigh",
+              "outdoor": false,
+              "source": {
+                "kind": "event",
+                "title": "ABC Craft and Learn",
+                "start": "2026-11-03T09:30:00-05:00",
+                "end": "2026-11-03T10:15:00-05:00",
+                "venue": "Southeast Regional Library",
+                "address": "908 Seventh Avenue, Garner, NC",
+                "url": "https://www.wake.gov/events/abc-craft-and-learn-577",
+                "cost": null,
+                "ages": "Young Children",
+                "registration": null,
+                "indoor": true,
+                "area": "raleigh",
+                "source": "wake-county",
+                "dropIn": false,
+                "lat": 35.7060263640315,
+                "lon": -78.6211614329399
+              }
+            },
+            {
+              "ref": "event:museum:durham-central-park:13932",
+              "arrive": "14:00",
+              "leave": "16:00",
+              "why": "The Kids Voting Event at Durham Central Park is a free drop-in outdoor activity after quiet time — a good afternoon in Durham without a long drive.",
+              "tips": [
+                "Leave home around 13:45 after quiet time ends.",
+                "The event is outdoors; a good afternoon if the sunny weather holds."
+              ],
+              "interests": [
+                "art",
+                "movement"
+              ],
+              "also": [],
+              "area": "durham",
+              "outdoor": true,
+              "source": {
+                "kind": "event",
+                "title": "Kids Voting Event",
+                "start": "2026-11-03T11:00:00",
+                "end": "2026-11-03T16:00:00",
+                "venue": "Durham Central Park",
+                "address": "501 Foster Street, Durham, NC, 27701",
+                "url": "https://durhamcentralpark.org/upcoming-event/kids-voting-event/",
+                "cost": null,
+                "ages": "We invite all youth of all ages to come and participate in our event !",
+                "registration": null,
+                "indoor": false,
+                "area": "durham",
+                "source": "museum",
+                "dropIn": true,
+                "lat": 36.0008,
+                "lon": -78.9021
+              }
+            }
+          ],
+          "rainBackup": null,
+          "timeline": [
+            {
+              "start": "07:00",
+              "end": "07:30",
+              "kind": "meal",
+              "title": "Up and breakfast"
+            },
+            {
+              "start": "07:30",
+              "end": "08:20",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "08:20",
+              "end": "08:40",
+              "kind": "routine",
+              "title": "Get ready to go",
+              "detail": "Shoes on, diaper bag, water and a snack."
+            },
+            {
+              "start": "08:40",
+              "end": "09:00",
+              "kind": "travel",
+              "title": "Drive to Lake Benson Park"
+            },
+            {
+              "start": "09:00",
+              "end": "11:30",
+              "kind": "outing",
+              "title": "Lake Benson Park"
+            },
+            {
+              "start": "11:30",
+              "end": "11:50",
+              "kind": "travel",
+              "title": "Drive home"
+            },
+            {
+              "start": "11:50",
+              "end": "12:20",
+              "kind": "meal",
+              "title": "Lunch"
+            },
+            {
+              "start": "12:20",
+              "end": "13:00",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "13:00",
+              "end": "13:45",
+              "kind": "quiet",
+              "title": "Quiet time",
+              "detail": "Books or quiet play in their room."
+            },
+            {
+              "start": "13:45",
+              "end": "18:00",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "18:00",
+              "end": "18:45",
+              "kind": "meal",
+              "title": "Dinner"
+            },
+            {
+              "start": "18:45",
+              "end": "19:30",
+              "kind": "routine",
+              "title": "Bath, books and bed"
+            }
+          ]
+        },
+        {
+          "nap": "no-nap",
+          "napLabel": "No nap",
+          "headline": "Levelle Moton Park, Marbles IMAX films, and John Chavis Memorial Park",
+          "main": {
+            "ref": "place:levelle-moton-park",
+            "arrive": "09:45",
+            "leave": "13:00",
+            "also": [
+              {
+                "ref": "event:museum:marbles:47911",
+                "source": {
+                  "kind": "event",
+                  "title": "Lost Wolves of Yellowstone 2D",
+                  "start": "2026-11-03T10:15:00",
+                  "end": "2026-11-03T11:00:00",
+                  "venue": "Marbles Kids Museum",
+                  "address": "201 E Hargett St, Raleigh, NC 27601",
+                  "url": null,
+                  "cost": null,
+                  "ages": "IMAX film, 4 and up",
+                  "registration": null,
+                  "indoor": true,
+                  "area": "raleigh",
+                  "source": "museum",
+                  "dropIn": false,
+                  "lat": 35.7789,
+                  "lon": -78.6361
+                }
+              },
+              {
+                "ref": "event:museum:marbles:47653",
+                "source": {
+                  "kind": "event",
+                  "title": "Secrets of Great Salt Lake",
+                  "start": "2026-11-03T11:15:00",
+                  "end": "2026-11-03T12:00:00",
+                  "venue": "Marbles Kids Museum",
+                  "address": "201 E Hargett St, Raleigh, NC 27601",
+                  "url": "https://marbleskidsmuseum.org/event/48644/",
+                  "cost": null,
+                  "ages": "IMAX film, 4 and up",
+                  "registration": null,
+                  "indoor": true,
+                  "area": "raleigh",
+                  "source": "museum",
+                  "dropIn": false,
+                  "lat": 35.7789,
+                  "lon": -78.6361
+                }
+              },
+              {
+                "ref": "place:john-chavis-memorial-park",
+                "source": {
+                  "kind": "park",
+                  "title": "John Chavis Memorial Park",
+                  "address": "505 Martin Luther King Jr Blvd, Raleigh, NC 27601",
+                  "url": "https://raleighnc.gov/parks-and-recreation/places/john-chavis-memorial-park",
+                  "amenities": [
+                    "community-center",
+                    "playground",
+                    "carousel",
+                    "fields"
+                  ],
+                  "indoor": false,
+                  "area": "raleigh",
+                  "hours": null,
+                  "lat": 35.7698,
+                  "lon": -78.63021,
+                  "cost": null
+                }
+              }
+            ],
+            "why": "Play at Levelle Moton Park, then see two back-to-back IMAX nature films at Marbles, then finish with outdoor play and a picnic at John Chavis Memorial Park.",
+            "tips": [
+              "Book both IMAX tickets online before you leave.",
+              "Pack a picnic lunch to eat at John Chavis after the films.",
+              "The films have a 15-minute gap between them; a small snack in the lobby keeps things calm."
+            ],
+            "interests": [
+              "animals",
+              "nature",
+              "science"
+            ],
+            "area": "raleigh",
+            "outdoor": false,
+            "source": {
+              "kind": "park",
+              "title": "LeVelle Moton Park",
+              "address": "920 E. Lane Street, Raleigh, NC 27601",
+              "url": "https://raleighnc.gov/parks-and-recreation/places/levelle-moton-park",
+              "amenities": [
+                "picnic-shelter",
+                "courts",
+                "playground"
+              ],
+              "indoor": false,
+              "area": "raleigh",
+              "hours": null,
+              "lat": 35.78316,
+              "lon": -78.62606,
+              "cost": null
+            }
+          },
+          "alternatives": [
+            {
+              "ref": "place:whippoorwill-park",
+              "arrive": "09:30",
+              "leave": "11:00",
+              "also": [
+                {
+                  "ref": "event:durham-rec:19863",
+                  "source": {
+                    "kind": "event",
+                    "title": "Muddy Boots",
+                    "start": "2026-11-03T10:00:00",
+                    "end": "2026-11-03T11:00:00",
+                    "venue": "Whippoorwill Park",
+                    "address": "1632 Rowemont Dr, Durham, NC",
+                    "url": "https://apm.activecommunities.com/dprplaymore/Activity_Search/muddy-boots/19863?locale=en-US",
+                    "cost": null,
+                    "ages": "1 - 6",
+                    "registration": "https://apm.activecommunities.com/dprplaymore/Activity_Search/muddy-boots/19863?locale=en-US",
+                    "indoor": false,
+                    "area": "durham",
+                    "source": "durham-rec",
+                    "dropIn": false,
+                    "lat": 36.047740000000005,
+                    "lon": -78.92395166666667
+                  }
+                }
+              ],
+              "why": "Muddy Boots at Whippoorwill Park pairs a nature read aloud with a guided outdoor walk — a hands-on Durham morning for a curious 3-year-old.",
+              "tips": [
+                "Registration required; book before you go.",
+                "Dress for mud and bring a change of shoes."
+              ],
+              "interests": [
+                "nature",
+                "science",
+                "stories"
+              ],
+              "area": "durham",
+              "outdoor": true,
+              "source": {
+                "kind": "park",
+                "title": "Whippoorwill Park",
+                "address": "1632 Rowemont Dr, Durham, NC",
+                "url": "https://www.dprplaymore.org/Facilities/Facility/Details/Whippoorwill-Park-79",
+                "amenities": [
+                  "playground",
+                  "picnic-shelter",
+                  "restroom",
+                  "greenway"
+                ],
+                "indoor": false,
+                "area": "durham",
+                "hours": null,
+                "lat": 36.047740000000005,
+                "lon": -78.92395166666667,
+                "cost": null
+              }
+            },
+            {
+              "ref": "event:museum:durham-central-park:13932",
+              "arrive": "13:00",
+              "leave": "15:30",
+              "why": "The Kids Voting Event at Durham Central Park is a free drop-in outdoor activity — a good afternoon outing that adds something new to the day.",
+              "tips": [
+                "The event runs until 16:00 so arriving after lunch works well.",
+                "The park has open grass for running around between activities."
+              ],
+              "interests": [
+                "art",
+                "movement"
+              ],
+              "also": [],
+              "area": "durham",
+              "outdoor": true,
+              "source": {
+                "kind": "event",
+                "title": "Kids Voting Event",
+                "start": "2026-11-03T11:00:00",
+                "end": "2026-11-03T16:00:00",
+                "venue": "Durham Central Park",
+                "address": "501 Foster Street, Durham, NC, 27701",
+                "url": "https://durhamcentralpark.org/upcoming-event/kids-voting-event/",
+                "cost": null,
+                "ages": "We invite all youth of all ages to come and participate in our event !",
+                "registration": null,
+                "indoor": false,
+                "area": "durham",
+                "source": "museum",
+                "dropIn": true,
+                "lat": 36.0008,
+                "lon": -78.9021
+              }
+            }
+          ],
+          "rainBackup": null,
+          "timeline": [
+            {
+              "start": "07:00",
+              "end": "07:30",
+              "kind": "meal",
+              "title": "Up and breakfast"
+            },
+            {
+              "start": "07:30",
+              "end": "09:05",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "09:05",
+              "end": "09:25",
+              "kind": "routine",
+              "title": "Get ready to go",
+              "detail": "Shoes on, diaper bag, water and a snack."
+            },
+            {
+              "start": "09:25",
+              "end": "09:45",
+              "kind": "travel",
+              "title": "Drive to LeVelle Moton Park"
+            },
+            {
+              "start": "09:45",
+              "end": "10:05",
+              "kind": "outing",
+              "title": "LeVelle Moton Park",
+              "detail": "Pack a lunch to eat there."
+            },
+            {
+              "start": "10:05",
+              "end": "10:15",
+              "kind": "travel",
+              "title": "Drive to Marbles Kids Museum"
+            },
+            {
+              "start": "10:15",
+              "end": "11:00",
+              "kind": "outing",
+              "title": "Lost Wolves of Yellowstone 2D"
+            },
+            {
+              "start": "11:00",
+              "end": "11:10",
+              "kind": "travel",
+              "title": "Drive to Marbles Kids Museum"
+            },
+            {
+              "start": "11:10",
+              "end": "12:00",
+              "kind": "outing",
+              "title": "Secrets of Great Salt Lake"
+            },
+            {
+              "start": "12:00",
+              "end": "12:10",
+              "kind": "travel",
+              "title": "Drive to John Chavis Memorial Park"
+            },
+            {
+              "start": "12:10",
+              "end": "13:00",
+              "kind": "outing",
+              "title": "John Chavis Memorial Park"
+            },
+            {
+              "start": "13:00",
+              "end": "13:20",
+              "kind": "travel",
+              "title": "Drive home"
+            },
+            {
+              "start": "13:20",
+              "end": "18:00",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "18:00",
+              "end": "18:45",
+              "kind": "meal",
+              "title": "Dinner"
+            },
+            {
+              "start": "18:45",
+              "end": "19:30",
+              "kind": "routine",
+              "title": "Bath, books and bed"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "checked": {
+    "at": "2026-11-01T11:03:30.213Z",
+    "forecast": "nws",
+    "weather": {
+      "period": "Tuesday",
+      "tempF": 77,
+      "precipProbability": 0,
+      "shortForecast": "Sunny",
+      "hours": [
+        {
+          "t": "05:00",
+          "tempF": 51,
+          "pop": 0
+        },
+        {
+          "t": "06:00",
+          "tempF": 50,
+          "pop": 0
+        },
+        {
+          "t": "07:00",
+          "tempF": 50,
+          "pop": 0
+        },
+        {
+          "t": "08:00",
+          "tempF": 54,
+          "pop": 0
+        },
+        {
+          "t": "09:00",
+          "tempF": 60,
+          "pop": 0
+        },
+        {
+          "t": "10:00",
+          "tempF": 65,
+          "pop": 0
+        },
+        {
+          "t": "11:00",
+          "tempF": 69,
+          "pop": 0
+        },
+        {
+          "t": "12:00",
+          "tempF": 72,
+          "pop": 0
+        },
+        {
+          "t": "13:00",
+          "tempF": 75,
+          "pop": 0
+        },
+        {
+          "t": "14:00",
+          "tempF": 76,
+          "pop": 0
+        },
+        {
+          "t": "15:00",
+          "tempF": 77,
+          "pop": 0
+        },
+        {
+          "t": "16:00",
+          "tempF": 75,
+          "pop": 0
+        },
+        {
+          "t": "17:00",
+          "tempF": 72,
+          "pop": 0
+        },
+        {
+          "t": "18:00",
+          "tempF": 68,
+          "pop": 0
+        },
+        {
+          "t": "19:00",
+          "tempF": 64,
+          "pop": 0
+        },
+        {
+          "t": "20:00",
+          "tempF": 62,
+          "pop": 0
+        },
+        {
+          "t": "21:00",
+          "tempF": 61,
+          "pop": 0
+        },
+        {
+          "t": "22:00",
+          "tempF": 60,
+          "pop": 0
+        },
+        {
+          "t": "23:00",
+          "tempF": 59,
+          "pop": 0
+        }
+      ]
+    },
+    "hidden": []
+  }
+}

@@ -1,0 +1,1080 @@
+{
+  "date": "2026-11-13",
+  "band": "t4",
+  "versions": [
+    {
+      "at": "2026-11-01T11:14:51.859Z",
+      "reason": null,
+      "forecast": "none",
+      "weather": null,
+      "plans": [
+        {
+          "nap": "short-nap",
+          "napLabel": "Short nap, 1 to 2",
+          "headline": "Leaf stories and a playground at a county park",
+          "main": {
+            "ref": "event:wake-parks:9361",
+            "arrive": "09:50",
+            "leave": "11:30",
+            "why": "Budding Sprouts at Beech Bluff County Park starts at 10:00 am with the story Leaves Go Crunch Crunch. A family needs to sign up first. Afterward the playground is next door.",
+            "tips": [
+              "Sign up ahead and meet at the Harvest Hub.",
+              "Let your child crunch through leaves and look for garden creatures.",
+              "Save a snack for the playground so leaving the story feels easy."
+            ],
+            "interests": [
+              "nature",
+              "stories"
+            ],
+            "also": [
+              {
+                "ref": "place:beech-bluff-county-park",
+                "source": {
+                  "kind": "park",
+                  "title": "Beech Bluff County Park",
+                  "address": "Beech Bluff Park Drive, Fuquay-Varina, NC",
+                  "lat": 35.58537279715877,
+                  "lon": -78.6793341971644,
+                  "url": "https://www.wake.gov/departments-government/parks-recreation-open-space/all-parks-trails/beech-bluff-county-park",
+                  "amenities": [
+                    "playground",
+                    "garden",
+                    "greenway",
+                    "restroom",
+                    "picnic-shelter"
+                  ],
+                  "indoor": false,
+                  "area": "south-wake",
+                  "hours": null,
+                  "cost": null
+                }
+              }
+            ],
+            "area": "south-wake",
+            "outdoor": true,
+            "source": {
+              "kind": "event",
+              "title": "Budding Sprouts: Leave the Leaves",
+              "start": "2026-11-13T10:00:00",
+              "end": "2026-11-13T11:00:00",
+              "venue": "Beech Bluff County Park",
+              "address": "Beech Bluff Park Drive, Fuquay-Varina, NC",
+              "url": "https://apm.activecommunities.com/wakeparks/Activity_Search/budding-sprouts-leave-the-leaves/9361?locale=en-US",
+              "cost": "Free",
+              "lat": 35.58537279715877,
+              "lon": -78.6793341971644,
+              "ages": "At least 2 but less than 6",
+              "registration": "https://apm.activecommunities.com/wakeparks/Activity_Search/budding-sprouts-leave-the-leaves/9361?locale=en-US",
+              "indoor": false,
+              "area": "south-wake",
+              "source": "wake-parks",
+              "dropIn": false
+            }
+          },
+          "alternatives": [
+            {
+              "ref": "place:gipson-play-plaza",
+              "arrive": "10:25",
+              "leave": "12:00",
+              "why": "Start on the big playground at Dix Park, then join Little Explorers, a nature program for preschoolers, at 11:00 am.",
+              "tips": [
+                "Play hard first and snack before the program starts.",
+                "Tell your child the nature walk comes after the last slide."
+              ],
+              "interests": [
+                "nature",
+                "movement"
+              ],
+              "also": [
+                {
+                  "ref": "event:dix-park:/event/little-explorers:2026-11-13",
+                  "source": {
+                    "kind": "event",
+                    "title": "Little Explorers",
+                    "start": "2026-11-13T11:00:00",
+                    "end": "2026-11-13T12:00:00",
+                    "venue": "House of Many Porches Market, Dix Park",
+                    "address": "1030 Richardson Dr, Raleigh, NC 27603",
+                    "url": "https://dixpark.org/event/little-explorers",
+                    "cost": null,
+                    "lat": 35.7701,
+                    "lon": -78.6568,
+                    "ages": "Little Explorers Nature program for preschoolers",
+                    "registration": null,
+                    "indoor": false,
+                    "area": "raleigh",
+                    "source": "dix-park",
+                    "dropIn": false
+                  }
+                }
+              ],
+              "area": "raleigh",
+              "outdoor": true,
+              "source": {
+                "kind": "park",
+                "title": "Gipson Play Plaza at Dix Park",
+                "address": "715 Biggs Dr, Raleigh, NC 27603",
+                "lat": 35.7667,
+                "lon": -78.6539,
+                "url": "https://dixpark.org/gipson-play-plaza",
+                "amenities": [
+                  "playground",
+                  "restroom"
+                ],
+                "indoor": false,
+                "area": "raleigh",
+                "hours": {
+                  "sun": "8 a.m.–9 p.m.",
+                  "mon": "8 a.m.–9 p.m.",
+                  "tue": "8 a.m.–9 p.m.",
+                  "wed": "8 a.m.–9 p.m.",
+                  "thu": "8 a.m.–9 p.m.",
+                  "fri": "8 a.m.–9 p.m.",
+                  "sat": "8 a.m.–9 p.m."
+                },
+                "cost": "Free",
+                "note": "Free; free parking. Big destination playground on the south edge of Dix Park."
+              }
+            },
+            {
+              "ref": "event:wake:24648",
+              "arrive": "09:50",
+              "leave": "12:00",
+              "why": "Touch A Truck at Wake Forest Community Library runs from 10:00 to 11:30 am. See the emergency vehicles up close, then play at Wake Forest Kiwanis Park.",
+              "tips": [
+                "Ask the workers one question each.",
+                "Bring a snack for the playground.",
+                "Count the vehicles together on the walk to the park."
+              ],
+              "interests": [
+                "vehicles",
+                "movement"
+              ],
+              "also": [
+                {
+                  "ref": "place:wake-forest-kiwanis-park",
+                  "source": {
+                    "kind": "park",
+                    "title": "Wake Forest Kiwanis Park",
+                    "address": "404 E Holding Ave, Wake Forest, NC",
+                    "lat": 35.96949541581039,
+                    "lon": -78.50987455178895,
+                    "url": "https://www.wakeforestnc.gov/parks-recreation-cultural-resources/parks-facilities/kiwanis-park",
+                    "amenities": [
+                      "playground",
+                      "picnic-shelter"
+                    ],
+                    "indoor": false,
+                    "area": "north-raleigh",
+                    "hours": null,
+                    "cost": null
+                  }
+                }
+              ],
+              "area": "north-raleigh",
+              "outdoor": true,
+              "source": {
+                "kind": "event",
+                "title": "Touch A Truck!",
+                "start": "2026-11-13T10:00:00-05:00",
+                "end": "2026-11-13T11:30:00-05:00",
+                "venue": "Wake Forest Community Library",
+                "address": "400 E Holding Avenue, Wake Forest, NC",
+                "url": "https://www.wake.gov/events/touch-truck-4",
+                "cost": "Free",
+                "lat": 35.9699502750089,
+                "lon": -78.5102712176725,
+                "ages": "Young Children",
+                "registration": null,
+                "indoor": false,
+                "area": "north-raleigh",
+                "source": "wake-county",
+                "dropIn": false
+              }
+            },
+            {
+              "ref": "place:pullen-park-amusements",
+              "arrive": "10:00",
+              "leave": "11:50",
+              "why": "Ride the carousel and the train, then run on the playground.",
+              "tips": [
+                "Let your child pick which ride comes first.",
+                "Bring a snack for a picnic shelter break."
+              ],
+              "interests": [
+                "vehicles",
+                "movement"
+              ],
+              "also": [],
+              "area": "raleigh",
+              "outdoor": true,
+              "source": {
+                "kind": "park",
+                "title": "Pullen Park Amusements",
+                "address": "410 Park Ave, Raleigh, NC 27606",
+                "lat": 35.7806,
+                "lon": -78.66396,
+                "url": "https://raleighnc.gov/parks-and-recreation/places/pullen-park-amusements",
+                "amenities": [
+                  "carousel",
+                  "boating",
+                  "train",
+                  "amusements",
+                  "courts",
+                  "playground",
+                  "picnic-shelter"
+                ],
+                "indoor": false,
+                "area": "raleigh",
+                "hours": {
+                  "mon": "10 a.m.–6 p.m.",
+                  "tue": "10 a.m.–6 p.m.",
+                  "wed": "10 a.m.–6 p.m.",
+                  "thu": "10 a.m.–6 p.m.",
+                  "fri": "10 a.m.–8 p.m.",
+                  "sat": "10 a.m.–8 p.m.",
+                  "sun": "10 a.m.–8 p.m."
+                },
+                "cost": null
+              }
+            },
+            {
+              "ref": "event:weekly:mols-early-childhood:2026-11-13",
+              "arrive": "09:30",
+              "leave": "11:15",
+              "why": "Early Childhood Drop-In in Hideaway Woods has sensory play, songs and stories. Come and go as your child likes.",
+              "tips": [
+                "Start with sensory play while energy is high.",
+                "Head out when the first yawn shows up."
+              ],
+              "interests": [
+                "nature",
+                "music",
+                "stories"
+              ],
+              "also": [],
+              "area": "durham",
+              "outdoor": true,
+              "source": {
+                "kind": "event",
+                "title": "Early Childhood Drop-In",
+                "start": "2026-11-13T09:30:00",
+                "end": "2026-11-13T11:30:00",
+                "venue": "Hideaway Woods, Museum of Life and Science",
+                "address": "433 W Murray Ave, Durham, NC 27704",
+                "url": "https://www.lifeandscience.org/learn/drop-in-programs/",
+                "cost": "Included with museum admission",
+                "lat": 36.0294,
+                "lon": -78.8993,
+                "ages": "young children and their caregivers",
+                "registration": false,
+                "indoor": false,
+                "area": "durham",
+                "source": "weekly",
+                "dropIn": true
+              }
+            }
+          ],
+          "rainBackup": null,
+          "timeline": [
+            {
+              "start": "07:00",
+              "end": "07:30",
+              "kind": "meal",
+              "title": "Up and breakfast"
+            },
+            {
+              "start": "07:30",
+              "end": "09:10",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "09:10",
+              "end": "09:30",
+              "kind": "routine",
+              "title": "Get ready to go",
+              "detail": "Shoes on, diaper bag, water and a snack."
+            },
+            {
+              "start": "09:30",
+              "end": "09:50",
+              "kind": "travel",
+              "title": "Drive to Beech Bluff County Park"
+            },
+            {
+              "start": "09:50",
+              "end": "11:00",
+              "kind": "outing",
+              "title": "Budding Sprouts: Leave the Leaves"
+            },
+            {
+              "start": "11:00",
+              "end": "11:10",
+              "kind": "travel",
+              "title": "Drive to Beech Bluff County Park"
+            },
+            {
+              "start": "11:10",
+              "end": "11:30",
+              "kind": "outing",
+              "title": "Beech Bluff County Park"
+            },
+            {
+              "start": "11:30",
+              "end": "11:50",
+              "kind": "travel",
+              "title": "Drive home"
+            },
+            {
+              "start": "11:50",
+              "end": "12:15",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "12:15",
+              "end": "12:45",
+              "kind": "meal",
+              "title": "Lunch"
+            },
+            {
+              "start": "12:45",
+              "end": "13:00",
+              "kind": "quiet",
+              "title": "Wind down",
+              "detail": "A couple of books to settle."
+            },
+            {
+              "start": "13:00",
+              "end": "14:00",
+              "kind": "nap",
+              "title": "Nap"
+            },
+            {
+              "start": "14:00",
+              "end": "14:20",
+              "kind": "routine",
+              "title": "Up and a snack"
+            },
+            {
+              "start": "14:20",
+              "end": "18:30",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "18:30",
+              "end": "19:15",
+              "kind": "meal",
+              "title": "Dinner"
+            },
+            {
+              "start": "19:15",
+              "end": "20:00",
+              "kind": "routine",
+              "title": "Bath, books and bed"
+            }
+          ]
+        },
+        {
+          "nap": "quiet",
+          "napLabel": "Quiet time",
+          "headline": "Yoga stories, then a Knightdale playground",
+          "main": {
+            "ref": "event:wake:21778",
+            "arrive": "10:05",
+            "leave": "11:45",
+            "why": "Family Yoga Time at East Regional Library at 10:15 am has yoga stories, music and mindfulness. Then Knightdale Station Park for the playground and a snack.",
+            "tips": [
+              "Wear clothes that are easy to stretch in.",
+              "Bring a snack for the picnic shelter.",
+              "Let your child be the yoga teacher at the park."
+            ],
+            "interests": [
+              "movement",
+              "stories"
+            ],
+            "also": [
+              {
+                "ref": "place:knightdale-station-park",
+                "source": {
+                  "kind": "park",
+                  "title": "Knightdale Station Park",
+                  "address": "810 North First Avenue, Knightdale, NC",
+                  "lat": 35.795776739559024,
+                  "lon": -78.47584503817626,
+                  "url": "https://www.knightdalenc.gov/knightdalestationpark",
+                  "amenities": [
+                    "playground",
+                    "picnic-shelter",
+                    "greenway"
+                  ],
+                  "indoor": false,
+                  "area": "east-wake",
+                  "hours": null,
+                  "cost": null
+                }
+              }
+            ],
+            "area": "east-wake",
+            "outdoor": false,
+            "source": {
+              "kind": "event",
+              "title": "Special Event for Young Children: Family Yoga Time",
+              "start": "2026-11-13T10:15:00-05:00",
+              "end": "2026-11-13T10:45:00-05:00",
+              "venue": "East Regional Library",
+              "address": "946 Steeple Square Court, Knightdale, NC",
+              "url": "https://www.wake.gov/events/special-event-young-children-family-yoga-time-1",
+              "cost": "Free",
+              "lat": 35.8028243321954,
+              "lon": -78.487155767495,
+              "ages": "Young Children",
+              "registration": null,
+              "indoor": true,
+              "area": "east-wake",
+              "source": "wake-county",
+              "dropIn": false
+            }
+          },
+          "alternatives": [
+            {
+              "ref": "event:wake:24648",
+              "arrive": "09:50",
+              "leave": "12:00",
+              "why": "Touch A Truck at Wake Forest Community Library runs from 10:00 to 11:30 am. See the emergency vehicles up close, then play at Wake Forest Kiwanis Park.",
+              "tips": [
+                "Ask the workers one question each.",
+                "Bring a snack for the playground."
+              ],
+              "interests": [
+                "vehicles",
+                "movement"
+              ],
+              "also": [
+                {
+                  "ref": "place:wake-forest-kiwanis-park",
+                  "source": {
+                    "kind": "park",
+                    "title": "Wake Forest Kiwanis Park",
+                    "address": "404 E Holding Ave, Wake Forest, NC",
+                    "lat": 35.96949541581039,
+                    "lon": -78.50987455178895,
+                    "url": "https://www.wakeforestnc.gov/parks-recreation-cultural-resources/parks-facilities/kiwanis-park",
+                    "amenities": [
+                      "playground",
+                      "picnic-shelter"
+                    ],
+                    "indoor": false,
+                    "area": "north-raleigh",
+                    "hours": null,
+                    "cost": null
+                  }
+                }
+              ],
+              "area": "north-raleigh",
+              "outdoor": true,
+              "source": {
+                "kind": "event",
+                "title": "Touch A Truck!",
+                "start": "2026-11-13T10:00:00-05:00",
+                "end": "2026-11-13T11:30:00-05:00",
+                "venue": "Wake Forest Community Library",
+                "address": "400 E Holding Avenue, Wake Forest, NC",
+                "url": "https://www.wake.gov/events/touch-truck-4",
+                "cost": "Free",
+                "lat": 35.9699502750089,
+                "lon": -78.5102712176725,
+                "ages": "Young Children",
+                "registration": null,
+                "indoor": false,
+                "area": "north-raleigh",
+                "source": "wake-county",
+                "dropIn": false
+              }
+            },
+            {
+              "ref": "event:wake-parks:9361",
+              "arrive": "09:50",
+              "leave": "11:30",
+              "why": "Budding Sprouts at Beech Bluff County Park starts at 10:00 am with the story Leaves Go Crunch Crunch. A family needs to sign up first. Then the playground.",
+              "tips": [
+                "Sign up ahead and meet at the Harvest Hub.",
+                "Let your child crunch through leaves and look for garden creatures."
+              ],
+              "interests": [
+                "nature",
+                "stories"
+              ],
+              "also": [
+                {
+                  "ref": "place:beech-bluff-county-park",
+                  "source": {
+                    "kind": "park",
+                    "title": "Beech Bluff County Park",
+                    "address": "Beech Bluff Park Drive, Fuquay-Varina, NC",
+                    "lat": 35.58537279715877,
+                    "lon": -78.6793341971644,
+                    "url": "https://www.wake.gov/departments-government/parks-recreation-open-space/all-parks-trails/beech-bluff-county-park",
+                    "amenities": [
+                      "playground",
+                      "garden",
+                      "greenway",
+                      "restroom",
+                      "picnic-shelter"
+                    ],
+                    "indoor": false,
+                    "area": "south-wake",
+                    "hours": null,
+                    "cost": null
+                  }
+                }
+              ],
+              "area": "south-wake",
+              "outdoor": true,
+              "source": {
+                "kind": "event",
+                "title": "Budding Sprouts: Leave the Leaves",
+                "start": "2026-11-13T10:00:00",
+                "end": "2026-11-13T11:00:00",
+                "venue": "Beech Bluff County Park",
+                "address": "Beech Bluff Park Drive, Fuquay-Varina, NC",
+                "url": "https://apm.activecommunities.com/wakeparks/Activity_Search/budding-sprouts-leave-the-leaves/9361?locale=en-US",
+                "cost": "Free",
+                "lat": 35.58537279715877,
+                "lon": -78.6793341971644,
+                "ages": "At least 2 but less than 6",
+                "registration": "https://apm.activecommunities.com/wakeparks/Activity_Search/budding-sprouts-leave-the-leaves/9361?locale=en-US",
+                "indoor": false,
+                "area": "south-wake",
+                "source": "wake-parks",
+                "dropIn": false
+              }
+            },
+            {
+              "ref": "place:ncma-museum-park",
+              "arrive": "09:45",
+              "leave": "11:45",
+              "why": "Wander the trails and lawns and find the big outdoor art.",
+              "tips": [
+                "Make it a game: find the biggest, the roundest and the shiniest piece.",
+                "Bring water and a snack."
+              ],
+              "interests": [
+                "art",
+                "nature"
+              ],
+              "also": [],
+              "area": "raleigh",
+              "outdoor": true,
+              "source": {
+                "kind": "garden",
+                "title": "NC Museum of Art Museum Park",
+                "address": "2110 Blue Ridge Rd, Raleigh, NC 27607",
+                "lat": 35.8105,
+                "lon": -78.7022,
+                "url": "https://ncartmuseum.org/museum-park/",
+                "amenities": [
+                  "garden",
+                  "nature",
+                  "greenway",
+                  "restroom"
+                ],
+                "indoor": false,
+                "area": "raleigh",
+                "hours": {
+                  "sun": "dawn to dusk",
+                  "mon": "dawn to dusk",
+                  "tue": "dawn to dusk",
+                  "wed": "dawn to dusk",
+                  "thu": "dawn to dusk",
+                  "fri": "dawn to dusk",
+                  "sat": "dawn to dusk"
+                },
+                "cost": "Free",
+                "note": "Free. 164 acres of trails, lawns and big outdoor art; the Capital Area Greenway runs through."
+              }
+            },
+            {
+              "ref": "place:sarah-p-duke-gardens",
+              "arrive": "09:15",
+              "leave": "11:30",
+              "why": "Follow the garden paths and visit the Charlotte Brody Discovery Garden.",
+              "tips": [
+                "Paid parking often fills before 10 am, so go early.",
+                "Bring a snack and water."
+              ],
+              "interests": [
+                "nature",
+                "science"
+              ],
+              "also": [],
+              "area": "durham",
+              "outdoor": true,
+              "source": {
+                "kind": "garden",
+                "title": "Sarah P. Duke Gardens",
+                "address": "420 Anderson St, Durham, NC 27708",
+                "lat": 36.0024,
+                "lon": -78.9328,
+                "url": "https://gardens.duke.edu/visit/",
+                "amenities": [
+                  "garden",
+                  "nature",
+                  "restroom"
+                ],
+                "indoor": false,
+                "area": "durham",
+                "hours": {
+                  "sun": "8 a.m. to sunset",
+                  "mon": "8 a.m. to sunset",
+                  "tue": "8 a.m. to sunset",
+                  "wed": "8 a.m. to sunset",
+                  "thu": "8 a.m. to sunset",
+                  "fri": "8 a.m. to sunset",
+                  "sat": "8 a.m. to sunset"
+                },
+                "cost": "Free",
+                "note": "Free; paid parking that often fills before 10 a.m. on nice days. Five miles of paths, and the Charlotte Brody Discovery Garden."
+              }
+            }
+          ],
+          "rainBackup": null,
+          "timeline": [
+            {
+              "start": "07:00",
+              "end": "07:30",
+              "kind": "meal",
+              "title": "Up and breakfast"
+            },
+            {
+              "start": "07:30",
+              "end": "09:25",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "09:25",
+              "end": "09:45",
+              "kind": "routine",
+              "title": "Get ready to go",
+              "detail": "Shoes on, diaper bag, water and a snack."
+            },
+            {
+              "start": "09:45",
+              "end": "10:05",
+              "kind": "travel",
+              "title": "Drive to East Regional Library"
+            },
+            {
+              "start": "10:05",
+              "end": "10:45",
+              "kind": "outing",
+              "title": "Special Event for Young Children: Family Yoga Time"
+            },
+            {
+              "start": "10:45",
+              "end": "10:55",
+              "kind": "travel",
+              "title": "Drive to Knightdale Station Park"
+            },
+            {
+              "start": "10:55",
+              "end": "11:45",
+              "kind": "outing",
+              "title": "Knightdale Station Park"
+            },
+            {
+              "start": "11:45",
+              "end": "12:05",
+              "kind": "travel",
+              "title": "Drive home"
+            },
+            {
+              "start": "12:05",
+              "end": "12:35",
+              "kind": "meal",
+              "title": "Lunch"
+            },
+            {
+              "start": "12:35",
+              "end": "13:00",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "13:00",
+              "end": "13:45",
+              "kind": "quiet",
+              "title": "Quiet time",
+              "detail": "Books or quiet play in their room."
+            },
+            {
+              "start": "13:45",
+              "end": "18:00",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "18:00",
+              "end": "18:45",
+              "kind": "meal",
+              "title": "Dinner"
+            },
+            {
+              "start": "18:45",
+              "end": "19:30",
+              "kind": "routine",
+              "title": "Bath, books and bed"
+            }
+          ]
+        },
+        {
+          "nap": "no-nap",
+          "napLabel": "No nap",
+          "headline": "Garden paths and a discovery garden to explore",
+          "main": {
+            "ref": "place:sarah-p-duke-gardens",
+            "arrive": "09:15",
+            "leave": "11:45",
+            "why": "Follow the garden paths and spend time in the Charlotte Brody Discovery Garden. There is plenty to find for a 4- or 5-year-old.",
+            "tips": [
+              "Paid parking often fills before 10 am, so arrive early.",
+              "Turn the walk into a hunt for something red, something spiky and something tiny.",
+              "Bring water and a snack for a bench break."
+            ],
+            "interests": [
+              "nature",
+              "science"
+            ],
+            "also": [],
+            "area": "durham",
+            "outdoor": true,
+            "source": {
+              "kind": "garden",
+              "title": "Sarah P. Duke Gardens",
+              "address": "420 Anderson St, Durham, NC 27708",
+              "lat": 36.0024,
+              "lon": -78.9328,
+              "url": "https://gardens.duke.edu/visit/",
+              "amenities": [
+                "garden",
+                "nature",
+                "restroom"
+              ],
+              "indoor": false,
+              "area": "durham",
+              "hours": {
+                "sun": "8 a.m. to sunset",
+                "mon": "8 a.m. to sunset",
+                "tue": "8 a.m. to sunset",
+                "wed": "8 a.m. to sunset",
+                "thu": "8 a.m. to sunset",
+                "fri": "8 a.m. to sunset",
+                "sat": "8 a.m. to sunset"
+              },
+              "cost": "Free",
+              "note": "Free; paid parking that often fills before 10 a.m. on nice days. Five miles of paths, and the Charlotte Brody Discovery Garden."
+            }
+          },
+          "alternatives": [
+            {
+              "ref": "place:pullen-park-amusements",
+              "arrive": "14:30",
+              "leave": "16:30",
+              "why": "Ride the carousel and the train, then play on the playground in the afternoon.",
+              "tips": [
+                "Let your child pick the first ride.",
+                "Bring a snack for a picnic shelter break."
+              ],
+              "interests": [
+                "vehicles",
+                "movement"
+              ],
+              "also": [],
+              "area": "raleigh",
+              "outdoor": true,
+              "source": {
+                "kind": "park",
+                "title": "Pullen Park Amusements",
+                "address": "410 Park Ave, Raleigh, NC 27606",
+                "lat": 35.7806,
+                "lon": -78.66396,
+                "url": "https://raleighnc.gov/parks-and-recreation/places/pullen-park-amusements",
+                "amenities": [
+                  "carousel",
+                  "boating",
+                  "train",
+                  "amusements",
+                  "courts",
+                  "playground",
+                  "picnic-shelter"
+                ],
+                "indoor": false,
+                "area": "raleigh",
+                "hours": {
+                  "mon": "10 a.m.–6 p.m.",
+                  "tue": "10 a.m.–6 p.m.",
+                  "wed": "10 a.m.–6 p.m.",
+                  "thu": "10 a.m.–6 p.m.",
+                  "fri": "10 a.m.–8 p.m.",
+                  "sat": "10 a.m.–8 p.m.",
+                  "sun": "10 a.m.–8 p.m."
+                },
+                "cost": null
+              }
+            },
+            {
+              "ref": "event:wake:24648",
+              "arrive": "09:50",
+              "leave": "12:00",
+              "why": "Touch A Truck at Wake Forest Community Library runs from 10:00 to 11:30 am. See the emergency vehicles up close, then play at Wake Forest Kiwanis Park.",
+              "tips": [
+                "Ask the workers one question each.",
+                "Bring a snack for the playground."
+              ],
+              "interests": [
+                "vehicles",
+                "movement"
+              ],
+              "also": [
+                {
+                  "ref": "place:wake-forest-kiwanis-park",
+                  "source": {
+                    "kind": "park",
+                    "title": "Wake Forest Kiwanis Park",
+                    "address": "404 E Holding Ave, Wake Forest, NC",
+                    "lat": 35.96949541581039,
+                    "lon": -78.50987455178895,
+                    "url": "https://www.wakeforestnc.gov/parks-recreation-cultural-resources/parks-facilities/kiwanis-park",
+                    "amenities": [
+                      "playground",
+                      "picnic-shelter"
+                    ],
+                    "indoor": false,
+                    "area": "north-raleigh",
+                    "hours": null,
+                    "cost": null
+                  }
+                }
+              ],
+              "area": "north-raleigh",
+              "outdoor": true,
+              "source": {
+                "kind": "event",
+                "title": "Touch A Truck!",
+                "start": "2026-11-13T10:00:00-05:00",
+                "end": "2026-11-13T11:30:00-05:00",
+                "venue": "Wake Forest Community Library",
+                "address": "400 E Holding Avenue, Wake Forest, NC",
+                "url": "https://www.wake.gov/events/touch-truck-4",
+                "cost": "Free",
+                "lat": 35.9699502750089,
+                "lon": -78.5102712176725,
+                "ages": "Young Children",
+                "registration": null,
+                "indoor": false,
+                "area": "north-raleigh",
+                "source": "wake-county",
+                "dropIn": false
+              }
+            },
+            {
+              "ref": "event:wake-parks:9361",
+              "arrive": "09:50",
+              "leave": "11:30",
+              "why": "Budding Sprouts at Beech Bluff County Park starts at 10:00 am with the story Leaves Go Crunch Crunch. A family needs to sign up first. Then the playground.",
+              "tips": [
+                "Sign up ahead and meet at the Harvest Hub.",
+                "Let your child crunch through leaves and look for garden creatures."
+              ],
+              "interests": [
+                "nature",
+                "stories"
+              ],
+              "also": [
+                {
+                  "ref": "place:beech-bluff-county-park",
+                  "source": {
+                    "kind": "park",
+                    "title": "Beech Bluff County Park",
+                    "address": "Beech Bluff Park Drive, Fuquay-Varina, NC",
+                    "lat": 35.58537279715877,
+                    "lon": -78.6793341971644,
+                    "url": "https://www.wake.gov/departments-government/parks-recreation-open-space/all-parks-trails/beech-bluff-county-park",
+                    "amenities": [
+                      "playground",
+                      "garden",
+                      "greenway",
+                      "restroom",
+                      "picnic-shelter"
+                    ],
+                    "indoor": false,
+                    "area": "south-wake",
+                    "hours": null,
+                    "cost": null
+                  }
+                }
+              ],
+              "area": "south-wake",
+              "outdoor": true,
+              "source": {
+                "kind": "event",
+                "title": "Budding Sprouts: Leave the Leaves",
+                "start": "2026-11-13T10:00:00",
+                "end": "2026-11-13T11:00:00",
+                "venue": "Beech Bluff County Park",
+                "address": "Beech Bluff Park Drive, Fuquay-Varina, NC",
+                "url": "https://apm.activecommunities.com/wakeparks/Activity_Search/budding-sprouts-leave-the-leaves/9361?locale=en-US",
+                "cost": "Free",
+                "lat": 35.58537279715877,
+                "lon": -78.6793341971644,
+                "ages": "At least 2 but less than 6",
+                "registration": "https://apm.activecommunities.com/wakeparks/Activity_Search/budding-sprouts-leave-the-leaves/9361?locale=en-US",
+                "indoor": false,
+                "area": "south-wake",
+                "source": "wake-parks",
+                "dropIn": false
+              }
+            },
+            {
+              "ref": "place:gipson-play-plaza",
+              "arrive": "10:25",
+              "leave": "12:00",
+              "why": "Start on the big playground at Dix Park, then join Little Explorers, a nature program for preschoolers, at 11:00 am.",
+              "tips": [
+                "Play hard first and snack before the program starts.",
+                "Tell your child the nature walk comes after the last slide."
+              ],
+              "interests": [
+                "nature",
+                "movement"
+              ],
+              "also": [
+                {
+                  "ref": "event:dix-park:/event/little-explorers:2026-11-13",
+                  "source": {
+                    "kind": "event",
+                    "title": "Little Explorers",
+                    "start": "2026-11-13T11:00:00",
+                    "end": "2026-11-13T12:00:00",
+                    "venue": "House of Many Porches Market, Dix Park",
+                    "address": "1030 Richardson Dr, Raleigh, NC 27603",
+                    "url": "https://dixpark.org/event/little-explorers",
+                    "cost": null,
+                    "lat": 35.7701,
+                    "lon": -78.6568,
+                    "ages": "Little Explorers Nature program for preschoolers",
+                    "registration": null,
+                    "indoor": false,
+                    "area": "raleigh",
+                    "source": "dix-park",
+                    "dropIn": false
+                  }
+                }
+              ],
+              "area": "raleigh",
+              "outdoor": true,
+              "source": {
+                "kind": "park",
+                "title": "Gipson Play Plaza at Dix Park",
+                "address": "715 Biggs Dr, Raleigh, NC 27603",
+                "lat": 35.7667,
+                "lon": -78.6539,
+                "url": "https://dixpark.org/gipson-play-plaza",
+                "amenities": [
+                  "playground",
+                  "restroom"
+                ],
+                "indoor": false,
+                "area": "raleigh",
+                "hours": {
+                  "sun": "8 a.m.–9 p.m.",
+                  "mon": "8 a.m.–9 p.m.",
+                  "tue": "8 a.m.–9 p.m.",
+                  "wed": "8 a.m.–9 p.m.",
+                  "thu": "8 a.m.–9 p.m.",
+                  "fri": "8 a.m.–9 p.m.",
+                  "sat": "8 a.m.–9 p.m."
+                },
+                "cost": "Free",
+                "note": "Free; free parking. Big destination playground on the south edge of Dix Park."
+              }
+            }
+          ],
+          "rainBackup": null,
+          "timeline": [
+            {
+              "start": "07:00",
+              "end": "07:30",
+              "kind": "meal",
+              "title": "Up and breakfast"
+            },
+            {
+              "start": "07:30",
+              "end": "08:35",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "08:35",
+              "end": "08:55",
+              "kind": "routine",
+              "title": "Get ready to go",
+              "detail": "Shoes on, diaper bag, water and a snack."
+            },
+            {
+              "start": "08:55",
+              "end": "09:15",
+              "kind": "travel",
+              "title": "Drive to Sarah P. Duke Gardens"
+            },
+            {
+              "start": "09:15",
+              "end": "11:45",
+              "kind": "outing",
+              "title": "Sarah P. Duke Gardens"
+            },
+            {
+              "start": "11:45",
+              "end": "12:05",
+              "kind": "travel",
+              "title": "Drive home"
+            },
+            {
+              "start": "12:05",
+              "end": "12:35",
+              "kind": "meal",
+              "title": "Lunch"
+            },
+            {
+              "start": "12:35",
+              "end": "18:00",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "18:00",
+              "end": "18:45",
+              "kind": "meal",
+              "title": "Dinner"
+            },
+            {
+              "start": "18:45",
+              "end": "19:30",
+              "kind": "routine",
+              "title": "Bath, books and bed"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "checked": {
+    "at": "2026-11-01T11:14:51.859Z",
+    "forecast": "none",
+    "weather": null,
+    "hidden": []
+  }
+}
