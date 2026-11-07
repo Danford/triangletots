@@ -1,0 +1,978 @@
+{
+  "date": "2026-11-15",
+  "band": "t1",
+  "versions": [
+    {
+      "at": "2026-11-03T11:06:45.313Z",
+      "reason": null,
+      "forecast": "none",
+      "weather": null,
+      "plans": [
+        {
+          "nap": "two-naps",
+          "napLabel": "Two naps",
+          "headline": "Sensory play and songs, then a Durham playground run",
+          "main": {
+            "ref": "event:weekly:mols-early-childhood:2026-11-15",
+            "arrive": "10:50",
+            "leave": "12:10",
+            "also": [
+              {
+                "ref": "place:rock-quarry-park",
+                "source": {
+                  "kind": "park",
+                  "title": "Rock Quarry Park",
+                  "address": "701 Stadium Dr, Durham, NC",
+                  "lat": 36.03166363636364,
+                  "lon": -78.90176545454545,
+                  "url": "https://www.dprplaymore.org/Facilities/Facility/Details/Rock-Quarry-Park-60",
+                  "amenities": [
+                    "playground",
+                    "splashpad",
+                    "restroom",
+                    "greenway"
+                  ],
+                  "indoor": false,
+                  "area": "durham",
+                  "hours": null,
+                  "cost": null
+                }
+              }
+            ],
+            "why": "Your toddler gets sensory play, songs and stories at the Early Childhood Drop-In at Hideaway Woods, then a run at Rock Quarry Park. It is a drop-in, so come and go as you like.",
+            "tips": [
+              "Sit on the floor next to your toddler and follow what they pick up.",
+              "Pack a snack for the short drive to the park, and leave the drop-in while they are still happy.",
+              "Say bye to the last song, then walk to the car with a toy in hand."
+            ],
+            "interests": [
+              "music",
+              "stories",
+              "movement"
+            ],
+            "area": "durham",
+            "outdoor": true,
+            "source": {
+              "kind": "event",
+              "title": "Early Childhood Drop-In",
+              "start": "2026-11-15T09:30:00",
+              "end": "2026-11-15T11:30:00",
+              "venue": "Hideaway Woods, Museum of Life and Science",
+              "address": "433 W Murray Ave, Durham, NC 27704",
+              "url": "https://www.lifeandscience.org/learn/drop-in-programs/",
+              "cost": "Included with museum admission",
+              "lat": 36.0294,
+              "lon": -78.8993,
+              "ages": "young children and their caregivers",
+              "registration": false,
+              "indoor": false,
+              "area": "durham",
+              "source": "weekly",
+              "dropIn": true
+            }
+          },
+          "alternatives": [
+            {
+              "ref": "event:museum:marbles:47972",
+              "arrive": "11:00",
+              "leave": "12:45",
+              "also": [
+                {
+                  "ref": "place:levelle-moton-park",
+                  "source": {
+                    "kind": "park",
+                    "title": "LeVelle Moton Park",
+                    "address": "920 E. Lane Street, Raleigh, NC 27601",
+                    "lat": 35.78316,
+                    "lon": -78.62606,
+                    "url": "https://raleighnc.gov/parks-and-recreation/places/levelle-moton-park",
+                    "amenities": [
+                      "picnic-shelter",
+                      "courts",
+                      "playground"
+                    ],
+                    "indoor": false,
+                    "area": "raleigh",
+                    "hours": null,
+                    "cost": null
+                  }
+                }
+              ],
+              "why": "Guest Star: Art at Marbles Kids Museum lets your toddler explore at their own pace, then LeVelle Moton Park lets them burn off energy on the playground.",
+              "tips": [
+                "Dress them in clothes that can get messy.",
+                "Offer a snack at the park, not in the museum, so the exit is easy."
+              ],
+              "interests": [
+                "art",
+                "movement"
+              ],
+              "area": "raleigh",
+              "outdoor": false,
+              "source": {
+                "kind": "event",
+                "title": "Guest Star: Art",
+                "start": "2026-11-15T11:00:00",
+                "end": "2026-11-15T14:00:00",
+                "venue": "Marbles Kids Museum",
+                "address": "201 E Hargett St, Raleigh, NC 27601",
+                "url": "https://marbleskidsmuseum.org/event/48798/",
+                "cost": null,
+                "lat": 35.7789,
+                "lon": -78.6361,
+                "ages": "Included with Admission Non-ticketed",
+                "registration": null,
+                "indoor": true,
+                "area": "raleigh",
+                "source": "museum",
+                "dropIn": true
+              }
+            },
+            {
+              "ref": "event:wake-parks:8358:2026-11-15",
+              "arrive": "11:00",
+              "leave": "12:30",
+              "also": [
+                {
+                  "ref": "place:beech-bluff-county-park",
+                  "source": {
+                    "kind": "park",
+                    "title": "Beech Bluff County Park",
+                    "address": "Beech Bluff Park Drive, Fuquay-Varina, NC",
+                    "lat": 35.58537279715877,
+                    "lon": -78.6793341971644,
+                    "url": "https://www.wake.gov/departments-government/parks-recreation-open-space/all-parks-trails/beech-bluff-county-park",
+                    "amenities": [
+                      "playground",
+                      "garden",
+                      "greenway",
+                      "restroom",
+                      "picnic-shelter"
+                    ],
+                    "indoor": false,
+                    "area": "south-wake",
+                    "hours": null,
+                    "cost": null
+                  }
+                }
+              ],
+              "why": "Your toddler can stroll the self-led StoryWalk at Beech Bluff County Park, then play at the park's playground. Come and go as you like.",
+              "tips": [
+                "Read each page aloud and let them point at the pictures.",
+                "Bring a small snack for the playground."
+              ],
+              "interests": [
+                "stories",
+                "nature",
+                "movement"
+              ],
+              "area": "south-wake",
+              "outdoor": true,
+              "source": {
+                "kind": "event",
+                "title": "Beech Bluff County Park StoryWalk® 2026 (Self-Led)",
+                "start": "2026-11-15T08:00:00",
+                "end": "2026-11-15T17:30:00",
+                "venue": "Beech Bluff County Park",
+                "address": "Beech Bluff Park Drive, Fuquay-Varina, NC",
+                "url": "https://apm.activecommunities.com/wakeparks/Activity_Search/beech-bluff-county-park-storywalk-2026-self-led/8358?locale=en-US",
+                "cost": "Free",
+                "lat": 35.58537279715877,
+                "lon": -78.6793341971644,
+                "ages": null,
+                "registration": false,
+                "indoor": false,
+                "area": "south-wake",
+                "source": "wake-parks",
+                "dropIn": true
+              }
+            },
+            {
+              "ref": "place:historic-oak-view-county-park",
+              "arrive": "11:00",
+              "leave": "12:30",
+              "also": [],
+              "why": "A slow morning at Historic Oak View County Park with the farm animals and garden to look at. Plenty of room to wander.",
+              "tips": [
+                "Bring a snack to eat before you leave.",
+                "Let your toddler lead the way and stop wherever they stop."
+              ],
+              "interests": [
+                "animals",
+                "nature"
+              ],
+              "area": "raleigh",
+              "outdoor": true,
+              "source": {
+                "kind": "park",
+                "title": "Historic Oak View County Park",
+                "address": "4028 Carya Dr., Raleigh, NC  27610",
+                "lat": 35.76980126731367,
+                "lon": -78.57063248179927,
+                "url": "https://www.wakegov.com/departments-government/parks-recreation-and-open-space/all-parks-trails/historic-oak-view-county-park",
+                "amenities": [
+                  "picnic-shelter",
+                  "restroom",
+                  "greenway",
+                  "animals",
+                  "garden"
+                ],
+                "indoor": false,
+                "area": "raleigh",
+                "hours": null,
+                "cost": null
+              }
+            }
+          ],
+          "rainBackup": null,
+          "timeline": [
+            {
+              "start": "07:00",
+              "end": "07:30",
+              "kind": "meal",
+              "title": "Up and breakfast"
+            },
+            {
+              "start": "07:30",
+              "end": "09:30",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "09:30",
+              "end": "10:30",
+              "kind": "nap",
+              "title": "Nap"
+            },
+            {
+              "start": "10:30",
+              "end": "10:50",
+              "kind": "travel",
+              "title": "Drive to Hideaway Woods, Museum of Life and Science"
+            },
+            {
+              "start": "10:50",
+              "end": "11:30",
+              "kind": "outing",
+              "title": "Early Childhood Drop-In",
+              "detail": "Pack a lunch to eat there."
+            },
+            {
+              "start": "11:30",
+              "end": "11:40",
+              "kind": "travel",
+              "title": "Drive to Rock Quarry Park"
+            },
+            {
+              "start": "11:40",
+              "end": "12:10",
+              "kind": "outing",
+              "title": "Rock Quarry Park"
+            },
+            {
+              "start": "12:10",
+              "end": "12:30",
+              "kind": "travel",
+              "title": "Drive home"
+            },
+            {
+              "start": "12:30",
+              "end": "14:30",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "14:30",
+              "end": "15:30",
+              "kind": "nap",
+              "title": "Nap"
+            },
+            {
+              "start": "15:30",
+              "end": "15:50",
+              "kind": "routine",
+              "title": "Up and a snack"
+            },
+            {
+              "start": "15:50",
+              "end": "17:30",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "17:30",
+              "end": "18:15",
+              "kind": "meal",
+              "title": "Dinner"
+            },
+            {
+              "start": "18:15",
+              "end": "19:00",
+              "kind": "routine",
+              "title": "Bath, books and bed"
+            }
+          ]
+        },
+        {
+          "nap": "early-nap",
+          "napLabel": "One nap, 12 to 2",
+          "headline": "Wander a nature park and play before nap",
+          "main": {
+            "ref": "place:blue-jay-point-county-park",
+            "arrive": "09:00",
+            "leave": "10:40",
+            "also": [],
+            "why": "Your toddler can toddle along the greenway and nature areas at Blue Jay Point County Park, then play on the playground.",
+            "tips": [
+              "Let them set the pace and pick up sticks and leaves along the way.",
+              "Bring a snack and eat it at a picnic shelter before the drive home.",
+              "Head to the car by 10:40 so they are fed and ready for a nap."
+            ],
+            "interests": [
+              "nature",
+              "movement"
+            ],
+            "area": "north-raleigh",
+            "outdoor": true,
+            "source": {
+              "kind": "park",
+              "title": "Blue Jay Point County Park",
+              "address": "3200 Pleasant Union Church Road, Raleigh, NC 27614",
+              "lat": 35.96762827199893,
+              "lon": -78.64454785104198,
+              "url": "https://www.wakegov.com/departments-government/parks-recreation-and-open-space/all-parks-trails/blue-jay-point-county-park",
+              "amenities": [
+                "playground",
+                "picnic-shelter",
+                "restroom",
+                "greenway",
+                "nature"
+              ],
+              "indoor": false,
+              "area": "north-raleigh",
+              "hours": null,
+              "cost": null
+            }
+          },
+          "alternatives": [
+            {
+              "ref": "place:apex-community-park",
+              "arrive": "14:25",
+              "leave": "16:00",
+              "also": [
+                {
+                  "ref": "event:wake:24403",
+                  "source": {
+                    "kind": "event",
+                    "title": "MTA:  Oil Painting",
+                    "start": "2026-11-15T15:00:00-05:00",
+                    "end": "2026-11-15T16:00:00-05:00",
+                    "venue": "Eva Perry Regional Library",
+                    "address": "2100 Shepherds Vineyard Drive, Apex, NC",
+                    "url": "https://www.wake.gov/events/mta-oil-painting",
+                    "cost": "Free",
+                    "lat": 35.7437832024768,
+                    "lon": -78.8251607833066,
+                    "ages": "All Ages",
+                    "registration": null,
+                    "indoor": true,
+                    "area": "cary-apex",
+                    "source": "wake-county",
+                    "dropIn": false
+                  }
+                }
+              ],
+              "why": "Your toddler plays at Apex Community Park, then watches a local artist paint live at Eva Perry Library during MTA: Oil Painting.",
+              "tips": [
+                "Let them look at the colors up close, from your arms.",
+                "Bring a snack for after the playground."
+              ],
+              "interests": [
+                "movement",
+                "art"
+              ],
+              "area": "cary-apex",
+              "outdoor": false,
+              "source": {
+                "kind": "park",
+                "title": "Apex Community Park",
+                "address": "2200 Laura Duncan Rd., Apex, NC",
+                "lat": 35.75461588131496,
+                "lon": -78.82862025650613,
+                "url": "http://www.apexnc.org/795/Apex-Community-Park",
+                "amenities": [
+                  "playground",
+                  "picnic-shelter",
+                  "restroom",
+                  "greenway"
+                ],
+                "indoor": false,
+                "area": "cary-apex",
+                "hours": null,
+                "cost": null
+              }
+            },
+            {
+              "ref": "place:northgate-park",
+              "arrive": "09:00",
+              "leave": "10:50",
+              "also": [
+                {
+                  "ref": "event:weekly:mols-early-childhood:2026-11-15",
+                  "source": {
+                    "kind": "event",
+                    "title": "Early Childhood Drop-In",
+                    "start": "2026-11-15T09:30:00",
+                    "end": "2026-11-15T11:30:00",
+                    "venue": "Hideaway Woods, Museum of Life and Science",
+                    "address": "433 W Murray Ave, Durham, NC 27704",
+                    "url": "https://www.lifeandscience.org/learn/drop-in-programs/",
+                    "cost": "Included with museum admission",
+                    "lat": 36.0294,
+                    "lon": -78.8993,
+                    "ages": "young children and their caregivers",
+                    "registration": false,
+                    "indoor": false,
+                    "area": "durham",
+                    "source": "weekly",
+                    "dropIn": true
+                  }
+                }
+              ],
+              "why": "Your toddler plays at Northgate Park, then joins the Early Childhood Drop-In at Hideaway Woods for sensory play, songs and stories. Drop in and leave when they are done.",
+              "tips": [
+                "Leave the park by 9:20 am to be there for the songs.",
+                "Head out while they are still smiling."
+              ],
+              "interests": [
+                "movement",
+                "music",
+                "stories"
+              ],
+              "area": "durham",
+              "outdoor": true,
+              "source": {
+                "kind": "park",
+                "title": "Northgate Park",
+                "address": "300 W Club Blvd, Durham, NC",
+                "lat": 36.02113714285714,
+                "lon": -78.89581,
+                "url": "https://www.dprplaymore.org/Facilities/Facility/Details/Northgate-Park-47",
+                "amenities": [
+                  "playground",
+                  "picnic-shelter",
+                  "restroom",
+                  "greenway"
+                ],
+                "indoor": false,
+                "area": "durham",
+                "hours": null,
+                "cost": null
+              }
+            },
+            {
+              "ref": "event:wake-parks:8358:2026-11-15",
+              "arrive": "09:00",
+              "leave": "10:30",
+              "also": [
+                {
+                  "ref": "place:beech-bluff-county-park",
+                  "source": {
+                    "kind": "park",
+                    "title": "Beech Bluff County Park",
+                    "address": "Beech Bluff Park Drive, Fuquay-Varina, NC",
+                    "lat": 35.58537279715877,
+                    "lon": -78.6793341971644,
+                    "url": "https://www.wake.gov/departments-government/parks-recreation-open-space/all-parks-trails/beech-bluff-county-park",
+                    "amenities": [
+                      "playground",
+                      "garden",
+                      "greenway",
+                      "restroom",
+                      "picnic-shelter"
+                    ],
+                    "indoor": false,
+                    "area": "south-wake",
+                    "hours": null,
+                    "cost": null
+                  }
+                }
+              ],
+              "why": "Your toddler can walk the self-led StoryWalk at Beech Bluff County Park, then play at the park's playground.",
+              "tips": [
+                "Read each page out loud and let them turn what they can.",
+                "Keep a snack in the bag for the playground."
+              ],
+              "interests": [
+                "stories",
+                "nature",
+                "movement"
+              ],
+              "area": "south-wake",
+              "outdoor": true,
+              "source": {
+                "kind": "event",
+                "title": "Beech Bluff County Park StoryWalk® 2026 (Self-Led)",
+                "start": "2026-11-15T08:00:00",
+                "end": "2026-11-15T17:30:00",
+                "venue": "Beech Bluff County Park",
+                "address": "Beech Bluff Park Drive, Fuquay-Varina, NC",
+                "url": "https://apm.activecommunities.com/wakeparks/Activity_Search/beech-bluff-county-park-storywalk-2026-self-led/8358?locale=en-US",
+                "cost": "Free",
+                "lat": 35.58537279715877,
+                "lon": -78.6793341971644,
+                "ages": null,
+                "registration": false,
+                "indoor": false,
+                "area": "south-wake",
+                "source": "wake-parks",
+                "dropIn": true
+              }
+            },
+            {
+              "ref": "place:historic-oak-view-county-park",
+              "arrive": "09:00",
+              "leave": "10:30",
+              "also": [],
+              "why": "A calm morning at Historic Oak View County Park, looking at the farm animals and walking the garden and greenway.",
+              "tips": [
+                "Point out each animal by name as you pass.",
+                "Offer a snack before you head to the car."
+              ],
+              "interests": [
+                "animals",
+                "nature"
+              ],
+              "area": "raleigh",
+              "outdoor": true,
+              "source": {
+                "kind": "park",
+                "title": "Historic Oak View County Park",
+                "address": "4028 Carya Dr., Raleigh, NC  27610",
+                "lat": 35.76980126731367,
+                "lon": -78.57063248179927,
+                "url": "https://www.wakegov.com/departments-government/parks-recreation-and-open-space/all-parks-trails/historic-oak-view-county-park",
+                "amenities": [
+                  "picnic-shelter",
+                  "restroom",
+                  "greenway",
+                  "animals",
+                  "garden"
+                ],
+                "indoor": false,
+                "area": "raleigh",
+                "hours": null,
+                "cost": null
+              }
+            }
+          ],
+          "rainBackup": null,
+          "timeline": [
+            {
+              "start": "07:00",
+              "end": "07:30",
+              "kind": "meal",
+              "title": "Up and breakfast"
+            },
+            {
+              "start": "07:30",
+              "end": "08:20",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "08:20",
+              "end": "08:40",
+              "kind": "routine",
+              "title": "Get ready to go",
+              "detail": "Shoes on, diaper bag, water and a snack."
+            },
+            {
+              "start": "08:40",
+              "end": "09:00",
+              "kind": "travel",
+              "title": "Drive to Blue Jay Point County Park"
+            },
+            {
+              "start": "09:00",
+              "end": "10:40",
+              "kind": "outing",
+              "title": "Blue Jay Point County Park"
+            },
+            {
+              "start": "10:40",
+              "end": "11:00",
+              "kind": "travel",
+              "title": "Drive home"
+            },
+            {
+              "start": "11:00",
+              "end": "11:15",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "11:15",
+              "end": "11:45",
+              "kind": "meal",
+              "title": "Lunch"
+            },
+            {
+              "start": "11:45",
+              "end": "12:00",
+              "kind": "quiet",
+              "title": "Wind down",
+              "detail": "A couple of books to settle."
+            },
+            {
+              "start": "12:00",
+              "end": "14:00",
+              "kind": "nap",
+              "title": "Nap"
+            },
+            {
+              "start": "14:00",
+              "end": "14:20",
+              "kind": "routine",
+              "title": "Up and a snack"
+            },
+            {
+              "start": "14:20",
+              "end": "17:30",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "17:30",
+              "end": "18:15",
+              "kind": "meal",
+              "title": "Dinner"
+            },
+            {
+              "start": "18:15",
+              "end": "19:00",
+              "kind": "routine",
+              "title": "Bath, books and bed"
+            }
+          ]
+        },
+        {
+          "nap": "late-nap",
+          "napLabel": "One nap, 1 to 3",
+          "headline": "Playground, then art and play at Marbles",
+          "main": {
+            "ref": "place:davie-street-park",
+            "arrive": "10:30",
+            "leave": "12:10",
+            "also": [
+              {
+                "ref": "event:museum:marbles:47972",
+                "source": {
+                  "kind": "event",
+                  "title": "Guest Star: Art",
+                  "start": "2026-11-15T11:00:00",
+                  "end": "2026-11-15T14:00:00",
+                  "venue": "Marbles Kids Museum",
+                  "address": "201 E Hargett St, Raleigh, NC 27601",
+                  "url": "https://marbleskidsmuseum.org/event/48798/",
+                  "cost": null,
+                  "lat": 35.7789,
+                  "lon": -78.6361,
+                  "ages": "Included with Admission Non-ticketed",
+                  "registration": null,
+                  "indoor": true,
+                  "area": "raleigh",
+                  "source": "museum",
+                  "dropIn": true
+                }
+              }
+            ],
+            "why": "Your toddler runs at Davie Street Park first, then explores Guest Star: Art at Marbles Kids Museum. It is a non-ticketed drop-in, so come and go as you like.",
+            "tips": [
+              "Let them burn off energy at the park before going inside.",
+              "Pack a snack and lunch for the car ride home.",
+              "Give a warning, then head out while they are still happy."
+            ],
+            "interests": [
+              "movement",
+              "art"
+            ],
+            "area": "raleigh",
+            "outdoor": false,
+            "source": {
+              "kind": "park",
+              "title": "Davie Street Park",
+              "address": "910 E. Davie Street, Raleigh, NC 27601",
+              "lat": 35.77497,
+              "lon": -78.62437,
+              "url": "https://raleighnc.gov/parks-and-recreation/places/davie-street-park",
+              "amenities": [
+                "playground",
+                "picnic-shelter",
+                "courts"
+              ],
+              "indoor": false,
+              "area": "raleigh",
+              "hours": null,
+              "cost": null
+            }
+          },
+          "alternatives": [
+            {
+              "ref": "event:wake:24403",
+              "arrive": "15:20",
+              "leave": "16:55",
+              "also": [
+                {
+                  "ref": "place:apex-community-park",
+                  "source": {
+                    "kind": "park",
+                    "title": "Apex Community Park",
+                    "address": "2200 Laura Duncan Rd., Apex, NC",
+                    "lat": 35.75461588131496,
+                    "lon": -78.82862025650613,
+                    "url": "http://www.apexnc.org/795/Apex-Community-Park",
+                    "amenities": [
+                      "playground",
+                      "picnic-shelter",
+                      "restroom",
+                      "greenway"
+                    ],
+                    "indoor": false,
+                    "area": "cary-apex",
+                    "hours": null,
+                    "cost": null
+                  }
+                }
+              ],
+              "why": "Your toddler sees a local artist paint live at MTA: Oil Painting at Eva Perry Library, then plays at Apex Community Park.",
+              "tips": [
+                "Hold them up to see the colors up close.",
+                "Bring a snack for the park."
+              ],
+              "interests": [
+                "art",
+                "movement"
+              ],
+              "area": "cary-apex",
+              "outdoor": false,
+              "source": {
+                "kind": "event",
+                "title": "MTA:  Oil Painting",
+                "start": "2026-11-15T15:00:00-05:00",
+                "end": "2026-11-15T16:00:00-05:00",
+                "venue": "Eva Perry Regional Library",
+                "address": "2100 Shepherds Vineyard Drive, Apex, NC",
+                "url": "https://www.wake.gov/events/mta-oil-painting",
+                "cost": "Free",
+                "lat": 35.7437832024768,
+                "lon": -78.8251607833066,
+                "ages": "All Ages",
+                "registration": null,
+                "indoor": true,
+                "area": "cary-apex",
+                "source": "wake-county",
+                "dropIn": false
+              }
+            },
+            {
+              "ref": "event:weekly:mols-early-childhood:2026-11-15",
+              "arrive": "09:30",
+              "leave": "11:15",
+              "also": [
+                {
+                  "ref": "place:northgate-park",
+                  "source": {
+                    "kind": "park",
+                    "title": "Northgate Park",
+                    "address": "300 W Club Blvd, Durham, NC",
+                    "lat": 36.02113714285714,
+                    "lon": -78.89581,
+                    "url": "https://www.dprplaymore.org/Facilities/Facility/Details/Northgate-Park-47",
+                    "amenities": [
+                      "playground",
+                      "picnic-shelter",
+                      "restroom",
+                      "greenway"
+                    ],
+                    "indoor": false,
+                    "area": "durham",
+                    "hours": null,
+                    "cost": null
+                  }
+                }
+              ],
+              "why": "Your toddler gets sensory play, songs and stories at the Early Childhood Drop-In at Hideaway Woods, then plays at Northgate Park. Drop in and leave when they are ready.",
+              "tips": [
+                "Sit on the floor next to them and follow their lead.",
+                "Keep a snack for the park."
+              ],
+              "interests": [
+                "music",
+                "stories",
+                "movement"
+              ],
+              "area": "durham",
+              "outdoor": true,
+              "source": {
+                "kind": "event",
+                "title": "Early Childhood Drop-In",
+                "start": "2026-11-15T09:30:00",
+                "end": "2026-11-15T11:30:00",
+                "venue": "Hideaway Woods, Museum of Life and Science",
+                "address": "433 W Murray Ave, Durham, NC 27704",
+                "url": "https://www.lifeandscience.org/learn/drop-in-programs/",
+                "cost": "Included with museum admission",
+                "lat": 36.0294,
+                "lon": -78.8993,
+                "ages": "young children and their caregivers",
+                "registration": false,
+                "indoor": false,
+                "area": "durham",
+                "source": "weekly",
+                "dropIn": true
+              }
+            },
+            {
+              "ref": "place:wendell-park",
+              "arrive": "09:00",
+              "leave": "10:30",
+              "also": [],
+              "why": "An easy morning at Wendell Park, with a playground and a greenway to wander.",
+              "tips": [
+                "Bring a snack to eat at a picnic shelter.",
+                "Walk the greenway for a while before the playground."
+              ],
+              "interests": [
+                "movement",
+                "nature"
+              ],
+              "area": "east-wake",
+              "outdoor": true,
+              "source": {
+                "kind": "park",
+                "title": "Wendell Park",
+                "address": "601 W. Third Street, Wendell, NC",
+                "lat": 35.78171909213524,
+                "lon": -78.37858290652449,
+                "url": "https://townofwendellnc.gov/departments/parks_and_recreation/facilities___rentals/index.php",
+                "amenities": [
+                  "playground",
+                  "picnic-shelter",
+                  "restroom",
+                  "greenway"
+                ],
+                "indoor": false,
+                "area": "east-wake",
+                "hours": null,
+                "cost": null
+              }
+            }
+          ],
+          "rainBackup": null,
+          "timeline": [
+            {
+              "start": "07:00",
+              "end": "07:30",
+              "kind": "meal",
+              "title": "Up and breakfast"
+            },
+            {
+              "start": "07:30",
+              "end": "09:50",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "09:50",
+              "end": "10:10",
+              "kind": "routine",
+              "title": "Get ready to go",
+              "detail": "Shoes on, diaper bag, water and a snack."
+            },
+            {
+              "start": "10:10",
+              "end": "10:30",
+              "kind": "travel",
+              "title": "Drive to Davie Street Park"
+            },
+            {
+              "start": "10:30",
+              "end": "10:50",
+              "kind": "outing",
+              "title": "Davie Street Park",
+              "detail": "Pack a lunch to eat there."
+            },
+            {
+              "start": "10:50",
+              "end": "11:00",
+              "kind": "travel",
+              "title": "Drive to Marbles Kids Museum"
+            },
+            {
+              "start": "11:00",
+              "end": "12:10",
+              "kind": "outing",
+              "title": "Guest Star: Art"
+            },
+            {
+              "start": "12:10",
+              "end": "12:30",
+              "kind": "travel",
+              "title": "Drive home"
+            },
+            {
+              "start": "12:30",
+              "end": "12:45",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "12:45",
+              "end": "13:00",
+              "kind": "quiet",
+              "title": "Wind down",
+              "detail": "A couple of books to settle."
+            },
+            {
+              "start": "13:00",
+              "end": "15:00",
+              "kind": "nap",
+              "title": "Nap"
+            },
+            {
+              "start": "15:00",
+              "end": "15:20",
+              "kind": "routine",
+              "title": "Up and a snack"
+            },
+            {
+              "start": "15:20",
+              "end": "18:00",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "18:00",
+              "end": "18:45",
+              "kind": "meal",
+              "title": "Dinner"
+            },
+            {
+              "start": "18:45",
+              "end": "19:30",
+              "kind": "routine",
+              "title": "Bath, books and bed"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "checked": {
+    "at": "2026-11-07T11:04:04.151Z",
+    "forecast": "none",
+    "weather": null,
+    "hidden": []
+  }
+}

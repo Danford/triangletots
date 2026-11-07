@@ -1,0 +1,1155 @@
+{
+  "date": "2026-11-10",
+  "band": "t2",
+  "versions": [
+    {
+      "at": "2026-11-06T20:46:03.694Z",
+      "reason": null,
+      "forecast": "nws",
+      "weather": {
+        "period": "Tuesday",
+        "tempF": 72,
+        "precipProbability": 0,
+        "shortForecast": "Sunny",
+        "hours": [
+          {
+            "t": "05:00",
+            "tempF": 44,
+            "pop": 0
+          },
+          {
+            "t": "06:00",
+            "tempF": 43,
+            "pop": 0
+          },
+          {
+            "t": "07:00",
+            "tempF": 44,
+            "pop": 0
+          },
+          {
+            "t": "08:00",
+            "tempF": 48,
+            "pop": 0
+          },
+          {
+            "t": "09:00",
+            "tempF": 53,
+            "pop": 0
+          },
+          {
+            "t": "10:00",
+            "tempF": 59,
+            "pop": 0
+          },
+          {
+            "t": "11:00",
+            "tempF": 64,
+            "pop": 0
+          },
+          {
+            "t": "12:00",
+            "tempF": 67,
+            "pop": 0
+          },
+          {
+            "t": "13:00",
+            "tempF": 70,
+            "pop": 0
+          },
+          {
+            "t": "14:00",
+            "tempF": 72,
+            "pop": 0
+          },
+          {
+            "t": "15:00",
+            "tempF": 72,
+            "pop": 0
+          },
+          {
+            "t": "16:00",
+            "tempF": 71,
+            "pop": 0
+          },
+          {
+            "t": "17:00",
+            "tempF": 68,
+            "pop": 0
+          },
+          {
+            "t": "18:00",
+            "tempF": 64,
+            "pop": 0
+          },
+          {
+            "t": "19:00",
+            "tempF": 60,
+            "pop": 0
+          },
+          {
+            "t": "20:00",
+            "tempF": 57,
+            "pop": 0
+          },
+          {
+            "t": "21:00",
+            "tempF": 55,
+            "pop": 0
+          },
+          {
+            "t": "22:00",
+            "tempF": 54,
+            "pop": 0
+          },
+          {
+            "t": "23:00",
+            "tempF": 53,
+            "pop": 0
+          }
+        ]
+      },
+      "plans": [
+        {
+          "nap": "early-nap",
+          "napLabel": "One nap, 12 to 2",
+          "headline": "Explore the woods and playground at Harris Lake",
+          "main": {
+            "ref": "place:harris-lake-county-park",
+            "arrive": "09:30",
+            "leave": "11:15",
+            "why": "Harris Lake County Park has nature to explore, a playground and a greenway. Your 2-year-old can walk, look for leaves and then climb.",
+            "tips": [
+              "Start with a short walk, then go to the playground.",
+              "Bring a snack and eat at the picnic shelter.",
+              "Say the slide is the last stop, then walk to the car."
+            ],
+            "interests": [
+              "nature",
+              "movement"
+            ],
+            "also": [],
+            "area": "south-wake",
+            "outdoor": true,
+            "source": {
+              "kind": "park",
+              "title": "Harris Lake County Park",
+              "address": "2112 County Park Dr., New Hill, NC  27562",
+              "lat": 35.63024208800726,
+              "lon": -78.91757987745865,
+              "url": "https://www.wakegov.com/departments-government/parks-recreation-and-open-space/all-parks-trails/harris-lake-county-park",
+              "amenities": [
+                "playground",
+                "picnic-shelter",
+                "restroom",
+                "greenway",
+                "nature"
+              ],
+              "indoor": false,
+              "area": "south-wake",
+              "hours": null,
+              "cost": null
+            }
+          },
+          "alternatives": [
+            {
+              "ref": "event:raleigh:lake-lynn-loop-trail-kick",
+              "also": [
+                {
+                  "ref": "place:lake-lynn-park",
+                  "source": {
+                    "kind": "park",
+                    "title": "Lake Lynn Park",
+                    "address": "7921 Ray Rd, Raleigh, NC 27613",
+                    "lat": 35.8881,
+                    "lon": -78.69884,
+                    "url": "https://raleighnc.gov/parks-and-recreation/places/lake-lynn-park",
+                    "amenities": [
+                      "community-center",
+                      "picnic-shelter",
+                      "courts",
+                      "fields",
+                      "playground"
+                    ],
+                    "indoor": false,
+                    "area": "north-raleigh",
+                    "hours": null,
+                    "cost": null
+                  }
+                }
+              ],
+              "arrive": "14:50",
+              "leave": "16:30",
+              "why": "Join the free Lake Lynn Loop Trail Kick-off after nap. Then play on the Lake Lynn Park playground.",
+              "tips": [
+                "Bring a snack for after the kick-off.",
+                "Let your child walk part of the way on their own.",
+                "Say the playground is next, then head to the car at 4:30 pm."
+              ],
+              "interests": [
+                "movement",
+                "nature"
+              ],
+              "area": "north-raleigh",
+              "outdoor": true,
+              "source": {
+                "kind": "event",
+                "title": "Lake Lynn Loop Trail Kick-off",
+                "start": "2026-11-10T15:00:00",
+                "end": "2026-11-10T16:00:00",
+                "venue": "Lake Lynn Loop",
+                "address": "7921 Ray Rd, Raleigh, NC 27613",
+                "url": "https://raleighnc.gov/parks-and-recreation/events/lake-lynn-loop-trail-kick",
+                "cost": "Free",
+                "lat": 35.8881,
+                "lon": -78.69884,
+                "ages": "All",
+                "registration": null,
+                "indoor": false,
+                "area": "north-raleigh",
+                "source": "raleigh",
+                "dropIn": false
+              }
+            },
+            {
+              "ref": "place:museum-of-life-and-science",
+              "arrive": "10:00",
+              "leave": "11:20",
+              "why": "The outside areas include Hideaway Woods treehouses and creek, the farmyard, the train ride and the Dinosaur Trail.",
+              "tips": [
+                "Tickets are free for children under 3, per the museum's ticket info.",
+                "Start with the farmyard and save the Dinosaur Trail for last.",
+                "Bring a snack for a break before you leave."
+              ],
+              "interests": [
+                "animals",
+                "dinosaurs",
+                "nature"
+              ],
+              "also": [],
+              "area": "durham",
+              "outdoor": true,
+              "source": {
+                "kind": "museum",
+                "title": "Museum of Life and Science",
+                "address": "433 W Murray Ave, Durham, NC 27704",
+                "lat": 36.0294,
+                "lon": -78.8993,
+                "url": "https://www.lifeandscience.org/visit/",
+                "amenities": [
+                  "nature",
+                  "animals",
+                  "train",
+                  "playground",
+                  "restroom"
+                ],
+                "indoor": false,
+                "area": "durham",
+                "cost": "$24 adults, $19 ages 3–15, under 3 free",
+                "note": "Tickets: $24 adults, $19 ages 3–15, under 3 free. Hideaway Woods treehouses and creek, farmyard, train ride and Dinosaur Trail are outside."
+              }
+            },
+            {
+              "ref": "place:pullen-park-amusements",
+              "arrive": "14:30",
+              "leave": "16:30",
+              "why": "After nap, ride the carousel and the train, then play on the playground.",
+              "tips": [
+                "Pick one ride first and save the other as a treat.",
+                "Bring a snack for a break at the picnic shelter.",
+                "Call the last ride the last one before you head to the car."
+              ],
+              "interests": [
+                "vehicles",
+                "movement"
+              ],
+              "also": [],
+              "area": "raleigh",
+              "outdoor": true,
+              "source": {
+                "kind": "park",
+                "title": "Pullen Park Amusements",
+                "address": "410 Park Ave, Raleigh, NC 27606",
+                "lat": 35.7806,
+                "lon": -78.66396,
+                "url": "https://raleighnc.gov/parks-and-recreation/places/pullen-park-amusements",
+                "amenities": [
+                  "carousel",
+                  "boating",
+                  "train",
+                  "amusements",
+                  "courts",
+                  "playground",
+                  "picnic-shelter"
+                ],
+                "indoor": false,
+                "area": "raleigh",
+                "hours": {
+                  "mon": "10 a.m.–6 p.m.",
+                  "tue": "10 a.m.–6 p.m.",
+                  "wed": "10 a.m.–6 p.m.",
+                  "thu": "10 a.m.–6 p.m.",
+                  "fri": "10 a.m.–8 p.m.",
+                  "sat": "10 a.m.–8 p.m.",
+                  "sun": "10 a.m.–8 p.m."
+                },
+                "cost": null
+              }
+            }
+          ],
+          "rainBackup": null,
+          "timeline": [
+            {
+              "start": "07:00",
+              "end": "07:30",
+              "kind": "meal",
+              "title": "Up and breakfast"
+            },
+            {
+              "start": "07:30",
+              "end": "08:50",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "08:50",
+              "end": "09:10",
+              "kind": "routine",
+              "title": "Get ready to go",
+              "detail": "Shoes on, diaper bag, water and a snack."
+            },
+            {
+              "start": "09:10",
+              "end": "09:30",
+              "kind": "travel",
+              "title": "Drive to Harris Lake County Park"
+            },
+            {
+              "start": "09:30",
+              "end": "11:15",
+              "kind": "outing",
+              "title": "Harris Lake County Park"
+            },
+            {
+              "start": "11:15",
+              "end": "11:35",
+              "kind": "travel",
+              "title": "Drive home"
+            },
+            {
+              "start": "11:35",
+              "end": "12:00",
+              "kind": "meal",
+              "title": "Lunch"
+            },
+            {
+              "start": "12:00",
+              "end": "14:00",
+              "kind": "nap",
+              "title": "Nap"
+            },
+            {
+              "start": "14:00",
+              "end": "14:20",
+              "kind": "routine",
+              "title": "Up and a snack"
+            },
+            {
+              "start": "14:20",
+              "end": "18:00",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "18:00",
+              "end": "18:45",
+              "kind": "meal",
+              "title": "Dinner"
+            },
+            {
+              "start": "18:45",
+              "end": "19:30",
+              "kind": "routine",
+              "title": "Bath, books and bed"
+            }
+          ]
+        },
+        {
+          "nap": "late-nap",
+          "napLabel": "One nap, 1 to 3",
+          "headline": "Walk the forest greenway and snack at the shelter",
+          "main": {
+            "ref": "place:clemmons-educational-state-forest",
+            "arrive": "09:30",
+            "leave": "11:30",
+            "why": "Your 2-year-old can walk the greenway through the forest at their own pace, then have a snack at the picnic shelter.",
+            "tips": [
+              "Let your child set the pace and stop to look at leaves and sticks.",
+              "Bring a snack for the picnic shelter.",
+              "Pick a turnaround spot early so the walk back is calm."
+            ],
+            "interests": [
+              "nature",
+              "movement"
+            ],
+            "also": [],
+            "area": "east-wake",
+            "outdoor": true,
+            "source": {
+              "kind": "park",
+              "title": "Clemmons Educational State Forest",
+              "address": "2256 Old U.S. Hwy 70, Clayton, NC",
+              "lat": 35.674152072557575,
+              "lon": -78.48905206181357,
+              "url": "https://www.ncesf.org/clemmons.html",
+              "amenities": [
+                "picnic-shelter",
+                "restroom",
+                "greenway"
+              ],
+              "indoor": false,
+              "area": "east-wake",
+              "hours": null,
+              "cost": null
+            }
+          },
+          "alternatives": [
+            {
+              "ref": "place:harris-lake-county-park",
+              "arrive": "09:30",
+              "leave": "11:30",
+              "why": "Harris Lake County Park has nature to explore, a playground and a greenway for your 2-year-old.",
+              "tips": [
+                "Start with a short walk, then go to the playground.",
+                "Bring a snack and eat at the picnic shelter.",
+                "Say the slide is the last stop, then walk to the car."
+              ],
+              "interests": [
+                "nature",
+                "movement"
+              ],
+              "also": [],
+              "area": "south-wake",
+              "outdoor": true,
+              "source": {
+                "kind": "park",
+                "title": "Harris Lake County Park",
+                "address": "2112 County Park Dr., New Hill, NC  27562",
+                "lat": 35.63024208800726,
+                "lon": -78.91757987745865,
+                "url": "https://www.wakegov.com/departments-government/parks-recreation-and-open-space/all-parks-trails/harris-lake-county-park",
+                "amenities": [
+                  "playground",
+                  "picnic-shelter",
+                  "restroom",
+                  "greenway",
+                  "nature"
+                ],
+                "indoor": false,
+                "area": "south-wake",
+                "hours": null,
+                "cost": null
+              }
+            },
+            {
+              "ref": "place:museum-of-life-and-science",
+              "arrive": "10:00",
+              "leave": "12:00",
+              "why": "The outside areas include Hideaway Woods treehouses and creek, the farmyard, the train ride and the Dinosaur Trail.",
+              "tips": [
+                "Tickets are free for children under 3, per the museum's ticket info.",
+                "Start with the farmyard and save the Dinosaur Trail for last.",
+                "Bring a snack for a break before you leave."
+              ],
+              "interests": [
+                "animals",
+                "dinosaurs",
+                "nature"
+              ],
+              "also": [],
+              "area": "durham",
+              "outdoor": true,
+              "source": {
+                "kind": "museum",
+                "title": "Museum of Life and Science",
+                "address": "433 W Murray Ave, Durham, NC 27704",
+                "lat": 36.0294,
+                "lon": -78.8993,
+                "url": "https://www.lifeandscience.org/visit/",
+                "amenities": [
+                  "nature",
+                  "animals",
+                  "train",
+                  "playground",
+                  "restroom"
+                ],
+                "indoor": false,
+                "area": "durham",
+                "cost": "$24 adults, $19 ages 3–15, under 3 free",
+                "note": "Tickets: $24 adults, $19 ages 3–15, under 3 free. Hideaway Woods treehouses and creek, farmyard, train ride and Dinosaur Trail are outside."
+              }
+            },
+            {
+              "ref": "event:wake-parks:8358:2026-11-10",
+              "also": [
+                {
+                  "ref": "place:beech-bluff-county-park",
+                  "source": {
+                    "kind": "park",
+                    "title": "Beech Bluff County Park",
+                    "address": "Beech Bluff Park Drive, Fuquay-Varina, NC",
+                    "lat": 35.58537279715877,
+                    "lon": -78.6793341971644,
+                    "url": "https://www.wake.gov/departments-government/parks-recreation-open-space/all-parks-trails/beech-bluff-county-park",
+                    "amenities": [
+                      "playground",
+                      "garden",
+                      "greenway",
+                      "restroom",
+                      "picnic-shelter"
+                    ],
+                    "indoor": false,
+                    "area": "south-wake",
+                    "hours": null,
+                    "cost": null
+                  }
+                }
+              ],
+              "arrive": "09:00",
+              "leave": "11:00",
+              "why": "Follow the StoryWalk along the Educational Loop, reading a page at each stop. Then play at the park playground.",
+              "tips": [
+                "Let your child lead the way to the next page.",
+                "Bring a snack for the playground.",
+                "Read the last page together, then say it is time for the car."
+              ],
+              "interests": [
+                "stories",
+                "nature",
+                "movement"
+              ],
+              "area": "south-wake",
+              "outdoor": true,
+              "source": {
+                "kind": "event",
+                "title": "Beech Bluff County Park StoryWalk® 2026 (Self-Led)",
+                "start": "2026-11-10T08:00:00",
+                "end": "2026-11-10T17:30:00",
+                "venue": "Beech Bluff County Park",
+                "address": "Beech Bluff Park Drive, Fuquay-Varina, NC",
+                "url": "https://apm.activecommunities.com/wakeparks/Activity_Search/beech-bluff-county-park-storywalk-2026-self-led/8358?locale=en-US",
+                "cost": "Free",
+                "lat": 35.58537279715877,
+                "lon": -78.6793341971644,
+                "ages": null,
+                "registration": false,
+                "indoor": false,
+                "area": "south-wake",
+                "source": "wake-parks",
+                "dropIn": true
+              }
+            },
+            {
+              "ref": "place:pullen-park-amusements",
+              "arrive": "15:20",
+              "leave": "17:00",
+              "why": "After nap, ride the carousel and the train, then play on the playground.",
+              "tips": [
+                "Pick one ride first and save the other as a treat.",
+                "Bring a snack for a break at the picnic shelter.",
+                "Call the last ride the last one before you head to the car."
+              ],
+              "interests": [
+                "vehicles",
+                "movement"
+              ],
+              "also": [],
+              "area": "raleigh",
+              "outdoor": true,
+              "source": {
+                "kind": "park",
+                "title": "Pullen Park Amusements",
+                "address": "410 Park Ave, Raleigh, NC 27606",
+                "lat": 35.7806,
+                "lon": -78.66396,
+                "url": "https://raleighnc.gov/parks-and-recreation/places/pullen-park-amusements",
+                "amenities": [
+                  "carousel",
+                  "boating",
+                  "train",
+                  "amusements",
+                  "courts",
+                  "playground",
+                  "picnic-shelter"
+                ],
+                "indoor": false,
+                "area": "raleigh",
+                "hours": {
+                  "mon": "10 a.m.–6 p.m.",
+                  "tue": "10 a.m.–6 p.m.",
+                  "wed": "10 a.m.–6 p.m.",
+                  "thu": "10 a.m.–6 p.m.",
+                  "fri": "10 a.m.–8 p.m.",
+                  "sat": "10 a.m.–8 p.m.",
+                  "sun": "10 a.m.–8 p.m."
+                },
+                "cost": null
+              }
+            }
+          ],
+          "rainBackup": null,
+          "timeline": [
+            {
+              "start": "07:00",
+              "end": "07:30",
+              "kind": "meal",
+              "title": "Up and breakfast"
+            },
+            {
+              "start": "07:30",
+              "end": "08:50",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "08:50",
+              "end": "09:10",
+              "kind": "routine",
+              "title": "Get ready to go",
+              "detail": "Shoes on, diaper bag, water and a snack."
+            },
+            {
+              "start": "09:10",
+              "end": "09:30",
+              "kind": "travel",
+              "title": "Drive to Clemmons Educational State Forest"
+            },
+            {
+              "start": "09:30",
+              "end": "11:30",
+              "kind": "outing",
+              "title": "Clemmons Educational State Forest"
+            },
+            {
+              "start": "11:30",
+              "end": "11:50",
+              "kind": "travel",
+              "title": "Drive home"
+            },
+            {
+              "start": "11:50",
+              "end": "12:15",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "12:15",
+              "end": "12:45",
+              "kind": "meal",
+              "title": "Lunch"
+            },
+            {
+              "start": "12:45",
+              "end": "13:00",
+              "kind": "quiet",
+              "title": "Wind down",
+              "detail": "A couple of books to settle."
+            },
+            {
+              "start": "13:00",
+              "end": "15:00",
+              "kind": "nap",
+              "title": "Nap"
+            },
+            {
+              "start": "15:00",
+              "end": "15:20",
+              "kind": "routine",
+              "title": "Up and a snack"
+            },
+            {
+              "start": "15:20",
+              "end": "18:30",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "18:30",
+              "end": "19:15",
+              "kind": "meal",
+              "title": "Dinner"
+            },
+            {
+              "start": "19:15",
+              "end": "20:00",
+              "kind": "routine",
+              "title": "Bath, books and bed"
+            }
+          ]
+        },
+        {
+          "nap": "short-nap",
+          "napLabel": "Short nap, 1 to 2",
+          "headline": "Join a trail kick-off, then play at the park",
+          "main": {
+            "ref": "event:raleigh:lake-lynn-loop-trail-kick",
+            "also": [
+              {
+                "ref": "place:lake-lynn-park",
+                "source": {
+                  "kind": "park",
+                  "title": "Lake Lynn Park",
+                  "address": "7921 Ray Rd, Raleigh, NC 27613",
+                  "lat": 35.8881,
+                  "lon": -78.69884,
+                  "url": "https://raleighnc.gov/parks-and-recreation/places/lake-lynn-park",
+                  "amenities": [
+                    "community-center",
+                    "picnic-shelter",
+                    "courts",
+                    "fields",
+                    "playground"
+                  ],
+                  "indoor": false,
+                  "area": "north-raleigh",
+                  "hours": null,
+                  "cost": null
+                }
+              }
+            ],
+            "arrive": "14:50",
+            "leave": "16:30",
+            "why": "Join the free Lake Lynn Loop Trail Kick-off after nap, with room to walk and look around. Then your 2-year-old can play on the Lake Lynn Park playground.",
+            "tips": [
+              "Bring a snack for after the kick-off.",
+              "Let your child walk part of the way on their own.",
+              "Say the playground is next, then head to the car at 4:30 pm."
+            ],
+            "interests": [
+              "movement",
+              "nature"
+            ],
+            "area": "north-raleigh",
+            "outdoor": true,
+            "source": {
+              "kind": "event",
+              "title": "Lake Lynn Loop Trail Kick-off",
+              "start": "2026-11-10T15:00:00",
+              "end": "2026-11-10T16:00:00",
+              "venue": "Lake Lynn Loop",
+              "address": "7921 Ray Rd, Raleigh, NC 27613",
+              "url": "https://raleighnc.gov/parks-and-recreation/events/lake-lynn-loop-trail-kick",
+              "cost": "Free",
+              "lat": 35.8881,
+              "lon": -78.69884,
+              "ages": "All",
+              "registration": null,
+              "indoor": false,
+              "area": "north-raleigh",
+              "source": "raleigh",
+              "dropIn": false
+            }
+          },
+          "alternatives": [
+            {
+              "ref": "place:harris-lake-county-park",
+              "arrive": "09:30",
+              "leave": "11:30",
+              "why": "Harris Lake County Park has nature to explore, a playground and a greenway for your 2-year-old.",
+              "tips": [
+                "Start with a short walk, then go to the playground.",
+                "Bring a snack and eat at the picnic shelter.",
+                "Say the slide is the last stop, then walk to the car."
+              ],
+              "interests": [
+                "nature",
+                "movement"
+              ],
+              "also": [],
+              "area": "south-wake",
+              "outdoor": true,
+              "source": {
+                "kind": "park",
+                "title": "Harris Lake County Park",
+                "address": "2112 County Park Dr., New Hill, NC  27562",
+                "lat": 35.63024208800726,
+                "lon": -78.91757987745865,
+                "url": "https://www.wakegov.com/departments-government/parks-recreation-and-open-space/all-parks-trails/harris-lake-county-park",
+                "amenities": [
+                  "playground",
+                  "picnic-shelter",
+                  "restroom",
+                  "greenway",
+                  "nature"
+                ],
+                "indoor": false,
+                "area": "south-wake",
+                "hours": null,
+                "cost": null
+              }
+            },
+            {
+              "ref": "place:museum-of-life-and-science",
+              "arrive": "10:00",
+              "leave": "12:00",
+              "why": "The outside areas include Hideaway Woods treehouses and creek, the farmyard, the train ride and the Dinosaur Trail.",
+              "tips": [
+                "Tickets are free for children under 3, per the museum's ticket info.",
+                "Start with the farmyard and save the Dinosaur Trail for last.",
+                "Bring a snack for a break before you leave."
+              ],
+              "interests": [
+                "animals",
+                "dinosaurs",
+                "nature"
+              ],
+              "also": [],
+              "area": "durham",
+              "outdoor": true,
+              "source": {
+                "kind": "museum",
+                "title": "Museum of Life and Science",
+                "address": "433 W Murray Ave, Durham, NC 27704",
+                "lat": 36.0294,
+                "lon": -78.8993,
+                "url": "https://www.lifeandscience.org/visit/",
+                "amenities": [
+                  "nature",
+                  "animals",
+                  "train",
+                  "playground",
+                  "restroom"
+                ],
+                "indoor": false,
+                "area": "durham",
+                "cost": "$24 adults, $19 ages 3–15, under 3 free",
+                "note": "Tickets: $24 adults, $19 ages 3–15, under 3 free. Hideaway Woods treehouses and creek, farmyard, train ride and Dinosaur Trail are outside."
+              }
+            },
+            {
+              "ref": "event:libcal:durham-county-library:16966195",
+              "also": [
+                {
+                  "ref": "place:optimist-park",
+                  "source": {
+                    "kind": "park",
+                    "title": "Optimist Park",
+                    "address": "5900 Whittier Dr, Raleigh, NC 27609",
+                    "lat": 35.86353,
+                    "lon": -78.64661,
+                    "url": "https://raleighnc.gov/parks-and-recreation/places/optimist-park",
+                    "amenities": [
+                      "community-center",
+                      "pool",
+                      "nature",
+                      "courts",
+                      "fields",
+                      "playground"
+                    ],
+                    "indoor": false,
+                    "area": "north-raleigh",
+                    "hours": null,
+                    "cost": null
+                  }
+                }
+              ],
+              "arrive": "10:20",
+              "leave": "11:50",
+              "why": "Playtime with Ms. Chelsea has songs, bubbles and building blocks at North Regional Library. Then run around at Optimist Park.",
+              "tips": [
+                "Bring a snack for the park.",
+                "Let your child pick the blocks to build with.",
+                "Tell your child the playground comes after the blocks."
+              ],
+              "interests": [
+                "music",
+                "movement"
+              ],
+              "area": "durham",
+              "outdoor": false,
+              "source": {
+                "kind": "event",
+                "title": "Playtime with Ms. Chelsea",
+                "start": "2026-11-10T10:30:00",
+                "end": "2026-11-10T11:00:00",
+                "venue": "North Regional Library",
+                "address": "221 Milton Rd, Durham, NC",
+                "url": "https://durhamcountylibrary.libcal.com/event/16966195",
+                "cost": "Free",
+                "lat": 35.880907380619,
+                "lon": -78.6281516610688,
+                "ages": "Kindergarten, Pre-School, Toddler",
+                "registration": false,
+                "indoor": true,
+                "area": "durham",
+                "source": "libcal",
+                "dropIn": false
+              }
+            },
+            {
+              "ref": "place:clemmons-educational-state-forest",
+              "arrive": "09:30",
+              "leave": "11:30",
+              "why": "Your 2-year-old can walk the greenway through the forest at their own pace, then have a snack at the picnic shelter.",
+              "tips": [
+                "Let your child set the pace and stop to look at leaves and sticks.",
+                "Bring a snack for the picnic shelter.",
+                "Pick a turnaround spot early so the walk back is calm."
+              ],
+              "interests": [
+                "nature",
+                "movement"
+              ],
+              "also": [],
+              "area": "east-wake",
+              "outdoor": true,
+              "source": {
+                "kind": "park",
+                "title": "Clemmons Educational State Forest",
+                "address": "2256 Old U.S. Hwy 70, Clayton, NC",
+                "lat": 35.674152072557575,
+                "lon": -78.48905206181357,
+                "url": "https://www.ncesf.org/clemmons.html",
+                "amenities": [
+                  "picnic-shelter",
+                  "restroom",
+                  "greenway"
+                ],
+                "indoor": false,
+                "area": "east-wake",
+                "hours": null,
+                "cost": null
+              }
+            }
+          ],
+          "rainBackup": null,
+          "timeline": [
+            {
+              "start": "07:00",
+              "end": "07:30",
+              "kind": "meal",
+              "title": "Up and breakfast"
+            },
+            {
+              "start": "07:30",
+              "end": "12:15",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "12:15",
+              "end": "12:45",
+              "kind": "meal",
+              "title": "Lunch"
+            },
+            {
+              "start": "12:45",
+              "end": "13:00",
+              "kind": "quiet",
+              "title": "Wind down",
+              "detail": "A couple of books to settle."
+            },
+            {
+              "start": "13:00",
+              "end": "14:00",
+              "kind": "nap",
+              "title": "Nap"
+            },
+            {
+              "start": "14:00",
+              "end": "14:20",
+              "kind": "routine",
+              "title": "Up and a snack"
+            },
+            {
+              "start": "14:20",
+              "end": "14:30",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "14:30",
+              "end": "14:50",
+              "kind": "travel",
+              "title": "Drive to Lake Lynn Loop"
+            },
+            {
+              "start": "14:50",
+              "end": "16:00",
+              "kind": "outing",
+              "title": "Lake Lynn Loop Trail Kick-off"
+            },
+            {
+              "start": "16:00",
+              "end": "16:10",
+              "kind": "travel",
+              "title": "Drive to Lake Lynn Park"
+            },
+            {
+              "start": "16:10",
+              "end": "16:30",
+              "kind": "outing",
+              "title": "Lake Lynn Park"
+            },
+            {
+              "start": "16:30",
+              "end": "16:50",
+              "kind": "travel",
+              "title": "Drive home"
+            },
+            {
+              "start": "16:50",
+              "end": "18:00",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "18:00",
+              "end": "18:45",
+              "kind": "meal",
+              "title": "Dinner"
+            },
+            {
+              "start": "18:45",
+              "end": "19:30",
+              "kind": "routine",
+              "title": "Bath, books and bed"
+            }
+          ]
+        }
+      ],
+      "dropped": [
+        "[early-nap] alternative event:libcal:durham-county-library:15559010 Toddler Storytime is for Baby, Kindergarten, Pre-School, Toddler"
+      ]
+    }
+  ],
+  "checked": {
+    "at": "2026-11-07T11:04:04.072Z",
+    "forecast": "nws",
+    "weather": {
+      "period": "Tuesday",
+      "tempF": 71,
+      "precipProbability": 0,
+      "shortForecast": "Sunny",
+      "windMph": 7,
+      "windFrom": "NW",
+      "hours": [
+        {
+          "t": "05:00",
+          "tempF": 43,
+          "pop": 0,
+          "cloud": 1
+        },
+        {
+          "t": "06:00",
+          "tempF": 42,
+          "pop": 0,
+          "cloud": 3
+        },
+        {
+          "t": "07:00",
+          "tempF": 42,
+          "pop": 0,
+          "cloud": 4
+        },
+        {
+          "t": "08:00",
+          "tempF": 46,
+          "pop": 0,
+          "cloud": 4
+        },
+        {
+          "t": "09:00",
+          "tempF": 52,
+          "pop": 0,
+          "cloud": 4
+        },
+        {
+          "t": "10:00",
+          "tempF": 58,
+          "pop": 0,
+          "cloud": 4
+        },
+        {
+          "t": "11:00",
+          "tempF": 62,
+          "pop": 0,
+          "cloud": 6
+        },
+        {
+          "t": "12:00",
+          "tempF": 66,
+          "pop": 0,
+          "cloud": 8
+        },
+        {
+          "t": "13:00",
+          "tempF": 69,
+          "pop": 0,
+          "cloud": 10
+        },
+        {
+          "t": "14:00",
+          "tempF": 70,
+          "pop": 0,
+          "cloud": 13
+        },
+        {
+          "t": "15:00",
+          "tempF": 71,
+          "pop": 0,
+          "cloud": 16
+        },
+        {
+          "t": "16:00",
+          "tempF": 69,
+          "pop": 0,
+          "cloud": 19
+        },
+        {
+          "t": "17:00",
+          "tempF": 66,
+          "pop": 0,
+          "cloud": 23
+        },
+        {
+          "t": "18:00",
+          "tempF": 60,
+          "pop": 0,
+          "cloud": 26
+        },
+        {
+          "t": "19:00",
+          "tempF": 60,
+          "pop": 0,
+          "cloud": 30
+        },
+        {
+          "t": "20:00",
+          "tempF": 58,
+          "pop": 0,
+          "cloud": 30
+        },
+        {
+          "t": "21:00",
+          "tempF": 56,
+          "pop": 0,
+          "cloud": 30
+        },
+        {
+          "t": "22:00",
+          "tempF": 54,
+          "pop": 0,
+          "cloud": 30
+        },
+        {
+          "t": "23:00",
+          "tempF": 53,
+          "pop": 0,
+          "cloud": 30
+        }
+      ]
+    },
+    "hidden": []
+  }
+}

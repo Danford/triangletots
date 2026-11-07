@@ -1,0 +1,951 @@
+{
+  "date": "2026-11-16",
+  "band": "t4",
+  "versions": [
+    {
+      "at": "2026-11-03T11:10:53.520Z",
+      "reason": null,
+      "forecast": "none",
+      "weather": null,
+      "plans": [
+        {
+          "nap": "short-nap",
+          "napLabel": "Short nap, 1 to 2",
+          "headline": "Run, then crawl through tunnels and shake a parachute",
+          "main": {
+            "ref": "place:hillside-park",
+            "arrive": "09:30",
+            "leave": "12:00",
+            "why": "Burn off wiggles at Hillside Park, then join Total Tot Time in the gym at W.D. Hill Rec Ctr from 10:00 am for parachute play and tunnels. A family needs to sign up first.",
+            "tips": [
+              "Run hard at the park first so the gym feels like a treat.",
+              "Bring a snack for before the gym.",
+              "Say the parachute is next, so leaving the playground is easy."
+            ],
+            "interests": [
+              "movement",
+              "music"
+            ],
+            "also": [
+              {
+                "ref": "event:durham-rec:19772:2026-11-16",
+                "source": {
+                  "kind": "event",
+                  "title": "Total Tot Time",
+                  "start": "2026-11-16T10:00:00",
+                  "end": "2026-11-16T12:00:00",
+                  "venue": "W.D. Hill Rec Ctr",
+                  "address": "1308 Fayetteville St, Durham, NC",
+                  "url": "https://apm.activecommunities.com/dprplaymore/Activity_Search/total-tot-time/19772?locale=en-US",
+                  "cost": null,
+                  "lat": 35.9797,
+                  "lon": -78.8985,
+                  "ages": "1 - 6",
+                  "registration": "https://apm.activecommunities.com/dprplaymore/Activity_Search/total-tot-time/19772?locale=en-US",
+                  "indoor": true,
+                  "area": "durham",
+                  "source": "durham-rec",
+                  "dropIn": false
+                }
+              }
+            ],
+            "area": "durham",
+            "outdoor": false,
+            "source": {
+              "kind": "park",
+              "title": "Hillside Park",
+              "address": "1301 S Roxboro St, Durham, NC",
+              "lat": 35.98093222222222,
+              "lon": -78.90178333333333,
+              "url": "https://www.dprplaymore.org/Facilities/Facility/Details/Hillside-Park-32",
+              "amenities": [
+                "playground",
+                "splashpad",
+                "pool",
+                "picnic-shelter",
+                "restroom"
+              ],
+              "indoor": false,
+              "area": "durham",
+              "hours": null,
+              "cost": null
+            }
+          },
+          "alternatives": [
+            {
+              "ref": "event:wake-parks:9405",
+              "arrive": "10:05",
+              "leave": "11:40",
+              "why": "Hear Red Leaf, Yellow Leaf at Cardinal Shelter in Crowder County Park from 10:15 am and make a craft. Then play at Jack Smith Park. A family needs to sign up first.",
+              "tips": [
+                "Collect a leaf to match the story on the way in.",
+                "Bring a snack for the park."
+              ],
+              "interests": [
+                "stories",
+                "art",
+                "nature"
+              ],
+              "also": [
+                {
+                  "ref": "place:jack-smith-park",
+                  "source": {
+                    "kind": "park",
+                    "title": "Jack Smith Park",
+                    "address": "9725 Penny Road, Cary, NC",
+                    "lat": 35.71181466796333,
+                    "lon": -78.7659772347373,
+                    "url": "http://www.townofcary.org/recreation-enjoyment/parks-greenways-environment/parks/jack-smith-park",
+                    "amenities": [
+                      "playground",
+                      "picnic-shelter",
+                      "restroom",
+                      "greenway"
+                    ],
+                    "indoor": false,
+                    "area": "cary-apex",
+                    "hours": null,
+                    "cost": null
+                  }
+                }
+              ],
+              "area": "cary-apex",
+              "outdoor": true,
+              "source": {
+                "kind": "event",
+                "title": "Tiny Tots: Red Leaf, Yellow Leaf",
+                "start": "2026-11-16T10:15:00",
+                "end": "2026-11-16T11:00:00",
+                "venue": "Crowder County Park",
+                "address": "4709 Ten Ten Road",
+                "url": "https://apm.activecommunities.com/wakeparks/Activity_Search/tiny-tots-red-leaf-yellow-leaf/9405?locale=en-US",
+                "cost": "Free",
+                "lat": 35.69174392711247,
+                "lon": -78.76585678897689,
+                "ages": "At least 1 but less than 7",
+                "registration": "https://apm.activecommunities.com/wakeparks/Activity_Search/tiny-tots-red-leaf-yellow-leaf/9405?locale=en-US",
+                "indoor": false,
+                "area": "cary-apex",
+                "source": "wake-parks",
+                "dropIn": false
+              }
+            },
+            {
+              "ref": "place:historic-oak-view-county-park",
+              "arrive": "09:30",
+              "leave": "11:30",
+              "why": "Wander Historic Oak View County Park, look for the animals and walk the garden paths.",
+              "tips": [
+                "Ask your child to count each animal they spot.",
+                "Pack a snack and sit at the picnic shelter."
+              ],
+              "interests": [
+                "animals",
+                "nature"
+              ],
+              "also": [],
+              "area": "raleigh",
+              "outdoor": true,
+              "source": {
+                "kind": "park",
+                "title": "Historic Oak View County Park",
+                "address": "4028 Carya Dr., Raleigh, NC  27610",
+                "lat": 35.76980126731367,
+                "lon": -78.57063248179927,
+                "url": "https://www.wakegov.com/departments-government/parks-recreation-and-open-space/all-parks-trails/historic-oak-view-county-park",
+                "amenities": [
+                  "picnic-shelter",
+                  "restroom",
+                  "greenway",
+                  "animals",
+                  "garden"
+                ],
+                "indoor": false,
+                "area": "raleigh",
+                "hours": null,
+                "cost": null
+              }
+            },
+            {
+              "ref": "event:wake:22344",
+              "arrive": "09:55",
+              "leave": "11:20",
+              "why": "Sing and read at Family Storytime at Leesville Community Library at 10:00 am, then stretch out at Leesville Community Park.",
+              "tips": [
+                "Let your child pick one favorite song to sing again at the park.",
+                "Bring a snack for after storytime."
+              ],
+              "interests": [
+                "stories",
+                "music",
+                "movement"
+              ],
+              "also": [
+                {
+                  "ref": "place:leesville-community-park",
+                  "source": {
+                    "kind": "park",
+                    "title": "Leesville Community Park",
+                    "address": "5105 Country Trail, Raleigh, NC 27613",
+                    "lat": 35.88424,
+                    "lon": -78.71549,
+                    "url": "https://raleighnc.gov/parks-and-recreation/places/leesville-community-park",
+                    "amenities": [
+                      "greenway",
+                      "playground",
+                      "garden"
+                    ],
+                    "indoor": false,
+                    "area": "north-raleigh",
+                    "hours": null,
+                    "cost": null
+                  }
+                }
+              ],
+              "area": "north-raleigh",
+              "outdoor": false,
+              "source": {
+                "kind": "event",
+                "title": "Family Storytime",
+                "start": "2026-11-16T10:00:00-05:00",
+                "end": "2026-11-16T10:30:00-05:00",
+                "venue": "Leesville Community Library",
+                "address": "5105 Country Trail, Raleigh, NC 27613",
+                "url": "https://www.wake.gov/events/family-storytime-4158",
+                "cost": "Free",
+                "lat": 35.88424,
+                "lon": -78.71549,
+                "ages": "Young Children",
+                "registration": null,
+                "indoor": true,
+                "area": "north-raleigh",
+                "source": "wake-county",
+                "dropIn": false
+              }
+            }
+          ],
+          "rainBackup": null,
+          "timeline": [
+            {
+              "start": "07:00",
+              "end": "07:30",
+              "kind": "meal",
+              "title": "Up and breakfast"
+            },
+            {
+              "start": "07:30",
+              "end": "08:50",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "08:50",
+              "end": "09:10",
+              "kind": "routine",
+              "title": "Get ready to go",
+              "detail": "Shoes on, diaper bag, water and a snack."
+            },
+            {
+              "start": "09:10",
+              "end": "09:30",
+              "kind": "travel",
+              "title": "Drive to Hillside Park"
+            },
+            {
+              "start": "09:30",
+              "end": "09:50",
+              "kind": "outing",
+              "title": "Hillside Park"
+            },
+            {
+              "start": "09:50",
+              "end": "10:00",
+              "kind": "travel",
+              "title": "Drive to W.D. Hill Rec Ctr"
+            },
+            {
+              "start": "10:00",
+              "end": "12:00",
+              "kind": "outing",
+              "title": "Total Tot Time"
+            },
+            {
+              "start": "12:00",
+              "end": "12:20",
+              "kind": "travel",
+              "title": "Drive home"
+            },
+            {
+              "start": "12:20",
+              "end": "12:50",
+              "kind": "meal",
+              "title": "Lunch"
+            },
+            {
+              "start": "12:50",
+              "end": "13:00",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "13:00",
+              "end": "14:00",
+              "kind": "nap",
+              "title": "Nap"
+            },
+            {
+              "start": "14:00",
+              "end": "14:20",
+              "kind": "routine",
+              "title": "Up and a snack"
+            },
+            {
+              "start": "14:20",
+              "end": "18:30",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "18:30",
+              "end": "19:15",
+              "kind": "meal",
+              "title": "Dinner"
+            },
+            {
+              "start": "19:15",
+              "end": "20:00",
+              "kind": "routine",
+              "title": "Bath, books and bed"
+            }
+          ]
+        },
+        {
+          "nap": "quiet",
+          "napLabel": "Quiet time",
+          "headline": "Meet the animals and wander the garden paths",
+          "main": {
+            "ref": "place:historic-oak-view-county-park",
+            "arrive": "09:30",
+            "leave": "11:45",
+            "why": "A slow morning at Historic Oak View County Park to look for the animals, walk the greenway and explore the garden.",
+            "tips": [
+              "Give your child a job, like spotting every animal.",
+              "Snack at the picnic shelter before you head home for quiet time.",
+              "Give a ten-minute warning before you leave."
+            ],
+            "interests": [
+              "animals",
+              "nature"
+            ],
+            "also": [],
+            "area": "raleigh",
+            "outdoor": true,
+            "source": {
+              "kind": "park",
+              "title": "Historic Oak View County Park",
+              "address": "4028 Carya Dr., Raleigh, NC  27610",
+              "lat": 35.76980126731367,
+              "lon": -78.57063248179927,
+              "url": "https://www.wakegov.com/departments-government/parks-recreation-and-open-space/all-parks-trails/historic-oak-view-county-park",
+              "amenities": [
+                "picnic-shelter",
+                "restroom",
+                "greenway",
+                "animals",
+                "garden"
+              ],
+              "indoor": false,
+              "area": "raleigh",
+              "hours": null,
+              "cost": null
+            }
+          },
+          "alternatives": [
+            {
+              "ref": "place:hillside-park",
+              "arrive": "09:30",
+              "leave": "12:00",
+              "why": "Play at Hillside Park, then join Total Tot Time in the gym at W.D. Hill Rec Ctr from 10:00 am for parachute play and tunnels. A family needs to sign up first.",
+              "tips": [
+                "Play outside first, then go in for the gym.",
+                "Bring a snack for before the gym."
+              ],
+              "interests": [
+                "movement",
+                "music"
+              ],
+              "also": [
+                {
+                  "ref": "event:durham-rec:19772:2026-11-16",
+                  "source": {
+                    "kind": "event",
+                    "title": "Total Tot Time",
+                    "start": "2026-11-16T10:00:00",
+                    "end": "2026-11-16T12:00:00",
+                    "venue": "W.D. Hill Rec Ctr",
+                    "address": "1308 Fayetteville St, Durham, NC",
+                    "url": "https://apm.activecommunities.com/dprplaymore/Activity_Search/total-tot-time/19772?locale=en-US",
+                    "cost": null,
+                    "lat": 35.9797,
+                    "lon": -78.8985,
+                    "ages": "1 - 6",
+                    "registration": "https://apm.activecommunities.com/dprplaymore/Activity_Search/total-tot-time/19772?locale=en-US",
+                    "indoor": true,
+                    "area": "durham",
+                    "source": "durham-rec",
+                    "dropIn": false
+                  }
+                }
+              ],
+              "area": "durham",
+              "outdoor": false,
+              "source": {
+                "kind": "park",
+                "title": "Hillside Park",
+                "address": "1301 S Roxboro St, Durham, NC",
+                "lat": 35.98093222222222,
+                "lon": -78.90178333333333,
+                "url": "https://www.dprplaymore.org/Facilities/Facility/Details/Hillside-Park-32",
+                "amenities": [
+                  "playground",
+                  "splashpad",
+                  "pool",
+                  "picnic-shelter",
+                  "restroom"
+                ],
+                "indoor": false,
+                "area": "durham",
+                "hours": null,
+                "cost": null
+              }
+            },
+            {
+              "ref": "event:wake:24153",
+              "arrive": "09:20",
+              "leave": "11:00",
+              "why": "Join Family Storytime at Middle Creek Community Library at 9:30 am, then play at Middle Creek School Park.",
+              "tips": [
+                "Let your child choose the first swing or slide at the park.",
+                "Bring a snack for after storytime."
+              ],
+              "interests": [
+                "stories",
+                "movement"
+              ],
+              "also": [
+                {
+                  "ref": "place:middle-creek-school-park",
+                  "source": {
+                    "kind": "park",
+                    "title": "Middle Creek School Park",
+                    "address": "151 Middle Creek Park Avenue, Cary, NC",
+                    "lat": 35.662513193321765,
+                    "lon": -78.7643852913516,
+                    "url": "https://www.carync.gov/recreation-enjoyment/parks-greenways-environment/parks/middle-creek-school-park",
+                    "amenities": [
+                      "playground",
+                      "picnic-shelter",
+                      "restroom",
+                      "greenway"
+                    ],
+                    "indoor": false,
+                    "area": "south-wake",
+                    "hours": null,
+                    "cost": null
+                  }
+                }
+              ],
+              "area": "south-wake",
+              "outdoor": false,
+              "source": {
+                "kind": "event",
+                "title": "Family Storytime",
+                "start": "2026-11-16T09:30:00-05:00",
+                "end": "2026-11-16T10:00:00-05:00",
+                "venue": "Middle Creek Community Library",
+                "address": "111 Middle Creek Park Avenue, Apex, NC",
+                "url": "https://www.wake.gov/events/family-storytime-4670",
+                "cost": "Free",
+                "lat": 35.6682418176122,
+                "lon": -78.7587045638366,
+                "ages": "Young Children",
+                "registration": null,
+                "indoor": true,
+                "area": "south-wake",
+                "source": "wake-county",
+                "dropIn": false
+              }
+            },
+            {
+              "ref": "event:wake-parks:9405",
+              "arrive": "10:05",
+              "leave": "11:40",
+              "why": "Hear Red Leaf, Yellow Leaf at Cardinal Shelter in Crowder County Park from 10:15 am and make a craft. Then play at Jack Smith Park. A family needs to sign up first.",
+              "tips": [
+                "Collect a leaf to match the story on the way in.",
+                "Bring a snack for the park."
+              ],
+              "interests": [
+                "stories",
+                "art",
+                "nature"
+              ],
+              "also": [
+                {
+                  "ref": "place:jack-smith-park",
+                  "source": {
+                    "kind": "park",
+                    "title": "Jack Smith Park",
+                    "address": "9725 Penny Road, Cary, NC",
+                    "lat": 35.71181466796333,
+                    "lon": -78.7659772347373,
+                    "url": "http://www.townofcary.org/recreation-enjoyment/parks-greenways-environment/parks/jack-smith-park",
+                    "amenities": [
+                      "playground",
+                      "picnic-shelter",
+                      "restroom",
+                      "greenway"
+                    ],
+                    "indoor": false,
+                    "area": "cary-apex",
+                    "hours": null,
+                    "cost": null
+                  }
+                }
+              ],
+              "area": "cary-apex",
+              "outdoor": true,
+              "source": {
+                "kind": "event",
+                "title": "Tiny Tots: Red Leaf, Yellow Leaf",
+                "start": "2026-11-16T10:15:00",
+                "end": "2026-11-16T11:00:00",
+                "venue": "Crowder County Park",
+                "address": "4709 Ten Ten Road",
+                "url": "https://apm.activecommunities.com/wakeparks/Activity_Search/tiny-tots-red-leaf-yellow-leaf/9405?locale=en-US",
+                "cost": "Free",
+                "lat": 35.69174392711247,
+                "lon": -78.76585678897689,
+                "ages": "At least 1 but less than 7",
+                "registration": "https://apm.activecommunities.com/wakeparks/Activity_Search/tiny-tots-red-leaf-yellow-leaf/9405?locale=en-US",
+                "indoor": false,
+                "area": "cary-apex",
+                "source": "wake-parks",
+                "dropIn": false
+              }
+            }
+          ],
+          "rainBackup": null,
+          "timeline": [
+            {
+              "start": "07:00",
+              "end": "07:30",
+              "kind": "meal",
+              "title": "Up and breakfast"
+            },
+            {
+              "start": "07:30",
+              "end": "08:50",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "08:50",
+              "end": "09:10",
+              "kind": "routine",
+              "title": "Get ready to go",
+              "detail": "Shoes on, diaper bag, water and a snack."
+            },
+            {
+              "start": "09:10",
+              "end": "09:30",
+              "kind": "travel",
+              "title": "Drive to Historic Oak View County Park"
+            },
+            {
+              "start": "09:30",
+              "end": "11:45",
+              "kind": "outing",
+              "title": "Historic Oak View County Park"
+            },
+            {
+              "start": "11:45",
+              "end": "12:05",
+              "kind": "travel",
+              "title": "Drive home"
+            },
+            {
+              "start": "12:05",
+              "end": "12:35",
+              "kind": "meal",
+              "title": "Lunch"
+            },
+            {
+              "start": "12:35",
+              "end": "13:00",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "13:00",
+              "end": "13:45",
+              "kind": "quiet",
+              "title": "Quiet time",
+              "detail": "Books or quiet play in their room."
+            },
+            {
+              "start": "13:45",
+              "end": "18:00",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "18:00",
+              "end": "18:45",
+              "kind": "meal",
+              "title": "Dinner"
+            },
+            {
+              "start": "18:45",
+              "end": "19:30",
+              "kind": "routine",
+              "title": "Bath, books and bed"
+            }
+          ]
+        },
+        {
+          "nap": "no-nap",
+          "napLabel": "No nap",
+          "headline": "Playground, a preschool story and an alphabet craft",
+          "main": {
+            "ref": "place:harper-park",
+            "arrive": "09:35",
+            "leave": "12:00",
+            "why": "Play at Harper Park, then join Preschool Storytime at East Regional Library at 10:15 am and the ABC Craft and Learn alphabet craft at 11:15 am.",
+            "tips": [
+              "Play first so your child can sit for the story.",
+              "Use the break between programs for a snack.",
+              "Ask your child to find the letters of their name in the craft."
+            ],
+            "interests": [
+              "stories",
+              "art",
+              "movement"
+            ],
+            "also": [
+              {
+                "ref": "event:wake:21653",
+                "source": {
+                  "kind": "event",
+                  "title": "Preschool Storytime",
+                  "start": "2026-11-16T10:15:00-05:00",
+                  "end": "2026-11-16T10:45:00-05:00",
+                  "venue": "East Regional Library",
+                  "address": "946 Steeple Square Court, Knightdale, NC",
+                  "url": "https://www.wake.gov/events/preschool-storytime-238",
+                  "cost": "Free",
+                  "lat": 35.8028243321954,
+                  "lon": -78.487155767495,
+                  "ages": "Young Children",
+                  "registration": null,
+                  "indoor": true,
+                  "area": "east-wake",
+                  "source": "wake-county",
+                  "dropIn": false
+                }
+              },
+              {
+                "ref": "event:wake:21663",
+                "source": {
+                  "kind": "event",
+                  "title": "ABC Craft and Learn",
+                  "start": "2026-11-16T11:15:00-05:00",
+                  "end": "2026-11-16T12:00:00-05:00",
+                  "venue": "East Regional Library",
+                  "address": "946 Steeple Square Court, Knightdale, NC",
+                  "url": "https://www.wake.gov/events/abc-craft-and-learn-559",
+                  "cost": "Free",
+                  "lat": 35.8028243321954,
+                  "lon": -78.487155767495,
+                  "ages": "Young Children",
+                  "registration": null,
+                  "indoor": true,
+                  "area": "east-wake",
+                  "source": "wake-county",
+                  "dropIn": false
+                }
+              }
+            ],
+            "area": "east-wake",
+            "outdoor": false,
+            "source": {
+              "kind": "park",
+              "title": "Harper Park",
+              "address": "207 Main St, Knightdale, NC",
+              "lat": 35.790229270785545,
+              "lon": -78.48288796000294,
+              "url": "https://www.knightdalenc.gov/harperpark",
+              "amenities": [
+                "playground",
+                "picnic-shelter",
+                "restroom"
+              ],
+              "indoor": false,
+              "area": "east-wake",
+              "hours": null,
+              "cost": null
+            }
+          },
+          "alternatives": [
+            {
+              "ref": "event:wake-parks:9405",
+              "arrive": "10:05",
+              "leave": "11:40",
+              "why": "Hear Red Leaf, Yellow Leaf at Cardinal Shelter in Crowder County Park from 10:15 am and make a craft. Then play at Jack Smith Park. A family needs to sign up first.",
+              "tips": [
+                "Collect a leaf to match the story on the way in.",
+                "Bring a snack for the park."
+              ],
+              "interests": [
+                "stories",
+                "art",
+                "nature"
+              ],
+              "also": [
+                {
+                  "ref": "place:jack-smith-park",
+                  "source": {
+                    "kind": "park",
+                    "title": "Jack Smith Park",
+                    "address": "9725 Penny Road, Cary, NC",
+                    "lat": 35.71181466796333,
+                    "lon": -78.7659772347373,
+                    "url": "http://www.townofcary.org/recreation-enjoyment/parks-greenways-environment/parks/jack-smith-park",
+                    "amenities": [
+                      "playground",
+                      "picnic-shelter",
+                      "restroom",
+                      "greenway"
+                    ],
+                    "indoor": false,
+                    "area": "cary-apex",
+                    "hours": null,
+                    "cost": null
+                  }
+                }
+              ],
+              "area": "cary-apex",
+              "outdoor": true,
+              "source": {
+                "kind": "event",
+                "title": "Tiny Tots: Red Leaf, Yellow Leaf",
+                "start": "2026-11-16T10:15:00",
+                "end": "2026-11-16T11:00:00",
+                "venue": "Crowder County Park",
+                "address": "4709 Ten Ten Road",
+                "url": "https://apm.activecommunities.com/wakeparks/Activity_Search/tiny-tots-red-leaf-yellow-leaf/9405?locale=en-US",
+                "cost": "Free",
+                "lat": 35.69174392711247,
+                "lon": -78.76585678897689,
+                "ages": "At least 1 but less than 7",
+                "registration": "https://apm.activecommunities.com/wakeparks/Activity_Search/tiny-tots-red-leaf-yellow-leaf/9405?locale=en-US",
+                "indoor": false,
+                "area": "cary-apex",
+                "source": "wake-parks",
+                "dropIn": false
+              }
+            },
+            {
+              "ref": "place:historic-oak-view-county-park",
+              "arrive": "14:00",
+              "leave": "16:00",
+              "why": "Spend the afternoon at Historic Oak View County Park looking for the animals and walking the garden paths.",
+              "tips": [
+                "Ask your child to count each animal they spot.",
+                "Bring a snack and a water bottle."
+              ],
+              "interests": [
+                "animals",
+                "nature"
+              ],
+              "also": [],
+              "area": "raleigh",
+              "outdoor": true,
+              "source": {
+                "kind": "park",
+                "title": "Historic Oak View County Park",
+                "address": "4028 Carya Dr., Raleigh, NC  27610",
+                "lat": 35.76980126731367,
+                "lon": -78.57063248179927,
+                "url": "https://www.wakegov.com/departments-government/parks-recreation-and-open-space/all-parks-trails/historic-oak-view-county-park",
+                "amenities": [
+                  "picnic-shelter",
+                  "restroom",
+                  "greenway",
+                  "animals",
+                  "garden"
+                ],
+                "indoor": false,
+                "area": "raleigh",
+                "hours": null,
+                "cost": null
+              }
+            },
+            {
+              "ref": "place:hillside-park",
+              "arrive": "09:30",
+              "leave": "12:00",
+              "why": "Play at Hillside Park, then join Total Tot Time in the gym at W.D. Hill Rec Ctr from 10:00 am for parachute play and tunnels. A family needs to sign up first.",
+              "tips": [
+                "Play outside first, then go in for the gym.",
+                "Bring a snack for before the gym."
+              ],
+              "interests": [
+                "movement",
+                "music"
+              ],
+              "also": [
+                {
+                  "ref": "event:durham-rec:19772:2026-11-16",
+                  "source": {
+                    "kind": "event",
+                    "title": "Total Tot Time",
+                    "start": "2026-11-16T10:00:00",
+                    "end": "2026-11-16T12:00:00",
+                    "venue": "W.D. Hill Rec Ctr",
+                    "address": "1308 Fayetteville St, Durham, NC",
+                    "url": "https://apm.activecommunities.com/dprplaymore/Activity_Search/total-tot-time/19772?locale=en-US",
+                    "cost": null,
+                    "lat": 35.9797,
+                    "lon": -78.8985,
+                    "ages": "1 - 6",
+                    "registration": "https://apm.activecommunities.com/dprplaymore/Activity_Search/total-tot-time/19772?locale=en-US",
+                    "indoor": true,
+                    "area": "durham",
+                    "source": "durham-rec",
+                    "dropIn": false
+                  }
+                }
+              ],
+              "area": "durham",
+              "outdoor": false,
+              "source": {
+                "kind": "park",
+                "title": "Hillside Park",
+                "address": "1301 S Roxboro St, Durham, NC",
+                "lat": 35.98093222222222,
+                "lon": -78.90178333333333,
+                "url": "https://www.dprplaymore.org/Facilities/Facility/Details/Hillside-Park-32",
+                "amenities": [
+                  "playground",
+                  "splashpad",
+                  "pool",
+                  "picnic-shelter",
+                  "restroom"
+                ],
+                "indoor": false,
+                "area": "durham",
+                "hours": null,
+                "cost": null
+              }
+            }
+          ],
+          "rainBackup": null,
+          "timeline": [
+            {
+              "start": "07:00",
+              "end": "07:30",
+              "kind": "meal",
+              "title": "Up and breakfast"
+            },
+            {
+              "start": "07:30",
+              "end": "08:55",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "08:55",
+              "end": "09:15",
+              "kind": "routine",
+              "title": "Get ready to go",
+              "detail": "Shoes on, diaper bag, water and a snack."
+            },
+            {
+              "start": "09:15",
+              "end": "09:35",
+              "kind": "travel",
+              "title": "Drive to Harper Park"
+            },
+            {
+              "start": "09:35",
+              "end": "10:05",
+              "kind": "outing",
+              "title": "Harper Park"
+            },
+            {
+              "start": "10:05",
+              "end": "10:15",
+              "kind": "travel",
+              "title": "Drive to East Regional Library"
+            },
+            {
+              "start": "10:15",
+              "end": "10:45",
+              "kind": "outing",
+              "title": "Preschool Storytime"
+            },
+            {
+              "start": "10:45",
+              "end": "10:55",
+              "kind": "travel",
+              "title": "Drive to East Regional Library"
+            },
+            {
+              "start": "10:55",
+              "end": "12:00",
+              "kind": "outing",
+              "title": "ABC Craft and Learn"
+            },
+            {
+              "start": "12:00",
+              "end": "12:20",
+              "kind": "travel",
+              "title": "Drive home"
+            },
+            {
+              "start": "12:20",
+              "end": "12:50",
+              "kind": "meal",
+              "title": "Lunch"
+            },
+            {
+              "start": "12:50",
+              "end": "18:00",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "18:00",
+              "end": "18:45",
+              "kind": "meal",
+              "title": "Dinner"
+            },
+            {
+              "start": "18:45",
+              "end": "19:30",
+              "kind": "routine",
+              "title": "Bath, books and bed"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "checked": {
+    "at": "2026-11-07T11:04:04.179Z",
+    "forecast": "none",
+    "weather": null,
+    "hidden": []
+  }
+}

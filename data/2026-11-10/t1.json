@@ -1,0 +1,994 @@
+{
+  "date": "2026-11-10",
+  "band": "t1",
+  "versions": [
+    {
+      "at": "2026-11-06T20:44:56.911Z",
+      "reason": null,
+      "forecast": "nws",
+      "weather": {
+        "period": "Tuesday",
+        "tempF": 72,
+        "precipProbability": 0,
+        "shortForecast": "Sunny",
+        "hours": [
+          {
+            "t": "05:00",
+            "tempF": 44,
+            "pop": 0
+          },
+          {
+            "t": "06:00",
+            "tempF": 43,
+            "pop": 0
+          },
+          {
+            "t": "07:00",
+            "tempF": 44,
+            "pop": 0
+          },
+          {
+            "t": "08:00",
+            "tempF": 48,
+            "pop": 0
+          },
+          {
+            "t": "09:00",
+            "tempF": 53,
+            "pop": 0
+          },
+          {
+            "t": "10:00",
+            "tempF": 59,
+            "pop": 0
+          },
+          {
+            "t": "11:00",
+            "tempF": 64,
+            "pop": 0
+          },
+          {
+            "t": "12:00",
+            "tempF": 67,
+            "pop": 0
+          },
+          {
+            "t": "13:00",
+            "tempF": 70,
+            "pop": 0
+          },
+          {
+            "t": "14:00",
+            "tempF": 72,
+            "pop": 0
+          },
+          {
+            "t": "15:00",
+            "tempF": 72,
+            "pop": 0
+          },
+          {
+            "t": "16:00",
+            "tempF": 71,
+            "pop": 0
+          },
+          {
+            "t": "17:00",
+            "tempF": 68,
+            "pop": 0
+          },
+          {
+            "t": "18:00",
+            "tempF": 64,
+            "pop": 0
+          },
+          {
+            "t": "19:00",
+            "tempF": 60,
+            "pop": 0
+          },
+          {
+            "t": "20:00",
+            "tempF": 57,
+            "pop": 0
+          },
+          {
+            "t": "21:00",
+            "tempF": 55,
+            "pop": 0
+          },
+          {
+            "t": "22:00",
+            "tempF": 54,
+            "pop": 0
+          },
+          {
+            "t": "23:00",
+            "tempF": 53,
+            "pop": 0
+          }
+        ]
+      },
+      "plans": [
+        {
+          "nap": "two-naps",
+          "napLabel": "Two naps",
+          "headline": "Climb the playground, then take a nature walk",
+          "main": {
+            "ref": "place:harris-lake-county-park",
+            "arrive": "11:00",
+            "leave": "12:40",
+            "why": "Harris Lake County Park has a playground and a greenway through the woods. Your toddler can climb and slide, then walk and look for leaves and sticks.",
+            "tips": [
+              "Play first, then walk the greenway when your child slows down.",
+              "Eat a snack at the picnic shelter before you head home.",
+              "Give a warning, then walk to the car together."
+            ],
+            "interests": [
+              "nature",
+              "movement"
+            ],
+            "also": [],
+            "area": "south-wake",
+            "outdoor": true,
+            "source": {
+              "kind": "park",
+              "title": "Harris Lake County Park",
+              "address": "2112 County Park Dr., New Hill, NC  27562",
+              "lat": 35.63024208800726,
+              "lon": -78.91757987745865,
+              "url": "https://www.wakegov.com/departments-government/parks-recreation-and-open-space/all-parks-trails/harris-lake-county-park",
+              "amenities": [
+                "playground",
+                "picnic-shelter",
+                "restroom",
+                "greenway",
+                "nature"
+              ],
+              "indoor": false,
+              "area": "south-wake",
+              "hours": null,
+              "cost": null
+            }
+          },
+          "alternatives": [
+            {
+              "ref": "place:museum-of-life-and-science",
+              "arrive": "11:00",
+              "leave": "12:45",
+              "why": "Explore the outdoor Hideaway Woods treehouses and creek, the farmyard and the train ride at the Museum of Life and Science.",
+              "tips": [
+                "Start at the farmyard while your child is fresh.",
+                "Bring a snack and water for a break."
+              ],
+              "interests": [
+                "animals",
+                "nature",
+                "vehicles"
+              ],
+              "also": [],
+              "area": "durham",
+              "outdoor": true,
+              "source": {
+                "kind": "museum",
+                "title": "Museum of Life and Science",
+                "address": "433 W Murray Ave, Durham, NC 27704",
+                "lat": 36.0294,
+                "lon": -78.8993,
+                "url": "https://www.lifeandscience.org/visit/",
+                "amenities": [
+                  "nature",
+                  "animals",
+                  "train",
+                  "playground",
+                  "restroom"
+                ],
+                "indoor": false,
+                "area": "durham",
+                "cost": "$24 adults, $19 ages 3–15, under 3 free",
+                "note": "Tickets: $24 adults, $19 ages 3–15, under 3 free. Hideaway Woods treehouses and creek, farmyard, train ride and Dinosaur Trail are outside."
+              }
+            },
+            {
+              "ref": "place:nc-botanical-garden",
+              "arrive": "11:00",
+              "leave": "12:30",
+              "why": "Wander the display gardens and let your toddler point at plants and leaves. The nature trails through the forest are behind them.",
+              "tips": [
+                "Bring a snack for the walk back to the car.",
+                "Let your child pick which path to take."
+              ],
+              "interests": [
+                "nature",
+                "art"
+              ],
+              "also": [],
+              "area": "chapel-hill",
+              "outdoor": true,
+              "source": {
+                "kind": "garden",
+                "title": "NC Botanical Garden",
+                "address": "100 Old Mason Farm Rd, Chapel Hill, NC 27517",
+                "lat": 35.9011,
+                "lon": -79.0319,
+                "url": "https://ncbg.unc.edu/visit/",
+                "amenities": [
+                  "garden",
+                  "nature",
+                  "restroom"
+                ],
+                "indoor": false,
+                "area": "chapel-hill",
+                "cost": "Free",
+                "note": "Free. Display gardens, and nature trails through the forest behind them."
+              }
+            },
+            {
+              "ref": "place:jc-raulston-arboretum",
+              "arrive": "11:00",
+              "leave": "12:30",
+              "why": "Stroll through NC State's garden and let your toddler look at trees, leaves and plants.",
+              "tips": [
+                "Let your child set the pace.",
+                "Bring a snack to eat before you leave."
+              ],
+              "interests": [
+                "nature"
+              ],
+              "also": [],
+              "area": "raleigh",
+              "outdoor": true,
+              "source": {
+                "kind": "garden",
+                "title": "JC Raulston Arboretum",
+                "address": "4415 Beryl Rd, Raleigh, NC 27606",
+                "lat": 35.794,
+                "lon": -78.6987,
+                "url": "https://jcra.ncsu.edu/",
+                "amenities": [
+                  "garden",
+                  "nature"
+                ],
+                "indoor": false,
+                "area": "raleigh",
+                "hours": {
+                  "mon": "9 a.m.–4:30 p.m.",
+                  "tue": "9 a.m.–4:30 p.m.",
+                  "wed": "9 a.m.–4:30 p.m.",
+                  "thu": "9 a.m.–4:30 p.m.",
+                  "fri": "9 a.m.–4:30 p.m.",
+                  "sat": "9 a.m.–5 p.m.",
+                  "sun": "9 a.m.–5 p.m."
+                },
+                "cost": "Free",
+                "note": "Free. NC State’s garden; no pets."
+              }
+            },
+            {
+              "ref": "place:hemlock-bluffs",
+              "arrive": "11:00",
+              "leave": "12:30",
+              "why": "Take a woodsy walk on the trails and look for leaves, sticks and birds.",
+              "tips": [
+                "The trails have stairs, so a carrier works better than a stroller.",
+                "Bring a small bag for leaves and sticks to take home."
+              ],
+              "interests": [
+                "nature"
+              ],
+              "also": [],
+              "area": "cary-apex",
+              "outdoor": true,
+              "source": {
+                "kind": "park",
+                "title": "Hemlock Bluffs Nature Preserve",
+                "address": "2616 Kildaire Farm Rd, Cary, NC 27518",
+                "lat": 35.7253,
+                "lon": -78.7846,
+                "url": "https://www.carync.gov/recreation-enjoyment/parks-greenways-environment/parks/stevens-nature-center-at-hemlock-bluffs-nature-preserve",
+                "amenities": [
+                  "nature"
+                ],
+                "indoor": false,
+                "area": "cary-apex",
+                "hours": {
+                  "sun": "9 a.m. to sunset",
+                  "mon": "9 a.m. to sunset",
+                  "tue": "9 a.m. to sunset",
+                  "wed": "9 a.m. to sunset",
+                  "thu": "9 a.m. to sunset",
+                  "fri": "9 a.m. to sunset",
+                  "sat": "9 a.m. to sunset"
+                },
+                "cost": "Free",
+                "note": "Free. About three miles of mulched trails and boardwalks with stairs (a carrier beats a stroller); restrooms in the Stevens Nature Center, open Mon–Sat 10–5, Sun 1–5."
+              }
+            }
+          ],
+          "rainBackup": null,
+          "timeline": [
+            {
+              "start": "07:00",
+              "end": "07:30",
+              "kind": "meal",
+              "title": "Up and breakfast"
+            },
+            {
+              "start": "07:30",
+              "end": "09:30",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "09:30",
+              "end": "10:30",
+              "kind": "nap",
+              "title": "Nap"
+            },
+            {
+              "start": "10:30",
+              "end": "10:40",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "10:40",
+              "end": "11:00",
+              "kind": "travel",
+              "title": "Drive to Harris Lake County Park"
+            },
+            {
+              "start": "11:00",
+              "end": "12:40",
+              "kind": "outing",
+              "title": "Harris Lake County Park",
+              "detail": "Pack a lunch to eat there."
+            },
+            {
+              "start": "12:40",
+              "end": "13:00",
+              "kind": "travel",
+              "title": "Drive home"
+            },
+            {
+              "start": "13:00",
+              "end": "14:30",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "14:30",
+              "end": "15:30",
+              "kind": "nap",
+              "title": "Nap"
+            },
+            {
+              "start": "15:30",
+              "end": "15:50",
+              "kind": "routine",
+              "title": "Up and a snack"
+            },
+            {
+              "start": "15:50",
+              "end": "17:30",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "17:30",
+              "end": "18:15",
+              "kind": "meal",
+              "title": "Dinner"
+            },
+            {
+              "start": "18:15",
+              "end": "19:00",
+              "kind": "routine",
+              "title": "Bath, books and bed"
+            }
+          ]
+        },
+        {
+          "nap": "early-nap",
+          "napLabel": "One nap, 12 to 2",
+          "headline": "Play at the park, then join a trail kick-off",
+          "main": {
+            "ref": "place:lake-lynn-park",
+            "arrive": "14:30",
+            "leave": "16:00",
+            "why": "Your toddler can climb and slide at Lake Lynn Park, then join the Lake Lynn Loop Trail Kick-off at 3:00 pm.",
+            "tips": [
+              "Play first so the energy is out before the kick-off.",
+              "Bring a snack and water for a break.",
+              "Say goodbye to the slide before you head to the kick-off."
+            ],
+            "interests": [
+              "movement",
+              "nature"
+            ],
+            "also": [
+              {
+                "ref": "event:raleigh:lake-lynn-loop-trail-kick",
+                "source": {
+                  "kind": "event",
+                  "title": "Lake Lynn Loop Trail Kick-off",
+                  "start": "2026-11-10T15:00:00",
+                  "end": "2026-11-10T16:00:00",
+                  "venue": "Lake Lynn Loop",
+                  "address": "7921 Ray Rd, Raleigh, NC 27613",
+                  "url": "https://raleighnc.gov/parks-and-recreation/events/lake-lynn-loop-trail-kick",
+                  "cost": "Free",
+                  "lat": 35.8881,
+                  "lon": -78.69884,
+                  "ages": "All",
+                  "registration": null,
+                  "indoor": false,
+                  "area": "north-raleigh",
+                  "source": "raleigh",
+                  "dropIn": false
+                }
+              }
+            ],
+            "area": "north-raleigh",
+            "outdoor": true,
+            "source": {
+              "kind": "park",
+              "title": "Lake Lynn Park",
+              "address": "7921 Ray Rd, Raleigh, NC 27613",
+              "lat": 35.8881,
+              "lon": -78.69884,
+              "url": "https://raleighnc.gov/parks-and-recreation/places/lake-lynn-park",
+              "amenities": [
+                "community-center",
+                "picnic-shelter",
+                "courts",
+                "fields",
+                "playground"
+              ],
+              "indoor": false,
+              "area": "north-raleigh",
+              "hours": null,
+              "cost": null
+            }
+          },
+          "alternatives": [
+            {
+              "ref": "place:jc-raulston-arboretum",
+              "arrive": "09:30",
+              "leave": "11:00",
+              "why": "Stroll through NC State's garden and let your toddler look at trees, leaves and plants.",
+              "tips": [
+                "Let your child set the pace.",
+                "Bring a snack to eat before you leave."
+              ],
+              "interests": [
+                "nature"
+              ],
+              "also": [],
+              "area": "raleigh",
+              "outdoor": true,
+              "source": {
+                "kind": "garden",
+                "title": "JC Raulston Arboretum",
+                "address": "4415 Beryl Rd, Raleigh, NC 27606",
+                "lat": 35.794,
+                "lon": -78.6987,
+                "url": "https://jcra.ncsu.edu/",
+                "amenities": [
+                  "garden",
+                  "nature"
+                ],
+                "indoor": false,
+                "area": "raleigh",
+                "hours": {
+                  "mon": "9 a.m.–4:30 p.m.",
+                  "tue": "9 a.m.–4:30 p.m.",
+                  "wed": "9 a.m.–4:30 p.m.",
+                  "thu": "9 a.m.–4:30 p.m.",
+                  "fri": "9 a.m.–4:30 p.m.",
+                  "sat": "9 a.m.–5 p.m.",
+                  "sun": "9 a.m.–5 p.m."
+                },
+                "cost": "Free",
+                "note": "Free. NC State’s garden; no pets."
+              }
+            },
+            {
+              "ref": "place:nc-botanical-garden",
+              "arrive": "09:00",
+              "leave": "10:45",
+              "why": "Wander the display gardens and let your toddler point at plants and leaves. The nature trails through the forest are behind them.",
+              "tips": [
+                "Bring a snack for the walk back to the car.",
+                "Let your child pick which path to take."
+              ],
+              "interests": [
+                "nature",
+                "art"
+              ],
+              "also": [],
+              "area": "chapel-hill",
+              "outdoor": true,
+              "source": {
+                "kind": "garden",
+                "title": "NC Botanical Garden",
+                "address": "100 Old Mason Farm Rd, Chapel Hill, NC 27517",
+                "lat": 35.9011,
+                "lon": -79.0319,
+                "url": "https://ncbg.unc.edu/visit/",
+                "amenities": [
+                  "garden",
+                  "nature",
+                  "restroom"
+                ],
+                "indoor": false,
+                "area": "chapel-hill",
+                "cost": "Free",
+                "note": "Free. Display gardens, and nature trails through the forest behind them."
+              }
+            },
+            {
+              "ref": "event:wake-parks:8358:2026-11-10",
+              "arrive": "14:30",
+              "leave": "16:00",
+              "why": "Walk the StoryWalk loop and read a page of the story at each stop. It is self-guided and needs no sign-up.",
+              "tips": [
+                "Let your child set the pace and point at the pictures.",
+                "Bring a snack for after the loop."
+              ],
+              "interests": [
+                "stories",
+                "nature"
+              ],
+              "also": [],
+              "area": "south-wake",
+              "outdoor": true,
+              "source": {
+                "kind": "event",
+                "title": "Beech Bluff County Park StoryWalk® 2026 (Self-Led)",
+                "start": "2026-11-10T08:00:00",
+                "end": "2026-11-10T17:30:00",
+                "venue": "Beech Bluff County Park",
+                "address": "Beech Bluff Park Drive, Fuquay-Varina, NC",
+                "url": "https://apm.activecommunities.com/wakeparks/Activity_Search/beech-bluff-county-park-storywalk-2026-self-led/8358?locale=en-US",
+                "cost": "Free",
+                "lat": 35.58537279715877,
+                "lon": -78.6793341971644,
+                "ages": null,
+                "registration": false,
+                "indoor": false,
+                "area": "south-wake",
+                "source": "wake-parks",
+                "dropIn": true
+              }
+            }
+          ],
+          "rainBackup": null,
+          "timeline": [
+            {
+              "start": "07:00",
+              "end": "07:30",
+              "kind": "meal",
+              "title": "Up and breakfast"
+            },
+            {
+              "start": "07:30",
+              "end": "11:15",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "11:15",
+              "end": "11:45",
+              "kind": "meal",
+              "title": "Lunch"
+            },
+            {
+              "start": "11:45",
+              "end": "12:00",
+              "kind": "quiet",
+              "title": "Wind down",
+              "detail": "A couple of books to settle."
+            },
+            {
+              "start": "12:00",
+              "end": "14:00",
+              "kind": "nap",
+              "title": "Nap"
+            },
+            {
+              "start": "14:00",
+              "end": "14:10",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "14:10",
+              "end": "14:30",
+              "kind": "travel",
+              "title": "Drive to Lake Lynn Park"
+            },
+            {
+              "start": "14:30",
+              "end": "14:50",
+              "kind": "outing",
+              "title": "Lake Lynn Park"
+            },
+            {
+              "start": "14:50",
+              "end": "15:00",
+              "kind": "travel",
+              "title": "Drive to Lake Lynn Loop"
+            },
+            {
+              "start": "15:00",
+              "end": "16:00",
+              "kind": "outing",
+              "title": "Lake Lynn Loop Trail Kick-off"
+            },
+            {
+              "start": "16:00",
+              "end": "16:20",
+              "kind": "travel",
+              "title": "Drive home"
+            },
+            {
+              "start": "16:20",
+              "end": "17:30",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "17:30",
+              "end": "18:15",
+              "kind": "meal",
+              "title": "Dinner"
+            },
+            {
+              "start": "18:15",
+              "end": "19:00",
+              "kind": "routine",
+              "title": "Bath, books and bed"
+            }
+          ]
+        },
+        {
+          "nap": "late-nap",
+          "napLabel": "One nap, 1 to 3",
+          "headline": "Wander garden paths and forest trails",
+          "main": {
+            "ref": "place:nc-botanical-garden",
+            "arrive": "09:30",
+            "leave": "11:20",
+            "why": "Your toddler can wander the display gardens, point at plants and leaves, and try the nature trails through the forest behind them.",
+            "tips": [
+              "Start in the gardens, then try a short trail when your child is ready.",
+              "Bring a snack and water for a break.",
+              "Pick a last plant to say goodbye to before you leave."
+            ],
+            "interests": [
+              "nature",
+              "art"
+            ],
+            "also": [],
+            "area": "chapel-hill",
+            "outdoor": true,
+            "source": {
+              "kind": "garden",
+              "title": "NC Botanical Garden",
+              "address": "100 Old Mason Farm Rd, Chapel Hill, NC 27517",
+              "lat": 35.9011,
+              "lon": -79.0319,
+              "url": "https://ncbg.unc.edu/visit/",
+              "amenities": [
+                "garden",
+                "nature",
+                "restroom"
+              ],
+              "indoor": false,
+              "area": "chapel-hill",
+              "cost": "Free",
+              "note": "Free. Display gardens, and nature trails through the forest behind them."
+            }
+          },
+          "alternatives": [
+            {
+              "ref": "place:historic-oak-view-county-park",
+              "arrive": "09:30",
+              "leave": "11:15",
+              "why": "Historic Oak View has animals and a garden to explore. Your toddler can toddle along the paths and look around.",
+              "tips": [
+                "Bring a snack to eat before you leave.",
+                "Let your child pick which way to wander."
+              ],
+              "interests": [
+                "animals",
+                "nature"
+              ],
+              "also": [],
+              "area": "raleigh",
+              "outdoor": true,
+              "source": {
+                "kind": "park",
+                "title": "Historic Oak View County Park",
+                "address": "4028 Carya Dr., Raleigh, NC  27610",
+                "lat": 35.76980126731367,
+                "lon": -78.57063248179927,
+                "url": "https://www.wakegov.com/departments-government/parks-recreation-and-open-space/all-parks-trails/historic-oak-view-county-park",
+                "amenities": [
+                  "picnic-shelter",
+                  "restroom",
+                  "greenway",
+                  "animals",
+                  "garden"
+                ],
+                "indoor": false,
+                "area": "raleigh",
+                "hours": null,
+                "cost": null
+              }
+            },
+            {
+              "ref": "event:wake-parks:8358:2026-11-10",
+              "arrive": "15:30",
+              "leave": "17:00",
+              "why": "Walk the StoryWalk loop and read a page of the story at each stop. It is self-guided and needs no sign-up.",
+              "tips": [
+                "Let your child lead and point at the pictures.",
+                "Bring a snack for after the loop."
+              ],
+              "interests": [
+                "stories",
+                "nature"
+              ],
+              "also": [],
+              "area": "south-wake",
+              "outdoor": true,
+              "source": {
+                "kind": "event",
+                "title": "Beech Bluff County Park StoryWalk® 2026 (Self-Led)",
+                "start": "2026-11-10T08:00:00",
+                "end": "2026-11-10T17:30:00",
+                "venue": "Beech Bluff County Park",
+                "address": "Beech Bluff Park Drive, Fuquay-Varina, NC",
+                "url": "https://apm.activecommunities.com/wakeparks/Activity_Search/beech-bluff-county-park-storywalk-2026-self-led/8358?locale=en-US",
+                "cost": "Free",
+                "lat": 35.58537279715877,
+                "lon": -78.6793341971644,
+                "ages": null,
+                "registration": false,
+                "indoor": false,
+                "area": "south-wake",
+                "source": "wake-parks",
+                "dropIn": true
+              }
+            }
+          ],
+          "rainBackup": null,
+          "timeline": [
+            {
+              "start": "07:00",
+              "end": "07:30",
+              "kind": "meal",
+              "title": "Up and breakfast"
+            },
+            {
+              "start": "07:30",
+              "end": "08:50",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "08:50",
+              "end": "09:10",
+              "kind": "routine",
+              "title": "Get ready to go",
+              "detail": "Shoes on, diaper bag, water and a snack."
+            },
+            {
+              "start": "09:10",
+              "end": "09:30",
+              "kind": "travel",
+              "title": "Drive to NC Botanical Garden"
+            },
+            {
+              "start": "09:30",
+              "end": "11:20",
+              "kind": "outing",
+              "title": "NC Botanical Garden"
+            },
+            {
+              "start": "11:20",
+              "end": "11:40",
+              "kind": "travel",
+              "title": "Drive home"
+            },
+            {
+              "start": "11:40",
+              "end": "12:15",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "12:15",
+              "end": "12:45",
+              "kind": "meal",
+              "title": "Lunch"
+            },
+            {
+              "start": "12:45",
+              "end": "13:00",
+              "kind": "quiet",
+              "title": "Wind down",
+              "detail": "A couple of books to settle."
+            },
+            {
+              "start": "13:00",
+              "end": "15:00",
+              "kind": "nap",
+              "title": "Nap"
+            },
+            {
+              "start": "15:00",
+              "end": "15:20",
+              "kind": "routine",
+              "title": "Up and a snack"
+            },
+            {
+              "start": "15:20",
+              "end": "18:00",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "18:00",
+              "end": "18:45",
+              "kind": "meal",
+              "title": "Dinner"
+            },
+            {
+              "start": "18:45",
+              "end": "19:30",
+              "kind": "routine",
+              "title": "Bath, books and bed"
+            }
+          ]
+        }
+      ],
+      "dropped": [
+        "[early-nap] alternative event:libcal:durham-county-library:15559010 says to sign up, but the event says no sign-up is needed: \"Toddler Storytime has songs, dancing, flannel board stories and bubbles. No sign-up needed. Then Cornwallis Road Park for the playground.\"",
+        "[late-nap] alternative event:libcal:durham-county-library:15559083 says to sign up, but the event says no sign-up is needed: \"Toddler Storytime has songs, dancing, flannel board stories and bubbles. No sign-up needed. Then Old Chapel Hill Road Park for the playground.\"",
+        "[late-nap] alternative event:libcal:durham-county-library:16966195 says to sign up, but the event says no sign-up is needed: \"Playtime with Ms. Chelsea has songs, bubbles and building blocks. No sign-up needed. Then Honeycutt Park for the playground.\""
+      ]
+    }
+  ],
+  "checked": {
+    "at": "2026-11-07T11:04:04.069Z",
+    "forecast": "nws",
+    "weather": {
+      "period": "Tuesday",
+      "tempF": 71,
+      "precipProbability": 0,
+      "shortForecast": "Sunny",
+      "windMph": 7,
+      "windFrom": "NW",
+      "hours": [
+        {
+          "t": "05:00",
+          "tempF": 43,
+          "pop": 0,
+          "cloud": 1
+        },
+        {
+          "t": "06:00",
+          "tempF": 42,
+          "pop": 0,
+          "cloud": 3
+        },
+        {
+          "t": "07:00",
+          "tempF": 42,
+          "pop": 0,
+          "cloud": 4
+        },
+        {
+          "t": "08:00",
+          "tempF": 46,
+          "pop": 0,
+          "cloud": 4
+        },
+        {
+          "t": "09:00",
+          "tempF": 52,
+          "pop": 0,
+          "cloud": 4
+        },
+        {
+          "t": "10:00",
+          "tempF": 58,
+          "pop": 0,
+          "cloud": 4
+        },
+        {
+          "t": "11:00",
+          "tempF": 62,
+          "pop": 0,
+          "cloud": 6
+        },
+        {
+          "t": "12:00",
+          "tempF": 66,
+          "pop": 0,
+          "cloud": 8
+        },
+        {
+          "t": "13:00",
+          "tempF": 69,
+          "pop": 0,
+          "cloud": 10
+        },
+        {
+          "t": "14:00",
+          "tempF": 70,
+          "pop": 0,
+          "cloud": 13
+        },
+        {
+          "t": "15:00",
+          "tempF": 71,
+          "pop": 0,
+          "cloud": 16
+        },
+        {
+          "t": "16:00",
+          "tempF": 69,
+          "pop": 0,
+          "cloud": 19
+        },
+        {
+          "t": "17:00",
+          "tempF": 66,
+          "pop": 0,
+          "cloud": 23
+        },
+        {
+          "t": "18:00",
+          "tempF": 60,
+          "pop": 0,
+          "cloud": 26
+        },
+        {
+          "t": "19:00",
+          "tempF": 60,
+          "pop": 0,
+          "cloud": 30
+        },
+        {
+          "t": "20:00",
+          "tempF": 58,
+          "pop": 0,
+          "cloud": 30
+        },
+        {
+          "t": "21:00",
+          "tempF": 56,
+          "pop": 0,
+          "cloud": 30
+        },
+        {
+          "t": "22:00",
+          "tempF": 54,
+          "pop": 0,
+          "cloud": 30
+        },
+        {
+          "t": "23:00",
+          "tempF": 53,
+          "pop": 0,
+          "cloud": 30
+        }
+      ]
+    },
+    "hidden": []
+  }
+}

@@ -1,0 +1,970 @@
+{
+  "date": "2026-11-17",
+  "band": "t2",
+  "versions": [
+    {
+      "at": "2026-11-04T11:02:26.539Z",
+      "reason": null,
+      "forecast": "none",
+      "weather": null,
+      "plans": [
+        {
+          "nap": "early-nap",
+          "napLabel": "One nap, 12 to 2",
+          "headline": "A nature story, then a walk to find the wild",
+          "main": {
+            "ref": "place:whippoorwill-park",
+            "arrive": "09:30",
+            "leave": "11:00",
+            "why": "Your 2-year-old plays at the park first, then joins Muddy Boots at 10:00 am for a nature book and a walk to spot what is outside. A family needs to sign up for Muddy Boots.",
+            "tips": [
+              "Sign up ahead and meet at the Picnic Shelter. Bring a snack for after the walk.",
+              "Let your child lead the walk and stop to pick up leaves and sticks.",
+              "Say the walk is the last one before you head to the car, so leaving goes smoothly."
+            ],
+            "interests": [
+              "nature",
+              "stories",
+              "movement"
+            ],
+            "also": [
+              {
+                "ref": "event:durham-rec:19864",
+                "source": {
+                  "kind": "event",
+                  "title": "Muddy Boots",
+                  "start": "2026-11-17T10:00:00",
+                  "end": "2026-11-17T11:00:00",
+                  "venue": "Whippoorwill Park",
+                  "address": "1632 Rowemont Dr, Durham, NC",
+                  "url": "https://apm.activecommunities.com/dprplaymore/Activity_Search/muddy-boots/19864?locale=en-US",
+                  "cost": null,
+                  "lat": 36.047740000000005,
+                  "lon": -78.92395166666667,
+                  "ages": "1 - 6",
+                  "registration": "https://apm.activecommunities.com/dprplaymore/Activity_Search/muddy-boots/19864?locale=en-US",
+                  "indoor": false,
+                  "area": "durham",
+                  "source": "durham-rec",
+                  "dropIn": false
+                }
+              }
+            ],
+            "area": "durham",
+            "outdoor": true,
+            "source": {
+              "kind": "park",
+              "title": "Whippoorwill Park",
+              "address": "1632 Rowemont Dr, Durham, NC",
+              "lat": 36.047740000000005,
+              "lon": -78.92395166666667,
+              "url": "https://www.dprplaymore.org/Facilities/Facility/Details/Whippoorwill-Park-79",
+              "amenities": [
+                "playground",
+                "picnic-shelter",
+                "restroom",
+                "greenway"
+              ],
+              "indoor": false,
+              "area": "durham",
+              "hours": null,
+              "cost": null
+            }
+          },
+          "alternatives": [
+            {
+              "ref": "event:wake:22449",
+              "arrive": "09:20",
+              "leave": "10:40",
+              "why": "Songs, rhymes and books at Family Storytime at 9:30 am, then a run around Heater Park.",
+              "tips": [
+                "Pick up the free tickets at the Youth Services desk when you arrive.",
+                "Bring a snack for the park so the playground is the reward."
+              ],
+              "interests": [
+                "stories",
+                "music",
+                "movement"
+              ],
+              "also": [
+                {
+                  "ref": "place:heater-park",
+                  "source": {
+                    "kind": "park",
+                    "title": "Heater Park",
+                    "address": "400 S West Street, Cary, NC",
+                    "lat": 35.782741238152695,
+                    "lon": -78.78762242839083,
+                    "url": "https://www.carync.gov/recreation-enjoyment/parks-greenways-environment/parks/heater-park",
+                    "amenities": [
+                      "playground"
+                    ],
+                    "indoor": false,
+                    "area": "cary-apex",
+                    "hours": null,
+                    "cost": null
+                  }
+                }
+              ],
+              "area": "cary-apex",
+              "outdoor": false,
+              "source": {
+                "kind": "event",
+                "title": "Family Storytime",
+                "start": "2026-11-17T09:30:00-05:00",
+                "end": "2026-11-17T10:00:00-05:00",
+                "venue": "Cary Regional Library",
+                "address": "315 Kildaire Farm Road, Cary, NC",
+                "url": "https://www.wake.gov/events/family-storytime-4236",
+                "cost": "Free",
+                "lat": 35.7829780174653,
+                "lon": -78.780241332586,
+                "ages": "Young Children",
+                "registration": null,
+                "indoor": true,
+                "area": "cary-apex",
+                "source": "wake-county",
+                "dropIn": false
+              }
+            },
+            {
+              "ref": "place:gipson-play-plaza",
+              "arrive": "09:00",
+              "leave": "10:45",
+              "why": "A big destination playground for climbing and sliding at your child's own pace.",
+              "tips": [
+                "Bring water and a snack for a break halfway.",
+                "Give a five-minute warning before you go and head to the car together."
+              ],
+              "interests": [
+                "movement"
+              ],
+              "also": [],
+              "area": "raleigh",
+              "outdoor": true,
+              "source": {
+                "kind": "park",
+                "title": "Gipson Play Plaza at Dix Park",
+                "address": "715 Biggs Dr, Raleigh, NC 27603",
+                "lat": 35.7667,
+                "lon": -78.6539,
+                "url": "https://dixpark.org/gipson-play-plaza",
+                "amenities": [
+                  "playground",
+                  "restroom"
+                ],
+                "indoor": false,
+                "area": "raleigh",
+                "hours": {
+                  "sun": "8 a.m.–9 p.m.",
+                  "mon": "8 a.m.–9 p.m.",
+                  "tue": "8 a.m.–9 p.m.",
+                  "wed": "8 a.m.–9 p.m.",
+                  "thu": "8 a.m.–9 p.m.",
+                  "fri": "8 a.m.–9 p.m.",
+                  "sat": "8 a.m.–9 p.m."
+                },
+                "cost": "Free",
+                "note": "Free; free parking. Big destination playground on the south edge of Dix Park."
+              }
+            },
+            {
+              "ref": "event:wake:23579",
+              "arrive": "09:50",
+              "leave": "11:10",
+              "why": "Books, music and rhymes at Family Storytime at 10:00 am, then playground time at Ashworth Park.",
+              "tips": [
+                "Sit near the front so your child can see the pictures.",
+                "Save a snack for the park."
+              ],
+              "interests": [
+                "stories",
+                "music",
+                "movement"
+              ],
+              "also": [
+                {
+                  "ref": "place:fuquay-varina-museums-at-ashworth-park",
+                  "source": {
+                    "kind": "park",
+                    "title": "Fuquay-Varina Museums at Ashworth Park",
+                    "address": "131 South Fuquay Avenue, Fuquay-Varina, NC",
+                    "lat": 35.58355770107221,
+                    "lon": -78.79818805961258,
+                    "url": "http://www.fuquay-varina.org/Facilities/Facility/Details/FuquayVarina-Museums-at-Ashworth-Park-14",
+                    "amenities": [
+                      "playground",
+                      "greenway"
+                    ],
+                    "indoor": false,
+                    "area": "south-wake",
+                    "hours": null,
+                    "cost": null
+                  }
+                }
+              ],
+              "area": "south-wake",
+              "outdoor": false,
+              "source": {
+                "kind": "event",
+                "title": "Family Storytime",
+                "start": "2026-11-17T10:00:00-05:00",
+                "end": "2026-11-17T10:30:00-05:00",
+                "venue": "Fuquay-Varina Community Library",
+                "address": "271 Bramblehill Drive, Fuquay-Varina, NC",
+                "url": "https://www.wake.gov/events/family-storytime-4564",
+                "cost": "Free",
+                "lat": 35.5850617253451,
+                "lon": -78.7802518504044,
+                "ages": "Young Children",
+                "registration": null,
+                "indoor": true,
+                "area": "south-wake",
+                "source": "wake-county",
+                "dropIn": false
+              }
+            }
+          ],
+          "rainBackup": null,
+          "timeline": [
+            {
+              "start": "07:00",
+              "end": "07:30",
+              "kind": "meal",
+              "title": "Up and breakfast"
+            },
+            {
+              "start": "07:30",
+              "end": "08:50",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "08:50",
+              "end": "09:10",
+              "kind": "routine",
+              "title": "Get ready to go",
+              "detail": "Shoes on, diaper bag, water and a snack."
+            },
+            {
+              "start": "09:10",
+              "end": "09:30",
+              "kind": "travel",
+              "title": "Drive to Whippoorwill Park"
+            },
+            {
+              "start": "09:30",
+              "end": "09:50",
+              "kind": "outing",
+              "title": "Whippoorwill Park"
+            },
+            {
+              "start": "09:50",
+              "end": "10:00",
+              "kind": "travel",
+              "title": "Drive to Whippoorwill Park"
+            },
+            {
+              "start": "10:00",
+              "end": "11:00",
+              "kind": "outing",
+              "title": "Muddy Boots"
+            },
+            {
+              "start": "11:00",
+              "end": "11:20",
+              "kind": "travel",
+              "title": "Drive home"
+            },
+            {
+              "start": "11:20",
+              "end": "11:50",
+              "kind": "meal",
+              "title": "Lunch"
+            },
+            {
+              "start": "11:50",
+              "end": "12:00",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "12:00",
+              "end": "14:00",
+              "kind": "nap",
+              "title": "Nap"
+            },
+            {
+              "start": "14:00",
+              "end": "14:20",
+              "kind": "routine",
+              "title": "Up and a snack"
+            },
+            {
+              "start": "14:20",
+              "end": "18:00",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "18:00",
+              "end": "18:45",
+              "kind": "meal",
+              "title": "Dinner"
+            },
+            {
+              "start": "18:45",
+              "end": "19:30",
+              "kind": "routine",
+              "title": "Bath, books and bed"
+            }
+          ]
+        },
+        {
+          "nap": "late-nap",
+          "napLabel": "One nap, 1 to 3",
+          "headline": "Playground time and a nature walk at Harris Lake",
+          "main": {
+            "ref": "place:harris-lake-county-park",
+            "arrive": "09:30",
+            "leave": "11:30",
+            "why": "A relaxed morning at a park with a playground and nature to explore. Your 2-year-old can climb, run and collect leaves.",
+            "tips": [
+              "Bring a snack and a water bottle for a picnic break.",
+              "Let your child choose which way to walk and stop wherever something looks interesting.",
+              "Head for the car by 11:15 so lunch comes before the nap."
+            ],
+            "interests": [
+              "nature",
+              "movement"
+            ],
+            "also": [],
+            "area": "south-wake",
+            "outdoor": true,
+            "source": {
+              "kind": "park",
+              "title": "Harris Lake County Park",
+              "address": "2112 County Park Dr., New Hill, NC  27562",
+              "lat": 35.63024208800726,
+              "lon": -78.91757987745865,
+              "url": "https://www.wakegov.com/departments-government/parks-recreation-and-open-space/all-parks-trails/harris-lake-county-park",
+              "amenities": [
+                "playground",
+                "picnic-shelter",
+                "restroom",
+                "greenway",
+                "nature"
+              ],
+              "indoor": false,
+              "area": "south-wake",
+              "hours": null,
+              "cost": null
+            }
+          },
+          "alternatives": [
+            {
+              "ref": "place:rock-quarry-park",
+              "arrive": "09:30",
+              "leave": "12:00",
+              "why": "Warm up at Rock Quarry Park, then join Total Tot Time at 10:00 am to play in the gym with a parachute and tunnels. A family needs to sign up for Total Tot Time.",
+              "tips": [
+                "Sign up for Total Tot Time ahead of time.",
+                "Bring a snack and water for the gym.",
+                "Wear socks and shoes that are easy to take on and off."
+              ],
+              "interests": [
+                "movement",
+                "music"
+              ],
+              "also": [
+                {
+                  "ref": "event:durham-rec:19599:2026-11-17",
+                  "source": {
+                    "kind": "event",
+                    "title": "Total Tot Time",
+                    "start": "2026-11-17T10:00:00",
+                    "end": "2026-11-17T12:00:00",
+                    "venue": "Edison Johnson Rec Ctr",
+                    "address": "W Murray Ave, Durham, NC",
+                    "url": "https://apm.activecommunities.com/dprplaymore/Activity_Search/total-tot-time/19599?locale=en-US",
+                    "cost": null,
+                    "lat": 36.0299,
+                    "lon": -78.9011,
+                    "ages": "0 - 6",
+                    "registration": "https://apm.activecommunities.com/dprplaymore/Activity_Search/total-tot-time/19599?locale=en-US",
+                    "indoor": true,
+                    "area": "durham",
+                    "source": "durham-rec",
+                    "dropIn": false
+                  }
+                }
+              ],
+              "area": "durham",
+              "outdoor": false,
+              "source": {
+                "kind": "park",
+                "title": "Rock Quarry Park",
+                "address": "701 Stadium Dr, Durham, NC",
+                "lat": 36.03166363636364,
+                "lon": -78.90176545454545,
+                "url": "https://www.dprplaymore.org/Facilities/Facility/Details/Rock-Quarry-Park-60",
+                "amenities": [
+                  "playground",
+                  "splashpad",
+                  "restroom",
+                  "greenway"
+                ],
+                "indoor": false,
+                "area": "durham",
+                "hours": null,
+                "cost": null
+              }
+            },
+            {
+              "ref": "event:wake:22449",
+              "arrive": "09:20",
+              "leave": "10:40",
+              "why": "Songs, rhymes and books at Family Storytime at 9:30 am, then a run around Heater Park.",
+              "tips": [
+                "Pick up the free tickets at the Youth Services desk when you arrive.",
+                "Bring a snack for the park."
+              ],
+              "interests": [
+                "stories",
+                "music",
+                "movement"
+              ],
+              "also": [
+                {
+                  "ref": "place:heater-park",
+                  "source": {
+                    "kind": "park",
+                    "title": "Heater Park",
+                    "address": "400 S West Street, Cary, NC",
+                    "lat": 35.782741238152695,
+                    "lon": -78.78762242839083,
+                    "url": "https://www.carync.gov/recreation-enjoyment/parks-greenways-environment/parks/heater-park",
+                    "amenities": [
+                      "playground"
+                    ],
+                    "indoor": false,
+                    "area": "cary-apex",
+                    "hours": null,
+                    "cost": null
+                  }
+                }
+              ],
+              "area": "cary-apex",
+              "outdoor": false,
+              "source": {
+                "kind": "event",
+                "title": "Family Storytime",
+                "start": "2026-11-17T09:30:00-05:00",
+                "end": "2026-11-17T10:00:00-05:00",
+                "venue": "Cary Regional Library",
+                "address": "315 Kildaire Farm Road, Cary, NC",
+                "url": "https://www.wake.gov/events/family-storytime-4236",
+                "cost": "Free",
+                "lat": 35.7829780174653,
+                "lon": -78.780241332586,
+                "ages": "Young Children",
+                "registration": null,
+                "indoor": true,
+                "area": "cary-apex",
+                "source": "wake-county",
+                "dropIn": false
+              }
+            },
+            {
+              "ref": "place:gipson-play-plaza",
+              "arrive": "09:00",
+              "leave": "10:45",
+              "why": "A big destination playground for climbing and sliding at your child's own pace.",
+              "tips": [
+                "Bring water and a snack for a break halfway.",
+                "Give a five-minute warning before you go and head to the car together."
+              ],
+              "interests": [
+                "movement"
+              ],
+              "also": [],
+              "area": "raleigh",
+              "outdoor": true,
+              "source": {
+                "kind": "park",
+                "title": "Gipson Play Plaza at Dix Park",
+                "address": "715 Biggs Dr, Raleigh, NC 27603",
+                "lat": 35.7667,
+                "lon": -78.6539,
+                "url": "https://dixpark.org/gipson-play-plaza",
+                "amenities": [
+                  "playground",
+                  "restroom"
+                ],
+                "indoor": false,
+                "area": "raleigh",
+                "hours": {
+                  "sun": "8 a.m.–9 p.m.",
+                  "mon": "8 a.m.–9 p.m.",
+                  "tue": "8 a.m.–9 p.m.",
+                  "wed": "8 a.m.–9 p.m.",
+                  "thu": "8 a.m.–9 p.m.",
+                  "fri": "8 a.m.–9 p.m.",
+                  "sat": "8 a.m.–9 p.m."
+                },
+                "cost": "Free",
+                "note": "Free; free parking. Big destination playground on the south edge of Dix Park."
+              }
+            }
+          ],
+          "rainBackup": null,
+          "timeline": [
+            {
+              "start": "07:00",
+              "end": "07:30",
+              "kind": "meal",
+              "title": "Up and breakfast"
+            },
+            {
+              "start": "07:30",
+              "end": "08:50",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "08:50",
+              "end": "09:10",
+              "kind": "routine",
+              "title": "Get ready to go",
+              "detail": "Shoes on, diaper bag, water and a snack."
+            },
+            {
+              "start": "09:10",
+              "end": "09:30",
+              "kind": "travel",
+              "title": "Drive to Harris Lake County Park"
+            },
+            {
+              "start": "09:30",
+              "end": "11:30",
+              "kind": "outing",
+              "title": "Harris Lake County Park"
+            },
+            {
+              "start": "11:30",
+              "end": "11:50",
+              "kind": "travel",
+              "title": "Drive home"
+            },
+            {
+              "start": "11:50",
+              "end": "12:15",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "12:15",
+              "end": "12:45",
+              "kind": "meal",
+              "title": "Lunch"
+            },
+            {
+              "start": "12:45",
+              "end": "13:00",
+              "kind": "quiet",
+              "title": "Wind down",
+              "detail": "A couple of books to settle."
+            },
+            {
+              "start": "13:00",
+              "end": "15:00",
+              "kind": "nap",
+              "title": "Nap"
+            },
+            {
+              "start": "15:00",
+              "end": "15:20",
+              "kind": "routine",
+              "title": "Up and a snack"
+            },
+            {
+              "start": "15:20",
+              "end": "18:30",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "18:30",
+              "end": "19:15",
+              "kind": "meal",
+              "title": "Dinner"
+            },
+            {
+              "start": "19:15",
+              "end": "20:00",
+              "kind": "routine",
+              "title": "Bath, books and bed"
+            }
+          ]
+        },
+        {
+          "nap": "short-nap",
+          "napLabel": "Short nap, 1 to 2",
+          "headline": "Playground, garden and nature paths at Lake Crabtree",
+          "main": {
+            "ref": "place:lake-crabtree-county-park",
+            "arrive": "09:30",
+            "leave": "11:30",
+            "why": "A morning at a big park with a playground, greenway, garden and nature to explore. Your 2-year-old can run, climb and find leaves.",
+            "tips": [
+              "Bring a snack and water for a picnic break.",
+              "Let your child pick which path to try.",
+              "Start toward the car by 11:15 so you are home for lunch before the nap."
+            ],
+            "interests": [
+              "nature",
+              "movement"
+            ],
+            "also": [],
+            "area": "north-raleigh",
+            "outdoor": true,
+            "source": {
+              "kind": "park",
+              "title": "Lake Crabtree County Park",
+              "address": "1400 Aviation Pkwy., Morrisville, NC  27560",
+              "lat": 35.845600151785014,
+              "lon": -78.80104927513673,
+              "url": "https://www.wakegov.com/departments-government/parks-recreation-and-open-space/all-parks-trails/lake-crabtree-county-park",
+              "amenities": [
+                "playground",
+                "picnic-shelter",
+                "restroom",
+                "greenway",
+                "nature",
+                "garden",
+                "boating"
+              ],
+              "indoor": false,
+              "area": "north-raleigh",
+              "hours": null,
+              "cost": null
+            }
+          },
+          "alternatives": [
+            {
+              "ref": "place:whippoorwill-park",
+              "arrive": "09:30",
+              "leave": "11:00",
+              "why": "Play at the park, then join Muddy Boots at 10:00 am for a nature book and a walk to find the wild. A family needs to sign up for Muddy Boots.",
+              "tips": [
+                "Sign up ahead and meet at the Picnic Shelter.",
+                "Bring a snack for after the walk."
+              ],
+              "interests": [
+                "nature",
+                "stories",
+                "movement"
+              ],
+              "also": [
+                {
+                  "ref": "event:durham-rec:19864",
+                  "source": {
+                    "kind": "event",
+                    "title": "Muddy Boots",
+                    "start": "2026-11-17T10:00:00",
+                    "end": "2026-11-17T11:00:00",
+                    "venue": "Whippoorwill Park",
+                    "address": "1632 Rowemont Dr, Durham, NC",
+                    "url": "https://apm.activecommunities.com/dprplaymore/Activity_Search/muddy-boots/19864?locale=en-US",
+                    "cost": null,
+                    "lat": 36.047740000000005,
+                    "lon": -78.92395166666667,
+                    "ages": "1 - 6",
+                    "registration": "https://apm.activecommunities.com/dprplaymore/Activity_Search/muddy-boots/19864?locale=en-US",
+                    "indoor": false,
+                    "area": "durham",
+                    "source": "durham-rec",
+                    "dropIn": false
+                  }
+                }
+              ],
+              "area": "durham",
+              "outdoor": true,
+              "source": {
+                "kind": "park",
+                "title": "Whippoorwill Park",
+                "address": "1632 Rowemont Dr, Durham, NC",
+                "lat": 36.047740000000005,
+                "lon": -78.92395166666667,
+                "url": "https://www.dprplaymore.org/Facilities/Facility/Details/Whippoorwill-Park-79",
+                "amenities": [
+                  "playground",
+                  "picnic-shelter",
+                  "restroom",
+                  "greenway"
+                ],
+                "indoor": false,
+                "area": "durham",
+                "hours": null,
+                "cost": null
+              }
+            },
+            {
+              "ref": "event:wake:23579",
+              "arrive": "09:50",
+              "leave": "11:10",
+              "why": "Books, music and rhymes at Family Storytime at 10:00 am, then playground time at Ashworth Park.",
+              "tips": [
+                "Sit near the front so your child can see the pictures.",
+                "Save a snack for the park."
+              ],
+              "interests": [
+                "stories",
+                "music",
+                "movement"
+              ],
+              "also": [
+                {
+                  "ref": "place:fuquay-varina-museums-at-ashworth-park",
+                  "source": {
+                    "kind": "park",
+                    "title": "Fuquay-Varina Museums at Ashworth Park",
+                    "address": "131 South Fuquay Avenue, Fuquay-Varina, NC",
+                    "lat": 35.58355770107221,
+                    "lon": -78.79818805961258,
+                    "url": "http://www.fuquay-varina.org/Facilities/Facility/Details/FuquayVarina-Museums-at-Ashworth-Park-14",
+                    "amenities": [
+                      "playground",
+                      "greenway"
+                    ],
+                    "indoor": false,
+                    "area": "south-wake",
+                    "hours": null,
+                    "cost": null
+                  }
+                }
+              ],
+              "area": "south-wake",
+              "outdoor": false,
+              "source": {
+                "kind": "event",
+                "title": "Family Storytime",
+                "start": "2026-11-17T10:00:00-05:00",
+                "end": "2026-11-17T10:30:00-05:00",
+                "venue": "Fuquay-Varina Community Library",
+                "address": "271 Bramblehill Drive, Fuquay-Varina, NC",
+                "url": "https://www.wake.gov/events/family-storytime-4564",
+                "cost": "Free",
+                "lat": 35.5850617253451,
+                "lon": -78.7802518504044,
+                "ages": "Young Children",
+                "registration": null,
+                "indoor": true,
+                "area": "south-wake",
+                "source": "wake-county",
+                "dropIn": false
+              }
+            },
+            {
+              "ref": "event:wake:22449",
+              "arrive": "09:20",
+              "leave": "10:40",
+              "why": "Songs, rhymes and books at Family Storytime at 9:30 am, then a run around Heater Park.",
+              "tips": [
+                "Pick up the free tickets at the Youth Services desk when you arrive.",
+                "Bring a snack for the park."
+              ],
+              "interests": [
+                "stories",
+                "music",
+                "movement"
+              ],
+              "also": [
+                {
+                  "ref": "place:heater-park",
+                  "source": {
+                    "kind": "park",
+                    "title": "Heater Park",
+                    "address": "400 S West Street, Cary, NC",
+                    "lat": 35.782741238152695,
+                    "lon": -78.78762242839083,
+                    "url": "https://www.carync.gov/recreation-enjoyment/parks-greenways-environment/parks/heater-park",
+                    "amenities": [
+                      "playground"
+                    ],
+                    "indoor": false,
+                    "area": "cary-apex",
+                    "hours": null,
+                    "cost": null
+                  }
+                }
+              ],
+              "area": "cary-apex",
+              "outdoor": false,
+              "source": {
+                "kind": "event",
+                "title": "Family Storytime",
+                "start": "2026-11-17T09:30:00-05:00",
+                "end": "2026-11-17T10:00:00-05:00",
+                "venue": "Cary Regional Library",
+                "address": "315 Kildaire Farm Road, Cary, NC",
+                "url": "https://www.wake.gov/events/family-storytime-4236",
+                "cost": "Free",
+                "lat": 35.7829780174653,
+                "lon": -78.780241332586,
+                "ages": "Young Children",
+                "registration": null,
+                "indoor": true,
+                "area": "cary-apex",
+                "source": "wake-county",
+                "dropIn": false
+              }
+            },
+            {
+              "ref": "place:gipson-play-plaza",
+              "arrive": "14:30",
+              "leave": "16:30",
+              "why": "A big destination playground for an afternoon of climbing and sliding after the nap.",
+              "tips": [
+                "Bring water and a snack for a break halfway.",
+                "Give a five-minute warning before you go and head to the car together."
+              ],
+              "interests": [
+                "movement"
+              ],
+              "also": [],
+              "area": "raleigh",
+              "outdoor": true,
+              "source": {
+                "kind": "park",
+                "title": "Gipson Play Plaza at Dix Park",
+                "address": "715 Biggs Dr, Raleigh, NC 27603",
+                "lat": 35.7667,
+                "lon": -78.6539,
+                "url": "https://dixpark.org/gipson-play-plaza",
+                "amenities": [
+                  "playground",
+                  "restroom"
+                ],
+                "indoor": false,
+                "area": "raleigh",
+                "hours": {
+                  "sun": "8 a.m.–9 p.m.",
+                  "mon": "8 a.m.–9 p.m.",
+                  "tue": "8 a.m.–9 p.m.",
+                  "wed": "8 a.m.–9 p.m.",
+                  "thu": "8 a.m.–9 p.m.",
+                  "fri": "8 a.m.–9 p.m.",
+                  "sat": "8 a.m.–9 p.m."
+                },
+                "cost": "Free",
+                "note": "Free; free parking. Big destination playground on the south edge of Dix Park."
+              }
+            }
+          ],
+          "rainBackup": null,
+          "timeline": [
+            {
+              "start": "07:00",
+              "end": "07:30",
+              "kind": "meal",
+              "title": "Up and breakfast"
+            },
+            {
+              "start": "07:30",
+              "end": "08:50",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "08:50",
+              "end": "09:10",
+              "kind": "routine",
+              "title": "Get ready to go",
+              "detail": "Shoes on, diaper bag, water and a snack."
+            },
+            {
+              "start": "09:10",
+              "end": "09:30",
+              "kind": "travel",
+              "title": "Drive to Lake Crabtree County Park"
+            },
+            {
+              "start": "09:30",
+              "end": "11:30",
+              "kind": "outing",
+              "title": "Lake Crabtree County Park"
+            },
+            {
+              "start": "11:30",
+              "end": "11:50",
+              "kind": "travel",
+              "title": "Drive home"
+            },
+            {
+              "start": "11:50",
+              "end": "12:15",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "12:15",
+              "end": "12:45",
+              "kind": "meal",
+              "title": "Lunch"
+            },
+            {
+              "start": "12:45",
+              "end": "13:00",
+              "kind": "quiet",
+              "title": "Wind down",
+              "detail": "A couple of books to settle."
+            },
+            {
+              "start": "13:00",
+              "end": "14:00",
+              "kind": "nap",
+              "title": "Nap"
+            },
+            {
+              "start": "14:00",
+              "end": "14:20",
+              "kind": "routine",
+              "title": "Up and a snack"
+            },
+            {
+              "start": "14:20",
+              "end": "18:00",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "18:00",
+              "end": "18:45",
+              "kind": "meal",
+              "title": "Dinner"
+            },
+            {
+              "start": "18:45",
+              "end": "19:30",
+              "kind": "routine",
+              "title": "Bath, books and bed"
+            }
+          ]
+        }
+      ],
+      "dropped": [
+        "[early-nap] alternative event:libcal:durham-county-library:17405745 Fall Craft Adventures for Kids! is for Elementary School, Pre-School, Toddler, Tweens: 9-12 Year Olds",
+        "[early-nap] alternative event:libcal:durham-county-library:17405745 says to sign up, but the event says no sign-up is needed: \"Fall Craft Adventures at 3:30 pm lets your child make toys from paper and other materials. No sign-up is needed. Then play at East End Park.\"",
+        "[late-nap] alternative event:libcal:durham-county-library:17405745 Fall Craft Adventures for Kids! is for Elementary School, Pre-School, Toddler, Tweens: 9-12 Year Olds",
+        "[late-nap] alternative event:libcal:durham-county-library:17405745 says to sign up, but the event says no sign-up is needed: \"Fall Craft Adventures at 3:30 pm lets your child make toys from paper and other materials. No sign-up is needed. Then play at East End Park.\""
+      ]
+    }
+  ],
+  "checked": {
+    "at": "2026-11-07T11:04:04.186Z",
+    "forecast": "none",
+    "weather": null,
+    "hidden": []
+  }
+}

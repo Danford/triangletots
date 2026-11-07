@@ -1,0 +1,1170 @@
+{
+  "date": "2026-11-11",
+  "band": "t1",
+  "versions": [
+    {
+      "at": "2026-11-06T20:46:01.625Z",
+      "reason": null,
+      "forecast": "nws",
+      "weather": {
+        "period": "Veterans Day",
+        "tempF": 71,
+        "precipProbability": 0,
+        "shortForecast": "Sunny",
+        "hours": [
+          {
+            "t": "05:00",
+            "tempF": 49,
+            "pop": 0
+          },
+          {
+            "t": "06:00",
+            "tempF": 48,
+            "pop": 0
+          },
+          {
+            "t": "07:00",
+            "tempF": 48,
+            "pop": 0
+          },
+          {
+            "t": "08:00",
+            "tempF": 51,
+            "pop": 0
+          },
+          {
+            "t": "09:00",
+            "tempF": 56,
+            "pop": 0
+          },
+          {
+            "t": "10:00",
+            "tempF": 61,
+            "pop": 0
+          },
+          {
+            "t": "11:00",
+            "tempF": 64,
+            "pop": 0
+          },
+          {
+            "t": "12:00",
+            "tempF": 67,
+            "pop": 0
+          },
+          {
+            "t": "13:00",
+            "tempF": 69,
+            "pop": 0
+          },
+          {
+            "t": "14:00",
+            "tempF": 70,
+            "pop": 0
+          },
+          {
+            "t": "15:00",
+            "tempF": 70,
+            "pop": 0
+          },
+          {
+            "t": "16:00",
+            "tempF": 69,
+            "pop": 0
+          },
+          {
+            "t": "17:00",
+            "tempF": 65,
+            "pop": 0
+          },
+          {
+            "t": "18:00",
+            "tempF": 60,
+            "pop": 0
+          },
+          {
+            "t": "19:00",
+            "tempF": 56,
+            "pop": 0
+          },
+          {
+            "t": "20:00",
+            "tempF": 54,
+            "pop": 0
+          },
+          {
+            "t": "21:00",
+            "tempF": 53,
+            "pop": 0
+          },
+          {
+            "t": "22:00",
+            "tempF": 52,
+            "pop": 0
+          },
+          {
+            "t": "23:00",
+            "tempF": 51,
+            "pop": 0
+          }
+        ]
+      },
+      "plans": [
+        {
+          "nap": "two-naps",
+          "napLabel": "Two naps",
+          "headline": "Hear a story in the woods, then sing at Baby Time",
+          "main": {
+            "ref": "place:museum-of-life-and-science",
+            "arrive": "11:00",
+            "leave": "12:45",
+            "why": "Your toddler can explore outside, hear a story in Hideaway Woods at 11:30 am, then join Baby Time for songs and movement at 12:30 pm. Both are drop-in.",
+            "tips": [
+              "Play in Hideaway Woods before the story so your child is ready to sit.",
+              "Baby Time is only 10 to 15 minutes, so have a snack ready for the gap.",
+              "Leave right after the songs while your child is still happy."
+            ],
+            "interests": [
+              "stories",
+              "music",
+              "nature"
+            ],
+            "also": [
+              {
+                "ref": "event:weekly:mols-storytime:2026-11-11",
+                "source": {
+                  "kind": "event",
+                  "title": "Storytime in Hideaway Woods",
+                  "start": "2026-11-11T11:30:00",
+                  "end": "2026-11-11T12:00:00",
+                  "venue": "Hideaway Woods, Museum of Life and Science",
+                  "address": "433 W Murray Ave, Durham, NC 27704",
+                  "url": "https://www.lifeandscience.org/learn/drop-in-programs/",
+                  "cost": "Included with museum admission",
+                  "lat": 36.0294,
+                  "lon": -78.8993,
+                  "ages": null,
+                  "registration": false,
+                  "indoor": false,
+                  "area": "durham",
+                  "source": "weekly",
+                  "dropIn": true
+                }
+              },
+              {
+                "ref": "event:weekly:mols-baby-time:2026-11-11",
+                "source": {
+                  "kind": "event",
+                  "title": "Baby Time",
+                  "start": "2026-11-11T12:30:00",
+                  "end": "2026-11-11T12:45:00",
+                  "venue": "Play to Learn, Museum of Life and Science",
+                  "address": "433 W Murray Ave, Durham, NC 27704",
+                  "url": "https://www.lifeandscience.org/learn/drop-in-programs/",
+                  "cost": "Included with museum admission",
+                  "lat": 36.0294,
+                  "lon": -78.8993,
+                  "ages": "babies",
+                  "registration": false,
+                  "indoor": true,
+                  "area": "durham",
+                  "source": "weekly",
+                  "dropIn": true
+                }
+              }
+            ],
+            "area": "durham",
+            "outdoor": true,
+            "source": {
+              "kind": "museum",
+              "title": "Museum of Life and Science",
+              "address": "433 W Murray Ave, Durham, NC 27704",
+              "lat": 36.0294,
+              "lon": -78.8993,
+              "url": "https://www.lifeandscience.org/visit/",
+              "amenities": [
+                "nature",
+                "animals",
+                "train",
+                "playground",
+                "restroom"
+              ],
+              "indoor": false,
+              "area": "durham",
+              "cost": "$24 adults, $19 ages 3–15, under 3 free",
+              "note": "Tickets: $24 adults, $19 ages 3–15, under 3 free. Hideaway Woods treehouses and creek, farmyard, train ride and Dinosaur Trail are outside."
+            }
+          },
+          "alternatives": [
+            {
+              "ref": "event:wake-parks:8358:2026-11-11",
+              "arrive": "11:00",
+              "leave": "12:30",
+              "why": "Walk the StoryWalk loop and read a page of the story at each stop. It is self-guided and needs no sign-up.",
+              "tips": [
+                "Let your child lead and point at the pictures.",
+                "Bring a snack for the end of the loop."
+              ],
+              "interests": [
+                "stories",
+                "nature"
+              ],
+              "also": [],
+              "area": "south-wake",
+              "outdoor": true,
+              "source": {
+                "kind": "event",
+                "title": "Beech Bluff County Park StoryWalk® 2026 (Self-Led)",
+                "start": "2026-11-11T08:00:00",
+                "end": "2026-11-11T17:30:00",
+                "venue": "Beech Bluff County Park",
+                "address": "Beech Bluff Park Drive, Fuquay-Varina, NC",
+                "url": "https://apm.activecommunities.com/wakeparks/Activity_Search/beech-bluff-county-park-storywalk-2026-self-led/8358?locale=en-US",
+                "cost": "Free",
+                "lat": 35.58537279715877,
+                "lon": -78.6793341971644,
+                "ages": null,
+                "registration": false,
+                "indoor": false,
+                "area": "south-wake",
+                "source": "wake-parks",
+                "dropIn": true
+              }
+            },
+            {
+              "ref": "place:pullen-park-amusements",
+              "arrive": "11:00",
+              "leave": "12:45",
+              "why": "Ride the carousel and the train, then run around on the playground.",
+              "tips": [
+                "Do the rides first while your child is fresh.",
+                "Bring a snack for the car ride home."
+              ],
+              "interests": [
+                "vehicles",
+                "movement"
+              ],
+              "also": [],
+              "area": "raleigh",
+              "outdoor": true,
+              "source": {
+                "kind": "park",
+                "title": "Pullen Park Amusements",
+                "address": "410 Park Ave, Raleigh, NC 27606",
+                "lat": 35.7806,
+                "lon": -78.66396,
+                "url": "https://raleighnc.gov/parks-and-recreation/places/pullen-park-amusements",
+                "amenities": [
+                  "carousel",
+                  "boating",
+                  "train",
+                  "amusements",
+                  "courts",
+                  "playground",
+                  "picnic-shelter"
+                ],
+                "indoor": false,
+                "area": "raleigh",
+                "hours": {
+                  "mon": "10 a.m.–6 p.m.",
+                  "tue": "10 a.m.–6 p.m.",
+                  "wed": "10 a.m.–6 p.m.",
+                  "thu": "10 a.m.–6 p.m.",
+                  "fri": "10 a.m.–8 p.m.",
+                  "sat": "10 a.m.–8 p.m.",
+                  "sun": "10 a.m.–8 p.m."
+                },
+                "cost": null
+              }
+            },
+            {
+              "ref": "place:falls-lake-state-recreation-area-beaverdam-lake-entrance",
+              "arrive": "11:00",
+              "leave": "12:30",
+              "why": "Your toddler can climb and slide on the playground, then take a short walk on the greenway.",
+              "tips": [
+                "Play first, then walk when your child slows down.",
+                "Bring a snack for the picnic shelter."
+              ],
+              "interests": [
+                "movement",
+                "nature"
+              ],
+              "also": [],
+              "area": "north-raleigh",
+              "outdoor": true,
+              "source": {
+                "kind": "park",
+                "title": "Falls Lake State Recreation Area - Beaverdam Lake Entrance",
+                "address": "14600 Creedmoor Rd, Wake Forest",
+                "lat": 36.042355697507375,
+                "lon": -78.69804873966285,
+                "url": "https://www.ncparks.gov/falls-lake-state-recreation-area",
+                "amenities": [
+                  "playground",
+                  "picnic-shelter",
+                  "restroom",
+                  "greenway"
+                ],
+                "indoor": false,
+                "area": "north-raleigh",
+                "hours": null,
+                "cost": null
+              }
+            },
+            {
+              "ref": "place:hemlock-bluffs",
+              "arrive": "11:00",
+              "leave": "12:30",
+              "why": "Take a woodsy walk on the trails and look for leaves, sticks and birds.",
+              "tips": [
+                "The trails have stairs, so a carrier works better than a stroller.",
+                "Bring a small bag for leaves and sticks to take home."
+              ],
+              "interests": [
+                "nature"
+              ],
+              "also": [],
+              "area": "cary-apex",
+              "outdoor": true,
+              "source": {
+                "kind": "park",
+                "title": "Hemlock Bluffs Nature Preserve",
+                "address": "2616 Kildaire Farm Rd, Cary, NC 27518",
+                "lat": 35.7253,
+                "lon": -78.7846,
+                "url": "https://www.carync.gov/recreation-enjoyment/parks-greenways-environment/parks/stevens-nature-center-at-hemlock-bluffs-nature-preserve",
+                "amenities": [
+                  "nature"
+                ],
+                "indoor": false,
+                "area": "cary-apex",
+                "hours": {
+                  "sun": "9 a.m. to sunset",
+                  "mon": "9 a.m. to sunset",
+                  "tue": "9 a.m. to sunset",
+                  "wed": "9 a.m. to sunset",
+                  "thu": "9 a.m. to sunset",
+                  "fri": "9 a.m. to sunset",
+                  "sat": "9 a.m. to sunset"
+                },
+                "cost": "Free",
+                "note": "Free. About three miles of mulched trails and boardwalks with stairs (a carrier beats a stroller); restrooms in the Stevens Nature Center, open Mon–Sat 10–5, Sun 1–5."
+              }
+            }
+          ],
+          "rainBackup": null,
+          "timeline": [
+            {
+              "start": "07:00",
+              "end": "07:30",
+              "kind": "meal",
+              "title": "Up and breakfast"
+            },
+            {
+              "start": "07:30",
+              "end": "09:30",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "09:30",
+              "end": "10:30",
+              "kind": "nap",
+              "title": "Nap"
+            },
+            {
+              "start": "10:30",
+              "end": "10:40",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "10:40",
+              "end": "11:00",
+              "kind": "travel",
+              "title": "Drive to Museum of Life and Science"
+            },
+            {
+              "start": "11:00",
+              "end": "11:20",
+              "kind": "outing",
+              "title": "Museum of Life and Science",
+              "detail": "Pack a lunch to eat there."
+            },
+            {
+              "start": "11:20",
+              "end": "11:30",
+              "kind": "travel",
+              "title": "Drive to Hideaway Woods, Museum of Life and Science"
+            },
+            {
+              "start": "11:30",
+              "end": "12:00",
+              "kind": "outing",
+              "title": "Storytime in Hideaway Woods"
+            },
+            {
+              "start": "12:00",
+              "end": "12:10",
+              "kind": "travel",
+              "title": "Drive to Play to Learn, Museum of Life and Science"
+            },
+            {
+              "start": "12:10",
+              "end": "12:45",
+              "kind": "outing",
+              "title": "Baby Time"
+            },
+            {
+              "start": "12:45",
+              "end": "13:05",
+              "kind": "travel",
+              "title": "Drive home"
+            },
+            {
+              "start": "13:05",
+              "end": "14:30",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "14:30",
+              "end": "15:30",
+              "kind": "nap",
+              "title": "Nap"
+            },
+            {
+              "start": "15:30",
+              "end": "15:50",
+              "kind": "routine",
+              "title": "Up and a snack"
+            },
+            {
+              "start": "15:50",
+              "end": "17:30",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "17:30",
+              "end": "18:15",
+              "kind": "meal",
+              "title": "Dinner"
+            },
+            {
+              "start": "18:15",
+              "end": "19:00",
+              "kind": "routine",
+              "title": "Bath, books and bed"
+            }
+          ]
+        },
+        {
+          "nap": "early-nap",
+          "napLabel": "One nap, 12 to 2",
+          "headline": "Stroll the greenway and garden paths",
+          "main": {
+            "ref": "place:historic-yates-mill-county-park",
+            "arrive": "09:15",
+            "leave": "11:00",
+            "why": "Your toddler can toddle along the greenway and look at the garden and the nature around Historic Yates Mill County Park.",
+            "tips": [
+              "Let your child stop and look at everything.",
+              "Bring a snack and water for a break.",
+              "Head to the car with time to spare before nap."
+            ],
+            "interests": [
+              "nature"
+            ],
+            "also": [],
+            "area": "raleigh",
+            "outdoor": true,
+            "source": {
+              "kind": "park",
+              "title": "Historic Yates Mill County Park",
+              "address": "4620 Lake Wheeler Rd., Raleigh, NC  27603",
+              "lat": 35.72157134974476,
+              "lon": -78.68526087901417,
+              "url": "https://www.wakegov.com/departments-government/parks-recreation-and-open-space/all-parks-trails/historic-yates-mill-county-park",
+              "amenities": [
+                "restroom",
+                "greenway",
+                "nature",
+                "garden"
+              ],
+              "indoor": false,
+              "area": "raleigh",
+              "hours": null,
+              "cost": null
+            }
+          },
+          "alternatives": [
+            {
+              "ref": "place:museum-of-life-and-science",
+              "arrive": "10:00",
+              "leave": "11:15",
+              "why": "Explore the outdoor Hideaway Woods treehouses and creek, the farmyard and the train ride at the Museum of Life and Science.",
+              "tips": [
+                "Start at the farmyard while your child is fresh.",
+                "Bring a snack and water for a break."
+              ],
+              "interests": [
+                "animals",
+                "nature",
+                "vehicles"
+              ],
+              "also": [],
+              "area": "durham",
+              "outdoor": true,
+              "source": {
+                "kind": "museum",
+                "title": "Museum of Life and Science",
+                "address": "433 W Murray Ave, Durham, NC 27704",
+                "lat": 36.0294,
+                "lon": -78.8993,
+                "url": "https://www.lifeandscience.org/visit/",
+                "amenities": [
+                  "nature",
+                  "animals",
+                  "train",
+                  "playground",
+                  "restroom"
+                ],
+                "indoor": false,
+                "area": "durham",
+                "cost": "$24 adults, $19 ages 3–15, under 3 free",
+                "note": "Tickets: $24 adults, $19 ages 3–15, under 3 free. Hideaway Woods treehouses and creek, farmyard, train ride and Dinosaur Trail are outside."
+              }
+            },
+            {
+              "ref": "place:wendell-park",
+              "arrive": "09:00",
+              "leave": "10:45",
+              "why": "Wendell Park has a playground and a greenway. Your toddler can climb and slide, then take a short walk.",
+              "tips": [
+                "Play first, then walk the greenway.",
+                "Bring a snack for the picnic shelter."
+              ],
+              "interests": [
+                "movement",
+                "nature"
+              ],
+              "also": [],
+              "area": "east-wake",
+              "outdoor": true,
+              "source": {
+                "kind": "park",
+                "title": "Wendell Park",
+                "address": "601 W. Third Street, Wendell, NC",
+                "lat": 35.78171909213524,
+                "lon": -78.37858290652449,
+                "url": "https://townofwendellnc.gov/departments/parks_and_recreation/facilities___rentals/index.php",
+                "amenities": [
+                  "playground",
+                  "picnic-shelter",
+                  "restroom",
+                  "greenway"
+                ],
+                "indoor": false,
+                "area": "east-wake",
+                "hours": null,
+                "cost": null
+              }
+            },
+            {
+              "ref": "place:hemlock-bluffs",
+              "arrive": "09:00",
+              "leave": "10:45",
+              "why": "Take a woodsy walk on the trails and look for leaves, sticks and birds.",
+              "tips": [
+                "The trails have stairs, so a carrier works better than a stroller.",
+                "Bring a snack for the end of the walk."
+              ],
+              "interests": [
+                "nature"
+              ],
+              "also": [],
+              "area": "cary-apex",
+              "outdoor": true,
+              "source": {
+                "kind": "park",
+                "title": "Hemlock Bluffs Nature Preserve",
+                "address": "2616 Kildaire Farm Rd, Cary, NC 27518",
+                "lat": 35.7253,
+                "lon": -78.7846,
+                "url": "https://www.carync.gov/recreation-enjoyment/parks-greenways-environment/parks/stevens-nature-center-at-hemlock-bluffs-nature-preserve",
+                "amenities": [
+                  "nature"
+                ],
+                "indoor": false,
+                "area": "cary-apex",
+                "hours": {
+                  "sun": "9 a.m. to sunset",
+                  "mon": "9 a.m. to sunset",
+                  "tue": "9 a.m. to sunset",
+                  "wed": "9 a.m. to sunset",
+                  "thu": "9 a.m. to sunset",
+                  "fri": "9 a.m. to sunset",
+                  "sat": "9 a.m. to sunset"
+                },
+                "cost": "Free",
+                "note": "Free. About three miles of mulched trails and boardwalks with stairs (a carrier beats a stroller); restrooms in the Stevens Nature Center, open Mon–Sat 10–5, Sun 1–5."
+              }
+            },
+            {
+              "ref": "event:wake-parks:8358:2026-11-11",
+              "arrive": "14:30",
+              "leave": "16:00",
+              "why": "Walk the StoryWalk loop and read a page of the story at each stop. It is self-guided and needs no sign-up.",
+              "tips": [
+                "Let your child set the pace and point at the pictures.",
+                "Bring a snack for after the loop."
+              ],
+              "interests": [
+                "stories",
+                "nature"
+              ],
+              "also": [],
+              "area": "south-wake",
+              "outdoor": true,
+              "source": {
+                "kind": "event",
+                "title": "Beech Bluff County Park StoryWalk® 2026 (Self-Led)",
+                "start": "2026-11-11T08:00:00",
+                "end": "2026-11-11T17:30:00",
+                "venue": "Beech Bluff County Park",
+                "address": "Beech Bluff Park Drive, Fuquay-Varina, NC",
+                "url": "https://apm.activecommunities.com/wakeparks/Activity_Search/beech-bluff-county-park-storywalk-2026-self-led/8358?locale=en-US",
+                "cost": "Free",
+                "lat": 35.58537279715877,
+                "lon": -78.6793341971644,
+                "ages": null,
+                "registration": false,
+                "indoor": false,
+                "area": "south-wake",
+                "source": "wake-parks",
+                "dropIn": true
+              }
+            }
+          ],
+          "rainBackup": null,
+          "timeline": [
+            {
+              "start": "07:00",
+              "end": "07:30",
+              "kind": "meal",
+              "title": "Up and breakfast"
+            },
+            {
+              "start": "07:30",
+              "end": "08:35",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "08:35",
+              "end": "08:55",
+              "kind": "routine",
+              "title": "Get ready to go",
+              "detail": "Shoes on, diaper bag, water and a snack."
+            },
+            {
+              "start": "08:55",
+              "end": "09:15",
+              "kind": "travel",
+              "title": "Drive to Historic Yates Mill County Park"
+            },
+            {
+              "start": "09:15",
+              "end": "11:00",
+              "kind": "outing",
+              "title": "Historic Yates Mill County Park"
+            },
+            {
+              "start": "11:00",
+              "end": "11:20",
+              "kind": "travel",
+              "title": "Drive home"
+            },
+            {
+              "start": "11:20",
+              "end": "11:50",
+              "kind": "meal",
+              "title": "Lunch"
+            },
+            {
+              "start": "11:50",
+              "end": "12:00",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "12:00",
+              "end": "14:00",
+              "kind": "nap",
+              "title": "Nap"
+            },
+            {
+              "start": "14:00",
+              "end": "14:20",
+              "kind": "routine",
+              "title": "Up and a snack"
+            },
+            {
+              "start": "14:20",
+              "end": "17:30",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "17:30",
+              "end": "18:15",
+              "kind": "meal",
+              "title": "Dinner"
+            },
+            {
+              "start": "18:15",
+              "end": "19:00",
+              "kind": "routine",
+              "title": "Bath, books and bed"
+            }
+          ]
+        },
+        {
+          "nap": "late-nap",
+          "napLabel": "One nap, 1 to 3",
+          "headline": "Slide, climb and stroll the greenway",
+          "main": {
+            "ref": "place:carpenter-park",
+            "arrive": "09:30",
+            "leave": "11:15",
+            "why": "Carpenter Park has a playground and a greenway. Your toddler can climb and slide, then take a short walk.",
+            "tips": [
+              "Play first, then walk the greenway when your child is ready to slow down.",
+              "Bring a snack for the picnic shelter.",
+              "Give a warning, then walk to the car together."
+            ],
+            "interests": [
+              "movement",
+              "nature"
+            ],
+            "also": [],
+            "area": "cary-apex",
+            "outdoor": true,
+            "source": {
+              "kind": "park",
+              "title": "Carpenter Park",
+              "address": "4420 Louis Stephens Drive, Cary, NC",
+              "lat": 35.82284995357582,
+              "lon": -78.86424049854338,
+              "url": "http://www.townofcary.org/recreation-enjoyment/parks-greenways-environment/parks/carpenter-park",
+              "amenities": [
+                "playground",
+                "picnic-shelter",
+                "restroom",
+                "greenway"
+              ],
+              "indoor": false,
+              "area": "cary-apex",
+              "hours": null,
+              "cost": null
+            }
+          },
+          "alternatives": [
+            {
+              "ref": "place:museum-of-life-and-science",
+              "arrive": "11:00",
+              "leave": "12:00",
+              "why": "Explore outside, then hear a story in Hideaway Woods at 11:30 am. It is a drop-in story read by a museum educator.",
+              "tips": [
+                "Play in Hideaway Woods before the story so your child is ready to sit.",
+                "Bring a snack for after the story."
+              ],
+              "interests": [
+                "stories",
+                "nature"
+              ],
+              "also": [
+                {
+                  "ref": "event:weekly:mols-storytime:2026-11-11",
+                  "source": {
+                    "kind": "event",
+                    "title": "Storytime in Hideaway Woods",
+                    "start": "2026-11-11T11:30:00",
+                    "end": "2026-11-11T12:00:00",
+                    "venue": "Hideaway Woods, Museum of Life and Science",
+                    "address": "433 W Murray Ave, Durham, NC 27704",
+                    "url": "https://www.lifeandscience.org/learn/drop-in-programs/",
+                    "cost": "Included with museum admission",
+                    "lat": 36.0294,
+                    "lon": -78.8993,
+                    "ages": null,
+                    "registration": false,
+                    "indoor": false,
+                    "area": "durham",
+                    "source": "weekly",
+                    "dropIn": true
+                  }
+                }
+              ],
+              "area": "durham",
+              "outdoor": true,
+              "source": {
+                "kind": "museum",
+                "title": "Museum of Life and Science",
+                "address": "433 W Murray Ave, Durham, NC 27704",
+                "lat": 36.0294,
+                "lon": -78.8993,
+                "url": "https://www.lifeandscience.org/visit/",
+                "amenities": [
+                  "nature",
+                  "animals",
+                  "train",
+                  "playground",
+                  "restroom"
+                ],
+                "indoor": false,
+                "area": "durham",
+                "cost": "$24 adults, $19 ages 3–15, under 3 free",
+                "note": "Tickets: $24 adults, $19 ages 3–15, under 3 free. Hideaway Woods treehouses and creek, farmyard, train ride and Dinosaur Trail are outside."
+              }
+            },
+            {
+              "ref": "place:knightdale-station-park",
+              "arrive": "09:30",
+              "leave": "11:15",
+              "why": "Knightdale Station Park has a playground and a greenway. Your toddler can climb and slide, then stroll.",
+              "tips": [
+                "Play first, then walk the greenway.",
+                "Bring a snack for the picnic shelter."
+              ],
+              "interests": [
+                "movement",
+                "nature"
+              ],
+              "also": [],
+              "area": "east-wake",
+              "outdoor": true,
+              "source": {
+                "kind": "park",
+                "title": "Knightdale Station Park",
+                "address": "810 North First Avenue, Knightdale, NC",
+                "lat": 35.795776739559024,
+                "lon": -78.47584503817626,
+                "url": "https://www.knightdalenc.gov/knightdalestationpark",
+                "amenities": [
+                  "playground",
+                  "picnic-shelter",
+                  "greenway"
+                ],
+                "indoor": false,
+                "area": "east-wake",
+                "hours": null,
+                "cost": null
+              }
+            },
+            {
+              "ref": "place:historic-yates-mill-county-park",
+              "arrive": "09:30",
+              "leave": "11:15",
+              "why": "Your toddler can toddle along the greenway and look at the garden and the nature around Historic Yates Mill County Park.",
+              "tips": [
+                "Let your child stop and look at everything.",
+                "Bring a snack and water."
+              ],
+              "interests": [
+                "nature"
+              ],
+              "also": [],
+              "area": "raleigh",
+              "outdoor": true,
+              "source": {
+                "kind": "park",
+                "title": "Historic Yates Mill County Park",
+                "address": "4620 Lake Wheeler Rd., Raleigh, NC  27603",
+                "lat": 35.72157134974476,
+                "lon": -78.68526087901417,
+                "url": "https://www.wakegov.com/departments-government/parks-recreation-and-open-space/all-parks-trails/historic-yates-mill-county-park",
+                "amenities": [
+                  "restroom",
+                  "greenway",
+                  "nature",
+                  "garden"
+                ],
+                "indoor": false,
+                "area": "raleigh",
+                "hours": null,
+                "cost": null
+              }
+            },
+            {
+              "ref": "place:pullen-park-amusements",
+              "arrive": "15:30",
+              "leave": "17:00",
+              "why": "Ride the carousel and the train, then play on the playground.",
+              "tips": [
+                "Do the rides first while your child is fresh.",
+                "Bring a snack for the car ride home."
+              ],
+              "interests": [
+                "vehicles",
+                "movement"
+              ],
+              "also": [],
+              "area": "raleigh",
+              "outdoor": true,
+              "source": {
+                "kind": "park",
+                "title": "Pullen Park Amusements",
+                "address": "410 Park Ave, Raleigh, NC 27606",
+                "lat": 35.7806,
+                "lon": -78.66396,
+                "url": "https://raleighnc.gov/parks-and-recreation/places/pullen-park-amusements",
+                "amenities": [
+                  "carousel",
+                  "boating",
+                  "train",
+                  "amusements",
+                  "courts",
+                  "playground",
+                  "picnic-shelter"
+                ],
+                "indoor": false,
+                "area": "raleigh",
+                "hours": {
+                  "mon": "10 a.m.–6 p.m.",
+                  "tue": "10 a.m.–6 p.m.",
+                  "wed": "10 a.m.–6 p.m.",
+                  "thu": "10 a.m.–6 p.m.",
+                  "fri": "10 a.m.–8 p.m.",
+                  "sat": "10 a.m.–8 p.m.",
+                  "sun": "10 a.m.–8 p.m."
+                },
+                "cost": null
+              }
+            }
+          ],
+          "rainBackup": null,
+          "timeline": [
+            {
+              "start": "07:00",
+              "end": "07:30",
+              "kind": "meal",
+              "title": "Up and breakfast"
+            },
+            {
+              "start": "07:30",
+              "end": "08:50",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "08:50",
+              "end": "09:10",
+              "kind": "routine",
+              "title": "Get ready to go",
+              "detail": "Shoes on, diaper bag, water and a snack."
+            },
+            {
+              "start": "09:10",
+              "end": "09:30",
+              "kind": "travel",
+              "title": "Drive to Carpenter Park"
+            },
+            {
+              "start": "09:30",
+              "end": "11:15",
+              "kind": "outing",
+              "title": "Carpenter Park"
+            },
+            {
+              "start": "11:15",
+              "end": "11:35",
+              "kind": "travel",
+              "title": "Drive home"
+            },
+            {
+              "start": "11:35",
+              "end": "12:15",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "12:15",
+              "end": "12:45",
+              "kind": "meal",
+              "title": "Lunch"
+            },
+            {
+              "start": "12:45",
+              "end": "13:00",
+              "kind": "quiet",
+              "title": "Wind down",
+              "detail": "A couple of books to settle."
+            },
+            {
+              "start": "13:00",
+              "end": "15:00",
+              "kind": "nap",
+              "title": "Nap"
+            },
+            {
+              "start": "15:00",
+              "end": "15:20",
+              "kind": "routine",
+              "title": "Up and a snack"
+            },
+            {
+              "start": "15:20",
+              "end": "18:00",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "18:00",
+              "end": "18:45",
+              "kind": "meal",
+              "title": "Dinner"
+            },
+            {
+              "start": "18:45",
+              "end": "19:30",
+              "kind": "routine",
+              "title": "Bath, books and bed"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "checked": {
+    "at": "2026-11-07T11:04:04.085Z",
+    "forecast": "nws",
+    "weather": {
+      "period": "Veterans Day",
+      "tempF": 71,
+      "precipProbability": 0,
+      "shortForecast": "Mostly Sunny",
+      "windMph": 2,
+      "windFrom": "NW",
+      "hours": [
+        {
+          "t": "05:00",
+          "tempF": 47,
+          "pop": 0,
+          "cloud": 32
+        },
+        {
+          "t": "06:00",
+          "tempF": 46,
+          "pop": 0,
+          "cloud": 32
+        },
+        {
+          "t": "07:00",
+          "tempF": 47,
+          "pop": 0,
+          "cloud": 28
+        },
+        {
+          "t": "08:00",
+          "tempF": 51,
+          "pop": 0,
+          "cloud": 28
+        },
+        {
+          "t": "09:00",
+          "tempF": 56,
+          "pop": 0,
+          "cloud": 28
+        },
+        {
+          "t": "10:00",
+          "tempF": 61,
+          "pop": 0,
+          "cloud": 28
+        },
+        {
+          "t": "11:00",
+          "tempF": 65,
+          "pop": 0,
+          "cloud": 28
+        },
+        {
+          "t": "12:00",
+          "tempF": 67,
+          "pop": 0,
+          "cloud": 28
+        },
+        {
+          "t": "13:00",
+          "tempF": 69,
+          "pop": 0,
+          "cloud": 28
+        },
+        {
+          "t": "14:00",
+          "tempF": 70,
+          "pop": 0,
+          "cloud": 28
+        },
+        {
+          "t": "15:00",
+          "tempF": 70,
+          "pop": 0,
+          "cloud": 28
+        },
+        {
+          "t": "16:00",
+          "tempF": 69,
+          "pop": 0,
+          "cloud": 28
+        },
+        {
+          "t": "17:00",
+          "tempF": 65,
+          "pop": 0,
+          "cloud": 28
+        },
+        {
+          "t": "18:00",
+          "tempF": 60,
+          "pop": 0,
+          "cloud": 28
+        },
+        {
+          "t": "19:00",
+          "tempF": 56,
+          "pop": 1,
+          "cloud": 27
+        },
+        {
+          "t": "20:00",
+          "tempF": 54,
+          "pop": 1,
+          "cloud": 27
+        },
+        {
+          "t": "21:00",
+          "tempF": 53,
+          "pop": 1,
+          "cloud": 27
+        },
+        {
+          "t": "22:00",
+          "tempF": 53,
+          "pop": 1,
+          "cloud": 27
+        },
+        {
+          "t": "23:00",
+          "tempF": 52,
+          "pop": 1,
+          "cloud": 27
+        }
+      ]
+    },
+    "hidden": []
+  }
+}

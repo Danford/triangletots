@@ -1,0 +1,1136 @@
+{
+  "date": "2026-11-07",
+  "band": "t4",
+  "versions": [
+    {
+      "at": "2026-11-06T20:41:57.552Z",
+      "reason": null,
+      "forecast": "nws",
+      "weather": {
+        "period": "Saturday",
+        "tempF": 62,
+        "precipProbability": 0,
+        "shortForecast": "Sunny",
+        "hours": [
+          {
+            "t": "05:00",
+            "tempF": 54,
+            "pop": 0
+          },
+          {
+            "t": "06:00",
+            "tempF": 52,
+            "pop": 0
+          },
+          {
+            "t": "07:00",
+            "tempF": 51,
+            "pop": 0
+          },
+          {
+            "t": "08:00",
+            "tempF": 52,
+            "pop": 0
+          },
+          {
+            "t": "09:00",
+            "tempF": 53,
+            "pop": 0
+          },
+          {
+            "t": "10:00",
+            "tempF": 54,
+            "pop": 0
+          },
+          {
+            "t": "11:00",
+            "tempF": 58,
+            "pop": 0
+          },
+          {
+            "t": "12:00",
+            "tempF": 60,
+            "pop": 0
+          },
+          {
+            "t": "13:00",
+            "tempF": 61,
+            "pop": 0
+          },
+          {
+            "t": "14:00",
+            "tempF": 62,
+            "pop": 0
+          },
+          {
+            "t": "15:00",
+            "tempF": 62,
+            "pop": 0
+          },
+          {
+            "t": "16:00",
+            "tempF": 61,
+            "pop": 0
+          },
+          {
+            "t": "17:00",
+            "tempF": 59,
+            "pop": 0
+          },
+          {
+            "t": "18:00",
+            "tempF": 54,
+            "pop": 0
+          },
+          {
+            "t": "19:00",
+            "tempF": 50,
+            "pop": 0
+          },
+          {
+            "t": "20:00",
+            "tempF": 50,
+            "pop": 0
+          },
+          {
+            "t": "21:00",
+            "tempF": 48,
+            "pop": 0
+          },
+          {
+            "t": "22:00",
+            "tempF": 48,
+            "pop": 0
+          },
+          {
+            "t": "23:00",
+            "tempF": 47,
+            "pop": 0
+          }
+        ]
+      },
+      "plans": [
+        {
+          "nap": "short-nap",
+          "napLabel": "Short nap, 1 to 2",
+          "headline": "Wander the market stalls, then run at the park",
+          "main": {
+            "ref": "event:museum:durham-central-park:13372",
+            "arrive": "09:00",
+            "leave": "11:00",
+            "also": [
+              {
+                "ref": "place:durham-central-park",
+                "source": {
+                  "kind": "park",
+                  "title": "Durham Central Park",
+                  "address": "501 Foster St, Durham, NC",
+                  "lat": 36.0006525,
+                  "lon": -78.90071999999999,
+                  "url": "https://www.dprplaymore.org/Facilities/Facility/Details/Durham-Central-Park-18",
+                  "amenities": [
+                    "playground",
+                    "restroom",
+                    "greenway"
+                  ],
+                  "indoor": false,
+                  "area": "durham",
+                  "hours": null,
+                  "cost": null
+                }
+              }
+            ],
+            "why": "Your child walks the Durham Farmer's Market and looks at everything on offer, then burns off energy at Durham Central Park next door. Home well before the nap.",
+            "tips": [
+              "Bring a small snack so your child can pick something to share.",
+              "Let your child lead the walk through the stalls, then head to the park.",
+              "Say 'five more minutes' at the park, then walk out together."
+            ],
+            "interests": [
+              "nature",
+              "movement"
+            ],
+            "area": "durham",
+            "outdoor": true,
+            "source": {
+              "kind": "event",
+              "title": "Durham Farmer’ Market",
+              "start": "2026-11-07T08:00:00",
+              "end": "2026-11-07T12:00:00",
+              "venue": "Durham Central Park",
+              "address": "501 Foster Street, Durham, NC, 27701",
+              "url": "https://durhamcentralpark.org/upcoming-event/durham-farmer-market/2026-11-07/",
+              "cost": null,
+              "lat": 36.0008,
+              "lon": -78.9021,
+              "ages": null,
+              "registration": null,
+              "indoor": false,
+              "area": "durham",
+              "source": "museum",
+              "dropIn": true
+            }
+          },
+          "alternatives": [
+            {
+              "ref": "event:museum:marbles:47679",
+              "arrive": "10:50",
+              "leave": "12:15",
+              "also": [
+                {
+                  "ref": "place:levelle-moton-park",
+                  "source": {
+                    "kind": "park",
+                    "title": "LeVelle Moton Park",
+                    "address": "920 E. Lane Street, Raleigh, NC 27601",
+                    "lat": 35.78316,
+                    "lon": -78.62606,
+                    "url": "https://raleighnc.gov/parks-and-recreation/places/levelle-moton-park",
+                    "amenities": [
+                      "picnic-shelter",
+                      "courts",
+                      "playground"
+                    ],
+                    "indoor": false,
+                    "area": "raleigh",
+                    "hours": null,
+                    "cost": null
+                  }
+                }
+              ],
+              "why": "Watch Blue Angels 3D, a 45-minute film about jets, at Marbles Kids Museum. Then play at LeVelle Moton Park before lunch.",
+              "tips": [
+                "Talk about the jets before the film starts.",
+                "Let your child run first at the park, then have a snack on the way home."
+              ],
+              "interests": [
+                "vehicles",
+                "movement"
+              ],
+              "area": "raleigh",
+              "outdoor": false,
+              "source": {
+                "kind": "event",
+                "title": "The Blue Angels 3D",
+                "start": "2026-11-07T11:00:00",
+                "end": "2026-11-07T11:45:00",
+                "venue": "Marbles Kids Museum",
+                "address": "201 E Hargett St, Raleigh, NC 27601",
+                "url": "https://marbleskidsmuseum.org/event/48657/",
+                "cost": null,
+                "lat": 35.7789,
+                "lon": -78.6361,
+                "ages": "IMAX film, 4 and up",
+                "registration": null,
+                "indoor": true,
+                "area": "raleigh",
+                "source": "museum",
+                "dropIn": false,
+                "film": true
+              }
+            },
+            {
+              "ref": "place:hemlock-bluffs",
+              "arrive": "09:30",
+              "leave": "11:30",
+              "why": "A woodland walk for a child who likes to explore. Look for leaves, logs and anything that crunches.",
+              "tips": [
+                "Trails have stairs, so wear shoes with good grip.",
+                "Bring a snack and a water bottle.",
+                "Give your child a job, like finding three different leaves."
+              ],
+              "interests": [
+                "nature",
+                "movement"
+              ],
+              "also": [],
+              "area": "cary-apex",
+              "outdoor": true,
+              "source": {
+                "kind": "park",
+                "title": "Hemlock Bluffs Nature Preserve",
+                "address": "2616 Kildaire Farm Rd, Cary, NC 27518",
+                "lat": 35.7253,
+                "lon": -78.7846,
+                "url": "https://www.carync.gov/recreation-enjoyment/parks-greenways-environment/parks/stevens-nature-center-at-hemlock-bluffs-nature-preserve",
+                "amenities": [
+                  "nature"
+                ],
+                "indoor": false,
+                "area": "cary-apex",
+                "hours": {
+                  "sun": "9 a.m. to sunset",
+                  "mon": "9 a.m. to sunset",
+                  "tue": "9 a.m. to sunset",
+                  "wed": "9 a.m. to sunset",
+                  "thu": "9 a.m. to sunset",
+                  "fri": "9 a.m. to sunset",
+                  "sat": "9 a.m. to sunset"
+                },
+                "cost": "Free",
+                "note": "Free. About three miles of mulched trails and boardwalks with stairs (a carrier beats a stroller); restrooms in the Stevens Nature Center, open Mon–Sat 10–5, Sun 1–5."
+              }
+            },
+            {
+              "ref": "event:wake-parks:8358:2026-11-07",
+              "arrive": "14:30",
+              "leave": "16:15",
+              "also": [
+                {
+                  "ref": "place:beech-bluff-county-park",
+                  "source": {
+                    "kind": "park",
+                    "title": "Beech Bluff County Park",
+                    "address": "Beech Bluff Park Drive, Fuquay-Varina, NC",
+                    "lat": 35.58537279715877,
+                    "lon": -78.6793341971644,
+                    "url": "https://www.wake.gov/departments-government/parks-recreation-open-space/all-parks-trails/beech-bluff-county-park",
+                    "amenities": [
+                      "playground",
+                      "garden",
+                      "greenway",
+                      "restroom",
+                      "picnic-shelter"
+                    ],
+                    "indoor": false,
+                    "area": "south-wake",
+                    "hours": null,
+                    "cost": null
+                  }
+                }
+              ],
+              "why": "Read a story one page at a time along the StoryWalk, then play at Beech Bluff County Park. It is a self-led walk, so go at your child's pace.",
+              "tips": [
+                "Ask your child what happens next at each page.",
+                "Save a snack for the playground."
+              ],
+              "interests": [
+                "stories",
+                "nature"
+              ],
+              "area": "south-wake",
+              "outdoor": true,
+              "source": {
+                "kind": "event",
+                "title": "Beech Bluff County Park StoryWalk® 2026 (Self-Led)",
+                "start": "2026-11-07T08:00:00",
+                "end": "2026-11-07T17:30:00",
+                "venue": "Beech Bluff County Park",
+                "address": "Beech Bluff Park Drive, Fuquay-Varina, NC",
+                "url": "https://apm.activecommunities.com/wakeparks/Activity_Search/beech-bluff-county-park-storywalk-2026-self-led/8358?locale=en-US",
+                "cost": "Free",
+                "lat": 35.58537279715877,
+                "lon": -78.6793341971644,
+                "ages": null,
+                "registration": false,
+                "indoor": false,
+                "area": "south-wake",
+                "source": "wake-parks",
+                "dropIn": true
+              }
+            },
+            {
+              "ref": "event:raleigh:fall-arts-fair",
+              "arrive": "15:00",
+              "leave": "16:30",
+              "why": "Look at art outdoors at the Fall Arts Fair in Fred Fletcher Park. The park also has a playground and a garden.",
+              "tips": [
+                "Look at a few things together, then let your child choose where to go next.",
+                "Pack a snack for the playground."
+              ],
+              "interests": [
+                "art",
+                "movement"
+              ],
+              "also": [],
+              "area": "raleigh",
+              "outdoor": true,
+              "source": {
+                "kind": "event",
+                "title": "Fall Arts Fair",
+                "start": "2026-11-07T15:00:00",
+                "end": "2026-11-07T21:00:00",
+                "venue": "Fred Fletcher Park",
+                "address": "805 Washington St, Raleigh, NC 27605",
+                "url": "https://raleighnc.gov/arts/events/fall-arts-fair",
+                "cost": "Free and open to the public!",
+                "lat": 35.79264,
+                "lon": -78.64957,
+                "ages": null,
+                "registration": null,
+                "indoor": false,
+                "area": "raleigh",
+                "source": "raleigh",
+                "dropIn": true
+              }
+            }
+          ],
+          "rainBackup": null,
+          "timeline": [
+            {
+              "start": "07:00",
+              "end": "07:30",
+              "kind": "meal",
+              "title": "Up and breakfast"
+            },
+            {
+              "start": "07:30",
+              "end": "08:20",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "08:20",
+              "end": "08:40",
+              "kind": "routine",
+              "title": "Get ready to go",
+              "detail": "Shoes on, diaper bag, water and a snack."
+            },
+            {
+              "start": "08:40",
+              "end": "09:00",
+              "kind": "travel",
+              "title": "Drive to Durham Central Park"
+            },
+            {
+              "start": "09:00",
+              "end": "11:00",
+              "kind": "outing",
+              "title": "Durham Central Park"
+            },
+            {
+              "start": "11:00",
+              "end": "11:20",
+              "kind": "travel",
+              "title": "Drive home"
+            },
+            {
+              "start": "11:20",
+              "end": "12:15",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "12:15",
+              "end": "12:45",
+              "kind": "meal",
+              "title": "Lunch"
+            },
+            {
+              "start": "12:45",
+              "end": "13:00",
+              "kind": "quiet",
+              "title": "Wind down",
+              "detail": "A couple of books to settle."
+            },
+            {
+              "start": "13:00",
+              "end": "14:00",
+              "kind": "nap",
+              "title": "Nap"
+            },
+            {
+              "start": "14:00",
+              "end": "14:20",
+              "kind": "routine",
+              "title": "Up and a snack"
+            },
+            {
+              "start": "14:20",
+              "end": "18:30",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "18:30",
+              "end": "19:15",
+              "kind": "meal",
+              "title": "Dinner"
+            },
+            {
+              "start": "19:15",
+              "end": "20:00",
+              "kind": "routine",
+              "title": "Bath, books and bed"
+            }
+          ]
+        },
+        {
+          "nap": "quiet",
+          "napLabel": "Quiet time",
+          "headline": "A long morning of playground and garden walks",
+          "main": {
+            "ref": "place:crowder-county-park",
+            "arrive": "09:30",
+            "leave": "11:30",
+            "why": "Crowder County Park has a playground, a garden and greenway paths, so your child can climb, then walk and explore. Home in time for lunch and quiet time.",
+            "tips": [
+              "Bring a snack to eat at a picnic shelter.",
+              "Walk the greenway or garden first, then finish on the playground.",
+              "Give a ten-minute warning before leaving."
+            ],
+            "interests": [
+              "nature",
+              "movement"
+            ],
+            "also": [],
+            "area": "cary-apex",
+            "outdoor": true,
+            "source": {
+              "kind": "park",
+              "title": "Crowder County Park",
+              "address": "4709 Ten Ten Road",
+              "lat": 35.69174392711247,
+              "lon": -78.76585678897689,
+              "url": "https://www.wakegov.com/departments-government/parks-recreation-and-open-space/all-parks-trails/crowder-county-park",
+              "amenities": [
+                "playground",
+                "picnic-shelter",
+                "restroom",
+                "greenway",
+                "garden"
+              ],
+              "indoor": false,
+              "area": "cary-apex",
+              "hours": null,
+              "cost": null
+            }
+          },
+          "alternatives": [
+            {
+              "ref": "event:museum:duke-gardens:17494",
+              "arrive": "09:50",
+              "leave": "11:40",
+              "also": [
+                {
+                  "ref": "place:crest-street-park",
+                  "source": {
+                    "kind": "park",
+                    "title": "Crest Street Park",
+                    "address": "2503 Crest St, Durham, NC",
+                    "lat": 36.012374,
+                    "lon": -78.937552,
+                    "url": "https://www.dprplaymore.org/Facilities/Facility/Details/Crest-Street-Park-14",
+                    "amenities": [
+                      "playground",
+                      "picnic-shelter",
+                      "restroom"
+                    ],
+                    "indoor": false,
+                    "area": "durham",
+                    "hours": null,
+                    "cost": null
+                  }
+                }
+              ],
+              "why": "See the bright mums at A Festival of Fabulous Mums in Duke Gardens, then play at Crest Street Park nearby.",
+              "tips": [
+                "Ask your child to find the biggest and the smallest flower.",
+                "Keep a snack for the playground."
+              ],
+              "interests": [
+                "nature",
+                "art"
+              ],
+              "area": "durham",
+              "outdoor": true,
+              "source": {
+                "kind": "event",
+                "title": "A Festival of Fabulous Mums",
+                "start": "2026-11-07T10:00:00",
+                "end": "2026-11-07T16:00:00",
+                "venue": "Sarah P. Duke Gardens",
+                "address": "420 Anderson Street, Durham, NC, 27708",
+                "url": "https://gardens.duke.edu/event/a-festival-of-fabulous-mums-5/",
+                "cost": "Free",
+                "lat": 36.0024,
+                "lon": -78.9328,
+                "ages": "Adult Programs Family programs Festival of Fabulous Mums",
+                "registration": false,
+                "indoor": false,
+                "area": "durham",
+                "source": "museum",
+                "dropIn": true
+              }
+            },
+            {
+              "ref": "event:museum:marbles:47679",
+              "arrive": "10:50",
+              "leave": "12:30",
+              "also": [
+                {
+                  "ref": "place:john-chavis-memorial-park",
+                  "source": {
+                    "kind": "park",
+                    "title": "John Chavis Memorial Park",
+                    "address": "505 Martin Luther King Jr Blvd, Raleigh, NC 27601",
+                    "lat": 35.7698,
+                    "lon": -78.63021,
+                    "url": "https://raleighnc.gov/parks-and-recreation/places/john-chavis-memorial-park",
+                    "amenities": [
+                      "community-center",
+                      "playground",
+                      "carousel",
+                      "fields"
+                    ],
+                    "indoor": false,
+                    "area": "raleigh",
+                    "hours": null,
+                    "cost": null
+                  }
+                }
+              ],
+              "why": "Watch Blue Angels 3D, a 45-minute film about jets, at Marbles Kids Museum. Then play at John Chavis Memorial Park, which has a playground and a carousel.",
+              "tips": [
+                "Talk about the jets before the film starts.",
+                "Let your child run first at the park, then head home for lunch."
+              ],
+              "interests": [
+                "vehicles",
+                "movement"
+              ],
+              "area": "raleigh",
+              "outdoor": false,
+              "source": {
+                "kind": "event",
+                "title": "The Blue Angels 3D",
+                "start": "2026-11-07T11:00:00",
+                "end": "2026-11-07T11:45:00",
+                "venue": "Marbles Kids Museum",
+                "address": "201 E Hargett St, Raleigh, NC 27601",
+                "url": "https://marbleskidsmuseum.org/event/48657/",
+                "cost": null,
+                "lat": 35.7789,
+                "lon": -78.6361,
+                "ages": "IMAX film, 4 and up",
+                "registration": null,
+                "indoor": true,
+                "area": "raleigh",
+                "source": "museum",
+                "dropIn": false,
+                "film": true
+              }
+            },
+            {
+              "ref": "place:lake-benson-park",
+              "arrive": "14:30",
+              "leave": "16:30",
+              "why": "An afternoon at Lake Benson Park with a playground and greenway. Walk by the water, then play.",
+              "tips": [
+                "Bring a snack and a water bottle.",
+                "Hold hands near the water.",
+                "Choose a last slide together before leaving."
+              ],
+              "interests": [
+                "nature",
+                "water"
+              ],
+              "also": [],
+              "area": "south-wake",
+              "outdoor": true,
+              "source": {
+                "kind": "park",
+                "title": "Lake Benson Park",
+                "address": "921 Buffaloe Road, Garner NC, 27529",
+                "lat": 35.67509092685942,
+                "lon": -78.62824702555534,
+                "url": "https://www.garnernc.gov/departments/parks-recreation-and-cultural-resources/garner-parks/lake-benson-park",
+                "amenities": [
+                  "playground",
+                  "picnic-shelter",
+                  "restroom",
+                  "greenway",
+                  "boating"
+                ],
+                "indoor": false,
+                "area": "south-wake",
+                "hours": null,
+                "cost": null
+              }
+            }
+          ],
+          "rainBackup": null,
+          "timeline": [
+            {
+              "start": "07:00",
+              "end": "07:30",
+              "kind": "meal",
+              "title": "Up and breakfast"
+            },
+            {
+              "start": "07:30",
+              "end": "08:50",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "08:50",
+              "end": "09:10",
+              "kind": "routine",
+              "title": "Get ready to go",
+              "detail": "Shoes on, diaper bag, water and a snack."
+            },
+            {
+              "start": "09:10",
+              "end": "09:30",
+              "kind": "travel",
+              "title": "Drive to Crowder County Park"
+            },
+            {
+              "start": "09:30",
+              "end": "11:30",
+              "kind": "outing",
+              "title": "Crowder County Park"
+            },
+            {
+              "start": "11:30",
+              "end": "11:50",
+              "kind": "travel",
+              "title": "Drive home"
+            },
+            {
+              "start": "11:50",
+              "end": "12:20",
+              "kind": "meal",
+              "title": "Lunch"
+            },
+            {
+              "start": "12:20",
+              "end": "13:00",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "13:00",
+              "end": "13:45",
+              "kind": "quiet",
+              "title": "Quiet time",
+              "detail": "Books or quiet play in their room."
+            },
+            {
+              "start": "13:45",
+              "end": "18:00",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "18:00",
+              "end": "18:45",
+              "kind": "meal",
+              "title": "Dinner"
+            },
+            {
+              "start": "18:45",
+              "end": "19:30",
+              "kind": "routine",
+              "title": "Bath, books and bed"
+            }
+          ]
+        },
+        {
+          "nap": "no-nap",
+          "napLabel": "No nap",
+          "headline": "Visit the animals and garden at Oak View",
+          "main": {
+            "ref": "place:historic-oak-view-county-park",
+            "arrive": "09:30",
+            "leave": "11:30",
+            "why": "Historic Oak View County Park has animals, a garden and greenway paths. Your child can look for animals, walk the paths and have a snack at a picnic shelter.",
+            "tips": [
+              "Bring a snack for the picnic shelter.",
+              "Ask your child to spot and name each animal.",
+              "Walk the garden last, then head home."
+            ],
+            "interests": [
+              "animals",
+              "nature"
+            ],
+            "also": [],
+            "area": "raleigh",
+            "outdoor": true,
+            "source": {
+              "kind": "park",
+              "title": "Historic Oak View County Park",
+              "address": "4028 Carya Dr., Raleigh, NC  27610",
+              "lat": 35.76980126731367,
+              "lon": -78.57063248179927,
+              "url": "https://www.wakegov.com/departments-government/parks-recreation-and-open-space/all-parks-trails/historic-oak-view-county-park",
+              "amenities": [
+                "picnic-shelter",
+                "restroom",
+                "greenway",
+                "animals",
+                "garden"
+              ],
+              "indoor": false,
+              "area": "raleigh",
+              "hours": null,
+              "cost": null
+            }
+          },
+          "alternatives": [
+            {
+              "ref": "event:wake-parks:8358:2026-11-07",
+              "arrive": "10:00",
+              "leave": "11:45",
+              "also": [
+                {
+                  "ref": "place:beech-bluff-county-park",
+                  "source": {
+                    "kind": "park",
+                    "title": "Beech Bluff County Park",
+                    "address": "Beech Bluff Park Drive, Fuquay-Varina, NC",
+                    "lat": 35.58537279715877,
+                    "lon": -78.6793341971644,
+                    "url": "https://www.wake.gov/departments-government/parks-recreation-open-space/all-parks-trails/beech-bluff-county-park",
+                    "amenities": [
+                      "playground",
+                      "garden",
+                      "greenway",
+                      "restroom",
+                      "picnic-shelter"
+                    ],
+                    "indoor": false,
+                    "area": "south-wake",
+                    "hours": null,
+                    "cost": null
+                  }
+                }
+              ],
+              "why": "Read a story page by page on the self-led StoryWalk at Beech Bluff County Park, then play on the park's playground.",
+              "tips": [
+                "Take turns reading each page aloud.",
+                "Bring a snack for the playground."
+              ],
+              "interests": [
+                "stories",
+                "nature"
+              ],
+              "area": "south-wake",
+              "outdoor": true,
+              "source": {
+                "kind": "event",
+                "title": "Beech Bluff County Park StoryWalk® 2026 (Self-Led)",
+                "start": "2026-11-07T08:00:00",
+                "end": "2026-11-07T17:30:00",
+                "venue": "Beech Bluff County Park",
+                "address": "Beech Bluff Park Drive, Fuquay-Varina, NC",
+                "url": "https://apm.activecommunities.com/wakeparks/Activity_Search/beech-bluff-county-park-storywalk-2026-self-led/8358?locale=en-US",
+                "cost": "Free",
+                "lat": 35.58537279715877,
+                "lon": -78.6793341971644,
+                "ages": null,
+                "registration": false,
+                "indoor": false,
+                "area": "south-wake",
+                "source": "wake-parks",
+                "dropIn": true
+              }
+            },
+            {
+              "ref": "event:weekly:mols-early-childhood:2026-11-07",
+              "arrive": "09:30",
+              "leave": "11:30",
+              "why": "Early Childhood Drop-In in Hideaway Woods at the Museum of Life and Science. Sensory play, songs and stories. It comes with museum admission.",
+              "tips": [
+                "Come and go as your child likes.",
+                "Start with the songs and stories, then play."
+              ],
+              "interests": [
+                "science",
+                "music",
+                "stories"
+              ],
+              "also": [],
+              "area": "durham",
+              "outdoor": true,
+              "source": {
+                "kind": "event",
+                "title": "Early Childhood Drop-In",
+                "start": "2026-11-07T09:30:00",
+                "end": "2026-11-07T11:30:00",
+                "venue": "Hideaway Woods, Museum of Life and Science",
+                "address": "433 W Murray Ave, Durham, NC 27704",
+                "url": "https://www.lifeandscience.org/learn/drop-in-programs/",
+                "cost": "Included with museum admission",
+                "lat": 36.0294,
+                "lon": -78.8993,
+                "ages": "young children and their caregivers",
+                "registration": false,
+                "indoor": false,
+                "area": "durham",
+                "source": "weekly",
+                "dropIn": true
+              }
+            },
+            {
+              "ref": "place:apex-nature-park",
+              "arrive": "14:30",
+              "leave": "16:30",
+              "why": "Apex Nature Park has greenway paths and a picnic shelter. A good place to walk, look closely and snack.",
+              "tips": [
+                "Bring a small bag for leaves and sticks.",
+                "Snack at the picnic shelter midway."
+              ],
+              "interests": [
+                "nature",
+                "movement"
+              ],
+              "also": [],
+              "area": "cary-apex",
+              "outdoor": true,
+              "source": {
+                "kind": "park",
+                "title": "Apex Nature Park",
+                "address": "2600 Evans Rd., Apex, NC",
+                "lat": 35.71709646233568,
+                "lon": -78.90520368087866,
+                "url": "https://www.apexnc.org/800/Nature-Park-Seymour-Athletic-Fields",
+                "amenities": [
+                  "picnic-shelter",
+                  "restroom",
+                  "greenway",
+                  "nature"
+                ],
+                "indoor": false,
+                "area": "cary-apex",
+                "hours": null,
+                "cost": null
+              }
+            },
+            {
+              "ref": "place:lake-crabtree-county-park",
+              "arrive": "14:30",
+              "leave": "16:30",
+              "why": "Lake Crabtree County Park has a playground, a garden and nature paths. Walk and look around, then play before the afternoon ends.",
+              "tips": [
+                "Bring a snack and a water bottle.",
+                "Play first, then do a short walk to cool down."
+              ],
+              "interests": [
+                "nature",
+                "water",
+                "movement"
+              ],
+              "also": [],
+              "area": "north-raleigh",
+              "outdoor": true,
+              "source": {
+                "kind": "park",
+                "title": "Lake Crabtree County Park",
+                "address": "1400 Aviation Pkwy., Morrisville, NC  27560",
+                "lat": 35.845600151785014,
+                "lon": -78.80104927513673,
+                "url": "https://www.wakegov.com/departments-government/parks-recreation-and-open-space/all-parks-trails/lake-crabtree-county-park",
+                "amenities": [
+                  "playground",
+                  "picnic-shelter",
+                  "restroom",
+                  "greenway",
+                  "nature",
+                  "garden",
+                  "boating"
+                ],
+                "indoor": false,
+                "area": "north-raleigh",
+                "hours": null,
+                "cost": null
+              }
+            }
+          ],
+          "rainBackup": null,
+          "timeline": [
+            {
+              "start": "07:00",
+              "end": "07:30",
+              "kind": "meal",
+              "title": "Up and breakfast"
+            },
+            {
+              "start": "07:30",
+              "end": "08:50",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "08:50",
+              "end": "09:10",
+              "kind": "routine",
+              "title": "Get ready to go",
+              "detail": "Shoes on, diaper bag, water and a snack."
+            },
+            {
+              "start": "09:10",
+              "end": "09:30",
+              "kind": "travel",
+              "title": "Drive to Historic Oak View County Park"
+            },
+            {
+              "start": "09:30",
+              "end": "11:30",
+              "kind": "outing",
+              "title": "Historic Oak View County Park"
+            },
+            {
+              "start": "11:30",
+              "end": "11:50",
+              "kind": "travel",
+              "title": "Drive home"
+            },
+            {
+              "start": "11:50",
+              "end": "12:20",
+              "kind": "meal",
+              "title": "Lunch"
+            },
+            {
+              "start": "12:20",
+              "end": "18:00",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "18:00",
+              "end": "18:45",
+              "kind": "meal",
+              "title": "Dinner"
+            },
+            {
+              "start": "18:45",
+              "end": "19:30",
+              "kind": "routine",
+              "title": "Bath, books and bed"
+            }
+          ]
+        }
+      ],
+      "dropped": [
+        "[quiet] event:museum:duke-gardens:17494 tip: says \"parking\", which isn't in the data: \"Go as early as you can, as paid parking often fills before 10 am.\"",
+        "[quiet] event:museum:duke-gardens:17494 tip: says \"parking\", which isn't in the data: \"Go as early as you can, as paid parking often fills before 10 am.\""
+      ]
+    }
+  ],
+  "checked": {
+    "at": "2026-11-07T11:04:04.025Z",
+    "forecast": "nws",
+    "weather": {
+      "period": "Today",
+      "tempF": 63,
+      "precipProbability": 0,
+      "shortForecast": "Sunny",
+      "windMph": 12,
+      "windFrom": "NW",
+      "hours": [
+        {
+          "t": "06:00",
+          "tempF": 51,
+          "pop": 0,
+          "cloud": 5
+        },
+        {
+          "t": "07:00",
+          "tempF": 50,
+          "pop": 0,
+          "cloud": 7
+        },
+        {
+          "t": "08:00",
+          "tempF": 51,
+          "pop": 0,
+          "cloud": 5
+        },
+        {
+          "t": "09:00",
+          "tempF": 53,
+          "pop": 0,
+          "cloud": 10
+        },
+        {
+          "t": "10:00",
+          "tempF": 55,
+          "pop": 0,
+          "cloud": 16
+        },
+        {
+          "t": "11:00",
+          "tempF": 58,
+          "pop": 0,
+          "cloud": 5
+        },
+        {
+          "t": "12:00",
+          "tempF": 60,
+          "pop": 0,
+          "cloud": 2
+        },
+        {
+          "t": "13:00",
+          "tempF": 60,
+          "pop": 0,
+          "cloud": 3
+        },
+        {
+          "t": "14:00",
+          "tempF": 62,
+          "pop": 0,
+          "cloud": 3
+        },
+        {
+          "t": "15:00",
+          "tempF": 61,
+          "pop": 0,
+          "cloud": 2
+        },
+        {
+          "t": "16:00",
+          "tempF": 61,
+          "pop": 0,
+          "cloud": 2
+        },
+        {
+          "t": "17:00",
+          "tempF": 59,
+          "pop": 0,
+          "cloud": 1
+        },
+        {
+          "t": "18:00",
+          "tempF": 54,
+          "pop": 0,
+          "cloud": 1
+        },
+        {
+          "t": "19:00",
+          "tempF": 50,
+          "pop": 0,
+          "cloud": 2
+        },
+        {
+          "t": "20:00",
+          "tempF": 50,
+          "pop": 0,
+          "cloud": 7
+        },
+        {
+          "t": "21:00",
+          "tempF": 48,
+          "pop": 0,
+          "cloud": 14
+        },
+        {
+          "t": "22:00",
+          "tempF": 48,
+          "pop": 0,
+          "cloud": 31
+        },
+        {
+          "t": "23:00",
+          "tempF": 46,
+          "pop": 0,
+          "cloud": 30
+        }
+      ]
+    },
+    "hidden": []
+  }
+}

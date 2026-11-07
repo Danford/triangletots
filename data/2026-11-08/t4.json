@@ -1,0 +1,1209 @@
+{
+  "date": "2026-11-08",
+  "band": "t4",
+  "versions": [
+    {
+      "at": "2026-11-06T20:43:29.361Z",
+      "reason": null,
+      "forecast": "nws",
+      "weather": {
+        "period": "Sunday",
+        "tempF": 65,
+        "precipProbability": 0,
+        "shortForecast": "Sunny",
+        "hours": [
+          {
+            "t": "05:00",
+            "tempF": 42,
+            "pop": 0
+          },
+          {
+            "t": "06:00",
+            "tempF": 42,
+            "pop": 0
+          },
+          {
+            "t": "07:00",
+            "tempF": 40,
+            "pop": 0
+          },
+          {
+            "t": "08:00",
+            "tempF": 44,
+            "pop": 0
+          },
+          {
+            "t": "09:00",
+            "tempF": 48,
+            "pop": 0
+          },
+          {
+            "t": "10:00",
+            "tempF": 53,
+            "pop": 0
+          },
+          {
+            "t": "11:00",
+            "tempF": 57,
+            "pop": 0
+          },
+          {
+            "t": "12:00",
+            "tempF": 60,
+            "pop": 0
+          },
+          {
+            "t": "13:00",
+            "tempF": 63,
+            "pop": 0
+          },
+          {
+            "t": "14:00",
+            "tempF": 64,
+            "pop": 0
+          },
+          {
+            "t": "15:00",
+            "tempF": 65,
+            "pop": 0
+          },
+          {
+            "t": "16:00",
+            "tempF": 64,
+            "pop": 0
+          },
+          {
+            "t": "17:00",
+            "tempF": 61,
+            "pop": 0
+          },
+          {
+            "t": "18:00",
+            "tempF": 56,
+            "pop": 0
+          },
+          {
+            "t": "19:00",
+            "tempF": 52,
+            "pop": 0
+          },
+          {
+            "t": "20:00",
+            "tempF": 51,
+            "pop": 0
+          },
+          {
+            "t": "21:00",
+            "tempF": 50,
+            "pop": 0
+          },
+          {
+            "t": "22:00",
+            "tempF": 50,
+            "pop": 0
+          },
+          {
+            "t": "23:00",
+            "tempF": 49,
+            "pop": 0
+          }
+        ]
+      },
+      "plans": [
+        {
+          "nap": "short-nap",
+          "napLabel": "Short nap, 1 to 2",
+          "headline": "Meet Peter Rabbit, then climb at the big playground",
+          "main": {
+            "ref": "event:dix-park:/event/theater-greenway:2026-11-08",
+            "arrive": "14:20",
+            "leave": "16:30",
+            "also": [
+              {
+                "ref": "place:gipson-play-plaza",
+                "source": {
+                  "kind": "park",
+                  "title": "Gipson Play Plaza at Dix Park",
+                  "address": "715 Biggs Dr, Raleigh, NC 27603",
+                  "lat": 35.7667,
+                  "lon": -78.6539,
+                  "url": "https://dixpark.org/gipson-play-plaza",
+                  "amenities": [
+                    "playground",
+                    "restroom"
+                  ],
+                  "indoor": false,
+                  "area": "raleigh",
+                  "hours": {
+                    "sun": "8 a.m.–9 p.m.",
+                    "mon": "8 a.m.–9 p.m.",
+                    "tue": "8 a.m.–9 p.m.",
+                    "wed": "8 a.m.–9 p.m.",
+                    "thu": "8 a.m.–9 p.m.",
+                    "fri": "8 a.m.–9 p.m.",
+                    "sat": "8 a.m.–9 p.m."
+                  },
+                  "cost": "Free",
+                  "note": "Free; free parking. Big destination playground on the south edge of Dix Park."
+                }
+              }
+            ],
+            "why": "Your child watches Peter Rabbit and friends at Theater on the Greenway in Dix Park, then climbs at Gipson Play Plaza, a big destination playground.",
+            "tips": [
+              "Come and go from the show as your child likes, then head to the playground.",
+              "Bring a snack for the walk between the show and the playground.",
+              "Pick a last slide together before leaving."
+            ],
+            "interests": [
+              "stories",
+              "movement"
+            ],
+            "area": "raleigh",
+            "outdoor": true,
+            "source": {
+              "kind": "event",
+              "title": "Theater on the Greenway",
+              "start": "2026-11-08T14:00:00",
+              "end": "2026-11-08T17:00:00",
+              "venue": "Dix Park",
+              "address": "1030 Richardson Dr, Raleigh, NC 27603",
+              "url": "https://dixpark.org/event/theater-greenway",
+              "cost": null,
+              "lat": 35.7701,
+              "lon": -78.6568,
+              "ages": null,
+              "registration": null,
+              "indoor": false,
+              "area": "raleigh",
+              "source": "dix-park",
+              "dropIn": true
+            }
+          },
+          "alternatives": [
+            {
+              "ref": "event:weekly:mols-early-childhood:2026-11-08",
+              "arrive": "09:30",
+              "leave": "11:30",
+              "why": "Early Childhood Drop-In in Hideaway Woods at the Museum of Life and Science. Your child plays with sensory activities, songs and stories. It comes with museum admission.",
+              "tips": [
+                "Come and go as your child likes.",
+                "Start with the songs and stories, then play."
+              ],
+              "interests": [
+                "science",
+                "music",
+                "stories"
+              ],
+              "also": [],
+              "area": "durham",
+              "outdoor": true,
+              "source": {
+                "kind": "event",
+                "title": "Early Childhood Drop-In",
+                "start": "2026-11-08T09:30:00",
+                "end": "2026-11-08T11:30:00",
+                "venue": "Hideaway Woods, Museum of Life and Science",
+                "address": "433 W Murray Ave, Durham, NC 27704",
+                "url": "https://www.lifeandscience.org/learn/drop-in-programs/",
+                "cost": "Included with museum admission",
+                "lat": 36.0294,
+                "lon": -78.8993,
+                "ages": "young children and their caregivers",
+                "registration": false,
+                "indoor": false,
+                "area": "durham",
+                "source": "weekly",
+                "dropIn": true
+              }
+            },
+            {
+              "ref": "event:museum:duke-gardens:17496",
+              "arrive": "09:50",
+              "leave": "12:15",
+              "also": [
+                {
+                  "ref": "place:crest-street-park",
+                  "source": {
+                    "kind": "park",
+                    "title": "Crest Street Park",
+                    "address": "2503 Crest St, Durham, NC",
+                    "lat": 36.012374,
+                    "lon": -78.937552,
+                    "url": "https://www.dprplaymore.org/Facilities/Facility/Details/Crest-Street-Park-14",
+                    "amenities": [
+                      "playground",
+                      "picnic-shelter",
+                      "restroom"
+                    ],
+                    "indoor": false,
+                    "area": "durham",
+                    "hours": null,
+                    "cost": null
+                  }
+                }
+              ],
+              "why": "See the bright mums at A Festival of Fabulous Mums in Duke Gardens, then play at Crest Street Park nearby.",
+              "tips": [
+                "Ask your child to find the biggest and the smallest flower.",
+                "Keep a snack for the playground."
+              ],
+              "interests": [
+                "nature",
+                "art"
+              ],
+              "area": "durham",
+              "outdoor": true,
+              "source": {
+                "kind": "event",
+                "title": "A Festival of Fabulous Mums",
+                "start": "2026-11-08T10:00:00",
+                "end": "2026-11-08T16:00:00",
+                "venue": "Sarah P. Duke Gardens",
+                "address": "420 Anderson Street, Durham, NC, 27708",
+                "url": "https://gardens.duke.edu/event/a-festival-of-fabulous-mums-6/",
+                "cost": "Free",
+                "lat": 36.0024,
+                "lon": -78.9328,
+                "ages": "Adult Programs Family programs Festival of Fabulous Mums",
+                "registration": false,
+                "indoor": false,
+                "area": "durham",
+                "source": "museum",
+                "dropIn": true
+              }
+            },
+            {
+              "ref": "place:green-hills-county-park",
+              "arrive": "09:30",
+              "leave": "11:30",
+              "why": "Green Hills County Park has a playground, a picnic shelter and greenway paths. Your child can climb, then walk and snack.",
+              "tips": [
+                "Bring a snack for the picnic shelter.",
+                "Walk the greenway first, then finish on the playground."
+              ],
+              "interests": [
+                "nature",
+                "movement"
+              ],
+              "also": [],
+              "area": "north-raleigh",
+              "outdoor": true,
+              "source": {
+                "kind": "park",
+                "title": "Green Hills County Park",
+                "address": "9300 Deponie Dr., Raleigh, NC  27614",
+                "lat": 35.90515443027014,
+                "lon": -78.58379213479681,
+                "url": "https://www.wakegov.com/departments-government/parks-recreation-open-space/all-parks-trails/green-hills-county-park",
+                "amenities": [
+                  "playground",
+                  "picnic-shelter",
+                  "restroom",
+                  "greenway"
+                ],
+                "indoor": false,
+                "area": "north-raleigh",
+                "hours": null,
+                "cost": null
+              }
+            },
+            {
+              "ref": "event:museum:marbles:47687",
+              "arrive": "10:50",
+              "leave": "12:15",
+              "also": [
+                {
+                  "ref": "place:davie-street-park",
+                  "source": {
+                    "kind": "park",
+                    "title": "Davie Street Park",
+                    "address": "910 E. Davie Street, Raleigh, NC 27601",
+                    "lat": 35.77497,
+                    "lon": -78.62437,
+                    "url": "https://raleighnc.gov/parks-and-recreation/places/davie-street-park",
+                    "amenities": [
+                      "playground",
+                      "picnic-shelter",
+                      "courts"
+                    ],
+                    "indoor": false,
+                    "area": "raleigh",
+                    "hours": null,
+                    "cost": null
+                  }
+                }
+              ],
+              "why": "Watch Secrets of Great Salt Lake, a 45-minute film, at Marbles Kids Museum. Then run around at Davie Street Park before lunch.",
+              "tips": [
+                "Talk about lakes and animals before the film starts.",
+                "Let your child run first at the park, then have a snack on the way home."
+              ],
+              "interests": [
+                "science",
+                "nature",
+                "movement"
+              ],
+              "area": "raleigh",
+              "outdoor": false,
+              "source": {
+                "kind": "event",
+                "title": "Secrets of Great Salt Lake",
+                "start": "2026-11-08T11:00:00",
+                "end": "2026-11-08T11:45:00",
+                "venue": "Marbles Kids Museum",
+                "address": "201 E Hargett St, Raleigh, NC 27601",
+                "url": "https://marbleskidsmuseum.org/event/48661/",
+                "cost": null,
+                "lat": 35.7789,
+                "lon": -78.6361,
+                "ages": "IMAX film, 4 and up",
+                "registration": null,
+                "indoor": true,
+                "area": "raleigh",
+                "source": "museum",
+                "dropIn": false,
+                "film": true
+              }
+            }
+          ],
+          "rainBackup": null,
+          "timeline": [
+            {
+              "start": "07:00",
+              "end": "07:30",
+              "kind": "meal",
+              "title": "Up and breakfast"
+            },
+            {
+              "start": "07:30",
+              "end": "12:15",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "12:15",
+              "end": "12:45",
+              "kind": "meal",
+              "title": "Lunch"
+            },
+            {
+              "start": "12:45",
+              "end": "13:00",
+              "kind": "quiet",
+              "title": "Wind down",
+              "detail": "A couple of books to settle."
+            },
+            {
+              "start": "13:00",
+              "end": "14:00",
+              "kind": "nap",
+              "title": "Nap"
+            },
+            {
+              "start": "14:00",
+              "end": "14:20",
+              "kind": "travel",
+              "title": "Drive to Dix Park"
+            },
+            {
+              "start": "14:20",
+              "end": "16:30",
+              "kind": "outing",
+              "title": "Dix Park"
+            },
+            {
+              "start": "16:30",
+              "end": "16:50",
+              "kind": "travel",
+              "title": "Drive home"
+            },
+            {
+              "start": "16:50",
+              "end": "18:30",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "18:30",
+              "end": "19:15",
+              "kind": "meal",
+              "title": "Dinner"
+            },
+            {
+              "start": "19:15",
+              "end": "20:00",
+              "kind": "routine",
+              "title": "Bath, books and bed"
+            }
+          ]
+        },
+        {
+          "nap": "quiet",
+          "napLabel": "Quiet time",
+          "headline": "See the bright mums, then play at the park",
+          "main": {
+            "ref": "event:museum:duke-gardens:17496",
+            "arrive": "09:50",
+            "leave": "12:15",
+            "also": [
+              {
+                "ref": "place:crest-street-park",
+                "source": {
+                  "kind": "park",
+                  "title": "Crest Street Park",
+                  "address": "2503 Crest St, Durham, NC",
+                  "lat": 36.012374,
+                  "lon": -78.937552,
+                  "url": "https://www.dprplaymore.org/Facilities/Facility/Details/Crest-Street-Park-14",
+                  "amenities": [
+                    "playground",
+                    "picnic-shelter",
+                    "restroom"
+                  ],
+                  "indoor": false,
+                  "area": "durham",
+                  "hours": null,
+                  "cost": null
+                }
+              }
+            ],
+            "why": "Your child walks through the bright mums at A Festival of Fabulous Mums in Duke Gardens, then plays at Crest Street Park. Home in time for lunch and quiet time.",
+            "tips": [
+              "Ask your child to find the biggest and the smallest flower.",
+              "Keep a snack for the playground."
+            ],
+            "interests": [
+              "nature",
+              "art",
+              "movement"
+            ],
+            "area": "durham",
+            "outdoor": true,
+            "source": {
+              "kind": "event",
+              "title": "A Festival of Fabulous Mums",
+              "start": "2026-11-08T10:00:00",
+              "end": "2026-11-08T16:00:00",
+              "venue": "Sarah P. Duke Gardens",
+              "address": "420 Anderson Street, Durham, NC, 27708",
+              "url": "https://gardens.duke.edu/event/a-festival-of-fabulous-mums-6/",
+              "cost": "Free",
+              "lat": 36.0024,
+              "lon": -78.9328,
+              "ages": "Adult Programs Family programs Festival of Fabulous Mums",
+              "registration": false,
+              "indoor": false,
+              "area": "durham",
+              "source": "museum",
+              "dropIn": true
+            }
+          },
+          "alternatives": [
+            {
+              "ref": "event:dix-park:/event/instrument-petting-zoo:2026-11-08",
+              "arrive": "14:00",
+              "leave": "16:30",
+              "also": [
+                {
+                  "ref": "place:gipson-play-plaza",
+                  "source": {
+                    "kind": "park",
+                    "title": "Gipson Play Plaza at Dix Park",
+                    "address": "715 Biggs Dr, Raleigh, NC 27603",
+                    "lat": 35.7667,
+                    "lon": -78.6539,
+                    "url": "https://dixpark.org/gipson-play-plaza",
+                    "amenities": [
+                      "playground",
+                      "restroom"
+                    ],
+                    "indoor": false,
+                    "area": "raleigh",
+                    "hours": {
+                      "sun": "8 a.m.–9 p.m.",
+                      "mon": "8 a.m.–9 p.m.",
+                      "tue": "8 a.m.–9 p.m.",
+                      "wed": "8 a.m.–9 p.m.",
+                      "thu": "8 a.m.–9 p.m.",
+                      "fri": "8 a.m.–9 p.m.",
+                      "sat": "8 a.m.–9 p.m."
+                    },
+                    "cost": "Free",
+                    "note": "Free; free parking. Big destination playground on the south edge of Dix Park."
+                  }
+                }
+              ],
+              "why": "Explore sound at the Instrument Petting Zoo in Dix Park, then climb at Gipson Play Plaza, a big destination playground.",
+              "tips": [
+                "Let your child try each sound and pick a favorite.",
+                "Bring a snack for the playground."
+              ],
+              "interests": [
+                "music",
+                "movement"
+              ],
+              "area": "raleigh",
+              "outdoor": true,
+              "source": {
+                "kind": "event",
+                "title": "Instrument Petting Zoo",
+                "start": "2026-11-08T14:00:00",
+                "end": "2026-11-08T16:00:00",
+                "venue": "Gipson Play Plaza, Dix Park",
+                "address": "715 Biggs Dr, Raleigh, NC 27603",
+                "url": "https://dixpark.org/event/instrument-petting-zoo",
+                "cost": null,
+                "lat": 35.7667,
+                "lon": -78.6539,
+                "ages": null,
+                "registration": null,
+                "indoor": false,
+                "area": "raleigh",
+                "source": "dix-park",
+                "dropIn": false
+              }
+            },
+            {
+              "ref": "event:museum:marbles:47693",
+              "arrive": "13:50",
+              "leave": "15:20",
+              "also": [
+                {
+                  "ref": "place:levelle-moton-park",
+                  "source": {
+                    "kind": "park",
+                    "title": "LeVelle Moton Park",
+                    "address": "920 E. Lane Street, Raleigh, NC 27601",
+                    "lat": 35.78316,
+                    "lon": -78.62606,
+                    "url": "https://raleighnc.gov/parks-and-recreation/places/levelle-moton-park",
+                    "amenities": [
+                      "picnic-shelter",
+                      "courts",
+                      "playground"
+                    ],
+                    "indoor": false,
+                    "area": "raleigh",
+                    "hours": null,
+                    "cost": null
+                  }
+                }
+              ],
+              "why": "Watch Superhuman Body 3D, a 45-minute film, at Marbles Kids Museum. Then play at LeVelle Moton Park.",
+              "tips": [
+                "Ask your child to point to their heart and lungs before the film.",
+                "Let your child run first at the park, then snack."
+              ],
+              "interests": [
+                "science",
+                "movement"
+              ],
+              "area": "raleigh",
+              "outdoor": false,
+              "source": {
+                "kind": "event",
+                "title": "Superhuman Body 3D",
+                "start": "2026-11-08T14:00:00",
+                "end": "2026-11-08T14:45:00",
+                "venue": "Marbles Kids Museum",
+                "address": "201 E Hargett St, Raleigh, NC 27601",
+                "url": "https://marbleskidsmuseum.org/event/48664/",
+                "cost": null,
+                "lat": 35.7789,
+                "lon": -78.6361,
+                "ages": "IMAX film, 4 and up",
+                "registration": null,
+                "indoor": true,
+                "area": "raleigh",
+                "source": "museum",
+                "dropIn": false,
+                "film": true
+              }
+            },
+            {
+              "ref": "event:wake-parks:8358:2026-11-08",
+              "arrive": "09:00",
+              "leave": "11:15",
+              "also": [
+                {
+                  "ref": "place:beech-bluff-county-park",
+                  "source": {
+                    "kind": "park",
+                    "title": "Beech Bluff County Park",
+                    "address": "Beech Bluff Park Drive, Fuquay-Varina, NC",
+                    "lat": 35.58537279715877,
+                    "lon": -78.6793341971644,
+                    "url": "https://www.wake.gov/departments-government/parks-recreation-open-space/all-parks-trails/beech-bluff-county-park",
+                    "amenities": [
+                      "playground",
+                      "garden",
+                      "greenway",
+                      "restroom",
+                      "picnic-shelter"
+                    ],
+                    "indoor": false,
+                    "area": "south-wake",
+                    "hours": null,
+                    "cost": null
+                  }
+                }
+              ],
+              "why": "Read a story one page at a time along the self-led StoryWalk at Beech Bluff County Park, then play on the playground.",
+              "tips": [
+                "Take turns reading each page aloud.",
+                "Save a snack for the playground."
+              ],
+              "interests": [
+                "stories",
+                "nature"
+              ],
+              "area": "south-wake",
+              "outdoor": true,
+              "source": {
+                "kind": "event",
+                "title": "Beech Bluff County Park StoryWalk® 2026 (Self-Led)",
+                "start": "2026-11-08T08:00:00",
+                "end": "2026-11-08T17:30:00",
+                "venue": "Beech Bluff County Park",
+                "address": "Beech Bluff Park Drive, Fuquay-Varina, NC",
+                "url": "https://apm.activecommunities.com/wakeparks/Activity_Search/beech-bluff-county-park-storywalk-2026-self-led/8358?locale=en-US",
+                "cost": "Free",
+                "lat": 35.58537279715877,
+                "lon": -78.6793341971644,
+                "ages": null,
+                "registration": false,
+                "indoor": false,
+                "area": "south-wake",
+                "source": "wake-parks",
+                "dropIn": true
+              }
+            },
+            {
+              "ref": "place:falls-lake-state-recreation-area-beaverdam-lake-entrance",
+              "arrive": "09:30",
+              "leave": "11:30",
+              "why": "Falls Lake Beaverdam Lake Entrance has a playground, a picnic shelter and greenway paths. Your child can walk, then climb and snack.",
+              "tips": [
+                "Bring a snack for the picnic shelter.",
+                "Give a ten-minute warning before leaving."
+              ],
+              "interests": [
+                "nature",
+                "movement"
+              ],
+              "also": [],
+              "area": "north-raleigh",
+              "outdoor": true,
+              "source": {
+                "kind": "park",
+                "title": "Falls Lake State Recreation Area - Beaverdam Lake Entrance",
+                "address": "14600 Creedmoor Rd, Wake Forest",
+                "lat": 36.042355697507375,
+                "lon": -78.69804873966285,
+                "url": "https://www.ncparks.gov/falls-lake-state-recreation-area",
+                "amenities": [
+                  "playground",
+                  "picnic-shelter",
+                  "restroom",
+                  "greenway"
+                ],
+                "indoor": false,
+                "area": "north-raleigh",
+                "hours": null,
+                "cost": null
+              }
+            }
+          ],
+          "rainBackup": null,
+          "timeline": [
+            {
+              "start": "07:00",
+              "end": "07:30",
+              "kind": "meal",
+              "title": "Up and breakfast"
+            },
+            {
+              "start": "07:30",
+              "end": "09:10",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "09:10",
+              "end": "09:30",
+              "kind": "routine",
+              "title": "Get ready to go",
+              "detail": "Shoes on, diaper bag, water and a snack."
+            },
+            {
+              "start": "09:30",
+              "end": "09:50",
+              "kind": "travel",
+              "title": "Drive to Sarah P. Duke Gardens"
+            },
+            {
+              "start": "09:50",
+              "end": "12:15",
+              "kind": "outing",
+              "title": "Sarah P. Duke Gardens",
+              "detail": "Pack a lunch to eat there."
+            },
+            {
+              "start": "12:15",
+              "end": "12:35",
+              "kind": "travel",
+              "title": "Drive home"
+            },
+            {
+              "start": "12:35",
+              "end": "13:00",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "13:00",
+              "end": "13:45",
+              "kind": "quiet",
+              "title": "Quiet time",
+              "detail": "Books or quiet play in their room."
+            },
+            {
+              "start": "13:45",
+              "end": "18:00",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "18:00",
+              "end": "18:45",
+              "kind": "meal",
+              "title": "Dinner"
+            },
+            {
+              "start": "18:45",
+              "end": "19:30",
+              "kind": "routine",
+              "title": "Bath, books and bed"
+            }
+          ]
+        },
+        {
+          "nap": "no-nap",
+          "napLabel": "No nap",
+          "headline": "Ride the train and walk the Dinosaur Trail",
+          "main": {
+            "ref": "place:museum-of-life-and-science",
+            "arrive": "10:00",
+            "leave": "13:00",
+            "why": "The Museum of Life and Science has Hideaway Woods treehouses and creek, a farmyard, a train ride and a Dinosaur Trail, all outside. Plenty for a 4-year-old or 5-year-old to explore.",
+            "tips": [
+              "Let your child choose the first stop, then the second.",
+              "Pack a snack and a water bottle.",
+              "Leave on a favorite, like one more look at the dinosaurs."
+            ],
+            "interests": [
+              "animals",
+              "dinosaurs",
+              "vehicles"
+            ],
+            "also": [],
+            "area": "durham",
+            "outdoor": true,
+            "source": {
+              "kind": "museum",
+              "title": "Museum of Life and Science",
+              "address": "433 W Murray Ave, Durham, NC 27704",
+              "lat": 36.0294,
+              "lon": -78.8993,
+              "url": "https://www.lifeandscience.org/visit/",
+              "amenities": [
+                "nature",
+                "animals",
+                "train",
+                "playground",
+                "restroom"
+              ],
+              "indoor": false,
+              "area": "durham",
+              "cost": "$24 adults, $19 ages 3–15, under 3 free",
+              "note": "Tickets: $24 adults, $19 ages 3–15, under 3 free. Hideaway Woods treehouses and creek, farmyard, train ride and Dinosaur Trail are outside."
+            }
+          },
+          "alternatives": [
+            {
+              "ref": "event:dix-park:/event/theater-greenway:2026-11-08",
+              "arrive": "14:00",
+              "leave": "16:30",
+              "also": [
+                {
+                  "ref": "place:gipson-play-plaza",
+                  "source": {
+                    "kind": "park",
+                    "title": "Gipson Play Plaza at Dix Park",
+                    "address": "715 Biggs Dr, Raleigh, NC 27603",
+                    "lat": 35.7667,
+                    "lon": -78.6539,
+                    "url": "https://dixpark.org/gipson-play-plaza",
+                    "amenities": [
+                      "playground",
+                      "restroom"
+                    ],
+                    "indoor": false,
+                    "area": "raleigh",
+                    "hours": {
+                      "sun": "8 a.m.–9 p.m.",
+                      "mon": "8 a.m.–9 p.m.",
+                      "tue": "8 a.m.–9 p.m.",
+                      "wed": "8 a.m.–9 p.m.",
+                      "thu": "8 a.m.–9 p.m.",
+                      "fri": "8 a.m.–9 p.m.",
+                      "sat": "8 a.m.–9 p.m."
+                    },
+                    "cost": "Free",
+                    "note": "Free; free parking. Big destination playground on the south edge of Dix Park."
+                  }
+                }
+              ],
+              "why": "Your child watches Peter Rabbit and friends at Theater on the Greenway in Dix Park, then climbs at Gipson Play Plaza, a big destination playground.",
+              "tips": [
+                "Come and go from the show as your child likes.",
+                "Pick a last slide together before leaving."
+              ],
+              "interests": [
+                "stories",
+                "movement"
+              ],
+              "area": "raleigh",
+              "outdoor": true,
+              "source": {
+                "kind": "event",
+                "title": "Theater on the Greenway",
+                "start": "2026-11-08T14:00:00",
+                "end": "2026-11-08T17:00:00",
+                "venue": "Dix Park",
+                "address": "1030 Richardson Dr, Raleigh, NC 27603",
+                "url": "https://dixpark.org/event/theater-greenway",
+                "cost": null,
+                "lat": 35.7701,
+                "lon": -78.6568,
+                "ages": null,
+                "registration": null,
+                "indoor": false,
+                "area": "raleigh",
+                "source": "dix-park",
+                "dropIn": true
+              }
+            },
+            {
+              "ref": "place:hemlock-bluffs",
+              "arrive": "09:30",
+              "leave": "11:30",
+              "why": "A woodland walk for a child who likes to explore. Look for leaves, logs and anything that crunches.",
+              "tips": [
+                "Trails have stairs, so wear shoes with good grip.",
+                "Bring a snack and a water bottle.",
+                "Give your child a job, like finding three different leaves."
+              ],
+              "interests": [
+                "nature",
+                "movement"
+              ],
+              "also": [],
+              "area": "cary-apex",
+              "outdoor": true,
+              "source": {
+                "kind": "park",
+                "title": "Hemlock Bluffs Nature Preserve",
+                "address": "2616 Kildaire Farm Rd, Cary, NC 27518",
+                "lat": 35.7253,
+                "lon": -78.7846,
+                "url": "https://www.carync.gov/recreation-enjoyment/parks-greenways-environment/parks/stevens-nature-center-at-hemlock-bluffs-nature-preserve",
+                "amenities": [
+                  "nature"
+                ],
+                "indoor": false,
+                "area": "cary-apex",
+                "hours": {
+                  "sun": "9 a.m. to sunset",
+                  "mon": "9 a.m. to sunset",
+                  "tue": "9 a.m. to sunset",
+                  "wed": "9 a.m. to sunset",
+                  "thu": "9 a.m. to sunset",
+                  "fri": "9 a.m. to sunset",
+                  "sat": "9 a.m. to sunset"
+                },
+                "cost": "Free",
+                "note": "Free. About three miles of mulched trails and boardwalks with stairs (a carrier beats a stroller); restrooms in the Stevens Nature Center, open Mon–Sat 10–5, Sun 1–5."
+              }
+            },
+            {
+              "ref": "place:white-deer-park",
+              "arrive": "14:30",
+              "leave": "16:30",
+              "why": "White Deer Park has a playground, a picnic shelter and greenway paths. Your child can walk, look closely at nature and play.",
+              "tips": [
+                "Bring a snack for the picnic shelter.",
+                "Walk first, then play on the playground."
+              ],
+              "interests": [
+                "nature",
+                "movement"
+              ],
+              "also": [],
+              "area": "south-wake",
+              "outdoor": true,
+              "source": {
+                "kind": "park",
+                "title": "White Deer Park",
+                "address": "2400 Aversboro Road, Garner NC, 27529",
+                "lat": 35.67703339814751,
+                "lon": -78.62516412154841,
+                "url": "https://www.garnernc.gov/departments/parks-recreation-and-cultural-resources/garner-parks/white-deer-park",
+                "amenities": [
+                  "playground",
+                  "picnic-shelter",
+                  "restroom",
+                  "greenway",
+                  "nature"
+                ],
+                "indoor": false,
+                "area": "south-wake",
+                "hours": null,
+                "cost": null
+              }
+            },
+            {
+              "ref": "event:wake-parks:9411:2026-11-08",
+              "arrive": "09:30",
+              "leave": "11:00",
+              "why": "Learn about the American bison at the Exploration Station at Historic Yates Mill County Park. A family needs to sign up first.",
+              "tips": [
+                "Ask your child what they notice about bison.",
+                "Bring a snack for after."
+              ],
+              "interests": [
+                "animals",
+                "science",
+                "nature"
+              ],
+              "also": [],
+              "area": "raleigh",
+              "outdoor": true,
+              "source": {
+                "kind": "event",
+                "title": "Exploration Station: American Bison",
+                "start": "2026-11-08T08:30:00",
+                "end": "2026-11-08T17:00:00",
+                "venue": "Historic Yates Mill County Park",
+                "address": "4620 Lake Wheeler Rd., Raleigh, NC  27603",
+                "url": "https://apm.activecommunities.com/wakeparks/Activity_Search/exploration-station-american-bison/9411?locale=en-US",
+                "cost": null,
+                "lat": 35.72157134974476,
+                "lon": -78.68526087901417,
+                "ages": null,
+                "registration": "https://apm.activecommunities.com/wakeparks/Activity_Search/exploration-station-american-bison/9411?locale=en-US",
+                "indoor": false,
+                "area": "raleigh",
+                "source": "wake-parks",
+                "dropIn": false
+              }
+            }
+          ],
+          "rainBackup": null,
+          "timeline": [
+            {
+              "start": "07:00",
+              "end": "07:30",
+              "kind": "meal",
+              "title": "Up and breakfast"
+            },
+            {
+              "start": "07:30",
+              "end": "09:20",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "09:20",
+              "end": "09:40",
+              "kind": "routine",
+              "title": "Get ready to go",
+              "detail": "Shoes on, diaper bag, water and a snack."
+            },
+            {
+              "start": "09:40",
+              "end": "10:00",
+              "kind": "travel",
+              "title": "Drive to Museum of Life and Science"
+            },
+            {
+              "start": "10:00",
+              "end": "13:00",
+              "kind": "outing",
+              "title": "Museum of Life and Science",
+              "detail": "Pack a lunch to eat there."
+            },
+            {
+              "start": "13:00",
+              "end": "13:20",
+              "kind": "travel",
+              "title": "Drive home"
+            },
+            {
+              "start": "13:20",
+              "end": "18:00",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "18:00",
+              "end": "18:45",
+              "kind": "meal",
+              "title": "Dinner"
+            },
+            {
+              "start": "18:45",
+              "end": "19:30",
+              "kind": "routine",
+              "title": "Bath, books and bed"
+            }
+          ]
+        }
+      ],
+      "dropped": [
+        "[short-nap] event:museum:duke-gardens:17496 tip: says \"parking\", which isn't in the data: \"Go early, as paid parking often fills before 10 am.\"",
+        "[short-nap] event:museum:duke-gardens:17496 tip: says \"parking\", which isn't in the data: \"Go early, as paid parking often fills before 10 am.\"",
+        "[quiet] event:museum:duke-gardens:17496 tip: says \"parking\", which isn't in the data: \"Go early, as paid parking often fills before 10 am.\""
+      ]
+    }
+  ],
+  "checked": {
+    "at": "2026-11-07T11:04:04.049Z",
+    "forecast": "nws",
+    "weather": {
+      "period": "Sunday",
+      "tempF": 64,
+      "precipProbability": 0,
+      "shortForecast": "Sunny",
+      "windMph": 5,
+      "windFrom": "W",
+      "hours": [
+        {
+          "t": "05:00",
+          "tempF": 42,
+          "pop": 0,
+          "cloud": 33
+        },
+        {
+          "t": "06:00",
+          "tempF": 41,
+          "pop": 0,
+          "cloud": 42
+        },
+        {
+          "t": "07:00",
+          "tempF": 40,
+          "pop": 0,
+          "cloud": 27
+        },
+        {
+          "t": "08:00",
+          "tempF": 44,
+          "pop": 0,
+          "cloud": 31
+        },
+        {
+          "t": "09:00",
+          "tempF": 49,
+          "pop": 0,
+          "cloud": 29
+        },
+        {
+          "t": "10:00",
+          "tempF": 53,
+          "pop": 0,
+          "cloud": 13
+        },
+        {
+          "t": "11:00",
+          "tempF": 56,
+          "pop": 0,
+          "cloud": 3
+        },
+        {
+          "t": "12:00",
+          "tempF": 60,
+          "pop": 0,
+          "cloud": 3
+        },
+        {
+          "t": "13:00",
+          "tempF": 62,
+          "pop": 0,
+          "cloud": 5
+        },
+        {
+          "t": "14:00",
+          "tempF": 63,
+          "pop": 0,
+          "cloud": 5
+        },
+        {
+          "t": "15:00",
+          "tempF": 64,
+          "pop": 0,
+          "cloud": 3
+        },
+        {
+          "t": "16:00",
+          "tempF": 63,
+          "pop": 0,
+          "cloud": 2
+        },
+        {
+          "t": "17:00",
+          "tempF": 60,
+          "pop": 0,
+          "cloud": 1
+        },
+        {
+          "t": "18:00",
+          "tempF": 57,
+          "pop": 0,
+          "cloud": 2
+        },
+        {
+          "t": "19:00",
+          "tempF": 51,
+          "pop": 0,
+          "cloud": 2
+        },
+        {
+          "t": "20:00",
+          "tempF": 51,
+          "pop": 0,
+          "cloud": 0
+        },
+        {
+          "t": "21:00",
+          "tempF": 50,
+          "pop": 0,
+          "cloud": 1
+        },
+        {
+          "t": "22:00",
+          "tempF": 49,
+          "pop": 0,
+          "cloud": 1
+        },
+        {
+          "t": "23:00",
+          "tempF": 48,
+          "pop": 0,
+          "cloud": 1
+        }
+      ]
+    },
+    "hidden": []
+  }
+}

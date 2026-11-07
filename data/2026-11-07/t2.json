@@ -1,0 +1,1085 @@
+{
+  "date": "2026-11-07",
+  "band": "t2",
+  "versions": [
+    {
+      "at": "2026-11-06T20:42:49.985Z",
+      "reason": null,
+      "forecast": "nws",
+      "weather": {
+        "period": "Saturday",
+        "tempF": 62,
+        "precipProbability": 0,
+        "shortForecast": "Sunny",
+        "hours": [
+          {
+            "t": "05:00",
+            "tempF": 54,
+            "pop": 0
+          },
+          {
+            "t": "06:00",
+            "tempF": 52,
+            "pop": 0
+          },
+          {
+            "t": "07:00",
+            "tempF": 51,
+            "pop": 0
+          },
+          {
+            "t": "08:00",
+            "tempF": 52,
+            "pop": 0
+          },
+          {
+            "t": "09:00",
+            "tempF": 53,
+            "pop": 0
+          },
+          {
+            "t": "10:00",
+            "tempF": 54,
+            "pop": 0
+          },
+          {
+            "t": "11:00",
+            "tempF": 58,
+            "pop": 0
+          },
+          {
+            "t": "12:00",
+            "tempF": 60,
+            "pop": 0
+          },
+          {
+            "t": "13:00",
+            "tempF": 61,
+            "pop": 0
+          },
+          {
+            "t": "14:00",
+            "tempF": 62,
+            "pop": 0
+          },
+          {
+            "t": "15:00",
+            "tempF": 62,
+            "pop": 0
+          },
+          {
+            "t": "16:00",
+            "tempF": 61,
+            "pop": 0
+          },
+          {
+            "t": "17:00",
+            "tempF": 59,
+            "pop": 0
+          },
+          {
+            "t": "18:00",
+            "tempF": 54,
+            "pop": 0
+          },
+          {
+            "t": "19:00",
+            "tempF": 50,
+            "pop": 0
+          },
+          {
+            "t": "20:00",
+            "tempF": 50,
+            "pop": 0
+          },
+          {
+            "t": "21:00",
+            "tempF": 48,
+            "pop": 0
+          },
+          {
+            "t": "22:00",
+            "tempF": 48,
+            "pop": 0
+          },
+          {
+            "t": "23:00",
+            "tempF": 47,
+            "pop": 0
+          }
+        ]
+      },
+      "plans": [
+        {
+          "nap": "early-nap",
+          "napLabel": "One nap, 12 to 2",
+          "headline": "Play with songs and sensory fun in Hideaway Woods",
+          "main": {
+            "ref": "event:weekly:mols-early-childhood:2026-11-07",
+            "arrive": "09:30",
+            "leave": "11:20",
+            "why": "Sensory play, songs and stories for young children and their grown-ups in Hideaway Woods. Drop in and stay as long as your 2-year-old likes.",
+            "tips": [
+              "Museum admission is free for children under 3, per the museum's ticket info.",
+              "Bring a snack for after the play.",
+              "Say it is almost time to go 10 minutes before you leave."
+            ],
+            "interests": [
+              "science",
+              "music",
+              "stories"
+            ],
+            "also": [],
+            "area": "durham",
+            "outdoor": true,
+            "source": {
+              "kind": "event",
+              "title": "Early Childhood Drop-In",
+              "start": "2026-11-07T09:30:00",
+              "end": "2026-11-07T11:30:00",
+              "venue": "Hideaway Woods, Museum of Life and Science",
+              "address": "433 W Murray Ave, Durham, NC 27704",
+              "url": "https://www.lifeandscience.org/learn/drop-in-programs/",
+              "cost": "Included with museum admission",
+              "lat": 36.0294,
+              "lon": -78.8993,
+              "ages": "young children and their caregivers",
+              "registration": false,
+              "indoor": false,
+              "area": "durham",
+              "source": "weekly",
+              "dropIn": true
+            }
+          },
+          "alternatives": [
+            {
+              "ref": "place:pullen-park-amusements",
+              "arrive": "10:00",
+              "leave": "11:20",
+              "why": "The carousel and the train are the big draws for a 2-year-old, and there is a playground too.",
+              "tips": [
+                "Start with the carousel and keep the train for last.",
+                "Bring a snack for a break at the picnic shelter.",
+                "Name the last ride as the last one before you walk to the car."
+              ],
+              "interests": [
+                "vehicles",
+                "movement"
+              ],
+              "also": [],
+              "area": "raleigh",
+              "outdoor": true,
+              "source": {
+                "kind": "park",
+                "title": "Pullen Park Amusements",
+                "address": "410 Park Ave, Raleigh, NC 27606",
+                "lat": 35.7806,
+                "lon": -78.66396,
+                "url": "https://raleighnc.gov/parks-and-recreation/places/pullen-park-amusements",
+                "amenities": [
+                  "carousel",
+                  "boating",
+                  "train",
+                  "amusements",
+                  "courts",
+                  "playground",
+                  "picnic-shelter"
+                ],
+                "indoor": false,
+                "area": "raleigh",
+                "hours": {
+                  "mon": "10 a.m.–6 p.m.",
+                  "tue": "10 a.m.–6 p.m.",
+                  "wed": "10 a.m.–6 p.m.",
+                  "thu": "10 a.m.–6 p.m.",
+                  "fri": "10 a.m.–8 p.m.",
+                  "sat": "10 a.m.–8 p.m.",
+                  "sun": "10 a.m.–8 p.m."
+                },
+                "cost": null
+              }
+            },
+            {
+              "ref": "event:wake-parks:8358:2026-11-07",
+              "also": [
+                {
+                  "ref": "place:beech-bluff-county-park",
+                  "source": {
+                    "kind": "park",
+                    "title": "Beech Bluff County Park",
+                    "address": "Beech Bluff Park Drive, Fuquay-Varina, NC",
+                    "lat": 35.58537279715877,
+                    "lon": -78.6793341971644,
+                    "url": "https://www.wake.gov/departments-government/parks-recreation-open-space/all-parks-trails/beech-bluff-county-park",
+                    "amenities": [
+                      "playground",
+                      "garden",
+                      "greenway",
+                      "restroom",
+                      "picnic-shelter"
+                    ],
+                    "indoor": false,
+                    "area": "south-wake",
+                    "hours": null,
+                    "cost": null
+                  }
+                }
+              ],
+              "arrive": "09:00",
+              "leave": "10:45",
+              "why": "Read a picture book one page at a time along the Educational Loop. Then your child can play on the park playground.",
+              "tips": [
+                "Let your child lead and run ahead to find the next page.",
+                "Read each page aloud in a silly voice.",
+                "Pack a snack for the playground."
+              ],
+              "interests": [
+                "stories",
+                "nature",
+                "movement"
+              ],
+              "area": "south-wake",
+              "outdoor": true,
+              "source": {
+                "kind": "event",
+                "title": "Beech Bluff County Park StoryWalk® 2026 (Self-Led)",
+                "start": "2026-11-07T08:00:00",
+                "end": "2026-11-07T17:30:00",
+                "venue": "Beech Bluff County Park",
+                "address": "Beech Bluff Park Drive, Fuquay-Varina, NC",
+                "url": "https://apm.activecommunities.com/wakeparks/Activity_Search/beech-bluff-county-park-storywalk-2026-self-led/8358?locale=en-US",
+                "cost": "Free",
+                "lat": 35.58537279715877,
+                "lon": -78.6793341971644,
+                "ages": null,
+                "registration": false,
+                "indoor": false,
+                "area": "south-wake",
+                "source": "wake-parks",
+                "dropIn": true
+              }
+            },
+            {
+              "ref": "event:museum:duke-gardens:17494",
+              "arrive": "09:50",
+              "leave": "11:20",
+              "why": "Walk among the exhibition mums in the Japanese Garden. It is free, and your child can point out colors.",
+              "tips": [
+                "Count the flowers by color as you walk.",
+                "Bring a snack for a break before you head home."
+              ],
+              "interests": [
+                "nature",
+                "art"
+              ],
+              "also": [],
+              "area": "durham",
+              "outdoor": true,
+              "source": {
+                "kind": "event",
+                "title": "A Festival of Fabulous Mums",
+                "start": "2026-11-07T10:00:00",
+                "end": "2026-11-07T16:00:00",
+                "venue": "Sarah P. Duke Gardens",
+                "address": "420 Anderson Street, Durham, NC, 27708",
+                "url": "https://gardens.duke.edu/event/a-festival-of-fabulous-mums-5/",
+                "cost": "Free",
+                "lat": 36.0024,
+                "lon": -78.9328,
+                "ages": "Adult Programs Family programs Festival of Fabulous Mums",
+                "registration": false,
+                "indoor": false,
+                "area": "durham",
+                "source": "museum",
+                "dropIn": true
+              }
+            },
+            {
+              "ref": "event:raleigh:fall-arts-fair",
+              "arrive": "15:00",
+              "leave": "16:45",
+              "why": "A free art fair in a park. Your 2-year-old can wander and look at colors, and the park has a playground.",
+              "tips": [
+                "Come after nap with a snack in the bag.",
+                "Point out colors and shapes as you walk.",
+                "Plan a playground break before heading home."
+              ],
+              "interests": [
+                "art",
+                "movement"
+              ],
+              "also": [],
+              "area": "raleigh",
+              "outdoor": true,
+              "source": {
+                "kind": "event",
+                "title": "Fall Arts Fair",
+                "start": "2026-11-07T15:00:00",
+                "end": "2026-11-07T21:00:00",
+                "venue": "Fred Fletcher Park",
+                "address": "805 Washington St, Raleigh, NC 27605",
+                "url": "https://raleighnc.gov/arts/events/fall-arts-fair",
+                "cost": "Free and open to the public!",
+                "lat": 35.79264,
+                "lon": -78.64957,
+                "ages": null,
+                "registration": null,
+                "indoor": false,
+                "area": "raleigh",
+                "source": "raleigh",
+                "dropIn": true
+              }
+            }
+          ],
+          "rainBackup": null,
+          "timeline": [
+            {
+              "start": "07:00",
+              "end": "07:30",
+              "kind": "meal",
+              "title": "Up and breakfast"
+            },
+            {
+              "start": "07:30",
+              "end": "08:50",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "08:50",
+              "end": "09:10",
+              "kind": "routine",
+              "title": "Get ready to go",
+              "detail": "Shoes on, diaper bag, water and a snack."
+            },
+            {
+              "start": "09:10",
+              "end": "09:30",
+              "kind": "travel",
+              "title": "Drive to Hideaway Woods, Museum of Life and Science"
+            },
+            {
+              "start": "09:30",
+              "end": "11:20",
+              "kind": "outing",
+              "title": "Hideaway Woods, Museum of Life and Science"
+            },
+            {
+              "start": "11:20",
+              "end": "11:40",
+              "kind": "travel",
+              "title": "Drive home"
+            },
+            {
+              "start": "11:40",
+              "end": "12:00",
+              "kind": "meal",
+              "title": "Lunch"
+            },
+            {
+              "start": "12:00",
+              "end": "14:00",
+              "kind": "nap",
+              "title": "Nap"
+            },
+            {
+              "start": "14:00",
+              "end": "14:20",
+              "kind": "routine",
+              "title": "Up and a snack"
+            },
+            {
+              "start": "14:20",
+              "end": "18:00",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "18:00",
+              "end": "18:45",
+              "kind": "meal",
+              "title": "Dinner"
+            },
+            {
+              "start": "18:45",
+              "end": "19:30",
+              "kind": "routine",
+              "title": "Bath, books and bed"
+            }
+          ]
+        },
+        {
+          "nap": "late-nap",
+          "napLabel": "One nap, 1 to 3",
+          "headline": "Ride the carousel and the train at Pullen Park",
+          "main": {
+            "ref": "place:pullen-park-amusements",
+            "arrive": "10:00",
+            "leave": "12:00",
+            "why": "Ride the carousel and the train, then burn off energy on the playground. Lots of 2-year-old fun in one stop.",
+            "tips": [
+              "Pick one ride to start and save the other as a treat.",
+              "Bring a snack to eat at the picnic shelter.",
+              "Call the last ride the last one before you walk to the car."
+            ],
+            "interests": [
+              "vehicles",
+              "movement"
+            ],
+            "also": [],
+            "area": "raleigh",
+            "outdoor": true,
+            "source": {
+              "kind": "park",
+              "title": "Pullen Park Amusements",
+              "address": "410 Park Ave, Raleigh, NC 27606",
+              "lat": 35.7806,
+              "lon": -78.66396,
+              "url": "https://raleighnc.gov/parks-and-recreation/places/pullen-park-amusements",
+              "amenities": [
+                "carousel",
+                "boating",
+                "train",
+                "amusements",
+                "courts",
+                "playground",
+                "picnic-shelter"
+              ],
+              "indoor": false,
+              "area": "raleigh",
+              "hours": {
+                "mon": "10 a.m.–6 p.m.",
+                "tue": "10 a.m.–6 p.m.",
+                "wed": "10 a.m.–6 p.m.",
+                "thu": "10 a.m.–6 p.m.",
+                "fri": "10 a.m.–8 p.m.",
+                "sat": "10 a.m.–8 p.m.",
+                "sun": "10 a.m.–8 p.m."
+              },
+              "cost": null
+            }
+          },
+          "alternatives": [
+            {
+              "ref": "event:museum:duke-gardens:17494",
+              "arrive": "09:50",
+              "leave": "11:45",
+              "why": "Walk among the exhibition mums in the Japanese Garden. It is free, and your child can point out colors.",
+              "tips": [
+                "Count the flowers by color as you walk.",
+                "The Charlotte Brody Discovery Garden is on the grounds if your child has energy left."
+              ],
+              "interests": [
+                "nature",
+                "art"
+              ],
+              "also": [],
+              "area": "durham",
+              "outdoor": true,
+              "source": {
+                "kind": "event",
+                "title": "A Festival of Fabulous Mums",
+                "start": "2026-11-07T10:00:00",
+                "end": "2026-11-07T16:00:00",
+                "venue": "Sarah P. Duke Gardens",
+                "address": "420 Anderson Street, Durham, NC, 27708",
+                "url": "https://gardens.duke.edu/event/a-festival-of-fabulous-mums-5/",
+                "cost": "Free",
+                "lat": 36.0024,
+                "lon": -78.9328,
+                "ages": "Adult Programs Family programs Festival of Fabulous Mums",
+                "registration": false,
+                "indoor": false,
+                "area": "durham",
+                "source": "museum",
+                "dropIn": true
+              }
+            },
+            {
+              "ref": "event:wake-parks:8358:2026-11-07",
+              "also": [
+                {
+                  "ref": "place:beech-bluff-county-park",
+                  "source": {
+                    "kind": "park",
+                    "title": "Beech Bluff County Park",
+                    "address": "Beech Bluff Park Drive, Fuquay-Varina, NC",
+                    "lat": 35.58537279715877,
+                    "lon": -78.6793341971644,
+                    "url": "https://www.wake.gov/departments-government/parks-recreation-open-space/all-parks-trails/beech-bluff-county-park",
+                    "amenities": [
+                      "playground",
+                      "garden",
+                      "greenway",
+                      "restroom",
+                      "picnic-shelter"
+                    ],
+                    "indoor": false,
+                    "area": "south-wake",
+                    "hours": null,
+                    "cost": null
+                  }
+                }
+              ],
+              "arrive": "09:00",
+              "leave": "11:00",
+              "why": "Follow the StoryWalk along the Educational Loop, reading a page at each stop. Then play at the park playground.",
+              "tips": [
+                "Let your child lead the way to the next page.",
+                "Bring a snack for the playground.",
+                "Read the last page together, then say it is time for the car."
+              ],
+              "interests": [
+                "stories",
+                "nature",
+                "movement"
+              ],
+              "area": "south-wake",
+              "outdoor": true,
+              "source": {
+                "kind": "event",
+                "title": "Beech Bluff County Park StoryWalk® 2026 (Self-Led)",
+                "start": "2026-11-07T08:00:00",
+                "end": "2026-11-07T17:30:00",
+                "venue": "Beech Bluff County Park",
+                "address": "Beech Bluff Park Drive, Fuquay-Varina, NC",
+                "url": "https://apm.activecommunities.com/wakeparks/Activity_Search/beech-bluff-county-park-storywalk-2026-self-led/8358?locale=en-US",
+                "cost": "Free",
+                "lat": 35.58537279715877,
+                "lon": -78.6793341971644,
+                "ages": null,
+                "registration": false,
+                "indoor": false,
+                "area": "south-wake",
+                "source": "wake-parks",
+                "dropIn": true
+              }
+            },
+            {
+              "ref": "event:raleigh:fall-arts-fair",
+              "arrive": "15:20",
+              "leave": "17:00",
+              "why": "A free art fair in a park. Your 2-year-old can wander and look at colors, and the park has a playground.",
+              "tips": [
+                "Come after nap with a snack in the bag.",
+                "Name the colors and shapes you spot.",
+                "Leave a little before 5 pm so the day ends calm."
+              ],
+              "interests": [
+                "art",
+                "movement"
+              ],
+              "also": [],
+              "area": "raleigh",
+              "outdoor": true,
+              "source": {
+                "kind": "event",
+                "title": "Fall Arts Fair",
+                "start": "2026-11-07T15:00:00",
+                "end": "2026-11-07T21:00:00",
+                "venue": "Fred Fletcher Park",
+                "address": "805 Washington St, Raleigh, NC 27605",
+                "url": "https://raleighnc.gov/arts/events/fall-arts-fair",
+                "cost": "Free and open to the public!",
+                "lat": 35.79264,
+                "lon": -78.64957,
+                "ages": null,
+                "registration": null,
+                "indoor": false,
+                "area": "raleigh",
+                "source": "raleigh",
+                "dropIn": true
+              }
+            }
+          ],
+          "rainBackup": null,
+          "timeline": [
+            {
+              "start": "07:00",
+              "end": "07:30",
+              "kind": "meal",
+              "title": "Up and breakfast"
+            },
+            {
+              "start": "07:30",
+              "end": "09:20",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "09:20",
+              "end": "09:40",
+              "kind": "routine",
+              "title": "Get ready to go",
+              "detail": "Shoes on, diaper bag, water and a snack."
+            },
+            {
+              "start": "09:40",
+              "end": "10:00",
+              "kind": "travel",
+              "title": "Drive to Pullen Park Amusements"
+            },
+            {
+              "start": "10:00",
+              "end": "12:00",
+              "kind": "outing",
+              "title": "Pullen Park Amusements"
+            },
+            {
+              "start": "12:00",
+              "end": "12:20",
+              "kind": "travel",
+              "title": "Drive home"
+            },
+            {
+              "start": "12:20",
+              "end": "12:50",
+              "kind": "meal",
+              "title": "Lunch"
+            },
+            {
+              "start": "12:50",
+              "end": "13:00",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "13:00",
+              "end": "15:00",
+              "kind": "nap",
+              "title": "Nap"
+            },
+            {
+              "start": "15:00",
+              "end": "15:20",
+              "kind": "routine",
+              "title": "Up and a snack"
+            },
+            {
+              "start": "15:20",
+              "end": "18:30",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "18:30",
+              "end": "19:15",
+              "kind": "meal",
+              "title": "Dinner"
+            },
+            {
+              "start": "19:15",
+              "end": "20:00",
+              "kind": "routine",
+              "title": "Bath, books and bed"
+            }
+          ]
+        },
+        {
+          "nap": "short-nap",
+          "napLabel": "Short nap, 1 to 2",
+          "headline": "See a garden full of fall mums",
+          "main": {
+            "ref": "event:museum:duke-gardens:17494",
+            "arrive": "09:50",
+            "leave": "11:50",
+            "why": "Stroll through the exhibition mums at the Japanese Garden. It is free, and a 2-year-old will love the bursts of color and the paths to explore.",
+            "tips": [
+              "Bring a snack and a water bottle.",
+              "The Charlotte Brody Discovery Garden is on the grounds if your child has energy left."
+            ],
+            "interests": [
+              "nature",
+              "art"
+            ],
+            "also": [],
+            "area": "durham",
+            "outdoor": true,
+            "source": {
+              "kind": "event",
+              "title": "A Festival of Fabulous Mums",
+              "start": "2026-11-07T10:00:00",
+              "end": "2026-11-07T16:00:00",
+              "venue": "Sarah P. Duke Gardens",
+              "address": "420 Anderson Street, Durham, NC, 27708",
+              "url": "https://gardens.duke.edu/event/a-festival-of-fabulous-mums-5/",
+              "cost": "Free",
+              "lat": 36.0024,
+              "lon": -78.9328,
+              "ages": "Adult Programs Family programs Festival of Fabulous Mums",
+              "registration": false,
+              "indoor": false,
+              "area": "durham",
+              "source": "museum",
+              "dropIn": true
+            }
+          },
+          "alternatives": [
+            {
+              "ref": "event:weekly:mols-early-childhood:2026-11-07",
+              "arrive": "09:30",
+              "leave": "11:30",
+              "why": "Sensory play, songs and stories in Hideaway Woods for young children and their grown-ups. Drop in and stay as long as your 2-year-old likes.",
+              "tips": [
+                "Museum admission is free for children under 3, per the museum's ticket info.",
+                "Bring a snack for after the play.",
+                "Warn your child 10 minutes before you leave."
+              ],
+              "interests": [
+                "science",
+                "music",
+                "stories"
+              ],
+              "also": [],
+              "area": "durham",
+              "outdoor": true,
+              "source": {
+                "kind": "event",
+                "title": "Early Childhood Drop-In",
+                "start": "2026-11-07T09:30:00",
+                "end": "2026-11-07T11:30:00",
+                "venue": "Hideaway Woods, Museum of Life and Science",
+                "address": "433 W Murray Ave, Durham, NC 27704",
+                "url": "https://www.lifeandscience.org/learn/drop-in-programs/",
+                "cost": "Included with museum admission",
+                "lat": 36.0294,
+                "lon": -78.8993,
+                "ages": "young children and their caregivers",
+                "registration": false,
+                "indoor": false,
+                "area": "durham",
+                "source": "weekly",
+                "dropIn": true
+              }
+            },
+            {
+              "ref": "event:wake-parks:8358:2026-11-07",
+              "also": [
+                {
+                  "ref": "place:beech-bluff-county-park",
+                  "source": {
+                    "kind": "park",
+                    "title": "Beech Bluff County Park",
+                    "address": "Beech Bluff Park Drive, Fuquay-Varina, NC",
+                    "lat": 35.58537279715877,
+                    "lon": -78.6793341971644,
+                    "url": "https://www.wake.gov/departments-government/parks-recreation-open-space/all-parks-trails/beech-bluff-county-park",
+                    "amenities": [
+                      "playground",
+                      "garden",
+                      "greenway",
+                      "restroom",
+                      "picnic-shelter"
+                    ],
+                    "indoor": false,
+                    "area": "south-wake",
+                    "hours": null,
+                    "cost": null
+                  }
+                }
+              ],
+              "arrive": "09:00",
+              "leave": "11:00",
+              "why": "Follow the StoryWalk along the Educational Loop, reading a page at each stop. Then play at the park playground.",
+              "tips": [
+                "Let your child lead the way to the next page.",
+                "Bring a snack for the playground.",
+                "Read the last page together, then say it is time for the car."
+              ],
+              "interests": [
+                "stories",
+                "nature",
+                "movement"
+              ],
+              "area": "south-wake",
+              "outdoor": true,
+              "source": {
+                "kind": "event",
+                "title": "Beech Bluff County Park StoryWalk® 2026 (Self-Led)",
+                "start": "2026-11-07T08:00:00",
+                "end": "2026-11-07T17:30:00",
+                "venue": "Beech Bluff County Park",
+                "address": "Beech Bluff Park Drive, Fuquay-Varina, NC",
+                "url": "https://apm.activecommunities.com/wakeparks/Activity_Search/beech-bluff-county-park-storywalk-2026-self-led/8358?locale=en-US",
+                "cost": "Free",
+                "lat": 35.58537279715877,
+                "lon": -78.6793341971644,
+                "ages": null,
+                "registration": false,
+                "indoor": false,
+                "area": "south-wake",
+                "source": "wake-parks",
+                "dropIn": true
+              }
+            },
+            {
+              "ref": "place:pullen-park-amusements",
+              "arrive": "14:30",
+              "leave": "16:30",
+              "why": "After nap, ride the carousel and the train, then play on the playground.",
+              "tips": [
+                "Pick one ride first and save the other as a treat.",
+                "Bring a snack for a break at the picnic shelter.",
+                "Call the last ride the last one before you head to the car."
+              ],
+              "interests": [
+                "vehicles",
+                "movement"
+              ],
+              "also": [],
+              "area": "raleigh",
+              "outdoor": true,
+              "source": {
+                "kind": "park",
+                "title": "Pullen Park Amusements",
+                "address": "410 Park Ave, Raleigh, NC 27606",
+                "lat": 35.7806,
+                "lon": -78.66396,
+                "url": "https://raleighnc.gov/parks-and-recreation/places/pullen-park-amusements",
+                "amenities": [
+                  "carousel",
+                  "boating",
+                  "train",
+                  "amusements",
+                  "courts",
+                  "playground",
+                  "picnic-shelter"
+                ],
+                "indoor": false,
+                "area": "raleigh",
+                "hours": {
+                  "mon": "10 a.m.–6 p.m.",
+                  "tue": "10 a.m.–6 p.m.",
+                  "wed": "10 a.m.–6 p.m.",
+                  "thu": "10 a.m.–6 p.m.",
+                  "fri": "10 a.m.–8 p.m.",
+                  "sat": "10 a.m.–8 p.m.",
+                  "sun": "10 a.m.–8 p.m."
+                },
+                "cost": null
+              }
+            }
+          ],
+          "rainBackup": null,
+          "timeline": [
+            {
+              "start": "07:00",
+              "end": "07:30",
+              "kind": "meal",
+              "title": "Up and breakfast"
+            },
+            {
+              "start": "07:30",
+              "end": "09:10",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "09:10",
+              "end": "09:30",
+              "kind": "routine",
+              "title": "Get ready to go",
+              "detail": "Shoes on, diaper bag, water and a snack."
+            },
+            {
+              "start": "09:30",
+              "end": "09:50",
+              "kind": "travel",
+              "title": "Drive to Sarah P. Duke Gardens"
+            },
+            {
+              "start": "09:50",
+              "end": "11:50",
+              "kind": "outing",
+              "title": "Sarah P. Duke Gardens"
+            },
+            {
+              "start": "11:50",
+              "end": "12:15",
+              "kind": "travel",
+              "title": "Drive home"
+            },
+            {
+              "start": "12:15",
+              "end": "12:45",
+              "kind": "meal",
+              "title": "Lunch"
+            },
+            {
+              "start": "12:45",
+              "end": "13:00",
+              "kind": "quiet",
+              "title": "Wind down",
+              "detail": "A couple of books to settle."
+            },
+            {
+              "start": "13:00",
+              "end": "14:00",
+              "kind": "nap",
+              "title": "Nap"
+            },
+            {
+              "start": "14:00",
+              "end": "14:20",
+              "kind": "routine",
+              "title": "Up and a snack"
+            },
+            {
+              "start": "14:20",
+              "end": "18:00",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "18:00",
+              "end": "18:45",
+              "kind": "meal",
+              "title": "Dinner"
+            },
+            {
+              "start": "18:45",
+              "end": "19:30",
+              "kind": "routine",
+              "title": "Bath, books and bed"
+            }
+          ]
+        }
+      ],
+      "dropped": [
+        "[early-nap] event:museum:duke-gardens:17494 tip: says \"parking\", which isn't in the data: \"Parking is paid and often fills before 10 am, so arrive right at 9:50.\"",
+        "[early-nap] event:museum:duke-gardens:17494 tip: says \"parking\", which isn't in the data: \"Parking is paid and often fills before 10 am, so arrive right at 9:50.\"",
+        "[late-nap] event:museum:duke-gardens:17494 tip: says \"parking\", which isn't in the data: \"Parking is paid and often fills before 10 am, so arrive right at 9:50.\"",
+        "[late-nap] alternative place:knightdale-station-park Family Fables (Storytime) is for Baby, Elementary School, Kindergarten, Pre-School, Toddler",
+        "[late-nap] event:museum:duke-gardens:17494 tip: says \"parking\", which isn't in the data: \"Parking is paid and often fills before 10 am, so arrive right at 9:50.\"",
+        "[short-nap] alternative place:knightdale-station-park Family Fables (Storytime) is for Baby, Elementary School, Kindergarten, Pre-School, Toddler",
+        "[short-nap] event:museum:duke-gardens:17494 tip: says \"parking\", which isn't in the data: \"Parking is paid and often fills before 10 am, so arrive right at 9:50.\""
+      ],
+      "retried": [
+        "[early-nap] main event:libcal:durham-county-library:17463477 Small is All Productions Presents: Circle & Square @ Stanford L. Warren is for Baby, Elementary School, Intergenerational, Kindergarten, Pre-School, Toddler"
+      ]
+    }
+  ],
+  "checked": {
+    "at": "2026-11-07T11:04:04.013Z",
+    "forecast": "nws",
+    "weather": {
+      "period": "Today",
+      "tempF": 63,
+      "precipProbability": 0,
+      "shortForecast": "Sunny",
+      "windMph": 12,
+      "windFrom": "NW",
+      "hours": [
+        {
+          "t": "06:00",
+          "tempF": 51,
+          "pop": 0,
+          "cloud": 5
+        },
+        {
+          "t": "07:00",
+          "tempF": 50,
+          "pop": 0,
+          "cloud": 7
+        },
+        {
+          "t": "08:00",
+          "tempF": 51,
+          "pop": 0,
+          "cloud": 5
+        },
+        {
+          "t": "09:00",
+          "tempF": 53,
+          "pop": 0,
+          "cloud": 10
+        },
+        {
+          "t": "10:00",
+          "tempF": 55,
+          "pop": 0,
+          "cloud": 16
+        },
+        {
+          "t": "11:00",
+          "tempF": 58,
+          "pop": 0,
+          "cloud": 5
+        },
+        {
+          "t": "12:00",
+          "tempF": 60,
+          "pop": 0,
+          "cloud": 2
+        },
+        {
+          "t": "13:00",
+          "tempF": 60,
+          "pop": 0,
+          "cloud": 3
+        },
+        {
+          "t": "14:00",
+          "tempF": 62,
+          "pop": 0,
+          "cloud": 3
+        },
+        {
+          "t": "15:00",
+          "tempF": 61,
+          "pop": 0,
+          "cloud": 2
+        },
+        {
+          "t": "16:00",
+          "tempF": 61,
+          "pop": 0,
+          "cloud": 2
+        },
+        {
+          "t": "17:00",
+          "tempF": 59,
+          "pop": 0,
+          "cloud": 1
+        },
+        {
+          "t": "18:00",
+          "tempF": 54,
+          "pop": 0,
+          "cloud": 1
+        },
+        {
+          "t": "19:00",
+          "tempF": 50,
+          "pop": 0,
+          "cloud": 2
+        },
+        {
+          "t": "20:00",
+          "tempF": 50,
+          "pop": 0,
+          "cloud": 7
+        },
+        {
+          "t": "21:00",
+          "tempF": 48,
+          "pop": 0,
+          "cloud": 14
+        },
+        {
+          "t": "22:00",
+          "tempF": 48,
+          "pop": 0,
+          "cloud": 31
+        },
+        {
+          "t": "23:00",
+          "tempF": 46,
+          "pop": 0,
+          "cloud": 30
+        }
+      ]
+    },
+    "hidden": []
+  }
+}

@@ -1,0 +1,1059 @@
+{
+  "date": "2026-11-18",
+  "band": "t2",
+  "versions": [
+    {
+      "at": "2026-11-05T11:05:33.146Z",
+      "reason": null,
+      "forecast": "none",
+      "weather": null,
+      "plans": [
+        {
+          "nap": "early-nap",
+          "napLabel": "One nap, 12 to 2",
+          "headline": "Play math games at a big playground",
+          "main": {
+            "ref": "event:dix-park:/event/math-makers-0:2026-11-18",
+            "arrive": "14:50",
+            "leave": "16:30",
+            "why": "Your 2-year-old can try playful math activities and run around Gipson Play Plaza, a big playground. The event runs from 3:00 to 5:00 pm, so stay as long as your child is happy.",
+            "tips": [
+              "Bring a snack and water to share halfway through.",
+              "Let your child lead. Counting steps or stacking things counts as math.",
+              "Give a five-minute warning, then head to the car holding a favorite toy."
+            ],
+            "interests": [
+              "movement",
+              "science"
+            ],
+            "also": [],
+            "area": "raleigh",
+            "outdoor": true,
+            "source": {
+              "kind": "event",
+              "title": "Math Makers",
+              "start": "2026-11-18T15:00:00",
+              "end": "2026-11-18T17:00:00",
+              "venue": "Gipson Play Plaza, Dix Park",
+              "address": "715 Biggs Dr, Raleigh, NC 27603",
+              "url": "https://dixpark.org/event/math-makers-0",
+              "cost": null,
+              "lat": 35.7667,
+              "lon": -78.6539,
+              "ages": null,
+              "registration": null,
+              "indoor": false,
+              "area": "raleigh",
+              "source": "dix-park",
+              "dropIn": false
+            }
+          },
+          "alternatives": [
+            {
+              "ref": "event:durham-rec:20235",
+              "arrive": "08:50",
+              "leave": "10:50",
+              "why": "Wear pajamas to a pancake breakfast, then run it off at Hillside Park. A family needs to sign up first.",
+              "tips": [
+                "Pick pajamas your child can play in outside.",
+                "Say the park comes after pancakes so leaving the table is easy."
+              ],
+              "interests": [
+                "movement",
+                "nature"
+              ],
+              "also": [
+                {
+                  "ref": "place:hillside-park",
+                  "source": {
+                    "kind": "park",
+                    "title": "Hillside Park",
+                    "address": "1301 S Roxboro St, Durham, NC",
+                    "lat": 35.98093222222222,
+                    "lon": -78.90178333333333,
+                    "url": "https://www.dprplaymore.org/Facilities/Facility/Details/Hillside-Park-32",
+                    "amenities": [
+                      "playground",
+                      "splashpad",
+                      "pool",
+                      "picnic-shelter",
+                      "restroom"
+                    ],
+                    "indoor": false,
+                    "area": "durham",
+                    "hours": null,
+                    "cost": null
+                  }
+                }
+              ],
+              "area": "durham",
+              "outdoor": false,
+              "source": {
+                "kind": "event",
+                "title": "Pancakes & Pajamas",
+                "start": "2026-11-18T09:00:00",
+                "end": "2026-11-18T10:00:00",
+                "venue": "W.D. Hill Recreation Center",
+                "address": "1308 Fayetteville St, Durham, NC",
+                "url": "https://apm.activecommunities.com/dprplaymore/Activity_Search/pancakes-pajamas/20235?locale=en-US",
+                "cost": null,
+                "lat": 35.9797,
+                "lon": -78.8985,
+                "ages": "2 - 6",
+                "registration": "https://apm.activecommunities.com/dprplaymore/Activity_Search/pancakes-pajamas/20235?locale=en-US",
+                "indoor": true,
+                "area": "durham",
+                "source": "durham-rec",
+                "dropIn": false
+              }
+            },
+            {
+              "ref": "place:fred-fletcher-park",
+              "arrive": "10:00",
+              "leave": "11:00",
+              "why": "Play at Fred Fletcher Park first, then watch the ocean habitat animals get fed at the NC Museum of Natural Sciences. It is a short, easy show for a 2-year-old.",
+              "tips": [
+                "Walk over a few minutes early so you can get close to the tank.",
+                "Bring a snack for the park, not the museum."
+              ],
+              "interests": [
+                "animals",
+                "science"
+              ],
+              "also": [
+                {
+                  "ref": "event:museum:nc-natural-sciences:123922",
+                  "source": {
+                    "kind": "event",
+                    "title": "Live Animal Feeding – Ocean Habitat",
+                    "start": "2026-11-18T10:45:00",
+                    "end": "2026-11-18T11:00:00",
+                    "venue": "NC Museum of Natural Sciences",
+                    "address": "11 West Jones Street, Raleigh, NC, 27601",
+                    "url": "https://www.naturalsciences.org/calendar/event/live-animal-feeding-ocean-habitat-5/2026-11-18/",
+                    "cost": null,
+                    "lat": 35.7822735,
+                    "lon": -78.6395502,
+                    "ages": "Adults All Ages Children Live Animals Teens Walk-up Programs",
+                    "registration": false,
+                    "indoor": true,
+                    "area": "raleigh",
+                    "source": "museum",
+                    "dropIn": false
+                  }
+                }
+              ],
+              "area": "raleigh",
+              "outdoor": false,
+              "source": {
+                "kind": "park",
+                "title": "Fred Fletcher Park",
+                "address": "820 Clay Street, Raleigh, NC 27605",
+                "lat": 35.79264,
+                "lon": -78.64957,
+                "url": "https://raleighnc.gov/parks-and-recreation/places/fred-fletcher-park",
+                "amenities": [
+                  "garden",
+                  "picnic-shelter",
+                  "courts",
+                  "fields",
+                  "playground"
+                ],
+                "indoor": false,
+                "area": "raleigh",
+                "hours": null,
+                "cost": null
+              }
+            },
+            {
+              "ref": "event:wake:21996",
+              "arrive": "09:10",
+              "leave": "10:30",
+              "why": "Toddler Storytime at Northeast Regional Library has books, music, rhymes and movement. Then Plummer Park gives your 2-year-old room to run.",
+              "tips": [
+                "Sing the rhymes again in the car to keep the fun going.",
+                "Bring a water bottle for the park."
+              ],
+              "interests": [
+                "stories",
+                "movement"
+              ],
+              "also": [
+                {
+                  "ref": "place:plummer-park",
+                  "source": {
+                    "kind": "park",
+                    "title": "Plummer Park",
+                    "address": "965 Jones Wynd, Wake Forest, NC",
+                    "lat": 35.96978706226675,
+                    "lon": -78.5486469005171,
+                    "url": "https://www.wakeforestnc.gov/parks-recreation-cultural-resources/parks-facilities/plummer-park",
+                    "amenities": [
+                      "playground",
+                      "picnic-shelter"
+                    ],
+                    "indoor": false,
+                    "area": "north-raleigh",
+                    "hours": null,
+                    "cost": null
+                  }
+                }
+              ],
+              "area": "north-raleigh",
+              "outdoor": false,
+              "source": {
+                "kind": "event",
+                "title": "Toddler Storytime",
+                "start": "2026-11-18T09:15:00-05:00",
+                "end": "2026-11-18T09:45:00-05:00",
+                "venue": "Northeast Regional Library",
+                "address": "14401 Green Elm Lane, Raleigh, NC",
+                "url": "https://www.wake.gov/events/toddler-storytime-1027",
+                "cost": "Free",
+                "lat": 35.9541926372282,
+                "lon": -78.5438512128256,
+                "ages": "Young Children",
+                "registration": null,
+                "indoor": true,
+                "area": "north-raleigh",
+                "source": "wake-county",
+                "dropIn": false
+              }
+            },
+            {
+              "ref": "place:apex-nature-park",
+              "arrive": "09:30",
+              "leave": "11:00",
+              "why": "A slow morning at Apex Nature Park to look for leaves, sticks and acorns. Your 2-year-old sets the pace.",
+              "tips": [
+                "Bring a small bag for collecting treasures.",
+                "Pack a snack for a picnic stop."
+              ],
+              "interests": [
+                "nature",
+                "movement"
+              ],
+              "also": [],
+              "area": "cary-apex",
+              "outdoor": true,
+              "source": {
+                "kind": "park",
+                "title": "Apex Nature Park",
+                "address": "2600 Evans Rd., Apex, NC",
+                "lat": 35.71709646233568,
+                "lon": -78.90520368087866,
+                "url": "https://www.apexnc.org/800/Nature-Park-Seymour-Athletic-Fields",
+                "amenities": [
+                  "picnic-shelter",
+                  "restroom",
+                  "greenway",
+                  "nature"
+                ],
+                "indoor": false,
+                "area": "cary-apex",
+                "hours": null,
+                "cost": null
+              }
+            }
+          ],
+          "rainBackup": null,
+          "timeline": [
+            {
+              "start": "07:00",
+              "end": "07:30",
+              "kind": "meal",
+              "title": "Up and breakfast"
+            },
+            {
+              "start": "07:30",
+              "end": "11:15",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "11:15",
+              "end": "11:45",
+              "kind": "meal",
+              "title": "Lunch"
+            },
+            {
+              "start": "11:45",
+              "end": "12:00",
+              "kind": "quiet",
+              "title": "Wind down",
+              "detail": "A couple of books to settle."
+            },
+            {
+              "start": "12:00",
+              "end": "14:00",
+              "kind": "nap",
+              "title": "Nap"
+            },
+            {
+              "start": "14:00",
+              "end": "14:20",
+              "kind": "routine",
+              "title": "Up and a snack"
+            },
+            {
+              "start": "14:20",
+              "end": "14:30",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "14:30",
+              "end": "14:50",
+              "kind": "travel",
+              "title": "Drive to Gipson Play Plaza, Dix Park"
+            },
+            {
+              "start": "14:50",
+              "end": "16:30",
+              "kind": "outing",
+              "title": "Gipson Play Plaza, Dix Park"
+            },
+            {
+              "start": "16:30",
+              "end": "16:50",
+              "kind": "travel",
+              "title": "Drive home"
+            },
+            {
+              "start": "16:50",
+              "end": "18:00",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "18:00",
+              "end": "18:45",
+              "kind": "meal",
+              "title": "Dinner"
+            },
+            {
+              "start": "18:45",
+              "end": "19:30",
+              "kind": "routine",
+              "title": "Bath, books and bed"
+            }
+          ]
+        },
+        {
+          "nap": "late-nap",
+          "napLabel": "One nap, 1 to 3",
+          "headline": "Wander garden paths and forest trails",
+          "main": {
+            "ref": "place:nc-botanical-garden",
+            "arrive": "09:45",
+            "leave": "11:30",
+            "why": "Your 2-year-old can walk the display gardens and the nature trails through the forest behind them. Look for leaves, seeds and pinecones along the way.",
+            "tips": [
+              "Bring a snack and eat it before the trail starts.",
+              "Let your child choose which path to take.",
+              "Head back to the car while they are still happy."
+            ],
+            "interests": [
+              "nature",
+              "movement"
+            ],
+            "also": [],
+            "area": "chapel-hill",
+            "outdoor": true,
+            "source": {
+              "kind": "garden",
+              "title": "NC Botanical Garden",
+              "address": "100 Old Mason Farm Rd, Chapel Hill, NC 27517",
+              "lat": 35.9011,
+              "lon": -79.0319,
+              "url": "https://ncbg.unc.edu/visit/",
+              "amenities": [
+                "garden",
+                "nature",
+                "restroom"
+              ],
+              "indoor": false,
+              "area": "chapel-hill",
+              "cost": "Free",
+              "note": "Free. Display gardens, and nature trails through the forest behind them."
+            }
+          },
+          "alternatives": [
+            {
+              "ref": "event:museum:nc-natural-sciences:123922",
+              "arrive": "10:35",
+              "leave": "11:50",
+              "why": "Watch the ocean habitat animals get fed at the NC Museum of Natural Sciences. Then burn off energy at Halifax Park.",
+              "tips": [
+                "Get to the tank a few minutes early to find a front spot.",
+                "Bring a snack for the park."
+              ],
+              "interests": [
+                "animals",
+                "science"
+              ],
+              "also": [
+                {
+                  "ref": "place:halifax-park",
+                  "source": {
+                    "kind": "park",
+                    "title": "Halifax Park",
+                    "address": "1015 Halifax St, Raleigh, NC 27604",
+                    "lat": 35.79327,
+                    "lon": -78.63884,
+                    "url": "https://raleighnc.gov/parks-and-recreation/places/halifax-park",
+                    "amenities": [
+                      "community-center",
+                      "courts",
+                      "playground"
+                    ],
+                    "indoor": false,
+                    "area": "raleigh",
+                    "hours": null,
+                    "cost": null
+                  }
+                }
+              ],
+              "area": "raleigh",
+              "outdoor": false,
+              "source": {
+                "kind": "event",
+                "title": "Live Animal Feeding – Ocean Habitat",
+                "start": "2026-11-18T10:45:00",
+                "end": "2026-11-18T11:00:00",
+                "venue": "NC Museum of Natural Sciences",
+                "address": "11 West Jones Street, Raleigh, NC, 27601",
+                "url": "https://www.naturalsciences.org/calendar/event/live-animal-feeding-ocean-habitat-5/2026-11-18/",
+                "cost": null,
+                "lat": 35.7822735,
+                "lon": -78.6395502,
+                "ages": "Adults All Ages Children Live Animals Teens Walk-up Programs",
+                "registration": false,
+                "indoor": true,
+                "area": "raleigh",
+                "source": "museum",
+                "dropIn": false
+              }
+            },
+            {
+              "ref": "event:wake:23286",
+              "arrive": "10:50",
+              "leave": "12:10",
+              "why": "Toddler Storytime at Wendell Community Library has books, music, rhymes and movement. Then Wendell Park gives your 2-year-old time to run.",
+              "tips": [
+                "Bring a small toy for the car ride home.",
+                "Give a warning before leaving the park."
+              ],
+              "interests": [
+                "stories",
+                "movement"
+              ],
+              "also": [
+                {
+                  "ref": "place:wendell-park",
+                  "source": {
+                    "kind": "park",
+                    "title": "Wendell Park",
+                    "address": "601 W. Third Street, Wendell, NC",
+                    "lat": 35.78171909213524,
+                    "lon": -78.37858290652449,
+                    "url": "https://townofwendellnc.gov/departments/parks_and_recreation/facilities___rentals/index.php",
+                    "amenities": [
+                      "playground",
+                      "picnic-shelter",
+                      "restroom",
+                      "greenway"
+                    ],
+                    "indoor": false,
+                    "area": "east-wake",
+                    "hours": null,
+                    "cost": null
+                  }
+                }
+              ],
+              "area": "east-wake",
+              "outdoor": false,
+              "source": {
+                "kind": "event",
+                "title": "Toddler Storytime",
+                "start": "2026-11-18T11:00:00-05:00",
+                "end": "2026-11-18T11:30:00-05:00",
+                "venue": "Wendell Community Library",
+                "address": "207 S Hollybrook Road, Wendell, NC",
+                "url": "https://www.wake.gov/events/toddler-storytime-1094",
+                "cost": "Free",
+                "lat": 35.7785952616961,
+                "lon": -78.3661149975656,
+                "ages": "Young Children",
+                "registration": null,
+                "indoor": true,
+                "area": "east-wake",
+                "source": "wake-county",
+                "dropIn": false
+              }
+            },
+            {
+              "ref": "place:museum-of-life-and-science",
+              "arrive": "10:00",
+              "leave": "12:00",
+              "why": "Explore the museum's outdoor areas, then join the Hideaway Woods storytime at 11:30 am. It is a drop-in story with themed activities.",
+              "tips": [
+                "Pack a snack for before the story.",
+                "Walk to Hideaway Woods a little early so your child can settle in."
+              ],
+              "interests": [
+                "nature",
+                "animals",
+                "stories"
+              ],
+              "also": [
+                {
+                  "ref": "event:weekly:mols-storytime:2026-11-18",
+                  "source": {
+                    "kind": "event",
+                    "title": "Storytime in Hideaway Woods",
+                    "start": "2026-11-18T11:30:00",
+                    "end": "2026-11-18T12:00:00",
+                    "venue": "Hideaway Woods, Museum of Life and Science",
+                    "address": "433 W Murray Ave, Durham, NC 27704",
+                    "url": "https://www.lifeandscience.org/learn/drop-in-programs/",
+                    "cost": "Included with museum admission",
+                    "lat": 36.0294,
+                    "lon": -78.8993,
+                    "ages": null,
+                    "registration": false,
+                    "indoor": false,
+                    "area": "durham",
+                    "source": "weekly",
+                    "dropIn": true
+                  }
+                }
+              ],
+              "area": "durham",
+              "outdoor": true,
+              "source": {
+                "kind": "museum",
+                "title": "Museum of Life and Science",
+                "address": "433 W Murray Ave, Durham, NC 27704",
+                "lat": 36.0294,
+                "lon": -78.8993,
+                "url": "https://www.lifeandscience.org/visit/",
+                "amenities": [
+                  "nature",
+                  "animals",
+                  "train",
+                  "playground",
+                  "restroom"
+                ],
+                "indoor": false,
+                "area": "durham",
+                "cost": "$24 adults, $19 ages 3–15, under 3 free",
+                "note": "Tickets: $24 adults, $19 ages 3–15, under 3 free. Hideaway Woods treehouses and creek, farmyard, train ride and Dinosaur Trail are outside."
+              }
+            },
+            {
+              "ref": "place:blue-jay-point-county-park",
+              "arrive": "09:30",
+              "leave": "11:30",
+              "why": "Blue Jay Point County Park has a playground and nature trails. Your 2-year-old can play, then explore.",
+              "tips": [
+                "Bring a snack and water.",
+                "Visit the playground first, then take a short walk."
+              ],
+              "interests": [
+                "nature",
+                "movement"
+              ],
+              "also": [],
+              "area": "north-raleigh",
+              "outdoor": true,
+              "source": {
+                "kind": "park",
+                "title": "Blue Jay Point County Park",
+                "address": "3200 Pleasant Union Church Road, Raleigh, NC 27614",
+                "lat": 35.96762827199893,
+                "lon": -78.64454785104198,
+                "url": "https://www.wakegov.com/departments-government/parks-recreation-and-open-space/all-parks-trails/blue-jay-point-county-park",
+                "amenities": [
+                  "playground",
+                  "picnic-shelter",
+                  "restroom",
+                  "greenway",
+                  "nature"
+                ],
+                "indoor": false,
+                "area": "north-raleigh",
+                "hours": null,
+                "cost": null
+              }
+            }
+          ],
+          "rainBackup": null,
+          "timeline": [
+            {
+              "start": "07:00",
+              "end": "07:30",
+              "kind": "meal",
+              "title": "Up and breakfast"
+            },
+            {
+              "start": "07:30",
+              "end": "09:05",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "09:05",
+              "end": "09:25",
+              "kind": "routine",
+              "title": "Get ready to go",
+              "detail": "Shoes on, diaper bag, water and a snack."
+            },
+            {
+              "start": "09:25",
+              "end": "09:45",
+              "kind": "travel",
+              "title": "Drive to NC Botanical Garden"
+            },
+            {
+              "start": "09:45",
+              "end": "11:30",
+              "kind": "outing",
+              "title": "NC Botanical Garden"
+            },
+            {
+              "start": "11:30",
+              "end": "11:50",
+              "kind": "travel",
+              "title": "Drive home"
+            },
+            {
+              "start": "11:50",
+              "end": "12:15",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "12:15",
+              "end": "12:45",
+              "kind": "meal",
+              "title": "Lunch"
+            },
+            {
+              "start": "12:45",
+              "end": "13:00",
+              "kind": "quiet",
+              "title": "Wind down",
+              "detail": "A couple of books to settle."
+            },
+            {
+              "start": "13:00",
+              "end": "15:00",
+              "kind": "nap",
+              "title": "Nap"
+            },
+            {
+              "start": "15:00",
+              "end": "15:20",
+              "kind": "routine",
+              "title": "Up and a snack"
+            },
+            {
+              "start": "15:20",
+              "end": "18:30",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "18:30",
+              "end": "19:15",
+              "kind": "meal",
+              "title": "Dinner"
+            },
+            {
+              "start": "19:15",
+              "end": "20:00",
+              "kind": "routine",
+              "title": "Bath, books and bed"
+            }
+          ]
+        },
+        {
+          "nap": "short-nap",
+          "napLabel": "Short nap, 1 to 2",
+          "headline": "Pajama pancakes, then a run at the park",
+          "main": {
+            "ref": "event:durham-rec:20235",
+            "arrive": "08:50",
+            "leave": "10:50",
+            "why": "Wear pajamas to a cozy pancake breakfast at W.D. Hill Recreation Center, then play at Hillside Park. A family needs to sign up first.",
+            "tips": [
+              "Pick pajamas your child can play in outside.",
+              "Tell your child the park comes after pancakes.",
+              "Bring a change of top in case of syrup."
+            ],
+            "interests": [
+              "movement",
+              "nature"
+            ],
+            "also": [
+              {
+                "ref": "place:hillside-park",
+                "source": {
+                  "kind": "park",
+                  "title": "Hillside Park",
+                  "address": "1301 S Roxboro St, Durham, NC",
+                  "lat": 35.98093222222222,
+                  "lon": -78.90178333333333,
+                  "url": "https://www.dprplaymore.org/Facilities/Facility/Details/Hillside-Park-32",
+                  "amenities": [
+                    "playground",
+                    "splashpad",
+                    "pool",
+                    "picnic-shelter",
+                    "restroom"
+                  ],
+                  "indoor": false,
+                  "area": "durham",
+                  "hours": null,
+                  "cost": null
+                }
+              }
+            ],
+            "area": "durham",
+            "outdoor": false,
+            "source": {
+              "kind": "event",
+              "title": "Pancakes & Pajamas",
+              "start": "2026-11-18T09:00:00",
+              "end": "2026-11-18T10:00:00",
+              "venue": "W.D. Hill Recreation Center",
+              "address": "1308 Fayetteville St, Durham, NC",
+              "url": "https://apm.activecommunities.com/dprplaymore/Activity_Search/pancakes-pajamas/20235?locale=en-US",
+              "cost": null,
+              "lat": 35.9797,
+              "lon": -78.8985,
+              "ages": "2 - 6",
+              "registration": "https://apm.activecommunities.com/dprplaymore/Activity_Search/pancakes-pajamas/20235?locale=en-US",
+              "indoor": true,
+              "area": "durham",
+              "source": "durham-rec",
+              "dropIn": false
+            }
+          },
+          "alternatives": [
+            {
+              "ref": "event:museum:nc-natural-sciences:123922",
+              "arrive": "10:35",
+              "leave": "11:50",
+              "why": "Watch the ocean habitat animals get fed at the NC Museum of Natural Sciences. Then play at Fred Fletcher Park.",
+              "tips": [
+                "Get to the tank early to find a spot at the front.",
+                "Bring a snack for the park."
+              ],
+              "interests": [
+                "animals",
+                "science"
+              ],
+              "also": [
+                {
+                  "ref": "place:fred-fletcher-park",
+                  "source": {
+                    "kind": "park",
+                    "title": "Fred Fletcher Park",
+                    "address": "820 Clay Street, Raleigh, NC 27605",
+                    "lat": 35.79264,
+                    "lon": -78.64957,
+                    "url": "https://raleighnc.gov/parks-and-recreation/places/fred-fletcher-park",
+                    "amenities": [
+                      "garden",
+                      "picnic-shelter",
+                      "courts",
+                      "fields",
+                      "playground"
+                    ],
+                    "indoor": false,
+                    "area": "raleigh",
+                    "hours": null,
+                    "cost": null
+                  }
+                }
+              ],
+              "area": "raleigh",
+              "outdoor": false,
+              "source": {
+                "kind": "event",
+                "title": "Live Animal Feeding – Ocean Habitat",
+                "start": "2026-11-18T10:45:00",
+                "end": "2026-11-18T11:00:00",
+                "venue": "NC Museum of Natural Sciences",
+                "address": "11 West Jones Street, Raleigh, NC, 27601",
+                "url": "https://www.naturalsciences.org/calendar/event/live-animal-feeding-ocean-habitat-5/2026-11-18/",
+                "cost": null,
+                "lat": 35.7822735,
+                "lon": -78.6395502,
+                "ages": "Adults All Ages Children Live Animals Teens Walk-up Programs",
+                "registration": false,
+                "indoor": true,
+                "area": "raleigh",
+                "source": "museum",
+                "dropIn": false
+              }
+            },
+            {
+              "ref": "place:nc-botanical-garden",
+              "arrive": "09:30",
+              "leave": "11:30",
+              "why": "Your 2-year-old can wander the display gardens and nature trails. Look for leaves, seeds and pinecones.",
+              "tips": [
+                "Bring a snack and water.",
+                "Let your child pick the path."
+              ],
+              "interests": [
+                "nature",
+                "movement"
+              ],
+              "also": [],
+              "area": "chapel-hill",
+              "outdoor": true,
+              "source": {
+                "kind": "garden",
+                "title": "NC Botanical Garden",
+                "address": "100 Old Mason Farm Rd, Chapel Hill, NC 27517",
+                "lat": 35.9011,
+                "lon": -79.0319,
+                "url": "https://ncbg.unc.edu/visit/",
+                "amenities": [
+                  "garden",
+                  "nature",
+                  "restroom"
+                ],
+                "indoor": false,
+                "area": "chapel-hill",
+                "cost": "Free",
+                "note": "Free. Display gardens, and nature trails through the forest behind them."
+              }
+            },
+            {
+              "ref": "event:wake:22452",
+              "arrive": "10:20",
+              "leave": "11:50",
+              "why": "Family Storytime at Cary Regional Library has books, music, rhymes and movement. Then your 2-year-old can play at Heater Park.",
+              "tips": [
+                "Sing one of the songs again at the park.",
+                "Bring water for the playground."
+              ],
+              "interests": [
+                "stories",
+                "music"
+              ],
+              "also": [
+                {
+                  "ref": "place:heater-park",
+                  "source": {
+                    "kind": "park",
+                    "title": "Heater Park",
+                    "address": "400 S West Street, Cary, NC",
+                    "lat": 35.782741238152695,
+                    "lon": -78.78762242839083,
+                    "url": "https://www.carync.gov/recreation-enjoyment/parks-greenways-environment/parks/heater-park",
+                    "amenities": [
+                      "playground"
+                    ],
+                    "indoor": false,
+                    "area": "cary-apex",
+                    "hours": null,
+                    "cost": null
+                  }
+                }
+              ],
+              "area": "cary-apex",
+              "outdoor": false,
+              "source": {
+                "kind": "event",
+                "title": "Family Storytime",
+                "start": "2026-11-18T10:30:00-05:00",
+                "end": "2026-11-18T11:00:00-05:00",
+                "venue": "Cary Regional Library",
+                "address": "315 Kildaire Farm Road, Cary, NC",
+                "url": "https://www.wake.gov/events/family-storytime-4239",
+                "cost": "Free",
+                "lat": 35.7829780174653,
+                "lon": -78.780241332586,
+                "ages": "Young Children",
+                "registration": null,
+                "indoor": true,
+                "area": "cary-apex",
+                "source": "wake-county",
+                "dropIn": false
+              }
+            },
+            {
+              "ref": "event:wake:22355",
+              "arrive": "09:50",
+              "leave": "11:20",
+              "why": "Family Storytime at Leesville Community Library has books, music, rhymes and movement. Then your 2-year-old can explore Leesville Community Park.",
+              "tips": [
+                "Bring a snack for after the story.",
+                "Give a warning before heading home."
+              ],
+              "interests": [
+                "stories",
+                "nature"
+              ],
+              "also": [
+                {
+                  "ref": "place:leesville-community-park",
+                  "source": {
+                    "kind": "park",
+                    "title": "Leesville Community Park",
+                    "address": "5105 Country Trail, Raleigh, NC 27613",
+                    "lat": 35.88424,
+                    "lon": -78.71549,
+                    "url": "https://raleighnc.gov/parks-and-recreation/places/leesville-community-park",
+                    "amenities": [
+                      "greenway",
+                      "playground",
+                      "garden"
+                    ],
+                    "indoor": false,
+                    "area": "north-raleigh",
+                    "hours": null,
+                    "cost": null
+                  }
+                }
+              ],
+              "area": "north-raleigh",
+              "outdoor": false,
+              "source": {
+                "kind": "event",
+                "title": "Family Storytime",
+                "start": "2026-11-18T10:00:00-05:00",
+                "end": "2026-11-18T10:30:00-05:00",
+                "venue": "Leesville Community Library",
+                "address": "5105 Country Trail, Raleigh, NC 27613",
+                "url": "https://www.wake.gov/events/family-storytime-4169",
+                "cost": "Free",
+                "lat": 35.88424,
+                "lon": -78.71549,
+                "ages": "Young Children",
+                "registration": null,
+                "indoor": true,
+                "area": "north-raleigh",
+                "source": "wake-county",
+                "dropIn": false
+              }
+            }
+          ],
+          "rainBackup": null,
+          "timeline": [
+            {
+              "start": "07:00",
+              "end": "07:30",
+              "kind": "meal",
+              "title": "Up and breakfast"
+            },
+            {
+              "start": "07:30",
+              "end": "08:10",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "08:10",
+              "end": "08:30",
+              "kind": "routine",
+              "title": "Get ready to go",
+              "detail": "Shoes on, diaper bag, water and a snack."
+            },
+            {
+              "start": "08:30",
+              "end": "08:50",
+              "kind": "travel",
+              "title": "Drive to W.D. Hill Recreation Center"
+            },
+            {
+              "start": "08:50",
+              "end": "10:00",
+              "kind": "outing",
+              "title": "Pancakes & Pajamas"
+            },
+            {
+              "start": "10:00",
+              "end": "10:10",
+              "kind": "travel",
+              "title": "Drive to Hillside Park"
+            },
+            {
+              "start": "10:10",
+              "end": "10:50",
+              "kind": "outing",
+              "title": "Hillside Park"
+            },
+            {
+              "start": "10:50",
+              "end": "11:10",
+              "kind": "travel",
+              "title": "Drive home"
+            },
+            {
+              "start": "11:10",
+              "end": "12:15",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "12:15",
+              "end": "12:45",
+              "kind": "meal",
+              "title": "Lunch"
+            },
+            {
+              "start": "12:45",
+              "end": "13:00",
+              "kind": "quiet",
+              "title": "Wind down",
+              "detail": "A couple of books to settle."
+            },
+            {
+              "start": "13:00",
+              "end": "14:00",
+              "kind": "nap",
+              "title": "Nap"
+            },
+            {
+              "start": "14:00",
+              "end": "14:20",
+              "kind": "routine",
+              "title": "Up and a snack"
+            },
+            {
+              "start": "14:20",
+              "end": "18:00",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "18:00",
+              "end": "18:45",
+              "kind": "meal",
+              "title": "Dinner"
+            },
+            {
+              "start": "18:45",
+              "end": "19:30",
+              "kind": "routine",
+              "title": "Bath, books and bed"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "checked": {
+    "at": "2026-11-07T11:04:04.201Z",
+    "forecast": "none",
+    "weather": null,
+    "hidden": []
+  }
+}

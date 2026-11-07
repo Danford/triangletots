@@ -1,0 +1,1168 @@
+{
+  "date": "2026-11-09",
+  "band": "t2",
+  "versions": [
+    {
+      "at": "2026-11-06T20:45:06.656Z",
+      "reason": null,
+      "forecast": "nws",
+      "weather": {
+        "period": "Monday",
+        "tempF": 69,
+        "precipProbability": 0,
+        "shortForecast": "Sunny",
+        "hours": [
+          {
+            "t": "05:00",
+            "tempF": 44,
+            "pop": 0
+          },
+          {
+            "t": "06:00",
+            "tempF": 44,
+            "pop": 0
+          },
+          {
+            "t": "07:00",
+            "tempF": 45,
+            "pop": 0
+          },
+          {
+            "t": "08:00",
+            "tempF": 48,
+            "pop": 0
+          },
+          {
+            "t": "09:00",
+            "tempF": 53,
+            "pop": 0
+          },
+          {
+            "t": "10:00",
+            "tempF": 58,
+            "pop": 0
+          },
+          {
+            "t": "11:00",
+            "tempF": 62,
+            "pop": 0
+          },
+          {
+            "t": "12:00",
+            "tempF": 65,
+            "pop": 0
+          },
+          {
+            "t": "13:00",
+            "tempF": 67,
+            "pop": 0
+          },
+          {
+            "t": "14:00",
+            "tempF": 68,
+            "pop": 0
+          },
+          {
+            "t": "15:00",
+            "tempF": 69,
+            "pop": 0
+          },
+          {
+            "t": "16:00",
+            "tempF": 67,
+            "pop": 0
+          },
+          {
+            "t": "17:00",
+            "tempF": 64,
+            "pop": 0
+          },
+          {
+            "t": "18:00",
+            "tempF": 59,
+            "pop": 0
+          },
+          {
+            "t": "19:00",
+            "tempF": 57,
+            "pop": 0
+          },
+          {
+            "t": "20:00",
+            "tempF": 54,
+            "pop": 0
+          },
+          {
+            "t": "21:00",
+            "tempF": 52,
+            "pop": 0
+          },
+          {
+            "t": "22:00",
+            "tempF": 50,
+            "pop": 0
+          },
+          {
+            "t": "23:00",
+            "tempF": 49,
+            "pop": 0
+          }
+        ]
+      },
+      "plans": [
+        {
+          "nap": "early-nap",
+          "napLabel": "One nap, 12 to 2",
+          "headline": "Visit the animals and garden paths at Oak View",
+          "main": {
+            "ref": "place:historic-oak-view-county-park",
+            "arrive": "09:30",
+            "leave": "11:15",
+            "why": "Historic Oak View County Park has animals, a garden and a greenway for your 2-year-old to explore at a toddler pace.",
+            "tips": [
+              "Let your child choose which way to walk and where to stop.",
+              "Bring a snack and eat at the picnic shelter.",
+              "Tell your child the last stop is the animals, then head to the car."
+            ],
+            "interests": [
+              "animals",
+              "nature"
+            ],
+            "also": [],
+            "area": "raleigh",
+            "outdoor": true,
+            "source": {
+              "kind": "park",
+              "title": "Historic Oak View County Park",
+              "address": "4028 Carya Dr., Raleigh, NC  27610",
+              "lat": 35.76980126731367,
+              "lon": -78.57063248179927,
+              "url": "https://www.wakegov.com/departments-government/parks-recreation-and-open-space/all-parks-trails/historic-oak-view-county-park",
+              "amenities": [
+                "picnic-shelter",
+                "restroom",
+                "greenway",
+                "animals",
+                "garden"
+              ],
+              "indoor": false,
+              "area": "raleigh",
+              "hours": null,
+              "cost": null
+            }
+          },
+          "alternatives": [
+            {
+              "ref": "place:pullen-park-amusements",
+              "arrive": "10:00",
+              "leave": "11:20",
+              "why": "The carousel and the train are the big draws for a 2-year-old, and there is a playground too.",
+              "tips": [
+                "Start with the carousel and keep the train for last.",
+                "Bring a snack for a break at the picnic shelter.",
+                "Name the last ride as the last one before you walk to the car."
+              ],
+              "interests": [
+                "vehicles",
+                "movement"
+              ],
+              "also": [],
+              "area": "raleigh",
+              "outdoor": true,
+              "source": {
+                "kind": "park",
+                "title": "Pullen Park Amusements",
+                "address": "410 Park Ave, Raleigh, NC 27606",
+                "lat": 35.7806,
+                "lon": -78.66396,
+                "url": "https://raleighnc.gov/parks-and-recreation/places/pullen-park-amusements",
+                "amenities": [
+                  "carousel",
+                  "boating",
+                  "train",
+                  "amusements",
+                  "courts",
+                  "playground",
+                  "picnic-shelter"
+                ],
+                "indoor": false,
+                "area": "raleigh",
+                "hours": {
+                  "mon": "10 a.m.–6 p.m.",
+                  "tue": "10 a.m.–6 p.m.",
+                  "wed": "10 a.m.–6 p.m.",
+                  "thu": "10 a.m.–6 p.m.",
+                  "fri": "10 a.m.–8 p.m.",
+                  "sat": "10 a.m.–8 p.m.",
+                  "sun": "10 a.m.–8 p.m."
+                },
+                "cost": null
+              }
+            },
+            {
+              "ref": "event:wake-parks:8358:2026-11-09",
+              "also": [
+                {
+                  "ref": "place:beech-bluff-county-park",
+                  "source": {
+                    "kind": "park",
+                    "title": "Beech Bluff County Park",
+                    "address": "Beech Bluff Park Drive, Fuquay-Varina, NC",
+                    "lat": 35.58537279715877,
+                    "lon": -78.6793341971644,
+                    "url": "https://www.wake.gov/departments-government/parks-recreation-open-space/all-parks-trails/beech-bluff-county-park",
+                    "amenities": [
+                      "playground",
+                      "garden",
+                      "greenway",
+                      "restroom",
+                      "picnic-shelter"
+                    ],
+                    "indoor": false,
+                    "area": "south-wake",
+                    "hours": null,
+                    "cost": null
+                  }
+                }
+              ],
+              "arrive": "09:00",
+              "leave": "10:45",
+              "why": "Read a picture book one page at a time along the Educational Loop. Then your child can play on the park playground.",
+              "tips": [
+                "Let your child run ahead to find the next page.",
+                "Read each page aloud in a silly voice.",
+                "Pack a snack for the playground."
+              ],
+              "interests": [
+                "stories",
+                "nature",
+                "movement"
+              ],
+              "area": "south-wake",
+              "outdoor": true,
+              "source": {
+                "kind": "event",
+                "title": "Beech Bluff County Park StoryWalk® 2026 (Self-Led)",
+                "start": "2026-11-09T08:00:00",
+                "end": "2026-11-09T17:30:00",
+                "venue": "Beech Bluff County Park",
+                "address": "Beech Bluff Park Drive, Fuquay-Varina, NC",
+                "url": "https://apm.activecommunities.com/wakeparks/Activity_Search/beech-bluff-county-park-storywalk-2026-self-led/8358?locale=en-US",
+                "cost": "Free",
+                "lat": 35.58537279715877,
+                "lon": -78.6793341971644,
+                "ages": null,
+                "registration": false,
+                "indoor": false,
+                "area": "south-wake",
+                "source": "wake-parks",
+                "dropIn": true
+              }
+            },
+            {
+              "ref": "place:hemlock-bluffs",
+              "arrive": "09:30",
+              "leave": "11:00",
+              "why": "A nature preserve with mulched trails and boardwalks. Your 2-year-old can look for leaves, sticks and trees.",
+              "tips": [
+                "The trails have stairs, so a carrier beats a stroller.",
+                "Bring a snack for the car or the start of the trail.",
+                "Pick a turnaround spot early so the walk back is calm."
+              ],
+              "interests": [
+                "nature",
+                "movement"
+              ],
+              "also": [],
+              "area": "cary-apex",
+              "outdoor": true,
+              "source": {
+                "kind": "park",
+                "title": "Hemlock Bluffs Nature Preserve",
+                "address": "2616 Kildaire Farm Rd, Cary, NC 27518",
+                "lat": 35.7253,
+                "lon": -78.7846,
+                "url": "https://www.carync.gov/recreation-enjoyment/parks-greenways-environment/parks/stevens-nature-center-at-hemlock-bluffs-nature-preserve",
+                "amenities": [
+                  "nature"
+                ],
+                "indoor": false,
+                "area": "cary-apex",
+                "hours": {
+                  "sun": "9 a.m. to sunset",
+                  "mon": "9 a.m. to sunset",
+                  "tue": "9 a.m. to sunset",
+                  "wed": "9 a.m. to sunset",
+                  "thu": "9 a.m. to sunset",
+                  "fri": "9 a.m. to sunset",
+                  "sat": "9 a.m. to sunset"
+                },
+                "cost": "Free",
+                "note": "Free. About three miles of mulched trails and boardwalks with stairs (a carrier beats a stroller); restrooms in the Stevens Nature Center, open Mon–Sat 10–5, Sun 1–5."
+              }
+            },
+            {
+              "ref": "place:sarah-p-duke-gardens",
+              "arrive": "09:30",
+              "leave": "11:00",
+              "why": "Five miles of garden paths and the Charlotte Brody Discovery Garden give a 2-year-old plenty to see and touch.",
+              "tips": [
+                "Parking is paid and often fills before 10 am, so arrive early.",
+                "Start with the Discovery Garden.",
+                "Bring a snack for a bench break."
+              ],
+              "interests": [
+                "nature",
+                "art"
+              ],
+              "also": [],
+              "area": "durham",
+              "outdoor": true,
+              "source": {
+                "kind": "garden",
+                "title": "Sarah P. Duke Gardens",
+                "address": "420 Anderson St, Durham, NC 27708",
+                "lat": 36.0024,
+                "lon": -78.9328,
+                "url": "https://gardens.duke.edu/visit/",
+                "amenities": [
+                  "garden",
+                  "nature",
+                  "restroom"
+                ],
+                "indoor": false,
+                "area": "durham",
+                "hours": {
+                  "sun": "8 a.m. to sunset",
+                  "mon": "8 a.m. to sunset",
+                  "tue": "8 a.m. to sunset",
+                  "wed": "8 a.m. to sunset",
+                  "thu": "8 a.m. to sunset",
+                  "fri": "8 a.m. to sunset",
+                  "sat": "8 a.m. to sunset"
+                },
+                "cost": "Free",
+                "note": "Free; paid parking that often fills before 10 a.m. on nice days. Five miles of paths, and the Charlotte Brody Discovery Garden."
+              }
+            }
+          ],
+          "rainBackup": null,
+          "timeline": [
+            {
+              "start": "07:00",
+              "end": "07:30",
+              "kind": "meal",
+              "title": "Up and breakfast"
+            },
+            {
+              "start": "07:30",
+              "end": "08:50",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "08:50",
+              "end": "09:10",
+              "kind": "routine",
+              "title": "Get ready to go",
+              "detail": "Shoes on, diaper bag, water and a snack."
+            },
+            {
+              "start": "09:10",
+              "end": "09:30",
+              "kind": "travel",
+              "title": "Drive to Historic Oak View County Park"
+            },
+            {
+              "start": "09:30",
+              "end": "11:15",
+              "kind": "outing",
+              "title": "Historic Oak View County Park"
+            },
+            {
+              "start": "11:15",
+              "end": "11:35",
+              "kind": "travel",
+              "title": "Drive home"
+            },
+            {
+              "start": "11:35",
+              "end": "12:00",
+              "kind": "meal",
+              "title": "Lunch"
+            },
+            {
+              "start": "12:00",
+              "end": "14:00",
+              "kind": "nap",
+              "title": "Nap"
+            },
+            {
+              "start": "14:00",
+              "end": "14:20",
+              "kind": "routine",
+              "title": "Up and a snack"
+            },
+            {
+              "start": "14:20",
+              "end": "18:00",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "18:00",
+              "end": "18:45",
+              "kind": "meal",
+              "title": "Dinner"
+            },
+            {
+              "start": "18:45",
+              "end": "19:30",
+              "kind": "routine",
+              "title": "Bath, books and bed"
+            }
+          ]
+        },
+        {
+          "nap": "late-nap",
+          "napLabel": "One nap, 1 to 3",
+          "headline": "Explore a lake park with a playground and nature",
+          "main": {
+            "ref": "place:lake-crabtree-county-park",
+            "arrive": "09:30",
+            "leave": "11:30",
+            "why": "Lake Crabtree County Park has a playground, greenway, garden and nature to explore. Your 2-year-old can walk, climb and look around.",
+            "tips": [
+              "Start with a short walk on the greenway, then play.",
+              "Bring a snack for the picnic shelter.",
+              "Tell your child the slide is the last stop, then head to the car."
+            ],
+            "interests": [
+              "nature",
+              "water",
+              "movement"
+            ],
+            "also": [],
+            "area": "north-raleigh",
+            "outdoor": true,
+            "source": {
+              "kind": "park",
+              "title": "Lake Crabtree County Park",
+              "address": "1400 Aviation Pkwy., Morrisville, NC  27560",
+              "lat": 35.845600151785014,
+              "lon": -78.80104927513673,
+              "url": "https://www.wakegov.com/departments-government/parks-recreation-and-open-space/all-parks-trails/lake-crabtree-county-park",
+              "amenities": [
+                "playground",
+                "picnic-shelter",
+                "restroom",
+                "greenway",
+                "nature",
+                "garden",
+                "boating"
+              ],
+              "indoor": false,
+              "area": "north-raleigh",
+              "hours": null,
+              "cost": null
+            }
+          },
+          "alternatives": [
+            {
+              "ref": "place:historic-oak-view-county-park",
+              "arrive": "09:30",
+              "leave": "11:30",
+              "why": "Historic Oak View County Park has animals, a garden and a greenway for your 2-year-old to explore.",
+              "tips": [
+                "Let your child choose which way to walk.",
+                "Bring a snack and eat at the picnic shelter.",
+                "Tell your child the last stop is the animals, then head to the car."
+              ],
+              "interests": [
+                "animals",
+                "nature"
+              ],
+              "also": [],
+              "area": "raleigh",
+              "outdoor": true,
+              "source": {
+                "kind": "park",
+                "title": "Historic Oak View County Park",
+                "address": "4028 Carya Dr., Raleigh, NC  27610",
+                "lat": 35.76980126731367,
+                "lon": -78.57063248179927,
+                "url": "https://www.wakegov.com/departments-government/parks-recreation-and-open-space/all-parks-trails/historic-oak-view-county-park",
+                "amenities": [
+                  "picnic-shelter",
+                  "restroom",
+                  "greenway",
+                  "animals",
+                  "garden"
+                ],
+                "indoor": false,
+                "area": "raleigh",
+                "hours": null,
+                "cost": null
+              }
+            },
+            {
+              "ref": "place:hemlock-bluffs",
+              "arrive": "09:30",
+              "leave": "11:30",
+              "why": "A nature preserve with mulched trails and boardwalks. Your 2-year-old can look for leaves, sticks and trees.",
+              "tips": [
+                "The trails have stairs, so a carrier beats a stroller.",
+                "Bring a snack for the car or the start of the trail.",
+                "Pick a turnaround spot early so the walk back is calm."
+              ],
+              "interests": [
+                "nature",
+                "movement"
+              ],
+              "also": [],
+              "area": "cary-apex",
+              "outdoor": true,
+              "source": {
+                "kind": "park",
+                "title": "Hemlock Bluffs Nature Preserve",
+                "address": "2616 Kildaire Farm Rd, Cary, NC 27518",
+                "lat": 35.7253,
+                "lon": -78.7846,
+                "url": "https://www.carync.gov/recreation-enjoyment/parks-greenways-environment/parks/stevens-nature-center-at-hemlock-bluffs-nature-preserve",
+                "amenities": [
+                  "nature"
+                ],
+                "indoor": false,
+                "area": "cary-apex",
+                "hours": {
+                  "sun": "9 a.m. to sunset",
+                  "mon": "9 a.m. to sunset",
+                  "tue": "9 a.m. to sunset",
+                  "wed": "9 a.m. to sunset",
+                  "thu": "9 a.m. to sunset",
+                  "fri": "9 a.m. to sunset",
+                  "sat": "9 a.m. to sunset"
+                },
+                "cost": "Free",
+                "note": "Free. About three miles of mulched trails and boardwalks with stairs (a carrier beats a stroller); restrooms in the Stevens Nature Center, open Mon–Sat 10–5, Sun 1–5."
+              }
+            },
+            {
+              "ref": "place:sarah-p-duke-gardens",
+              "arrive": "09:30",
+              "leave": "11:30",
+              "why": "Five miles of garden paths and the Charlotte Brody Discovery Garden give a 2-year-old plenty to see and touch.",
+              "tips": [
+                "Parking is paid and often fills before 10 am, so arrive early.",
+                "Start with the Discovery Garden.",
+                "Bring a snack for a bench break."
+              ],
+              "interests": [
+                "nature",
+                "art"
+              ],
+              "also": [],
+              "area": "durham",
+              "outdoor": true,
+              "source": {
+                "kind": "garden",
+                "title": "Sarah P. Duke Gardens",
+                "address": "420 Anderson St, Durham, NC 27708",
+                "lat": 36.0024,
+                "lon": -78.9328,
+                "url": "https://gardens.duke.edu/visit/",
+                "amenities": [
+                  "garden",
+                  "nature",
+                  "restroom"
+                ],
+                "indoor": false,
+                "area": "durham",
+                "hours": {
+                  "sun": "8 a.m. to sunset",
+                  "mon": "8 a.m. to sunset",
+                  "tue": "8 a.m. to sunset",
+                  "wed": "8 a.m. to sunset",
+                  "thu": "8 a.m. to sunset",
+                  "fri": "8 a.m. to sunset",
+                  "sat": "8 a.m. to sunset"
+                },
+                "cost": "Free",
+                "note": "Free; paid parking that often fills before 10 a.m. on nice days. Five miles of paths, and the Charlotte Brody Discovery Garden."
+              }
+            },
+            {
+              "ref": "place:pullen-park-amusements",
+              "arrive": "15:20",
+              "leave": "17:00",
+              "why": "After nap, ride the carousel and the train, then play on the playground.",
+              "tips": [
+                "Pick one ride first and save the other as a treat.",
+                "Bring a snack for a break at the picnic shelter.",
+                "Call the last ride the last one before you head to the car."
+              ],
+              "interests": [
+                "vehicles",
+                "movement"
+              ],
+              "also": [],
+              "area": "raleigh",
+              "outdoor": true,
+              "source": {
+                "kind": "park",
+                "title": "Pullen Park Amusements",
+                "address": "410 Park Ave, Raleigh, NC 27606",
+                "lat": 35.7806,
+                "lon": -78.66396,
+                "url": "https://raleighnc.gov/parks-and-recreation/places/pullen-park-amusements",
+                "amenities": [
+                  "carousel",
+                  "boating",
+                  "train",
+                  "amusements",
+                  "courts",
+                  "playground",
+                  "picnic-shelter"
+                ],
+                "indoor": false,
+                "area": "raleigh",
+                "hours": {
+                  "mon": "10 a.m.–6 p.m.",
+                  "tue": "10 a.m.–6 p.m.",
+                  "wed": "10 a.m.–6 p.m.",
+                  "thu": "10 a.m.–6 p.m.",
+                  "fri": "10 a.m.–8 p.m.",
+                  "sat": "10 a.m.–8 p.m.",
+                  "sun": "10 a.m.–8 p.m."
+                },
+                "cost": null
+              }
+            }
+          ],
+          "rainBackup": null,
+          "timeline": [
+            {
+              "start": "07:00",
+              "end": "07:30",
+              "kind": "meal",
+              "title": "Up and breakfast"
+            },
+            {
+              "start": "07:30",
+              "end": "08:50",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "08:50",
+              "end": "09:10",
+              "kind": "routine",
+              "title": "Get ready to go",
+              "detail": "Shoes on, diaper bag, water and a snack."
+            },
+            {
+              "start": "09:10",
+              "end": "09:30",
+              "kind": "travel",
+              "title": "Drive to Lake Crabtree County Park"
+            },
+            {
+              "start": "09:30",
+              "end": "11:30",
+              "kind": "outing",
+              "title": "Lake Crabtree County Park"
+            },
+            {
+              "start": "11:30",
+              "end": "11:50",
+              "kind": "travel",
+              "title": "Drive home"
+            },
+            {
+              "start": "11:50",
+              "end": "12:15",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "12:15",
+              "end": "12:45",
+              "kind": "meal",
+              "title": "Lunch"
+            },
+            {
+              "start": "12:45",
+              "end": "13:00",
+              "kind": "quiet",
+              "title": "Wind down",
+              "detail": "A couple of books to settle."
+            },
+            {
+              "start": "13:00",
+              "end": "15:00",
+              "kind": "nap",
+              "title": "Nap"
+            },
+            {
+              "start": "15:00",
+              "end": "15:20",
+              "kind": "routine",
+              "title": "Up and a snack"
+            },
+            {
+              "start": "15:20",
+              "end": "18:30",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "18:30",
+              "end": "19:15",
+              "kind": "meal",
+              "title": "Dinner"
+            },
+            {
+              "start": "19:15",
+              "end": "20:00",
+              "kind": "routine",
+              "title": "Bath, books and bed"
+            }
+          ]
+        },
+        {
+          "nap": "short-nap",
+          "napLabel": "Short nap, 1 to 2",
+          "headline": "Play at the lake park, then a snack at the shelter",
+          "main": {
+            "ref": "place:lake-benson-park",
+            "arrive": "09:30",
+            "leave": "11:30",
+            "why": "Lake Benson Park has a playground, a greenway and boating. Your 2-year-old can climb, walk and snack at the picnic shelter.",
+            "tips": [
+              "Start with a short walk, then play.",
+              "Bring a snack for the picnic shelter.",
+              "Say the slide is the last stop, then walk to the car."
+            ],
+            "interests": [
+              "water",
+              "movement",
+              "nature"
+            ],
+            "also": [],
+            "area": "south-wake",
+            "outdoor": true,
+            "source": {
+              "kind": "park",
+              "title": "Lake Benson Park",
+              "address": "921 Buffaloe Road, Garner NC, 27529",
+              "lat": 35.67509092685942,
+              "lon": -78.62824702555534,
+              "url": "https://www.garnernc.gov/departments/parks-recreation-and-cultural-resources/garner-parks/lake-benson-park",
+              "amenities": [
+                "playground",
+                "picnic-shelter",
+                "restroom",
+                "greenway",
+                "boating"
+              ],
+              "indoor": false,
+              "area": "south-wake",
+              "hours": null,
+              "cost": null
+            }
+          },
+          "alternatives": [
+            {
+              "ref": "place:historic-oak-view-county-park",
+              "arrive": "09:30",
+              "leave": "11:30",
+              "why": "Historic Oak View County Park has animals, a garden and a greenway for your 2-year-old to explore.",
+              "tips": [
+                "Let your child choose which way to walk.",
+                "Bring a snack and eat at the picnic shelter.",
+                "Tell your child the last stop is the animals, then head to the car."
+              ],
+              "interests": [
+                "animals",
+                "nature"
+              ],
+              "also": [],
+              "area": "raleigh",
+              "outdoor": true,
+              "source": {
+                "kind": "park",
+                "title": "Historic Oak View County Park",
+                "address": "4028 Carya Dr., Raleigh, NC  27610",
+                "lat": 35.76980126731367,
+                "lon": -78.57063248179927,
+                "url": "https://www.wakegov.com/departments-government/parks-recreation-and-open-space/all-parks-trails/historic-oak-view-county-park",
+                "amenities": [
+                  "picnic-shelter",
+                  "restroom",
+                  "greenway",
+                  "animals",
+                  "garden"
+                ],
+                "indoor": false,
+                "area": "raleigh",
+                "hours": null,
+                "cost": null
+              }
+            },
+            {
+              "ref": "place:sarah-p-duke-gardens",
+              "arrive": "09:30",
+              "leave": "11:30",
+              "why": "Five miles of garden paths and the Charlotte Brody Discovery Garden give a 2-year-old plenty to see and touch.",
+              "tips": [
+                "Parking is paid and often fills before 10 am, so arrive early.",
+                "Start with the Discovery Garden.",
+                "Bring a snack for a bench break."
+              ],
+              "interests": [
+                "nature",
+                "art"
+              ],
+              "also": [],
+              "area": "durham",
+              "outdoor": true,
+              "source": {
+                "kind": "garden",
+                "title": "Sarah P. Duke Gardens",
+                "address": "420 Anderson St, Durham, NC 27708",
+                "lat": 36.0024,
+                "lon": -78.9328,
+                "url": "https://gardens.duke.edu/visit/",
+                "amenities": [
+                  "garden",
+                  "nature",
+                  "restroom"
+                ],
+                "indoor": false,
+                "area": "durham",
+                "hours": {
+                  "sun": "8 a.m. to sunset",
+                  "mon": "8 a.m. to sunset",
+                  "tue": "8 a.m. to sunset",
+                  "wed": "8 a.m. to sunset",
+                  "thu": "8 a.m. to sunset",
+                  "fri": "8 a.m. to sunset",
+                  "sat": "8 a.m. to sunset"
+                },
+                "cost": "Free",
+                "note": "Free; paid parking that often fills before 10 a.m. on nice days. Five miles of paths, and the Charlotte Brody Discovery Garden."
+              }
+            },
+            {
+              "ref": "place:hemlock-bluffs",
+              "arrive": "09:30",
+              "leave": "11:30",
+              "why": "A nature preserve with mulched trails and boardwalks. Your 2-year-old can look for leaves, sticks and trees.",
+              "tips": [
+                "The trails have stairs, so a carrier beats a stroller.",
+                "Bring a snack for the car or the start of the trail.",
+                "Pick a turnaround spot early so the walk back is calm."
+              ],
+              "interests": [
+                "nature",
+                "movement"
+              ],
+              "also": [],
+              "area": "cary-apex",
+              "outdoor": true,
+              "source": {
+                "kind": "park",
+                "title": "Hemlock Bluffs Nature Preserve",
+                "address": "2616 Kildaire Farm Rd, Cary, NC 27518",
+                "lat": 35.7253,
+                "lon": -78.7846,
+                "url": "https://www.carync.gov/recreation-enjoyment/parks-greenways-environment/parks/stevens-nature-center-at-hemlock-bluffs-nature-preserve",
+                "amenities": [
+                  "nature"
+                ],
+                "indoor": false,
+                "area": "cary-apex",
+                "hours": {
+                  "sun": "9 a.m. to sunset",
+                  "mon": "9 a.m. to sunset",
+                  "tue": "9 a.m. to sunset",
+                  "wed": "9 a.m. to sunset",
+                  "thu": "9 a.m. to sunset",
+                  "fri": "9 a.m. to sunset",
+                  "sat": "9 a.m. to sunset"
+                },
+                "cost": "Free",
+                "note": "Free. About three miles of mulched trails and boardwalks with stairs (a carrier beats a stroller); restrooms in the Stevens Nature Center, open Mon–Sat 10–5, Sun 1–5."
+              }
+            },
+            {
+              "ref": "place:pullen-park-amusements",
+              "arrive": "14:30",
+              "leave": "16:30",
+              "why": "After nap, ride the carousel and the train, then play on the playground.",
+              "tips": [
+                "Pick one ride first and save the other as a treat.",
+                "Bring a snack for a break at the picnic shelter.",
+                "Call the last ride the last one before you head to the car."
+              ],
+              "interests": [
+                "vehicles",
+                "movement"
+              ],
+              "also": [],
+              "area": "raleigh",
+              "outdoor": true,
+              "source": {
+                "kind": "park",
+                "title": "Pullen Park Amusements",
+                "address": "410 Park Ave, Raleigh, NC 27606",
+                "lat": 35.7806,
+                "lon": -78.66396,
+                "url": "https://raleighnc.gov/parks-and-recreation/places/pullen-park-amusements",
+                "amenities": [
+                  "carousel",
+                  "boating",
+                  "train",
+                  "amusements",
+                  "courts",
+                  "playground",
+                  "picnic-shelter"
+                ],
+                "indoor": false,
+                "area": "raleigh",
+                "hours": {
+                  "mon": "10 a.m.–6 p.m.",
+                  "tue": "10 a.m.–6 p.m.",
+                  "wed": "10 a.m.–6 p.m.",
+                  "thu": "10 a.m.–6 p.m.",
+                  "fri": "10 a.m.–8 p.m.",
+                  "sat": "10 a.m.–8 p.m.",
+                  "sun": "10 a.m.–8 p.m."
+                },
+                "cost": null
+              }
+            }
+          ],
+          "rainBackup": null,
+          "timeline": [
+            {
+              "start": "07:00",
+              "end": "07:30",
+              "kind": "meal",
+              "title": "Up and breakfast"
+            },
+            {
+              "start": "07:30",
+              "end": "08:50",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "08:50",
+              "end": "09:10",
+              "kind": "routine",
+              "title": "Get ready to go",
+              "detail": "Shoes on, diaper bag, water and a snack."
+            },
+            {
+              "start": "09:10",
+              "end": "09:30",
+              "kind": "travel",
+              "title": "Drive to Lake Benson Park"
+            },
+            {
+              "start": "09:30",
+              "end": "11:30",
+              "kind": "outing",
+              "title": "Lake Benson Park"
+            },
+            {
+              "start": "11:30",
+              "end": "11:50",
+              "kind": "travel",
+              "title": "Drive home"
+            },
+            {
+              "start": "11:50",
+              "end": "12:15",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "12:15",
+              "end": "12:45",
+              "kind": "meal",
+              "title": "Lunch"
+            },
+            {
+              "start": "12:45",
+              "end": "13:00",
+              "kind": "quiet",
+              "title": "Wind down",
+              "detail": "A couple of books to settle."
+            },
+            {
+              "start": "13:00",
+              "end": "14:00",
+              "kind": "nap",
+              "title": "Nap"
+            },
+            {
+              "start": "14:00",
+              "end": "14:20",
+              "kind": "routine",
+              "title": "Up and a snack"
+            },
+            {
+              "start": "14:20",
+              "end": "18:00",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "18:00",
+              "end": "18:45",
+              "kind": "meal",
+              "title": "Dinner"
+            },
+            {
+              "start": "18:45",
+              "end": "19:30",
+              "kind": "routine",
+              "title": "Bath, books and bed"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "checked": {
+    "at": "2026-11-07T11:04:04.058Z",
+    "forecast": "nws",
+    "weather": {
+      "period": "Monday",
+      "tempF": 68,
+      "precipProbability": 0,
+      "shortForecast": "Sunny",
+      "windMph": 8,
+      "windFrom": "NW",
+      "hours": [
+        {
+          "t": "05:00",
+          "tempF": 45,
+          "pop": 0,
+          "cloud": 0
+        },
+        {
+          "t": "06:00",
+          "tempF": 44,
+          "pop": 0,
+          "cloud": 0
+        },
+        {
+          "t": "07:00",
+          "tempF": 44,
+          "pop": 0,
+          "cloud": 0
+        },
+        {
+          "t": "08:00",
+          "tempF": 48,
+          "pop": 0,
+          "cloud": 0
+        },
+        {
+          "t": "09:00",
+          "tempF": 53,
+          "pop": 0,
+          "cloud": 0
+        },
+        {
+          "t": "10:00",
+          "tempF": 57,
+          "pop": 0,
+          "cloud": 0
+        },
+        {
+          "t": "11:00",
+          "tempF": 61,
+          "pop": 0,
+          "cloud": 0
+        },
+        {
+          "t": "12:00",
+          "tempF": 63,
+          "pop": 0,
+          "cloud": 1
+        },
+        {
+          "t": "13:00",
+          "tempF": 66,
+          "pop": 0,
+          "cloud": 1
+        },
+        {
+          "t": "14:00",
+          "tempF": 67,
+          "pop": 0,
+          "cloud": 1
+        },
+        {
+          "t": "15:00",
+          "tempF": 68,
+          "pop": 0,
+          "cloud": 0
+        },
+        {
+          "t": "16:00",
+          "tempF": 67,
+          "pop": 0,
+          "cloud": 0
+        },
+        {
+          "t": "17:00",
+          "tempF": 65,
+          "pop": 0,
+          "cloud": 0
+        },
+        {
+          "t": "18:00",
+          "tempF": 61,
+          "pop": 0,
+          "cloud": 0
+        },
+        {
+          "t": "19:00",
+          "tempF": 57,
+          "pop": 0,
+          "cloud": 0
+        },
+        {
+          "t": "20:00",
+          "tempF": 54,
+          "pop": 0,
+          "cloud": 0
+        },
+        {
+          "t": "21:00",
+          "tempF": 52,
+          "pop": 0,
+          "cloud": 0
+        },
+        {
+          "t": "22:00",
+          "tempF": 50,
+          "pop": 0,
+          "cloud": 0
+        },
+        {
+          "t": "23:00",
+          "tempF": 49,
+          "pop": 0,
+          "cloud": 0
+        }
+      ]
+    },
+    "hidden": []
+  }
+}

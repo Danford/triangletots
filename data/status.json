@@ -1,0 +1,20 @@
+{
+  "builtAt": "2026-11-07T13:13:44.434Z",
+  "today": "2026-11-07",
+  "plannedDays": 14,
+  "horizonDays": 14,
+  "lastDay": "2026-11-20",
+  "audit": {
+    "hard": 0,
+    "soft": 12,
+    "rules": {
+      "shift-across-town": {
+        "hard": false,
+        "main": 12,
+        "other": 0
+      }
+    }
+  },
+  "guides": 21,
+  "guidesFailed": []
+}

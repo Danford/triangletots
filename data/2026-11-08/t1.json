@@ -1,0 +1,1110 @@
+{
+  "date": "2026-11-08",
+  "band": "t1",
+  "versions": [
+    {
+      "at": "2026-11-06T20:43:10.628Z",
+      "reason": null,
+      "forecast": "nws",
+      "weather": {
+        "period": "Sunday",
+        "tempF": 65,
+        "precipProbability": 0,
+        "shortForecast": "Sunny",
+        "hours": [
+          {
+            "t": "05:00",
+            "tempF": 42,
+            "pop": 0
+          },
+          {
+            "t": "06:00",
+            "tempF": 42,
+            "pop": 0
+          },
+          {
+            "t": "07:00",
+            "tempF": 40,
+            "pop": 0
+          },
+          {
+            "t": "08:00",
+            "tempF": 44,
+            "pop": 0
+          },
+          {
+            "t": "09:00",
+            "tempF": 48,
+            "pop": 0
+          },
+          {
+            "t": "10:00",
+            "tempF": 53,
+            "pop": 0
+          },
+          {
+            "t": "11:00",
+            "tempF": 57,
+            "pop": 0
+          },
+          {
+            "t": "12:00",
+            "tempF": 60,
+            "pop": 0
+          },
+          {
+            "t": "13:00",
+            "tempF": 63,
+            "pop": 0
+          },
+          {
+            "t": "14:00",
+            "tempF": 64,
+            "pop": 0
+          },
+          {
+            "t": "15:00",
+            "tempF": 65,
+            "pop": 0
+          },
+          {
+            "t": "16:00",
+            "tempF": 64,
+            "pop": 0
+          },
+          {
+            "t": "17:00",
+            "tempF": 61,
+            "pop": 0
+          },
+          {
+            "t": "18:00",
+            "tempF": 56,
+            "pop": 0
+          },
+          {
+            "t": "19:00",
+            "tempF": 52,
+            "pop": 0
+          },
+          {
+            "t": "20:00",
+            "tempF": 51,
+            "pop": 0
+          },
+          {
+            "t": "21:00",
+            "tempF": 50,
+            "pop": 0
+          },
+          {
+            "t": "22:00",
+            "tempF": 50,
+            "pop": 0
+          },
+          {
+            "t": "23:00",
+            "tempF": 49,
+            "pop": 0
+          }
+        ]
+      },
+      "plans": [
+        {
+          "nap": "two-naps",
+          "napLabel": "Two naps",
+          "headline": "Explore the nature park, then snack at a picnic shelter",
+          "main": {
+            "ref": "place:apex-nature-park",
+            "arrive": "11:00",
+            "leave": "12:40",
+            "why": "Your toddler can walk the greenway, pick up leaves and sticks, and watch for birds. There is a picnic shelter for a snack break.",
+            "tips": [
+              "Let your child set the pace and stop to look at everything.",
+              "Eat a snack at the picnic shelter before you head to the car.",
+              "Give a few minutes of warning, then wave goodbye to one last stick."
+            ],
+            "interests": [
+              "nature",
+              "movement"
+            ],
+            "also": [],
+            "area": "cary-apex",
+            "outdoor": true,
+            "source": {
+              "kind": "park",
+              "title": "Apex Nature Park",
+              "address": "2600 Evans Rd., Apex, NC",
+              "lat": 35.71709646233568,
+              "lon": -78.90520368087866,
+              "url": "https://www.apexnc.org/800/Nature-Park-Seymour-Athletic-Fields",
+              "amenities": [
+                "picnic-shelter",
+                "restroom",
+                "greenway",
+                "nature"
+              ],
+              "indoor": false,
+              "area": "cary-apex",
+              "hours": null,
+              "cost": null
+            }
+          },
+          "alternatives": [
+            {
+              "ref": "event:weekly:mols-early-childhood:2026-11-08",
+              "arrive": "10:50",
+              "leave": "12:15",
+              "why": "Early Childhood Drop-In in Hideaway Woods has sensory play, songs and stories. Then Rock Quarry Park for a little time on the playground.",
+              "tips": [
+                "Drop in and stay as long as your child is happy.",
+                "Bring a snack and water for the park."
+              ],
+              "interests": [
+                "nature",
+                "music",
+                "stories"
+              ],
+              "also": [
+                {
+                  "ref": "place:rock-quarry-park",
+                  "source": {
+                    "kind": "park",
+                    "title": "Rock Quarry Park",
+                    "address": "701 Stadium Dr, Durham, NC",
+                    "lat": 36.03166363636364,
+                    "lon": -78.90176545454545,
+                    "url": "https://www.dprplaymore.org/Facilities/Facility/Details/Rock-Quarry-Park-60",
+                    "amenities": [
+                      "playground",
+                      "splashpad",
+                      "restroom",
+                      "greenway"
+                    ],
+                    "indoor": false,
+                    "area": "durham",
+                    "hours": null,
+                    "cost": null
+                  }
+                }
+              ],
+              "area": "durham",
+              "outdoor": true,
+              "source": {
+                "kind": "event",
+                "title": "Early Childhood Drop-In",
+                "start": "2026-11-08T09:30:00",
+                "end": "2026-11-08T11:30:00",
+                "venue": "Hideaway Woods, Museum of Life and Science",
+                "address": "433 W Murray Ave, Durham, NC 27704",
+                "url": "https://www.lifeandscience.org/learn/drop-in-programs/",
+                "cost": "Included with museum admission",
+                "lat": 36.0294,
+                "lon": -78.8993,
+                "ages": "young children and their caregivers",
+                "registration": false,
+                "indoor": false,
+                "area": "durham",
+                "source": "weekly",
+                "dropIn": true
+              }
+            },
+            {
+              "ref": "place:historic-oak-view-county-park",
+              "arrive": "11:00",
+              "leave": "12:30",
+              "why": "Historic Oak View has animals and a garden to explore. Your toddler can toddle along the paths and look around.",
+              "tips": [
+                "Bring a snack to eat before you leave.",
+                "Let your child pick which way to wander."
+              ],
+              "interests": [
+                "animals",
+                "nature"
+              ],
+              "also": [],
+              "area": "raleigh",
+              "outdoor": true,
+              "source": {
+                "kind": "park",
+                "title": "Historic Oak View County Park",
+                "address": "4028 Carya Dr., Raleigh, NC  27610",
+                "lat": 35.76980126731367,
+                "lon": -78.57063248179927,
+                "url": "https://www.wakegov.com/departments-government/parks-recreation-and-open-space/all-parks-trails/historic-oak-view-county-park",
+                "amenities": [
+                  "picnic-shelter",
+                  "restroom",
+                  "greenway",
+                  "animals",
+                  "garden"
+                ],
+                "indoor": false,
+                "area": "raleigh",
+                "hours": null,
+                "cost": null
+              }
+            },
+            {
+              "ref": "event:wake-parks:8358:2026-11-08",
+              "arrive": "11:00",
+              "leave": "12:20",
+              "why": "Walk the StoryWalk loop and read a page of the story at each stop. It is self-guided and needs no sign-up.",
+              "tips": [
+                "Let your child lead and point at the pictures.",
+                "Bring a snack for the end of the loop."
+              ],
+              "interests": [
+                "stories",
+                "nature"
+              ],
+              "also": [],
+              "area": "south-wake",
+              "outdoor": true,
+              "source": {
+                "kind": "event",
+                "title": "Beech Bluff County Park StoryWalk® 2026 (Self-Led)",
+                "start": "2026-11-08T08:00:00",
+                "end": "2026-11-08T17:30:00",
+                "venue": "Beech Bluff County Park",
+                "address": "Beech Bluff Park Drive, Fuquay-Varina, NC",
+                "url": "https://apm.activecommunities.com/wakeparks/Activity_Search/beech-bluff-county-park-storywalk-2026-self-led/8358?locale=en-US",
+                "cost": "Free",
+                "lat": 35.58537279715877,
+                "lon": -78.6793341971644,
+                "ages": null,
+                "registration": false,
+                "indoor": false,
+                "area": "south-wake",
+                "source": "wake-parks",
+                "dropIn": true
+              }
+            },
+            {
+              "ref": "event:dix-park:/event/theater-greenway:2026-11-08",
+              "arrive": "15:50",
+              "leave": "17:00",
+              "why": "Peter Rabbit and friends take the stage at Dix Park. Then Caraleigh Park for a run on the playground.",
+              "tips": [
+                "Sit near the front so your child can see.",
+                "Bring a snack for the playground."
+              ],
+              "interests": [
+                "stories",
+                "movement"
+              ],
+              "also": [
+                {
+                  "ref": "place:caraleigh-park",
+                  "source": {
+                    "kind": "park",
+                    "title": "Caraleigh Park",
+                    "address": "110 Maywood Avenue, Raleigh, NC 27603",
+                    "lat": 35.76111,
+                    "lon": -78.64622,
+                    "url": "https://raleighnc.gov/parks-and-recreation/places/caraleigh-park",
+                    "amenities": [
+                      "playground"
+                    ],
+                    "indoor": false,
+                    "area": "raleigh",
+                    "hours": null,
+                    "cost": null
+                  }
+                }
+              ],
+              "area": "raleigh",
+              "outdoor": true,
+              "source": {
+                "kind": "event",
+                "title": "Theater on the Greenway",
+                "start": "2026-11-08T14:00:00",
+                "end": "2026-11-08T17:00:00",
+                "venue": "Dix Park",
+                "address": "1030 Richardson Dr, Raleigh, NC 27603",
+                "url": "https://dixpark.org/event/theater-greenway",
+                "cost": null,
+                "lat": 35.7701,
+                "lon": -78.6568,
+                "ages": null,
+                "registration": null,
+                "indoor": false,
+                "area": "raleigh",
+                "source": "dix-park",
+                "dropIn": true
+              }
+            }
+          ],
+          "rainBackup": null,
+          "timeline": [
+            {
+              "start": "07:00",
+              "end": "07:30",
+              "kind": "meal",
+              "title": "Up and breakfast"
+            },
+            {
+              "start": "07:30",
+              "end": "09:30",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "09:30",
+              "end": "10:30",
+              "kind": "nap",
+              "title": "Nap"
+            },
+            {
+              "start": "10:30",
+              "end": "10:40",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "10:40",
+              "end": "11:00",
+              "kind": "travel",
+              "title": "Drive to Apex Nature Park"
+            },
+            {
+              "start": "11:00",
+              "end": "12:40",
+              "kind": "outing",
+              "title": "Apex Nature Park",
+              "detail": "Pack a lunch to eat there."
+            },
+            {
+              "start": "12:40",
+              "end": "13:00",
+              "kind": "travel",
+              "title": "Drive home"
+            },
+            {
+              "start": "13:00",
+              "end": "14:30",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "14:30",
+              "end": "15:30",
+              "kind": "nap",
+              "title": "Nap"
+            },
+            {
+              "start": "15:30",
+              "end": "15:50",
+              "kind": "routine",
+              "title": "Up and a snack"
+            },
+            {
+              "start": "15:50",
+              "end": "17:30",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "17:30",
+              "end": "18:15",
+              "kind": "meal",
+              "title": "Dinner"
+            },
+            {
+              "start": "18:15",
+              "end": "19:00",
+              "kind": "routine",
+              "title": "Bath, books and bed"
+            }
+          ]
+        },
+        {
+          "nap": "early-nap",
+          "napLabel": "One nap, 12 to 2",
+          "headline": "Wander the forest paths and picnic spots",
+          "main": {
+            "ref": "place:clemmons-educational-state-forest",
+            "arrive": "09:15",
+            "leave": "11:00",
+            "why": "Your toddler can walk the greenway, crunch leaves and look up at the trees. There is a picnic shelter for a snack break.",
+            "tips": [
+              "Bring a snack and water for the picnic shelter.",
+              "Walk to the car with a few minutes to spare so your child can settle before nap."
+            ],
+            "interests": [
+              "nature",
+              "movement"
+            ],
+            "also": [],
+            "area": "east-wake",
+            "outdoor": true,
+            "source": {
+              "kind": "park",
+              "title": "Clemmons Educational State Forest",
+              "address": "2256 Old U.S. Hwy 70, Clayton, NC",
+              "lat": 35.674152072557575,
+              "lon": -78.48905206181357,
+              "url": "https://www.ncesf.org/clemmons.html",
+              "amenities": [
+                "picnic-shelter",
+                "restroom",
+                "greenway"
+              ],
+              "indoor": false,
+              "area": "east-wake",
+              "hours": null,
+              "cost": null
+            }
+          },
+          "alternatives": [
+            {
+              "ref": "event:weekly:mols-early-childhood:2026-11-08",
+              "arrive": "10:00",
+              "leave": "11:15",
+              "why": "Early Childhood Drop-In in Hideaway Woods has sensory play, songs and stories for little ones and their grown-ups.",
+              "tips": [
+                "Drop in and leave while your child is still happy.",
+                "Bring a snack and water."
+              ],
+              "interests": [
+                "nature",
+                "music",
+                "stories"
+              ],
+              "also": [],
+              "area": "durham",
+              "outdoor": true,
+              "source": {
+                "kind": "event",
+                "title": "Early Childhood Drop-In",
+                "start": "2026-11-08T09:30:00",
+                "end": "2026-11-08T11:30:00",
+                "venue": "Hideaway Woods, Museum of Life and Science",
+                "address": "433 W Murray Ave, Durham, NC 27704",
+                "url": "https://www.lifeandscience.org/learn/drop-in-programs/",
+                "cost": "Included with museum admission",
+                "lat": 36.0294,
+                "lon": -78.8993,
+                "ages": "young children and their caregivers",
+                "registration": false,
+                "indoor": false,
+                "area": "durham",
+                "source": "weekly",
+                "dropIn": true
+              }
+            },
+            {
+              "ref": "event:dix-park:/event/theater-greenway:2026-11-08",
+              "arrive": "14:20",
+              "leave": "16:10",
+              "why": "Peter Rabbit and friends take the stage at Dix Park. Then Caraleigh Park for time on the playground.",
+              "tips": [
+                "Sit near the front so your child can see.",
+                "Bring a snack for the playground."
+              ],
+              "interests": [
+                "stories",
+                "movement"
+              ],
+              "also": [
+                {
+                  "ref": "place:caraleigh-park",
+                  "source": {
+                    "kind": "park",
+                    "title": "Caraleigh Park",
+                    "address": "110 Maywood Avenue, Raleigh, NC 27603",
+                    "lat": 35.76111,
+                    "lon": -78.64622,
+                    "url": "https://raleighnc.gov/parks-and-recreation/places/caraleigh-park",
+                    "amenities": [
+                      "playground"
+                    ],
+                    "indoor": false,
+                    "area": "raleigh",
+                    "hours": null,
+                    "cost": null
+                  }
+                }
+              ],
+              "area": "raleigh",
+              "outdoor": true,
+              "source": {
+                "kind": "event",
+                "title": "Theater on the Greenway",
+                "start": "2026-11-08T14:00:00",
+                "end": "2026-11-08T17:00:00",
+                "venue": "Dix Park",
+                "address": "1030 Richardson Dr, Raleigh, NC 27603",
+                "url": "https://dixpark.org/event/theater-greenway",
+                "cost": null,
+                "lat": 35.7701,
+                "lon": -78.6568,
+                "ages": null,
+                "registration": null,
+                "indoor": false,
+                "area": "raleigh",
+                "source": "dix-park",
+                "dropIn": true
+              }
+            },
+            {
+              "ref": "place:blue-jay-point-county-park",
+              "arrive": "09:00",
+              "leave": "10:45",
+              "why": "Blue Jay Point has a playground and a greenway for a nature walk. Your toddler can slide, then stroll and look at the trees.",
+              "tips": [
+                "Play first, then take a short walk on the greenway.",
+                "Bring a snack for a break before you head home."
+              ],
+              "interests": [
+                "nature",
+                "movement"
+              ],
+              "also": [],
+              "area": "north-raleigh",
+              "outdoor": true,
+              "source": {
+                "kind": "park",
+                "title": "Blue Jay Point County Park",
+                "address": "3200 Pleasant Union Church Road, Raleigh, NC 27614",
+                "lat": 35.96762827199893,
+                "lon": -78.64454785104198,
+                "url": "https://www.wakegov.com/departments-government/parks-recreation-and-open-space/all-parks-trails/blue-jay-point-county-park",
+                "amenities": [
+                  "playground",
+                  "picnic-shelter",
+                  "restroom",
+                  "greenway",
+                  "nature"
+                ],
+                "indoor": false,
+                "area": "north-raleigh",
+                "hours": null,
+                "cost": null
+              }
+            },
+            {
+              "ref": "event:wake-parks:8358:2026-11-08",
+              "arrive": "14:30",
+              "leave": "16:00",
+              "why": "Walk the StoryWalk loop and read a page of the story at each stop. It is self-guided and needs no sign-up.",
+              "tips": [
+                "Let your child set the pace and point at the pictures.",
+                "Bring a snack for after the loop."
+              ],
+              "interests": [
+                "stories",
+                "nature"
+              ],
+              "also": [],
+              "area": "south-wake",
+              "outdoor": true,
+              "source": {
+                "kind": "event",
+                "title": "Beech Bluff County Park StoryWalk® 2026 (Self-Led)",
+                "start": "2026-11-08T08:00:00",
+                "end": "2026-11-08T17:30:00",
+                "venue": "Beech Bluff County Park",
+                "address": "Beech Bluff Park Drive, Fuquay-Varina, NC",
+                "url": "https://apm.activecommunities.com/wakeparks/Activity_Search/beech-bluff-county-park-storywalk-2026-self-led/8358?locale=en-US",
+                "cost": "Free",
+                "lat": 35.58537279715877,
+                "lon": -78.6793341971644,
+                "ages": null,
+                "registration": false,
+                "indoor": false,
+                "area": "south-wake",
+                "source": "wake-parks",
+                "dropIn": true
+              }
+            }
+          ],
+          "rainBackup": null,
+          "timeline": [
+            {
+              "start": "07:00",
+              "end": "07:30",
+              "kind": "meal",
+              "title": "Up and breakfast"
+            },
+            {
+              "start": "07:30",
+              "end": "08:35",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "08:35",
+              "end": "08:55",
+              "kind": "routine",
+              "title": "Get ready to go",
+              "detail": "Shoes on, diaper bag, water and a snack."
+            },
+            {
+              "start": "08:55",
+              "end": "09:15",
+              "kind": "travel",
+              "title": "Drive to Clemmons Educational State Forest"
+            },
+            {
+              "start": "09:15",
+              "end": "11:00",
+              "kind": "outing",
+              "title": "Clemmons Educational State Forest"
+            },
+            {
+              "start": "11:00",
+              "end": "11:20",
+              "kind": "travel",
+              "title": "Drive home"
+            },
+            {
+              "start": "11:20",
+              "end": "11:50",
+              "kind": "meal",
+              "title": "Lunch"
+            },
+            {
+              "start": "11:50",
+              "end": "12:00",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "12:00",
+              "end": "14:00",
+              "kind": "nap",
+              "title": "Nap"
+            },
+            {
+              "start": "14:00",
+              "end": "14:20",
+              "kind": "routine",
+              "title": "Up and a snack"
+            },
+            {
+              "start": "14:20",
+              "end": "17:30",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "17:30",
+              "end": "18:15",
+              "kind": "meal",
+              "title": "Dinner"
+            },
+            {
+              "start": "18:15",
+              "end": "19:00",
+              "kind": "routine",
+              "title": "Bath, books and bed"
+            }
+          ]
+        },
+        {
+          "nap": "late-nap",
+          "napLabel": "One nap, 1 to 3",
+          "headline": "Watch Peter Rabbit, then slide at the park",
+          "main": {
+            "ref": "event:dix-park:/event/theater-greenway:2026-11-08",
+            "arrive": "15:20",
+            "leave": "17:00",
+            "why": "Peter Rabbit and friends take the stage at Dix Park for a story your toddler can watch. Then Caraleigh Park for a run on the playground.",
+            "tips": [
+              "Sit near the front so your child can see.",
+              "Bring a snack for the playground.",
+              "Say goodbye to the slide before you go."
+            ],
+            "interests": [
+              "stories",
+              "movement"
+            ],
+            "also": [
+              {
+                "ref": "place:caraleigh-park",
+                "source": {
+                  "kind": "park",
+                  "title": "Caraleigh Park",
+                  "address": "110 Maywood Avenue, Raleigh, NC 27603",
+                  "lat": 35.76111,
+                  "lon": -78.64622,
+                  "url": "https://raleighnc.gov/parks-and-recreation/places/caraleigh-park",
+                  "amenities": [
+                    "playground"
+                  ],
+                  "indoor": false,
+                  "area": "raleigh",
+                  "hours": null,
+                  "cost": null
+                }
+              }
+            ],
+            "area": "raleigh",
+            "outdoor": true,
+            "source": {
+              "kind": "event",
+              "title": "Theater on the Greenway",
+              "start": "2026-11-08T14:00:00",
+              "end": "2026-11-08T17:00:00",
+              "venue": "Dix Park",
+              "address": "1030 Richardson Dr, Raleigh, NC 27603",
+              "url": "https://dixpark.org/event/theater-greenway",
+              "cost": null,
+              "lat": 35.7701,
+              "lon": -78.6568,
+              "ages": null,
+              "registration": null,
+              "indoor": false,
+              "area": "raleigh",
+              "source": "dix-park",
+              "dropIn": true
+            }
+          },
+          "alternatives": [
+            {
+              "ref": "place:wendell-park",
+              "arrive": "09:30",
+              "leave": "11:15",
+              "why": "Wendell Park has a playground and a greenway. Your toddler can climb and slide, then walk the path.",
+              "tips": [
+                "Play first, then walk the greenway when your child slows down.",
+                "Bring a snack for the picnic shelter."
+              ],
+              "interests": [
+                "movement",
+                "nature"
+              ],
+              "also": [],
+              "area": "east-wake",
+              "outdoor": true,
+              "source": {
+                "kind": "park",
+                "title": "Wendell Park",
+                "address": "601 W. Third Street, Wendell, NC",
+                "lat": 35.78171909213524,
+                "lon": -78.37858290652449,
+                "url": "https://townofwendellnc.gov/departments/parks_and_recreation/facilities___rentals/index.php",
+                "amenities": [
+                  "playground",
+                  "picnic-shelter",
+                  "restroom",
+                  "greenway"
+                ],
+                "indoor": false,
+                "area": "east-wake",
+                "hours": null,
+                "cost": null
+              }
+            },
+            {
+              "ref": "event:weekly:mols-early-childhood:2026-11-08",
+              "arrive": "10:00",
+              "leave": "11:30",
+              "why": "Early Childhood Drop-In in Hideaway Woods has sensory play, songs and stories. Drop in and stay as long as your child likes.",
+              "tips": [
+                "Bring a snack and water for a break.",
+                "Leave while your child is still happy."
+              ],
+              "interests": [
+                "nature",
+                "music",
+                "stories"
+              ],
+              "also": [],
+              "area": "durham",
+              "outdoor": true,
+              "source": {
+                "kind": "event",
+                "title": "Early Childhood Drop-In",
+                "start": "2026-11-08T09:30:00",
+                "end": "2026-11-08T11:30:00",
+                "venue": "Hideaway Woods, Museum of Life and Science",
+                "address": "433 W Murray Ave, Durham, NC 27704",
+                "url": "https://www.lifeandscience.org/learn/drop-in-programs/",
+                "cost": "Included with museum admission",
+                "lat": 36.0294,
+                "lon": -78.8993,
+                "ages": "young children and their caregivers",
+                "registration": false,
+                "indoor": false,
+                "area": "durham",
+                "source": "weekly",
+                "dropIn": true
+              }
+            },
+            {
+              "ref": "place:apex-nature-park",
+              "arrive": "09:30",
+              "leave": "11:15",
+              "why": "Your toddler can walk the greenway, pick up leaves and watch for birds. There is a picnic shelter for a snack.",
+              "tips": [
+                "Let your child set the pace.",
+                "Bring a snack for the picnic shelter."
+              ],
+              "interests": [
+                "nature"
+              ],
+              "also": [],
+              "area": "cary-apex",
+              "outdoor": true,
+              "source": {
+                "kind": "park",
+                "title": "Apex Nature Park",
+                "address": "2600 Evans Rd., Apex, NC",
+                "lat": 35.71709646233568,
+                "lon": -78.90520368087866,
+                "url": "https://www.apexnc.org/800/Nature-Park-Seymour-Athletic-Fields",
+                "amenities": [
+                  "picnic-shelter",
+                  "restroom",
+                  "greenway",
+                  "nature"
+                ],
+                "indoor": false,
+                "area": "cary-apex",
+                "hours": null,
+                "cost": null
+              }
+            },
+            {
+              "ref": "place:blue-jay-point-county-park",
+              "arrive": "09:30",
+              "leave": "11:20",
+              "why": "Blue Jay Point has a playground and a greenway for a nature walk. Your toddler can slide, then stroll and look at the trees.",
+              "tips": [
+                "Play first, then take a short walk.",
+                "Bring a snack and water for a break."
+              ],
+              "interests": [
+                "nature",
+                "movement"
+              ],
+              "also": [],
+              "area": "north-raleigh",
+              "outdoor": true,
+              "source": {
+                "kind": "park",
+                "title": "Blue Jay Point County Park",
+                "address": "3200 Pleasant Union Church Road, Raleigh, NC 27614",
+                "lat": 35.96762827199893,
+                "lon": -78.64454785104198,
+                "url": "https://www.wakegov.com/departments-government/parks-recreation-and-open-space/all-parks-trails/blue-jay-point-county-park",
+                "amenities": [
+                  "playground",
+                  "picnic-shelter",
+                  "restroom",
+                  "greenway",
+                  "nature"
+                ],
+                "indoor": false,
+                "area": "north-raleigh",
+                "hours": null,
+                "cost": null
+              }
+            }
+          ],
+          "rainBackup": null,
+          "timeline": [
+            {
+              "start": "07:00",
+              "end": "07:30",
+              "kind": "meal",
+              "title": "Up and breakfast"
+            },
+            {
+              "start": "07:30",
+              "end": "12:15",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "12:15",
+              "end": "12:45",
+              "kind": "meal",
+              "title": "Lunch"
+            },
+            {
+              "start": "12:45",
+              "end": "13:00",
+              "kind": "quiet",
+              "title": "Wind down",
+              "detail": "A couple of books to settle."
+            },
+            {
+              "start": "13:00",
+              "end": "15:00",
+              "kind": "nap",
+              "title": "Nap"
+            },
+            {
+              "start": "15:00",
+              "end": "15:20",
+              "kind": "travel",
+              "title": "Drive to Dix Park"
+            },
+            {
+              "start": "15:20",
+              "end": "17:00",
+              "kind": "outing",
+              "title": "Dix Park"
+            },
+            {
+              "start": "17:00",
+              "end": "17:20",
+              "kind": "travel",
+              "title": "Drive home"
+            },
+            {
+              "start": "17:20",
+              "end": "18:00",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "18:00",
+              "end": "18:45",
+              "kind": "meal",
+              "title": "Dinner"
+            },
+            {
+              "start": "18:45",
+              "end": "19:30",
+              "kind": "routine",
+              "title": "Bath, books and bed"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "checked": {
+    "at": "2026-11-07T11:04:04.030Z",
+    "forecast": "nws",
+    "weather": {
+      "period": "Sunday",
+      "tempF": 64,
+      "precipProbability": 0,
+      "shortForecast": "Sunny",
+      "windMph": 5,
+      "windFrom": "W",
+      "hours": [
+        {
+          "t": "05:00",
+          "tempF": 42,
+          "pop": 0,
+          "cloud": 33
+        },
+        {
+          "t": "06:00",
+          "tempF": 41,
+          "pop": 0,
+          "cloud": 42
+        },
+        {
+          "t": "07:00",
+          "tempF": 40,
+          "pop": 0,
+          "cloud": 27
+        },
+        {
+          "t": "08:00",
+          "tempF": 44,
+          "pop": 0,
+          "cloud": 31
+        },
+        {
+          "t": "09:00",
+          "tempF": 49,
+          "pop": 0,
+          "cloud": 29
+        },
+        {
+          "t": "10:00",
+          "tempF": 53,
+          "pop": 0,
+          "cloud": 13
+        },
+        {
+          "t": "11:00",
+          "tempF": 56,
+          "pop": 0,
+          "cloud": 3
+        },
+        {
+          "t": "12:00",
+          "tempF": 60,
+          "pop": 0,
+          "cloud": 3
+        },
+        {
+          "t": "13:00",
+          "tempF": 62,
+          "pop": 0,
+          "cloud": 5
+        },
+        {
+          "t": "14:00",
+          "tempF": 63,
+          "pop": 0,
+          "cloud": 5
+        },
+        {
+          "t": "15:00",
+          "tempF": 64,
+          "pop": 0,
+          "cloud": 3
+        },
+        {
+          "t": "16:00",
+          "tempF": 63,
+          "pop": 0,
+          "cloud": 2
+        },
+        {
+          "t": "17:00",
+          "tempF": 60,
+          "pop": 0,
+          "cloud": 1
+        },
+        {
+          "t": "18:00",
+          "tempF": 57,
+          "pop": 0,
+          "cloud": 2
+        },
+        {
+          "t": "19:00",
+          "tempF": 51,
+          "pop": 0,
+          "cloud": 2
+        },
+        {
+          "t": "20:00",
+          "tempF": 51,
+          "pop": 0,
+          "cloud": 0
+        },
+        {
+          "t": "21:00",
+          "tempF": 50,
+          "pop": 0,
+          "cloud": 1
+        },
+        {
+          "t": "22:00",
+          "tempF": 49,
+          "pop": 0,
+          "cloud": 1
+        },
+        {
+          "t": "23:00",
+          "tempF": 48,
+          "pop": 0,
+          "cloud": 1
+        }
+      ]
+    },
+    "hidden": []
+  }
+}

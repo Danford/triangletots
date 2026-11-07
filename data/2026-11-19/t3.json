@@ -1,0 +1,953 @@
+{
+  "date": "2026-11-19",
+  "band": "t3",
+  "versions": [
+    {
+      "at": "2026-11-06T11:05:30.651Z",
+      "reason": null,
+      "forecast": "none",
+      "weather": null,
+      "plans": [
+        {
+          "nap": "nap",
+          "napLabel": "Nap, 1 to 2:30",
+          "headline": "Ride the carousel and the train",
+          "main": {
+            "ref": "place:pullen-park-amusements",
+            "arrive": "10:00",
+            "leave": "12:00",
+            "also": [],
+            "interests": [
+              "vehicles",
+              "movement"
+            ],
+            "why": "Your 3-year-old can ride the carousel and the train, then burn off energy on the playground. It ends well before the 1:00 pm nap.",
+            "tips": [
+              "Pick one ride to start and one to finish, so leaving feels planned.",
+              "Pack a snack for the playground and keep lunch for home.",
+              "Give a five-minute warning, then walk to the car holding the ticket or a leaf as a prize."
+            ],
+            "area": "raleigh",
+            "outdoor": true,
+            "source": {
+              "kind": "park",
+              "title": "Pullen Park Amusements",
+              "address": "410 Park Ave, Raleigh, NC 27606",
+              "lat": 35.7806,
+              "lon": -78.66396,
+              "url": "https://raleighnc.gov/parks-and-recreation/places/pullen-park-amusements",
+              "amenities": [
+                "carousel",
+                "boating",
+                "train",
+                "amusements",
+                "courts",
+                "playground",
+                "picnic-shelter"
+              ],
+              "indoor": false,
+              "area": "raleigh",
+              "hours": {
+                "mon": "10 a.m.–6 p.m.",
+                "tue": "10 a.m.–6 p.m.",
+                "wed": "10 a.m.–6 p.m.",
+                "thu": "10 a.m.–6 p.m.",
+                "fri": "10 a.m.–8 p.m.",
+                "sat": "10 a.m.–8 p.m.",
+                "sun": "10 a.m.–8 p.m."
+              },
+              "cost": null
+            }
+          },
+          "alternatives": [
+            {
+              "ref": "event:cary-rec:ENVI0044-030",
+              "arrive": "09:50",
+              "leave": "11:40",
+              "also": [
+                {
+                  "ref": "place:jack-smith-park",
+                  "source": {
+                    "kind": "park",
+                    "title": "Jack Smith Park",
+                    "address": "9725 Penny Road, Cary, NC",
+                    "lat": 35.71181466796333,
+                    "lon": -78.7659772347373,
+                    "url": "http://www.townofcary.org/recreation-enjoyment/parks-greenways-environment/parks/jack-smith-park",
+                    "amenities": [
+                      "playground",
+                      "picnic-shelter",
+                      "restroom",
+                      "greenway"
+                    ],
+                    "indoor": false,
+                    "area": "cary-apex",
+                    "hours": null,
+                    "cost": null
+                  }
+                }
+              ],
+              "interests": [
+                "nature",
+                "science"
+              ],
+              "why": "Squirrely Flyers is a Little Naturalists class for 3 to 5 year olds with a grown-up. A family needs to sign up. Afterward there is time to play at Jack Smith Park.",
+              "tips": [
+                "Bring a small bag for leaves and sticks you find.",
+                "Save the snack for the park after class."
+              ],
+              "area": "cary-apex",
+              "outdoor": true,
+              "source": {
+                "kind": "event",
+                "title": "Squirrely Flyers",
+                "start": "2026-11-19T10:00:00",
+                "end": "2026-11-19T11:00:00",
+                "venue": "Hemlock Bluffs Nature Preserve",
+                "address": "2616 Kildaire Farm Road, Cary, NC",
+                "url": "https://nccaryweb.myvscloud.com/webtrac/web/search.html?module=AR",
+                "cost": "$8.00 resident / $10.00 non-resident",
+                "lat": 35.72308620195308,
+                "lon": -78.7831641933086,
+                "ages": "3-5 w/guardian",
+                "registration": "https://nccaryweb.myvscloud.com/webtrac/web/search.html?module=AR",
+                "indoor": false,
+                "area": "cary-apex",
+                "source": "cary-rec",
+                "dropIn": false
+              }
+            },
+            {
+              "ref": "event:wake-parks:8358:2026-11-19",
+              "arrive": "09:30",
+              "leave": "11:00",
+              "also": [],
+              "interests": [
+                "stories",
+                "nature",
+                "movement"
+              ],
+              "why": "Walk the StoryWalk loop at Beech Bluff County Park and read the story one page at a time. Drop in and go at your child's pace.",
+              "tips": [
+                "Let your child run ahead to find the next page.",
+                "Bring a snack for the end of the loop."
+              ],
+              "area": "south-wake",
+              "outdoor": true,
+              "source": {
+                "kind": "event",
+                "title": "Beech Bluff County Park StoryWalk® 2026 (Self-Led)",
+                "start": "2026-11-19T08:00:00",
+                "end": "2026-11-19T17:30:00",
+                "venue": "Beech Bluff County Park",
+                "address": "Beech Bluff Park Drive, Fuquay-Varina, NC",
+                "url": "https://apm.activecommunities.com/wakeparks/Activity_Search/beech-bluff-county-park-storywalk-2026-self-led/8358?locale=en-US",
+                "cost": "Free",
+                "lat": 35.58537279715877,
+                "lon": -78.6793341971644,
+                "ages": null,
+                "registration": false,
+                "indoor": false,
+                "area": "south-wake",
+                "source": "wake-parks",
+                "dropIn": true
+              }
+            }
+          ],
+          "rainBackup": null,
+          "timeline": [
+            {
+              "start": "07:00",
+              "end": "07:30",
+              "kind": "meal",
+              "title": "Up and breakfast"
+            },
+            {
+              "start": "07:30",
+              "end": "09:20",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "09:20",
+              "end": "09:40",
+              "kind": "routine",
+              "title": "Get ready to go",
+              "detail": "Shoes on, diaper bag, water and a snack."
+            },
+            {
+              "start": "09:40",
+              "end": "10:00",
+              "kind": "travel",
+              "title": "Drive to Pullen Park Amusements"
+            },
+            {
+              "start": "10:00",
+              "end": "12:00",
+              "kind": "outing",
+              "title": "Pullen Park Amusements"
+            },
+            {
+              "start": "12:00",
+              "end": "12:20",
+              "kind": "travel",
+              "title": "Drive home"
+            },
+            {
+              "start": "12:20",
+              "end": "12:50",
+              "kind": "meal",
+              "title": "Lunch"
+            },
+            {
+              "start": "12:50",
+              "end": "13:00",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "13:00",
+              "end": "14:30",
+              "kind": "nap",
+              "title": "Nap"
+            },
+            {
+              "start": "14:30",
+              "end": "14:50",
+              "kind": "routine",
+              "title": "Up and a snack"
+            },
+            {
+              "start": "14:50",
+              "end": "18:30",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "18:30",
+              "end": "19:15",
+              "kind": "meal",
+              "title": "Dinner"
+            },
+            {
+              "start": "19:15",
+              "end": "20:00",
+              "kind": "routine",
+              "title": "Bath, books and bed"
+            }
+          ]
+        },
+        {
+          "nap": "quiet",
+          "napLabel": "Quiet time, no sleep",
+          "headline": "Play at the park, then a preserve walk with stories",
+          "main": {
+            "ref": "place:green-hills-county-park",
+            "arrive": "10:00",
+            "leave": "12:00",
+            "also": [
+              {
+                "ref": "event:reclink:AWNPEAGEXPLOR-180",
+                "source": {
+                  "kind": "event",
+                  "title": "Eager Explorers -- Big Rock Hike",
+                  "start": "2026-11-19T10:30:00",
+                  "end": "2026-11-19T12:00:00",
+                  "venue": "A.L. Wilkerson Nature Preserve",
+                  "address": "11408 Raven Ridge Rd, Raleigh, NC 27614",
+                  "url": "https://ncraleighweb.myvscloud.com/webtrac/web/search.html?module=AR",
+                  "cost": "$4.00",
+                  "lat": 35.92369,
+                  "lon": -78.59887,
+                  "ages": "3-7.99",
+                  "registration": "https://ncraleighweb.myvscloud.com/webtrac/web/search.html?module=AR",
+                  "indoor": false,
+                  "area": "north-raleigh",
+                  "source": "reclink",
+                  "dropIn": false
+                }
+              }
+            ],
+            "interests": [
+              "nature",
+              "stories",
+              "movement"
+            ],
+            "why": "Play at Green Hills County Park first, then join Eager Explorers at A.L. Wilkerson Nature Preserve for stories, crafts and a nature walk. A family needs to sign up. A grown-up stays with the child.",
+            "tips": [
+              "Let your child run first so they can settle for the walk.",
+              "Bring water and a small snack for the trail.",
+              "Tell your child the craft is the last thing before the car, so goodbye is easy."
+            ],
+            "area": "north-raleigh",
+            "outdoor": true,
+            "source": {
+              "kind": "park",
+              "title": "Green Hills County Park",
+              "address": "9300 Deponie Dr., Raleigh, NC  27614",
+              "lat": 35.90515443027014,
+              "lon": -78.58379213479681,
+              "url": "https://www.wakegov.com/departments-government/parks-recreation-open-space/all-parks-trails/green-hills-county-park",
+              "amenities": [
+                "playground",
+                "picnic-shelter",
+                "restroom",
+                "greenway"
+              ],
+              "indoor": false,
+              "area": "north-raleigh",
+              "hours": null,
+              "cost": null
+            }
+          },
+          "alternatives": [
+            {
+              "ref": "event:cary-rec:ENVI0044-030",
+              "arrive": "09:50",
+              "leave": "11:40",
+              "also": [
+                {
+                  "ref": "place:jack-smith-park",
+                  "source": {
+                    "kind": "park",
+                    "title": "Jack Smith Park",
+                    "address": "9725 Penny Road, Cary, NC",
+                    "lat": 35.71181466796333,
+                    "lon": -78.7659772347373,
+                    "url": "http://www.townofcary.org/recreation-enjoyment/parks-greenways-environment/parks/jack-smith-park",
+                    "amenities": [
+                      "playground",
+                      "picnic-shelter",
+                      "restroom",
+                      "greenway"
+                    ],
+                    "indoor": false,
+                    "area": "cary-apex",
+                    "hours": null,
+                    "cost": null
+                  }
+                }
+              ],
+              "interests": [
+                "nature",
+                "science"
+              ],
+              "why": "Squirrely Flyers is a nature class for 3 to 5 year olds at Hemlock Bluffs. A family needs to sign up. Then a play at Jack Smith Park.",
+              "tips": [
+                "Bring a small bag for leaves and sticks.",
+                "Save the snack for the park."
+              ],
+              "area": "cary-apex",
+              "outdoor": true,
+              "source": {
+                "kind": "event",
+                "title": "Squirrely Flyers",
+                "start": "2026-11-19T10:00:00",
+                "end": "2026-11-19T11:00:00",
+                "venue": "Hemlock Bluffs Nature Preserve",
+                "address": "2616 Kildaire Farm Road, Cary, NC",
+                "url": "https://nccaryweb.myvscloud.com/webtrac/web/search.html?module=AR",
+                "cost": "$8.00 resident / $10.00 non-resident",
+                "lat": 35.72308620195308,
+                "lon": -78.7831641933086,
+                "ages": "3-5 w/guardian",
+                "registration": "https://nccaryweb.myvscloud.com/webtrac/web/search.html?module=AR",
+                "indoor": false,
+                "area": "cary-apex",
+                "source": "cary-rec",
+                "dropIn": false
+              }
+            },
+            {
+              "ref": "place:fuquay-varina-museums-at-ashworth-park",
+              "arrive": "10:30",
+              "leave": "11:30",
+              "also": [
+                {
+                  "ref": "event:wake:23604",
+                  "source": {
+                    "kind": "event",
+                    "title": "Family Storytime",
+                    "start": "2026-11-19T11:00:00-05:00",
+                    "end": "2026-11-19T11:30:00-05:00",
+                    "venue": "Fuquay-Varina Community Library",
+                    "address": "271 Bramblehill Drive, Fuquay-Varina, NC",
+                    "url": "https://www.wake.gov/events/family-storytime-4589",
+                    "cost": "Free",
+                    "lat": 35.5850617253451,
+                    "lon": -78.7802518504044,
+                    "ages": "Young Children",
+                    "registration": null,
+                    "indoor": true,
+                    "area": "south-wake",
+                    "source": "wake-county",
+                    "dropIn": false
+                  }
+                }
+              ],
+              "interests": [
+                "movement",
+                "stories"
+              ],
+              "why": "Play at Ashworth Park, then walk to Family Storytime at Fuquay-Varina Community Library at 11:00 am for books, songs, rhymes and movement.",
+              "tips": [
+                "Climb and run first so sitting for stories is easier.",
+                "Bring a favorite small toy for the car ride home."
+              ],
+              "area": "south-wake",
+              "outdoor": false,
+              "source": {
+                "kind": "park",
+                "title": "Fuquay-Varina Museums at Ashworth Park",
+                "address": "131 South Fuquay Avenue, Fuquay-Varina, NC",
+                "lat": 35.58355770107221,
+                "lon": -78.79818805961258,
+                "url": "http://www.fuquay-varina.org/Facilities/Facility/Details/FuquayVarina-Museums-at-Ashworth-Park-14",
+                "amenities": [
+                  "playground",
+                  "greenway"
+                ],
+                "indoor": false,
+                "area": "south-wake",
+                "hours": null,
+                "cost": null
+              }
+            },
+            {
+              "ref": "event:wake:23244",
+              "arrive": "14:20",
+              "leave": "16:30",
+              "also": [
+                {
+                  "ref": "place:pullen-park-amusements",
+                  "source": {
+                    "kind": "park",
+                    "title": "Pullen Park Amusements",
+                    "address": "410 Park Ave, Raleigh, NC 27606",
+                    "lat": 35.7806,
+                    "lon": -78.66396,
+                    "url": "https://raleighnc.gov/parks-and-recreation/places/pullen-park-amusements",
+                    "amenities": [
+                      "carousel",
+                      "boating",
+                      "train",
+                      "amusements",
+                      "courts",
+                      "playground",
+                      "picnic-shelter"
+                    ],
+                    "indoor": false,
+                    "area": "raleigh",
+                    "hours": {
+                      "mon": "10 a.m.–6 p.m.",
+                      "tue": "10 a.m.–6 p.m.",
+                      "wed": "10 a.m.–6 p.m.",
+                      "thu": "10 a.m.–6 p.m.",
+                      "fri": "10 a.m.–8 p.m.",
+                      "sat": "10 a.m.–8 p.m.",
+                      "sun": "10 a.m.–8 p.m."
+                    },
+                    "cost": null
+                  }
+                }
+              ],
+              "interests": [
+                "art",
+                "stories",
+                "vehicles"
+              ],
+              "why": "ABC Craft and Learn at West Regional Library is a hands-on program for ages 3 to 5. Then to Pullen Park Amusements for the carousel and train.",
+              "tips": [
+                "Do the craft first while energy is still calm.",
+                "Pick one ride to finish on."
+              ],
+              "area": "raleigh",
+              "outdoor": false,
+              "source": {
+                "kind": "event",
+                "title": "ABC Craft and Learn",
+                "start": "2026-11-19T14:30:00-05:00",
+                "end": "2026-11-19T15:15:00-05:00",
+                "venue": "West Regional Library",
+                "address": "4000 Louis Stephens Drive, Cary, NC, 27519",
+                "url": "https://www.wake.gov/events/abc-craft-and-learn-606",
+                "cost": "Free",
+                "lat": 35.78554,
+                "lon": -78.65385,
+                "ages": "Young Children",
+                "registration": null,
+                "indoor": true,
+                "area": "raleigh",
+                "source": "wake-county",
+                "dropIn": false
+              }
+            }
+          ],
+          "rainBackup": null,
+          "timeline": [
+            {
+              "start": "07:00",
+              "end": "07:30",
+              "kind": "meal",
+              "title": "Up and breakfast"
+            },
+            {
+              "start": "07:30",
+              "end": "09:20",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "09:20",
+              "end": "09:40",
+              "kind": "routine",
+              "title": "Get ready to go",
+              "detail": "Shoes on, diaper bag, water and a snack."
+            },
+            {
+              "start": "09:40",
+              "end": "10:00",
+              "kind": "travel",
+              "title": "Drive to Green Hills County Park"
+            },
+            {
+              "start": "10:00",
+              "end": "10:20",
+              "kind": "outing",
+              "title": "Green Hills County Park"
+            },
+            {
+              "start": "10:20",
+              "end": "10:30",
+              "kind": "travel",
+              "title": "Drive to A.L. Wilkerson Nature Preserve"
+            },
+            {
+              "start": "10:30",
+              "end": "12:00",
+              "kind": "outing",
+              "title": "Eager Explorers -- Big Rock Hike"
+            },
+            {
+              "start": "12:00",
+              "end": "12:20",
+              "kind": "travel",
+              "title": "Drive home"
+            },
+            {
+              "start": "12:20",
+              "end": "12:50",
+              "kind": "meal",
+              "title": "Lunch"
+            },
+            {
+              "start": "12:50",
+              "end": "13:00",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "13:00",
+              "end": "13:45",
+              "kind": "quiet",
+              "title": "Quiet time",
+              "detail": "Books or quiet play in their room."
+            },
+            {
+              "start": "13:45",
+              "end": "18:00",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "18:00",
+              "end": "18:45",
+              "kind": "meal",
+              "title": "Dinner"
+            },
+            {
+              "start": "18:45",
+              "end": "19:30",
+              "kind": "routine",
+              "title": "Bath, books and bed"
+            }
+          ]
+        },
+        {
+          "nap": "no-nap",
+          "napLabel": "No nap",
+          "headline": "Explore the nature preserve, then play at the park",
+          "main": {
+            "ref": "event:cary-rec:ENVI0044-030",
+            "arrive": "09:50",
+            "leave": "11:50",
+            "also": [
+              {
+                "ref": "place:jack-smith-park",
+                "source": {
+                  "kind": "park",
+                  "title": "Jack Smith Park",
+                  "address": "9725 Penny Road, Cary, NC",
+                  "lat": 35.71181466796333,
+                  "lon": -78.7659772347373,
+                  "url": "http://www.townofcary.org/recreation-enjoyment/parks-greenways-environment/parks/jack-smith-park",
+                  "amenities": [
+                    "playground",
+                    "picnic-shelter",
+                    "restroom",
+                    "greenway"
+                  ],
+                  "indoor": false,
+                  "area": "cary-apex",
+                  "hours": null,
+                  "cost": null
+                }
+              }
+            ],
+            "interests": [
+              "nature",
+              "science"
+            ],
+            "why": "Squirrely Flyers is a Little Naturalists class at Hemlock Bluffs for 3 to 5 year olds with a grown-up. A family needs to sign up. Then your 3-year-old plays at Jack Smith Park.",
+            "tips": [
+              "Bring a small bag for leaves and sticks they find.",
+              "Save the snack for the park.",
+              "Say the swings come right after class, so leaving class is easy."
+            ],
+            "area": "cary-apex",
+            "outdoor": true,
+            "source": {
+              "kind": "event",
+              "title": "Squirrely Flyers",
+              "start": "2026-11-19T10:00:00",
+              "end": "2026-11-19T11:00:00",
+              "venue": "Hemlock Bluffs Nature Preserve",
+              "address": "2616 Kildaire Farm Road, Cary, NC",
+              "url": "https://nccaryweb.myvscloud.com/webtrac/web/search.html?module=AR",
+              "cost": "$8.00 resident / $10.00 non-resident",
+              "lat": 35.72308620195308,
+              "lon": -78.7831641933086,
+              "ages": "3-5 w/guardian",
+              "registration": "https://nccaryweb.myvscloud.com/webtrac/web/search.html?module=AR",
+              "indoor": false,
+              "area": "cary-apex",
+              "source": "cary-rec",
+              "dropIn": false
+            }
+          },
+          "alternatives": [
+            {
+              "ref": "place:green-hills-county-park",
+              "arrive": "10:00",
+              "leave": "12:00",
+              "also": [
+                {
+                  "ref": "event:reclink:AWNPEAGEXPLOR-180",
+                  "source": {
+                    "kind": "event",
+                    "title": "Eager Explorers -- Big Rock Hike",
+                    "start": "2026-11-19T10:30:00",
+                    "end": "2026-11-19T12:00:00",
+                    "venue": "A.L. Wilkerson Nature Preserve",
+                    "address": "11408 Raven Ridge Rd, Raleigh, NC 27614",
+                    "url": "https://ncraleighweb.myvscloud.com/webtrac/web/search.html?module=AR",
+                    "cost": "$4.00",
+                    "lat": 35.92369,
+                    "lon": -78.59887,
+                    "ages": "3-7.99",
+                    "registration": "https://ncraleighweb.myvscloud.com/webtrac/web/search.html?module=AR",
+                    "indoor": false,
+                    "area": "north-raleigh",
+                    "source": "reclink",
+                    "dropIn": false
+                  }
+                }
+              ],
+              "interests": [
+                "nature",
+                "stories",
+                "movement"
+              ],
+              "why": "Play at Green Hills County Park, then Eager Explorers at A.L. Wilkerson Nature Preserve with stories, crafts and a nature walk. A family needs to sign up.",
+              "tips": [
+                "Run first, walk second.",
+                "Bring water and a snack."
+              ],
+              "area": "north-raleigh",
+              "outdoor": true,
+              "source": {
+                "kind": "park",
+                "title": "Green Hills County Park",
+                "address": "9300 Deponie Dr., Raleigh, NC  27614",
+                "lat": 35.90515443027014,
+                "lon": -78.58379213479681,
+                "url": "https://www.wakegov.com/departments-government/parks-recreation-open-space/all-parks-trails/green-hills-county-park",
+                "amenities": [
+                  "playground",
+                  "picnic-shelter",
+                  "restroom",
+                  "greenway"
+                ],
+                "indoor": false,
+                "area": "north-raleigh",
+                "hours": null,
+                "cost": null
+              }
+            },
+            {
+              "ref": "event:weekly:mols-early-childhood:2026-11-19",
+              "arrive": "09:30",
+              "leave": "11:30",
+              "also": [
+                {
+                  "ref": "place:rock-quarry-park",
+                  "source": {
+                    "kind": "park",
+                    "title": "Rock Quarry Park",
+                    "address": "701 Stadium Dr, Durham, NC",
+                    "lat": 36.03166363636364,
+                    "lon": -78.90176545454545,
+                    "url": "https://www.dprplaymore.org/Facilities/Facility/Details/Rock-Quarry-Park-60",
+                    "amenities": [
+                      "playground",
+                      "splashpad",
+                      "restroom",
+                      "greenway"
+                    ],
+                    "indoor": false,
+                    "area": "durham",
+                    "hours": null,
+                    "cost": null
+                  }
+                }
+              ],
+              "interests": [
+                "science",
+                "music",
+                "nature"
+              ],
+              "why": "Early Childhood Drop-In at Hideaway Woods has sensory play, songs and stories. Drop in and stay as long as your child likes, then play at Rock Quarry Park.",
+              "tips": [
+                "Stay at least 20 minutes, then move on when interest fades.",
+                "Snack at the park."
+              ],
+              "area": "durham",
+              "outdoor": true,
+              "source": {
+                "kind": "event",
+                "title": "Early Childhood Drop-In",
+                "start": "2026-11-19T09:30:00",
+                "end": "2026-11-19T11:30:00",
+                "venue": "Hideaway Woods, Museum of Life and Science",
+                "address": "433 W Murray Ave, Durham, NC 27704",
+                "url": "https://www.lifeandscience.org/learn/drop-in-programs/",
+                "cost": "Included with museum admission",
+                "lat": 36.0294,
+                "lon": -78.8993,
+                "ages": "young children and their caregivers",
+                "registration": false,
+                "indoor": false,
+                "area": "durham",
+                "source": "weekly",
+                "dropIn": true
+              }
+            },
+            {
+              "ref": "event:wake-parks:8358:2026-11-19",
+              "arrive": "14:00",
+              "leave": "15:30",
+              "also": [],
+              "interests": [
+                "stories",
+                "nature",
+                "movement"
+              ],
+              "why": "Walk the StoryWalk loop at Beech Bluff County Park and read the story one page at a time. Drop in and go at your child's pace.",
+              "tips": [
+                "Let your child run ahead to find the next page.",
+                "Bring a snack for the end of the loop."
+              ],
+              "area": "south-wake",
+              "outdoor": true,
+              "source": {
+                "kind": "event",
+                "title": "Beech Bluff County Park StoryWalk® 2026 (Self-Led)",
+                "start": "2026-11-19T08:00:00",
+                "end": "2026-11-19T17:30:00",
+                "venue": "Beech Bluff County Park",
+                "address": "Beech Bluff Park Drive, Fuquay-Varina, NC",
+                "url": "https://apm.activecommunities.com/wakeparks/Activity_Search/beech-bluff-county-park-storywalk-2026-self-led/8358?locale=en-US",
+                "cost": "Free",
+                "lat": 35.58537279715877,
+                "lon": -78.6793341971644,
+                "ages": null,
+                "registration": false,
+                "indoor": false,
+                "area": "south-wake",
+                "source": "wake-parks",
+                "dropIn": true
+              }
+            },
+            {
+              "ref": "event:wake:23244",
+              "arrive": "14:20",
+              "leave": "16:30",
+              "also": [
+                {
+                  "ref": "place:pullen-park-amusements",
+                  "source": {
+                    "kind": "park",
+                    "title": "Pullen Park Amusements",
+                    "address": "410 Park Ave, Raleigh, NC 27606",
+                    "lat": 35.7806,
+                    "lon": -78.66396,
+                    "url": "https://raleighnc.gov/parks-and-recreation/places/pullen-park-amusements",
+                    "amenities": [
+                      "carousel",
+                      "boating",
+                      "train",
+                      "amusements",
+                      "courts",
+                      "playground",
+                      "picnic-shelter"
+                    ],
+                    "indoor": false,
+                    "area": "raleigh",
+                    "hours": {
+                      "mon": "10 a.m.–6 p.m.",
+                      "tue": "10 a.m.–6 p.m.",
+                      "wed": "10 a.m.–6 p.m.",
+                      "thu": "10 a.m.–6 p.m.",
+                      "fri": "10 a.m.–8 p.m.",
+                      "sat": "10 a.m.–8 p.m.",
+                      "sun": "10 a.m.–8 p.m."
+                    },
+                    "cost": null
+                  }
+                }
+              ],
+              "interests": [
+                "art",
+                "stories",
+                "vehicles"
+              ],
+              "why": "ABC Craft and Learn at West Regional Library is a hands-on program for ages 3 to 5. Then to Pullen Park Amusements for the carousel and train.",
+              "tips": [
+                "Do the craft first.",
+                "Pick one ride to finish on."
+              ],
+              "area": "raleigh",
+              "outdoor": false,
+              "source": {
+                "kind": "event",
+                "title": "ABC Craft and Learn",
+                "start": "2026-11-19T14:30:00-05:00",
+                "end": "2026-11-19T15:15:00-05:00",
+                "venue": "West Regional Library",
+                "address": "4000 Louis Stephens Drive, Cary, NC, 27519",
+                "url": "https://www.wake.gov/events/abc-craft-and-learn-606",
+                "cost": "Free",
+                "lat": 35.78554,
+                "lon": -78.65385,
+                "ages": "Young Children",
+                "registration": null,
+                "indoor": true,
+                "area": "raleigh",
+                "source": "wake-county",
+                "dropIn": false
+              }
+            }
+          ],
+          "rainBackup": null,
+          "timeline": [
+            {
+              "start": "07:00",
+              "end": "07:30",
+              "kind": "meal",
+              "title": "Up and breakfast"
+            },
+            {
+              "start": "07:30",
+              "end": "09:10",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "09:10",
+              "end": "09:30",
+              "kind": "routine",
+              "title": "Get ready to go",
+              "detail": "Shoes on, diaper bag, water and a snack."
+            },
+            {
+              "start": "09:30",
+              "end": "09:50",
+              "kind": "travel",
+              "title": "Drive to Hemlock Bluffs Nature Preserve"
+            },
+            {
+              "start": "09:50",
+              "end": "11:00",
+              "kind": "outing",
+              "title": "Squirrely Flyers"
+            },
+            {
+              "start": "11:00",
+              "end": "11:10",
+              "kind": "travel",
+              "title": "Drive to Jack Smith Park"
+            },
+            {
+              "start": "11:10",
+              "end": "11:50",
+              "kind": "outing",
+              "title": "Jack Smith Park"
+            },
+            {
+              "start": "11:50",
+              "end": "12:10",
+              "kind": "travel",
+              "title": "Drive home"
+            },
+            {
+              "start": "12:10",
+              "end": "12:40",
+              "kind": "meal",
+              "title": "Lunch"
+            },
+            {
+              "start": "12:40",
+              "end": "18:00",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "18:00",
+              "end": "18:45",
+              "kind": "meal",
+              "title": "Dinner"
+            },
+            {
+              "start": "18:45",
+              "end": "19:30",
+              "kind": "routine",
+              "title": "Bath, books and bed"
+            }
+          ]
+        }
+      ],
+      "dropped": [
+        "[nap] event:museum:duke-gardens:17939 tip: says \"parking\", which isn't in the data: \"Parking often fills before 10 am, so come early.\"",
+        "[nap] alternative event:museum:duke-gardens:17939 says to sign up, but the event says no sign-up is needed: \"Story times start at 10:30 and 11:30 am in the Discovery Garden, with self-guided activities between. No sign-up needed.\"",
+        "[quiet] event:museum:duke-gardens:17939 tip: says \"parking\", which isn't in the data: \"Parking often fills before 10 am, so come early.\"",
+        "[quiet] alternative event:museum:duke-gardens:17939 says to sign up, but the event says no sign-up is needed: \"Story times at 10:30 and 11:30 am in the Discovery Garden, plus self-guided activities. No sign-up needed.\""
+      ]
+    }
+  ],
+  "checked": {
+    "at": "2026-11-07T11:04:04.373Z",
+    "forecast": "none",
+    "weather": null,
+    "hidden": []
+  }
+}

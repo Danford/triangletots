@@ -1,0 +1,1271 @@
+{
+  "date": "2026-11-10",
+  "band": "t3",
+  "versions": [
+    {
+      "at": "2026-11-06T20:44:17.619Z",
+      "reason": null,
+      "forecast": "nws",
+      "weather": {
+        "period": "Tuesday",
+        "tempF": 72,
+        "precipProbability": 0,
+        "shortForecast": "Sunny",
+        "hours": [
+          {
+            "t": "05:00",
+            "tempF": 44,
+            "pop": 0
+          },
+          {
+            "t": "06:00",
+            "tempF": 43,
+            "pop": 0
+          },
+          {
+            "t": "07:00",
+            "tempF": 44,
+            "pop": 0
+          },
+          {
+            "t": "08:00",
+            "tempF": 48,
+            "pop": 0
+          },
+          {
+            "t": "09:00",
+            "tempF": 53,
+            "pop": 0
+          },
+          {
+            "t": "10:00",
+            "tempF": 59,
+            "pop": 0
+          },
+          {
+            "t": "11:00",
+            "tempF": 64,
+            "pop": 0
+          },
+          {
+            "t": "12:00",
+            "tempF": 67,
+            "pop": 0
+          },
+          {
+            "t": "13:00",
+            "tempF": 70,
+            "pop": 0
+          },
+          {
+            "t": "14:00",
+            "tempF": 72,
+            "pop": 0
+          },
+          {
+            "t": "15:00",
+            "tempF": 72,
+            "pop": 0
+          },
+          {
+            "t": "16:00",
+            "tempF": 71,
+            "pop": 0
+          },
+          {
+            "t": "17:00",
+            "tempF": 68,
+            "pop": 0
+          },
+          {
+            "t": "18:00",
+            "tempF": 64,
+            "pop": 0
+          },
+          {
+            "t": "19:00",
+            "tempF": 60,
+            "pop": 0
+          },
+          {
+            "t": "20:00",
+            "tempF": 57,
+            "pop": 0
+          },
+          {
+            "t": "21:00",
+            "tempF": 55,
+            "pop": 0
+          },
+          {
+            "t": "22:00",
+            "tempF": 54,
+            "pop": 0
+          },
+          {
+            "t": "23:00",
+            "tempF": 53,
+            "pop": 0
+          }
+        ]
+      },
+      "plans": [
+        {
+          "nap": "nap",
+          "napLabel": "Nap, 1 to 2:30",
+          "headline": "Harvest hats, songs and stories at Laurel Hills",
+          "main": {
+            "ref": "place:laurel-hills-park",
+            "arrive": "10:00",
+            "leave": "11:30",
+            "why": "Your 3-year-old can burn off energy on the Laurel Hills Park playground, then join songs, stories and a harvest hat craft at Harvest Helpers. A family needs to sign up for it.",
+            "tips": [
+              "Sign up ahead of time, since Harvest Helpers needs registration.",
+              "Play first, then go in for the program with a calmer body.",
+              "Bring a snack for the car so lunch and nap go smoothly."
+            ],
+            "interests": [
+              "stories",
+              "art",
+              "music"
+            ],
+            "also": [
+              {
+                "ref": "event:reclink:LHCCHARVEST-001",
+                "source": {
+                  "kind": "event",
+                  "title": "Harvest Helpers",
+                  "start": "2026-11-10T10:30:00",
+                  "end": "2026-11-10T11:30:00",
+                  "venue": "Laurel Hills Community Center",
+                  "address": "3808 Edwards Mill Rd, Raleigh, NC 27612",
+                  "url": "https://ncraleighweb.myvscloud.com/webtrac/web/search.html?module=AR",
+                  "cost": "$8.00",
+                  "lat": 35.82986,
+                  "lon": -78.69733,
+                  "ages": "3-5.99",
+                  "registration": "https://ncraleighweb.myvscloud.com/webtrac/web/search.html?module=AR",
+                  "indoor": true,
+                  "area": "raleigh",
+                  "source": "reclink",
+                  "dropIn": false
+                }
+              }
+            ],
+            "area": "raleigh",
+            "outdoor": false,
+            "source": {
+              "kind": "park",
+              "title": "Laurel Hills Park",
+              "address": "3808 Edwards Mill Rd, Raleigh, NC 27612",
+              "lat": 35.82986,
+              "lon": -78.69733,
+              "url": "https://raleighnc.gov/parks-and-recreation/places/laurel-hills-park",
+              "amenities": [
+                "community-center",
+                "playground",
+                "picnic-shelter",
+                "courts",
+                "fields"
+              ],
+              "indoor": false,
+              "area": "raleigh",
+              "hours": null,
+              "cost": null
+            }
+          },
+          "alternatives": [
+            {
+              "ref": "event:raleigh:lake-lynn-loop-trail-kick",
+              "arrive": "14:50",
+              "leave": "16:50",
+              "why": "After nap, join the Lake Lynn Loop Trail Kick-off, then play at Lake Lynn Park.",
+              "tips": [
+                "Bring a snack for the walk.",
+                "Let your child lead the way and set the pace."
+              ],
+              "interests": [
+                "nature",
+                "movement"
+              ],
+              "also": [
+                {
+                  "ref": "place:lake-lynn-park",
+                  "source": {
+                    "kind": "park",
+                    "title": "Lake Lynn Park",
+                    "address": "7921 Ray Rd, Raleigh, NC 27613",
+                    "lat": 35.8881,
+                    "lon": -78.69884,
+                    "url": "https://raleighnc.gov/parks-and-recreation/places/lake-lynn-park",
+                    "amenities": [
+                      "community-center",
+                      "picnic-shelter",
+                      "courts",
+                      "fields",
+                      "playground"
+                    ],
+                    "indoor": false,
+                    "area": "north-raleigh",
+                    "hours": null,
+                    "cost": null
+                  }
+                }
+              ],
+              "area": "north-raleigh",
+              "outdoor": true,
+              "source": {
+                "kind": "event",
+                "title": "Lake Lynn Loop Trail Kick-off",
+                "start": "2026-11-10T15:00:00",
+                "end": "2026-11-10T16:00:00",
+                "venue": "Lake Lynn Loop",
+                "address": "7921 Ray Rd, Raleigh, NC 27613",
+                "url": "https://raleighnc.gov/parks-and-recreation/events/lake-lynn-loop-trail-kick",
+                "cost": "Free",
+                "lat": 35.8881,
+                "lon": -78.69884,
+                "ages": "All",
+                "registration": null,
+                "indoor": false,
+                "area": "north-raleigh",
+                "source": "raleigh",
+                "dropIn": false
+              }
+            },
+            {
+              "ref": "event:wake-parks:8358:2026-11-10",
+              "arrive": "09:00",
+              "leave": "11:00",
+              "why": "Read a picture book one page at a time on the self-guided StoryWalk at Beech Bluff County Park. The playground is close by for a run afterward.",
+              "tips": [
+                "Let your child be the one to find the next page.",
+                "Bring a snack for the playground."
+              ],
+              "interests": [
+                "stories",
+                "nature",
+                "movement"
+              ],
+              "also": [
+                {
+                  "ref": "place:beech-bluff-county-park",
+                  "source": {
+                    "kind": "park",
+                    "title": "Beech Bluff County Park",
+                    "address": "Beech Bluff Park Drive, Fuquay-Varina, NC",
+                    "lat": 35.58537279715877,
+                    "lon": -78.6793341971644,
+                    "url": "https://www.wake.gov/departments-government/parks-recreation-open-space/all-parks-trails/beech-bluff-county-park",
+                    "amenities": [
+                      "playground",
+                      "garden",
+                      "greenway",
+                      "restroom",
+                      "picnic-shelter"
+                    ],
+                    "indoor": false,
+                    "area": "south-wake",
+                    "hours": null,
+                    "cost": null
+                  }
+                }
+              ],
+              "area": "south-wake",
+              "outdoor": true,
+              "source": {
+                "kind": "event",
+                "title": "Beech Bluff County Park StoryWalk® 2026 (Self-Led)",
+                "start": "2026-11-10T08:00:00",
+                "end": "2026-11-10T17:30:00",
+                "venue": "Beech Bluff County Park",
+                "address": "Beech Bluff Park Drive, Fuquay-Varina, NC",
+                "url": "https://apm.activecommunities.com/wakeparks/Activity_Search/beech-bluff-county-park-storywalk-2026-self-led/8358?locale=en-US",
+                "cost": "Free",
+                "lat": 35.58537279715877,
+                "lon": -78.6793341971644,
+                "ages": null,
+                "registration": false,
+                "indoor": false,
+                "area": "south-wake",
+                "source": "wake-parks",
+                "dropIn": true
+              }
+            },
+            {
+              "ref": "place:rock-quarry-park",
+              "arrive": "09:30",
+              "leave": "12:00",
+              "why": "Play at Rock Quarry Park, then play with a parachute and tunnels at Total Tot Time at Edison Johnson Rec Ctr. A family needs to sign up for the program.",
+              "tips": [
+                "Sign up ahead of time, since Total Tot Time needs registration.",
+                "Bring water and a snack for after."
+              ],
+              "interests": [
+                "movement",
+                "music"
+              ],
+              "also": [
+                {
+                  "ref": "event:durham-rec:19599:2026-11-10",
+                  "source": {
+                    "kind": "event",
+                    "title": "Total Tot Time",
+                    "start": "2026-11-10T10:00:00",
+                    "end": "2026-11-10T12:00:00",
+                    "venue": "Edison Johnson Rec Ctr",
+                    "address": "W Murray Ave, Durham, NC",
+                    "url": "https://apm.activecommunities.com/dprplaymore/Activity_Search/total-tot-time/19599?locale=en-US",
+                    "cost": null,
+                    "lat": 36.0299,
+                    "lon": -78.9011,
+                    "ages": "0 - 6",
+                    "registration": "https://apm.activecommunities.com/dprplaymore/Activity_Search/total-tot-time/19599?locale=en-US",
+                    "indoor": true,
+                    "area": "durham",
+                    "source": "durham-rec",
+                    "dropIn": false
+                  }
+                }
+              ],
+              "area": "durham",
+              "outdoor": false,
+              "source": {
+                "kind": "park",
+                "title": "Rock Quarry Park",
+                "address": "701 Stadium Dr, Durham, NC",
+                "lat": 36.03166363636364,
+                "lon": -78.90176545454545,
+                "url": "https://www.dprplaymore.org/Facilities/Facility/Details/Rock-Quarry-Park-60",
+                "amenities": [
+                  "playground",
+                  "splashpad",
+                  "restroom",
+                  "greenway"
+                ],
+                "indoor": false,
+                "area": "durham",
+                "hours": null,
+                "cost": null
+              }
+            },
+            {
+              "ref": "place:clemmons-educational-state-forest",
+              "arrive": "09:30",
+              "leave": "11:30",
+              "why": "A forest morning on the greenway, looking for pinecones, leaves and acorns.",
+              "tips": [
+                "Bring a snack and a small bag for treasures.",
+                "Let your child choose which way to walk."
+              ],
+              "interests": [
+                "nature",
+                "movement"
+              ],
+              "also": [],
+              "area": "east-wake",
+              "outdoor": true,
+              "source": {
+                "kind": "park",
+                "title": "Clemmons Educational State Forest",
+                "address": "2256 Old U.S. Hwy 70, Clayton, NC",
+                "lat": 35.674152072557575,
+                "lon": -78.48905206181357,
+                "url": "https://www.ncesf.org/clemmons.html",
+                "amenities": [
+                  "picnic-shelter",
+                  "restroom",
+                  "greenway"
+                ],
+                "indoor": false,
+                "area": "east-wake",
+                "hours": null,
+                "cost": null
+              }
+            }
+          ],
+          "rainBackup": null,
+          "timeline": [
+            {
+              "start": "07:00",
+              "end": "07:30",
+              "kind": "meal",
+              "title": "Up and breakfast"
+            },
+            {
+              "start": "07:30",
+              "end": "09:20",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "09:20",
+              "end": "09:40",
+              "kind": "routine",
+              "title": "Get ready to go",
+              "detail": "Shoes on, diaper bag, water and a snack."
+            },
+            {
+              "start": "09:40",
+              "end": "10:00",
+              "kind": "travel",
+              "title": "Drive to Laurel Hills Park"
+            },
+            {
+              "start": "10:00",
+              "end": "10:20",
+              "kind": "outing",
+              "title": "Laurel Hills Park"
+            },
+            {
+              "start": "10:20",
+              "end": "10:30",
+              "kind": "travel",
+              "title": "Drive to Laurel Hills Community Center"
+            },
+            {
+              "start": "10:30",
+              "end": "11:30",
+              "kind": "outing",
+              "title": "Harvest Helpers"
+            },
+            {
+              "start": "11:30",
+              "end": "11:50",
+              "kind": "travel",
+              "title": "Drive home"
+            },
+            {
+              "start": "11:50",
+              "end": "12:15",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "12:15",
+              "end": "12:45",
+              "kind": "meal",
+              "title": "Lunch"
+            },
+            {
+              "start": "12:45",
+              "end": "13:00",
+              "kind": "quiet",
+              "title": "Wind down",
+              "detail": "A couple of books to settle."
+            },
+            {
+              "start": "13:00",
+              "end": "14:30",
+              "kind": "nap",
+              "title": "Nap"
+            },
+            {
+              "start": "14:30",
+              "end": "14:50",
+              "kind": "routine",
+              "title": "Up and a snack"
+            },
+            {
+              "start": "14:50",
+              "end": "18:30",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "18:30",
+              "end": "19:15",
+              "kind": "meal",
+              "title": "Dinner"
+            },
+            {
+              "start": "19:15",
+              "end": "20:00",
+              "kind": "routine",
+              "title": "Bath, books and bed"
+            }
+          ]
+        },
+        {
+          "nap": "quiet",
+          "napLabel": "Quiet time, no sleep",
+          "headline": "Forest walk and leaf collecting at Clemmons",
+          "main": {
+            "ref": "place:clemmons-educational-state-forest",
+            "arrive": "09:30",
+            "leave": "11:30",
+            "why": "Your 3-year-old can walk the greenway at Clemmons Educational State Forest, collecting pinecones, leaves and acorns.",
+            "tips": [
+              "Bring a small bag for treasures and a snack for a picnic stop.",
+              "Let your child choose which way to walk.",
+              "Leave by 11:30 so lunch and quiet time start on time."
+            ],
+            "interests": [
+              "nature",
+              "movement"
+            ],
+            "also": [],
+            "area": "east-wake",
+            "outdoor": true,
+            "source": {
+              "kind": "park",
+              "title": "Clemmons Educational State Forest",
+              "address": "2256 Old U.S. Hwy 70, Clayton, NC",
+              "lat": 35.674152072557575,
+              "lon": -78.48905206181357,
+              "url": "https://www.ncesf.org/clemmons.html",
+              "amenities": [
+                "picnic-shelter",
+                "restroom",
+                "greenway"
+              ],
+              "indoor": false,
+              "area": "east-wake",
+              "hours": null,
+              "cost": null
+            }
+          },
+          "alternatives": [
+            {
+              "ref": "place:laurel-hills-park",
+              "arrive": "10:00",
+              "leave": "11:30",
+              "why": "Playground time at Laurel Hills Park, then songs, stories and a harvest hat craft at Harvest Helpers. A family needs to sign up for it.",
+              "tips": [
+                "Sign up ahead of time, since Harvest Helpers needs registration.",
+                "Bring a snack for the car."
+              ],
+              "interests": [
+                "stories",
+                "art",
+                "music"
+              ],
+              "also": [
+                {
+                  "ref": "event:reclink:LHCCHARVEST-001",
+                  "source": {
+                    "kind": "event",
+                    "title": "Harvest Helpers",
+                    "start": "2026-11-10T10:30:00",
+                    "end": "2026-11-10T11:30:00",
+                    "venue": "Laurel Hills Community Center",
+                    "address": "3808 Edwards Mill Rd, Raleigh, NC 27612",
+                    "url": "https://ncraleighweb.myvscloud.com/webtrac/web/search.html?module=AR",
+                    "cost": "$8.00",
+                    "lat": 35.82986,
+                    "lon": -78.69733,
+                    "ages": "3-5.99",
+                    "registration": "https://ncraleighweb.myvscloud.com/webtrac/web/search.html?module=AR",
+                    "indoor": true,
+                    "area": "raleigh",
+                    "source": "reclink",
+                    "dropIn": false
+                  }
+                }
+              ],
+              "area": "raleigh",
+              "outdoor": false,
+              "source": {
+                "kind": "park",
+                "title": "Laurel Hills Park",
+                "address": "3808 Edwards Mill Rd, Raleigh, NC 27612",
+                "lat": 35.82986,
+                "lon": -78.69733,
+                "url": "https://raleighnc.gov/parks-and-recreation/places/laurel-hills-park",
+                "amenities": [
+                  "community-center",
+                  "playground",
+                  "picnic-shelter",
+                  "courts",
+                  "fields"
+                ],
+                "indoor": false,
+                "area": "raleigh",
+                "hours": null,
+                "cost": null
+              }
+            },
+            {
+              "ref": "place:lake-lynn-park",
+              "arrive": "14:30",
+              "leave": "16:00",
+              "why": "After quiet time, play at Lake Lynn Park, then join the Lake Lynn Loop Trail Kick-off.",
+              "tips": [
+                "Bring a snack for the walk.",
+                "Give a five-minute warning before the kick-off."
+              ],
+              "interests": [
+                "nature",
+                "movement"
+              ],
+              "also": [
+                {
+                  "ref": "event:raleigh:lake-lynn-loop-trail-kick",
+                  "source": {
+                    "kind": "event",
+                    "title": "Lake Lynn Loop Trail Kick-off",
+                    "start": "2026-11-10T15:00:00",
+                    "end": "2026-11-10T16:00:00",
+                    "venue": "Lake Lynn Loop",
+                    "address": "7921 Ray Rd, Raleigh, NC 27613",
+                    "url": "https://raleighnc.gov/parks-and-recreation/events/lake-lynn-loop-trail-kick",
+                    "cost": "Free",
+                    "lat": 35.8881,
+                    "lon": -78.69884,
+                    "ages": "All",
+                    "registration": null,
+                    "indoor": false,
+                    "area": "north-raleigh",
+                    "source": "raleigh",
+                    "dropIn": false
+                  }
+                }
+              ],
+              "area": "north-raleigh",
+              "outdoor": true,
+              "source": {
+                "kind": "park",
+                "title": "Lake Lynn Park",
+                "address": "7921 Ray Rd, Raleigh, NC 27613",
+                "lat": 35.8881,
+                "lon": -78.69884,
+                "url": "https://raleighnc.gov/parks-and-recreation/places/lake-lynn-park",
+                "amenities": [
+                  "community-center",
+                  "picnic-shelter",
+                  "courts",
+                  "fields",
+                  "playground"
+                ],
+                "indoor": false,
+                "area": "north-raleigh",
+                "hours": null,
+                "cost": null
+              }
+            },
+            {
+              "ref": "place:rock-quarry-park",
+              "arrive": "09:30",
+              "leave": "12:00",
+              "why": "Play at Rock Quarry Park, then play with a parachute and tunnels at Total Tot Time at Edison Johnson Rec Ctr. A family needs to sign up for the program.",
+              "tips": [
+                "Sign up ahead of time, since Total Tot Time needs registration.",
+                "Head home by noon so lunch and quiet time start on time."
+              ],
+              "interests": [
+                "movement",
+                "music"
+              ],
+              "also": [
+                {
+                  "ref": "event:durham-rec:19599:2026-11-10",
+                  "source": {
+                    "kind": "event",
+                    "title": "Total Tot Time",
+                    "start": "2026-11-10T10:00:00",
+                    "end": "2026-11-10T12:00:00",
+                    "venue": "Edison Johnson Rec Ctr",
+                    "address": "W Murray Ave, Durham, NC",
+                    "url": "https://apm.activecommunities.com/dprplaymore/Activity_Search/total-tot-time/19599?locale=en-US",
+                    "cost": null,
+                    "lat": 36.0299,
+                    "lon": -78.9011,
+                    "ages": "0 - 6",
+                    "registration": "https://apm.activecommunities.com/dprplaymore/Activity_Search/total-tot-time/19599?locale=en-US",
+                    "indoor": true,
+                    "area": "durham",
+                    "source": "durham-rec",
+                    "dropIn": false
+                  }
+                }
+              ],
+              "area": "durham",
+              "outdoor": false,
+              "source": {
+                "kind": "park",
+                "title": "Rock Quarry Park",
+                "address": "701 Stadium Dr, Durham, NC",
+                "lat": 36.03166363636364,
+                "lon": -78.90176545454545,
+                "url": "https://www.dprplaymore.org/Facilities/Facility/Details/Rock-Quarry-Park-60",
+                "amenities": [
+                  "playground",
+                  "splashpad",
+                  "restroom",
+                  "greenway"
+                ],
+                "indoor": false,
+                "area": "durham",
+                "hours": null,
+                "cost": null
+              }
+            },
+            {
+              "ref": "event:wake-parks:8358:2026-11-10",
+              "arrive": "09:00",
+              "leave": "11:00",
+              "why": "Read a picture book one page at a time on the self-guided StoryWalk at Beech Bluff County Park. The playground is close by for a run afterward.",
+              "tips": [
+                "Let your child be the one to find the next page.",
+                "Bring a snack for the playground."
+              ],
+              "interests": [
+                "stories",
+                "nature",
+                "movement"
+              ],
+              "also": [
+                {
+                  "ref": "place:beech-bluff-county-park",
+                  "source": {
+                    "kind": "park",
+                    "title": "Beech Bluff County Park",
+                    "address": "Beech Bluff Park Drive, Fuquay-Varina, NC",
+                    "lat": 35.58537279715877,
+                    "lon": -78.6793341971644,
+                    "url": "https://www.wake.gov/departments-government/parks-recreation-open-space/all-parks-trails/beech-bluff-county-park",
+                    "amenities": [
+                      "playground",
+                      "garden",
+                      "greenway",
+                      "restroom",
+                      "picnic-shelter"
+                    ],
+                    "indoor": false,
+                    "area": "south-wake",
+                    "hours": null,
+                    "cost": null
+                  }
+                }
+              ],
+              "area": "south-wake",
+              "outdoor": true,
+              "source": {
+                "kind": "event",
+                "title": "Beech Bluff County Park StoryWalk® 2026 (Self-Led)",
+                "start": "2026-11-10T08:00:00",
+                "end": "2026-11-10T17:30:00",
+                "venue": "Beech Bluff County Park",
+                "address": "Beech Bluff Park Drive, Fuquay-Varina, NC",
+                "url": "https://apm.activecommunities.com/wakeparks/Activity_Search/beech-bluff-county-park-storywalk-2026-self-led/8358?locale=en-US",
+                "cost": "Free",
+                "lat": 35.58537279715877,
+                "lon": -78.6793341971644,
+                "ages": null,
+                "registration": false,
+                "indoor": false,
+                "area": "south-wake",
+                "source": "wake-parks",
+                "dropIn": true
+              }
+            }
+          ],
+          "rainBackup": null,
+          "timeline": [
+            {
+              "start": "07:00",
+              "end": "07:30",
+              "kind": "meal",
+              "title": "Up and breakfast"
+            },
+            {
+              "start": "07:30",
+              "end": "08:50",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "08:50",
+              "end": "09:10",
+              "kind": "routine",
+              "title": "Get ready to go",
+              "detail": "Shoes on, diaper bag, water and a snack."
+            },
+            {
+              "start": "09:10",
+              "end": "09:30",
+              "kind": "travel",
+              "title": "Drive to Clemmons Educational State Forest"
+            },
+            {
+              "start": "09:30",
+              "end": "11:30",
+              "kind": "outing",
+              "title": "Clemmons Educational State Forest"
+            },
+            {
+              "start": "11:30",
+              "end": "11:50",
+              "kind": "travel",
+              "title": "Drive home"
+            },
+            {
+              "start": "11:50",
+              "end": "12:20",
+              "kind": "meal",
+              "title": "Lunch"
+            },
+            {
+              "start": "12:20",
+              "end": "13:00",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "13:00",
+              "end": "13:45",
+              "kind": "quiet",
+              "title": "Quiet time",
+              "detail": "Books or quiet play in their room."
+            },
+            {
+              "start": "13:45",
+              "end": "18:00",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "18:00",
+              "end": "18:45",
+              "kind": "meal",
+              "title": "Dinner"
+            },
+            {
+              "start": "18:45",
+              "end": "19:30",
+              "kind": "routine",
+              "title": "Bath, books and bed"
+            }
+          ]
+        },
+        {
+          "nap": "no-nap",
+          "napLabel": "No nap",
+          "headline": "Playground, then the Lake Lynn trail kick-off",
+          "main": {
+            "ref": "place:lake-lynn-park",
+            "arrive": "14:30",
+            "leave": "16:00",
+            "why": "Your 3-year-old can play at Lake Lynn Park first, then join the Lake Lynn Loop Trail Kick-off.",
+            "tips": [
+              "Bring a snack for the walk.",
+              "Give a five-minute warning before heading to the kick-off.",
+              "Let your child lead the way and set the pace."
+            ],
+            "interests": [
+              "nature",
+              "movement"
+            ],
+            "also": [
+              {
+                "ref": "event:raleigh:lake-lynn-loop-trail-kick",
+                "source": {
+                  "kind": "event",
+                  "title": "Lake Lynn Loop Trail Kick-off",
+                  "start": "2026-11-10T15:00:00",
+                  "end": "2026-11-10T16:00:00",
+                  "venue": "Lake Lynn Loop",
+                  "address": "7921 Ray Rd, Raleigh, NC 27613",
+                  "url": "https://raleighnc.gov/parks-and-recreation/events/lake-lynn-loop-trail-kick",
+                  "cost": "Free",
+                  "lat": 35.8881,
+                  "lon": -78.69884,
+                  "ages": "All",
+                  "registration": null,
+                  "indoor": false,
+                  "area": "north-raleigh",
+                  "source": "raleigh",
+                  "dropIn": false
+                }
+              }
+            ],
+            "area": "north-raleigh",
+            "outdoor": true,
+            "source": {
+              "kind": "park",
+              "title": "Lake Lynn Park",
+              "address": "7921 Ray Rd, Raleigh, NC 27613",
+              "lat": 35.8881,
+              "lon": -78.69884,
+              "url": "https://raleighnc.gov/parks-and-recreation/places/lake-lynn-park",
+              "amenities": [
+                "community-center",
+                "picnic-shelter",
+                "courts",
+                "fields",
+                "playground"
+              ],
+              "indoor": false,
+              "area": "north-raleigh",
+              "hours": null,
+              "cost": null
+            }
+          },
+          "alternatives": [
+            {
+              "ref": "place:clemmons-educational-state-forest",
+              "arrive": "09:30",
+              "leave": "12:00",
+              "why": "A forest morning on the greenway, looking for pinecones, leaves and acorns.",
+              "tips": [
+                "Bring a snack and a small bag for treasures.",
+                "Let your child choose which way to walk."
+              ],
+              "interests": [
+                "nature",
+                "movement"
+              ],
+              "also": [],
+              "area": "east-wake",
+              "outdoor": true,
+              "source": {
+                "kind": "park",
+                "title": "Clemmons Educational State Forest",
+                "address": "2256 Old U.S. Hwy 70, Clayton, NC",
+                "lat": 35.674152072557575,
+                "lon": -78.48905206181357,
+                "url": "https://www.ncesf.org/clemmons.html",
+                "amenities": [
+                  "picnic-shelter",
+                  "restroom",
+                  "greenway"
+                ],
+                "indoor": false,
+                "area": "east-wake",
+                "hours": null,
+                "cost": null
+              }
+            },
+            {
+              "ref": "place:rock-quarry-park",
+              "arrive": "09:30",
+              "leave": "12:00",
+              "why": "Play at Rock Quarry Park, then play with a parachute and tunnels at Total Tot Time at Edison Johnson Rec Ctr. A family needs to sign up for the program.",
+              "tips": [
+                "Sign up ahead of time, since Total Tot Time needs registration.",
+                "Bring water and a snack for after."
+              ],
+              "interests": [
+                "movement",
+                "music"
+              ],
+              "also": [
+                {
+                  "ref": "event:durham-rec:19599:2026-11-10",
+                  "source": {
+                    "kind": "event",
+                    "title": "Total Tot Time",
+                    "start": "2026-11-10T10:00:00",
+                    "end": "2026-11-10T12:00:00",
+                    "venue": "Edison Johnson Rec Ctr",
+                    "address": "W Murray Ave, Durham, NC",
+                    "url": "https://apm.activecommunities.com/dprplaymore/Activity_Search/total-tot-time/19599?locale=en-US",
+                    "cost": null,
+                    "lat": 36.0299,
+                    "lon": -78.9011,
+                    "ages": "0 - 6",
+                    "registration": "https://apm.activecommunities.com/dprplaymore/Activity_Search/total-tot-time/19599?locale=en-US",
+                    "indoor": true,
+                    "area": "durham",
+                    "source": "durham-rec",
+                    "dropIn": false
+                  }
+                }
+              ],
+              "area": "durham",
+              "outdoor": false,
+              "source": {
+                "kind": "park",
+                "title": "Rock Quarry Park",
+                "address": "701 Stadium Dr, Durham, NC",
+                "lat": 36.03166363636364,
+                "lon": -78.90176545454545,
+                "url": "https://www.dprplaymore.org/Facilities/Facility/Details/Rock-Quarry-Park-60",
+                "amenities": [
+                  "playground",
+                  "splashpad",
+                  "restroom",
+                  "greenway"
+                ],
+                "indoor": false,
+                "area": "durham",
+                "hours": null,
+                "cost": null
+              }
+            },
+            {
+              "ref": "place:laurel-hills-park",
+              "arrive": "10:00",
+              "leave": "11:30",
+              "why": "Playground time at Laurel Hills Park, then songs, stories and a harvest hat craft at Harvest Helpers. A family needs to sign up for it.",
+              "tips": [
+                "Sign up ahead of time, since Harvest Helpers needs registration.",
+                "Bring a snack for the car."
+              ],
+              "interests": [
+                "stories",
+                "art",
+                "music"
+              ],
+              "also": [
+                {
+                  "ref": "event:reclink:LHCCHARVEST-001",
+                  "source": {
+                    "kind": "event",
+                    "title": "Harvest Helpers",
+                    "start": "2026-11-10T10:30:00",
+                    "end": "2026-11-10T11:30:00",
+                    "venue": "Laurel Hills Community Center",
+                    "address": "3808 Edwards Mill Rd, Raleigh, NC 27612",
+                    "url": "https://ncraleighweb.myvscloud.com/webtrac/web/search.html?module=AR",
+                    "cost": "$8.00",
+                    "lat": 35.82986,
+                    "lon": -78.69733,
+                    "ages": "3-5.99",
+                    "registration": "https://ncraleighweb.myvscloud.com/webtrac/web/search.html?module=AR",
+                    "indoor": true,
+                    "area": "raleigh",
+                    "source": "reclink",
+                    "dropIn": false
+                  }
+                }
+              ],
+              "area": "raleigh",
+              "outdoor": false,
+              "source": {
+                "kind": "park",
+                "title": "Laurel Hills Park",
+                "address": "3808 Edwards Mill Rd, Raleigh, NC 27612",
+                "lat": 35.82986,
+                "lon": -78.69733,
+                "url": "https://raleighnc.gov/parks-and-recreation/places/laurel-hills-park",
+                "amenities": [
+                  "community-center",
+                  "playground",
+                  "picnic-shelter",
+                  "courts",
+                  "fields"
+                ],
+                "indoor": false,
+                "area": "raleigh",
+                "hours": null,
+                "cost": null
+              }
+            }
+          ],
+          "rainBackup": null,
+          "timeline": [
+            {
+              "start": "07:00",
+              "end": "07:30",
+              "kind": "meal",
+              "title": "Up and breakfast"
+            },
+            {
+              "start": "07:30",
+              "end": "11:45",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "11:45",
+              "end": "12:15",
+              "kind": "meal",
+              "title": "Lunch"
+            },
+            {
+              "start": "12:15",
+              "end": "13:50",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "13:50",
+              "end": "14:10",
+              "kind": "routine",
+              "title": "Get ready to go",
+              "detail": "Shoes on, diaper bag, water and a snack."
+            },
+            {
+              "start": "14:10",
+              "end": "14:30",
+              "kind": "travel",
+              "title": "Drive to Lake Lynn Park"
+            },
+            {
+              "start": "14:30",
+              "end": "14:50",
+              "kind": "outing",
+              "title": "Lake Lynn Park"
+            },
+            {
+              "start": "14:50",
+              "end": "15:00",
+              "kind": "travel",
+              "title": "Drive to Lake Lynn Loop"
+            },
+            {
+              "start": "15:00",
+              "end": "16:00",
+              "kind": "outing",
+              "title": "Lake Lynn Loop Trail Kick-off"
+            },
+            {
+              "start": "16:00",
+              "end": "16:20",
+              "kind": "travel",
+              "title": "Drive home"
+            },
+            {
+              "start": "16:20",
+              "end": "18:00",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "18:00",
+              "end": "18:45",
+              "kind": "meal",
+              "title": "Dinner"
+            },
+            {
+              "start": "18:45",
+              "end": "19:30",
+              "kind": "routine",
+              "title": "Bath, books and bed"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "checked": {
+    "at": "2026-11-07T11:04:04.076Z",
+    "forecast": "nws",
+    "weather": {
+      "period": "Tuesday",
+      "tempF": 71,
+      "precipProbability": 0,
+      "shortForecast": "Sunny",
+      "windMph": 7,
+      "windFrom": "NW",
+      "hours": [
+        {
+          "t": "05:00",
+          "tempF": 43,
+          "pop": 0,
+          "cloud": 1
+        },
+        {
+          "t": "06:00",
+          "tempF": 42,
+          "pop": 0,
+          "cloud": 3
+        },
+        {
+          "t": "07:00",
+          "tempF": 42,
+          "pop": 0,
+          "cloud": 4
+        },
+        {
+          "t": "08:00",
+          "tempF": 46,
+          "pop": 0,
+          "cloud": 4
+        },
+        {
+          "t": "09:00",
+          "tempF": 52,
+          "pop": 0,
+          "cloud": 4
+        },
+        {
+          "t": "10:00",
+          "tempF": 58,
+          "pop": 0,
+          "cloud": 4
+        },
+        {
+          "t": "11:00",
+          "tempF": 62,
+          "pop": 0,
+          "cloud": 6
+        },
+        {
+          "t": "12:00",
+          "tempF": 66,
+          "pop": 0,
+          "cloud": 8
+        },
+        {
+          "t": "13:00",
+          "tempF": 69,
+          "pop": 0,
+          "cloud": 10
+        },
+        {
+          "t": "14:00",
+          "tempF": 70,
+          "pop": 0,
+          "cloud": 13
+        },
+        {
+          "t": "15:00",
+          "tempF": 71,
+          "pop": 0,
+          "cloud": 16
+        },
+        {
+          "t": "16:00",
+          "tempF": 69,
+          "pop": 0,
+          "cloud": 19
+        },
+        {
+          "t": "17:00",
+          "tempF": 66,
+          "pop": 0,
+          "cloud": 23
+        },
+        {
+          "t": "18:00",
+          "tempF": 60,
+          "pop": 0,
+          "cloud": 26
+        },
+        {
+          "t": "19:00",
+          "tempF": 60,
+          "pop": 0,
+          "cloud": 30
+        },
+        {
+          "t": "20:00",
+          "tempF": 58,
+          "pop": 0,
+          "cloud": 30
+        },
+        {
+          "t": "21:00",
+          "tempF": 56,
+          "pop": 0,
+          "cloud": 30
+        },
+        {
+          "t": "22:00",
+          "tempF": 54,
+          "pop": 0,
+          "cloud": 30
+        },
+        {
+          "t": "23:00",
+          "tempF": 53,
+          "pop": 0,
+          "cloud": 30
+        }
+      ]
+    },
+    "hidden": []
+  }
+}

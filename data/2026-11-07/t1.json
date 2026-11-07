@@ -1,0 +1,1065 @@
+{
+  "date": "2026-11-07",
+  "band": "t1",
+  "versions": [
+    {
+      "at": "2026-11-06T20:41:47.381Z",
+      "reason": null,
+      "forecast": "nws",
+      "weather": {
+        "period": "Saturday",
+        "tempF": 62,
+        "precipProbability": 0,
+        "shortForecast": "Sunny",
+        "hours": [
+          {
+            "t": "05:00",
+            "tempF": 54,
+            "pop": 0
+          },
+          {
+            "t": "06:00",
+            "tempF": 52,
+            "pop": 0
+          },
+          {
+            "t": "07:00",
+            "tempF": 51,
+            "pop": 0
+          },
+          {
+            "t": "08:00",
+            "tempF": 52,
+            "pop": 0
+          },
+          {
+            "t": "09:00",
+            "tempF": 53,
+            "pop": 0
+          },
+          {
+            "t": "10:00",
+            "tempF": 54,
+            "pop": 0
+          },
+          {
+            "t": "11:00",
+            "tempF": 58,
+            "pop": 0
+          },
+          {
+            "t": "12:00",
+            "tempF": 60,
+            "pop": 0
+          },
+          {
+            "t": "13:00",
+            "tempF": 61,
+            "pop": 0
+          },
+          {
+            "t": "14:00",
+            "tempF": 62,
+            "pop": 0
+          },
+          {
+            "t": "15:00",
+            "tempF": 62,
+            "pop": 0
+          },
+          {
+            "t": "16:00",
+            "tempF": 61,
+            "pop": 0
+          },
+          {
+            "t": "17:00",
+            "tempF": 59,
+            "pop": 0
+          },
+          {
+            "t": "18:00",
+            "tempF": 54,
+            "pop": 0
+          },
+          {
+            "t": "19:00",
+            "tempF": 50,
+            "pop": 0
+          },
+          {
+            "t": "20:00",
+            "tempF": 50,
+            "pop": 0
+          },
+          {
+            "t": "21:00",
+            "tempF": 48,
+            "pop": 0
+          },
+          {
+            "t": "22:00",
+            "tempF": 48,
+            "pop": 0
+          },
+          {
+            "t": "23:00",
+            "tempF": 47,
+            "pop": 0
+          }
+        ]
+      },
+      "plans": [
+        {
+          "nap": "two-naps",
+          "napLabel": "Two naps",
+          "headline": "Wander through a garden full of fall mums",
+          "main": {
+            "ref": "event:museum:duke-gardens:17494",
+            "arrive": "11:00",
+            "leave": "12:40",
+            "why": "Your toddler can toddle past bursts of mum color at the Japanese Garden. Drop in and head out when the yawns start.",
+            "tips": [
+              "Let your child point at the colors and sniff gently. Keep little hands off the flowers.",
+              "Say goodbye to one last flower bed before you leave. It makes the exit easier."
+            ],
+            "interests": [
+              "nature",
+              "art"
+            ],
+            "also": [],
+            "area": "durham",
+            "outdoor": true,
+            "source": {
+              "kind": "event",
+              "title": "A Festival of Fabulous Mums",
+              "start": "2026-11-07T10:00:00",
+              "end": "2026-11-07T16:00:00",
+              "venue": "Sarah P. Duke Gardens",
+              "address": "420 Anderson Street, Durham, NC, 27708",
+              "url": "https://gardens.duke.edu/event/a-festival-of-fabulous-mums-5/",
+              "cost": "Free",
+              "lat": 36.0024,
+              "lon": -78.9328,
+              "ages": "Adult Programs Family programs Festival of Fabulous Mums",
+              "registration": false,
+              "indoor": false,
+              "area": "durham",
+              "source": "museum",
+              "dropIn": true
+            }
+          },
+          "alternatives": [
+            {
+              "ref": "place:pullen-park-amusements",
+              "arrive": "11:00",
+              "leave": "12:45",
+              "why": "Ride the carousel and the train, then burn off energy on the playground.",
+              "tips": [
+                "Do the rides first while your child is fresh, then the playground.",
+                "Bring a snack for the car so leaving the playground is easier."
+              ],
+              "interests": [
+                "vehicles",
+                "movement"
+              ],
+              "also": [],
+              "area": "raleigh",
+              "outdoor": true,
+              "source": {
+                "kind": "park",
+                "title": "Pullen Park Amusements",
+                "address": "410 Park Ave, Raleigh, NC 27606",
+                "lat": 35.7806,
+                "lon": -78.66396,
+                "url": "https://raleighnc.gov/parks-and-recreation/places/pullen-park-amusements",
+                "amenities": [
+                  "carousel",
+                  "boating",
+                  "train",
+                  "amusements",
+                  "courts",
+                  "playground",
+                  "picnic-shelter"
+                ],
+                "indoor": false,
+                "area": "raleigh",
+                "hours": {
+                  "mon": "10 a.m.–6 p.m.",
+                  "tue": "10 a.m.–6 p.m.",
+                  "wed": "10 a.m.–6 p.m.",
+                  "thu": "10 a.m.–6 p.m.",
+                  "fri": "10 a.m.–8 p.m.",
+                  "sat": "10 a.m.–8 p.m.",
+                  "sun": "10 a.m.–8 p.m."
+                },
+                "cost": null
+              }
+            },
+            {
+              "ref": "event:museum:durham-central-park:13372",
+              "arrive": "11:00",
+              "leave": "12:40",
+              "why": "Stroll through the Durham Farmer's Market for sights and smells, then play at Durham Central Park next door.",
+              "tips": [
+                "Keep a snack handy for the market so your child can munch while you look.",
+                "Walk to the park when your child gets restless."
+              ],
+              "interests": [
+                "nature",
+                "movement"
+              ],
+              "also": [
+                {
+                  "ref": "place:durham-central-park",
+                  "source": {
+                    "kind": "park",
+                    "title": "Durham Central Park",
+                    "address": "501 Foster St, Durham, NC",
+                    "lat": 36.0006525,
+                    "lon": -78.90071999999999,
+                    "url": "https://www.dprplaymore.org/Facilities/Facility/Details/Durham-Central-Park-18",
+                    "amenities": [
+                      "playground",
+                      "restroom",
+                      "greenway"
+                    ],
+                    "indoor": false,
+                    "area": "durham",
+                    "hours": null,
+                    "cost": null
+                  }
+                }
+              ],
+              "area": "durham",
+              "outdoor": true,
+              "source": {
+                "kind": "event",
+                "title": "Durham Farmer’ Market",
+                "start": "2026-11-07T08:00:00",
+                "end": "2026-11-07T12:00:00",
+                "venue": "Durham Central Park",
+                "address": "501 Foster Street, Durham, NC, 27701",
+                "url": "https://durhamcentralpark.org/upcoming-event/durham-farmer-market/2026-11-07/",
+                "cost": null,
+                "lat": 36.0008,
+                "lon": -78.9021,
+                "ages": null,
+                "registration": null,
+                "indoor": false,
+                "area": "durham",
+                "source": "museum",
+                "dropIn": true
+              }
+            },
+            {
+              "ref": "event:wake-parks:8358:2026-11-07",
+              "arrive": "11:00",
+              "leave": "12:30",
+              "why": "Walk the StoryWalk loop and read a page of the story at each stop. It is a self-guided walk with no sign-up.",
+              "tips": [
+                "Let your child lead the way and point at the pictures.",
+                "Bring a snack to eat when you finish the loop."
+              ],
+              "interests": [
+                "stories",
+                "nature"
+              ],
+              "also": [],
+              "area": "south-wake",
+              "outdoor": true,
+              "source": {
+                "kind": "event",
+                "title": "Beech Bluff County Park StoryWalk® 2026 (Self-Led)",
+                "start": "2026-11-07T08:00:00",
+                "end": "2026-11-07T17:30:00",
+                "venue": "Beech Bluff County Park",
+                "address": "Beech Bluff Park Drive, Fuquay-Varina, NC",
+                "url": "https://apm.activecommunities.com/wakeparks/Activity_Search/beech-bluff-county-park-storywalk-2026-self-led/8358?locale=en-US",
+                "cost": "Free",
+                "lat": 35.58537279715877,
+                "lon": -78.6793341971644,
+                "ages": null,
+                "registration": false,
+                "indoor": false,
+                "area": "south-wake",
+                "source": "wake-parks",
+                "dropIn": true
+              }
+            },
+            {
+              "ref": "event:libcal:durham-county-library:17562321",
+              "arrive": "10:50",
+              "leave": "12:30",
+              "why": "Family Fables has stories, action songs and finger plays, then Knightdale Station Park for a run. A family needs to sign up for the storytime.",
+              "tips": [
+                "Sit near the front so your child can see the finger plays.",
+                "Bring a snack for the park after storytime."
+              ],
+              "interests": [
+                "stories",
+                "music",
+                "movement"
+              ],
+              "also": [
+                {
+                  "ref": "place:knightdale-station-park",
+                  "source": {
+                    "kind": "park",
+                    "title": "Knightdale Station Park",
+                    "address": "810 North First Avenue, Knightdale, NC",
+                    "lat": 35.795776739559024,
+                    "lon": -78.47584503817626,
+                    "url": "https://www.knightdalenc.gov/knightdalestationpark",
+                    "amenities": [
+                      "playground",
+                      "picnic-shelter",
+                      "greenway"
+                    ],
+                    "indoor": false,
+                    "area": "east-wake",
+                    "hours": null,
+                    "cost": null
+                  }
+                }
+              ],
+              "area": "durham",
+              "outdoor": false,
+              "source": {
+                "kind": "event",
+                "title": "Family Fables (Storytime)",
+                "start": "2026-11-07T11:00:00",
+                "end": "2026-11-07T11:45:00",
+                "venue": "East Regional Library",
+                "address": "211 Lick Creek Lane, Durham, NC",
+                "url": "https://durhamcountylibrary.libcal.com/event/17562321",
+                "cost": "Free",
+                "lat": 35.8028243321954,
+                "lon": -78.487155767495,
+                "ages": "Baby, Elementary School, Kindergarten, Pre-School, Toddler",
+                "registration": "https://durhamcountylibrary.libcal.com/event/17562321",
+                "indoor": true,
+                "area": "durham",
+                "source": "libcal",
+                "dropIn": false
+              }
+            }
+          ],
+          "rainBackup": null,
+          "timeline": [
+            {
+              "start": "07:00",
+              "end": "07:30",
+              "kind": "meal",
+              "title": "Up and breakfast"
+            },
+            {
+              "start": "07:30",
+              "end": "09:30",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "09:30",
+              "end": "10:30",
+              "kind": "nap",
+              "title": "Nap"
+            },
+            {
+              "start": "10:30",
+              "end": "10:40",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "10:40",
+              "end": "11:00",
+              "kind": "travel",
+              "title": "Drive to Sarah P. Duke Gardens"
+            },
+            {
+              "start": "11:00",
+              "end": "12:40",
+              "kind": "outing",
+              "title": "Sarah P. Duke Gardens",
+              "detail": "Pack a lunch to eat there."
+            },
+            {
+              "start": "12:40",
+              "end": "13:00",
+              "kind": "travel",
+              "title": "Drive home"
+            },
+            {
+              "start": "13:00",
+              "end": "14:30",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "14:30",
+              "end": "15:30",
+              "kind": "nap",
+              "title": "Nap"
+            },
+            {
+              "start": "15:30",
+              "end": "15:50",
+              "kind": "routine",
+              "title": "Up and a snack"
+            },
+            {
+              "start": "15:50",
+              "end": "17:30",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "17:30",
+              "end": "18:15",
+              "kind": "meal",
+              "title": "Dinner"
+            },
+            {
+              "start": "18:15",
+              "end": "19:00",
+              "kind": "routine",
+              "title": "Bath, books and bed"
+            }
+          ]
+        },
+        {
+          "nap": "early-nap",
+          "napLabel": "One nap, 12 to 2",
+          "headline": "Climb, slide and run at a big playground",
+          "main": {
+            "ref": "place:gipson-play-plaza",
+            "arrive": "09:00",
+            "leave": "10:45",
+            "why": "Gipson Play Plaza is a big destination playground at Dix Park, with lots for a new walker to climb, slide and explore.",
+            "tips": [
+              "Bring a snack and water for a break halfway through.",
+              "Give a 10 minute warning, then walk to the car for a quiet ride before nap."
+            ],
+            "interests": [
+              "movement"
+            ],
+            "also": [],
+            "area": "raleigh",
+            "outdoor": true,
+            "source": {
+              "kind": "park",
+              "title": "Gipson Play Plaza at Dix Park",
+              "address": "715 Biggs Dr, Raleigh, NC 27603",
+              "lat": 35.7667,
+              "lon": -78.6539,
+              "url": "https://dixpark.org/gipson-play-plaza",
+              "amenities": [
+                "playground",
+                "restroom"
+              ],
+              "indoor": false,
+              "area": "raleigh",
+              "hours": {
+                "sun": "8 a.m.–9 p.m.",
+                "mon": "8 a.m.–9 p.m.",
+                "tue": "8 a.m.–9 p.m.",
+                "wed": "8 a.m.–9 p.m.",
+                "thu": "8 a.m.–9 p.m.",
+                "fri": "8 a.m.–9 p.m.",
+                "sat": "8 a.m.–9 p.m."
+              },
+              "cost": "Free",
+              "note": "Free; free parking. Big destination playground on the south edge of Dix Park."
+            }
+          },
+          "alternatives": [
+            {
+              "ref": "place:hemlock-bluffs",
+              "arrive": "09:00",
+              "leave": "10:45",
+              "why": "Take a woodsy walk on the trails and look for leaves, sticks and birds.",
+              "tips": [
+                "The trails have stairs, so a carrier works better than a stroller.",
+                "Bring a small bag for leaves and sticks to take home."
+              ],
+              "interests": [
+                "nature"
+              ],
+              "also": [],
+              "area": "cary-apex",
+              "outdoor": true,
+              "source": {
+                "kind": "park",
+                "title": "Hemlock Bluffs Nature Preserve",
+                "address": "2616 Kildaire Farm Rd, Cary, NC 27518",
+                "lat": 35.7253,
+                "lon": -78.7846,
+                "url": "https://www.carync.gov/recreation-enjoyment/parks-greenways-environment/parks/stevens-nature-center-at-hemlock-bluffs-nature-preserve",
+                "amenities": [
+                  "nature"
+                ],
+                "indoor": false,
+                "area": "cary-apex",
+                "hours": {
+                  "sun": "9 a.m. to sunset",
+                  "mon": "9 a.m. to sunset",
+                  "tue": "9 a.m. to sunset",
+                  "wed": "9 a.m. to sunset",
+                  "thu": "9 a.m. to sunset",
+                  "fri": "9 a.m. to sunset",
+                  "sat": "9 a.m. to sunset"
+                },
+                "cost": "Free",
+                "note": "Free. About three miles of mulched trails and boardwalks with stairs (a carrier beats a stroller); restrooms in the Stevens Nature Center, open Mon–Sat 10–5, Sun 1–5."
+              }
+            },
+            {
+              "ref": "event:wake-parks:8358:2026-11-07",
+              "arrive": "14:30",
+              "leave": "16:00",
+              "why": "Walk the StoryWalk loop and read a page of the story at each stop. It is self-guided and needs no sign-up.",
+              "tips": [
+                "Let your child set the pace and point at the pictures.",
+                "Bring a snack for after the loop."
+              ],
+              "interests": [
+                "stories",
+                "nature"
+              ],
+              "also": [],
+              "area": "south-wake",
+              "outdoor": true,
+              "source": {
+                "kind": "event",
+                "title": "Beech Bluff County Park StoryWalk® 2026 (Self-Led)",
+                "start": "2026-11-07T08:00:00",
+                "end": "2026-11-07T17:30:00",
+                "venue": "Beech Bluff County Park",
+                "address": "Beech Bluff Park Drive, Fuquay-Varina, NC",
+                "url": "https://apm.activecommunities.com/wakeparks/Activity_Search/beech-bluff-county-park-storywalk-2026-self-led/8358?locale=en-US",
+                "cost": "Free",
+                "lat": 35.58537279715877,
+                "lon": -78.6793341971644,
+                "ages": null,
+                "registration": false,
+                "indoor": false,
+                "area": "south-wake",
+                "source": "wake-parks",
+                "dropIn": true
+              }
+            },
+            {
+              "ref": "place:historic-oak-view-county-park",
+              "arrive": "14:30",
+              "leave": "16:00",
+              "why": "Historic Oak View has animals and a garden to explore on an easy afternoon.",
+              "tips": [
+                "Bring a snack to eat before you leave.",
+                "Let your child choose which way to wander."
+              ],
+              "interests": [
+                "animals",
+                "nature"
+              ],
+              "also": [],
+              "area": "raleigh",
+              "outdoor": true,
+              "source": {
+                "kind": "park",
+                "title": "Historic Oak View County Park",
+                "address": "4028 Carya Dr., Raleigh, NC  27610",
+                "lat": 35.76980126731367,
+                "lon": -78.57063248179927,
+                "url": "https://www.wakegov.com/departments-government/parks-recreation-and-open-space/all-parks-trails/historic-oak-view-county-park",
+                "amenities": [
+                  "picnic-shelter",
+                  "restroom",
+                  "greenway",
+                  "animals",
+                  "garden"
+                ],
+                "indoor": false,
+                "area": "raleigh",
+                "hours": null,
+                "cost": null
+              }
+            }
+          ],
+          "rainBackup": null,
+          "timeline": [
+            {
+              "start": "07:00",
+              "end": "07:30",
+              "kind": "meal",
+              "title": "Up and breakfast"
+            },
+            {
+              "start": "07:30",
+              "end": "08:20",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "08:20",
+              "end": "08:40",
+              "kind": "routine",
+              "title": "Get ready to go",
+              "detail": "Shoes on, diaper bag, water and a snack."
+            },
+            {
+              "start": "08:40",
+              "end": "09:00",
+              "kind": "travel",
+              "title": "Drive to Gipson Play Plaza at Dix Park"
+            },
+            {
+              "start": "09:00",
+              "end": "10:45",
+              "kind": "outing",
+              "title": "Gipson Play Plaza at Dix Park"
+            },
+            {
+              "start": "10:45",
+              "end": "11:05",
+              "kind": "travel",
+              "title": "Drive home"
+            },
+            {
+              "start": "11:05",
+              "end": "11:15",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "11:15",
+              "end": "11:45",
+              "kind": "meal",
+              "title": "Lunch"
+            },
+            {
+              "start": "11:45",
+              "end": "12:00",
+              "kind": "quiet",
+              "title": "Wind down",
+              "detail": "A couple of books to settle."
+            },
+            {
+              "start": "12:00",
+              "end": "14:00",
+              "kind": "nap",
+              "title": "Nap"
+            },
+            {
+              "start": "14:00",
+              "end": "14:20",
+              "kind": "routine",
+              "title": "Up and a snack"
+            },
+            {
+              "start": "14:20",
+              "end": "17:30",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "17:30",
+              "end": "18:15",
+              "kind": "meal",
+              "title": "Dinner"
+            },
+            {
+              "start": "18:15",
+              "end": "19:00",
+              "kind": "routine",
+              "title": "Bath, books and bed"
+            }
+          ]
+        },
+        {
+          "nap": "late-nap",
+          "napLabel": "One nap, 1 to 3",
+          "headline": "Walk by the lake and play at the park",
+          "main": {
+            "ref": "place:lake-benson-park",
+            "arrive": "09:30",
+            "leave": "11:20",
+            "why": "Lake Benson Park has a playground and a greenway by the water. Your toddler can play, then walk and look at the lake.",
+            "tips": [
+              "Play first, then walk toward the water when your child is ready to slow down.",
+              "Bring a snack and water for a break before you head home."
+            ],
+            "interests": [
+              "water",
+              "nature",
+              "movement"
+            ],
+            "also": [],
+            "area": "south-wake",
+            "outdoor": true,
+            "source": {
+              "kind": "park",
+              "title": "Lake Benson Park",
+              "address": "921 Buffaloe Road, Garner NC, 27529",
+              "lat": 35.67509092685942,
+              "lon": -78.62824702555534,
+              "url": "https://www.garnernc.gov/departments/parks-recreation-and-cultural-resources/garner-parks/lake-benson-park",
+              "amenities": [
+                "playground",
+                "picnic-shelter",
+                "restroom",
+                "greenway",
+                "boating"
+              ],
+              "indoor": false,
+              "area": "south-wake",
+              "hours": null,
+              "cost": null
+            }
+          },
+          "alternatives": [
+            {
+              "ref": "event:weekly:mols-early-childhood:2026-11-07",
+              "arrive": "10:00",
+              "leave": "11:30",
+              "why": "Early Childhood Drop-In in Hideaway Woods has play-based sensory fun, songs and stories. Drop in and stay as long as your child likes.",
+              "tips": [
+                "Bring a snack and water for a break.",
+                "Plan to leave while your child is still happy."
+              ],
+              "interests": [
+                "nature",
+                "music",
+                "stories"
+              ],
+              "also": [],
+              "area": "durham",
+              "outdoor": true,
+              "source": {
+                "kind": "event",
+                "title": "Early Childhood Drop-In",
+                "start": "2026-11-07T09:30:00",
+                "end": "2026-11-07T11:30:00",
+                "venue": "Hideaway Woods, Museum of Life and Science",
+                "address": "433 W Murray Ave, Durham, NC 27704",
+                "url": "https://www.lifeandscience.org/learn/drop-in-programs/",
+                "cost": "Included with museum admission",
+                "lat": 36.0294,
+                "lon": -78.8993,
+                "ages": "young children and their caregivers",
+                "registration": false,
+                "indoor": false,
+                "area": "durham",
+                "source": "weekly",
+                "dropIn": true
+              }
+            },
+            {
+              "ref": "place:pullen-park-amusements",
+              "arrive": "10:00",
+              "leave": "11:45",
+              "why": "Ride the carousel and the train, then play on the playground.",
+              "tips": [
+                "Do the rides first while your child is fresh.",
+                "Bring a snack for the car ride home."
+              ],
+              "interests": [
+                "vehicles",
+                "movement"
+              ],
+              "also": [],
+              "area": "raleigh",
+              "outdoor": true,
+              "source": {
+                "kind": "park",
+                "title": "Pullen Park Amusements",
+                "address": "410 Park Ave, Raleigh, NC 27606",
+                "lat": 35.7806,
+                "lon": -78.66396,
+                "url": "https://raleighnc.gov/parks-and-recreation/places/pullen-park-amusements",
+                "amenities": [
+                  "carousel",
+                  "boating",
+                  "train",
+                  "amusements",
+                  "courts",
+                  "playground",
+                  "picnic-shelter"
+                ],
+                "indoor": false,
+                "area": "raleigh",
+                "hours": {
+                  "mon": "10 a.m.–6 p.m.",
+                  "tue": "10 a.m.–6 p.m.",
+                  "wed": "10 a.m.–6 p.m.",
+                  "thu": "10 a.m.–6 p.m.",
+                  "fri": "10 a.m.–8 p.m.",
+                  "sat": "10 a.m.–8 p.m.",
+                  "sun": "10 a.m.–8 p.m."
+                },
+                "cost": null
+              }
+            },
+            {
+              "ref": "place:hemlock-bluffs",
+              "arrive": "09:30",
+              "leave": "11:15",
+              "why": "Take a woodsy walk on the trails and look for leaves, sticks and birds.",
+              "tips": [
+                "The trails have stairs, so a carrier works better than a stroller.",
+                "Bring a snack for the end of the walk."
+              ],
+              "interests": [
+                "nature"
+              ],
+              "also": [],
+              "area": "cary-apex",
+              "outdoor": true,
+              "source": {
+                "kind": "park",
+                "title": "Hemlock Bluffs Nature Preserve",
+                "address": "2616 Kildaire Farm Rd, Cary, NC 27518",
+                "lat": 35.7253,
+                "lon": -78.7846,
+                "url": "https://www.carync.gov/recreation-enjoyment/parks-greenways-environment/parks/stevens-nature-center-at-hemlock-bluffs-nature-preserve",
+                "amenities": [
+                  "nature"
+                ],
+                "indoor": false,
+                "area": "cary-apex",
+                "hours": {
+                  "sun": "9 a.m. to sunset",
+                  "mon": "9 a.m. to sunset",
+                  "tue": "9 a.m. to sunset",
+                  "wed": "9 a.m. to sunset",
+                  "thu": "9 a.m. to sunset",
+                  "fri": "9 a.m. to sunset",
+                  "sat": "9 a.m. to sunset"
+                },
+                "cost": "Free",
+                "note": "Free. About three miles of mulched trails and boardwalks with stairs (a carrier beats a stroller); restrooms in the Stevens Nature Center, open Mon–Sat 10–5, Sun 1–5."
+              }
+            }
+          ],
+          "rainBackup": null,
+          "timeline": [
+            {
+              "start": "07:00",
+              "end": "07:30",
+              "kind": "meal",
+              "title": "Up and breakfast"
+            },
+            {
+              "start": "07:30",
+              "end": "08:50",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "08:50",
+              "end": "09:10",
+              "kind": "routine",
+              "title": "Get ready to go",
+              "detail": "Shoes on, diaper bag, water and a snack."
+            },
+            {
+              "start": "09:10",
+              "end": "09:30",
+              "kind": "travel",
+              "title": "Drive to Lake Benson Park"
+            },
+            {
+              "start": "09:30",
+              "end": "11:20",
+              "kind": "outing",
+              "title": "Lake Benson Park"
+            },
+            {
+              "start": "11:20",
+              "end": "11:40",
+              "kind": "travel",
+              "title": "Drive home"
+            },
+            {
+              "start": "11:40",
+              "end": "12:15",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "12:15",
+              "end": "12:45",
+              "kind": "meal",
+              "title": "Lunch"
+            },
+            {
+              "start": "12:45",
+              "end": "13:00",
+              "kind": "quiet",
+              "title": "Wind down",
+              "detail": "A couple of books to settle."
+            },
+            {
+              "start": "13:00",
+              "end": "15:00",
+              "kind": "nap",
+              "title": "Nap"
+            },
+            {
+              "start": "15:00",
+              "end": "15:20",
+              "kind": "routine",
+              "title": "Up and a snack"
+            },
+            {
+              "start": "15:20",
+              "end": "18:00",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "18:00",
+              "end": "18:45",
+              "kind": "meal",
+              "title": "Dinner"
+            },
+            {
+              "start": "18:45",
+              "end": "19:30",
+              "kind": "routine",
+              "title": "Bath, books and bed"
+            }
+          ]
+        }
+      ],
+      "dropped": [
+        "[two-naps] event:museum:duke-gardens:17494 tip: says \"parking\", which isn't in the data: \"Bring a snack for the walk back to the car. Paid parking here often fills early on nice days.\"",
+        "[early-nap] event:museum:duke-gardens:17494 tip: says \"parking\", which isn't in the data: \"Paid parking here often fills early on nice days.\"",
+        "[early-nap] alternative event:museum:duke-gardens:17494 says to sign up, but the event says no sign-up is needed: \"Wander the Festival of Fabulous Mums at Duke Gardens. Your toddler can look at the big, bright flowers. No sign-up needed.\""
+      ]
+    }
+  ],
+  "checked": {
+    "at": "2026-11-07T11:04:04.005Z",
+    "forecast": "nws",
+    "weather": {
+      "period": "Today",
+      "tempF": 63,
+      "precipProbability": 0,
+      "shortForecast": "Sunny",
+      "windMph": 12,
+      "windFrom": "NW",
+      "hours": [
+        {
+          "t": "06:00",
+          "tempF": 51,
+          "pop": 0,
+          "cloud": 5
+        },
+        {
+          "t": "07:00",
+          "tempF": 50,
+          "pop": 0,
+          "cloud": 7
+        },
+        {
+          "t": "08:00",
+          "tempF": 51,
+          "pop": 0,
+          "cloud": 5
+        },
+        {
+          "t": "09:00",
+          "tempF": 53,
+          "pop": 0,
+          "cloud": 10
+        },
+        {
+          "t": "10:00",
+          "tempF": 55,
+          "pop": 0,
+          "cloud": 16
+        },
+        {
+          "t": "11:00",
+          "tempF": 58,
+          "pop": 0,
+          "cloud": 5
+        },
+        {
+          "t": "12:00",
+          "tempF": 60,
+          "pop": 0,
+          "cloud": 2
+        },
+        {
+          "t": "13:00",
+          "tempF": 60,
+          "pop": 0,
+          "cloud": 3
+        },
+        {
+          "t": "14:00",
+          "tempF": 62,
+          "pop": 0,
+          "cloud": 3
+        },
+        {
+          "t": "15:00",
+          "tempF": 61,
+          "pop": 0,
+          "cloud": 2
+        },
+        {
+          "t": "16:00",
+          "tempF": 61,
+          "pop": 0,
+          "cloud": 2
+        },
+        {
+          "t": "17:00",
+          "tempF": 59,
+          "pop": 0,
+          "cloud": 1
+        },
+        {
+          "t": "18:00",
+          "tempF": 54,
+          "pop": 0,
+          "cloud": 1
+        },
+        {
+          "t": "19:00",
+          "tempF": 50,
+          "pop": 0,
+          "cloud": 2
+        },
+        {
+          "t": "20:00",
+          "tempF": 50,
+          "pop": 0,
+          "cloud": 7
+        },
+        {
+          "t": "21:00",
+          "tempF": 48,
+          "pop": 0,
+          "cloud": 14
+        },
+        {
+          "t": "22:00",
+          "tempF": 48,
+          "pop": 0,
+          "cloud": 31
+        },
+        {
+          "t": "23:00",
+          "tempF": 46,
+          "pop": 0,
+          "cloud": 30
+        }
+      ]
+    },
+    "hidden": []
+  }
+}

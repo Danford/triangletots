@@ -1,0 +1,856 @@
+{
+  "date": "2026-11-19",
+  "band": "t4",
+  "versions": [
+    {
+      "at": "2026-11-06T11:05:19.941Z",
+      "reason": null,
+      "forecast": "none",
+      "weather": null,
+      "plans": [
+        {
+          "nap": "short-nap",
+          "napLabel": "Short nap, 1 to 2",
+          "headline": "A nature walk with a naturalist, then playground time",
+          "main": {
+            "ref": "event:cary-rec:ENVI0044-030",
+            "arrive": "09:50",
+            "leave": "11:50",
+            "also": [
+              {
+                "ref": "place:marla-dorrel-park",
+                "source": {
+                  "kind": "park",
+                  "title": "Marla Dorrel Park",
+                  "address": "111 Thurston Drive, Cary, NC",
+                  "lat": 35.74652368501479,
+                  "lon": -78.76244117163957,
+                  "url": "http://www.kidstogethercary.org/",
+                  "amenities": [
+                    "playground",
+                    "picnic-shelter",
+                    "restroom",
+                    "greenway"
+                  ],
+                  "indoor": false,
+                  "area": "cary-apex",
+                  "hours": null,
+                  "cost": null
+                }
+              }
+            ],
+            "why": "Squirrely Flyers is a one-hour nature program at Hemlock Bluffs for you and your preschooler. A family needs to sign up first. Afterward your child can run at Marla Dorrel Park.",
+            "tips": [
+              "Bring a snack for the park so the walk stays calm.",
+              "Tell your child the playground comes after the nature walk. It makes leaving the woods easier.",
+              "Eat lunch at home before the 1 pm nap."
+            ],
+            "interests": [
+              "nature",
+              "science",
+              "movement"
+            ],
+            "area": "cary-apex",
+            "outdoor": true,
+            "source": {
+              "kind": "event",
+              "title": "Squirrely Flyers",
+              "start": "2026-11-19T10:00:00",
+              "end": "2026-11-19T11:00:00",
+              "venue": "Hemlock Bluffs Nature Preserve",
+              "address": "2616 Kildaire Farm Road, Cary, NC",
+              "url": "https://nccaryweb.myvscloud.com/webtrac/web/search.html?module=AR",
+              "cost": "$8.00 resident / $10.00 non-resident",
+              "lat": 35.72308620195308,
+              "lon": -78.7831641933086,
+              "ages": "3-5 w/guardian",
+              "registration": "https://nccaryweb.myvscloud.com/webtrac/web/search.html?module=AR",
+              "indoor": false,
+              "area": "cary-apex",
+              "source": "cary-rec",
+              "dropIn": false
+            }
+          },
+          "alternatives": [
+            {
+              "ref": "event:museum:marbles:47420",
+              "arrive": "10:05",
+              "leave": "11:50",
+              "also": [
+                {
+                  "ref": "place:levelle-moton-park",
+                  "source": {
+                    "kind": "park",
+                    "title": "LeVelle Moton Park",
+                    "address": "920 E. Lane Street, Raleigh, NC 27601",
+                    "lat": 35.78316,
+                    "lon": -78.62606,
+                    "url": "https://raleighnc.gov/parks-and-recreation/places/levelle-moton-park",
+                    "amenities": [
+                      "picnic-shelter",
+                      "courts",
+                      "playground"
+                    ],
+                    "indoor": false,
+                    "area": "raleigh",
+                    "hours": null,
+                    "cost": null
+                  }
+                }
+              ],
+              "why": "Journey to Space 3D is a 45-minute IMAX film for ages 4 and up. Then your child can run off the sitting-still energy at LeVelle Moton Park.",
+              "tips": [
+                "Let your child pick out a space word to look for in the film.",
+                "Bring a snack for the park."
+              ],
+              "interests": [
+                "science",
+                "movement"
+              ],
+              "area": "raleigh",
+              "outdoor": false,
+              "source": {
+                "kind": "event",
+                "title": "Journey to Space 3D",
+                "start": "2026-11-19T10:15:00",
+                "end": "2026-11-19T11:00:00",
+                "venue": "Marbles Kids Museum",
+                "address": "201 E Hargett St, Raleigh, NC 27601",
+                "url": "https://marbleskidsmuseum.org/event/48527/",
+                "cost": null,
+                "lat": 35.7789,
+                "lon": -78.6361,
+                "ages": "IMAX film, 4 and up",
+                "registration": null,
+                "indoor": true,
+                "area": "raleigh",
+                "source": "museum",
+                "dropIn": false,
+                "film": true
+              }
+            },
+            {
+              "ref": "event:state-parks:54374512686025:54374512688074",
+              "arrive": "14:50",
+              "leave": "17:00",
+              "also": [],
+              "why": "A ranger leads a hike of about 1.5 miles to name tree species at Occoneechee Mountain. A family needs to sign up first.",
+              "tips": [
+                "Collect a leaf or two to match the trees you learn.",
+                "Bring water and a snack, and let your child set the pace."
+              ],
+              "interests": [
+                "nature",
+                "movement"
+              ],
+              "area": "chapel-hill",
+              "outdoor": true,
+              "source": {
+                "kind": "event",
+                "title": "Autumnal Tree ID",
+                "start": "2026-11-19T15:00:00-05:00",
+                "end": "2026-11-19T17:00:00-05:00",
+                "venue": "Occoneechee Mountain State Natural Area",
+                "address": "625 Virginia Cates Road, Hillsborough, NC",
+                "url": "https://events.dncr.nc.gov/event/autumnal-tree-id",
+                "cost": null,
+                "lat": 36.059593,
+                "lon": -79.113906,
+                "ages": null,
+                "registration": "https://events.dncr.nc.gov/event/autumnal-tree-id",
+                "indoor": false,
+                "area": "chapel-hill",
+                "source": "state-parks",
+                "dropIn": false
+              }
+            },
+            {
+              "ref": "place:harris-lake-county-park",
+              "arrive": "09:30",
+              "leave": "11:30",
+              "also": [],
+              "why": "A morning of playground time and nature at Harris Lake County Park in south Wake.",
+              "tips": [
+                "Bring a snack to eat at the picnic shelter.",
+                "Give a ten-minute warning before you head home."
+              ],
+              "interests": [
+                "nature",
+                "movement"
+              ],
+              "area": "south-wake",
+              "outdoor": true,
+              "source": {
+                "kind": "park",
+                "title": "Harris Lake County Park",
+                "address": "2112 County Park Dr., New Hill, NC  27562",
+                "lat": 35.63024208800726,
+                "lon": -78.91757987745865,
+                "url": "https://www.wakegov.com/departments-government/parks-recreation-and-open-space/all-parks-trails/harris-lake-county-park",
+                "amenities": [
+                  "playground",
+                  "picnic-shelter",
+                  "restroom",
+                  "greenway",
+                  "nature"
+                ],
+                "indoor": false,
+                "area": "south-wake",
+                "hours": null,
+                "cost": null
+              }
+            },
+            {
+              "ref": "event:reclink:AWNPEAGEXPLOR-180",
+              "arrive": "10:20",
+              "leave": "12:00",
+              "also": [],
+              "why": "Eager Explorers is a 90-minute preserve walk with stories, crafts and nature walks for a grown-up and a preschooler. A family needs to sign up first.",
+              "tips": [
+                "Bring water and a small snack.",
+                "Let your child lead the way on the walk."
+              ],
+              "interests": [
+                "nature",
+                "stories",
+                "art"
+              ],
+              "area": "north-raleigh",
+              "outdoor": true,
+              "source": {
+                "kind": "event",
+                "title": "Eager Explorers -- Big Rock Hike",
+                "start": "2026-11-19T10:30:00",
+                "end": "2026-11-19T12:00:00",
+                "venue": "A.L. Wilkerson Nature Preserve",
+                "address": "11408 Raven Ridge Rd, Raleigh, NC 27614",
+                "url": "https://ncraleighweb.myvscloud.com/webtrac/web/search.html?module=AR",
+                "cost": "$4.00",
+                "lat": 35.92369,
+                "lon": -78.59887,
+                "ages": "3-7.99",
+                "registration": "https://ncraleighweb.myvscloud.com/webtrac/web/search.html?module=AR",
+                "indoor": false,
+                "area": "north-raleigh",
+                "source": "reclink",
+                "dropIn": false
+              }
+            }
+          ],
+          "rainBackup": null,
+          "timeline": [
+            {
+              "start": "07:00",
+              "end": "07:30",
+              "kind": "meal",
+              "title": "Up and breakfast"
+            },
+            {
+              "start": "07:30",
+              "end": "09:10",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "09:10",
+              "end": "09:30",
+              "kind": "routine",
+              "title": "Get ready to go",
+              "detail": "Shoes on, diaper bag, water and a snack."
+            },
+            {
+              "start": "09:30",
+              "end": "09:50",
+              "kind": "travel",
+              "title": "Drive to Hemlock Bluffs Nature Preserve"
+            },
+            {
+              "start": "09:50",
+              "end": "11:00",
+              "kind": "outing",
+              "title": "Squirrely Flyers"
+            },
+            {
+              "start": "11:00",
+              "end": "11:10",
+              "kind": "travel",
+              "title": "Drive to Marla Dorrel Park"
+            },
+            {
+              "start": "11:10",
+              "end": "11:50",
+              "kind": "outing",
+              "title": "Marla Dorrel Park"
+            },
+            {
+              "start": "11:50",
+              "end": "12:15",
+              "kind": "travel",
+              "title": "Drive home"
+            },
+            {
+              "start": "12:15",
+              "end": "12:45",
+              "kind": "meal",
+              "title": "Lunch"
+            },
+            {
+              "start": "12:45",
+              "end": "13:00",
+              "kind": "quiet",
+              "title": "Wind down",
+              "detail": "A couple of books to settle."
+            },
+            {
+              "start": "13:00",
+              "end": "14:00",
+              "kind": "nap",
+              "title": "Nap"
+            },
+            {
+              "start": "14:00",
+              "end": "14:20",
+              "kind": "routine",
+              "title": "Up and a snack"
+            },
+            {
+              "start": "14:20",
+              "end": "18:30",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "18:30",
+              "end": "19:15",
+              "kind": "meal",
+              "title": "Dinner"
+            },
+            {
+              "start": "19:15",
+              "end": "20:00",
+              "kind": "routine",
+              "title": "Bath, books and bed"
+            }
+          ]
+        },
+        {
+          "nap": "quiet",
+          "napLabel": "Quiet time",
+          "headline": "Hike to the big rock with stories and crafts",
+          "main": {
+            "ref": "event:reclink:AWNPEAGEXPLOR-180",
+            "arrive": "10:20",
+            "leave": "12:00",
+            "also": [],
+            "why": "Eager Explorers is a 90-minute walk in A.L. Wilkerson Nature Preserve with stories, crafts and nature walks. It is made for a grown-up and a preschooler together, and a family needs to sign up first.",
+            "tips": [
+              "Bring water and a snack for halfway through.",
+              "Ask your child to spot the big rock first.",
+              "Head home for lunch and quiet time at 1 pm."
+            ],
+            "interests": [
+              "nature",
+              "stories",
+              "art"
+            ],
+            "area": "north-raleigh",
+            "outdoor": true,
+            "source": {
+              "kind": "event",
+              "title": "Eager Explorers -- Big Rock Hike",
+              "start": "2026-11-19T10:30:00",
+              "end": "2026-11-19T12:00:00",
+              "venue": "A.L. Wilkerson Nature Preserve",
+              "address": "11408 Raven Ridge Rd, Raleigh, NC 27614",
+              "url": "https://ncraleighweb.myvscloud.com/webtrac/web/search.html?module=AR",
+              "cost": "$4.00",
+              "lat": 35.92369,
+              "lon": -78.59887,
+              "ages": "3-7.99",
+              "registration": "https://ncraleighweb.myvscloud.com/webtrac/web/search.html?module=AR",
+              "indoor": false,
+              "area": "north-raleigh",
+              "source": "reclink",
+              "dropIn": false
+            }
+          },
+          "alternatives": [
+            {
+              "ref": "event:cary-rec:ENVI0044-030",
+              "arrive": "09:50",
+              "leave": "11:50",
+              "also": [
+                {
+                  "ref": "place:jack-smith-park",
+                  "source": {
+                    "kind": "park",
+                    "title": "Jack Smith Park",
+                    "address": "9725 Penny Road, Cary, NC",
+                    "lat": 35.71181466796333,
+                    "lon": -78.7659772347373,
+                    "url": "http://www.townofcary.org/recreation-enjoyment/parks-greenways-environment/parks/jack-smith-park",
+                    "amenities": [
+                      "playground",
+                      "picnic-shelter",
+                      "restroom",
+                      "greenway"
+                    ],
+                    "indoor": false,
+                    "area": "cary-apex",
+                    "hours": null,
+                    "cost": null
+                  }
+                }
+              ],
+              "why": "Squirrely Flyers is a one-hour nature program at Hemlock Bluffs for you and your preschooler. A family needs to sign up first. Then play at Jack Smith Park.",
+              "tips": [
+                "Bring a snack for after the program.",
+                "Tell your child the park comes next."
+              ],
+              "interests": [
+                "nature",
+                "science",
+                "movement"
+              ],
+              "area": "cary-apex",
+              "outdoor": true,
+              "source": {
+                "kind": "event",
+                "title": "Squirrely Flyers",
+                "start": "2026-11-19T10:00:00",
+                "end": "2026-11-19T11:00:00",
+                "venue": "Hemlock Bluffs Nature Preserve",
+                "address": "2616 Kildaire Farm Road, Cary, NC",
+                "url": "https://nccaryweb.myvscloud.com/webtrac/web/search.html?module=AR",
+                "cost": "$8.00 resident / $10.00 non-resident",
+                "lat": 35.72308620195308,
+                "lon": -78.7831641933086,
+                "ages": "3-5 w/guardian",
+                "registration": "https://nccaryweb.myvscloud.com/webtrac/web/search.html?module=AR",
+                "indoor": false,
+                "area": "cary-apex",
+                "source": "cary-rec",
+                "dropIn": false
+              }
+            },
+            {
+              "ref": "place:harris-lake-county-park",
+              "arrive": "09:30",
+              "leave": "11:30",
+              "also": [],
+              "why": "A morning of playground time and nature at Harris Lake County Park in south Wake.",
+              "tips": [
+                "Bring a snack to eat at the picnic shelter.",
+                "Give a ten-minute warning before you head home."
+              ],
+              "interests": [
+                "nature",
+                "movement"
+              ],
+              "area": "south-wake",
+              "outdoor": true,
+              "source": {
+                "kind": "park",
+                "title": "Harris Lake County Park",
+                "address": "2112 County Park Dr., New Hill, NC  27562",
+                "lat": 35.63024208800726,
+                "lon": -78.91757987745865,
+                "url": "https://www.wakegov.com/departments-government/parks-recreation-and-open-space/all-parks-trails/harris-lake-county-park",
+                "amenities": [
+                  "playground",
+                  "picnic-shelter",
+                  "restroom",
+                  "greenway",
+                  "nature"
+                ],
+                "indoor": false,
+                "area": "south-wake",
+                "hours": null,
+                "cost": null
+              }
+            },
+            {
+              "ref": "event:state-parks:54374512686025:54374512688074",
+              "arrive": "14:50",
+              "leave": "17:00",
+              "also": [],
+              "why": "A ranger leads a hike of about 1.5 miles to name tree species at Occoneechee Mountain. A family needs to sign up first.",
+              "tips": [
+                "Collect a leaf or two to match the trees you learn.",
+                "Bring water and a snack."
+              ],
+              "interests": [
+                "nature",
+                "movement"
+              ],
+              "area": "chapel-hill",
+              "outdoor": true,
+              "source": {
+                "kind": "event",
+                "title": "Autumnal Tree ID",
+                "start": "2026-11-19T15:00:00-05:00",
+                "end": "2026-11-19T17:00:00-05:00",
+                "venue": "Occoneechee Mountain State Natural Area",
+                "address": "625 Virginia Cates Road, Hillsborough, NC",
+                "url": "https://events.dncr.nc.gov/event/autumnal-tree-id",
+                "cost": null,
+                "lat": 36.059593,
+                "lon": -79.113906,
+                "ages": null,
+                "registration": "https://events.dncr.nc.gov/event/autumnal-tree-id",
+                "indoor": false,
+                "area": "chapel-hill",
+                "source": "state-parks",
+                "dropIn": false
+              }
+            }
+          ],
+          "rainBackup": null,
+          "timeline": [
+            {
+              "start": "07:00",
+              "end": "07:30",
+              "kind": "meal",
+              "title": "Up and breakfast"
+            },
+            {
+              "start": "07:30",
+              "end": "09:40",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "09:40",
+              "end": "10:00",
+              "kind": "routine",
+              "title": "Get ready to go",
+              "detail": "Shoes on, diaper bag, water and a snack."
+            },
+            {
+              "start": "10:00",
+              "end": "10:20",
+              "kind": "travel",
+              "title": "Drive to A.L. Wilkerson Nature Preserve"
+            },
+            {
+              "start": "10:20",
+              "end": "12:00",
+              "kind": "outing",
+              "title": "A.L. Wilkerson Nature Preserve"
+            },
+            {
+              "start": "12:00",
+              "end": "12:20",
+              "kind": "travel",
+              "title": "Drive home"
+            },
+            {
+              "start": "12:20",
+              "end": "12:50",
+              "kind": "meal",
+              "title": "Lunch"
+            },
+            {
+              "start": "12:50",
+              "end": "13:00",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "13:00",
+              "end": "13:45",
+              "kind": "quiet",
+              "title": "Quiet time",
+              "detail": "Books or quiet play in their room."
+            },
+            {
+              "start": "13:45",
+              "end": "18:00",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "18:00",
+              "end": "18:45",
+              "kind": "meal",
+              "title": "Dinner"
+            },
+            {
+              "start": "18:45",
+              "end": "19:30",
+              "kind": "routine",
+              "title": "Bath, books and bed"
+            }
+          ]
+        },
+        {
+          "nap": "no-nap",
+          "napLabel": "No nap",
+          "headline": "Wander garden paths and forest trails",
+          "main": {
+            "ref": "place:nc-botanical-garden",
+            "arrive": "09:30",
+            "leave": "11:45",
+            "also": [],
+            "why": "Your child can explore the display gardens, then follow the nature trails into the forest behind them.",
+            "tips": [
+              "Give your child a job, like finding three kinds of leaves.",
+              "Bring a snack for a rest break halfway through.",
+              "Pick a last favorite spot to visit so leaving feels easy."
+            ],
+            "interests": [
+              "nature",
+              "science",
+              "movement"
+            ],
+            "area": "chapel-hill",
+            "outdoor": true,
+            "source": {
+              "kind": "garden",
+              "title": "NC Botanical Garden",
+              "address": "100 Old Mason Farm Rd, Chapel Hill, NC 27517",
+              "lat": 35.9011,
+              "lon": -79.0319,
+              "url": "https://ncbg.unc.edu/visit/",
+              "amenities": [
+                "garden",
+                "nature",
+                "restroom"
+              ],
+              "indoor": false,
+              "area": "chapel-hill",
+              "cost": "Free",
+              "note": "Free. Display gardens, and nature trails through the forest behind them."
+            }
+          },
+          "alternatives": [
+            {
+              "ref": "event:museum:marbles:47420",
+              "arrive": "10:05",
+              "leave": "11:50",
+              "also": [
+                {
+                  "ref": "place:levelle-moton-park",
+                  "source": {
+                    "kind": "park",
+                    "title": "LeVelle Moton Park",
+                    "address": "920 E. Lane Street, Raleigh, NC 27601",
+                    "lat": 35.78316,
+                    "lon": -78.62606,
+                    "url": "https://raleighnc.gov/parks-and-recreation/places/levelle-moton-park",
+                    "amenities": [
+                      "picnic-shelter",
+                      "courts",
+                      "playground"
+                    ],
+                    "indoor": false,
+                    "area": "raleigh",
+                    "hours": null,
+                    "cost": null
+                  }
+                }
+              ],
+              "why": "Journey to Space 3D is a 45-minute IMAX film for ages 4 and up. Then your child can run at LeVelle Moton Park.",
+              "tips": [
+                "Bring a snack for the park.",
+                "Ask your child what they want to see in space."
+              ],
+              "interests": [
+                "science",
+                "movement"
+              ],
+              "area": "raleigh",
+              "outdoor": false,
+              "source": {
+                "kind": "event",
+                "title": "Journey to Space 3D",
+                "start": "2026-11-19T10:15:00",
+                "end": "2026-11-19T11:00:00",
+                "venue": "Marbles Kids Museum",
+                "address": "201 E Hargett St, Raleigh, NC 27601",
+                "url": "https://marbleskidsmuseum.org/event/48527/",
+                "cost": null,
+                "lat": 35.7789,
+                "lon": -78.6361,
+                "ages": "IMAX film, 4 and up",
+                "registration": null,
+                "indoor": true,
+                "area": "raleigh",
+                "source": "museum",
+                "dropIn": false,
+                "film": true
+              }
+            },
+            {
+              "ref": "event:cary-rec:ENVI0044-030",
+              "arrive": "09:50",
+              "leave": "11:50",
+              "also": [
+                {
+                  "ref": "place:penny-road-elementary-school-park",
+                  "source": {
+                    "kind": "park",
+                    "title": "Penny Road Elementary School Park",
+                    "address": "10900 Penny Rd, Cary, NC",
+                    "lat": 35.71531317393921,
+                    "lon": -78.79727879338287,
+                    "url": "http://www.wcpss.net/pennyroades",
+                    "amenities": [
+                      "playground",
+                      "picnic-shelter",
+                      "greenway"
+                    ],
+                    "indoor": false,
+                    "area": "cary-apex",
+                    "hours": null,
+                    "cost": null
+                  }
+                }
+              ],
+              "why": "Squirrely Flyers is a one-hour nature program at Hemlock Bluffs for you and your preschooler. A family needs to sign up first. Then play at Penny Road Elementary School Park.",
+              "tips": [
+                "Bring a snack for after the program.",
+                "Tell your child the playground comes next."
+              ],
+              "interests": [
+                "nature",
+                "science",
+                "movement"
+              ],
+              "area": "cary-apex",
+              "outdoor": true,
+              "source": {
+                "kind": "event",
+                "title": "Squirrely Flyers",
+                "start": "2026-11-19T10:00:00",
+                "end": "2026-11-19T11:00:00",
+                "venue": "Hemlock Bluffs Nature Preserve",
+                "address": "2616 Kildaire Farm Road, Cary, NC",
+                "url": "https://nccaryweb.myvscloud.com/webtrac/web/search.html?module=AR",
+                "cost": "$8.00 resident / $10.00 non-resident",
+                "lat": 35.72308620195308,
+                "lon": -78.7831641933086,
+                "ages": "3-5 w/guardian",
+                "registration": "https://nccaryweb.myvscloud.com/webtrac/web/search.html?module=AR",
+                "indoor": false,
+                "area": "cary-apex",
+                "source": "cary-rec",
+                "dropIn": false
+              }
+            },
+            {
+              "ref": "event:reclink:AWNPEAGEXPLOR-180",
+              "arrive": "10:20",
+              "leave": "12:00",
+              "also": [],
+              "why": "Eager Explorers is a 90-minute preserve walk with stories, crafts and nature walks for a grown-up and a preschooler. A family needs to sign up first.",
+              "tips": [
+                "Bring water and a snack.",
+                "Let your child lead the way on the walk."
+              ],
+              "interests": [
+                "nature",
+                "stories",
+                "art"
+              ],
+              "area": "north-raleigh",
+              "outdoor": true,
+              "source": {
+                "kind": "event",
+                "title": "Eager Explorers -- Big Rock Hike",
+                "start": "2026-11-19T10:30:00",
+                "end": "2026-11-19T12:00:00",
+                "venue": "A.L. Wilkerson Nature Preserve",
+                "address": "11408 Raven Ridge Rd, Raleigh, NC 27614",
+                "url": "https://ncraleighweb.myvscloud.com/webtrac/web/search.html?module=AR",
+                "cost": "$4.00",
+                "lat": 35.92369,
+                "lon": -78.59887,
+                "ages": "3-7.99",
+                "registration": "https://ncraleighweb.myvscloud.com/webtrac/web/search.html?module=AR",
+                "indoor": false,
+                "area": "north-raleigh",
+                "source": "reclink",
+                "dropIn": false
+              }
+            }
+          ],
+          "rainBackup": null,
+          "timeline": [
+            {
+              "start": "07:00",
+              "end": "07:30",
+              "kind": "meal",
+              "title": "Up and breakfast"
+            },
+            {
+              "start": "07:30",
+              "end": "08:50",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "08:50",
+              "end": "09:10",
+              "kind": "routine",
+              "title": "Get ready to go",
+              "detail": "Shoes on, diaper bag, water and a snack."
+            },
+            {
+              "start": "09:10",
+              "end": "09:30",
+              "kind": "travel",
+              "title": "Drive to NC Botanical Garden"
+            },
+            {
+              "start": "09:30",
+              "end": "11:45",
+              "kind": "outing",
+              "title": "NC Botanical Garden"
+            },
+            {
+              "start": "11:45",
+              "end": "12:05",
+              "kind": "travel",
+              "title": "Drive home"
+            },
+            {
+              "start": "12:05",
+              "end": "12:35",
+              "kind": "meal",
+              "title": "Lunch"
+            },
+            {
+              "start": "12:35",
+              "end": "18:00",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "18:00",
+              "end": "18:45",
+              "kind": "meal",
+              "title": "Dinner"
+            },
+            {
+              "start": "18:45",
+              "end": "19:30",
+              "kind": "routine",
+              "title": "Bath, books and bed"
+            }
+          ]
+        }
+      ],
+      "dropped": [
+        "[quiet] alternative event:libcal:durham-county-library:17189126 This Week In the Lab: Makey Makeys is for Adult, Elementary School, Emerging Adult: 18-24 Year Olds, High School, Intergenerational, Kindergarten, Middle School, Pre-School, Senior Citizen, Teen, Toddler, Tweens: 9-12 Year Olds, DPS",
+        "[no-nap] alternative event:libcal:durham-county-library:17189126 This Week In the Lab: Makey Makeys is for Adult, Elementary School, Emerging Adult: 18-24 Year Olds, High School, Intergenerational, Kindergarten, Middle School, Pre-School, Senior Citizen, Teen, Toddler, Tweens: 9-12 Year Olds, DPS"
+      ]
+    }
+  ],
+  "checked": {
+    "at": "2026-11-07T11:04:04.415Z",
+    "forecast": "none",
+    "weather": null,
+    "hidden": []
+  }
+}

@@ -1,0 +1,1188 @@
+{
+  "date": "2026-11-08",
+  "band": "t2",
+  "versions": [
+    {
+      "at": "2026-11-06T20:44:05.086Z",
+      "reason": null,
+      "forecast": "nws",
+      "weather": {
+        "period": "Sunday",
+        "tempF": 65,
+        "precipProbability": 0,
+        "shortForecast": "Sunny",
+        "hours": [
+          {
+            "t": "05:00",
+            "tempF": 42,
+            "pop": 0
+          },
+          {
+            "t": "06:00",
+            "tempF": 42,
+            "pop": 0
+          },
+          {
+            "t": "07:00",
+            "tempF": 40,
+            "pop": 0
+          },
+          {
+            "t": "08:00",
+            "tempF": 44,
+            "pop": 0
+          },
+          {
+            "t": "09:00",
+            "tempF": 48,
+            "pop": 0
+          },
+          {
+            "t": "10:00",
+            "tempF": 53,
+            "pop": 0
+          },
+          {
+            "t": "11:00",
+            "tempF": 57,
+            "pop": 0
+          },
+          {
+            "t": "12:00",
+            "tempF": 60,
+            "pop": 0
+          },
+          {
+            "t": "13:00",
+            "tempF": 63,
+            "pop": 0
+          },
+          {
+            "t": "14:00",
+            "tempF": 64,
+            "pop": 0
+          },
+          {
+            "t": "15:00",
+            "tempF": 65,
+            "pop": 0
+          },
+          {
+            "t": "16:00",
+            "tempF": 64,
+            "pop": 0
+          },
+          {
+            "t": "17:00",
+            "tempF": 61,
+            "pop": 0
+          },
+          {
+            "t": "18:00",
+            "tempF": 56,
+            "pop": 0
+          },
+          {
+            "t": "19:00",
+            "tempF": 52,
+            "pop": 0
+          },
+          {
+            "t": "20:00",
+            "tempF": 51,
+            "pop": 0
+          },
+          {
+            "t": "21:00",
+            "tempF": 50,
+            "pop": 0
+          },
+          {
+            "t": "22:00",
+            "tempF": 50,
+            "pop": 0
+          },
+          {
+            "t": "23:00",
+            "tempF": 49,
+            "pop": 0
+          }
+        ]
+      },
+      "plans": [
+        {
+          "nap": "early-nap",
+          "napLabel": "One nap, 12 to 2",
+          "headline": "See Peter Rabbit, then play at the park",
+          "main": {
+            "ref": "event:dix-park:/event/theater-greenway:2026-11-08",
+            "also": [
+              {
+                "ref": "place:caraleigh-park",
+                "source": {
+                  "kind": "park",
+                  "title": "Caraleigh Park",
+                  "address": "110 Maywood Avenue, Raleigh, NC 27603",
+                  "lat": 35.76111,
+                  "lon": -78.64622,
+                  "url": "https://raleighnc.gov/parks-and-recreation/places/caraleigh-park",
+                  "amenities": [
+                    "playground"
+                  ],
+                  "indoor": false,
+                  "area": "raleigh",
+                  "hours": null,
+                  "cost": null
+                }
+              }
+            ],
+            "arrive": "14:20",
+            "leave": "16:30",
+            "why": "Peter Rabbit and friends come to the Theater on the Greenway at Dix Park, a story your 2-year-old can watch from a lap. Then run and climb at the Caraleigh Park playground.",
+            "tips": [
+              "Drop in and watch as long as your child is happy, then move on.",
+              "Pack a snack for the playground after the show.",
+              "Say the swings are next, then head to the car at 4:30 pm."
+            ],
+            "interests": [
+              "stories",
+              "movement"
+            ],
+            "area": "raleigh",
+            "outdoor": true,
+            "source": {
+              "kind": "event",
+              "title": "Theater on the Greenway",
+              "start": "2026-11-08T14:00:00",
+              "end": "2026-11-08T17:00:00",
+              "venue": "Dix Park",
+              "address": "1030 Richardson Dr, Raleigh, NC 27603",
+              "url": "https://dixpark.org/event/theater-greenway",
+              "cost": null,
+              "lat": 35.7701,
+              "lon": -78.6568,
+              "ages": null,
+              "registration": null,
+              "indoor": false,
+              "area": "raleigh",
+              "source": "dix-park",
+              "dropIn": true
+            }
+          },
+          "alternatives": [
+            {
+              "ref": "event:weekly:mols-early-childhood:2026-11-08",
+              "arrive": "09:30",
+              "leave": "11:20",
+              "why": "Sensory play, songs and stories for young children and their grown-ups in Hideaway Woods. Drop in and stay as long as your 2-year-old likes.",
+              "tips": [
+                "Museum admission is free for children under 3, per the museum's ticket info.",
+                "Bring a snack for after the play.",
+                "Say it is almost time to go 10 minutes before you leave."
+              ],
+              "interests": [
+                "science",
+                "music",
+                "stories"
+              ],
+              "also": [],
+              "area": "durham",
+              "outdoor": true,
+              "source": {
+                "kind": "event",
+                "title": "Early Childhood Drop-In",
+                "start": "2026-11-08T09:30:00",
+                "end": "2026-11-08T11:30:00",
+                "venue": "Hideaway Woods, Museum of Life and Science",
+                "address": "433 W Murray Ave, Durham, NC 27704",
+                "url": "https://www.lifeandscience.org/learn/drop-in-programs/",
+                "cost": "Included with museum admission",
+                "lat": 36.0294,
+                "lon": -78.8993,
+                "ages": "young children and their caregivers",
+                "registration": false,
+                "indoor": false,
+                "area": "durham",
+                "source": "weekly",
+                "dropIn": true
+              }
+            },
+            {
+              "ref": "event:wake-parks:8358:2026-11-08",
+              "also": [
+                {
+                  "ref": "place:beech-bluff-county-park",
+                  "source": {
+                    "kind": "park",
+                    "title": "Beech Bluff County Park",
+                    "address": "Beech Bluff Park Drive, Fuquay-Varina, NC",
+                    "lat": 35.58537279715877,
+                    "lon": -78.6793341971644,
+                    "url": "https://www.wake.gov/departments-government/parks-recreation-open-space/all-parks-trails/beech-bluff-county-park",
+                    "amenities": [
+                      "playground",
+                      "garden",
+                      "greenway",
+                      "restroom",
+                      "picnic-shelter"
+                    ],
+                    "indoor": false,
+                    "area": "south-wake",
+                    "hours": null,
+                    "cost": null
+                  }
+                }
+              ],
+              "arrive": "09:00",
+              "leave": "10:45",
+              "why": "Read a picture book one page at a time along the Educational Loop. Then your child can play on the park playground.",
+              "tips": [
+                "Let your child run ahead to find the next page.",
+                "Read each page aloud in a silly voice.",
+                "Pack a snack for the playground."
+              ],
+              "interests": [
+                "stories",
+                "nature",
+                "movement"
+              ],
+              "area": "south-wake",
+              "outdoor": true,
+              "source": {
+                "kind": "event",
+                "title": "Beech Bluff County Park StoryWalk® 2026 (Self-Led)",
+                "start": "2026-11-08T08:00:00",
+                "end": "2026-11-08T17:30:00",
+                "venue": "Beech Bluff County Park",
+                "address": "Beech Bluff Park Drive, Fuquay-Varina, NC",
+                "url": "https://apm.activecommunities.com/wakeparks/Activity_Search/beech-bluff-county-park-storywalk-2026-self-led/8358?locale=en-US",
+                "cost": "Free",
+                "lat": 35.58537279715877,
+                "lon": -78.6793341971644,
+                "ages": null,
+                "registration": false,
+                "indoor": false,
+                "area": "south-wake",
+                "source": "wake-parks",
+                "dropIn": true
+              }
+            },
+            {
+              "ref": "place:apex-nature-park",
+              "arrive": "09:30",
+              "leave": "11:00",
+              "why": "A morning of woods and greenway walking for your 2-year-old, with a picnic shelter for a snack.",
+              "tips": [
+                "Let your child lead and stop to look at leaves and sticks.",
+                "Bring a snack for the picnic shelter.",
+                "Tell your child the last stop is the shelter, then head to the car."
+              ],
+              "interests": [
+                "nature",
+                "movement"
+              ],
+              "also": [],
+              "area": "cary-apex",
+              "outdoor": true,
+              "source": {
+                "kind": "park",
+                "title": "Apex Nature Park",
+                "address": "2600 Evans Rd., Apex, NC",
+                "lat": 35.71709646233568,
+                "lon": -78.90520368087866,
+                "url": "https://www.apexnc.org/800/Nature-Park-Seymour-Athletic-Fields",
+                "amenities": [
+                  "picnic-shelter",
+                  "restroom",
+                  "greenway",
+                  "nature"
+                ],
+                "indoor": false,
+                "area": "cary-apex",
+                "hours": null,
+                "cost": null
+              }
+            },
+            {
+              "ref": "event:museum:durham-central-park:13905",
+              "also": [
+                {
+                  "ref": "place:durham-central-park",
+                  "source": {
+                    "kind": "park",
+                    "title": "Durham Central Park",
+                    "address": "501 Foster St, Durham, NC",
+                    "lat": 36.0006525,
+                    "lon": -78.90071999999999,
+                    "url": "https://www.dprplaymore.org/Facilities/Facility/Details/Durham-Central-Park-18",
+                    "amenities": [
+                      "playground",
+                      "restroom",
+                      "greenway"
+                    ],
+                    "indoor": false,
+                    "area": "durham",
+                    "hours": null,
+                    "cost": null
+                  }
+                }
+              ],
+              "arrive": "14:20",
+              "leave": "16:00",
+              "why": "Stop by National Pupusa Day, a food festival at Durham Central Park, then play at the park playground next door.",
+              "tips": [
+                "Eat a little at the festival so your child is not hungry.",
+                "Save the playground for after the food.",
+                "Give a short warning before you leave the playground."
+              ],
+              "interests": [
+                "movement"
+              ],
+              "area": "durham",
+              "outdoor": true,
+              "source": {
+                "kind": "event",
+                "title": "National Pupusa Day",
+                "start": "2026-11-08T12:00:00",
+                "end": "2026-11-08T16:00:00",
+                "venue": "Durham Central Park",
+                "address": "501 Foster Street, Durham, NC, 27701",
+                "url": "https://durhamcentralpark.org/upcoming-event/national-pupusa-day-3/",
+                "cost": null,
+                "lat": 36.0008,
+                "lon": -78.9021,
+                "ages": null,
+                "registration": null,
+                "indoor": false,
+                "area": "durham",
+                "source": "museum",
+                "dropIn": true
+              }
+            }
+          ],
+          "rainBackup": null,
+          "timeline": [
+            {
+              "start": "07:00",
+              "end": "07:30",
+              "kind": "meal",
+              "title": "Up and breakfast"
+            },
+            {
+              "start": "07:30",
+              "end": "11:15",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "11:15",
+              "end": "11:45",
+              "kind": "meal",
+              "title": "Lunch"
+            },
+            {
+              "start": "11:45",
+              "end": "12:00",
+              "kind": "quiet",
+              "title": "Wind down",
+              "detail": "A couple of books to settle."
+            },
+            {
+              "start": "12:00",
+              "end": "14:00",
+              "kind": "nap",
+              "title": "Nap"
+            },
+            {
+              "start": "14:00",
+              "end": "14:20",
+              "kind": "travel",
+              "title": "Drive to Dix Park"
+            },
+            {
+              "start": "14:20",
+              "end": "16:30",
+              "kind": "outing",
+              "title": "Dix Park"
+            },
+            {
+              "start": "16:30",
+              "end": "16:50",
+              "kind": "travel",
+              "title": "Drive home"
+            },
+            {
+              "start": "16:50",
+              "end": "18:00",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "18:00",
+              "end": "18:45",
+              "kind": "meal",
+              "title": "Dinner"
+            },
+            {
+              "start": "18:45",
+              "end": "19:30",
+              "kind": "routine",
+              "title": "Bath, books and bed"
+            }
+          ]
+        },
+        {
+          "nap": "late-nap",
+          "napLabel": "One nap, 1 to 3",
+          "headline": "Explore the woods and greenway at Apex Nature Park",
+          "main": {
+            "ref": "place:apex-nature-park",
+            "arrive": "09:30",
+            "leave": "11:30",
+            "why": "Your 2-year-old can explore the nature park and greenway at their own pace, then have a snack at the picnic shelter.",
+            "tips": [
+              "Let your child lead and stop to look at leaves and sticks.",
+              "Bring a snack for the picnic shelter.",
+              "Tell your child the shelter is the last stop, then walk to the car."
+            ],
+            "interests": [
+              "nature",
+              "movement"
+            ],
+            "also": [],
+            "area": "cary-apex",
+            "outdoor": true,
+            "source": {
+              "kind": "park",
+              "title": "Apex Nature Park",
+              "address": "2600 Evans Rd., Apex, NC",
+              "lat": 35.71709646233568,
+              "lon": -78.90520368087866,
+              "url": "https://www.apexnc.org/800/Nature-Park-Seymour-Athletic-Fields",
+              "amenities": [
+                "picnic-shelter",
+                "restroom",
+                "greenway",
+                "nature"
+              ],
+              "indoor": false,
+              "area": "cary-apex",
+              "hours": null,
+              "cost": null
+            }
+          },
+          "alternatives": [
+            {
+              "ref": "event:weekly:mols-early-childhood:2026-11-08",
+              "arrive": "09:30",
+              "leave": "11:30",
+              "why": "Sensory play, songs and stories in Hideaway Woods for young children and their grown-ups. Drop in and stay as long as your 2-year-old likes.",
+              "tips": [
+                "Museum admission is free for children under 3, per the museum's ticket info.",
+                "Bring a snack for after the play.",
+                "Warn your child 10 minutes before you leave."
+              ],
+              "interests": [
+                "science",
+                "music",
+                "stories"
+              ],
+              "also": [],
+              "area": "durham",
+              "outdoor": true,
+              "source": {
+                "kind": "event",
+                "title": "Early Childhood Drop-In",
+                "start": "2026-11-08T09:30:00",
+                "end": "2026-11-08T11:30:00",
+                "venue": "Hideaway Woods, Museum of Life and Science",
+                "address": "433 W Murray Ave, Durham, NC 27704",
+                "url": "https://www.lifeandscience.org/learn/drop-in-programs/",
+                "cost": "Included with museum admission",
+                "lat": 36.0294,
+                "lon": -78.8993,
+                "ages": "young children and their caregivers",
+                "registration": false,
+                "indoor": false,
+                "area": "durham",
+                "source": "weekly",
+                "dropIn": true
+              }
+            },
+            {
+              "ref": "place:nc-botanical-garden",
+              "arrive": "10:00",
+              "leave": "12:00",
+              "why": "Free display gardens, and nature trails through the forest behind them. Your 2-year-old can walk and look at plants.",
+              "tips": [
+                "Start in the display gardens and save the forest trails for later.",
+                "Bring a snack and water.",
+                "Name a last plant to visit, then head to the car."
+              ],
+              "interests": [
+                "nature",
+                "art"
+              ],
+              "also": [],
+              "area": "chapel-hill",
+              "outdoor": true,
+              "source": {
+                "kind": "garden",
+                "title": "NC Botanical Garden",
+                "address": "100 Old Mason Farm Rd, Chapel Hill, NC 27517",
+                "lat": 35.9011,
+                "lon": -79.0319,
+                "url": "https://ncbg.unc.edu/visit/",
+                "amenities": [
+                  "garden",
+                  "nature",
+                  "restroom"
+                ],
+                "indoor": false,
+                "area": "chapel-hill",
+                "cost": "Free",
+                "note": "Free. Display gardens, and nature trails through the forest behind them."
+              }
+            },
+            {
+              "ref": "event:wake-parks:8358:2026-11-08",
+              "also": [
+                {
+                  "ref": "place:beech-bluff-county-park",
+                  "source": {
+                    "kind": "park",
+                    "title": "Beech Bluff County Park",
+                    "address": "Beech Bluff Park Drive, Fuquay-Varina, NC",
+                    "lat": 35.58537279715877,
+                    "lon": -78.6793341971644,
+                    "url": "https://www.wake.gov/departments-government/parks-recreation-open-space/all-parks-trails/beech-bluff-county-park",
+                    "amenities": [
+                      "playground",
+                      "garden",
+                      "greenway",
+                      "restroom",
+                      "picnic-shelter"
+                    ],
+                    "indoor": false,
+                    "area": "south-wake",
+                    "hours": null,
+                    "cost": null
+                  }
+                }
+              ],
+              "arrive": "09:00",
+              "leave": "11:00",
+              "why": "Follow the StoryWalk along the Educational Loop, reading a page at each stop. Then play at the park playground.",
+              "tips": [
+                "Let your child lead the way to the next page.",
+                "Bring a snack for the playground.",
+                "Read the last page together, then say it is time for the car."
+              ],
+              "interests": [
+                "stories",
+                "nature",
+                "movement"
+              ],
+              "area": "south-wake",
+              "outdoor": true,
+              "source": {
+                "kind": "event",
+                "title": "Beech Bluff County Park StoryWalk® 2026 (Self-Led)",
+                "start": "2026-11-08T08:00:00",
+                "end": "2026-11-08T17:30:00",
+                "venue": "Beech Bluff County Park",
+                "address": "Beech Bluff Park Drive, Fuquay-Varina, NC",
+                "url": "https://apm.activecommunities.com/wakeparks/Activity_Search/beech-bluff-county-park-storywalk-2026-self-led/8358?locale=en-US",
+                "cost": "Free",
+                "lat": 35.58537279715877,
+                "lon": -78.6793341971644,
+                "ages": null,
+                "registration": false,
+                "indoor": false,
+                "area": "south-wake",
+                "source": "wake-parks",
+                "dropIn": true
+              }
+            },
+            {
+              "ref": "event:dix-park:/event/theater-greenway:2026-11-08",
+              "arrive": "15:20",
+              "leave": "16:50",
+              "why": "Peter Rabbit and friends come to the Theater on the Greenway at Dix Park. Your 2-year-old can watch from a lap and wiggle when needed.",
+              "tips": [
+                "Drop in and watch as long as your child is happy.",
+                "Bring a snack for after the show.",
+                "Head to the car at 4:50 pm so the evening stays calm."
+              ],
+              "interests": [
+                "stories",
+                "movement"
+              ],
+              "also": [],
+              "area": "raleigh",
+              "outdoor": true,
+              "source": {
+                "kind": "event",
+                "title": "Theater on the Greenway",
+                "start": "2026-11-08T14:00:00",
+                "end": "2026-11-08T17:00:00",
+                "venue": "Dix Park",
+                "address": "1030 Richardson Dr, Raleigh, NC 27603",
+                "url": "https://dixpark.org/event/theater-greenway",
+                "cost": null,
+                "lat": 35.7701,
+                "lon": -78.6568,
+                "ages": null,
+                "registration": null,
+                "indoor": false,
+                "area": "raleigh",
+                "source": "dix-park",
+                "dropIn": true
+              }
+            }
+          ],
+          "rainBackup": null,
+          "timeline": [
+            {
+              "start": "07:00",
+              "end": "07:30",
+              "kind": "meal",
+              "title": "Up and breakfast"
+            },
+            {
+              "start": "07:30",
+              "end": "08:50",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "08:50",
+              "end": "09:10",
+              "kind": "routine",
+              "title": "Get ready to go",
+              "detail": "Shoes on, diaper bag, water and a snack."
+            },
+            {
+              "start": "09:10",
+              "end": "09:30",
+              "kind": "travel",
+              "title": "Drive to Apex Nature Park"
+            },
+            {
+              "start": "09:30",
+              "end": "11:30",
+              "kind": "outing",
+              "title": "Apex Nature Park"
+            },
+            {
+              "start": "11:30",
+              "end": "11:50",
+              "kind": "travel",
+              "title": "Drive home"
+            },
+            {
+              "start": "11:50",
+              "end": "12:15",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "12:15",
+              "end": "12:45",
+              "kind": "meal",
+              "title": "Lunch"
+            },
+            {
+              "start": "12:45",
+              "end": "13:00",
+              "kind": "quiet",
+              "title": "Wind down",
+              "detail": "A couple of books to settle."
+            },
+            {
+              "start": "13:00",
+              "end": "15:00",
+              "kind": "nap",
+              "title": "Nap"
+            },
+            {
+              "start": "15:00",
+              "end": "15:20",
+              "kind": "routine",
+              "title": "Up and a snack"
+            },
+            {
+              "start": "15:20",
+              "end": "18:30",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "18:30",
+              "end": "19:15",
+              "kind": "meal",
+              "title": "Dinner"
+            },
+            {
+              "start": "19:15",
+              "end": "20:00",
+              "kind": "routine",
+              "title": "Bath, books and bed"
+            }
+          ]
+        },
+        {
+          "nap": "short-nap",
+          "napLabel": "Short nap, 1 to 2",
+          "headline": "Wander garden paths and forest trails",
+          "main": {
+            "ref": "place:nc-botanical-garden",
+            "arrive": "09:30",
+            "leave": "11:30",
+            "why": "Free display gardens, and nature trails through the forest behind them. Your 2-year-old can walk, look and touch the leaves.",
+            "tips": [
+              "Start in the display gardens and save the forest trails for later.",
+              "Bring a snack and water.",
+              "Name a last plant to visit, then head to the car."
+            ],
+            "interests": [
+              "nature",
+              "art"
+            ],
+            "also": [],
+            "area": "chapel-hill",
+            "outdoor": true,
+            "source": {
+              "kind": "garden",
+              "title": "NC Botanical Garden",
+              "address": "100 Old Mason Farm Rd, Chapel Hill, NC 27517",
+              "lat": 35.9011,
+              "lon": -79.0319,
+              "url": "https://ncbg.unc.edu/visit/",
+              "amenities": [
+                "garden",
+                "nature",
+                "restroom"
+              ],
+              "indoor": false,
+              "area": "chapel-hill",
+              "cost": "Free",
+              "note": "Free. Display gardens, and nature trails through the forest behind them."
+            }
+          },
+          "alternatives": [
+            {
+              "ref": "event:weekly:mols-early-childhood:2026-11-08",
+              "arrive": "09:30",
+              "leave": "11:30",
+              "why": "Sensory play, songs and stories in Hideaway Woods for young children and their grown-ups. Drop in and stay as long as your 2-year-old likes.",
+              "tips": [
+                "Museum admission is free for children under 3, per the museum's ticket info.",
+                "Bring a snack for after the play.",
+                "Warn your child 10 minutes before you leave."
+              ],
+              "interests": [
+                "science",
+                "music",
+                "stories"
+              ],
+              "also": [],
+              "area": "durham",
+              "outdoor": true,
+              "source": {
+                "kind": "event",
+                "title": "Early Childhood Drop-In",
+                "start": "2026-11-08T09:30:00",
+                "end": "2026-11-08T11:30:00",
+                "venue": "Hideaway Woods, Museum of Life and Science",
+                "address": "433 W Murray Ave, Durham, NC 27704",
+                "url": "https://www.lifeandscience.org/learn/drop-in-programs/",
+                "cost": "Included with museum admission",
+                "lat": 36.0294,
+                "lon": -78.8993,
+                "ages": "young children and their caregivers",
+                "registration": false,
+                "indoor": false,
+                "area": "durham",
+                "source": "weekly",
+                "dropIn": true
+              }
+            },
+            {
+              "ref": "event:wake-parks:8358:2026-11-08",
+              "also": [
+                {
+                  "ref": "place:beech-bluff-county-park",
+                  "source": {
+                    "kind": "park",
+                    "title": "Beech Bluff County Park",
+                    "address": "Beech Bluff Park Drive, Fuquay-Varina, NC",
+                    "lat": 35.58537279715877,
+                    "lon": -78.6793341971644,
+                    "url": "https://www.wake.gov/departments-government/parks-recreation-open-space/all-parks-trails/beech-bluff-county-park",
+                    "amenities": [
+                      "playground",
+                      "garden",
+                      "greenway",
+                      "restroom",
+                      "picnic-shelter"
+                    ],
+                    "indoor": false,
+                    "area": "south-wake",
+                    "hours": null,
+                    "cost": null
+                  }
+                }
+              ],
+              "arrive": "09:00",
+              "leave": "11:00",
+              "why": "Follow the StoryWalk along the Educational Loop, reading a page at each stop. Then play at the park playground.",
+              "tips": [
+                "Let your child lead the way to the next page.",
+                "Bring a snack for the playground.",
+                "Read the last page together, then say it is time for the car."
+              ],
+              "interests": [
+                "stories",
+                "nature",
+                "movement"
+              ],
+              "area": "south-wake",
+              "outdoor": true,
+              "source": {
+                "kind": "event",
+                "title": "Beech Bluff County Park StoryWalk® 2026 (Self-Led)",
+                "start": "2026-11-08T08:00:00",
+                "end": "2026-11-08T17:30:00",
+                "venue": "Beech Bluff County Park",
+                "address": "Beech Bluff Park Drive, Fuquay-Varina, NC",
+                "url": "https://apm.activecommunities.com/wakeparks/Activity_Search/beech-bluff-county-park-storywalk-2026-self-led/8358?locale=en-US",
+                "cost": "Free",
+                "lat": 35.58537279715877,
+                "lon": -78.6793341971644,
+                "ages": null,
+                "registration": false,
+                "indoor": false,
+                "area": "south-wake",
+                "source": "wake-parks",
+                "dropIn": true
+              }
+            },
+            {
+              "ref": "event:dix-park:/event/theater-greenway:2026-11-08",
+              "also": [
+                {
+                  "ref": "place:caraleigh-park",
+                  "source": {
+                    "kind": "park",
+                    "title": "Caraleigh Park",
+                    "address": "110 Maywood Avenue, Raleigh, NC 27603",
+                    "lat": 35.76111,
+                    "lon": -78.64622,
+                    "url": "https://raleighnc.gov/parks-and-recreation/places/caraleigh-park",
+                    "amenities": [
+                      "playground"
+                    ],
+                    "indoor": false,
+                    "area": "raleigh",
+                    "hours": null,
+                    "cost": null
+                  }
+                }
+              ],
+              "arrive": "14:20",
+              "leave": "16:30",
+              "why": "Peter Rabbit and friends come to the Theater on the Greenway at Dix Park. Then your 2-year-old can play at the Caraleigh Park playground.",
+              "tips": [
+                "Drop in and watch as long as your child is happy.",
+                "Pack a snack for the playground.",
+                "Say the swings are next, then head to the car at 4:30 pm."
+              ],
+              "interests": [
+                "stories",
+                "movement"
+              ],
+              "area": "raleigh",
+              "outdoor": true,
+              "source": {
+                "kind": "event",
+                "title": "Theater on the Greenway",
+                "start": "2026-11-08T14:00:00",
+                "end": "2026-11-08T17:00:00",
+                "venue": "Dix Park",
+                "address": "1030 Richardson Dr, Raleigh, NC 27603",
+                "url": "https://dixpark.org/event/theater-greenway",
+                "cost": null,
+                "lat": 35.7701,
+                "lon": -78.6568,
+                "ages": null,
+                "registration": null,
+                "indoor": false,
+                "area": "raleigh",
+                "source": "dix-park",
+                "dropIn": true
+              }
+            },
+            {
+              "ref": "event:museum:duke-gardens:17496",
+              "arrive": "09:50",
+              "leave": "11:50",
+              "why": "Walk among the exhibition mums in the Japanese Garden. It is free, and your child can point out colors.",
+              "tips": [
+                "Count the flowers by color as you walk.",
+                "Bring a snack for a break before you head home."
+              ],
+              "interests": [
+                "nature",
+                "art"
+              ],
+              "also": [],
+              "area": "durham",
+              "outdoor": true,
+              "source": {
+                "kind": "event",
+                "title": "A Festival of Fabulous Mums",
+                "start": "2026-11-08T10:00:00",
+                "end": "2026-11-08T16:00:00",
+                "venue": "Sarah P. Duke Gardens",
+                "address": "420 Anderson Street, Durham, NC, 27708",
+                "url": "https://gardens.duke.edu/event/a-festival-of-fabulous-mums-6/",
+                "cost": "Free",
+                "lat": 36.0024,
+                "lon": -78.9328,
+                "ages": "Adult Programs Family programs Festival of Fabulous Mums",
+                "registration": false,
+                "indoor": false,
+                "area": "durham",
+                "source": "museum",
+                "dropIn": true
+              }
+            }
+          ],
+          "rainBackup": null,
+          "timeline": [
+            {
+              "start": "07:00",
+              "end": "07:30",
+              "kind": "meal",
+              "title": "Up and breakfast"
+            },
+            {
+              "start": "07:30",
+              "end": "08:50",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "08:50",
+              "end": "09:10",
+              "kind": "routine",
+              "title": "Get ready to go",
+              "detail": "Shoes on, diaper bag, water and a snack."
+            },
+            {
+              "start": "09:10",
+              "end": "09:30",
+              "kind": "travel",
+              "title": "Drive to NC Botanical Garden"
+            },
+            {
+              "start": "09:30",
+              "end": "11:30",
+              "kind": "outing",
+              "title": "NC Botanical Garden"
+            },
+            {
+              "start": "11:30",
+              "end": "11:50",
+              "kind": "travel",
+              "title": "Drive home"
+            },
+            {
+              "start": "11:50",
+              "end": "12:15",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "12:15",
+              "end": "12:45",
+              "kind": "meal",
+              "title": "Lunch"
+            },
+            {
+              "start": "12:45",
+              "end": "13:00",
+              "kind": "quiet",
+              "title": "Wind down",
+              "detail": "A couple of books to settle."
+            },
+            {
+              "start": "13:00",
+              "end": "14:00",
+              "kind": "nap",
+              "title": "Nap"
+            },
+            {
+              "start": "14:00",
+              "end": "14:20",
+              "kind": "routine",
+              "title": "Up and a snack"
+            },
+            {
+              "start": "14:20",
+              "end": "18:00",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "18:00",
+              "end": "18:45",
+              "kind": "meal",
+              "title": "Dinner"
+            },
+            {
+              "start": "18:45",
+              "end": "19:30",
+              "kind": "routine",
+              "title": "Bath, books and bed"
+            }
+          ]
+        }
+      ],
+      "dropped": [
+        "[short-nap] event:museum:duke-gardens:17496 tip: says \"parking\", which isn't in the data: \"Parking is paid and often fills before 10 am, so arrive right at 9:50.\"",
+        "[short-nap] event:museum:duke-gardens:17496 tip: says \"parking\", which isn't in the data: \"Parking is paid and often fills before 10 am, so arrive right at 9:50.\""
+      ]
+    }
+  ],
+  "checked": {
+    "at": "2026-11-07T11:04:04.035Z",
+    "forecast": "nws",
+    "weather": {
+      "period": "Sunday",
+      "tempF": 64,
+      "precipProbability": 0,
+      "shortForecast": "Sunny",
+      "windMph": 5,
+      "windFrom": "W",
+      "hours": [
+        {
+          "t": "05:00",
+          "tempF": 42,
+          "pop": 0,
+          "cloud": 33
+        },
+        {
+          "t": "06:00",
+          "tempF": 41,
+          "pop": 0,
+          "cloud": 42
+        },
+        {
+          "t": "07:00",
+          "tempF": 40,
+          "pop": 0,
+          "cloud": 27
+        },
+        {
+          "t": "08:00",
+          "tempF": 44,
+          "pop": 0,
+          "cloud": 31
+        },
+        {
+          "t": "09:00",
+          "tempF": 49,
+          "pop": 0,
+          "cloud": 29
+        },
+        {
+          "t": "10:00",
+          "tempF": 53,
+          "pop": 0,
+          "cloud": 13
+        },
+        {
+          "t": "11:00",
+          "tempF": 56,
+          "pop": 0,
+          "cloud": 3
+        },
+        {
+          "t": "12:00",
+          "tempF": 60,
+          "pop": 0,
+          "cloud": 3
+        },
+        {
+          "t": "13:00",
+          "tempF": 62,
+          "pop": 0,
+          "cloud": 5
+        },
+        {
+          "t": "14:00",
+          "tempF": 63,
+          "pop": 0,
+          "cloud": 5
+        },
+        {
+          "t": "15:00",
+          "tempF": 64,
+          "pop": 0,
+          "cloud": 3
+        },
+        {
+          "t": "16:00",
+          "tempF": 63,
+          "pop": 0,
+          "cloud": 2
+        },
+        {
+          "t": "17:00",
+          "tempF": 60,
+          "pop": 0,
+          "cloud": 1
+        },
+        {
+          "t": "18:00",
+          "tempF": 57,
+          "pop": 0,
+          "cloud": 2
+        },
+        {
+          "t": "19:00",
+          "tempF": 51,
+          "pop": 0,
+          "cloud": 2
+        },
+        {
+          "t": "20:00",
+          "tempF": 51,
+          "pop": 0,
+          "cloud": 0
+        },
+        {
+          "t": "21:00",
+          "tempF": 50,
+          "pop": 0,
+          "cloud": 1
+        },
+        {
+          "t": "22:00",
+          "tempF": 49,
+          "pop": 0,
+          "cloud": 1
+        },
+        {
+          "t": "23:00",
+          "tempF": 48,
+          "pop": 0,
+          "cloud": 1
+        }
+      ]
+    },
+    "hidden": []
+  }
+}

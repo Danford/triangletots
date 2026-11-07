@@ -1,0 +1,978 @@
+{
+  "date": "2026-11-15",
+  "band": "t4",
+  "versions": [
+    {
+      "at": "2026-11-03T11:09:30.231Z",
+      "reason": null,
+      "forecast": "none",
+      "weather": null,
+      "plans": [
+        {
+          "nap": "short-nap",
+          "napLabel": "Short nap, 1 to 2",
+          "headline": "Carousel park, a 3D film and art at Marbles",
+          "main": {
+            "ref": "place:john-chavis-memorial-park",
+            "arrive": "10:30",
+            "leave": "12:20",
+            "why": "Play at John Chavis Memorial Park, which has a carousel, then watch the IMAX film Secrets of Great Salt Lake at 11:00 am and make art at Guest Star: Art at Marbles Kids Museum.",
+            "tips": [
+              "Let your child run and ride first so the wiggles are out before the film.",
+              "Pack a snack for before the film and a water bottle.",
+              "Say the last stop is art, so leaving the park feels easy."
+            ],
+            "interests": [
+              "movement",
+              "nature",
+              "art"
+            ],
+            "also": [
+              {
+                "ref": "event:museum:marbles:47880",
+                "source": {
+                  "kind": "event",
+                  "title": "Secrets of Great Salt Lake",
+                  "start": "2026-11-15T11:00:00",
+                  "end": "2026-11-15T11:45:00",
+                  "venue": "Marbles Kids Museum",
+                  "address": "201 E Hargett St, Raleigh, NC 27601",
+                  "url": "https://marbleskidsmuseum.org/event/48788/",
+                  "cost": null,
+                  "lat": 35.7789,
+                  "lon": -78.6361,
+                  "ages": "IMAX film, 4 and up",
+                  "registration": null,
+                  "indoor": true,
+                  "area": "raleigh",
+                  "source": "museum",
+                  "dropIn": false,
+                  "film": true
+                }
+              },
+              {
+                "ref": "event:museum:marbles:47972",
+                "source": {
+                  "kind": "event",
+                  "title": "Guest Star: Art",
+                  "start": "2026-11-15T11:00:00",
+                  "end": "2026-11-15T14:00:00",
+                  "venue": "Marbles Kids Museum",
+                  "address": "201 E Hargett St, Raleigh, NC 27601",
+                  "url": "https://marbleskidsmuseum.org/event/48798/",
+                  "cost": null,
+                  "lat": 35.7789,
+                  "lon": -78.6361,
+                  "ages": "Included with Admission Non-ticketed",
+                  "registration": null,
+                  "indoor": true,
+                  "area": "raleigh",
+                  "source": "museum",
+                  "dropIn": true
+                }
+              }
+            ],
+            "area": "raleigh",
+            "outdoor": false,
+            "source": {
+              "kind": "park",
+              "title": "John Chavis Memorial Park",
+              "address": "505 Martin Luther King Jr Blvd, Raleigh, NC 27601",
+              "lat": 35.7698,
+              "lon": -78.63021,
+              "url": "https://raleighnc.gov/parks-and-recreation/places/john-chavis-memorial-park",
+              "amenities": [
+                "community-center",
+                "playground",
+                "carousel",
+                "fields"
+              ],
+              "indoor": false,
+              "area": "raleigh",
+              "hours": null,
+              "cost": null
+            }
+          },
+          "alternatives": [
+            {
+              "ref": "event:weekly:mols-early-childhood:2026-11-15",
+              "arrive": "09:30",
+              "leave": "11:50",
+              "why": "Sensory play, songs and stories at the Early Childhood Drop-In in Hideaway Woods, then a run around Rock Quarry Park.",
+              "tips": [
+                "Come and go as your child likes. Stay about an hour.",
+                "Bring a snack for the park afterward."
+              ],
+              "interests": [
+                "music",
+                "stories",
+                "nature"
+              ],
+              "also": [
+                {
+                  "ref": "place:rock-quarry-park",
+                  "source": {
+                    "kind": "park",
+                    "title": "Rock Quarry Park",
+                    "address": "701 Stadium Dr, Durham, NC",
+                    "lat": 36.03166363636364,
+                    "lon": -78.90176545454545,
+                    "url": "https://www.dprplaymore.org/Facilities/Facility/Details/Rock-Quarry-Park-60",
+                    "amenities": [
+                      "playground",
+                      "splashpad",
+                      "restroom",
+                      "greenway"
+                    ],
+                    "indoor": false,
+                    "area": "durham",
+                    "hours": null,
+                    "cost": null
+                  }
+                }
+              ],
+              "area": "durham",
+              "outdoor": true,
+              "source": {
+                "kind": "event",
+                "title": "Early Childhood Drop-In",
+                "start": "2026-11-15T09:30:00",
+                "end": "2026-11-15T11:30:00",
+                "venue": "Hideaway Woods, Museum of Life and Science",
+                "address": "433 W Murray Ave, Durham, NC 27704",
+                "url": "https://www.lifeandscience.org/learn/drop-in-programs/",
+                "cost": "Included with museum admission",
+                "lat": 36.0294,
+                "lon": -78.8993,
+                "ages": "young children and their caregivers",
+                "registration": false,
+                "indoor": false,
+                "area": "durham",
+                "source": "weekly",
+                "dropIn": true
+              }
+            },
+            {
+              "ref": "place:seagroves-farm-park",
+              "arrive": "14:30",
+              "leave": "16:00",
+              "why": "Play at Seagroves Farm Park, then watch a local artist paint at the Oil Painting showcase at Eva Perry Library from 3:00 pm.",
+              "tips": [
+                "Let your child ask the artist one question about the colors.",
+                "Bring a small snack for the park."
+              ],
+              "interests": [
+                "art",
+                "movement"
+              ],
+              "also": [
+                {
+                  "ref": "event:wake:24403",
+                  "source": {
+                    "kind": "event",
+                    "title": "MTA:  Oil Painting",
+                    "start": "2026-11-15T15:00:00-05:00",
+                    "end": "2026-11-15T16:00:00-05:00",
+                    "venue": "Eva Perry Regional Library",
+                    "address": "2100 Shepherds Vineyard Drive, Apex, NC",
+                    "url": "https://www.wake.gov/events/mta-oil-painting",
+                    "cost": "Free",
+                    "lat": 35.7437832024768,
+                    "lon": -78.8251607833066,
+                    "ages": "All Ages",
+                    "registration": null,
+                    "indoor": true,
+                    "area": "cary-apex",
+                    "source": "wake-county",
+                    "dropIn": false
+                  }
+                }
+              ],
+              "area": "cary-apex",
+              "outdoor": false,
+              "source": {
+                "kind": "park",
+                "title": "Seagroves Farm Park",
+                "address": "201 Parkfield Dr., Apex, NC",
+                "lat": 35.72788436131107,
+                "lon": -78.82838438475397,
+                "url": "https://www.apexnc.org/1936/Seagroves-Farm-Park",
+                "amenities": [
+                  "playground",
+                  "picnic-shelter",
+                  "restroom",
+                  "greenway"
+                ],
+                "indoor": false,
+                "area": "cary-apex",
+                "hours": null,
+                "cost": null
+              }
+            },
+            {
+              "ref": "event:wake-parks:8358:2026-11-15",
+              "arrive": "09:30",
+              "leave": "10:45",
+              "why": "Walk the self-led StoryWalk at Beech Bluff County Park and read the story page by page along the Educational Loop.",
+              "tips": [
+                "Let your child lead and turn each page's question into a game.",
+                "Bring a snack for the end of the walk."
+              ],
+              "interests": [
+                "stories",
+                "nature",
+                "movement"
+              ],
+              "also": [],
+              "area": "south-wake",
+              "outdoor": true,
+              "source": {
+                "kind": "event",
+                "title": "Beech Bluff County Park StoryWalk® 2026 (Self-Led)",
+                "start": "2026-11-15T08:00:00",
+                "end": "2026-11-15T17:30:00",
+                "venue": "Beech Bluff County Park",
+                "address": "Beech Bluff Park Drive, Fuquay-Varina, NC",
+                "url": "https://apm.activecommunities.com/wakeparks/Activity_Search/beech-bluff-county-park-storywalk-2026-self-led/8358?locale=en-US",
+                "cost": "Free",
+                "lat": 35.58537279715877,
+                "lon": -78.6793341971644,
+                "ages": null,
+                "registration": false,
+                "indoor": false,
+                "area": "south-wake",
+                "source": "wake-parks",
+                "dropIn": true
+              }
+            }
+          ],
+          "rainBackup": null,
+          "timeline": [
+            {
+              "start": "07:00",
+              "end": "07:30",
+              "kind": "meal",
+              "title": "Up and breakfast"
+            },
+            {
+              "start": "07:30",
+              "end": "09:50",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "09:50",
+              "end": "10:10",
+              "kind": "routine",
+              "title": "Get ready to go",
+              "detail": "Shoes on, diaper bag, water and a snack."
+            },
+            {
+              "start": "10:10",
+              "end": "10:30",
+              "kind": "travel",
+              "title": "Drive to John Chavis Memorial Park"
+            },
+            {
+              "start": "10:30",
+              "end": "10:50",
+              "kind": "outing",
+              "title": "John Chavis Memorial Park",
+              "detail": "Pack a lunch to eat there."
+            },
+            {
+              "start": "10:50",
+              "end": "11:00",
+              "kind": "travel",
+              "title": "Drive to Marbles Kids Museum"
+            },
+            {
+              "start": "11:00",
+              "end": "11:45",
+              "kind": "outing",
+              "title": "Secrets of Great Salt Lake"
+            },
+            {
+              "start": "11:45",
+              "end": "11:55",
+              "kind": "travel",
+              "title": "Drive to Marbles Kids Museum"
+            },
+            {
+              "start": "11:55",
+              "end": "12:20",
+              "kind": "outing",
+              "title": "Guest Star: Art"
+            },
+            {
+              "start": "12:20",
+              "end": "12:45",
+              "kind": "travel",
+              "title": "Drive home"
+            },
+            {
+              "start": "12:45",
+              "end": "13:00",
+              "kind": "quiet",
+              "title": "Wind down",
+              "detail": "A couple of books to settle."
+            },
+            {
+              "start": "13:00",
+              "end": "14:00",
+              "kind": "nap",
+              "title": "Nap"
+            },
+            {
+              "start": "14:00",
+              "end": "14:20",
+              "kind": "routine",
+              "title": "Up and a snack"
+            },
+            {
+              "start": "14:20",
+              "end": "18:30",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "18:30",
+              "end": "19:15",
+              "kind": "meal",
+              "title": "Dinner"
+            },
+            {
+              "start": "19:15",
+              "end": "20:00",
+              "kind": "routine",
+              "title": "Bath, books and bed"
+            }
+          ]
+        },
+        {
+          "nap": "quiet",
+          "napLabel": "Quiet time",
+          "headline": "Playground, then watch a painter at work",
+          "main": {
+            "ref": "place:seagroves-farm-park",
+            "arrive": "14:30",
+            "leave": "16:00",
+            "why": "Run and climb at Seagroves Farm Park, then watch a local artist show oil paintings at Eva Perry Library from 3:00 pm.",
+            "tips": [
+              "Play hard first so your child can stand and look quietly.",
+              "Have your child pick a favorite painting and tell you why.",
+              "Bring a snack for the park."
+            ],
+            "interests": [
+              "art",
+              "movement"
+            ],
+            "also": [
+              {
+                "ref": "event:wake:24403",
+                "source": {
+                  "kind": "event",
+                  "title": "MTA:  Oil Painting",
+                  "start": "2026-11-15T15:00:00-05:00",
+                  "end": "2026-11-15T16:00:00-05:00",
+                  "venue": "Eva Perry Regional Library",
+                  "address": "2100 Shepherds Vineyard Drive, Apex, NC",
+                  "url": "https://www.wake.gov/events/mta-oil-painting",
+                  "cost": "Free",
+                  "lat": 35.7437832024768,
+                  "lon": -78.8251607833066,
+                  "ages": "All Ages",
+                  "registration": null,
+                  "indoor": true,
+                  "area": "cary-apex",
+                  "source": "wake-county",
+                  "dropIn": false
+                }
+              }
+            ],
+            "area": "cary-apex",
+            "outdoor": false,
+            "source": {
+              "kind": "park",
+              "title": "Seagroves Farm Park",
+              "address": "201 Parkfield Dr., Apex, NC",
+              "lat": 35.72788436131107,
+              "lon": -78.82838438475397,
+              "url": "https://www.apexnc.org/1936/Seagroves-Farm-Park",
+              "amenities": [
+                "playground",
+                "picnic-shelter",
+                "restroom",
+                "greenway"
+              ],
+              "indoor": false,
+              "area": "cary-apex",
+              "hours": null,
+              "cost": null
+            }
+          },
+          "alternatives": [
+            {
+              "ref": "event:weekly:mols-early-childhood:2026-11-15",
+              "arrive": "09:30",
+              "leave": "11:50",
+              "why": "Sensory play, songs and stories at the Early Childhood Drop-In in Hideaway Woods, then time at Rock Quarry Park.",
+              "tips": [
+                "Come and go as your child likes. Stay about an hour.",
+                "Bring a snack for the park afterward."
+              ],
+              "interests": [
+                "music",
+                "stories",
+                "nature"
+              ],
+              "also": [
+                {
+                  "ref": "place:rock-quarry-park",
+                  "source": {
+                    "kind": "park",
+                    "title": "Rock Quarry Park",
+                    "address": "701 Stadium Dr, Durham, NC",
+                    "lat": 36.03166363636364,
+                    "lon": -78.90176545454545,
+                    "url": "https://www.dprplaymore.org/Facilities/Facility/Details/Rock-Quarry-Park-60",
+                    "amenities": [
+                      "playground",
+                      "splashpad",
+                      "restroom",
+                      "greenway"
+                    ],
+                    "indoor": false,
+                    "area": "durham",
+                    "hours": null,
+                    "cost": null
+                  }
+                }
+              ],
+              "area": "durham",
+              "outdoor": true,
+              "source": {
+                "kind": "event",
+                "title": "Early Childhood Drop-In",
+                "start": "2026-11-15T09:30:00",
+                "end": "2026-11-15T11:30:00",
+                "venue": "Hideaway Woods, Museum of Life and Science",
+                "address": "433 W Murray Ave, Durham, NC 27704",
+                "url": "https://www.lifeandscience.org/learn/drop-in-programs/",
+                "cost": "Included with museum admission",
+                "lat": 36.0294,
+                "lon": -78.8993,
+                "ages": "young children and their caregivers",
+                "registration": false,
+                "indoor": false,
+                "area": "durham",
+                "source": "weekly",
+                "dropIn": true
+              }
+            },
+            {
+              "ref": "place:ncma-museum-park",
+              "arrive": "09:30",
+              "leave": "11:30",
+              "why": "Walk the trails and lawns at NC Museum of Art Museum Park and find the big outdoor art.",
+              "tips": [
+                "Make it a hunt: who can spot the biggest sculpture?",
+                "Bring a snack and a water bottle."
+              ],
+              "interests": [
+                "art",
+                "nature",
+                "movement"
+              ],
+              "also": [],
+              "area": "raleigh",
+              "outdoor": true,
+              "source": {
+                "kind": "garden",
+                "title": "NC Museum of Art Museum Park",
+                "address": "2110 Blue Ridge Rd, Raleigh, NC 27607",
+                "lat": 35.8105,
+                "lon": -78.7022,
+                "url": "https://ncartmuseum.org/museum-park/",
+                "amenities": [
+                  "garden",
+                  "nature",
+                  "greenway",
+                  "restroom"
+                ],
+                "indoor": false,
+                "area": "raleigh",
+                "hours": {
+                  "sun": "dawn to dusk",
+                  "mon": "dawn to dusk",
+                  "tue": "dawn to dusk",
+                  "wed": "dawn to dusk",
+                  "thu": "dawn to dusk",
+                  "fri": "dawn to dusk",
+                  "sat": "dawn to dusk"
+                },
+                "cost": "Free",
+                "note": "Free. 164 acres of trails, lawns and big outdoor art; the Capital Area Greenway runs through."
+              }
+            },
+            {
+              "ref": "event:wake-parks:8358:2026-11-15",
+              "arrive": "09:30",
+              "leave": "10:45",
+              "why": "Walk the self-led StoryWalk at Beech Bluff County Park and read the story page by page.",
+              "tips": [
+                "Let your child lead and read the pages aloud.",
+                "Bring a snack for the end of the walk."
+              ],
+              "interests": [
+                "stories",
+                "nature",
+                "movement"
+              ],
+              "also": [],
+              "area": "south-wake",
+              "outdoor": true,
+              "source": {
+                "kind": "event",
+                "title": "Beech Bluff County Park StoryWalk® 2026 (Self-Led)",
+                "start": "2026-11-15T08:00:00",
+                "end": "2026-11-15T17:30:00",
+                "venue": "Beech Bluff County Park",
+                "address": "Beech Bluff Park Drive, Fuquay-Varina, NC",
+                "url": "https://apm.activecommunities.com/wakeparks/Activity_Search/beech-bluff-county-park-storywalk-2026-self-led/8358?locale=en-US",
+                "cost": "Free",
+                "lat": 35.58537279715877,
+                "lon": -78.6793341971644,
+                "ages": null,
+                "registration": false,
+                "indoor": false,
+                "area": "south-wake",
+                "source": "wake-parks",
+                "dropIn": true
+              }
+            }
+          ],
+          "rainBackup": null,
+          "timeline": [
+            {
+              "start": "07:00",
+              "end": "07:30",
+              "kind": "meal",
+              "title": "Up and breakfast"
+            },
+            {
+              "start": "07:30",
+              "end": "11:45",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "11:45",
+              "end": "12:15",
+              "kind": "meal",
+              "title": "Lunch"
+            },
+            {
+              "start": "12:15",
+              "end": "13:00",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "13:00",
+              "end": "13:50",
+              "kind": "quiet",
+              "title": "Quiet time",
+              "detail": "Books or quiet play in their room."
+            },
+            {
+              "start": "13:50",
+              "end": "14:10",
+              "kind": "routine",
+              "title": "Get ready to go",
+              "detail": "Shoes on, diaper bag, water and a snack."
+            },
+            {
+              "start": "14:10",
+              "end": "14:30",
+              "kind": "travel",
+              "title": "Drive to Seagroves Farm Park"
+            },
+            {
+              "start": "14:30",
+              "end": "14:50",
+              "kind": "outing",
+              "title": "Seagroves Farm Park"
+            },
+            {
+              "start": "14:50",
+              "end": "15:00",
+              "kind": "travel",
+              "title": "Drive to Eva Perry Regional Library"
+            },
+            {
+              "start": "15:00",
+              "end": "16:00",
+              "kind": "outing",
+              "title": "MTA:  Oil Painting"
+            },
+            {
+              "start": "16:00",
+              "end": "16:20",
+              "kind": "travel",
+              "title": "Drive home"
+            },
+            {
+              "start": "16:20",
+              "end": "18:00",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "18:00",
+              "end": "18:45",
+              "kind": "meal",
+              "title": "Dinner"
+            },
+            {
+              "start": "18:45",
+              "end": "19:30",
+              "kind": "routine",
+              "title": "Bath, books and bed"
+            }
+          ]
+        },
+        {
+          "nap": "no-nap",
+          "napLabel": "No nap",
+          "headline": "A lakeside morning with a picnic and a playground",
+          "main": {
+            "ref": "place:falls-lake-state-recreation-area-sandling-beach-rec-area-entrance",
+            "arrive": "09:30",
+            "leave": "11:45",
+            "why": "A long morning at Falls Lake: play on the playground, walk the greenway and eat a picnic at the shelter.",
+            "tips": [
+              "Pack a picnic and let your child pick the walking route.",
+              "Walk first, then play, so the playground is the treat.",
+              "Give a ten-minute warning before you leave."
+            ],
+            "interests": [
+              "nature",
+              "movement"
+            ],
+            "also": [],
+            "area": "north-raleigh",
+            "outdoor": true,
+            "source": {
+              "kind": "park",
+              "title": "Falls Lake State Recreation Area - Sandling Beach Rec Area Entrance",
+              "address": "14813 Creedmoor Rd, Wake Forest",
+              "lat": 36.04240955299319,
+              "lon": -78.69860735340117,
+              "url": "https://www.ncparks.gov/falls-lake-state-recreation-area",
+              "amenities": [
+                "playground",
+                "picnic-shelter",
+                "restroom",
+                "greenway"
+              ],
+              "indoor": false,
+              "area": "north-raleigh",
+              "hours": null,
+              "cost": null
+            }
+          },
+          "alternatives": [
+            {
+              "ref": "event:weekly:mols-early-childhood:2026-11-15",
+              "arrive": "09:30",
+              "leave": "11:50",
+              "why": "Sensory play, songs and stories at the Early Childhood Drop-In in Hideaway Woods, then time at Rock Quarry Park.",
+              "tips": [
+                "Come and go as your child likes. Stay about an hour.",
+                "Bring a snack for the park afterward."
+              ],
+              "interests": [
+                "music",
+                "stories",
+                "nature"
+              ],
+              "also": [
+                {
+                  "ref": "place:rock-quarry-park",
+                  "source": {
+                    "kind": "park",
+                    "title": "Rock Quarry Park",
+                    "address": "701 Stadium Dr, Durham, NC",
+                    "lat": 36.03166363636364,
+                    "lon": -78.90176545454545,
+                    "url": "https://www.dprplaymore.org/Facilities/Facility/Details/Rock-Quarry-Park-60",
+                    "amenities": [
+                      "playground",
+                      "splashpad",
+                      "restroom",
+                      "greenway"
+                    ],
+                    "indoor": false,
+                    "area": "durham",
+                    "hours": null,
+                    "cost": null
+                  }
+                }
+              ],
+              "area": "durham",
+              "outdoor": true,
+              "source": {
+                "kind": "event",
+                "title": "Early Childhood Drop-In",
+                "start": "2026-11-15T09:30:00",
+                "end": "2026-11-15T11:30:00",
+                "venue": "Hideaway Woods, Museum of Life and Science",
+                "address": "433 W Murray Ave, Durham, NC 27704",
+                "url": "https://www.lifeandscience.org/learn/drop-in-programs/",
+                "cost": "Included with museum admission",
+                "lat": 36.0294,
+                "lon": -78.8993,
+                "ages": "young children and their caregivers",
+                "registration": false,
+                "indoor": false,
+                "area": "durham",
+                "source": "weekly",
+                "dropIn": true
+              }
+            },
+            {
+              "ref": "event:wake:24171",
+              "arrive": "13:50",
+              "leave": "15:25",
+              "why": "Make an alphabet craft with other 3 to 5 year olds at ABC Craft and Learn, then play at Middle Creek School Park.",
+              "tips": [
+                "Ask your child to find the letters of their name.",
+                "Bring a snack for the park."
+              ],
+              "interests": [
+                "art",
+                "stories"
+              ],
+              "also": [
+                {
+                  "ref": "place:middle-creek-school-park",
+                  "source": {
+                    "kind": "park",
+                    "title": "Middle Creek School Park",
+                    "address": "151 Middle Creek Park Avenue, Cary, NC",
+                    "lat": 35.662513193321765,
+                    "lon": -78.7643852913516,
+                    "url": "https://www.carync.gov/recreation-enjoyment/parks-greenways-environment/parks/middle-creek-school-park",
+                    "amenities": [
+                      "playground",
+                      "picnic-shelter",
+                      "restroom",
+                      "greenway"
+                    ],
+                    "indoor": false,
+                    "area": "south-wake",
+                    "hours": null,
+                    "cost": null
+                  }
+                }
+              ],
+              "area": "south-wake",
+              "outdoor": false,
+              "source": {
+                "kind": "event",
+                "title": "ABC Craft and Learn",
+                "start": "2026-11-15T14:00:00-05:00",
+                "end": "2026-11-15T14:45:00-05:00",
+                "venue": "Middle Creek Community Library",
+                "address": "111 Middle Creek Park Avenue, Apex, NC",
+                "url": "https://www.wake.gov/events/abc-craft-and-learn-574",
+                "cost": "Free",
+                "lat": 35.6682418176122,
+                "lon": -78.7587045638366,
+                "ages": "Young Children",
+                "registration": null,
+                "indoor": true,
+                "area": "south-wake",
+                "source": "wake-county",
+                "dropIn": false
+              }
+            },
+            {
+              "ref": "place:seagroves-farm-park",
+              "arrive": "14:30",
+              "leave": "16:00",
+              "why": "Play at Seagroves Farm Park, then watch a local artist paint at the Oil Painting showcase at Eva Perry Library from 3:00 pm.",
+              "tips": [
+                "Let your child ask the artist one question about the colors.",
+                "Bring a small snack for the park."
+              ],
+              "interests": [
+                "art",
+                "movement"
+              ],
+              "also": [
+                {
+                  "ref": "event:wake:24403",
+                  "source": {
+                    "kind": "event",
+                    "title": "MTA:  Oil Painting",
+                    "start": "2026-11-15T15:00:00-05:00",
+                    "end": "2026-11-15T16:00:00-05:00",
+                    "venue": "Eva Perry Regional Library",
+                    "address": "2100 Shepherds Vineyard Drive, Apex, NC",
+                    "url": "https://www.wake.gov/events/mta-oil-painting",
+                    "cost": "Free",
+                    "lat": 35.7437832024768,
+                    "lon": -78.8251607833066,
+                    "ages": "All Ages",
+                    "registration": null,
+                    "indoor": true,
+                    "area": "cary-apex",
+                    "source": "wake-county",
+                    "dropIn": false
+                  }
+                }
+              ],
+              "area": "cary-apex",
+              "outdoor": false,
+              "source": {
+                "kind": "park",
+                "title": "Seagroves Farm Park",
+                "address": "201 Parkfield Dr., Apex, NC",
+                "lat": 35.72788436131107,
+                "lon": -78.82838438475397,
+                "url": "https://www.apexnc.org/1936/Seagroves-Farm-Park",
+                "amenities": [
+                  "playground",
+                  "picnic-shelter",
+                  "restroom",
+                  "greenway"
+                ],
+                "indoor": false,
+                "area": "cary-apex",
+                "hours": null,
+                "cost": null
+              }
+            },
+            {
+              "ref": "place:ncma-museum-park",
+              "arrive": "09:30",
+              "leave": "11:30",
+              "why": "Walk the trails and lawns at NC Museum of Art Museum Park and find the big outdoor art.",
+              "tips": [
+                "Make it a hunt: who can spot the biggest sculpture?",
+                "Bring a snack and a water bottle."
+              ],
+              "interests": [
+                "art",
+                "nature",
+                "movement"
+              ],
+              "also": [],
+              "area": "raleigh",
+              "outdoor": true,
+              "source": {
+                "kind": "garden",
+                "title": "NC Museum of Art Museum Park",
+                "address": "2110 Blue Ridge Rd, Raleigh, NC 27607",
+                "lat": 35.8105,
+                "lon": -78.7022,
+                "url": "https://ncartmuseum.org/museum-park/",
+                "amenities": [
+                  "garden",
+                  "nature",
+                  "greenway",
+                  "restroom"
+                ],
+                "indoor": false,
+                "area": "raleigh",
+                "hours": {
+                  "sun": "dawn to dusk",
+                  "mon": "dawn to dusk",
+                  "tue": "dawn to dusk",
+                  "wed": "dawn to dusk",
+                  "thu": "dawn to dusk",
+                  "fri": "dawn to dusk",
+                  "sat": "dawn to dusk"
+                },
+                "cost": "Free",
+                "note": "Free. 164 acres of trails, lawns and big outdoor art; the Capital Area Greenway runs through."
+              }
+            }
+          ],
+          "rainBackup": null,
+          "timeline": [
+            {
+              "start": "07:00",
+              "end": "07:30",
+              "kind": "meal",
+              "title": "Up and breakfast"
+            },
+            {
+              "start": "07:30",
+              "end": "08:50",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "08:50",
+              "end": "09:10",
+              "kind": "routine",
+              "title": "Get ready to go",
+              "detail": "Shoes on, diaper bag, water and a snack."
+            },
+            {
+              "start": "09:10",
+              "end": "09:30",
+              "kind": "travel",
+              "title": "Drive to Falls Lake State Recreation Area - Sandling Beach Rec Area Entrance"
+            },
+            {
+              "start": "09:30",
+              "end": "11:45",
+              "kind": "outing",
+              "title": "Falls Lake State Recreation Area - Sandling Beach Rec Area Entrance"
+            },
+            {
+              "start": "11:45",
+              "end": "12:05",
+              "kind": "travel",
+              "title": "Drive home"
+            },
+            {
+              "start": "12:05",
+              "end": "12:35",
+              "kind": "meal",
+              "title": "Lunch"
+            },
+            {
+              "start": "12:35",
+              "end": "18:00",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "18:00",
+              "end": "18:45",
+              "kind": "meal",
+              "title": "Dinner"
+            },
+            {
+              "start": "18:45",
+              "end": "19:30",
+              "kind": "routine",
+              "title": "Bath, books and bed"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "checked": {
+    "at": "2026-11-07T11:04:04.163Z",
+    "forecast": "none",
+    "weather": null,
+    "hidden": []
+  }
+}
