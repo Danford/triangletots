@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Triangle Tots//triangletots.com//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:2026-11-14-learn-to-ride-a-bike-at-gipson-play-plaza-dix-park-1350-1545
+ @triangletots.com
+DTSTAMP:20261114T100000Z
+DTSTART:20261114T185000Z
+DTEND:20261114T204500Z
+SUMMARY:Learn to Ride a Bike at Gipson Play Plaza\, Dix Park
+LOCATION:715 Biggs Dr\, Raleigh\, NC 27603
+DESCRIPTION:https://dixpark.org/event/learn-ride-bike-0\nThe whole day: htt
+ ps://triangletots.com/2026-11-14/t4/\nTimes and details can change. Check 
+ the event or place before you go.
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Triangle Tots//triangletots.com//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:2026-11-23-total-tot-time-at-burton-park-0930-1145@triangletots.com
+DTSTAMP:20261114T100000Z
+DTSTART:20261123T143000Z
+DTEND:20261123T164500Z
+SUMMARY:Total Tot Time at Burton Park
+LOCATION:1501 Sima Ave\, Durham\, NC
+DESCRIPTION:Sign up first.\nhttps://www.dprplaymore.org/Facilities/Facility
+ /Details/Burton-Park-7\nhttps://apm.activecommunities.com/dprplaymore/Acti
+ vity_Search/total-tot-time/19772?locale=en-US\nThe whole day: https://tria
+ ngletots.com/2026-11-23/t2/\nTimes and details can change. Check the event
+  or place before you go.
+END:VEVENT
+END:VCALENDAR

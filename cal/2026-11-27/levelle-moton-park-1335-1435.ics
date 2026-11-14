@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Triangle Tots//triangletots.com//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:2026-11-27-levelle-moton-park-1335-1435@triangletots.com
+DTSTAMP:20261114T100000Z
+DTSTART:20261127T183500Z
+DTEND:20261127T193500Z
+SUMMARY:LeVelle Moton Park
+LOCATION:920 E. Lane Street\, Raleigh\, NC 27601
+DESCRIPTION:https://raleighnc.gov/parks-and-recreation/places/levelle-moton
+ -park\nThe whole day: https://triangletots.com/2026-11-27/t2/\nTimes and d
+ etails can change. Check the event or place before you go.
+END:VEVENT
+END:VCALENDAR

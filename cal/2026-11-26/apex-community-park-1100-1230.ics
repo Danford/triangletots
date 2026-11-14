@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Triangle Tots//triangletots.com//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:2026-11-26-apex-community-park-1100-1230@triangletots.com
+DTSTAMP:20261114T100000Z
+DTSTART:20261126T160000Z
+DTEND:20261126T173000Z
+SUMMARY:Apex Community Park
+LOCATION:2200 Laura Duncan Rd.\, Apex\, NC
+DESCRIPTION:http://www.apexnc.org/795/Apex-Community-Park\nThe whole day: h
+ ttps://triangletots.com/2026-11-26/t1/\nTimes and details can change. Chec
+ k the event or place before you go.
+END:VEVENT
+END:VCALENDAR

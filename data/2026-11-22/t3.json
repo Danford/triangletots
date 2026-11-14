@@ -1,0 +1,943 @@
+{
+  "date": "2026-11-22",
+  "band": "t3",
+  "versions": [
+    {
+      "at": "2026-11-09T11:06:08.542Z",
+      "reason": null,
+      "forecast": "none",
+      "weather": null,
+      "plans": [
+        {
+          "nap": "nap",
+          "napLabel": "Nap, 1 to 2:30",
+          "headline": "Walk, explore and play in south Wake",
+          "main": {
+            "ref": "place:harris-lake-county-park",
+            "arrive": "09:30",
+            "leave": "11:30",
+            "why": "Your toddler can walk the greenway, spot things in nature and run at the playground. Let {them} choose which way to go and stay as long as {they} like{s}.",
+            "tips": [
+              "Pack a snack and eat it before the playground so there is energy for climbing.",
+              "Give a five-minute warning before you head to the car so leaving goes smoothly."
+            ],
+            "interests": [
+              "nature",
+              "movement"
+            ],
+            "also": [],
+            "area": "south-wake",
+            "outdoor": true,
+            "source": {
+              "kind": "park",
+              "title": "Harris Lake County Park",
+              "address": "2112 County Park Dr., New Hill, NC  27562",
+              "lat": 35.63024208800726,
+              "lon": -78.91757987745865,
+              "url": "https://www.wakegov.com/departments-government/parks-recreation-and-open-space/all-parks-trails/harris-lake-county-park",
+              "amenities": [
+                "playground",
+                "picnic-shelter",
+                "restroom",
+                "greenway",
+                "nature"
+              ],
+              "indoor": false,
+              "area": "south-wake",
+              "hours": null,
+              "cost": "Free"
+            }
+          },
+          "alternatives": [
+            {
+              "ref": "event:weekly:mols-early-childhood:2026-11-22",
+              "arrive": "09:30",
+              "leave": "11:30",
+              "why": "Your child can try sensory play, songs and stories in Hideaway Woods. It is a drop-in, so come and go as {they} like{s}. Museum admission is included.",
+              "tips": [
+                "Let {them} pick a station and stay as long as {they} like{s}.",
+                "Bring a snack for after the songs."
+              ],
+              "interests": [
+                "music",
+                "stories",
+                "nature"
+              ],
+              "also": [],
+              "area": "durham",
+              "outdoor": true,
+              "source": {
+                "kind": "event",
+                "title": "Early Childhood Drop-In",
+                "start": "2026-11-22T09:30:00",
+                "end": "2026-11-22T11:30:00",
+                "venue": "Hideaway Woods, Museum of Life and Science",
+                "address": "433 W Murray Ave, Durham, NC 27704",
+                "url": "https://www.lifeandscience.org/learn/drop-in-programs/",
+                "cost": "Included with museum admission",
+                "lat": 36.0294,
+                "lon": -78.8993,
+                "ages": "young children and their caregivers",
+                "registration": false,
+                "indoor": false,
+                "area": "durham",
+                "source": "weekly",
+                "dropIn": true
+              }
+            },
+            {
+              "ref": "event:wake-parks:8358:2026-11-22",
+              "arrive": "09:00",
+              "leave": "10:50",
+              "why": "Your child follows the StoryWalk, reading a story one page at a time along the Educational Loop. Then {they} can play at Beech Bluff County Park.",
+              "tips": [
+                "Let your child point out what happens on each page.",
+                "Bring a snack for the park."
+              ],
+              "interests": [
+                "stories",
+                "nature"
+              ],
+              "also": [
+                {
+                  "ref": "place:beech-bluff-county-park",
+                  "source": {
+                    "kind": "park",
+                    "title": "Beech Bluff County Park",
+                    "address": "Beech Bluff Park Drive, Fuquay-Varina, NC",
+                    "lat": 35.58537279715877,
+                    "lon": -78.6793341971644,
+                    "url": "https://www.wake.gov/departments-government/parks-recreation-open-space/all-parks-trails/beech-bluff-county-park",
+                    "amenities": [
+                      "playground",
+                      "garden",
+                      "greenway",
+                      "restroom",
+                      "picnic-shelter"
+                    ],
+                    "indoor": false,
+                    "area": "south-wake",
+                    "hours": null,
+                    "cost": "Free"
+                  }
+                }
+              ],
+              "area": "south-wake",
+              "outdoor": true,
+              "source": {
+                "kind": "event",
+                "title": "Beech Bluff County Park StoryWalk® 2026 (Self-Led)",
+                "start": "2026-11-22T08:00:00",
+                "end": "2026-11-22T17:30:00",
+                "venue": "Beech Bluff County Park",
+                "address": "Beech Bluff Park Drive, Fuquay-Varina, NC",
+                "url": "https://apm.activecommunities.com/wakeparks/Activity_Search/beech-bluff-county-park-storywalk-2026-self-led/8358?locale=en-US",
+                "cost": "Free",
+                "lat": 35.58537279715877,
+                "lon": -78.6793341971644,
+                "ages": null,
+                "registration": false,
+                "indoor": false,
+                "area": "south-wake",
+                "source": "wake-parks",
+                "dropIn": true
+              }
+            },
+            {
+              "ref": "event:wake-parks:9411:2026-11-22",
+              "arrive": "14:50",
+              "leave": "16:00",
+              "why": "Your child learns about the American bison at the Exploration Station. Families need to sign up first.",
+              "tips": [
+                "Ask your child what the bison might eat.",
+                "Bring a drink and a small snack."
+              ],
+              "interests": [
+                "animals",
+                "science"
+              ],
+              "also": [],
+              "area": "raleigh",
+              "outdoor": true,
+              "source": {
+                "kind": "event",
+                "title": "Exploration Station: American Bison",
+                "start": "2026-11-22T08:30:00",
+                "end": "2026-11-22T17:00:00",
+                "venue": "Historic Yates Mill County Park",
+                "address": "4620 Lake Wheeler Rd., Raleigh, NC  27603",
+                "url": "https://apm.activecommunities.com/wakeparks/Activity_Search/exploration-station-american-bison/9411?locale=en-US",
+                "cost": "Free",
+                "lat": 35.72157134974476,
+                "lon": -78.68526087901417,
+                "ages": null,
+                "registration": false,
+                "indoor": false,
+                "area": "raleigh",
+                "source": "wake-parks",
+                "dropIn": false
+              }
+            },
+            {
+              "ref": "place:apex-nature-park",
+              "arrive": "15:00",
+              "leave": "16:30",
+              "why": "A relaxed afternoon walk on the greenway with room to explore. Let your child stop and look at whatever {they} find{s}.",
+              "tips": [
+                "Bring a small bag for leaves and sticks.",
+                "Head back with plenty of time before dusk."
+              ],
+              "interests": [
+                "nature",
+                "movement"
+              ],
+              "also": [],
+              "area": "cary-apex",
+              "outdoor": true,
+              "source": {
+                "kind": "park",
+                "title": "Apex Nature Park",
+                "address": "2600 Evans Rd., Apex, NC",
+                "lat": 35.71709646233568,
+                "lon": -78.90520368087866,
+                "url": "https://www.apexnc.org/800/Nature-Park-Seymour-Athletic-Fields",
+                "amenities": [
+                  "picnic-shelter",
+                  "restroom",
+                  "greenway",
+                  "nature"
+                ],
+                "indoor": false,
+                "area": "cary-apex",
+                "hours": null,
+                "cost": "Free"
+              }
+            }
+          ],
+          "rainBackup": null,
+          "timeline": [
+            {
+              "start": "07:00",
+              "end": "07:30",
+              "kind": "meal",
+              "title": "Up and breakfast"
+            },
+            {
+              "start": "07:30",
+              "end": "08:50",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "08:50",
+              "end": "09:10",
+              "kind": "routine",
+              "title": "Get ready to go",
+              "detail": "Shoes on, the bag, water and a snack."
+            },
+            {
+              "start": "09:10",
+              "end": "09:30",
+              "kind": "travel",
+              "title": "Drive to Harris Lake County Park"
+            },
+            {
+              "start": "09:30",
+              "end": "11:30",
+              "kind": "outing",
+              "title": "Harris Lake County Park"
+            },
+            {
+              "start": "11:30",
+              "end": "11:50",
+              "kind": "travel",
+              "title": "Drive home"
+            },
+            {
+              "start": "11:50",
+              "end": "12:15",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "12:15",
+              "end": "12:45",
+              "kind": "meal",
+              "title": "Lunch"
+            },
+            {
+              "start": "12:45",
+              "end": "13:00",
+              "kind": "quiet",
+              "title": "Wind down",
+              "detail": "A couple of books to settle."
+            },
+            {
+              "start": "13:00",
+              "end": "14:30",
+              "kind": "nap",
+              "title": "Nap"
+            },
+            {
+              "start": "14:30",
+              "end": "14:50",
+              "kind": "routine",
+              "title": "Up and a snack"
+            },
+            {
+              "start": "14:50",
+              "end": "18:30",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "18:30",
+              "end": "19:15",
+              "kind": "meal",
+              "title": "Dinner"
+            },
+            {
+              "start": "19:15",
+              "end": "20:00",
+              "kind": "routine",
+              "title": "Bath, books and bed"
+            }
+          ]
+        },
+        {
+          "nap": "quiet",
+          "napLabel": "Quiet time, no sleep",
+          "headline": "Make fall leaf art, then play at the park",
+          "main": {
+            "ref": "event:wake-parks:9404",
+            "arrive": "13:50",
+            "leave": "15:40",
+            "why": "Your child makes art inspired by fall leaves and learns about the color wheel at Robin Shelter. Families need to sign up first. Afterward {they} can play at Crowder County Park.",
+            "tips": [
+              "Wear clothes that can get messy.",
+              "Collect a few leaves on the way in to use as inspiration.",
+              "Bring a snack for the playground afterward."
+            ],
+            "interests": [
+              "art",
+              "nature"
+            ],
+            "also": [
+              {
+                "ref": "place:crowder-county-park",
+                "source": {
+                  "kind": "park",
+                  "title": "Crowder County Park",
+                  "address": "4709 Ten Ten Road",
+                  "lat": 35.69174392711247,
+                  "lon": -78.76585678897689,
+                  "url": "https://www.wakegov.com/departments-government/parks-recreation-and-open-space/all-parks-trails/crowder-county-park",
+                  "amenities": [
+                    "playground",
+                    "picnic-shelter",
+                    "restroom",
+                    "greenway",
+                    "garden"
+                  ],
+                  "indoor": false,
+                  "area": "cary-apex",
+                  "hours": null,
+                  "cost": "Free"
+                }
+              }
+            ],
+            "area": "cary-apex",
+            "outdoor": true,
+            "source": {
+              "kind": "event",
+              "title": "Art in the Park: The Colors of Fall",
+              "start": "2026-11-22T14:00:00",
+              "end": "2026-11-22T15:00:00",
+              "venue": "Crowder County Park",
+              "address": "4709 Ten Ten Road",
+              "url": "https://apm.activecommunities.com/wakeparks/Activity_Search/art-in-the-park-the-colors-of-fall/9404?locale=en-US",
+              "cost": "Free",
+              "lat": 35.69174392711247,
+              "lon": -78.76585678897689,
+              "ages": null,
+              "registration": "https://apm.activecommunities.com/wakeparks/Activity_Search/art-in-the-park-the-colors-of-fall/9404?locale=en-US",
+              "indoor": false,
+              "area": "cary-apex",
+              "source": "wake-parks",
+              "dropIn": false
+            }
+          },
+          "alternatives": [
+            {
+              "ref": "event:weekly:mols-early-childhood:2026-11-22",
+              "arrive": "09:30",
+              "leave": "11:30",
+              "why": "Your child can try sensory play, songs and stories in Hideaway Woods. It is a drop-in, so come and go as {they} like{s}. Museum admission is included.",
+              "tips": [
+                "Let {them} pick a station and stay as long as {they} like{s}.",
+                "Bring a snack for before you head home."
+              ],
+              "interests": [
+                "music",
+                "stories",
+                "nature"
+              ],
+              "also": [],
+              "area": "durham",
+              "outdoor": true,
+              "source": {
+                "kind": "event",
+                "title": "Early Childhood Drop-In",
+                "start": "2026-11-22T09:30:00",
+                "end": "2026-11-22T11:30:00",
+                "venue": "Hideaway Woods, Museum of Life and Science",
+                "address": "433 W Murray Ave, Durham, NC 27704",
+                "url": "https://www.lifeandscience.org/learn/drop-in-programs/",
+                "cost": "Included with museum admission",
+                "lat": 36.0294,
+                "lon": -78.8993,
+                "ages": "young children and their caregivers",
+                "registration": false,
+                "indoor": false,
+                "area": "durham",
+                "source": "weekly",
+                "dropIn": true
+              }
+            },
+            {
+              "ref": "event:wake:24172",
+              "arrive": "13:50",
+              "leave": "15:20",
+              "why": "Your child makes an alphabet craft at the library, then runs around at Middle Creek School Park.",
+              "tips": [
+                "Bring a snack for the park.",
+                "Tell your child the park comes next so it is easy to leave the craft."
+              ],
+              "interests": [
+                "art",
+                "stories",
+                "movement"
+              ],
+              "also": [
+                {
+                  "ref": "place:middle-creek-school-park",
+                  "source": {
+                    "kind": "park",
+                    "title": "Middle Creek School Park",
+                    "address": "151 Middle Creek Park Avenue, Cary, NC",
+                    "lat": 35.662513193321765,
+                    "lon": -78.7643852913516,
+                    "url": "https://www.carync.gov/recreation-enjoyment/parks-greenways-environment/parks/middle-creek-school-park",
+                    "amenities": [
+                      "playground",
+                      "picnic-shelter",
+                      "restroom",
+                      "greenway"
+                    ],
+                    "indoor": false,
+                    "area": "south-wake",
+                    "hours": null,
+                    "cost": "Free"
+                  }
+                }
+              ],
+              "area": "south-wake",
+              "outdoor": false,
+              "source": {
+                "kind": "event",
+                "title": "ABC Craft and Learn",
+                "start": "2026-11-22T14:00:00-05:00",
+                "end": "2026-11-22T14:45:00-05:00",
+                "venue": "Middle Creek Community Library",
+                "address": "111 Middle Creek Park Avenue, Apex, NC",
+                "url": "https://www.wake.gov/events/abc-craft-and-learn-645",
+                "cost": "Free",
+                "lat": 35.6682418176122,
+                "lon": -78.7587045638366,
+                "ages": "Young Children",
+                "registration": null,
+                "indoor": true,
+                "area": "south-wake",
+                "source": "wake-county",
+                "dropIn": false
+              }
+            },
+            {
+              "ref": "event:wake-parks:9411:2026-11-22",
+              "arrive": "09:30",
+              "leave": "11:00",
+              "why": "Your child learns about the American bison at the Exploration Station. Families need to sign up first.",
+              "tips": [
+                "Ask your child what the bison might eat.",
+                "Bring a drink and a small snack."
+              ],
+              "interests": [
+                "animals",
+                "science"
+              ],
+              "also": [],
+              "area": "raleigh",
+              "outdoor": true,
+              "source": {
+                "kind": "event",
+                "title": "Exploration Station: American Bison",
+                "start": "2026-11-22T08:30:00",
+                "end": "2026-11-22T17:00:00",
+                "venue": "Historic Yates Mill County Park",
+                "address": "4620 Lake Wheeler Rd., Raleigh, NC  27603",
+                "url": "https://apm.activecommunities.com/wakeparks/Activity_Search/exploration-station-american-bison/9411?locale=en-US",
+                "cost": "Free",
+                "lat": 35.72157134974476,
+                "lon": -78.68526087901417,
+                "ages": null,
+                "registration": false,
+                "indoor": false,
+                "area": "raleigh",
+                "source": "wake-parks",
+                "dropIn": false
+              }
+            },
+            {
+              "ref": "place:blue-jay-point-county-park",
+              "arrive": "09:30",
+              "leave": "11:30",
+              "why": "A morning of nature and playground time. Your child can follow the greenway and then climb and swing.",
+              "tips": [
+                "Start on the greenway while energy is high.",
+                "Bring a snack for the picnic shelter."
+              ],
+              "interests": [
+                "nature",
+                "movement"
+              ],
+              "also": [],
+              "area": "north-raleigh",
+              "outdoor": true,
+              "source": {
+                "kind": "park",
+                "title": "Blue Jay Point County Park",
+                "address": "3200 Pleasant Union Church Road, Raleigh, NC 27614",
+                "lat": 35.96762827199893,
+                "lon": -78.64454785104198,
+                "url": "https://www.wakegov.com/departments-government/parks-recreation-and-open-space/all-parks-trails/blue-jay-point-county-park",
+                "amenities": [
+                  "playground",
+                  "picnic-shelter",
+                  "restroom",
+                  "greenway",
+                  "nature"
+                ],
+                "indoor": false,
+                "area": "north-raleigh",
+                "hours": null,
+                "cost": "Free"
+              }
+            }
+          ],
+          "rainBackup": null,
+          "timeline": [
+            {
+              "start": "07:00",
+              "end": "07:30",
+              "kind": "meal",
+              "title": "Up and breakfast"
+            },
+            {
+              "start": "07:30",
+              "end": "11:45",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "11:45",
+              "end": "12:15",
+              "kind": "meal",
+              "title": "Lunch"
+            },
+            {
+              "start": "12:15",
+              "end": "13:00",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "13:00",
+              "end": "13:30",
+              "kind": "quiet",
+              "title": "Quiet time",
+              "detail": "Books or quiet play in their room."
+            },
+            {
+              "start": "13:30",
+              "end": "13:50",
+              "kind": "travel",
+              "title": "Drive to Crowder County Park"
+            },
+            {
+              "start": "13:50",
+              "end": "15:00",
+              "kind": "outing",
+              "title": "Art in the Park: The Colors of Fall"
+            },
+            {
+              "start": "15:00",
+              "end": "15:40",
+              "kind": "outing",
+              "title": "Crowder County Park"
+            },
+            {
+              "start": "15:40",
+              "end": "16:00",
+              "kind": "travel",
+              "title": "Drive home"
+            },
+            {
+              "start": "16:00",
+              "end": "18:00",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "18:00",
+              "end": "18:45",
+              "kind": "meal",
+              "title": "Dinner"
+            },
+            {
+              "start": "18:45",
+              "end": "19:30",
+              "kind": "routine",
+              "title": "Bath, books and bed"
+            }
+          ]
+        },
+        {
+          "nap": "no-nap",
+          "napLabel": "No nap",
+          "headline": "Songs, stories and sensory play, then a park",
+          "main": {
+            "ref": "event:weekly:mols-early-childhood:2026-11-22",
+            "arrive": "09:30",
+            "leave": "11:30",
+            "why": "Your child can try sensory play, songs and stories in Hideaway Woods, then run at Rock Quarry Park. The program is a drop-in and museum admission is included.",
+            "tips": [
+              "Stay at the program about an hour, then head to the park.",
+              "Bring a snack for between the two stops.",
+              "Let your child choose the last activity so leaving feels easy."
+            ],
+            "interests": [
+              "music",
+              "stories",
+              "movement"
+            ],
+            "also": [
+              {
+                "ref": "place:rock-quarry-park",
+                "source": {
+                  "kind": "park",
+                  "title": "Rock Quarry Park",
+                  "address": "701 Stadium Dr, Durham, NC",
+                  "lat": 36.03166363636364,
+                  "lon": -78.90176545454545,
+                  "url": "https://www.dprplaymore.org/Facilities/Facility/Details/Rock-Quarry-Park-60",
+                  "amenities": [
+                    "playground",
+                    "splashpad",
+                    "restroom",
+                    "greenway"
+                  ],
+                  "indoor": false,
+                  "area": "durham",
+                  "hours": null,
+                  "cost": "Free"
+                }
+              }
+            ],
+            "area": "durham",
+            "outdoor": true,
+            "source": {
+              "kind": "event",
+              "title": "Early Childhood Drop-In",
+              "start": "2026-11-22T09:30:00",
+              "end": "2026-11-22T11:30:00",
+              "venue": "Hideaway Woods, Museum of Life and Science",
+              "address": "433 W Murray Ave, Durham, NC 27704",
+              "url": "https://www.lifeandscience.org/learn/drop-in-programs/",
+              "cost": "Included with museum admission",
+              "lat": 36.0294,
+              "lon": -78.8993,
+              "ages": "young children and their caregivers",
+              "registration": false,
+              "indoor": false,
+              "area": "durham",
+              "source": "weekly",
+              "dropIn": true
+            }
+          },
+          "alternatives": [
+            {
+              "ref": "event:wake-parks:9404",
+              "arrive": "13:50",
+              "leave": "15:40",
+              "why": "Your child makes art inspired by fall leaves at Robin Shelter. Families need to sign up first. Afterward {they} can play at Crowder County Park.",
+              "tips": [
+                "Wear clothes that can get messy.",
+                "Bring a snack for the playground afterward."
+              ],
+              "interests": [
+                "art",
+                "nature"
+              ],
+              "also": [
+                {
+                  "ref": "place:crowder-county-park",
+                  "source": {
+                    "kind": "park",
+                    "title": "Crowder County Park",
+                    "address": "4709 Ten Ten Road",
+                    "lat": 35.69174392711247,
+                    "lon": -78.76585678897689,
+                    "url": "https://www.wakegov.com/departments-government/parks-recreation-and-open-space/all-parks-trails/crowder-county-park",
+                    "amenities": [
+                      "playground",
+                      "picnic-shelter",
+                      "restroom",
+                      "greenway",
+                      "garden"
+                    ],
+                    "indoor": false,
+                    "area": "cary-apex",
+                    "hours": null,
+                    "cost": "Free"
+                  }
+                }
+              ],
+              "area": "cary-apex",
+              "outdoor": true,
+              "source": {
+                "kind": "event",
+                "title": "Art in the Park: The Colors of Fall",
+                "start": "2026-11-22T14:00:00",
+                "end": "2026-11-22T15:00:00",
+                "venue": "Crowder County Park",
+                "address": "4709 Ten Ten Road",
+                "url": "https://apm.activecommunities.com/wakeparks/Activity_Search/art-in-the-park-the-colors-of-fall/9404?locale=en-US",
+                "cost": "Free",
+                "lat": 35.69174392711247,
+                "lon": -78.76585678897689,
+                "ages": null,
+                "registration": "https://apm.activecommunities.com/wakeparks/Activity_Search/art-in-the-park-the-colors-of-fall/9404?locale=en-US",
+                "indoor": false,
+                "area": "cary-apex",
+                "source": "wake-parks",
+                "dropIn": false
+              }
+            },
+            {
+              "ref": "event:wake-parks:8358:2026-11-22",
+              "arrive": "09:00",
+              "leave": "10:50",
+              "why": "Your child follows the StoryWalk, reading a story one page at a time along the Educational Loop. Then {they} can play at Beech Bluff County Park.",
+              "tips": [
+                "Let your child point out what happens on each page.",
+                "Bring a snack for the park."
+              ],
+              "interests": [
+                "stories",
+                "nature"
+              ],
+              "also": [
+                {
+                  "ref": "place:beech-bluff-county-park",
+                  "source": {
+                    "kind": "park",
+                    "title": "Beech Bluff County Park",
+                    "address": "Beech Bluff Park Drive, Fuquay-Varina, NC",
+                    "lat": 35.58537279715877,
+                    "lon": -78.6793341971644,
+                    "url": "https://www.wake.gov/departments-government/parks-recreation-open-space/all-parks-trails/beech-bluff-county-park",
+                    "amenities": [
+                      "playground",
+                      "garden",
+                      "greenway",
+                      "restroom",
+                      "picnic-shelter"
+                    ],
+                    "indoor": false,
+                    "area": "south-wake",
+                    "hours": null,
+                    "cost": "Free"
+                  }
+                }
+              ],
+              "area": "south-wake",
+              "outdoor": true,
+              "source": {
+                "kind": "event",
+                "title": "Beech Bluff County Park StoryWalk® 2026 (Self-Led)",
+                "start": "2026-11-22T08:00:00",
+                "end": "2026-11-22T17:30:00",
+                "venue": "Beech Bluff County Park",
+                "address": "Beech Bluff Park Drive, Fuquay-Varina, NC",
+                "url": "https://apm.activecommunities.com/wakeparks/Activity_Search/beech-bluff-county-park-storywalk-2026-self-led/8358?locale=en-US",
+                "cost": "Free",
+                "lat": 35.58537279715877,
+                "lon": -78.6793341971644,
+                "ages": null,
+                "registration": false,
+                "indoor": false,
+                "area": "south-wake",
+                "source": "wake-parks",
+                "dropIn": true
+              }
+            },
+            {
+              "ref": "event:wake-parks:9411:2026-11-22",
+              "arrive": "09:30",
+              "leave": "11:00",
+              "why": "Your child learns about the American bison at the Exploration Station. Families need to sign up first.",
+              "tips": [
+                "Ask your child what the bison might eat.",
+                "Bring a drink and a small snack."
+              ],
+              "interests": [
+                "animals",
+                "science"
+              ],
+              "also": [],
+              "area": "raleigh",
+              "outdoor": true,
+              "source": {
+                "kind": "event",
+                "title": "Exploration Station: American Bison",
+                "start": "2026-11-22T08:30:00",
+                "end": "2026-11-22T17:00:00",
+                "venue": "Historic Yates Mill County Park",
+                "address": "4620 Lake Wheeler Rd., Raleigh, NC  27603",
+                "url": "https://apm.activecommunities.com/wakeparks/Activity_Search/exploration-station-american-bison/9411?locale=en-US",
+                "cost": "Free",
+                "lat": 35.72157134974476,
+                "lon": -78.68526087901417,
+                "ages": null,
+                "registration": false,
+                "indoor": false,
+                "area": "raleigh",
+                "source": "wake-parks",
+                "dropIn": false
+              }
+            },
+            {
+              "ref": "place:falls-lake-state-recreation-area-holly-point-entrance",
+              "arrive": "09:30",
+              "leave": "11:30",
+              "why": "A morning of playground time and a walk on the greenway. Let your child lead the way and pick the next stop.",
+              "tips": [
+                "Bring a snack for the picnic shelter.",
+                "Give a five-minute warning before leaving."
+              ],
+              "interests": [
+                "movement",
+                "nature"
+              ],
+              "also": [],
+              "area": "north-raleigh",
+              "outdoor": true,
+              "source": {
+                "kind": "park",
+                "title": "Holly Point, Falls Lake",
+                "address": "14424 New Light Rd. Wake Forest",
+                "lat": 36.01002946709156,
+                "lon": -78.65745775232777,
+                "url": "https://www.ncparks.gov/falls-lake-state-recreation-area",
+                "amenities": [
+                  "playground",
+                  "picnic-shelter",
+                  "restroom",
+                  "greenway"
+                ],
+                "indoor": false,
+                "area": "north-raleigh",
+                "hours": null,
+                "cost": "Free"
+              }
+            }
+          ],
+          "rainBackup": null,
+          "timeline": [
+            {
+              "start": "07:00",
+              "end": "07:30",
+              "kind": "meal",
+              "title": "Up and breakfast"
+            },
+            {
+              "start": "07:30",
+              "end": "08:50",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "08:50",
+              "end": "09:10",
+              "kind": "routine",
+              "title": "Get ready to go",
+              "detail": "Shoes on, the bag, water and a snack."
+            },
+            {
+              "start": "09:10",
+              "end": "09:30",
+              "kind": "travel",
+              "title": "Drive to Hideaway Woods, Museum of Life and Science"
+            },
+            {
+              "start": "09:30",
+              "end": "11:30",
+              "kind": "outing",
+              "title": "Hideaway Woods, Museum of Life and Science"
+            },
+            {
+              "start": "11:30",
+              "end": "11:50",
+              "kind": "travel",
+              "title": "Drive home"
+            },
+            {
+              "start": "11:50",
+              "end": "12:20",
+              "kind": "meal",
+              "title": "Lunch"
+            },
+            {
+              "start": "12:20",
+              "end": "18:00",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "18:00",
+              "end": "18:45",
+              "kind": "meal",
+              "title": "Dinner"
+            },
+            {
+              "start": "18:45",
+              "end": "19:30",
+              "kind": "routine",
+              "title": "Bath, books and bed"
+            }
+          ]
+        }
+      ],
+      "retried": [
+        "[quiet] main event:wake-parks:9404: leaves 15:45, event ends 15:00",
+        "[no-nap] main event:mols-early-childhood:2026-11-22 is not one of the candidates"
+      ]
+    }
+  ],
+  "checked": {
+    "at": "2026-11-14T11:03:30.542Z",
+    "forecast": "none",
+    "weather": null,
+    "hidden": []
+  }
+}

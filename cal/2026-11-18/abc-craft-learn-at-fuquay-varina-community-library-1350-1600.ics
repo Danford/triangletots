@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Triangle Tots//triangletots.com//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:2026-11-18-abc-craft-learn-at-fuquay-varina-community-library-1350-1600
+ @triangletots.com
+DTSTAMP:20261114T100000Z
+DTSTART:20261118T185000Z
+DTEND:20261118T210000Z
+SUMMARY:ABC Craft & Learn at Fuquay-Varina Community Library
+LOCATION:271 Bramblehill Drive\, Fuquay-Varina\, NC
+DESCRIPTION:https://www.wake.gov/events/abc-craft-learn-193\nhttp://www.fuq
+ uay-varina.org/Facilities/Facility/Details/FuquayVarina-Museums-at-Ashwort
+ h-Park-14\nThe whole day: https://triangletots.com/2026-11-18/t4/\nTimes a
+ nd details can change. Check the event or place before you go.
+END:VEVENT
+END:VCALENDAR

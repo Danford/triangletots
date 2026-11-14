@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Triangle Tots//triangletots.com//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:2026-11-18-toddler-storytime-at-wake-forest-community-library-0920-1040
+ @triangletots.com
+DTSTAMP:20261114T100000Z
+DTSTART:20261118T142000Z
+DTEND:20261118T154000Z
+SUMMARY:Toddler Storytime at Wake Forest Community Library
+LOCATION:400 E Holding Avenue\, Wake Forest\, NC
+DESCRIPTION:https://www.wake.gov/events/toddler-storytime-1122\nhttps://www
+ .wakeforestnc.gov/parks-recreation-cultural-resources/parks-facilities/hol
+ ding-park\nThe whole day: https://triangletots.com/2026-11-18/t2/\nTimes a
+ nd details can change. Check the event or place before you go.
+END:VEVENT
+END:VCALENDAR

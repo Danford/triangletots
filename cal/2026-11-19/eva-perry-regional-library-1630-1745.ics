@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Triangle Tots//triangletots.com//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:2026-11-19-eva-perry-regional-library-1630-1745@triangletots.com
+DTSTAMP:20261114T100000Z
+DTSTART:20261119T213000Z
+DTEND:20261119T224500Z
+SUMMARY:Eva Perry Regional Library
+LOCATION:2100 Shepherds Vineyard Drive\, Apex\, NC
+DESCRIPTION:The whole day: https://triangletots.com/2026-11-19/t4/\nTimes a
+ nd details can change. Check the event or place before you go.
+END:VEVENT
+END:VCALENDAR

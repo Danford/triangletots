@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Triangle Tots//triangletots.com//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:2026-11-19-rock-quarry-park-1430-1545@triangletots.com
+DTSTAMP:20261114T100000Z
+DTSTART:20261119T193000Z
+DTEND:20261119T204500Z
+SUMMARY:Rock Quarry Park
+LOCATION:701 Stadium Dr\, Durham\, NC
+DESCRIPTION:https://www.dprplaymore.org/Facilities/Facility/Details/Rock-Qu
+ arry-Park-60\nThe whole day: https://triangletots.com/2026-11-19/t1/\nTime
+ s and details can change. Check the event or place before you go.
+END:VEVENT
+END:VCALENDAR

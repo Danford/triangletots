@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Triangle Tots//triangletots.com//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:2026-11-24-family-storytime-at-north-regional-library-0920-1130@triangl
+ etots.com
+DTSTAMP:20261114T100000Z
+DTSTART:20261124T142000Z
+DTEND:20261124T163000Z
+SUMMARY:Family Storytime at North Regional Library
+LOCATION:7009 Harps Mill Road\, Raleigh\, NC
+DESCRIPTION:https://www.wake.gov/events/family-storytime-4325\nhttps://rale
+ ighnc.gov/parks-and-recreation/places/optimist-park\nThe whole day: https:
+ //triangletots.com/2026-11-24/t4/\nTimes and details can change. Check the
+  event or place before you go.
+END:VEVENT
+END:VCALENDAR

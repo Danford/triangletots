@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Triangle Tots//triangletots.com//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:2026-11-26-gipson-play-plaza-at-dix-park-0900-1045@triangletots.com
+DTSTAMP:20261114T100000Z
+DTSTART:20261126T140000Z
+DTEND:20261126T154500Z
+SUMMARY:Gipson Play Plaza at Dix Park
+LOCATION:715 Biggs Dr\, Raleigh\, NC 27603
+DESCRIPTION:https://dixpark.org/gipson-play-plaza\nThe whole day: https://t
+ riangletots.com/2026-11-26/t1/\nTimes and details can change. Check the ev
+ ent or place before you go.
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Triangle Tots//triangletots.com//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:2026-11-25-live-animal-feeding-ocean-habitat-at-nc-museum-of-natural-sc
+ -1035-1200@triangletots.com
+DTSTAMP:20261114T100000Z
+DTSTART:20261125T153500Z
+DTEND:20261125T170000Z
+SUMMARY:Live Animal Feeding – Ocean Habitat at NC Museum of Natural Scien
+ ces
+LOCATION:11 West Jones Street\, Raleigh\, NC\, 27601
+DESCRIPTION:https://www.naturalsciences.org/calendar/event/live-animal-feed
+ ing-ocean-habitat-5/2026-11-25/\nhttps://raleighnc.gov/parks-and-recreatio
+ n/places/fred-fletcher-park\nThe whole day: https://triangletots.com/2026-
+ 11-25/t3/\nTimes and details can change. Check the event or place before y
+ ou go.
+END:VEVENT
+END:VCALENDAR

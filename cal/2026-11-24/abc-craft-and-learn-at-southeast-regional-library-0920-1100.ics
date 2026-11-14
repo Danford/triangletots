@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Triangle Tots//triangletots.com//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:2026-11-24-abc-craft-and-learn-at-southeast-regional-library-0920-1100@
+ triangletots.com
+DTSTAMP:20261114T100000Z
+DTSTART:20261124T142000Z
+DTEND:20261124T160000Z
+SUMMARY:ABC Craft and Learn at Southeast Regional Library
+LOCATION:908 Seventh Avenue\, Garner\, NC
+DESCRIPTION:https://www.wake.gov/events/abc-craft-and-learn-580\nhttps://ww
+ w.garnernc.gov/departments/parks-recreation-and-cultural-resources/garner-
+ parks/garner-recreational-park\nThe whole day: https://triangletots.com/20
+ 26-11-24/t3/\nTimes and details can change. Check the event or place befor
+ e you go.
+END:VEVENT
+END:VCALENDAR

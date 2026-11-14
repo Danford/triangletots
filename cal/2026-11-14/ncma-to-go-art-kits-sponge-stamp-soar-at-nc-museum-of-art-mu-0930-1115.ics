@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Triangle Tots//triangletots.com//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:2026-11-14-ncma-to-go-art-kits-sponge-stamp-soar-at-nc-museum-of-art-mu
+ -0930-1115@triangletots.com
+DTSTAMP:20261114T100000Z
+DTSTART:20261114T143000Z
+DTEND:20261114T161500Z
+SUMMARY:NCMA to Go Art Kits: Sponge\, Stamp\, Soar at NC Museum of Art M
+ useum Park
+LOCATION:2110 Blue Ridge Rd\, Raleigh\, NC 27607
+DESCRIPTION:https://ncartmuseum.org/museum-park/\nhttps://ncartmuseum.org/e
+ vent/ncma-to-go-art-kits-sponge-stamp-soar/\nThe whole day: https://triang
+ letots.com/2026-11-14/t2/\nTimes and details can change. Check the event o
+ r place before you go.
+END:VEVENT
+END:VCALENDAR

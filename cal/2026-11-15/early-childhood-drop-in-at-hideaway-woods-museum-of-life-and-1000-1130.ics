@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Triangle Tots//triangletots.com//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:2026-11-15-early-childhood-drop-in-at-hideaway-woods-museum-of-life-and
+ -1000-1130@triangletots.com
+DTSTAMP:20261114T100000Z
+DTSTART:20261115T150000Z
+DTEND:20261115T163000Z
+SUMMARY:Early Childhood Drop-In at Hideaway Woods\, Museum of Life and Scie
+ nce
+LOCATION:433 W Murray Ave\, Durham\, NC 27704
+DESCRIPTION:https://www.lifeandscience.org/learn/drop-in-programs/\nThe who
+ le day: https://triangletots.com/2026-11-15/t3/\nTimes and details can cha
+ nge. Check the event or place before you go.
+END:VEVENT
+END:VCALENDAR

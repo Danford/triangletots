@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Triangle Tots//triangletots.com//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:2026-11-14-a-nutcracker-experience-at-plummer-park-1040-1215@triangleto
+ ts.com
+DTSTAMP:20261114T100000Z
+DTSTART:20261114T154000Z
+DTEND:20261114T171500Z
+SUMMARY:A Nutcracker Experience at Plummer Park
+LOCATION:965 Jones Wynd\, Wake Forest\, NC
+DESCRIPTION:https://www.wakeforestnc.gov/parks-recreation-cultural-resource
+ s/parks-facilities/plummer-park\nhttps://www.wake.gov/events/nutcracker-ex
+ perience\nThe whole day: https://triangletots.com/2026-11-14/t3/\nTimes an
+ d details can change. Check the event or place before you go.
+END:VEVENT
+END:VCALENDAR

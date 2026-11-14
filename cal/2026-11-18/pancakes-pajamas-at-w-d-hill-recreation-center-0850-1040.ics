@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Triangle Tots//triangletots.com//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:2026-11-18-pancakes-pajamas-at-w-d-hill-recreation-center-0850-1040@tri
+ angletots.com
+DTSTAMP:20261114T100000Z
+DTSTART:20261118T135000Z
+DTEND:20261118T154000Z
+SUMMARY:Pancakes & Pajamas at W.D. Hill Recreation Center
+LOCATION:1308 Fayetteville St\, Durham\, NC
+DESCRIPTION:Sign up first.\nhttps://apm.activecommunities.com/dprplaymore/A
+ ctivity_Search/pancakes-pajamas/20235?locale=en-US\nhttps://www.dprplaymor
+ e.org/Facilities/Facility/Details/Hillside-Park-32\nThe whole day: https:/
+ /triangletots.com/2026-11-18/t2/\nTimes and details can change. Check the 
+ event or place before you go.
+END:VEVENT
+END:VCALENDAR

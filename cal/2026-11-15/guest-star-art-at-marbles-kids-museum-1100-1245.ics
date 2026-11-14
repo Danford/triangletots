@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Triangle Tots//triangletots.com//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:2026-11-15-guest-star-art-at-marbles-kids-museum-1100-1245@triangletots
+ .com
+DTSTAMP:20261114T100000Z
+DTSTART:20261115T160000Z
+DTEND:20261115T174500Z
+SUMMARY:Guest Star: Art at Marbles Kids Museum
+LOCATION:201 E Hargett St\, Raleigh\, NC 27601
+DESCRIPTION:https://marbleskidsmuseum.org/event/48798/\nhttps://raleighnc.g
+ ov/parks-and-recreation/places/levelle-moton-park\nThe whole day: https://
+ triangletots.com/2026-11-15/t1/\nTimes and details can change. Check the e
+ vent or place before you go.
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Triangle Tots//triangletots.com//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:2026-11-20-walltown-park-1200-1300@triangletots.com
+DTSTAMP:20261114T100000Z
+DTSTART:20261120T170000Z
+DTEND:20261120T180000Z
+SUMMARY:Walltown Park
+LOCATION:1308 W Club Blvd\, Durham\, NC
+DESCRIPTION:https://www.dprplaymore.org/Facilities/Facility/Details/Walltow
+ n-Park-74\nThe whole day: https://triangletots.com/2026-11-20/t2/\nTimes a
+ nd details can change. Check the event or place before you go.
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,867 @@
+{
+  "date": "2026-11-22",
+  "band": "t2",
+  "versions": [
+    {
+      "at": "2026-11-09T11:05:17.473Z",
+      "reason": null,
+      "forecast": "none",
+      "weather": null,
+      "plans": [
+        {
+          "nap": "early-nap",
+          "napLabel": "One nap, 12 to 2",
+          "headline": "Meet the bison, then wander the mill park",
+          "main": {
+            "ref": "event:wake-parks:9411:2026-11-22",
+            "arrive": "09:00",
+            "leave": "10:45",
+            "why": "Your toddler can visit the bison Exploration Station outdoors at Yates Mill and learn about America's national mammal. A family needs to sign up first.",
+            "tips": [
+              "Sign up before you go so the morning runs smoothly.",
+              "Talk about the big animals together and let {them} choose how long to look.",
+              "Bring a snack for the walk back, and give a heads-up before you leave."
+            ],
+            "interests": [
+              "animals",
+              "nature",
+              "science"
+            ],
+            "also": [],
+            "area": "raleigh",
+            "outdoor": true,
+            "source": {
+              "kind": "event",
+              "title": "Exploration Station: American Bison",
+              "start": "2026-11-22T08:30:00",
+              "end": "2026-11-22T17:00:00",
+              "venue": "Historic Yates Mill County Park",
+              "address": "4620 Lake Wheeler Rd., Raleigh, NC  27603",
+              "url": "https://apm.activecommunities.com/wakeparks/Activity_Search/exploration-station-american-bison/9411?locale=en-US",
+              "cost": "Free",
+              "lat": 35.72157134974476,
+              "lon": -78.68526087901417,
+              "ages": null,
+              "registration": false,
+              "indoor": false,
+              "area": "raleigh",
+              "source": "wake-parks",
+              "dropIn": false
+            }
+          },
+          "alternatives": [
+            {
+              "ref": "event:wake-parks:8358:2026-11-22",
+              "arrive": "09:00",
+              "leave": "10:45",
+              "why": "Your toddler walks the StoryWalk loop and reads the story one page at a time. The park also has a playground and a garden.",
+              "tips": [
+                "Let {them} run ahead to find the next page.",
+                "Bring a snack for after the walk."
+              ],
+              "interests": [
+                "stories",
+                "nature",
+                "movement"
+              ],
+              "also": [],
+              "area": "south-wake",
+              "outdoor": true,
+              "source": {
+                "kind": "event",
+                "title": "Beech Bluff County Park StoryWalk® 2026 (Self-Led)",
+                "start": "2026-11-22T08:00:00",
+                "end": "2026-11-22T17:30:00",
+                "venue": "Beech Bluff County Park",
+                "address": "Beech Bluff Park Drive, Fuquay-Varina, NC",
+                "url": "https://apm.activecommunities.com/wakeparks/Activity_Search/beech-bluff-county-park-storywalk-2026-self-led/8358?locale=en-US",
+                "cost": "Free",
+                "lat": 35.58537279715877,
+                "lon": -78.6793341971644,
+                "ages": null,
+                "registration": false,
+                "indoor": false,
+                "area": "south-wake",
+                "source": "wake-parks",
+                "dropIn": true
+              }
+            },
+            {
+              "ref": "event:weekly:mols-early-childhood:2026-11-22",
+              "arrive": "09:30",
+              "leave": "11:15",
+              "why": "Sensory play, songs and stories in Hideaway Woods. Your child can drop in and stay as long as {they} like{s}.",
+              "tips": [
+                "Follow {their} lead from one activity to the next.",
+                "Pack a water bottle and a snack."
+              ],
+              "interests": [
+                "science",
+                "music",
+                "stories"
+              ],
+              "also": [],
+              "area": "durham",
+              "outdoor": true,
+              "source": {
+                "kind": "event",
+                "title": "Early Childhood Drop-In",
+                "start": "2026-11-22T09:30:00",
+                "end": "2026-11-22T11:30:00",
+                "venue": "Hideaway Woods, Museum of Life and Science",
+                "address": "433 W Murray Ave, Durham, NC 27704",
+                "url": "https://www.lifeandscience.org/learn/drop-in-programs/",
+                "cost": "Included with museum admission",
+                "lat": 36.0294,
+                "lon": -78.8993,
+                "ages": "young children and their caregivers",
+                "registration": false,
+                "indoor": false,
+                "area": "durham",
+                "source": "weekly",
+                "dropIn": true
+              }
+            },
+            {
+              "ref": "place:hemlock-bluffs",
+              "arrive": "09:30",
+              "leave": "11:00",
+              "why": "A slow nature walk on mulched trails and boardwalks. Your toddler can stop to look at leaves and sticks along the way.",
+              "tips": [
+                "There are stairs, so a carrier beats a stroller.",
+                "Bring a snack to eat at the trailhead."
+              ],
+              "interests": [
+                "nature",
+                "movement"
+              ],
+              "also": [],
+              "area": "cary-apex",
+              "outdoor": true,
+              "source": {
+                "kind": "park",
+                "title": "Hemlock Bluffs Nature Preserve",
+                "address": "2616 Kildaire Farm Rd, Cary, NC 27518",
+                "lat": 35.7253,
+                "lon": -78.7846,
+                "url": "https://www.carync.gov/recreation-enjoyment/parks-greenways-environment/parks/stevens-nature-center-at-hemlock-bluffs-nature-preserve",
+                "amenities": [
+                  "nature"
+                ],
+                "indoor": false,
+                "area": "cary-apex",
+                "hours": {
+                  "sun": "9 a.m. to sunset",
+                  "mon": "9 a.m. to sunset",
+                  "tue": "9 a.m. to sunset",
+                  "wed": "9 a.m. to sunset",
+                  "thu": "9 a.m. to sunset",
+                  "fri": "9 a.m. to sunset",
+                  "sat": "9 a.m. to sunset"
+                },
+                "cost": "Free",
+                "note": "Free. About three miles of mulched trails and boardwalks with stairs (a carrier beats a stroller); restrooms in the Stevens Nature Center, open Mon–Sat 10–5, Sun 1–5."
+              }
+            },
+            {
+              "ref": "place:gipson-play-plaza",
+              "arrive": "14:30",
+              "leave": "16:30",
+              "why": "A big destination playground for climbing, sliding and running after the nap.",
+              "tips": [
+                "Bring a snack and a water bottle.",
+                "Give a five-minute warning before you head out."
+              ],
+              "interests": [
+                "movement",
+                "nature"
+              ],
+              "also": [],
+              "area": "raleigh",
+              "outdoor": true,
+              "source": {
+                "kind": "park",
+                "title": "Gipson Play Plaza at Dix Park",
+                "address": "715 Biggs Dr, Raleigh, NC 27603",
+                "lat": 35.7667,
+                "lon": -78.6539,
+                "url": "https://dixpark.org/gipson-play-plaza",
+                "amenities": [
+                  "playground",
+                  "restroom"
+                ],
+                "indoor": false,
+                "area": "raleigh",
+                "hours": {
+                  "sun": "8 a.m.–9 p.m.",
+                  "mon": "8 a.m.–9 p.m.",
+                  "tue": "8 a.m.–9 p.m.",
+                  "wed": "8 a.m.–9 p.m.",
+                  "thu": "8 a.m.–9 p.m.",
+                  "fri": "8 a.m.–9 p.m.",
+                  "sat": "8 a.m.–9 p.m."
+                },
+                "cost": "Free",
+                "note": "Free; free parking. Big destination playground on the south edge of Dix Park."
+              }
+            }
+          ],
+          "rainBackup": null,
+          "timeline": [
+            {
+              "start": "07:00",
+              "end": "07:30",
+              "kind": "meal",
+              "title": "Up and breakfast"
+            },
+            {
+              "start": "07:30",
+              "end": "08:20",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "08:20",
+              "end": "08:40",
+              "kind": "routine",
+              "title": "Get ready to go",
+              "detail": "Shoes on, the bag, water and a snack."
+            },
+            {
+              "start": "08:40",
+              "end": "09:00",
+              "kind": "travel",
+              "title": "Drive to Historic Yates Mill County Park"
+            },
+            {
+              "start": "09:00",
+              "end": "10:45",
+              "kind": "outing",
+              "title": "Historic Yates Mill County Park"
+            },
+            {
+              "start": "10:45",
+              "end": "11:05",
+              "kind": "travel",
+              "title": "Drive home"
+            },
+            {
+              "start": "11:05",
+              "end": "11:15",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "11:15",
+              "end": "11:45",
+              "kind": "meal",
+              "title": "Lunch"
+            },
+            {
+              "start": "11:45",
+              "end": "12:00",
+              "kind": "quiet",
+              "title": "Wind down",
+              "detail": "A couple of books to settle."
+            },
+            {
+              "start": "12:00",
+              "end": "14:00",
+              "kind": "nap",
+              "title": "Nap"
+            },
+            {
+              "start": "14:00",
+              "end": "14:20",
+              "kind": "routine",
+              "title": "Up and a snack"
+            },
+            {
+              "start": "14:20",
+              "end": "18:00",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "18:00",
+              "end": "18:45",
+              "kind": "meal",
+              "title": "Dinner"
+            },
+            {
+              "start": "18:45",
+              "end": "19:30",
+              "kind": "routine",
+              "title": "Bath, books and bed"
+            }
+          ]
+        },
+        {
+          "nap": "late-nap",
+          "napLabel": "One nap, 1 to 3",
+          "headline": "Songs, stories and sensory play in the woods",
+          "main": {
+            "ref": "event:weekly:mols-early-childhood:2026-11-22",
+            "arrive": "09:30",
+            "leave": "11:30",
+            "why": "Your toddler gets sensory play, songs and stories in Hideaway Woods at the Museum of Life and Science. Come and go as {they} like{s}.",
+            "tips": [
+              "Let {them} pick a station and stay as long as {they} like{s}.",
+              "Bring a water bottle and a snack for before the drive home.",
+              "Tell {them} what comes next before you say goodbye."
+            ],
+            "interests": [
+              "science",
+              "music",
+              "stories"
+            ],
+            "also": [],
+            "area": "durham",
+            "outdoor": true,
+            "source": {
+              "kind": "event",
+              "title": "Early Childhood Drop-In",
+              "start": "2026-11-22T09:30:00",
+              "end": "2026-11-22T11:30:00",
+              "venue": "Hideaway Woods, Museum of Life and Science",
+              "address": "433 W Murray Ave, Durham, NC 27704",
+              "url": "https://www.lifeandscience.org/learn/drop-in-programs/",
+              "cost": "Included with museum admission",
+              "lat": 36.0294,
+              "lon": -78.8993,
+              "ages": "young children and their caregivers",
+              "registration": false,
+              "indoor": false,
+              "area": "durham",
+              "source": "weekly",
+              "dropIn": true
+            }
+          },
+          "alternatives": [
+            {
+              "ref": "event:wake-parks:8358:2026-11-22",
+              "arrive": "09:00",
+              "leave": "11:00",
+              "why": "Your toddler follows the StoryWalk loop and reads the story page by page. The park also has a playground and a garden.",
+              "tips": [
+                "Let {them} lead the way to each page.",
+                "Bring a snack for after the walk."
+              ],
+              "interests": [
+                "stories",
+                "nature",
+                "movement"
+              ],
+              "also": [],
+              "area": "south-wake",
+              "outdoor": true,
+              "source": {
+                "kind": "event",
+                "title": "Beech Bluff County Park StoryWalk® 2026 (Self-Led)",
+                "start": "2026-11-22T08:00:00",
+                "end": "2026-11-22T17:30:00",
+                "venue": "Beech Bluff County Park",
+                "address": "Beech Bluff Park Drive, Fuquay-Varina, NC",
+                "url": "https://apm.activecommunities.com/wakeparks/Activity_Search/beech-bluff-county-park-storywalk-2026-self-led/8358?locale=en-US",
+                "cost": "Free",
+                "lat": 35.58537279715877,
+                "lon": -78.6793341971644,
+                "ages": null,
+                "registration": false,
+                "indoor": false,
+                "area": "south-wake",
+                "source": "wake-parks",
+                "dropIn": true
+              }
+            },
+            {
+              "ref": "event:wake-parks:9411:2026-11-22",
+              "arrive": "09:30",
+              "leave": "11:00",
+              "why": "Your toddler can visit the bison Exploration Station outdoors at Yates Mill. A family needs to sign up first.",
+              "tips": [
+                "Sign up before you go.",
+                "Let {them} look at the animals as long as {they} like{s}."
+              ],
+              "interests": [
+                "animals",
+                "nature",
+                "science"
+              ],
+              "also": [],
+              "area": "raleigh",
+              "outdoor": true,
+              "source": {
+                "kind": "event",
+                "title": "Exploration Station: American Bison",
+                "start": "2026-11-22T08:30:00",
+                "end": "2026-11-22T17:00:00",
+                "venue": "Historic Yates Mill County Park",
+                "address": "4620 Lake Wheeler Rd., Raleigh, NC  27603",
+                "url": "https://apm.activecommunities.com/wakeparks/Activity_Search/exploration-station-american-bison/9411?locale=en-US",
+                "cost": "Free",
+                "lat": 35.72157134974476,
+                "lon": -78.68526087901417,
+                "ages": null,
+                "registration": false,
+                "indoor": false,
+                "area": "raleigh",
+                "source": "wake-parks",
+                "dropIn": false
+              }
+            },
+            {
+              "ref": "place:nc-botanical-garden",
+              "arrive": "09:30",
+              "leave": "11:15",
+              "why": "Your toddler can stroll the display gardens and the forest trails behind them, looking for leaves and seeds.",
+              "tips": [
+                "Bring a bag for gathering fallen leaves.",
+                "Pack a snack for a bench break."
+              ],
+              "interests": [
+                "nature",
+                "movement"
+              ],
+              "also": [],
+              "area": "chapel-hill",
+              "outdoor": true,
+              "source": {
+                "kind": "garden",
+                "title": "NC Botanical Garden",
+                "address": "100 Old Mason Farm Rd, Chapel Hill, NC 27517",
+                "lat": 35.9011,
+                "lon": -79.0319,
+                "url": "https://ncbg.unc.edu/visit/",
+                "amenities": [
+                  "garden",
+                  "nature",
+                  "restroom"
+                ],
+                "indoor": false,
+                "area": "chapel-hill",
+                "cost": "Free",
+                "note": "Free. Display gardens, and nature trails through the forest behind them."
+              }
+            },
+            {
+              "ref": "place:gipson-play-plaza",
+              "arrive": "15:30",
+              "leave": "17:00",
+              "why": "A big destination playground for an afternoon of climbing and running after the nap.",
+              "tips": [
+                "Bring a snack and a water bottle.",
+                "Start the goodbyes a little before you leave."
+              ],
+              "interests": [
+                "movement",
+                "nature"
+              ],
+              "also": [],
+              "area": "raleigh",
+              "outdoor": true,
+              "source": {
+                "kind": "park",
+                "title": "Gipson Play Plaza at Dix Park",
+                "address": "715 Biggs Dr, Raleigh, NC 27603",
+                "lat": 35.7667,
+                "lon": -78.6539,
+                "url": "https://dixpark.org/gipson-play-plaza",
+                "amenities": [
+                  "playground",
+                  "restroom"
+                ],
+                "indoor": false,
+                "area": "raleigh",
+                "hours": {
+                  "sun": "8 a.m.–9 p.m.",
+                  "mon": "8 a.m.–9 p.m.",
+                  "tue": "8 a.m.–9 p.m.",
+                  "wed": "8 a.m.–9 p.m.",
+                  "thu": "8 a.m.–9 p.m.",
+                  "fri": "8 a.m.–9 p.m.",
+                  "sat": "8 a.m.–9 p.m."
+                },
+                "cost": "Free",
+                "note": "Free; free parking. Big destination playground on the south edge of Dix Park."
+              }
+            }
+          ],
+          "rainBackup": null,
+          "timeline": [
+            {
+              "start": "07:00",
+              "end": "07:30",
+              "kind": "meal",
+              "title": "Up and breakfast"
+            },
+            {
+              "start": "07:30",
+              "end": "08:50",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "08:50",
+              "end": "09:10",
+              "kind": "routine",
+              "title": "Get ready to go",
+              "detail": "Shoes on, the bag, water and a snack."
+            },
+            {
+              "start": "09:10",
+              "end": "09:30",
+              "kind": "travel",
+              "title": "Drive to Hideaway Woods, Museum of Life and Science"
+            },
+            {
+              "start": "09:30",
+              "end": "11:30",
+              "kind": "outing",
+              "title": "Hideaway Woods, Museum of Life and Science"
+            },
+            {
+              "start": "11:30",
+              "end": "11:50",
+              "kind": "travel",
+              "title": "Drive home"
+            },
+            {
+              "start": "11:50",
+              "end": "12:15",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "12:15",
+              "end": "12:45",
+              "kind": "meal",
+              "title": "Lunch"
+            },
+            {
+              "start": "12:45",
+              "end": "13:00",
+              "kind": "quiet",
+              "title": "Wind down",
+              "detail": "A couple of books to settle."
+            },
+            {
+              "start": "13:00",
+              "end": "15:00",
+              "kind": "nap",
+              "title": "Nap"
+            },
+            {
+              "start": "15:00",
+              "end": "15:20",
+              "kind": "routine",
+              "title": "Up and a snack"
+            },
+            {
+              "start": "15:20",
+              "end": "18:30",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "18:30",
+              "end": "19:15",
+              "kind": "meal",
+              "title": "Dinner"
+            },
+            {
+              "start": "19:15",
+              "end": "20:00",
+              "kind": "routine",
+              "title": "Bath, books and bed"
+            }
+          ]
+        },
+        {
+          "nap": "short-nap",
+          "napLabel": "Short nap, 1 to 2",
+          "headline": "Read a story one page at a time on a park walk",
+          "main": {
+            "ref": "event:wake-parks:8358:2026-11-22",
+            "arrive": "09:30",
+            "leave": "11:15",
+            "why": "Your toddler walks the StoryWalk loop and reads a story page by page. The park also has a playground and a garden for after.",
+            "tips": [
+              "Let {them} run ahead to find the next page.",
+              "Bring a snack for the playground.",
+              "Plan a last page or two so leaving feels like part of the story."
+            ],
+            "interests": [
+              "stories",
+              "nature",
+              "movement"
+            ],
+            "also": [],
+            "area": "south-wake",
+            "outdoor": true,
+            "source": {
+              "kind": "event",
+              "title": "Beech Bluff County Park StoryWalk® 2026 (Self-Led)",
+              "start": "2026-11-22T08:00:00",
+              "end": "2026-11-22T17:30:00",
+              "venue": "Beech Bluff County Park",
+              "address": "Beech Bluff Park Drive, Fuquay-Varina, NC",
+              "url": "https://apm.activecommunities.com/wakeparks/Activity_Search/beech-bluff-county-park-storywalk-2026-self-led/8358?locale=en-US",
+              "cost": "Free",
+              "lat": 35.58537279715877,
+              "lon": -78.6793341971644,
+              "ages": null,
+              "registration": false,
+              "indoor": false,
+              "area": "south-wake",
+              "source": "wake-parks",
+              "dropIn": true
+            }
+          },
+          "alternatives": [
+            {
+              "ref": "event:weekly:mols-early-childhood:2026-11-22",
+              "arrive": "09:30",
+              "leave": "11:30",
+              "why": "Sensory play, songs and stories in Hideaway Woods. Your child can drop in and stay as long as {they} like{s}.",
+              "tips": [
+                "Follow {their} lead from one activity to the next.",
+                "Pack a water bottle and a snack."
+              ],
+              "interests": [
+                "science",
+                "music",
+                "stories"
+              ],
+              "also": [],
+              "area": "durham",
+              "outdoor": true,
+              "source": {
+                "kind": "event",
+                "title": "Early Childhood Drop-In",
+                "start": "2026-11-22T09:30:00",
+                "end": "2026-11-22T11:30:00",
+                "venue": "Hideaway Woods, Museum of Life and Science",
+                "address": "433 W Murray Ave, Durham, NC 27704",
+                "url": "https://www.lifeandscience.org/learn/drop-in-programs/",
+                "cost": "Included with museum admission",
+                "lat": 36.0294,
+                "lon": -78.8993,
+                "ages": "young children and their caregivers",
+                "registration": false,
+                "indoor": false,
+                "area": "durham",
+                "source": "weekly",
+                "dropIn": true
+              }
+            },
+            {
+              "ref": "event:wake-parks:9411:2026-11-22",
+              "arrive": "09:00",
+              "leave": "10:30",
+              "why": "Your toddler can visit the bison Exploration Station outdoors at Yates Mill. A family needs to sign up first.",
+              "tips": [
+                "Sign up before you go.",
+                "Talk about the big animals together."
+              ],
+              "interests": [
+                "animals",
+                "nature",
+                "science"
+              ],
+              "also": [],
+              "area": "raleigh",
+              "outdoor": true,
+              "source": {
+                "kind": "event",
+                "title": "Exploration Station: American Bison",
+                "start": "2026-11-22T08:30:00",
+                "end": "2026-11-22T17:00:00",
+                "venue": "Historic Yates Mill County Park",
+                "address": "4620 Lake Wheeler Rd., Raleigh, NC  27603",
+                "url": "https://apm.activecommunities.com/wakeparks/Activity_Search/exploration-station-american-bison/9411?locale=en-US",
+                "cost": "Free",
+                "lat": 35.72157134974476,
+                "lon": -78.68526087901417,
+                "ages": null,
+                "registration": false,
+                "indoor": false,
+                "area": "raleigh",
+                "source": "wake-parks",
+                "dropIn": false
+              }
+            },
+            {
+              "ref": "place:lake-crabtree-county-park",
+              "arrive": "14:30",
+              "leave": "16:30",
+              "why": "Your toddler gets playground time and a nature walk after the nap.",
+              "tips": [
+                "Bring a snack and a water bottle.",
+                "Let {them} choose which path to follow."
+              ],
+              "interests": [
+                "movement",
+                "nature"
+              ],
+              "also": [],
+              "area": "north-raleigh",
+              "outdoor": true,
+              "source": {
+                "kind": "park",
+                "title": "Lake Crabtree County Park",
+                "address": "1400 Aviation Pkwy., Morrisville, NC  27560",
+                "lat": 35.845600151785014,
+                "lon": -78.80104927513673,
+                "url": "https://www.wakegov.com/departments-government/parks-recreation-and-open-space/all-parks-trails/lake-crabtree-county-park",
+                "amenities": [
+                  "playground",
+                  "picnic-shelter",
+                  "restroom",
+                  "greenway",
+                  "nature",
+                  "garden",
+                  "boating"
+                ],
+                "indoor": false,
+                "area": "north-raleigh",
+                "hours": null,
+                "cost": "Free"
+              }
+            },
+            {
+              "ref": "place:apex-nature-park",
+              "arrive": "09:30",
+              "leave": "11:00",
+              "why": "An easy nature walk on the greenway, with a picnic shelter for a snack.",
+              "tips": [
+                "Collect leaves and sticks along the way.",
+                "Bring a snack to eat at the shelter."
+              ],
+              "interests": [
+                "nature",
+                "movement"
+              ],
+              "also": [],
+              "area": "cary-apex",
+              "outdoor": true,
+              "source": {
+                "kind": "park",
+                "title": "Apex Nature Park",
+                "address": "2600 Evans Rd., Apex, NC",
+                "lat": 35.71709646233568,
+                "lon": -78.90520368087866,
+                "url": "https://www.apexnc.org/800/Nature-Park-Seymour-Athletic-Fields",
+                "amenities": [
+                  "picnic-shelter",
+                  "restroom",
+                  "greenway",
+                  "nature"
+                ],
+                "indoor": false,
+                "area": "cary-apex",
+                "hours": null,
+                "cost": "Free"
+              }
+            }
+          ],
+          "rainBackup": null,
+          "timeline": [
+            {
+              "start": "07:00",
+              "end": "07:30",
+              "kind": "meal",
+              "title": "Up and breakfast"
+            },
+            {
+              "start": "07:30",
+              "end": "08:50",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "08:50",
+              "end": "09:10",
+              "kind": "routine",
+              "title": "Get ready to go",
+              "detail": "Shoes on, the bag, water and a snack."
+            },
+            {
+              "start": "09:10",
+              "end": "09:30",
+              "kind": "travel",
+              "title": "Drive to Beech Bluff County Park"
+            },
+            {
+              "start": "09:30",
+              "end": "11:15",
+              "kind": "outing",
+              "title": "Beech Bluff County Park"
+            },
+            {
+              "start": "11:15",
+              "end": "11:35",
+              "kind": "travel",
+              "title": "Drive home"
+            },
+            {
+              "start": "11:35",
+              "end": "12:15",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "12:15",
+              "end": "12:45",
+              "kind": "meal",
+              "title": "Lunch"
+            },
+            {
+              "start": "12:45",
+              "end": "13:00",
+              "kind": "quiet",
+              "title": "Wind down",
+              "detail": "A couple of books to settle."
+            },
+            {
+              "start": "13:00",
+              "end": "14:00",
+              "kind": "nap",
+              "title": "Nap"
+            },
+            {
+              "start": "14:00",
+              "end": "14:20",
+              "kind": "routine",
+              "title": "Up and a snack"
+            },
+            {
+              "start": "14:20",
+              "end": "18:00",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "18:00",
+              "end": "18:45",
+              "kind": "meal",
+              "title": "Dinner"
+            },
+            {
+              "start": "18:45",
+              "end": "19:30",
+              "kind": "routine",
+              "title": "Bath, books and bed"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "checked": {
+    "at": "2026-11-14T11:03:27.453Z",
+    "forecast": "none",
+    "weather": null,
+    "hidden": []
+  }
+}

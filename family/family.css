@@ -1,0 +1,248 @@
+/* The family page. Only a build with the switch on has this file. Colours and type are the site's own (site/style.css). */
+.family-app .fa-card { background: var(--white); border: 1px solid var(--line); border-radius: 1rem; padding: 1rem; margin: 1rem 0; }
+.family-app h2 { margin: 0 0 .5rem; font-size: 1.3rem; }
+.family-app h3 { margin: 1rem 0 .3rem; font-size: 1.05rem; }
+.family-app p { margin: .4rem 0; }
+.fa-field { display: block; margin: .7rem 0; font-weight: 700; }
+.fa-field input, .fa-field select { display: block; width: 100%; box-sizing: border-box; font: inherit; font-weight: 400; min-height: 2.9rem; padding: .5rem .6rem; margin-top: .25rem; border: 1px solid #8fa1b5; border-radius: .6rem; background: var(--white); color: var(--ink); }
+.fa-row { display: grid; grid-template-columns: 1fr 1fr; gap: .6rem; align-items: end; }
+.family-app summary h2 { display: inline; margin: 0; }
+.family-app summary { cursor: pointer; }
+.fa-kid { border-top: 1px solid var(--line); padding-top: .6rem; margin-top: .8rem; }
+.fa-kid-head { display: flex; justify-content: space-between; align-items: center; }
+.fa-link { background: none; border: 0; padding: .4rem 0; font: inherit; color: var(--ink); text-decoration: underline; cursor: pointer; min-height: 2.75rem; }
+.fa-note { color: var(--muted); font-size: .95rem; }
+.fa-bad { color: #9c2f2f; font-weight: 700; }
+.fa-good { color: var(--pine); font-weight: 700; }
+.fa-buttons { display: flex; flex-wrap: wrap; gap: .6rem; margin: .6rem 0; align-items: center; }
+.fa-days { display: flex; gap: .4rem; overflow-x: auto; padding: .3rem 0 .6rem; }
+.fa-days button { flex: none; min-width: 3.4rem; min-height: 3.2rem; border: 1px solid var(--line); border-radius: .7rem; background: var(--white); color: var(--ink); font: inherit; cursor: pointer; }
+.fa-days button b { display: block; font-family: var(--display); font-size: 1.15rem; }
+.fa-days button[aria-pressed="true"] { background: var(--ink); color: var(--white); border-color: var(--ink); }
+.fa-out { border-left: .35rem solid var(--grass); padding-left: .7rem; margin: .6rem 0; }
+.fa-out.in { border-left-color: var(--berry); }
+.fa-out strong { font-family: var(--display); font-size: 1.15rem; display: block; }
+.fa-child { margin: .9rem 0; }
+.fa-child .fa-name { font-weight: 700; margin-bottom: .2rem; }
+.family-app .strip { height: 2.3rem; background: #e9eff5; }
+.family-app .strip .seg > span { font-size: .75rem; }
+.fa-hours { display: flex; justify-content: space-between; font-size: .75rem; color: var(--muted); margin-top: .15rem; }
+.fa-times { list-style: none; margin: .4rem 0 0; padding: 0; font-size: .95rem; }
+.fa-times li { display: flex; gap: .6rem; padding: .15rem 0; }
+.fa-times .t { flex: 0 0 4.4rem; color: var(--muted); }
+.fa-swaps { list-style: none; margin: .4rem 0; padding: 0; }
+.fa-swaps li { border-top: 1px solid var(--line); padding: .5rem 0; display: flex; justify-content: space-between; gap: .6rem; align-items: center; }
+.fa-swaps button { flex: none; }
+.fa-qr { max-width: 15rem; margin: .6rem auto; }
+.fa-qr svg { display: block; width: 100%; height: auto; }
+.fa-code { font-family: ui-monospace, Consolas, monospace; font-size: .8rem; word-break: break-all; background: var(--air); border-radius: .5rem; padding: .5rem; }
+/* The account: sign in, pick a plan, the member's bar. */
+.family-app .fa-card { box-shadow: 0 1px 2px rgba(18, 35, 63, .05), 0 6px 20px rgba(18, 35, 63, .06); }
+.family-app .fa-hero { padding: 1.4rem 1.2rem 1.2rem; border-top: .35rem solid var(--sun); }
+.family-app .fa-hero h2 { font-size: 1.6rem; line-height: 1.15; }
+.fa-kicker { margin: 0 0 .3rem !important; font-family: var(--display); font-weight: 800; font-size: .8rem; letter-spacing: .08em; text-transform: uppercase; color: var(--pine); }
+.fa-perks { list-style: none; margin: 1rem 0; padding: 0; display: grid; gap: .7rem; }
+.fa-perks li { position: relative; padding-left: 2rem; display: flex; flex-direction: column; }
+.fa-perks li::before { content: ""; position: absolute; left: 0; top: .1rem; width: 1.3rem; height: 1.3rem; border-radius: 50%; background: var(--grass-pale) url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 16 16'%3E%3Cpath d='M4 8.5l2.5 2.5L12 5.5' fill='none' stroke='%232e8b57' stroke-width='2.2' stroke-linecap='round' stroke-linejoin='round'/%3E%3C/svg%3E") center / 80% no-repeat; }
+.fa-perks strong { font-family: var(--display); font-size: 1.05rem; }
+.fa-perks span { color: var(--muted); font-size: .95rem; }
+.fa-login { margin-top: 1rem; padding-top: .4rem; border-top: 1px solid var(--line); }
+.fa-login .btn, .fa-go { width: 100%; text-align: center; }
+/* Sign in or make an account: two tabs over one form. */
+.fa-tabs { display: grid; grid-template-columns: 1fr 1fr; gap: .3rem; margin-top: 1.1rem; padding: .3rem; background: var(--air); border-radius: .8rem; }
+.fa-tab { font: inherit; font-family: var(--display); font-weight: 800; color: var(--muted); background: none; border: 0; border-radius: .6rem; min-height: 2.75rem; cursor: pointer; }
+.fa-tab.on { background: var(--white); color: var(--ink); box-shadow: 0 1px 3px rgba(18, 35, 63, .12); }
+.fa-auth { margin-top: .4rem; }
+.fa-auth .btn { width: 100%; text-align: center; margin-top: .3rem; }
+.fa-auth .fa-note { text-align: center; margin: .3rem 0 0; }
+.fa-auth-lead { margin-top: 1rem !important; }
+.fa-hint { display: block; font-weight: 400; font-size: .85rem; color: var(--muted); margin-top: .25rem; }
+.fa-msg { background: var(--berry-pale); color: #7c2346; border-radius: .6rem; padding: .6rem .8rem; font-weight: 700; }
+.fa-plans { border: 0; padding: 0; margin: 1.2rem 0 .8rem; display: grid; gap: .6rem; }
+.fa-plans legend { font-weight: 700; margin-bottom: .5rem; padding: 0; }
+.fa-plans[disabled] { opacity: .55; }
+.fa-plan { position: relative; display: grid; grid-template-columns: 1fr auto; gap: .1rem .6rem; align-items: baseline; padding: .85rem 1rem .85rem 2.9rem; border: 2px solid var(--line); border-radius: .9rem; cursor: pointer; background: var(--white); transition: border-color .15s, background .15s; }
+.fa-plan:hover { border-color: #9fb3c6; }
+.fa-plan.on { border-color: var(--ink); background: var(--sun-pale); }
+.fa-plan input { position: absolute; left: 1rem; top: 1.05rem; width: 1.25rem; height: 1.25rem; margin: 0; accent-color: var(--ink); }
+.fa-plan-name { font-family: var(--display); font-weight: 800; font-size: 1.15rem; }
+.fa-plan-price { text-align: right; color: var(--muted); }
+.fa-plan-price b { font-family: var(--display); font-size: 1.35rem; color: var(--ink); }
+.fa-plan-sub { grid-column: 1 / -1; color: var(--muted); font-size: .9rem; }
+.fa-tag { display: inline-block; vertical-align: .15em; margin-left: .3rem; font-family: var(--text); font-size: .72rem; font-weight: 700; letter-spacing: .02em; color: var(--white); background: var(--grass); border-radius: 99px; padding: .15rem .55rem; }
+.fa-upsell { margin-top: .9rem; padding: .8rem .9rem; border: 1px dashed var(--line); border-radius: .8rem; background: #f6f9fd; }
+.fa-upsell p { margin: .25rem 0 .7rem; }
+.fa-due { display: flex; justify-content: space-between; align-items: baseline; border-top: 1px dashed var(--line); padding-top: .7rem; margin-top: .2rem; font-weight: 700; }
+.fa-due b { font-family: var(--display); font-size: 1.35rem; }
+.fa-go { margin-top: .9rem !important; }
+.fa-fine { color: var(--muted); font-size: .85rem; text-align: center; margin-top: .6rem !important; }
+.fa-who { color: var(--muted); font-size: .92rem; margin: 1rem 0 0 !important; }
+.fa-who .fa-link { min-height: 0; padding: 0; color: var(--muted); }
+.fa-member { border-left: .35rem solid var(--grass); }
+.fa-member-head { display: flex; flex-wrap: wrap; align-items: center; gap: .5rem .7rem; font-weight: 700; }
+.fa-badge { font-family: var(--display); font-weight: 800; font-size: .85rem; background: var(--grass-pale); color: var(--pine); border-radius: 99px; padding: .2rem .7rem; }
+.fa-member-foot { display: flex; flex-wrap: wrap; justify-content: space-between; align-items: center; gap: .3rem 1rem; margin-top: .3rem; }
+.fa-member-foot .fa-who { margin: 0 !important; }
+.fa-member-links { display: flex; gap: 1rem; }
+.fa-quiet { color: var(--muted); font-size: .92rem; }
+.fa-banner { display: flex; flex-direction: column; gap: .15rem; border-radius: 1rem; padding: .9rem 1rem; margin: 1rem 0; background: var(--sky-pale); border: 1px solid var(--sky); }
+.fa-banner.good { background: var(--grass-pale); border-color: #a9d8bc; }
+.fa-banner strong { font-family: var(--display); font-size: 1.15rem; }
+.fa-loading { display: flex; align-items: center; gap: .7rem; color: var(--muted); }
+.fa-spin { width: 1.1rem; height: 1.1rem; border-radius: 50%; border: 3px solid var(--line); border-top-color: var(--ink); animation: fa-spin .8s linear infinite; }
+@keyframes fa-spin { to { transform: rotate(360deg); } }
+@media (prefers-reduced-motion: reduce) { .fa-spin { animation: none; } }
+/* Folding sections: a chevron rather than the browser's triangle. */
+.family-app details.fa-card > summary { list-style: none; display: flex; justify-content: space-between; align-items: center; }
+.family-app details.fa-card > summary::-webkit-details-marker { display: none; }
+.family-app details.fa-card > summary::after { content: ""; width: .6rem; height: .6rem; border-right: 2.5px solid var(--ink); border-bottom: 2.5px solid var(--ink); transform: rotate(45deg); margin: 0 .3rem .3rem; transition: transform .15s; }
+.family-app details.fa-card[open] > summary::after { transform: rotate(-135deg); margin-bottom: -.2rem; }
+.fa-ghost { font: inherit; font-family: var(--display); font-weight: 800; color: var(--ink); background: var(--white); border: 2px dashed #9fb3c6; border-radius: .8rem; padding: .7rem 1.1rem; min-height: 2.9rem; width: 100%; cursor: pointer; }
+.fa-ghost:hover { border-color: var(--ink); background: var(--air); }
+.fa-child details > summary { list-style: none; display: inline-flex; align-items: center; gap: .45rem; color: var(--muted); font-size: .95rem; padding: .3rem 0; }
+.fa-child details > summary::-webkit-details-marker { display: none; }
+.fa-child details > summary::before { content: ""; width: .4rem; height: .4rem; border-right: 2px solid currentColor; border-bottom: 2px solid currentColor; transform: rotate(-45deg); transition: transform .15s; }
+.fa-child details[open] > summary::before { transform: rotate(45deg); }
+@media (min-width: 40rem) {
+  .fa-perks { grid-template-columns: 1fr 1fr; gap: .9rem 1.4rem; }
+  .fa-plans { grid-template-columns: 1fr 1fr; }
+  .fa-login { display: grid; grid-template-columns: 1fr auto; gap: .8rem; align-items: end; }
+  .fa-login .fa-field { margin-bottom: 0; }
+  .fa-login .btn { width: auto; min-height: 2.9rem; }
+}
+/* Signed out: the price under the pitch, and the form in its own panel. */
+.fa-price { display: inline-block; background: var(--sun-pale); border-radius: .6rem; padding: .35rem .7rem; font-size: .95rem; }
+.fa-authbox { background: var(--air); border-radius: .9rem; padding: .2rem 1rem 1rem; margin-top: 1.2rem; }
+.fa-authbox .fa-tabs { background: var(--white); margin-top: 1rem; }
+.fa-authbox .fa-tab.on { background: var(--ink); color: var(--white); }
+/* Under the account, until there's a plan: an example day, how it works, and questions. */
+.fa-more h2 { font-size: 1.3rem; }
+.fa-sample-head { display: flex; flex-wrap: wrap; justify-content: space-between; gap: .3rem .8rem; align-items: baseline; }
+.fa-sample-who { color: var(--muted); font-size: .92rem; }
+.fa-sample .fa-times { margin-top: .8rem; border-top: 1px dashed var(--line); padding-top: .6rem; }
+.fa-sample .fa-times .nap { color: var(--pine); font-weight: 700; }
+.fa-steps { list-style: none; counter-reset: s; margin: .6rem 0 0; padding: 0; display: grid; gap: .8rem; }
+.fa-steps li { counter-increment: s; display: grid; grid-template-columns: 2.2rem 1fr; gap: .1rem .7rem; }
+.fa-steps li::before { content: counter(s); grid-row: span 2; width: 2.2rem; height: 2.2rem; border-radius: 50%; background: var(--sun); display: grid; place-items: center; font-family: var(--display); font-weight: 800; }
+.fa-steps strong { font-family: var(--display); }
+.fa-steps span { color: var(--muted); font-size: .95rem; }
+.fa-faq details { border-top: 1px solid var(--line); padding: .7rem 0; }
+.fa-faq details:first-of-type { border-top: 0; }
+.fa-faq summary { cursor: pointer; font-weight: 700; }
+.fa-faq details p { color: var(--muted); }
+/* Saved plans: the day as a chip, then the name. */
+.fa-saved-row { display: flex; align-items: center; gap: .7rem; min-width: 0; }
+.fa-when { flex: none; text-align: center; min-width: 3.2rem; border-radius: .6rem; background: var(--air); padding: .25rem .4rem; line-height: 1.1; font-size: .78rem; color: var(--muted); }
+.fa-when b { display: block; font-family: var(--display); font-size: 1.15rem; color: var(--ink); }
+.fa-saved-sub { border-top: 1px solid var(--line); margin-top: .8rem; padding-top: .3rem; }
+.fa-saved-sub h3 { font-family: var(--display); }
+.fa-map { margin: .6rem 0; }
+.fa-map svg { display: block; width: 100%; height: auto; border-radius: .8rem; border: 1px solid var(--line); background: #e4eadf; }
+.fa-map path, .fa-map polyline { vector-effect: non-scaling-stroke; }
+.fa-route-case { fill: none; stroke: var(--white); stroke-width: 8px; stroke-linecap: round; stroke-linejoin: round; }
+/* Each trip's colour is on its lines and pins (stroke=, fill=, from TRIP_COLORS in routemap.js), so none is set here. */
+.fa-route { fill: none; stroke-width: 4.5px; stroke-linecap: round; stroke-linejoin: round; }
+.fa-route-back { stroke-width: 3px; stroke-opacity: .7; }
+.fa-route-straight { stroke-dasharray: 2px 9px; }
+.fa-route-lead { fill: none; stroke-width: 3px; stroke-dasharray: 2px 7px; stroke-linecap: round; }
+.fa-pin-home { fill: var(--sun); stroke: var(--ink); stroke-width: 2.5px; vector-effect: non-scaling-stroke; }
+.fa-pin-stop { fill: var(--white); }
+.fa-pin-icon { pointer-events: none; }
+/* The key under the day's map, and the day's and week's totals. */
+.fa-legend { list-style: none; margin: .5rem 0; padding: 0; display: grid; gap: .45rem; }
+.fa-legend li { display: grid; grid-template-columns: 1.1rem 1fr; gap: .1rem .55rem; align-items: start; }
+.fa-swatch { width: 1.1rem; height: .45rem; border-radius: 99px; margin-top: .5rem; }
+.fa-legend b { font-family: var(--display); }
+.fa-legend .fa-note { grid-column: 2; margin: 0; }
+.fa-totals { display: flex; flex-wrap: wrap; gap: .4rem; margin: .6rem 0; padding: 0; list-style: none; }
+.fa-totals li { background: var(--air); border-radius: 99px; padding: .3rem .75rem; font-size: .92rem; font-weight: 700; }
+.fa-totals li.over { background: var(--berry-pale); color: #7c2346; }
+/* The children in the family card. */
+.fa-kids-head { margin-top: 1.2rem !important; }
+.fa-kid-card { display: grid; grid-template-columns: auto 1fr auto; gap: .8rem; align-items: start; padding: .85rem; margin: .6rem 0; border: 1px solid var(--line); border-radius: .9rem; background: var(--white); }
+.fa-avatar { width: 2.6rem; height: 2.6rem; border-radius: 50%; display: grid; place-items: center; color: #fff; font-family: var(--display); font-weight: 800; font-size: 1.2rem; }
+.fa-kid-body strong { font-family: var(--display); font-size: 1.1rem; }
+.fa-kid-body p { margin: .15rem 0 !important; }
+.fa-chips-mini { list-style: none; display: flex; flex-wrap: wrap; gap: .3rem; margin: .4rem 0 0; padding: 0; }
+.fa-chips-mini li { font-size: .82rem; background: var(--air); border-radius: 99px; padding: .15rem .55rem; }
+.fa-edit { align-self: center; }
+/* Adding or changing a child: a sheet from the bottom on a phone, a window in the middle on a wider screen. */
+.fa-dialog { padding: 0; border: 0; color: var(--ink); background: var(--white); width: 100%; max-width: 100%; max-height: 92vh; margin: auto 0 0; border-radius: 1.2rem 1.2rem 0 0; box-shadow: 0 -8px 40px rgba(18, 35, 63, .25); overflow: hidden; }
+.fa-dialog[open] { display: flex; animation: fa-up .22s ease-out; }
+.fa-dialog::backdrop { background: rgba(18, 35, 63, .45); backdrop-filter: blur(3px); }
+@keyframes fa-up { from { transform: translateY(2rem); opacity: 0; } to { transform: none; opacity: 1; } }
+@media (prefers-reduced-motion: reduce) { .fa-dialog[open] { animation: none; } }
+.fa-dialog-inner { display: flex; flex-direction: column; width: 100%; max-height: 92vh; margin: 0; }
+.fa-dialog-head { display: flex; justify-content: space-between; align-items: flex-start; gap: 1rem; padding: 1.1rem 1.2rem .7rem; border-bottom: 1px solid var(--line); border-top: .35rem solid var(--sun); }
+.fa-dialog-head h2 { margin: 0; font-size: 1.45rem; }
+.fa-dialog-body { overflow-y: auto; padding: .2rem 1.2rem 1rem; overscroll-behavior: contain; }
+.fa-dialog-foot { display: flex; align-items: center; gap: .8rem; padding: .8rem 1.2rem calc(.8rem + env(safe-area-inset-bottom)); border-top: 1px solid var(--line); background: var(--white); }
+.fa-dialog-foot .btn { min-width: 7.5rem; text-align: center; }
+.fa-spacer { flex: 1; }
+.fa-x { flex: none; width: 2.6rem; height: 2.6rem; border-radius: 50%; border: 0; background: var(--air); color: var(--ink); font-size: 1.5rem; line-height: 1; cursor: pointer; }
+.fa-x:hover { background: var(--line); }
+.fa-x-small { width: 2rem; height: 2rem; font-size: 1.15rem; }
+.fa-sec { padding: .5rem 0 .8rem; border-bottom: 1px solid var(--line); }
+.fa-sec:last-child { border-bottom: 0; }
+.fa-sec h3 { font-family: var(--display); margin: .7rem 0 .2rem !important; }
+.fa-group { border: 0; padding: 0; margin: .8rem 0 0; }
+.fa-group legend { font-size: .8rem; font-weight: 800; letter-spacing: .06em; text-transform: uppercase; color: var(--muted); padding: 0; margin-bottom: .4rem; }
+.fa-chips { display: flex; flex-wrap: wrap; gap: .45rem; }
+.fa-chip { font: inherit; font-size: .95rem; display: inline-flex; align-items: center; gap: .35rem; min-height: 2.6rem; padding: .35rem .8rem; border-radius: 99px; border: 1.5px solid var(--line); background: var(--white); color: var(--ink); cursor: pointer; transition: background .12s, border-color .12s, transform .08s; }
+.fa-chip:hover { border-color: #9fb3c6; }
+.fa-chip:active { transform: scale(.96); }
+.fa-chip-emoji { font-size: 1.1rem; }
+.fa-chip-w { font-size: .8rem; font-weight: 800; margin-left: .1rem; }
+.fa-chip.w1 { background: var(--sky-pale); border-color: var(--sky); }
+.fa-chip.w2 { background: var(--berry-pale); border-color: #e59ab8; }
+.fa-chip.w3 { background: var(--sun-pale); border-color: var(--sun); box-shadow: 0 0 0 2px var(--sun); font-weight: 700; }
+.fa-share-bar { display: flex; height: .9rem; border-radius: 99px; overflow: hidden; margin: .6rem 0; background: var(--air); }
+.fa-share-bar span { display: block; height: 100%; transition: width .2s; }
+.fa-shares { list-style: none; margin: 0; padding: 0; }
+.fa-shares li { display: grid; grid-template-columns: .8rem 1fr auto auto auto; gap: .5rem; align-items: center; padding: .35rem 0; border-top: 1px solid var(--line); }
+.fa-shares li:first-child { border-top: 0; }
+.fa-dot { width: .8rem; height: .8rem; border-radius: 50%; }
+.fa-share-name { font-weight: 700; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+.fa-share-pct { font-variant-numeric: tabular-nums; color: var(--muted); font-weight: 700; min-width: 2.6rem; text-align: right; }
+.fa-seg { display: inline-flex; background: var(--air); border-radius: .6rem; padding: .15rem; }
+.fa-seg button { font: inherit; font-size: .85rem; border: 0; background: none; color: var(--muted); border-radius: .45rem; min-height: 2.2rem; min-width: 2.3rem; padding: 0 .45rem; cursor: pointer; }
+.fa-seg button[aria-pressed="true"] { background: var(--white); color: var(--ink); font-weight: 800; box-shadow: 0 1px 3px rgba(18, 35, 63, .15); }
+.fa-seg-label { display: none; }
+.fa-loves { list-style: none; margin: .3rem 0; padding: .45rem .7rem; background: var(--sun-pale); border-radius: .6rem; font-size: .92rem; }
+@media (min-width: 40rem) {
+  .fa-dialog { width: min(40rem, 94vw); margin: auto; border-radius: 1.2rem; max-height: 88vh; box-shadow: 0 20px 60px rgba(18, 35, 63, .3); }
+  .fa-dialog-inner { max-height: 88vh; }
+  .fa-seg-label { display: inline; }
+}
+.fa-limits { border: 1px solid var(--line); border-radius: .8rem; padding: .3rem .9rem .5rem; margin: 1rem 0 .4rem; }
+.fa-limits legend { font-family: var(--display); font-weight: 800; padding: 0 .3rem; }
+.fa-pin-num { fill: var(--white); font-weight: 800; }
+.fa-pin-label, .fa-town { paint-order: stroke; stroke: #f6f8ef; stroke-linejoin: round; }
+.fa-pin-label { fill: var(--ink); font-weight: 800; }
+.fa-town { fill: var(--muted); font-weight: 600; }
+.fa-small.btn { font-size: 1rem; padding: .6rem 1rem; }
+/* A day moved for something special, and a day planned anyway: said before the plan, not under it. */
+.fa-flag { border-radius: .8rem; padding: .7rem .9rem; margin: .6rem 0 .9rem; }
+.fa-flag p { margin: 0 0 .35rem; }
+.fa-flag ul { margin: .2rem 0 .4rem; padding-left: 1.2rem; }
+.fa-flag li { margin: .15rem 0; }
+.fa-flag .fa-note { margin: .3rem 0 0; }
+.fa-flag.moved { background: var(--sun-pale); border: 1px solid #e3c35a; }
+.fa-flag.warn { background: #fdecea; border: 1px solid #e3a59d; color: #5c1d17; }
+.fa-flag.warn .fa-note { color: #7a3a33; }
+.fa-flag-head { font-family: var(--display); font-weight: 800; }
+.fa-fail { border: 1px solid var(--line); border-radius: .8rem; padding: .8rem .9rem; }
+.fa-fail ul { padding-left: 1.2rem; }
+/* What kind of outing: its icon and name (icons.js), above its title, and on the beyond-limits list. */
+.fa-type { display: inline-flex; align-items: center; gap: .3rem; font-size: .72rem; font-weight: 800; text-transform: uppercase; letter-spacing: .06em; color: var(--muted); margin-bottom: .1rem; }
+.fa-type > span { font-size: 1rem; letter-spacing: 0; }
+/* The better outings past the family's limits. */
+.fa-beyond { border: 1px dashed #c9b26a; background: #fffbea; border-radius: .8rem; padding: .7rem .9rem; margin: .8rem 0; }
+.fa-beyond h3 { margin: 0 0 .2rem; }
+.fa-beyond-list { list-style: none; margin: .4rem 0; padding: 0; display: grid; gap: .8rem; }
+.fa-beyond-list > li { border-top: 1px solid #efe3b8; padding-top: .6rem; }
+.fa-beyond-list > li:first-child { border-top: 0; padding-top: 0; }
+.fa-beyond-list strong { display: block; font-family: var(--display); }
+.fa-beyond-list .fa-note { margin: .15rem 0; }
+.fa-over { margin: .2rem 0; padding-left: 1.1rem; color: #7a4a00; font-size: .92rem; }
+.fa-avatar-grown { background: var(--ink); }

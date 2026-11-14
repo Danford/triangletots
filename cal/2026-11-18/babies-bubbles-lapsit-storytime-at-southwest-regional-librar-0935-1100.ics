@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Triangle Tots//triangletots.com//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:2026-11-18-babies-bubbles-lapsit-storytime-at-southwest-regional-librar
+ -0935-1100@triangletots.com
+DTSTAMP:20261114T100000Z
+DTSTART:20261118T143500Z
+DTEND:20261118T160000Z
+SUMMARY:Babies & Bubbles: Lapsit Storytime at Southwest Regional Library
+LOCATION:3605 Shannon Rd\, Durham\, NC
+DESCRIPTION:https://durhamcountylibrary.libcal.com/event/15412071\nhttps://
+ www.dprplaymore.org/Facilities/Facility/Details/Cornwallis-Road-Park-13\nT
+ he whole day: https://triangletots.com/2026-11-18/t1/\nTimes and details c
+ an change. Check the event or place before you go.
+END:VEVENT
+END:VCALENDAR

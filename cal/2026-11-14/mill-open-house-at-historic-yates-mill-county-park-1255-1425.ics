@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Triangle Tots//triangletots.com//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:2026-11-14-mill-open-house-at-historic-yates-mill-county-park-1255-1425
+ @triangletots.com
+DTSTAMP:20261114T100000Z
+DTSTART:20261114T175500Z
+DTEND:20261114T192500Z
+SUMMARY:Mill Open House at Historic Yates Mill County Park
+LOCATION:4620 Lake Wheeler Rd.\, Raleigh\, NC  27603
+DESCRIPTION:https://apm.activecommunities.com/wakeparks/Activity_Search/mil
+ l-open-house/9417?locale=en-US\nThe whole day: https://triangletots.com/20
+ 26-11-14/t3/\nTimes and details can change. Check the event or place befor
+ e you go.
+END:VEVENT
+END:VCALENDAR

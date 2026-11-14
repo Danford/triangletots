@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Triangle Tots//triangletots.com//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:2026-11-26-elmira-avenue-park-1500-1615@triangletots.com
+DTSTAMP:20261114T100000Z
+DTSTART:20261126T200000Z
+DTEND:20261126T211500Z
+SUMMARY:Elmira Avenue Park
+LOCATION:540 Elmira Ave\, Durham\, NC
+DESCRIPTION:https://www.dprplaymore.org/Facilities/Facility/Details/Elmira-
+ Avenue-Park-23\nThe whole day: https://triangletots.com/2026-11-26/t1/\nTi
+ mes and details can change. Check the event or place before you go.
+END:VEVENT
+END:VCALENDAR

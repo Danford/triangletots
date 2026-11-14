@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Triangle Tots//triangletots.com//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:2026-11-21-harris-lake-county-park-1030-1300@triangletots.com
+DTSTAMP:20261114T100000Z
+DTSTART:20261121T153000Z
+DTEND:20261121T180000Z
+SUMMARY:Harris Lake County Park
+LOCATION:2112 County Park Dr.\, New Hill\, NC  27562
+DESCRIPTION:https://www.wakegov.com/departments-government/parks-recreation
+ -and-open-space/all-parks-trails/harris-lake-county-park\nThe whole day: h
+ ttps://triangletots.com/2026-11-21/t4/\nTimes and details can change. Chec
+ k the event or place before you go.
+END:VEVENT
+END:VCALENDAR

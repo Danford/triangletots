@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Triangle Tots//triangletots.com//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:2026-11-24-richard-b-harrison-community-library-1630-1745@triangletots.
+ com
+DTSTAMP:20261114T100000Z
+DTSTART:20261124T213000Z
+DTEND:20261124T224500Z
+SUMMARY:Richard B. Harrison Community Library
+LOCATION:1313 New Bern Avenue\, Raleigh\, NC
+DESCRIPTION:The whole day: https://triangletots.com/2026-11-24/t4/\nTimes a
+ nd details can change. Check the event or place before you go.
+END:VEVENT
+END:VCALENDAR

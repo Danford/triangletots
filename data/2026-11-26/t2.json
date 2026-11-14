@@ -1,0 +1,878 @@
+{
+  "date": "2026-11-26",
+  "band": "t2",
+  "versions": [
+    {
+      "at": "2026-11-13T11:04:55.904Z",
+      "reason": null,
+      "forecast": "none",
+      "weather": null,
+      "plans": [
+        {
+          "nap": "early-nap",
+          "napLabel": "One nap, 12 to 2",
+          "headline": "Walk through a storybook, then play outside",
+          "main": {
+            "ref": "event:wake-parks:8358:2026-11-26",
+            "arrive": "09:00",
+            "leave": "10:30",
+            "why": "Your toddler walks the loop and reads a story one page at a time, stopping whenever {they} like{s}. The StoryWalk is self-led, so you set the pace. It is a gentle outdoor morning before the midday nap.",
+            "tips": [
+              "Let your child run ahead to find the next page, then read it aloud together.",
+              "Bring a snack for the walk and eat it before you head home.",
+              "Leave with a last look at the final page so the walk ends on a high note."
+            ],
+            "interests": [
+              "stories",
+              "nature",
+              "movement"
+            ],
+            "also": [],
+            "area": "south-wake",
+            "outdoor": true,
+            "source": {
+              "kind": "event",
+              "title": "Beech Bluff County Park StoryWalk® 2026 (Self-Led)",
+              "start": "2026-11-26T08:00:00",
+              "end": "2026-11-26T17:30:00",
+              "venue": "Beech Bluff County Park",
+              "address": "Beech Bluff Park Drive, Fuquay-Varina, NC",
+              "url": "https://apm.activecommunities.com/wakeparks/Activity_Search/beech-bluff-county-park-storywalk-2026-self-led/8358?locale=en-US",
+              "cost": "Free",
+              "lat": 35.58537279715877,
+              "lon": -78.6793341971644,
+              "ages": null,
+              "registration": false,
+              "indoor": false,
+              "area": "south-wake",
+              "source": "wake-parks",
+              "dropIn": true
+            }
+          },
+          "alternatives": [
+            {
+              "ref": "place:gipson-play-plaza",
+              "arrive": "09:30",
+              "leave": "11:00",
+              "why": "A big playground where your child can climb, slide and explore at {their} own pace.",
+              "tips": [
+                "Bring water and a small snack for a break halfway through.",
+                "Say a countdown for the last slide so leaving feels easy."
+              ],
+              "interests": [
+                "movement"
+              ],
+              "also": [],
+              "area": "raleigh",
+              "outdoor": true,
+              "source": {
+                "kind": "park",
+                "title": "Gipson Play Plaza at Dix Park",
+                "address": "715 Biggs Dr, Raleigh, NC 27603",
+                "lat": 35.7667,
+                "lon": -78.6539,
+                "url": "https://dixpark.org/gipson-play-plaza",
+                "amenities": [
+                  "playground",
+                  "restroom"
+                ],
+                "indoor": false,
+                "area": "raleigh",
+                "hours": {
+                  "sun": "8 a.m.–9 p.m.",
+                  "mon": "8 a.m.–9 p.m.",
+                  "tue": "8 a.m.–9 p.m.",
+                  "wed": "8 a.m.–9 p.m.",
+                  "thu": "8 a.m.–9 p.m.",
+                  "fri": "8 a.m.–9 p.m.",
+                  "sat": "8 a.m.–9 p.m."
+                },
+                "cost": "Free",
+                "note": "Free; free parking. Big destination playground on the south edge of Dix Park."
+              }
+            },
+            {
+              "ref": "place:lake-crabtree-county-park",
+              "arrive": "14:30",
+              "leave": "16:30",
+              "why": "An afternoon of playground time and a walk on the greenway after the nap.",
+              "tips": [
+                "Pack a snack and eat it on a picnic shelter bench.",
+                "Bring a jacket for the late afternoon."
+              ],
+              "interests": [
+                "nature",
+                "movement"
+              ],
+              "also": [],
+              "area": "north-raleigh",
+              "outdoor": true,
+              "source": {
+                "kind": "park",
+                "title": "Lake Crabtree County Park",
+                "address": "1400 Aviation Pkwy., Morrisville, NC  27560",
+                "lat": 35.845600151785014,
+                "lon": -78.80104927513673,
+                "url": "https://www.wakegov.com/departments-government/parks-recreation-and-open-space/all-parks-trails/lake-crabtree-county-park",
+                "amenities": [
+                  "playground",
+                  "picnic-shelter",
+                  "restroom",
+                  "greenway",
+                  "nature",
+                  "garden",
+                  "boating"
+                ],
+                "indoor": false,
+                "area": "north-raleigh",
+                "hours": null,
+                "cost": "Free"
+              }
+            },
+            {
+              "ref": "place:forest-hills-park",
+              "arrive": "09:00",
+              "leave": "11:00",
+              "why": "A Durham playground morning with room to run, climb and slide.",
+              "tips": [
+                "Bring a snack and water.",
+                "Let your child pick the first thing to play on."
+              ],
+              "interests": [
+                "movement"
+              ],
+              "also": [],
+              "area": "durham",
+              "outdoor": true,
+              "source": {
+                "kind": "park",
+                "title": "Forest Hills Park",
+                "address": "1639 University Dr, Durham, NC",
+                "lat": 35.98149000000001,
+                "lon": -78.91138333333333,
+                "url": "https://www.dprplaymore.org/Facilities/Facility/Details/Forest-Hills-Park-24",
+                "amenities": [
+                  "playground",
+                  "splashpad",
+                  "picnic-shelter",
+                  "restroom",
+                  "greenway"
+                ],
+                "indoor": false,
+                "area": "durham",
+                "hours": null,
+                "cost": "Free"
+              }
+            },
+            {
+              "ref": "place:pullen-park-amusements",
+              "arrive": "10:00",
+              "leave": "11:20",
+              "why": "Your child can ride the carousel and the train, then play on the playground.",
+              "tips": [
+                "Ride the carousel first while your child has the most energy.",
+                "Bring a snack for the playground."
+              ],
+              "interests": [
+                "vehicles",
+                "movement"
+              ],
+              "also": [],
+              "area": "raleigh",
+              "outdoor": true,
+              "source": {
+                "kind": "park",
+                "title": "Pullen Park Amusements",
+                "address": "410 Park Ave, Raleigh, NC 27606",
+                "lat": 35.7806,
+                "lon": -78.66396,
+                "url": "https://raleighnc.gov/parks-and-recreation/places/pullen-park-amusements",
+                "amenities": [
+                  "carousel",
+                  "boating",
+                  "train",
+                  "amusements",
+                  "courts",
+                  "playground",
+                  "picnic-shelter"
+                ],
+                "indoor": false,
+                "area": "raleigh",
+                "hours": {
+                  "mon": "10 a.m.–6 p.m.",
+                  "tue": "10 a.m.–6 p.m.",
+                  "wed": "10 a.m.–6 p.m.",
+                  "thu": "10 a.m.–6 p.m.",
+                  "fri": "10 a.m.–6 p.m.",
+                  "sat": "10 a.m.–6 p.m.",
+                  "sun": "10 a.m.–6 p.m."
+                },
+                "cost": "Free to get in; rides $2 a ticket"
+              }
+            }
+          ],
+          "rainBackup": null,
+          "timeline": [
+            {
+              "start": "07:00",
+              "end": "07:30",
+              "kind": "meal",
+              "title": "Up and breakfast"
+            },
+            {
+              "start": "07:30",
+              "end": "08:20",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "08:20",
+              "end": "08:40",
+              "kind": "routine",
+              "title": "Get ready to go",
+              "detail": "Shoes on, the bag, water and a snack."
+            },
+            {
+              "start": "08:40",
+              "end": "09:00",
+              "kind": "travel",
+              "title": "Drive to Beech Bluff County Park"
+            },
+            {
+              "start": "09:00",
+              "end": "10:30",
+              "kind": "outing",
+              "title": "Beech Bluff County Park"
+            },
+            {
+              "start": "10:30",
+              "end": "10:50",
+              "kind": "travel",
+              "title": "Drive home"
+            },
+            {
+              "start": "10:50",
+              "end": "11:15",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "11:15",
+              "end": "11:45",
+              "kind": "meal",
+              "title": "Lunch"
+            },
+            {
+              "start": "11:45",
+              "end": "12:00",
+              "kind": "quiet",
+              "title": "Wind down",
+              "detail": "A couple of books to settle."
+            },
+            {
+              "start": "12:00",
+              "end": "14:00",
+              "kind": "nap",
+              "title": "Nap"
+            },
+            {
+              "start": "14:00",
+              "end": "14:20",
+              "kind": "routine",
+              "title": "Up and a snack"
+            },
+            {
+              "start": "14:20",
+              "end": "18:00",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "18:00",
+              "end": "18:45",
+              "kind": "meal",
+              "title": "Dinner"
+            },
+            {
+              "start": "18:45",
+              "end": "19:30",
+              "kind": "routine",
+              "title": "Bath, books and bed"
+            }
+          ]
+        },
+        {
+          "nap": "late-nap",
+          "napLabel": "One nap, 1 to 3",
+          "headline": "Ride the carousel and the train",
+          "main": {
+            "ref": "place:pullen-park-amusements",
+            "arrive": "10:00",
+            "leave": "12:00",
+            "why": "Your toddler can ride the carousel and the train, then burn off energy on the playground. A morning of things that move.",
+            "tips": [
+              "Ride the train first, then let your child pick the next ride.",
+              "Bring a snack and eat it before you head home for lunch.",
+              "Name the last ride before you go so leaving is calm."
+            ],
+            "interests": [
+              "vehicles",
+              "movement"
+            ],
+            "also": [],
+            "area": "raleigh",
+            "outdoor": true,
+            "source": {
+              "kind": "park",
+              "title": "Pullen Park Amusements",
+              "address": "410 Park Ave, Raleigh, NC 27606",
+              "lat": 35.7806,
+              "lon": -78.66396,
+              "url": "https://raleighnc.gov/parks-and-recreation/places/pullen-park-amusements",
+              "amenities": [
+                "carousel",
+                "boating",
+                "train",
+                "amusements",
+                "courts",
+                "playground",
+                "picnic-shelter"
+              ],
+              "indoor": false,
+              "area": "raleigh",
+              "hours": {
+                "mon": "10 a.m.–6 p.m.",
+                "tue": "10 a.m.–6 p.m.",
+                "wed": "10 a.m.–6 p.m.",
+                "thu": "10 a.m.–6 p.m.",
+                "fri": "10 a.m.–6 p.m.",
+                "sat": "10 a.m.–6 p.m.",
+                "sun": "10 a.m.–6 p.m."
+              },
+              "cost": "Free to get in; rides $2 a ticket"
+            }
+          },
+          "alternatives": [
+            {
+              "ref": "event:wake-parks:8358:2026-11-26",
+              "arrive": "09:00",
+              "leave": "10:30",
+              "why": "A self-led StoryWalk where your child follows the pages along the loop.",
+              "tips": [
+                "Let {them} lead the way to the next page.",
+                "Bring a snack for after the walk."
+              ],
+              "interests": [
+                "stories",
+                "nature"
+              ],
+              "also": [],
+              "area": "south-wake",
+              "outdoor": true,
+              "source": {
+                "kind": "event",
+                "title": "Beech Bluff County Park StoryWalk® 2026 (Self-Led)",
+                "start": "2026-11-26T08:00:00",
+                "end": "2026-11-26T17:30:00",
+                "venue": "Beech Bluff County Park",
+                "address": "Beech Bluff Park Drive, Fuquay-Varina, NC",
+                "url": "https://apm.activecommunities.com/wakeparks/Activity_Search/beech-bluff-county-park-storywalk-2026-self-led/8358?locale=en-US",
+                "cost": "Free",
+                "lat": 35.58537279715877,
+                "lon": -78.6793341971644,
+                "ages": null,
+                "registration": false,
+                "indoor": false,
+                "area": "south-wake",
+                "source": "wake-parks",
+                "dropIn": true
+              }
+            },
+            {
+              "ref": "place:lake-crabtree-county-park",
+              "arrive": "09:30",
+              "leave": "11:30",
+              "why": "Playground, greenway and nature to explore in the morning.",
+              "tips": [
+                "Bring water and a snack.",
+                "Walk a short loop first, then play."
+              ],
+              "interests": [
+                "nature",
+                "movement"
+              ],
+              "also": [],
+              "area": "north-raleigh",
+              "outdoor": true,
+              "source": {
+                "kind": "park",
+                "title": "Lake Crabtree County Park",
+                "address": "1400 Aviation Pkwy., Morrisville, NC  27560",
+                "lat": 35.845600151785014,
+                "lon": -78.80104927513673,
+                "url": "https://www.wakegov.com/departments-government/parks-recreation-and-open-space/all-parks-trails/lake-crabtree-county-park",
+                "amenities": [
+                  "playground",
+                  "picnic-shelter",
+                  "restroom",
+                  "greenway",
+                  "nature",
+                  "garden",
+                  "boating"
+                ],
+                "indoor": false,
+                "area": "north-raleigh",
+                "hours": null,
+                "cost": "Free"
+              }
+            },
+            {
+              "ref": "place:forest-hills-park",
+              "arrive": "09:00",
+              "leave": "11:00",
+              "why": "A Durham playground morning with room to climb and run.",
+              "tips": [
+                "Pack a snack and water.",
+                "Let your child choose where to play first."
+              ],
+              "interests": [
+                "movement"
+              ],
+              "also": [],
+              "area": "durham",
+              "outdoor": true,
+              "source": {
+                "kind": "park",
+                "title": "Forest Hills Park",
+                "address": "1639 University Dr, Durham, NC",
+                "lat": 35.98149000000001,
+                "lon": -78.91138333333333,
+                "url": "https://www.dprplaymore.org/Facilities/Facility/Details/Forest-Hills-Park-24",
+                "amenities": [
+                  "playground",
+                  "splashpad",
+                  "picnic-shelter",
+                  "restroom",
+                  "greenway"
+                ],
+                "indoor": false,
+                "area": "durham",
+                "hours": null,
+                "cost": "Free"
+              }
+            },
+            {
+              "ref": "place:leigh-farm-park",
+              "arrive": "09:30",
+              "leave": "11:00",
+              "why": "A quiet walk on the greenway in Chapel Hill for your toddler to stomp and explore.",
+              "tips": [
+                "Bring a snack and a small bag for treasures like leaves.",
+                "Let your child set the pace."
+              ],
+              "interests": [
+                "nature",
+                "movement"
+              ],
+              "also": [],
+              "area": "chapel-hill",
+              "outdoor": true,
+              "source": {
+                "kind": "park",
+                "title": "Leigh Farm Park",
+                "address": "370 Leigh Farm Rd, Durham, NC",
+                "lat": 35.92444642857142,
+                "lon": -78.98327714285713,
+                "url": "https://www.dprplaymore.org/Facilities/Facility/Details/Leigh-Farm-Park-40",
+                "amenities": [
+                  "restroom",
+                  "greenway"
+                ],
+                "indoor": false,
+                "area": "chapel-hill",
+                "hours": null,
+                "cost": "Free"
+              }
+            }
+          ],
+          "rainBackup": null,
+          "timeline": [
+            {
+              "start": "07:00",
+              "end": "07:30",
+              "kind": "meal",
+              "title": "Up and breakfast"
+            },
+            {
+              "start": "07:30",
+              "end": "09:20",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "09:20",
+              "end": "09:40",
+              "kind": "routine",
+              "title": "Get ready to go",
+              "detail": "Shoes on, the bag, water and a snack."
+            },
+            {
+              "start": "09:40",
+              "end": "10:00",
+              "kind": "travel",
+              "title": "Drive to Pullen Park Amusements"
+            },
+            {
+              "start": "10:00",
+              "end": "12:00",
+              "kind": "outing",
+              "title": "Pullen Park Amusements"
+            },
+            {
+              "start": "12:00",
+              "end": "12:20",
+              "kind": "travel",
+              "title": "Drive home"
+            },
+            {
+              "start": "12:20",
+              "end": "12:50",
+              "kind": "meal",
+              "title": "Lunch"
+            },
+            {
+              "start": "12:50",
+              "end": "13:00",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "13:00",
+              "end": "15:00",
+              "kind": "nap",
+              "title": "Nap"
+            },
+            {
+              "start": "15:00",
+              "end": "15:20",
+              "kind": "routine",
+              "title": "Up and a snack"
+            },
+            {
+              "start": "15:20",
+              "end": "18:30",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "18:30",
+              "end": "19:15",
+              "kind": "meal",
+              "title": "Dinner"
+            },
+            {
+              "start": "19:15",
+              "end": "20:00",
+              "kind": "routine",
+              "title": "Bath, books and bed"
+            }
+          ]
+        },
+        {
+          "nap": "short-nap",
+          "napLabel": "Short nap, 1 to 2",
+          "headline": "Garden walk and playground time",
+          "main": {
+            "ref": "place:crowder-county-park",
+            "arrive": "09:30",
+            "leave": "11:30",
+            "why": "Your toddler can play on the playground and wander the garden and greenway. A relaxed morning outside before the early afternoon nap.",
+            "tips": [
+              "Play first, then take a short walk before the snack.",
+              "Bring a snack and water to eat at a picnic shelter.",
+              "Say a countdown for the last slide so leaving feels easy."
+            ],
+            "interests": [
+              "nature",
+              "movement"
+            ],
+            "also": [],
+            "area": "cary-apex",
+            "outdoor": true,
+            "source": {
+              "kind": "park",
+              "title": "Crowder County Park",
+              "address": "4709 Ten Ten Road",
+              "lat": 35.69174392711247,
+              "lon": -78.76585678897689,
+              "url": "https://www.wakegov.com/departments-government/parks-recreation-and-open-space/all-parks-trails/crowder-county-park",
+              "amenities": [
+                "playground",
+                "picnic-shelter",
+                "restroom",
+                "greenway",
+                "garden"
+              ],
+              "indoor": false,
+              "area": "cary-apex",
+              "hours": null,
+              "cost": "Free"
+            }
+          },
+          "alternatives": [
+            {
+              "ref": "place:pullen-park-amusements",
+              "arrive": "10:00",
+              "leave": "12:00",
+              "why": "Carousel and train rides plus the playground.",
+              "tips": [
+                "Ride the carousel first.",
+                "Bring a snack for the playground."
+              ],
+              "interests": [
+                "vehicles",
+                "movement"
+              ],
+              "also": [],
+              "area": "raleigh",
+              "outdoor": true,
+              "source": {
+                "kind": "park",
+                "title": "Pullen Park Amusements",
+                "address": "410 Park Ave, Raleigh, NC 27606",
+                "lat": 35.7806,
+                "lon": -78.66396,
+                "url": "https://raleighnc.gov/parks-and-recreation/places/pullen-park-amusements",
+                "amenities": [
+                  "carousel",
+                  "boating",
+                  "train",
+                  "amusements",
+                  "courts",
+                  "playground",
+                  "picnic-shelter"
+                ],
+                "indoor": false,
+                "area": "raleigh",
+                "hours": {
+                  "mon": "10 a.m.–6 p.m.",
+                  "tue": "10 a.m.–6 p.m.",
+                  "wed": "10 a.m.–6 p.m.",
+                  "thu": "10 a.m.–6 p.m.",
+                  "fri": "10 a.m.–6 p.m.",
+                  "sat": "10 a.m.–6 p.m.",
+                  "sun": "10 a.m.–6 p.m."
+                },
+                "cost": "Free to get in; rides $2 a ticket"
+              }
+            },
+            {
+              "ref": "place:durham-central-park",
+              "arrive": "09:30",
+              "leave": "11:00",
+              "why": "A Durham playground and greenway morning for climbing and running.",
+              "tips": [
+                "Bring a snack and water.",
+                "Let your child lead the walk."
+              ],
+              "interests": [
+                "movement"
+              ],
+              "also": [],
+              "area": "durham",
+              "outdoor": true,
+              "source": {
+                "kind": "park",
+                "title": "Durham Central Park",
+                "address": "501 Foster St, Durham, NC",
+                "lat": 36.0006525,
+                "lon": -78.90071999999999,
+                "url": "https://www.dprplaymore.org/Facilities/Facility/Details/Durham-Central-Park-18",
+                "amenities": [
+                  "playground",
+                  "restroom",
+                  "greenway"
+                ],
+                "indoor": false,
+                "area": "durham",
+                "hours": null,
+                "cost": "Free"
+              }
+            },
+            {
+              "ref": "place:jc-raulston-arboretum",
+              "arrive": "14:30",
+              "leave": "16:15",
+              "why": "A slow afternoon walk among plants and trees, with lots to look at and point to.",
+              "tips": [
+                "Let your child pick the path at each turn.",
+                "Bring a snack for a bench break."
+              ],
+              "interests": [
+                "nature"
+              ],
+              "also": [],
+              "area": "raleigh",
+              "outdoor": true,
+              "source": {
+                "kind": "garden",
+                "title": "JC Raulston Arboretum",
+                "address": "4415 Beryl Rd, Raleigh, NC 27606",
+                "lat": 35.794,
+                "lon": -78.6987,
+                "url": "https://jcra.ncsu.edu/",
+                "amenities": [
+                  "garden",
+                  "nature"
+                ],
+                "indoor": false,
+                "area": "raleigh",
+                "hours": {
+                  "mon": "9 a.m.–4:30 p.m.",
+                  "tue": "9 a.m.–4:30 p.m.",
+                  "wed": "9 a.m.–4:30 p.m.",
+                  "thu": "9 a.m.–4:30 p.m.",
+                  "fri": "9 a.m.–4:30 p.m.",
+                  "sat": "9 a.m.–5 p.m.",
+                  "sun": "9 a.m.–5 p.m."
+                },
+                "cost": "Free",
+                "note": "Free. NC State’s garden; no pets."
+              }
+            },
+            {
+              "ref": "event:wake-parks:8358:2026-11-26",
+              "arrive": "14:30",
+              "leave": "16:00",
+              "why": "A self-led StoryWalk where your child follows the pages along the loop after the nap.",
+              "tips": [
+                "Let {them} find each next page.",
+                "Bring a snack for after the walk."
+              ],
+              "interests": [
+                "stories",
+                "nature"
+              ],
+              "also": [],
+              "area": "south-wake",
+              "outdoor": true,
+              "source": {
+                "kind": "event",
+                "title": "Beech Bluff County Park StoryWalk® 2026 (Self-Led)",
+                "start": "2026-11-26T08:00:00",
+                "end": "2026-11-26T17:30:00",
+                "venue": "Beech Bluff County Park",
+                "address": "Beech Bluff Park Drive, Fuquay-Varina, NC",
+                "url": "https://apm.activecommunities.com/wakeparks/Activity_Search/beech-bluff-county-park-storywalk-2026-self-led/8358?locale=en-US",
+                "cost": "Free",
+                "lat": 35.58537279715877,
+                "lon": -78.6793341971644,
+                "ages": null,
+                "registration": false,
+                "indoor": false,
+                "area": "south-wake",
+                "source": "wake-parks",
+                "dropIn": true
+              }
+            }
+          ],
+          "rainBackup": null,
+          "timeline": [
+            {
+              "start": "07:00",
+              "end": "07:30",
+              "kind": "meal",
+              "title": "Up and breakfast"
+            },
+            {
+              "start": "07:30",
+              "end": "08:50",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "08:50",
+              "end": "09:10",
+              "kind": "routine",
+              "title": "Get ready to go",
+              "detail": "Shoes on, the bag, water and a snack."
+            },
+            {
+              "start": "09:10",
+              "end": "09:30",
+              "kind": "travel",
+              "title": "Drive to Crowder County Park"
+            },
+            {
+              "start": "09:30",
+              "end": "11:30",
+              "kind": "outing",
+              "title": "Crowder County Park"
+            },
+            {
+              "start": "11:30",
+              "end": "11:50",
+              "kind": "travel",
+              "title": "Drive home"
+            },
+            {
+              "start": "11:50",
+              "end": "12:15",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "12:15",
+              "end": "12:45",
+              "kind": "meal",
+              "title": "Lunch"
+            },
+            {
+              "start": "12:45",
+              "end": "13:00",
+              "kind": "quiet",
+              "title": "Wind down",
+              "detail": "A couple of books to settle."
+            },
+            {
+              "start": "13:00",
+              "end": "14:00",
+              "kind": "nap",
+              "title": "Nap"
+            },
+            {
+              "start": "14:00",
+              "end": "14:20",
+              "kind": "routine",
+              "title": "Up and a snack"
+            },
+            {
+              "start": "14:20",
+              "end": "18:00",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "18:00",
+              "end": "18:45",
+              "kind": "meal",
+              "title": "Dinner"
+            },
+            {
+              "start": "18:45",
+              "end": "19:30",
+              "kind": "routine",
+              "title": "Bath, books and bed"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "checked": {
+    "at": "2026-11-14T11:03:27.564Z",
+    "forecast": "none",
+    "weather": null,
+    "hidden": []
+  }
+}

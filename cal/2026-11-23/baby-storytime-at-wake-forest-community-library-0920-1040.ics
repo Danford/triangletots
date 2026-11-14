@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Triangle Tots//triangletots.com//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:2026-11-23-baby-storytime-at-wake-forest-community-library-0920-1040@tr
+ iangletots.com
+DTSTAMP:20261114T100000Z
+DTSTART:20261123T142000Z
+DTEND:20261123T154000Z
+SUMMARY:Baby Storytime at Wake Forest Community Library
+LOCATION:400 E Holding Avenue\, Wake Forest\, NC
+DESCRIPTION:https://www.wake.gov/events/baby-storytime-1222\nhttps://www.wa
+ keforestnc.gov/parks-recreation-cultural-resources/parks-facilities/kiwani
+ s-park\nThe whole day: https://triangletots.com/2026-11-23/t1/\nTimes and 
+ details can change. Check the event or place before you go.
+END:VEVENT
+END:VCALENDAR

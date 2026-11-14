@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Triangle Tots//triangletots.com//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:2026-11-16-preschool-storytime-at-harper-park-0935-1200@triangletots.co
+ m
+DTSTAMP:20261114T100000Z
+DTSTART:20261116T143500Z
+DTEND:20261116T170000Z
+SUMMARY:Preschool Storytime at Harper Park
+LOCATION:207 Main St\, Knightdale\, NC
+DESCRIPTION:https://www.knightdalenc.gov/harperpark\nhttps://www.wake.gov/e
+ vents/preschool-storytime-238\nhttps://www.wake.gov/events/abc-craft-and-l
+ earn-559\nThe whole day: https://triangletots.com/2026-11-16/t4/\nTimes an
+ d details can change. Check the event or place before you go.
+END:VEVENT
+END:VCALENDAR

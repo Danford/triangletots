@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Triangle Tots//triangletots.com//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:2026-11-25-baby-and-me-lapsit-time-at-durham-central-park-1000-1100@tri
+ angletots.com
+DTSTAMP:20261114T100000Z
+DTSTART:20261125T150000Z
+DTEND:20261125T160000Z
+SUMMARY:Baby and Me Lapsit Time at Durham Central Park
+LOCATION:501 Foster St\, Durham\, NC
+DESCRIPTION:https://www.dprplaymore.org/Facilities/Facility/Details/Durham-
+ Central-Park-18\nhttps://durhamcountylibrary.libcal.com/event/17208372\nTh
+ e whole day: https://triangletots.com/2026-11-25/t1/\nTimes and details ca
+ n change. Check the event or place before you go.
+END:VEVENT
+END:VCALENDAR

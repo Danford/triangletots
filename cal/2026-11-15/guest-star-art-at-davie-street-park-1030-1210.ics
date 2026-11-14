@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Triangle Tots//triangletots.com//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:2026-11-15-guest-star-art-at-davie-street-park-1030-1210@triangletots.c
+ om
+DTSTAMP:20261114T100000Z
+DTSTART:20261115T153000Z
+DTEND:20261115T171000Z
+SUMMARY:Guest Star: Art at Davie Street Park
+LOCATION:910 E. Davie Street\, Raleigh\, NC 27601
+DESCRIPTION:https://raleighnc.gov/parks-and-recreation/places/davie-street-
+ park\nhttps://marbleskidsmuseum.org/event/48798/\nThe whole day: https://t
+ riangletots.com/2026-11-15/t1/\nTimes and details can change. Check the ev
+ ent or place before you go.
+END:VEVENT
+END:VCALENDAR

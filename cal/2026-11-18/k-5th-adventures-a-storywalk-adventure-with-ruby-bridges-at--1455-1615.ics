@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Triangle Tots//triangletots.com//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:2026-11-18-k-5th-adventures-a-storywalk-adventure-with-ruby-bridges-at-
+ -1455-1615@triangletots.com
+DTSTAMP:20261114T100000Z
+DTSTART:20261118T195500Z
+DTEND:20261118T211500Z
+SUMMARY:K-5th Adventures- A StoryWalk® Adventure with Ruby Bridges at East
+  Regional Library
+LOCATION:946 Steeple Square Ct\, knightdale\, NC\, 27545
+DESCRIPTION:https://www.wake.gov/events/k-5th-adventures-storywalkr-adventu
+ re-ruby-bridges-0\nThe whole day: https://triangletots.com/2026-11-18/t4/\
+ nTimes and details can change. Check the event or place before you go.
+END:VEVENT
+END:VCALENDAR

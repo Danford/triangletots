@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Triangle Tots//triangletots.com//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:2026-11-20-total-tot-time-at-walltown-park-rec-ctr-0950-1230@triangleto
+ ts.com
+DTSTAMP:20261114T100000Z
+DTSTART:20261120T145000Z
+DTEND:20261120T173000Z
+SUMMARY:Total Tot Time at Walltown Park Rec Ctr
+LOCATION:1308 W Club Blvd\, Durham\, NC
+DESCRIPTION:Sign up first.\nhttps://apm.activecommunities.com/dprplaymore/A
+ ctivity_Search/total-tot-time/19841?locale=en-US\nhttps://www.dprplaymore.
+ org/Facilities/Facility/Details/Walltown-Park-74\nThe whole day: https://t
+ riangletots.com/2026-11-20/t3/\nTimes and details can change. Check the ev
+ ent or place before you go.
+END:VEVENT
+END:VCALENDAR

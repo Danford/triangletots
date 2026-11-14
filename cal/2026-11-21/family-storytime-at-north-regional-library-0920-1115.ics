@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Triangle Tots//triangletots.com//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:2026-11-21-family-storytime-at-north-regional-library-0920-1115@triangl
+ etots.com
+DTSTAMP:20261114T100000Z
+DTSTART:20261121T142000Z
+DTEND:20261121T161500Z
+SUMMARY:Family Storytime at North Regional Library
+LOCATION:7009 Harps Mill Road\, Raleigh\, NC
+DESCRIPTION:https://www.wake.gov/events/family-storytime-4323\nhttps://rale
+ ighnc.gov/parks-and-recreation/places/honeycutt-park\nThe whole day: https
+ ://triangletots.com/2026-11-21/t1/\nTimes and details can change. Check th
+ e event or place before you go.
+END:VEVENT
+END:VCALENDAR

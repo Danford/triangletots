@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Triangle Tots//triangletots.com//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:2026-11-25-south-park-1030-1145@triangletots.com
+DTSTAMP:20261114T100000Z
+DTSTART:20261125T153000Z
+DTEND:20261125T164500Z
+SUMMARY:South Park
+LOCATION:900 South Main Street\, Fuquay-Varina\, NC
+DESCRIPTION:https://www.fuquay-varina.org/Facilities/Facility/Details/23\nT
+ he whole day: https://triangletots.com/2026-11-25/t4/\nTimes and details c
+ an change. Check the event or place before you go.
+END:VEVENT
+END:VCALENDAR

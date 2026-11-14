@@ -1,0 +1,949 @@
+{
+  "date": "2026-11-25",
+  "band": "t2",
+  "versions": [
+    {
+      "at": "2026-11-12T11:05:22.828Z",
+      "reason": null,
+      "forecast": "none",
+      "weather": null,
+      "plans": [
+        {
+          "nap": "early-nap",
+          "napLabel": "One nap, 12 to 2",
+          "headline": "See the animals, then stroll the garden paths",
+          "main": {
+            "ref": "place:historic-oak-view-county-park",
+            "arrive": "09:00",
+            "leave": "11:00",
+            "why": "Your toddler can look for the animals and wander the garden and greenway paths. It is a slow, open-air morning with plenty of room to explore.",
+            "tips": [
+              "Let {them} lead the way and stop wherever {they} like{s}.",
+              "Bring a snack and water so {they} can refuel before the walk back.",
+              "Say goodbye to the animals one by one, then head to the car for lunch before nap."
+            ],
+            "interests": [
+              "animals",
+              "nature"
+            ],
+            "also": [],
+            "area": "raleigh",
+            "outdoor": true,
+            "source": {
+              "kind": "park",
+              "title": "Historic Oak View County Park",
+              "address": "4028 Carya Dr., Raleigh, NC  27610",
+              "lat": 35.76980126731367,
+              "lon": -78.57063248179927,
+              "url": "https://www.wakegov.com/departments-government/parks-recreation-and-open-space/all-parks-trails/historic-oak-view-county-park",
+              "amenities": [
+                "picnic-shelter",
+                "restroom",
+                "greenway",
+                "animals",
+                "garden"
+              ],
+              "indoor": false,
+              "area": "raleigh",
+              "hours": null,
+              "cost": "Free"
+            }
+          },
+          "alternatives": [
+            {
+              "ref": "place:levelle-moton-park",
+              "arrive": "09:50",
+              "leave": "11:00",
+              "why": "Your toddler plays at LeVelle Moton Park, then watches the Live Animal Feeding – Ocean Habitat at the NC Museum of Natural Sciences. The feeding is short and easy to leave.",
+              "tips": [
+                "Let {them} burn off energy on the playground first.",
+                "Head to the museum a little early so {they} can find a spot to watch."
+              ],
+              "interests": [
+                "animals",
+                "movement"
+              ],
+              "also": [
+                {
+                  "ref": "event:museum:nc-natural-sciences:123924",
+                  "source": {
+                    "kind": "event",
+                    "title": "Live Animal Feeding – Ocean Habitat",
+                    "start": "2026-11-25T10:45:00",
+                    "end": "2026-11-25T11:00:00",
+                    "venue": "NC Museum of Natural Sciences",
+                    "address": "11 West Jones Street, Raleigh, NC, 27601",
+                    "url": "https://www.naturalsciences.org/calendar/event/live-animal-feeding-ocean-habitat-5/2026-11-25/",
+                    "cost": "Museum admission is free",
+                    "lat": 35.7822735,
+                    "lon": -78.6395502,
+                    "ages": "Adults All Ages Children Live Animals Teens Walk-up Programs",
+                    "registration": false,
+                    "indoor": true,
+                    "area": "raleigh",
+                    "source": "museum",
+                    "dropIn": false
+                  }
+                }
+              ],
+              "area": "raleigh",
+              "outdoor": false,
+              "source": {
+                "kind": "park",
+                "title": "LeVelle Moton Park",
+                "address": "920 E. Lane Street, Raleigh, NC 27601",
+                "lat": 35.78316,
+                "lon": -78.62606,
+                "url": "https://raleighnc.gov/parks-and-recreation/places/levelle-moton-park",
+                "amenities": [
+                  "picnic-shelter",
+                  "courts",
+                  "playground"
+                ],
+                "indoor": false,
+                "area": "raleigh",
+                "hours": null,
+                "cost": "Free"
+              }
+            },
+            {
+              "ref": "place:apex-nature-park",
+              "arrive": "09:00",
+              "leave": "11:00",
+              "why": "A morning on the nature park paths, with sticks, leaves and plenty to look at. Your toddler sets the pace.",
+              "tips": [
+                "Bring a small bag for leaf and pinecone treasures.",
+                "Pack a snack for the end so leaving feels easy."
+              ],
+              "interests": [
+                "nature",
+                "movement"
+              ],
+              "also": [],
+              "area": "cary-apex",
+              "outdoor": true,
+              "source": {
+                "kind": "park",
+                "title": "Apex Nature Park",
+                "address": "2600 Evans Rd., Apex, NC",
+                "lat": 35.71709646233568,
+                "lon": -78.90520368087866,
+                "url": "https://www.apexnc.org/800/Nature-Park-Seymour-Athletic-Fields",
+                "amenities": [
+                  "picnic-shelter",
+                  "restroom",
+                  "greenway",
+                  "nature"
+                ],
+                "indoor": false,
+                "area": "cary-apex",
+                "hours": null,
+                "cost": "Free"
+              }
+            },
+            {
+              "ref": "place:harris-lake-county-park",
+              "arrive": "09:15",
+              "leave": "11:15",
+              "why": "Your toddler can climb on the playground and then explore the park's nature areas and greenway.",
+              "tips": [
+                "Start with the playground while {they} {is} fresh, then walk.",
+                "Offer a snack before you leave so the drive home is calm."
+              ],
+              "interests": [
+                "nature",
+                "movement"
+              ],
+              "also": [],
+              "area": "south-wake",
+              "outdoor": true,
+              "source": {
+                "kind": "park",
+                "title": "Harris Lake County Park",
+                "address": "2112 County Park Dr., New Hill, NC  27562",
+                "lat": 35.63024208800726,
+                "lon": -78.91757987745865,
+                "url": "https://www.wakegov.com/departments-government/parks-recreation-and-open-space/all-parks-trails/harris-lake-county-park",
+                "amenities": [
+                  "playground",
+                  "picnic-shelter",
+                  "restroom",
+                  "greenway",
+                  "nature"
+                ],
+                "indoor": false,
+                "area": "south-wake",
+                "hours": null,
+                "cost": "Free"
+              }
+            },
+            {
+              "ref": "place:hillside-park",
+              "arrive": "09:30",
+              "leave": "11:20",
+              "why": "Your toddler plays at Hillside Park, then joins Total Tot Time at W.D. Hill Rec Ctr for gym play with a parachute and tunnels. A family needs to sign up first.",
+              "tips": [
+                "Sign up ahead of time.",
+                "Wear shoes that are easy to take off for the gym."
+              ],
+              "interests": [
+                "movement",
+                "music"
+              ],
+              "also": [
+                {
+                  "ref": "event:durham-rec:19772:2026-11-25",
+                  "source": {
+                    "kind": "event",
+                    "title": "Total Tot Time",
+                    "start": "2026-11-25T10:00:00",
+                    "end": "2026-11-25T12:00:00",
+                    "venue": "W.D. Hill Rec Ctr",
+                    "address": "1308 Fayetteville St, Durham, NC",
+                    "url": "https://apm.activecommunities.com/dprplaymore/Activity_Search/total-tot-time/19772?locale=en-US",
+                    "cost": null,
+                    "lat": 35.9797,
+                    "lon": -78.8985,
+                    "ages": "1 - 6",
+                    "registration": "https://apm.activecommunities.com/dprplaymore/Activity_Search/total-tot-time/19772?locale=en-US",
+                    "indoor": true,
+                    "area": "durham",
+                    "source": "durham-rec",
+                    "dropIn": false
+                  }
+                }
+              ],
+              "area": "durham",
+              "outdoor": false,
+              "source": {
+                "kind": "park",
+                "title": "Hillside Park",
+                "address": "1301 S Roxboro St, Durham, NC",
+                "lat": 35.98093222222222,
+                "lon": -78.90178333333333,
+                "url": "https://www.dprplaymore.org/Facilities/Facility/Details/Hillside-Park-32",
+                "amenities": [
+                  "playground",
+                  "splashpad",
+                  "pool",
+                  "picnic-shelter",
+                  "restroom"
+                ],
+                "indoor": false,
+                "area": "durham",
+                "hours": null,
+                "cost": "Free"
+              }
+            }
+          ],
+          "rainBackup": null,
+          "timeline": [
+            {
+              "start": "07:00",
+              "end": "07:30",
+              "kind": "meal",
+              "title": "Up and breakfast"
+            },
+            {
+              "start": "07:30",
+              "end": "08:20",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "08:20",
+              "end": "08:40",
+              "kind": "routine",
+              "title": "Get ready to go",
+              "detail": "Shoes on, the bag, water and a snack."
+            },
+            {
+              "start": "08:40",
+              "end": "09:00",
+              "kind": "travel",
+              "title": "Drive to Historic Oak View County Park"
+            },
+            {
+              "start": "09:00",
+              "end": "11:00",
+              "kind": "outing",
+              "title": "Historic Oak View County Park"
+            },
+            {
+              "start": "11:00",
+              "end": "11:20",
+              "kind": "travel",
+              "title": "Drive home"
+            },
+            {
+              "start": "11:20",
+              "end": "11:50",
+              "kind": "meal",
+              "title": "Lunch"
+            },
+            {
+              "start": "11:50",
+              "end": "12:00",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "12:00",
+              "end": "14:00",
+              "kind": "nap",
+              "title": "Nap"
+            },
+            {
+              "start": "14:00",
+              "end": "14:20",
+              "kind": "routine",
+              "title": "Up and a snack"
+            },
+            {
+              "start": "14:20",
+              "end": "18:00",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "18:00",
+              "end": "18:45",
+              "kind": "meal",
+              "title": "Dinner"
+            },
+            {
+              "start": "18:45",
+              "end": "19:30",
+              "kind": "routine",
+              "title": "Bath, books and bed"
+            }
+          ]
+        },
+        {
+          "nap": "late-nap",
+          "napLabel": "One nap, 1 to 3",
+          "headline": "Wander garden paths and nature trails",
+          "main": {
+            "ref": "place:nc-botanical-garden",
+            "arrive": "09:30",
+            "leave": "11:30",
+            "why": "Your toddler can explore the display gardens and the nature trails through the forest behind them. It is a calm, free morning of looking, walking and collecting leaves.",
+            "tips": [
+              "Let {them} pick which path to take next.",
+              "Bring a snack and water for a break on the way.",
+              "Give a five-minute warning before heading back to the car."
+            ],
+            "interests": [
+              "nature",
+              "science"
+            ],
+            "also": [],
+            "area": "chapel-hill",
+            "outdoor": true,
+            "source": {
+              "kind": "garden",
+              "title": "NC Botanical Garden",
+              "address": "100 Old Mason Farm Rd, Chapel Hill, NC 27517",
+              "lat": 35.9011,
+              "lon": -79.0319,
+              "url": "https://ncbg.unc.edu/visit/",
+              "amenities": [
+                "garden",
+                "nature",
+                "restroom"
+              ],
+              "indoor": false,
+              "area": "chapel-hill",
+              "cost": "Free",
+              "note": "Free. Display gardens, and nature trails through the forest behind them."
+            }
+          },
+          "alternatives": [
+            {
+              "ref": "place:lake-crabtree-county-park",
+              "arrive": "09:30",
+              "leave": "11:30",
+              "why": "Your toddler can run on the playground and follow the greenway and nature areas. There is room to roam.",
+              "tips": [
+                "Play first, then walk the greenway.",
+                "Bring a snack for a break before heading home."
+              ],
+              "interests": [
+                "nature",
+                "movement"
+              ],
+              "also": [],
+              "area": "north-raleigh",
+              "outdoor": true,
+              "source": {
+                "kind": "park",
+                "title": "Lake Crabtree County Park",
+                "address": "1400 Aviation Pkwy., Morrisville, NC  27560",
+                "lat": 35.845600151785014,
+                "lon": -78.80104927513673,
+                "url": "https://www.wakegov.com/departments-government/parks-recreation-and-open-space/all-parks-trails/lake-crabtree-county-park",
+                "amenities": [
+                  "playground",
+                  "picnic-shelter",
+                  "restroom",
+                  "greenway",
+                  "nature",
+                  "garden",
+                  "boating"
+                ],
+                "indoor": false,
+                "area": "north-raleigh",
+                "hours": null,
+                "cost": "Free"
+              }
+            },
+            {
+              "ref": "place:campus-hills-park",
+              "arrive": "09:30",
+              "leave": "11:30",
+              "why": "Your toddler plays at Campus Hills Park, then joins Total Tot Time at I.R. Holmes, Sr. Rec Ctr for gym play with a parachute and tunnels. A family needs to sign up first.",
+              "tips": [
+                "Sign up ahead of time.",
+                "Let {them} choose a favorite toy or tunnel to say goodbye to."
+              ],
+              "interests": [
+                "movement",
+                "music"
+              ],
+              "also": [
+                {
+                  "ref": "event:durham-rec:20088:2026-11-25",
+                  "source": {
+                    "kind": "event",
+                    "title": "Total Tot Time",
+                    "start": "2026-11-25T10:00:00",
+                    "end": "2026-11-25T12:00:00",
+                    "venue": "I.R. Holmes, Sr. Rec Ctr",
+                    "address": "2000 S Alston Ave, Durham, NC",
+                    "url": "https://apm.activecommunities.com/dprplaymore/Activity_Search/total-tot-time/20088?locale=en-US",
+                    "cost": null,
+                    "lat": 35.9619,
+                    "lon": -78.8908,
+                    "ages": "1 - 6",
+                    "registration": "https://apm.activecommunities.com/dprplaymore/Activity_Search/total-tot-time/20088?locale=en-US",
+                    "indoor": true,
+                    "area": "durham",
+                    "source": "durham-rec",
+                    "dropIn": false
+                  }
+                }
+              ],
+              "area": "durham",
+              "outdoor": false,
+              "source": {
+                "kind": "park",
+                "title": "Campus Hills Park",
+                "address": "2000 S Alston Ave, Durham, NC",
+                "lat": 35.962475999999995,
+                "lon": -78.891791,
+                "url": "https://www.dprplaymore.org/Facilities/Facility/Details/Campus-Hills-Park-10",
+                "amenities": [
+                  "playground",
+                  "picnic-shelter"
+                ],
+                "indoor": false,
+                "area": "durham",
+                "hours": null,
+                "cost": "Free"
+              }
+            },
+            {
+              "ref": "place:tarboro-road-park",
+              "arrive": "10:00",
+              "leave": "11:00",
+              "why": "Your toddler plays at Tarboro Road Park, then watches the Live Animal Feeding – Ocean Habitat at the NC Museum of Natural Sciences.",
+              "tips": [
+                "Play first so {they} can sit and watch for the short feeding.",
+                "Leave the park with a snack in hand."
+              ],
+              "interests": [
+                "animals",
+                "movement"
+              ],
+              "also": [
+                {
+                  "ref": "event:museum:nc-natural-sciences:123924",
+                  "source": {
+                    "kind": "event",
+                    "title": "Live Animal Feeding – Ocean Habitat",
+                    "start": "2026-11-25T10:45:00",
+                    "end": "2026-11-25T11:00:00",
+                    "venue": "NC Museum of Natural Sciences",
+                    "address": "11 West Jones Street, Raleigh, NC, 27601",
+                    "url": "https://www.naturalsciences.org/calendar/event/live-animal-feeding-ocean-habitat-5/2026-11-25/",
+                    "cost": "Museum admission is free",
+                    "lat": 35.7822735,
+                    "lon": -78.6395502,
+                    "ages": "Adults All Ages Children Live Animals Teens Walk-up Programs",
+                    "registration": false,
+                    "indoor": true,
+                    "area": "raleigh",
+                    "source": "museum",
+                    "dropIn": false
+                  }
+                }
+              ],
+              "area": "raleigh",
+              "outdoor": false,
+              "source": {
+                "kind": "park",
+                "title": "Tarboro Road Park",
+                "address": "121 N Tarboro St, Raleigh, NC 27601",
+                "lat": 35.7813,
+                "lon": -78.62286,
+                "url": "https://raleighnc.gov/parks-and-recreation/places/tarboro-road-park",
+                "amenities": [
+                  "community-center",
+                  "picnic-shelter",
+                  "courts",
+                  "playground"
+                ],
+                "indoor": false,
+                "area": "raleigh",
+                "hours": null,
+                "cost": "Free"
+              }
+            },
+            {
+              "ref": "place:apex-community-park",
+              "arrive": "15:45",
+              "leave": "17:00",
+              "why": "A late-afternoon playground visit with greenway paths to walk after your toddler's nap.",
+              "tips": [
+                "Bring a snack and water.",
+                "Head out by 5 pm so you are on the way before the light fades."
+              ],
+              "interests": [
+                "movement",
+                "nature"
+              ],
+              "also": [],
+              "area": "cary-apex",
+              "outdoor": true,
+              "source": {
+                "kind": "park",
+                "title": "Apex Community Park",
+                "address": "2200 Laura Duncan Rd., Apex, NC",
+                "lat": 35.75461588131496,
+                "lon": -78.82862025650613,
+                "url": "http://www.apexnc.org/795/Apex-Community-Park",
+                "amenities": [
+                  "playground",
+                  "picnic-shelter",
+                  "restroom",
+                  "greenway"
+                ],
+                "indoor": false,
+                "area": "cary-apex",
+                "hours": null,
+                "cost": "Free"
+              }
+            }
+          ],
+          "rainBackup": null,
+          "timeline": [
+            {
+              "start": "07:00",
+              "end": "07:30",
+              "kind": "meal",
+              "title": "Up and breakfast"
+            },
+            {
+              "start": "07:30",
+              "end": "08:50",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "08:50",
+              "end": "09:10",
+              "kind": "routine",
+              "title": "Get ready to go",
+              "detail": "Shoes on, the bag, water and a snack."
+            },
+            {
+              "start": "09:10",
+              "end": "09:30",
+              "kind": "travel",
+              "title": "Drive to NC Botanical Garden"
+            },
+            {
+              "start": "09:30",
+              "end": "11:30",
+              "kind": "outing",
+              "title": "NC Botanical Garden"
+            },
+            {
+              "start": "11:30",
+              "end": "11:50",
+              "kind": "travel",
+              "title": "Drive home"
+            },
+            {
+              "start": "11:50",
+              "end": "12:15",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "12:15",
+              "end": "12:45",
+              "kind": "meal",
+              "title": "Lunch"
+            },
+            {
+              "start": "12:45",
+              "end": "13:00",
+              "kind": "quiet",
+              "title": "Wind down",
+              "detail": "A couple of books to settle."
+            },
+            {
+              "start": "13:00",
+              "end": "15:00",
+              "kind": "nap",
+              "title": "Nap"
+            },
+            {
+              "start": "15:00",
+              "end": "15:20",
+              "kind": "routine",
+              "title": "Up and a snack"
+            },
+            {
+              "start": "15:20",
+              "end": "18:30",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "18:30",
+              "end": "19:15",
+              "kind": "meal",
+              "title": "Dinner"
+            },
+            {
+              "start": "19:15",
+              "end": "20:00",
+              "kind": "routine",
+              "title": "Bath, books and bed"
+            }
+          ]
+        },
+        {
+          "nap": "short-nap",
+          "napLabel": "Short nap, 1 to 2",
+          "headline": "Walk a forest trail and have a snack outside",
+          "main": {
+            "ref": "place:clemmons-educational-state-forest",
+            "arrive": "09:30",
+            "leave": "11:30",
+            "why": "Your toddler can walk the forest greenway and look for sticks, leaves and bugs. It is a quiet morning outside.",
+            "tips": [
+              "Bring a snack to enjoy at a picnic shelter.",
+              "Let {them} stop and look at anything that catches {their} eye.",
+              "Head home by 11:30 so lunch comes before nap."
+            ],
+            "interests": [
+              "nature",
+              "movement"
+            ],
+            "also": [],
+            "area": "east-wake",
+            "outdoor": true,
+            "source": {
+              "kind": "park",
+              "title": "Clemmons Educational State Forest",
+              "address": "2256 Old U.S. Hwy 70, Clayton, NC",
+              "lat": 35.674152072557575,
+              "lon": -78.48905206181357,
+              "url": "https://www.ncesf.org/clemmons.html",
+              "amenities": [
+                "picnic-shelter",
+                "restroom",
+                "greenway"
+              ],
+              "indoor": false,
+              "area": "east-wake",
+              "hours": null,
+              "cost": "Free"
+            }
+          },
+          "alternatives": [
+            {
+              "ref": "place:pullen-park-amusements",
+              "arrive": "10:00",
+              "leave": "12:00",
+              "why": "Pullen Park has a carousel, a train, boating and a playground. Your toddler can pick favorites.",
+              "tips": [
+                "Arrive at opening to start with the rides.",
+                "Offer a snack before you leave so lunch goes smoothly."
+              ],
+              "interests": [
+                "vehicles",
+                "movement"
+              ],
+              "also": [],
+              "area": "raleigh",
+              "outdoor": true,
+              "source": {
+                "kind": "park",
+                "title": "Pullen Park Amusements",
+                "address": "410 Park Ave, Raleigh, NC 27606",
+                "lat": 35.7806,
+                "lon": -78.66396,
+                "url": "https://raleighnc.gov/parks-and-recreation/places/pullen-park-amusements",
+                "amenities": [
+                  "carousel",
+                  "boating",
+                  "train",
+                  "amusements",
+                  "courts",
+                  "playground",
+                  "picnic-shelter"
+                ],
+                "indoor": false,
+                "area": "raleigh",
+                "hours": {
+                  "mon": "10 a.m.–6 p.m.",
+                  "tue": "10 a.m.–6 p.m.",
+                  "wed": "10 a.m.–6 p.m.",
+                  "thu": "10 a.m.–6 p.m.",
+                  "fri": "10 a.m.–6 p.m.",
+                  "sat": "10 a.m.–6 p.m.",
+                  "sun": "10 a.m.–6 p.m."
+                },
+                "cost": "Free to get in; rides $2 a ticket"
+              }
+            },
+            {
+              "ref": "place:rock-quarry-park",
+              "arrive": "10:45",
+              "leave": "12:00",
+              "why": "Your toddler plays at Rock Quarry Park, then goes to Storytime in Hideaway Woods at the Museum of Life and Science, a short story with themed activities.",
+              "tips": [
+                "Play first so {they} can sit for the story.",
+                "The story is included with museum admission."
+              ],
+              "interests": [
+                "stories",
+                "movement"
+              ],
+              "also": [
+                {
+                  "ref": "event:weekly:mols-storytime:2026-11-25",
+                  "source": {
+                    "kind": "event",
+                    "title": "Storytime in Hideaway Woods",
+                    "start": "2026-11-25T11:30:00",
+                    "end": "2026-11-25T12:00:00",
+                    "venue": "Hideaway Woods, Museum of Life and Science",
+                    "address": "433 W Murray Ave, Durham, NC 27704",
+                    "url": "https://www.lifeandscience.org/learn/drop-in-programs/",
+                    "cost": "Included with museum admission",
+                    "lat": 36.0294,
+                    "lon": -78.8993,
+                    "ages": null,
+                    "registration": false,
+                    "indoor": false,
+                    "area": "durham",
+                    "source": "weekly",
+                    "dropIn": true
+                  }
+                }
+              ],
+              "area": "durham",
+              "outdoor": true,
+              "source": {
+                "kind": "park",
+                "title": "Rock Quarry Park",
+                "address": "701 Stadium Dr, Durham, NC",
+                "lat": 36.03166363636364,
+                "lon": -78.90176545454545,
+                "url": "https://www.dprplaymore.org/Facilities/Facility/Details/Rock-Quarry-Park-60",
+                "amenities": [
+                  "playground",
+                  "splashpad",
+                  "restroom",
+                  "greenway"
+                ],
+                "indoor": false,
+                "area": "durham",
+                "hours": null,
+                "cost": "Free"
+              }
+            },
+            {
+              "ref": "place:morrisville-community-park",
+              "arrive": "15:00",
+              "leave": "16:45",
+              "why": "An easy afternoon after the nap, with the playground and greenway to explore.",
+              "tips": [
+                "Bring a snack and water.",
+                "Leave with a snack in hand so the car ride is easy."
+              ],
+              "interests": [
+                "movement",
+                "nature"
+              ],
+              "also": [],
+              "area": "cary-apex",
+              "outdoor": true,
+              "source": {
+                "kind": "park",
+                "title": "Morrisville Community Park",
+                "address": "1520 Morrisville Parkway",
+                "lat": 35.81559704085067,
+                "lon": -78.84725645294697,
+                "url": "https://www.morrisvillenc.gov/Things-To-Do/Parks-and-Greenways/Morrisville-Community-Park",
+                "amenities": [
+                  "playground",
+                  "picnic-shelter",
+                  "restroom",
+                  "greenway"
+                ],
+                "indoor": false,
+                "area": "cary-apex",
+                "hours": null,
+                "cost": "Free"
+              }
+            },
+            {
+              "ref": "place:leigh-farm-park",
+              "arrive": "09:30",
+              "leave": "11:30",
+              "why": "Your toddler can walk the greenway and wander the open park grounds at {their} own pace.",
+              "tips": [
+                "Bring a snack and water.",
+                "Let {them} lead the walk."
+              ],
+              "interests": [
+                "nature",
+                "movement"
+              ],
+              "also": [],
+              "area": "chapel-hill",
+              "outdoor": true,
+              "source": {
+                "kind": "park",
+                "title": "Leigh Farm Park",
+                "address": "370 Leigh Farm Rd, Durham, NC",
+                "lat": 35.92444642857142,
+                "lon": -78.98327714285713,
+                "url": "https://www.dprplaymore.org/Facilities/Facility/Details/Leigh-Farm-Park-40",
+                "amenities": [
+                  "restroom",
+                  "greenway"
+                ],
+                "indoor": false,
+                "area": "chapel-hill",
+                "hours": null,
+                "cost": "Free"
+              }
+            }
+          ],
+          "rainBackup": null,
+          "timeline": [
+            {
+              "start": "07:00",
+              "end": "07:30",
+              "kind": "meal",
+              "title": "Up and breakfast"
+            },
+            {
+              "start": "07:30",
+              "end": "08:50",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "08:50",
+              "end": "09:10",
+              "kind": "routine",
+              "title": "Get ready to go",
+              "detail": "Shoes on, the bag, water and a snack."
+            },
+            {
+              "start": "09:10",
+              "end": "09:30",
+              "kind": "travel",
+              "title": "Drive to Clemmons Educational State Forest"
+            },
+            {
+              "start": "09:30",
+              "end": "11:30",
+              "kind": "outing",
+              "title": "Clemmons Educational State Forest"
+            },
+            {
+              "start": "11:30",
+              "end": "11:50",
+              "kind": "travel",
+              "title": "Drive home"
+            },
+            {
+              "start": "11:50",
+              "end": "12:15",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "12:15",
+              "end": "12:45",
+              "kind": "meal",
+              "title": "Lunch"
+            },
+            {
+              "start": "12:45",
+              "end": "13:00",
+              "kind": "quiet",
+              "title": "Wind down",
+              "detail": "A couple of books to settle."
+            },
+            {
+              "start": "13:00",
+              "end": "14:00",
+              "kind": "nap",
+              "title": "Nap"
+            },
+            {
+              "start": "14:00",
+              "end": "14:20",
+              "kind": "routine",
+              "title": "Up and a snack"
+            },
+            {
+              "start": "14:20",
+              "end": "18:00",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "18:00",
+              "end": "18:45",
+              "kind": "meal",
+              "title": "Dinner"
+            },
+            {
+              "start": "18:45",
+              "end": "19:30",
+              "kind": "routine",
+              "title": "Bath, books and bed"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "checked": {
+    "at": "2026-11-14T11:03:27.495Z",
+    "forecast": "none",
+    "weather": null,
+    "hidden": []
+  }
+}

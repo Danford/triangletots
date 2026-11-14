@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Triangle Tots//triangletots.com//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:2026-11-14-muddy-boots-at-twin-lakes-picnic-shelter-0850-1040@trianglet
+ ots.com
+DTSTAMP:20261114T100000Z
+DTSTART:20261114T135000Z
+DTEND:20261114T154000Z
+SUMMARY:Muddy Boots at Twin Lakes-Picnic Shelter
+LOCATION:439 Chandler Rd\, Durham\, NC
+DESCRIPTION:Sign up first.\nhttps://apm.activecommunities.com/dprplaymore/A
+ ctivity_Search/muddy-boots/19867?locale=en-US\nhttps://www.dprplaymore.org
+ /Facilities/Facility/Details/Twin-Lakes-Park-71\nThe whole day: https://tr
+ iangletots.com/2026-11-14/t2/\nTimes and details can change. Check the eve
+ nt or place before you go.
+END:VEVENT
+END:VCALENDAR

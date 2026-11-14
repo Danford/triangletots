@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Triangle Tots//triangletots.com//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:2026-11-17-anthony-cole-homestead-hike-at-eno-river-state-park-fews-for
+ -1350-1600@triangletots.com
+DTSTAMP:20261114T100000Z
+DTSTART:20261117T185000Z
+DTEND:20261117T210000Z
+SUMMARY:Anthony Cole Homestead Hike at Eno River State Park - Fews Ford Acc
+ ess
+LOCATION:6101 Cole Mill Road\, Durham\, NC
+DESCRIPTION:Sign up first.\nhttps://events.dncr.nc.gov/event/anthony-cole-h
+ omestead-hike-2818\nThe whole day: https://triangletots.com/2026-11-17/t4/
+ \nTimes and details can change. Check the event or place before you go.
+END:VEVENT
+END:VCALENDAR

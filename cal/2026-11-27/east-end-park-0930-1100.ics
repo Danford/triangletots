@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Triangle Tots//triangletots.com//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:2026-11-27-east-end-park-0930-1100@triangletots.com
+DTSTAMP:20261114T100000Z
+DTSTART:20261127T143000Z
+DTEND:20261127T160000Z
+SUMMARY:East End Park
+LOCATION:1200 N Alston Ave\, Durham\, NC
+DESCRIPTION:https://www.dprplaymore.org/Facilities/Facility/Details/East-En
+ d-Park-20\nThe whole day: https://triangletots.com/2026-11-27/t3/\nTimes a
+ nd details can change. Check the event or place before you go.
+END:VEVENT
+END:VCALENDAR

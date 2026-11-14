@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Triangle Tots//triangletots.com//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:2026-11-17-family-storytime-at-cary-regional-library-0925-1030@triangle
+ tots.com
+DTSTAMP:20261114T100000Z
+DTSTART:20261117T142500Z
+DTEND:20261117T153000Z
+SUMMARY:Family Storytime at Cary Regional Library
+LOCATION:315 Kildaire Farm Road\, Cary\, NC
+DESCRIPTION:https://www.wake.gov/events/family-storytime-4236\nhttps://www.
+ carync.gov/recreation-enjoyment/parks-greenways-environment/parks/heater-p
+ ark\nThe whole day: https://triangletots.com/2026-11-17/t1/\nTimes and det
+ ails can change. Check the event or place before you go.
+END:VEVENT
+END:VCALENDAR

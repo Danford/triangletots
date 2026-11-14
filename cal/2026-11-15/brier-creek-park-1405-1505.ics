@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Triangle Tots//triangletots.com//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:2026-11-15-brier-creek-park-1405-1505@triangletots.com
+DTSTAMP:20261114T100000Z
+DTSTART:20261115T190500Z
+DTEND:20261115T200500Z
+SUMMARY:Brier Creek Park
+LOCATION:10810 Globe Rd\, Raleigh\, NC 27617
+DESCRIPTION:https://raleighnc.gov/parks-and-recreation/places/brier-creek-p
+ ark\nThe whole day: https://triangletots.com/2026-11-15/t3/\nTimes and det
+ ails can change. Check the event or place before you go.
+END:VEVENT
+END:VCALENDAR

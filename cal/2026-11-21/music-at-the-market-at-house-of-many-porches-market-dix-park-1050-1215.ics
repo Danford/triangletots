@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Triangle Tots//triangletots.com//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:2026-11-21-music-at-the-market-at-house-of-many-porches-market-dix-park
+ -1050-1215@triangletots.com
+DTSTAMP:20261114T100000Z
+DTSTART:20261121T155000Z
+DTEND:20261121T171500Z
+SUMMARY:Music at the Market at House of Many Porches Market\, Dix Park
+LOCATION:1030 Richardson Dr\, Raleigh\, NC 27603
+DESCRIPTION:https://dixpark.org/event/music-market-0\nhttps://dixpark.org/g
+ ipson-play-plaza\nThe whole day: https://triangletots.com/2026-11-21/t1/\n
+ Times and details can change. Check the event or place before you go.
+END:VEVENT
+END:VCALENDAR

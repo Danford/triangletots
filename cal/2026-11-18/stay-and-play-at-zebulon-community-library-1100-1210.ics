@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Triangle Tots//triangletots.com//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:2026-11-18-stay-and-play-at-zebulon-community-library-1100-1210@triangl
+ etots.com
+DTSTAMP:20261114T100000Z
+DTSTART:20261118T160000Z
+DTEND:20261118T171000Z
+SUMMARY:Stay and Play at Zebulon Community Library
+LOCATION:1000 Dogwood Drive\, Zebulon\, NC
+DESCRIPTION:https://www.wake.gov/events/stay-and-play-30\nhttps://www.towno
+ fzebulon.org/o/parksandrec/page/parks-facilities-rentals\nThe whole day: h
+ ttps://triangletots.com/2026-11-18/t1/\nTimes and details can change. Chec
+ k the event or place before you go.
+END:VEVENT
+END:VCALENDAR

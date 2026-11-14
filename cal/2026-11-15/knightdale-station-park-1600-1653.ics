@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Triangle Tots//triangletots.com//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:2026-11-15-knightdale-station-park-1600-1653@triangletots.com
+DTSTAMP:20261114T100000Z
+DTSTART:20261115T210000Z
+DTEND:20261115T215300Z
+SUMMARY:Knightdale Station Park
+LOCATION:810 North First Avenue\, Knightdale\, NC
+DESCRIPTION:https://www.knightdalenc.gov/knightdalestationpark\nThe whole d
+ ay: https://triangletots.com/2026-11-15/t1/\nTimes and details can change.
+  Check the event or place before you go.
+END:VEVENT
+END:VCALENDAR

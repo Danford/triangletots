@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Triangle Tots//triangletots.com//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:2026-11-14-twin-lakes-park-1150-1250@triangletots.com
+DTSTAMP:20261114T100000Z
+DTSTART:20261114T165000Z
+DTEND:20261114T175000Z
+SUMMARY:Twin Lakes Park
+LOCATION:439 Chandler Rd\, Durham\, NC
+DESCRIPTION:https://www.dprplaymore.org/Facilities/Facility/Details/Twin-La
+ kes-Park-71\nThe whole day: https://triangletots.com/2026-11-14/t1/\nTimes
+  and details can change. Check the event or place before you go.
+END:VEVENT
+END:VCALENDAR

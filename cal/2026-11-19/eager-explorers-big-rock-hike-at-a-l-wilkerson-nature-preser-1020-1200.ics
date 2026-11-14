@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Triangle Tots//triangletots.com//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:2026-11-19-eager-explorers-big-rock-hike-at-a-l-wilkerson-nature-preser
+ -1020-1200@triangletots.com
+DTSTAMP:20261114T100000Z
+DTSTART:20261119T152000Z
+DTEND:20261119T170000Z
+SUMMARY:Eager Explorers -- Big Rock Hike at A.L. Wilkerson Nature Preserve
+LOCATION:11408 Raven Ridge Rd\, Raleigh\, NC 27614
+DESCRIPTION:Sign up first.\nhttps://ncraleighweb.myvscloud.com/webtrac/web/
+ search.html?module=AR\nThe whole day: https://triangletots.com/2026-11-19/
+ t4/\nTimes and details can change. Check the event or place before you go.
+END:VEVENT
+END:VCALENDAR

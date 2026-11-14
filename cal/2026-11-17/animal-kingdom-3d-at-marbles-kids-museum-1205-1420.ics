@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Triangle Tots//triangletots.com//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:2026-11-17-animal-kingdom-3d-at-marbles-kids-museum-1205-1420@trianglet
+ ots.com
+DTSTAMP:20261114T100000Z
+DTSTART:20261117T170500Z
+DTEND:20261117T192000Z
+SUMMARY:Animal Kingdom 3D at Marbles Kids Museum
+LOCATION:201 E Hargett St\, Raleigh\, NC 27601
+DESCRIPTION:https://marbleskidsmuseum.org/event/47866/\nhttps://www.natural
+ sciences.org/calendar/event/live-animal-feeding-lobster-4/2026-11-17/\nhtt
+ ps://raleighnc.gov/parks-and-recreation/places/levelle-moton-park\nThe who
+ le day: https://triangletots.com/2026-11-17/t4/\nTimes and details can cha
+ nge. Check the event or place before you go.
+END:VEVENT
+END:VCALENDAR

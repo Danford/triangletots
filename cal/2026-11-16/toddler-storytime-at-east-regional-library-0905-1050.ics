@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Triangle Tots//triangletots.com//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:2026-11-16-toddler-storytime-at-east-regional-library-0905-1050@triangl
+ etots.com
+DTSTAMP:20261114T100000Z
+DTSTART:20261116T140500Z
+DTEND:20261116T155000Z
+SUMMARY:Toddler Storytime at East Regional Library
+LOCATION:946 Steeple Square Court\, Knightdale\, NC
+DESCRIPTION:https://www.wake.gov/events/toddler-storytime-963\nhttps://www.
+ knightdalenc.gov/harperpark\nThe whole day: https://triangletots.com/2026-
+ 11-16/t1/\nTimes and details can change. Check the event or place before y
+ ou go.
+END:VEVENT
+END:VCALENDAR

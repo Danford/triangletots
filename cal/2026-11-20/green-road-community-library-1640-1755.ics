@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Triangle Tots//triangletots.com//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:2026-11-20-green-road-community-library-1640-1755@triangletots.com
+DTSTAMP:20261114T100000Z
+DTSTART:20261120T214000Z
+DTEND:20261120T225500Z
+SUMMARY:Green Road Community Library
+LOCATION:4101 Green Road\, Raleigh\, NC
+DESCRIPTION:The whole day: https://triangletots.com/2026-11-20/t3/\nTimes a
+ nd details can change. Check the event or place before you go.
+END:VEVENT
+END:VCALENDAR

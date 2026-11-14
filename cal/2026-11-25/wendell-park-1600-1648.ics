@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Triangle Tots//triangletots.com//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:2026-11-25-wendell-park-1600-1648@triangletots.com
+DTSTAMP:20261114T100000Z
+DTSTART:20261125T210000Z
+DTEND:20261125T214800Z
+SUMMARY:Wendell Park
+LOCATION:601 W. Third Street\, Wendell\, NC
+DESCRIPTION:https://townofwendellnc.gov/departments/parks_and_recreation/fa
+ cilities___rentals/index.php\nThe whole day: https://triangletots.com/2026
+ -11-25/t1/\nTimes and details can change. Check the event or place before 
+ you go.
+END:VEVENT
+END:VCALENDAR

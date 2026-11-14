@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Triangle Tots//triangletots.com//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:2026-11-23-lake-benson-park-1130-1400@triangletots.com
+DTSTAMP:20261114T100000Z
+DTSTART:20261123T163000Z
+DTEND:20261123T190000Z
+SUMMARY:Lake Benson Park
+LOCATION:921 Buffaloe Road\, Garner NC\, 27529
+DESCRIPTION:https://www.garnernc.gov/departments/parks-recreation-and-cultu
+ ral-resources/garner-parks/lake-benson-park\nThe whole day: https://triang
+ letots.com/2026-11-23/t3/\nTimes and details can change. Check the event o
+ r place before you go.
+END:VEVENT
+END:VCALENDAR

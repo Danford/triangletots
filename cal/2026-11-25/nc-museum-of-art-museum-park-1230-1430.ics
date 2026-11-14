@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Triangle Tots//triangletots.com//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:2026-11-25-nc-museum-of-art-museum-park-1230-1430@triangletots.com
+DTSTAMP:20261114T100000Z
+DTSTART:20261125T173000Z
+DTEND:20261125T193000Z
+SUMMARY:NC Museum of Art Museum Park
+LOCATION:2110 Blue Ridge Rd\, Raleigh\, NC 27607
+DESCRIPTION:https://ncartmuseum.org/museum-park/\nThe whole day: https://tr
+ iangletots.com/2026-11-25/t3/\nTimes and details can change. Check the eve
+ nt or place before you go.
+END:VEVENT
+END:VCALENDAR

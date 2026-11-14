@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Triangle Tots//triangletots.com//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:2026-11-14-family-storytime-at-leesville-community-library-0950-1115@tr
+ iangletots.com
+DTSTAMP:20261114T100000Z
+DTSTART:20261114T145000Z
+DTEND:20261114T161500Z
+SUMMARY:Family Storytime at Leesville Community Library
+LOCATION:5105 Country Trail\, Raleigh\, NC 27613
+DESCRIPTION:https://www.wake.gov/events/family-storytime-4201\nhttps://rale
+ ighnc.gov/parks-and-recreation/places/leesville-community-park\nThe whole 
+ day: https://triangletots.com/2026-11-14/t1/\nTimes and details can change
+ . Check the event or place before you go.
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Triangle Tots//triangletots.com//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:2026-11-16-family-storytime-at-oberlin-regional-library-0950-1145@trian
+ gletots.com
+DTSTAMP:20261114T100000Z
+DTSTART:20261116T145000Z
+DTEND:20261116T164500Z
+SUMMARY:Family Storytime at Oberlin Regional Library
+LOCATION:1930 Clark Avenue\, Raleigh\, NC
+DESCRIPTION:https://www.wake.gov/events/family-storytime-4381\nhttps://rale
+ ighnc.gov/parks-and-recreation/places/pullen-park-amusements\nThe whole da
+ y: https://triangletots.com/2026-11-16/t2/\nTimes and details can change. 
+ Check the event or place before you go.
+END:VEVENT
+END:VCALENDAR

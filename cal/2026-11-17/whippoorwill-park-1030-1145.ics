@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Triangle Tots//triangletots.com//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:2026-11-17-whippoorwill-park-1030-1145@triangletots.com
+DTSTAMP:20261114T100000Z
+DTSTART:20261117T153000Z
+DTEND:20261117T164500Z
+SUMMARY:Whippoorwill Park
+LOCATION:1632 Rowemont Dr\, Durham\, NC
+DESCRIPTION:https://www.dprplaymore.org/Facilities/Facility/Details/Whippoo
+ rwill-Park-79\nThe whole day: https://triangletots.com/2026-11-17/t4/\nTim
+ es and details can change. Check the event or place before you go.
+END:VEVENT
+END:VCALENDAR

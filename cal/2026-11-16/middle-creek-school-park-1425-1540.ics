@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Triangle Tots//triangletots.com//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:2026-11-16-middle-creek-school-park-1425-1540@triangletots.com
+DTSTAMP:20261114T100000Z
+DTSTART:20261116T192500Z
+DTEND:20261116T204000Z
+SUMMARY:Middle Creek School Park
+LOCATION:151 Middle Creek Park Avenue\, Cary\, NC
+DESCRIPTION:https://www.carync.gov/recreation-enjoyment/parks-greenways-env
+ ironment/parks/middle-creek-school-park\nThe whole day: https://triangleto
+ ts.com/2026-11-16/t4/\nTimes and details can change. Check the event or pl
+ ace before you go.
+END:VEVENT
+END:VCALENDAR

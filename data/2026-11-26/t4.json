@@ -1,0 +1,870 @@
+{
+  "date": "2026-11-26",
+  "band": "t4",
+  "versions": [
+    {
+      "at": "2026-11-13T11:04:09.014Z",
+      "reason": null,
+      "forecast": "none",
+      "weather": null,
+      "plans": [
+        {
+          "nap": "short-nap",
+          "napLabel": "Short nap, 1 to 2",
+          "headline": "Nature walk and playground time before lunch",
+          "main": {
+            "ref": "place:blue-jay-point-county-park",
+            "arrive": "09:30",
+            "leave": "11:30",
+            "why": "Your child can wander the greenway and nature areas, then climb and run on the playground before the midday rest.",
+            "tips": [
+              "Bring a snack for the walk and keep lunch simple at home.",
+              "Let your child pick the path or the first playground stop.",
+              "Give a five-minute warning, then race to the car as a last game."
+            ],
+            "interests": [
+              "nature",
+              "movement"
+            ],
+            "also": [],
+            "area": "north-raleigh",
+            "outdoor": true,
+            "source": {
+              "kind": "park",
+              "title": "Blue Jay Point County Park",
+              "address": "3200 Pleasant Union Church Road, Raleigh, NC 27614",
+              "lat": 35.96762827199893,
+              "lon": -78.64454785104198,
+              "url": "https://www.wakegov.com/departments-government/parks-recreation-and-open-space/all-parks-trails/blue-jay-point-county-park",
+              "amenities": [
+                "playground",
+                "picnic-shelter",
+                "restroom",
+                "greenway",
+                "nature"
+              ],
+              "indoor": false,
+              "area": "north-raleigh",
+              "hours": null,
+              "cost": "Free"
+            }
+          },
+          "alternatives": [
+            {
+              "ref": "place:lake-benson-park",
+              "arrive": "09:30",
+              "leave": "11:30",
+              "why": "A walk along the greenway and a playground stop make an easy morning in south Wake.",
+              "tips": [
+                "Bring a snack and a water bottle.",
+                "Look for the boating area and let your child lead the walk."
+              ],
+              "interests": [
+                "nature",
+                "movement",
+                "water"
+              ],
+              "also": [],
+              "area": "south-wake",
+              "outdoor": true,
+              "source": {
+                "kind": "park",
+                "title": "Lake Benson Park",
+                "address": "921 Buffaloe Road, Garner NC, 27529",
+                "lat": 35.67509092685942,
+                "lon": -78.62824702555534,
+                "url": "https://www.garnernc.gov/departments/parks-recreation-and-cultural-resources/garner-parks/lake-benson-park",
+                "amenities": [
+                  "playground",
+                  "picnic-shelter",
+                  "restroom",
+                  "greenway",
+                  "boating"
+                ],
+                "indoor": false,
+                "area": "south-wake",
+                "hours": null,
+                "cost": "Free"
+              }
+            },
+            {
+              "ref": "event:wake-parks:8358:2026-11-26",
+              "arrive": "09:30",
+              "leave": "11:00",
+              "why": "Your child reads a picture book one page at a time along the Beech Bluff StoryWalk, then plays at the park next to it.",
+              "tips": [
+                "Let your child read the posted pages out loud to you.",
+                "Bring a snack for the playground."
+              ],
+              "interests": [
+                "stories",
+                "movement"
+              ],
+              "also": [
+                {
+                  "ref": "place:beech-bluff-county-park",
+                  "source": {
+                    "kind": "park",
+                    "title": "Beech Bluff County Park",
+                    "address": "Beech Bluff Park Drive, Fuquay-Varina, NC",
+                    "lat": 35.58537279715877,
+                    "lon": -78.6793341971644,
+                    "url": "https://www.wake.gov/departments-government/parks-recreation-open-space/all-parks-trails/beech-bluff-county-park",
+                    "amenities": [
+                      "playground",
+                      "garden",
+                      "greenway",
+                      "restroom",
+                      "picnic-shelter"
+                    ],
+                    "indoor": false,
+                    "area": "south-wake",
+                    "hours": null,
+                    "cost": "Free"
+                  }
+                }
+              ],
+              "area": "south-wake",
+              "outdoor": true,
+              "source": {
+                "kind": "event",
+                "title": "Beech Bluff County Park StoryWalk® 2026 (Self-Led)",
+                "start": "2026-11-26T08:00:00",
+                "end": "2026-11-26T17:30:00",
+                "venue": "Beech Bluff County Park",
+                "address": "Beech Bluff Park Drive, Fuquay-Varina, NC",
+                "url": "https://apm.activecommunities.com/wakeparks/Activity_Search/beech-bluff-county-park-storywalk-2026-self-led/8358?locale=en-US",
+                "cost": "Free",
+                "lat": 35.58537279715877,
+                "lon": -78.6793341971644,
+                "ages": null,
+                "registration": false,
+                "indoor": false,
+                "area": "south-wake",
+                "source": "wake-parks",
+                "dropIn": true
+              }
+            },
+            {
+              "ref": "place:historic-oak-view-county-park",
+              "arrive": "15:00",
+              "leave": "16:30",
+              "why": "A relaxed afternoon walk with the garden and the animals the park is known for, done well before sunset.",
+              "tips": [
+                "Bring a snack and a light layer.",
+                "Ask your child to spot as many animals as {they} can."
+              ],
+              "interests": [
+                "animals",
+                "nature"
+              ],
+              "also": [],
+              "area": "raleigh",
+              "outdoor": true,
+              "source": {
+                "kind": "park",
+                "title": "Historic Oak View County Park",
+                "address": "4028 Carya Dr., Raleigh, NC  27610",
+                "lat": 35.76980126731367,
+                "lon": -78.57063248179927,
+                "url": "https://www.wakegov.com/departments-government/parks-recreation-and-open-space/all-parks-trails/historic-oak-view-county-park",
+                "amenities": [
+                  "picnic-shelter",
+                  "restroom",
+                  "greenway",
+                  "animals",
+                  "garden"
+                ],
+                "indoor": false,
+                "area": "raleigh",
+                "hours": null,
+                "cost": "Free"
+              }
+            },
+            {
+              "ref": "place:apex-nature-park",
+              "arrive": "15:00",
+              "leave": "16:30",
+              "why": "Your child can follow the greenway and look for leaves, sticks and signs of animals.",
+              "tips": [
+                "Bring a small bag for collecting treasures.",
+                "Pack a snack for a picnic shelter break."
+              ],
+              "interests": [
+                "nature",
+                "movement"
+              ],
+              "also": [],
+              "area": "cary-apex",
+              "outdoor": true,
+              "source": {
+                "kind": "park",
+                "title": "Apex Nature Park",
+                "address": "2600 Evans Rd., Apex, NC",
+                "lat": 35.71709646233568,
+                "lon": -78.90520368087866,
+                "url": "https://www.apexnc.org/800/Nature-Park-Seymour-Athletic-Fields",
+                "amenities": [
+                  "picnic-shelter",
+                  "restroom",
+                  "greenway",
+                  "nature"
+                ],
+                "indoor": false,
+                "area": "cary-apex",
+                "hours": null,
+                "cost": "Free"
+              }
+            }
+          ],
+          "rainBackup": null,
+          "timeline": [
+            {
+              "start": "07:00",
+              "end": "07:30",
+              "kind": "meal",
+              "title": "Up and breakfast"
+            },
+            {
+              "start": "07:30",
+              "end": "08:50",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "08:50",
+              "end": "09:10",
+              "kind": "routine",
+              "title": "Get ready to go",
+              "detail": "Shoes on, the bag, water and a snack."
+            },
+            {
+              "start": "09:10",
+              "end": "09:30",
+              "kind": "travel",
+              "title": "Drive to Blue Jay Point County Park"
+            },
+            {
+              "start": "09:30",
+              "end": "11:30",
+              "kind": "outing",
+              "title": "Blue Jay Point County Park"
+            },
+            {
+              "start": "11:30",
+              "end": "11:50",
+              "kind": "travel",
+              "title": "Drive home"
+            },
+            {
+              "start": "11:50",
+              "end": "12:15",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "12:15",
+              "end": "12:45",
+              "kind": "meal",
+              "title": "Lunch"
+            },
+            {
+              "start": "12:45",
+              "end": "13:00",
+              "kind": "quiet",
+              "title": "Wind down",
+              "detail": "A couple of books to settle."
+            },
+            {
+              "start": "13:00",
+              "end": "14:00",
+              "kind": "nap",
+              "title": "Nap"
+            },
+            {
+              "start": "14:00",
+              "end": "14:20",
+              "kind": "routine",
+              "title": "Up and a snack"
+            },
+            {
+              "start": "14:20",
+              "end": "18:30",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "18:30",
+              "end": "19:15",
+              "kind": "meal",
+              "title": "Dinner"
+            },
+            {
+              "start": "19:15",
+              "end": "20:00",
+              "kind": "routine",
+              "title": "Bath, books and bed"
+            }
+          ]
+        },
+        {
+          "nap": "quiet",
+          "napLabel": "Quiet time",
+          "headline": "Visit the animals and garden at Oak View",
+          "main": {
+            "ref": "place:historic-oak-view-county-park",
+            "arrive": "09:30",
+            "leave": "11:45",
+            "why": "Your child can look for the animals, explore the garden and walk the greenway, with a picnic shelter for a snack.",
+            "tips": [
+              "Bring a snack and eat it at the picnic shelter.",
+              "Give your child a job, such as counting the animals {they} see.",
+              "Head home by lunch so quiet time starts calmly."
+            ],
+            "interests": [
+              "animals",
+              "nature"
+            ],
+            "also": [],
+            "area": "raleigh",
+            "outdoor": true,
+            "source": {
+              "kind": "park",
+              "title": "Historic Oak View County Park",
+              "address": "4028 Carya Dr., Raleigh, NC  27610",
+              "lat": 35.76980126731367,
+              "lon": -78.57063248179927,
+              "url": "https://www.wakegov.com/departments-government/parks-recreation-and-open-space/all-parks-trails/historic-oak-view-county-park",
+              "amenities": [
+                "picnic-shelter",
+                "restroom",
+                "greenway",
+                "animals",
+                "garden"
+              ],
+              "indoor": false,
+              "area": "raleigh",
+              "hours": null,
+              "cost": "Free"
+            }
+          },
+          "alternatives": [
+            {
+              "ref": "place:apex-community-park",
+              "arrive": "09:30",
+              "leave": "11:30",
+              "why": "A playground and greenway walk give your child plenty of room to run before quiet time.",
+              "tips": [
+                "Bring a snack and water.",
+                "Start with a greenway walk, then end on the playground."
+              ],
+              "interests": [
+                "movement",
+                "nature"
+              ],
+              "also": [],
+              "area": "cary-apex",
+              "outdoor": true,
+              "source": {
+                "kind": "park",
+                "title": "Apex Community Park",
+                "address": "2200 Laura Duncan Rd., Apex, NC",
+                "lat": 35.75461588131496,
+                "lon": -78.82862025650613,
+                "url": "http://www.apexnc.org/795/Apex-Community-Park",
+                "amenities": [
+                  "playground",
+                  "picnic-shelter",
+                  "restroom",
+                  "greenway"
+                ],
+                "indoor": false,
+                "area": "cary-apex",
+                "hours": null,
+                "cost": "Free"
+              }
+            },
+            {
+              "ref": "event:wake-parks:8358:2026-11-26",
+              "arrive": "09:30",
+              "leave": "11:00",
+              "why": "Your child follows a picture book along the Beech Bluff StoryWalk, then plays at the park next to it.",
+              "tips": [
+                "Read the pages together and let your child turn the walk into a story.",
+                "Bring a snack for the playground."
+              ],
+              "interests": [
+                "stories",
+                "movement"
+              ],
+              "also": [
+                {
+                  "ref": "place:beech-bluff-county-park",
+                  "source": {
+                    "kind": "park",
+                    "title": "Beech Bluff County Park",
+                    "address": "Beech Bluff Park Drive, Fuquay-Varina, NC",
+                    "lat": 35.58537279715877,
+                    "lon": -78.6793341971644,
+                    "url": "https://www.wake.gov/departments-government/parks-recreation-open-space/all-parks-trails/beech-bluff-county-park",
+                    "amenities": [
+                      "playground",
+                      "garden",
+                      "greenway",
+                      "restroom",
+                      "picnic-shelter"
+                    ],
+                    "indoor": false,
+                    "area": "south-wake",
+                    "hours": null,
+                    "cost": "Free"
+                  }
+                }
+              ],
+              "area": "south-wake",
+              "outdoor": true,
+              "source": {
+                "kind": "event",
+                "title": "Beech Bluff County Park StoryWalk® 2026 (Self-Led)",
+                "start": "2026-11-26T08:00:00",
+                "end": "2026-11-26T17:30:00",
+                "venue": "Beech Bluff County Park",
+                "address": "Beech Bluff Park Drive, Fuquay-Varina, NC",
+                "url": "https://apm.activecommunities.com/wakeparks/Activity_Search/beech-bluff-county-park-storywalk-2026-self-led/8358?locale=en-US",
+                "cost": "Free",
+                "lat": 35.58537279715877,
+                "lon": -78.6793341971644,
+                "ages": null,
+                "registration": false,
+                "indoor": false,
+                "area": "south-wake",
+                "source": "wake-parks",
+                "dropIn": true
+              }
+            },
+            {
+              "ref": "place:durham-central-park",
+              "arrive": "10:00",
+              "leave": "11:30",
+              "why": "A Durham playground and greenway for a short, easy morning.",
+              "tips": [
+                "Bring a snack and water.",
+                "Try the greenway first, then the playground."
+              ],
+              "interests": [
+                "movement"
+              ],
+              "also": [],
+              "area": "durham",
+              "outdoor": true,
+              "source": {
+                "kind": "park",
+                "title": "Durham Central Park",
+                "address": "501 Foster St, Durham, NC",
+                "lat": 36.0006525,
+                "lon": -78.90071999999999,
+                "url": "https://www.dprplaymore.org/Facilities/Facility/Details/Durham-Central-Park-18",
+                "amenities": [
+                  "playground",
+                  "restroom",
+                  "greenway"
+                ],
+                "indoor": false,
+                "area": "durham",
+                "hours": null,
+                "cost": "Free"
+              }
+            },
+            {
+              "ref": "place:leigh-farm-park",
+              "arrive": "10:00",
+              "leave": "11:30",
+              "why": "Your child can walk the greenway and explore the open park in Chapel Hill.",
+              "tips": [
+                "Bring a snack and a water bottle.",
+                "Let your child choose which way to walk."
+              ],
+              "interests": [
+                "nature",
+                "movement"
+              ],
+              "also": [],
+              "area": "chapel-hill",
+              "outdoor": true,
+              "source": {
+                "kind": "park",
+                "title": "Leigh Farm Park",
+                "address": "370 Leigh Farm Rd, Durham, NC",
+                "lat": 35.92444642857142,
+                "lon": -78.98327714285713,
+                "url": "https://www.dprplaymore.org/Facilities/Facility/Details/Leigh-Farm-Park-40",
+                "amenities": [
+                  "restroom",
+                  "greenway"
+                ],
+                "indoor": false,
+                "area": "chapel-hill",
+                "hours": null,
+                "cost": "Free"
+              }
+            }
+          ],
+          "rainBackup": null,
+          "timeline": [
+            {
+              "start": "07:00",
+              "end": "07:30",
+              "kind": "meal",
+              "title": "Up and breakfast"
+            },
+            {
+              "start": "07:30",
+              "end": "08:50",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "08:50",
+              "end": "09:10",
+              "kind": "routine",
+              "title": "Get ready to go",
+              "detail": "Shoes on, the bag, water and a snack."
+            },
+            {
+              "start": "09:10",
+              "end": "09:30",
+              "kind": "travel",
+              "title": "Drive to Historic Oak View County Park"
+            },
+            {
+              "start": "09:30",
+              "end": "11:45",
+              "kind": "outing",
+              "title": "Historic Oak View County Park"
+            },
+            {
+              "start": "11:45",
+              "end": "12:05",
+              "kind": "travel",
+              "title": "Drive home"
+            },
+            {
+              "start": "12:05",
+              "end": "12:35",
+              "kind": "meal",
+              "title": "Lunch"
+            },
+            {
+              "start": "12:35",
+              "end": "13:00",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "13:00",
+              "end": "13:45",
+              "kind": "quiet",
+              "title": "Quiet time",
+              "detail": "Books or quiet play in their room."
+            },
+            {
+              "start": "13:45",
+              "end": "18:00",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "18:00",
+              "end": "18:45",
+              "kind": "meal",
+              "title": "Dinner"
+            },
+            {
+              "start": "18:45",
+              "end": "19:30",
+              "kind": "routine",
+              "title": "Bath, books and bed"
+            }
+          ]
+        },
+        {
+          "nap": "no-nap",
+          "napLabel": "No nap",
+          "headline": "A long nature morning at Apex Nature Park",
+          "main": {
+            "ref": "place:apex-nature-park",
+            "arrive": "09:30",
+            "leave": "12:30",
+            "why": "Your child can follow the greenway, hunt for leaves and signs of animals, and have a snack at the picnic shelter.",
+            "tips": [
+              "Bring a snack and eat it at the picnic shelter.",
+              "Bring a small bag so your child can collect leaves and sticks.",
+              "Plan a quiet activity at home after lunch."
+            ],
+            "interests": [
+              "nature",
+              "movement"
+            ],
+            "also": [],
+            "area": "cary-apex",
+            "outdoor": true,
+            "source": {
+              "kind": "park",
+              "title": "Apex Nature Park",
+              "address": "2600 Evans Rd., Apex, NC",
+              "lat": 35.71709646233568,
+              "lon": -78.90520368087866,
+              "url": "https://www.apexnc.org/800/Nature-Park-Seymour-Athletic-Fields",
+              "amenities": [
+                "picnic-shelter",
+                "restroom",
+                "greenway",
+                "nature"
+              ],
+              "indoor": false,
+              "area": "cary-apex",
+              "hours": null,
+              "cost": "Free"
+            }
+          },
+          "alternatives": [
+            {
+              "ref": "place:jc-raulston-arboretum",
+              "arrive": "13:30",
+              "leave": "15:30",
+              "why": "Your child can wander the garden paths and look closely at plants.",
+              "tips": [
+                "Bring a snack and play a plant-finding game, such as spotting something red.",
+                "Let your child lead the way."
+              ],
+              "interests": [
+                "nature",
+                "science"
+              ],
+              "also": [],
+              "area": "raleigh",
+              "outdoor": true,
+              "source": {
+                "kind": "garden",
+                "title": "JC Raulston Arboretum",
+                "address": "4415 Beryl Rd, Raleigh, NC 27606",
+                "lat": 35.794,
+                "lon": -78.6987,
+                "url": "https://jcra.ncsu.edu/",
+                "amenities": [
+                  "garden",
+                  "nature"
+                ],
+                "indoor": false,
+                "area": "raleigh",
+                "hours": {
+                  "mon": "9 a.m.–4:30 p.m.",
+                  "tue": "9 a.m.–4:30 p.m.",
+                  "wed": "9 a.m.–4:30 p.m.",
+                  "thu": "9 a.m.–4:30 p.m.",
+                  "fri": "9 a.m.–4:30 p.m.",
+                  "sat": "9 a.m.–5 p.m.",
+                  "sun": "9 a.m.–5 p.m."
+                },
+                "cost": "Free",
+                "note": "Free. NC State’s garden; no pets."
+              }
+            },
+            {
+              "ref": "event:wake-parks:8358:2026-11-26",
+              "arrive": "10:00",
+              "leave": "11:30",
+              "why": "Your child follows a picture book along the Beech Bluff StoryWalk, then plays at the park next to it.",
+              "tips": [
+                "Let your child read the story out loud as you walk.",
+                "Bring a snack for the playground."
+              ],
+              "interests": [
+                "stories",
+                "movement"
+              ],
+              "also": [
+                {
+                  "ref": "place:beech-bluff-county-park",
+                  "source": {
+                    "kind": "park",
+                    "title": "Beech Bluff County Park",
+                    "address": "Beech Bluff Park Drive, Fuquay-Varina, NC",
+                    "lat": 35.58537279715877,
+                    "lon": -78.6793341971644,
+                    "url": "https://www.wake.gov/departments-government/parks-recreation-open-space/all-parks-trails/beech-bluff-county-park",
+                    "amenities": [
+                      "playground",
+                      "garden",
+                      "greenway",
+                      "restroom",
+                      "picnic-shelter"
+                    ],
+                    "indoor": false,
+                    "area": "south-wake",
+                    "hours": null,
+                    "cost": "Free"
+                  }
+                }
+              ],
+              "area": "south-wake",
+              "outdoor": true,
+              "source": {
+                "kind": "event",
+                "title": "Beech Bluff County Park StoryWalk® 2026 (Self-Led)",
+                "start": "2026-11-26T08:00:00",
+                "end": "2026-11-26T17:30:00",
+                "venue": "Beech Bluff County Park",
+                "address": "Beech Bluff Park Drive, Fuquay-Varina, NC",
+                "url": "https://apm.activecommunities.com/wakeparks/Activity_Search/beech-bluff-county-park-storywalk-2026-self-led/8358?locale=en-US",
+                "cost": "Free",
+                "lat": 35.58537279715877,
+                "lon": -78.6793341971644,
+                "ages": null,
+                "registration": false,
+                "indoor": false,
+                "area": "south-wake",
+                "source": "wake-parks",
+                "dropIn": true
+              }
+            },
+            {
+              "ref": "place:green-hills-county-park",
+              "arrive": "10:00",
+              "leave": "12:00",
+              "why": "A north Raleigh playground and greenway walk for a simple, active morning.",
+              "tips": [
+                "Bring a snack and water.",
+                "Walk the greenway first, then play."
+              ],
+              "interests": [
+                "movement",
+                "nature"
+              ],
+              "also": [],
+              "area": "north-raleigh",
+              "outdoor": true,
+              "source": {
+                "kind": "park",
+                "title": "Green Hills County Park",
+                "address": "9300 Deponie Dr., Raleigh, NC  27614",
+                "lat": 35.90515443027014,
+                "lon": -78.58379213479681,
+                "url": "https://www.wakegov.com/departments-government/parks-recreation-open-space/all-parks-trails/green-hills-county-park",
+                "amenities": [
+                  "playground",
+                  "picnic-shelter",
+                  "restroom",
+                  "greenway"
+                ],
+                "indoor": false,
+                "area": "north-raleigh",
+                "hours": null,
+                "cost": "Free"
+              }
+            },
+            {
+              "ref": "place:wendell-park",
+              "arrive": "14:00",
+              "leave": "16:00",
+              "why": "An east Wake playground and greenway for an afternoon of running and climbing.",
+              "tips": [
+                "Bring a snack for the picnic shelter.",
+                "Head out before the light fades."
+              ],
+              "interests": [
+                "movement"
+              ],
+              "also": [],
+              "area": "east-wake",
+              "outdoor": true,
+              "source": {
+                "kind": "park",
+                "title": "Wendell Park",
+                "address": "601 W. Third Street, Wendell, NC",
+                "lat": 35.78171909213524,
+                "lon": -78.37858290652449,
+                "url": "https://townofwendellnc.gov/departments/parks_and_recreation/facilities___rentals/index.php",
+                "amenities": [
+                  "playground",
+                  "picnic-shelter",
+                  "restroom",
+                  "greenway"
+                ],
+                "indoor": false,
+                "area": "east-wake",
+                "hours": null,
+                "cost": "Free"
+              }
+            }
+          ],
+          "rainBackup": null,
+          "timeline": [
+            {
+              "start": "07:00",
+              "end": "07:30",
+              "kind": "meal",
+              "title": "Up and breakfast"
+            },
+            {
+              "start": "07:30",
+              "end": "08:50",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "08:50",
+              "end": "09:10",
+              "kind": "routine",
+              "title": "Get ready to go",
+              "detail": "Shoes on, the bag, water and a snack."
+            },
+            {
+              "start": "09:10",
+              "end": "09:30",
+              "kind": "travel",
+              "title": "Drive to Apex Nature Park"
+            },
+            {
+              "start": "09:30",
+              "end": "12:30",
+              "kind": "outing",
+              "title": "Apex Nature Park",
+              "detail": "Pack a lunch to eat there."
+            },
+            {
+              "start": "12:30",
+              "end": "12:50",
+              "kind": "travel",
+              "title": "Drive home"
+            },
+            {
+              "start": "12:50",
+              "end": "18:00",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "18:00",
+              "end": "18:45",
+              "kind": "meal",
+              "title": "Dinner"
+            },
+            {
+              "start": "18:45",
+              "end": "19:30",
+              "kind": "routine",
+              "title": "Bath, books and bed"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "checked": {
+    "at": "2026-11-14T11:03:27.607Z",
+    "forecast": "none",
+    "weather": null,
+    "hidden": []
+  }
+}

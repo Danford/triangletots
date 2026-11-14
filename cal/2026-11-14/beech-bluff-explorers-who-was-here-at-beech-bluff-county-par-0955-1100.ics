@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Triangle Tots//triangletots.com//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:2026-11-14-beech-bluff-explorers-who-was-here-at-beech-bluff-county-par
+ -0955-1100@triangletots.com
+DTSTAMP:20261114T100000Z
+DTSTART:20261114T145500Z
+DTEND:20261114T160000Z
+SUMMARY:Beech Bluff Explorers: Who Was Here? at Beech Bluff County Park
+LOCATION:Beech Bluff Park Drive\, Fuquay-Varina\, NC
+DESCRIPTION:Sign up first.\nhttps://apm.activecommunities.com/wakeparks/Act
+ ivity_Search/beech-bluff-explorers-who-was-here/8357?locale=en-US\nThe who
+ le day: https://triangletots.com/2026-11-14/t3/\nTimes and details can cha
+ nge. Check the event or place before you go.
+END:VEVENT
+END:VCALENDAR

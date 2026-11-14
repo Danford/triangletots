@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Triangle Tots//triangletots.com//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:2026-11-23-southeast-regional-library-1715-1830@triangletots.com
+DTSTAMP:20261114T100000Z
+DTSTART:20261123T221500Z
+DTEND:20261123T233000Z
+SUMMARY:Southeast Regional Library
+LOCATION:908 Seventh Avenue\, Garner\, NC
+DESCRIPTION:The whole day: https://triangletots.com/2026-11-23/t3/\nTimes a
+ nd details can change. Check the event or place before you go.
+END:VEVENT
+END:VCALENDAR

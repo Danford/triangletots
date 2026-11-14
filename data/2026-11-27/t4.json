@@ -1,0 +1,817 @@
+{
+  "date": "2026-11-27",
+  "band": "t4",
+  "versions": [
+    {
+      "at": "2026-11-14T11:04:36.783Z",
+      "reason": null,
+      "forecast": "none",
+      "weather": null,
+      "plans": [
+        {
+          "nap": "short-nap",
+          "napLabel": "Short nap, 1 to 2",
+          "headline": "Read a story along the trail, then play",
+          "main": {
+            "ref": "event:wake-parks:8358:2026-11-27",
+            "arrive": "09:30",
+            "leave": "11:00",
+            "why": "Your child walks the self-led Beech Bluff County Park StoryWalk, reading the story one stop at a time. Then {they} burn{s} off energy at the Beech Bluff playground before the drive home.",
+            "tips": [
+              "Let your child lead the way and read each page aloud, or ask what comes next.",
+              "Bring a snack for the playground and eat it before you leave.",
+              "Give a five-minute warning before the last swing so leaving goes smoothly."
+            ],
+            "interests": [
+              "stories",
+              "nature",
+              "movement"
+            ],
+            "also": [
+              {
+                "ref": "place:beech-bluff-county-park",
+                "source": {
+                  "kind": "park",
+                  "title": "Beech Bluff County Park",
+                  "address": "Beech Bluff Park Drive, Fuquay-Varina, NC",
+                  "lat": 35.58537279715877,
+                  "lon": -78.6793341971644,
+                  "url": "https://www.wake.gov/departments-government/parks-recreation-open-space/all-parks-trails/beech-bluff-county-park",
+                  "amenities": [
+                    "playground",
+                    "garden",
+                    "greenway",
+                    "restroom",
+                    "picnic-shelter"
+                  ],
+                  "indoor": false,
+                  "area": "south-wake",
+                  "hours": null,
+                  "cost": "Free"
+                }
+              }
+            ],
+            "area": "south-wake",
+            "outdoor": true,
+            "source": {
+              "kind": "event",
+              "title": "Beech Bluff County Park StoryWalk® 2026 (Self-Led)",
+              "start": "2026-11-27T08:00:00",
+              "end": "2026-11-27T17:30:00",
+              "venue": "Beech Bluff County Park",
+              "address": "Beech Bluff Park Drive, Fuquay-Varina, NC",
+              "url": "https://apm.activecommunities.com/wakeparks/Activity_Search/beech-bluff-county-park-storywalk-2026-self-led/8358?locale=en-US",
+              "cost": "Free",
+              "lat": 35.58537279715877,
+              "lon": -78.6793341971644,
+              "ages": null,
+              "registration": false,
+              "indoor": false,
+              "area": "south-wake",
+              "source": "wake-parks",
+              "dropIn": true
+            }
+          },
+          "alternatives": [
+            {
+              "ref": "place:crowder-county-park",
+              "arrive": "09:00",
+              "leave": "10:30",
+              "why": "A morning of climbing and running at the playground, with a garden and greenway to explore when {they} want{s} a slower stretch.",
+              "tips": [
+                "Bring a snack to eat at a picnic shelter.",
+                "Let your child pick the first thing to try."
+              ],
+              "interests": [
+                "movement",
+                "nature"
+              ],
+              "also": [],
+              "area": "cary-apex",
+              "outdoor": true,
+              "source": {
+                "kind": "park",
+                "title": "Crowder County Park",
+                "address": "4709 Ten Ten Road",
+                "lat": 35.69174392711247,
+                "lon": -78.76585678897689,
+                "url": "https://www.wakegov.com/departments-government/parks-recreation-and-open-space/all-parks-trails/crowder-county-park",
+                "amenities": [
+                  "playground",
+                  "picnic-shelter",
+                  "restroom",
+                  "greenway",
+                  "garden"
+                ],
+                "indoor": false,
+                "area": "cary-apex",
+                "hours": null,
+                "cost": "Free"
+              }
+            },
+            {
+              "ref": "event:wake-parks:9411:2026-11-27",
+              "arrive": "14:30",
+              "leave": "16:00",
+              "why": "Your child can visit the American Bison Exploration Station and then see the Mill Open House, where interpreters explain how the mill works. Both are drop-in, so stay as long as {they} like{s}.",
+              "tips": [
+                "Ask your child what questions to ask the interpreters.",
+                "Bring a snack and eat it before heading home."
+              ],
+              "interests": [
+                "animals",
+                "science",
+                "nature"
+              ],
+              "also": [
+                {
+                  "ref": "event:wake-parks:9430",
+                  "source": {
+                    "kind": "event",
+                    "title": "Mill Open House",
+                    "start": "2026-11-27T13:00:00",
+                    "end": "2026-11-27T16:00:00",
+                    "venue": "Historic Yates Mill County Park",
+                    "address": "4620 Lake Wheeler Rd., Raleigh, NC  27603",
+                    "url": "https://apm.activecommunities.com/wakeparks/Activity_Search/mill-open-house/9430?locale=en-US",
+                    "cost": "Free",
+                    "lat": 35.72157134974476,
+                    "lon": -78.68526087901417,
+                    "ages": null,
+                    "registration": false,
+                    "indoor": false,
+                    "area": "raleigh",
+                    "source": "wake-parks",
+                    "dropIn": true
+                  }
+                }
+              ],
+              "area": "raleigh",
+              "outdoor": true,
+              "source": {
+                "kind": "event",
+                "title": "Exploration Station: American Bison",
+                "start": "2026-11-27T08:30:00",
+                "end": "2026-11-27T17:00:00",
+                "venue": "Historic Yates Mill County Park",
+                "address": "4620 Lake Wheeler Rd., Raleigh, NC  27603",
+                "url": "https://apm.activecommunities.com/wakeparks/Activity_Search/exploration-station-american-bison/9411?locale=en-US",
+                "cost": "Free",
+                "lat": 35.72157134974476,
+                "lon": -78.68526087901417,
+                "ages": null,
+                "registration": false,
+                "indoor": false,
+                "area": "raleigh",
+                "source": "wake-parks",
+                "dropIn": true
+              }
+            }
+          ],
+          "rainBackup": null,
+          "timeline": [
+            {
+              "start": "07:00",
+              "end": "07:30",
+              "kind": "meal",
+              "title": "Up and breakfast"
+            },
+            {
+              "start": "07:30",
+              "end": "08:50",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "08:50",
+              "end": "09:10",
+              "kind": "routine",
+              "title": "Get ready to go",
+              "detail": "Shoes on, the bag, water and a snack."
+            },
+            {
+              "start": "09:10",
+              "end": "09:30",
+              "kind": "travel",
+              "title": "Drive to Beech Bluff County Park"
+            },
+            {
+              "start": "09:30",
+              "end": "11:00",
+              "kind": "outing",
+              "title": "Beech Bluff County Park"
+            },
+            {
+              "start": "11:00",
+              "end": "11:20",
+              "kind": "travel",
+              "title": "Drive home"
+            },
+            {
+              "start": "11:20",
+              "end": "12:15",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "12:15",
+              "end": "12:45",
+              "kind": "meal",
+              "title": "Lunch"
+            },
+            {
+              "start": "12:45",
+              "end": "13:00",
+              "kind": "quiet",
+              "title": "Wind down",
+              "detail": "A couple of books to settle."
+            },
+            {
+              "start": "13:00",
+              "end": "14:00",
+              "kind": "nap",
+              "title": "Nap"
+            },
+            {
+              "start": "14:00",
+              "end": "14:20",
+              "kind": "routine",
+              "title": "Up and a snack"
+            },
+            {
+              "start": "14:20",
+              "end": "18:30",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "18:30",
+              "end": "19:15",
+              "kind": "meal",
+              "title": "Dinner"
+            },
+            {
+              "start": "19:15",
+              "end": "20:00",
+              "kind": "routine",
+              "title": "Bath, books and bed"
+            }
+          ]
+        },
+        {
+          "nap": "quiet",
+          "napLabel": "Quiet time",
+          "headline": "Watch ocean animals eat, then run at the park",
+          "main": {
+            "ref": "event:museum:nc-natural-sciences:123925",
+            "arrive": "10:35",
+            "leave": "11:50",
+            "why": "Your child watches the Live Animal Feeding at the Ocean Habitat in the museum, where admission is free. Then {they} play at Fred Fletcher Park, which has a playground and a garden.",
+            "tips": [
+              "The feeding is short, so arrive a few minutes early to get a good spot.",
+              "Ask your child what the animals might like to eat.",
+              "Bring a snack to enjoy at the park."
+            ],
+            "interests": [
+              "animals",
+              "water",
+              "science"
+            ],
+            "also": [
+              {
+                "ref": "place:fred-fletcher-park",
+                "source": {
+                  "kind": "park",
+                  "title": "Fred Fletcher Park",
+                  "address": "820 Clay Street, Raleigh, NC 27605",
+                  "lat": 35.79264,
+                  "lon": -78.64957,
+                  "url": "https://raleighnc.gov/parks-and-recreation/places/fred-fletcher-park",
+                  "amenities": [
+                    "garden",
+                    "picnic-shelter",
+                    "courts",
+                    "fields",
+                    "playground"
+                  ],
+                  "indoor": false,
+                  "area": "raleigh",
+                  "hours": null,
+                  "cost": "Free"
+                }
+              }
+            ],
+            "area": "raleigh",
+            "outdoor": false,
+            "source": {
+              "kind": "event",
+              "title": "Live Animal Feeding – Ocean Habitat",
+              "start": "2026-11-27T10:45:00",
+              "end": "2026-11-27T11:00:00",
+              "venue": "NC Museum of Natural Sciences",
+              "address": "11 West Jones Street, Raleigh, NC, 27601",
+              "url": "https://www.naturalsciences.org/calendar/event/live-animal-feeding-ocean-habitat-5/2026-11-27/",
+              "cost": "Museum admission is free",
+              "lat": 35.7822735,
+              "lon": -78.6395502,
+              "ages": "Adults All Ages Children Live Animals Teens Walk-up Programs",
+              "registration": false,
+              "indoor": true,
+              "area": "raleigh",
+              "source": "museum",
+              "dropIn": false
+            }
+          },
+          "alternatives": [
+            {
+              "ref": "event:wake-parks:8358:2026-11-27",
+              "arrive": "09:30",
+              "leave": "11:00",
+              "why": "Your child walks the self-led StoryWalk at Beech Bluff County Park, then plays at the park's playground.",
+              "tips": [
+                "Let your child turn the story's pages in {their} mind and guess what comes next.",
+                "Pack a snack for after the walk."
+              ],
+              "interests": [
+                "stories",
+                "nature",
+                "movement"
+              ],
+              "also": [
+                {
+                  "ref": "place:beech-bluff-county-park",
+                  "source": {
+                    "kind": "park",
+                    "title": "Beech Bluff County Park",
+                    "address": "Beech Bluff Park Drive, Fuquay-Varina, NC",
+                    "lat": 35.58537279715877,
+                    "lon": -78.6793341971644,
+                    "url": "https://www.wake.gov/departments-government/parks-recreation-open-space/all-parks-trails/beech-bluff-county-park",
+                    "amenities": [
+                      "playground",
+                      "garden",
+                      "greenway",
+                      "restroom",
+                      "picnic-shelter"
+                    ],
+                    "indoor": false,
+                    "area": "south-wake",
+                    "hours": null,
+                    "cost": "Free"
+                  }
+                }
+              ],
+              "area": "south-wake",
+              "outdoor": true,
+              "source": {
+                "kind": "event",
+                "title": "Beech Bluff County Park StoryWalk® 2026 (Self-Led)",
+                "start": "2026-11-27T08:00:00",
+                "end": "2026-11-27T17:30:00",
+                "venue": "Beech Bluff County Park",
+                "address": "Beech Bluff Park Drive, Fuquay-Varina, NC",
+                "url": "https://apm.activecommunities.com/wakeparks/Activity_Search/beech-bluff-county-park-storywalk-2026-self-led/8358?locale=en-US",
+                "cost": "Free",
+                "lat": 35.58537279715877,
+                "lon": -78.6793341971644,
+                "ages": null,
+                "registration": false,
+                "indoor": false,
+                "area": "south-wake",
+                "source": "wake-parks",
+                "dropIn": true
+              }
+            },
+            {
+              "ref": "event:wake-parks:9411:2026-11-27",
+              "arrive": "14:00",
+              "leave": "15:30",
+              "why": "After quiet time, your child can learn about bison at the Exploration Station and see the mill at the Mill Open House. Both are drop-in, so come and go as {they} like{s}.",
+              "tips": [
+                "Let your child pick which one to see first.",
+                "Bring a snack for the end of the visit."
+              ],
+              "interests": [
+                "animals",
+                "science",
+                "nature"
+              ],
+              "also": [
+                {
+                  "ref": "event:wake-parks:9430",
+                  "source": {
+                    "kind": "event",
+                    "title": "Mill Open House",
+                    "start": "2026-11-27T13:00:00",
+                    "end": "2026-11-27T16:00:00",
+                    "venue": "Historic Yates Mill County Park",
+                    "address": "4620 Lake Wheeler Rd., Raleigh, NC  27603",
+                    "url": "https://apm.activecommunities.com/wakeparks/Activity_Search/mill-open-house/9430?locale=en-US",
+                    "cost": "Free",
+                    "lat": 35.72157134974476,
+                    "lon": -78.68526087901417,
+                    "ages": null,
+                    "registration": false,
+                    "indoor": false,
+                    "area": "raleigh",
+                    "source": "wake-parks",
+                    "dropIn": true
+                  }
+                }
+              ],
+              "area": "raleigh",
+              "outdoor": true,
+              "source": {
+                "kind": "event",
+                "title": "Exploration Station: American Bison",
+                "start": "2026-11-27T08:30:00",
+                "end": "2026-11-27T17:00:00",
+                "venue": "Historic Yates Mill County Park",
+                "address": "4620 Lake Wheeler Rd., Raleigh, NC  27603",
+                "url": "https://apm.activecommunities.com/wakeparks/Activity_Search/exploration-station-american-bison/9411?locale=en-US",
+                "cost": "Free",
+                "lat": 35.72157134974476,
+                "lon": -78.68526087901417,
+                "ages": null,
+                "registration": false,
+                "indoor": false,
+                "area": "raleigh",
+                "source": "wake-parks",
+                "dropIn": true
+              }
+            },
+            {
+              "ref": "place:leesville-community-park",
+              "arrive": "09:00",
+              "leave": "10:45",
+              "why": "Your child can climb at the playground, then walk the greenway or look around the garden at {their} own pace.",
+              "tips": [
+                "Bring a snack and a water bottle.",
+                "Pick one thing to find on the greenway, like a leaf or a bird."
+              ],
+              "interests": [
+                "movement",
+                "nature"
+              ],
+              "also": [],
+              "area": "north-raleigh",
+              "outdoor": true,
+              "source": {
+                "kind": "park",
+                "title": "Leesville Community Park",
+                "address": "5105 Country Trail, Raleigh, NC 27613",
+                "lat": 35.88424,
+                "lon": -78.71549,
+                "url": "https://raleighnc.gov/parks-and-recreation/places/leesville-community-park",
+                "amenities": [
+                  "greenway",
+                  "playground",
+                  "garden"
+                ],
+                "indoor": false,
+                "area": "north-raleigh",
+                "hours": null,
+                "cost": "Free"
+              }
+            }
+          ],
+          "rainBackup": null,
+          "timeline": [
+            {
+              "start": "07:00",
+              "end": "07:30",
+              "kind": "meal",
+              "title": "Up and breakfast"
+            },
+            {
+              "start": "07:30",
+              "end": "09:55",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "09:55",
+              "end": "10:15",
+              "kind": "routine",
+              "title": "Get ready to go",
+              "detail": "Shoes on, the bag, water and a snack."
+            },
+            {
+              "start": "10:15",
+              "end": "10:35",
+              "kind": "travel",
+              "title": "Drive to NC Museum of Natural Sciences"
+            },
+            {
+              "start": "10:35",
+              "end": "11:00",
+              "kind": "outing",
+              "title": "Live Animal Feeding – Ocean Habitat"
+            },
+            {
+              "start": "11:00",
+              "end": "11:10",
+              "kind": "travel",
+              "title": "Drive to Fred Fletcher Park"
+            },
+            {
+              "start": "11:10",
+              "end": "11:50",
+              "kind": "outing",
+              "title": "Fred Fletcher Park"
+            },
+            {
+              "start": "11:50",
+              "end": "12:10",
+              "kind": "travel",
+              "title": "Drive home"
+            },
+            {
+              "start": "12:10",
+              "end": "12:40",
+              "kind": "meal",
+              "title": "Lunch"
+            },
+            {
+              "start": "12:40",
+              "end": "13:00",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "13:00",
+              "end": "13:45",
+              "kind": "quiet",
+              "title": "Quiet time",
+              "detail": "Books or quiet play in their room."
+            },
+            {
+              "start": "13:45",
+              "end": "18:00",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "18:00",
+              "end": "18:45",
+              "kind": "meal",
+              "title": "Dinner"
+            },
+            {
+              "start": "18:45",
+              "end": "19:30",
+              "kind": "routine",
+              "title": "Bath, books and bed"
+            }
+          ]
+        },
+        {
+          "nap": "no-nap",
+          "napLabel": "No nap",
+          "headline": "A big park morning with a playground and greenway",
+          "main": {
+            "ref": "place:falls-lake-state-recreation-area-holly-point-entrance",
+            "arrive": "09:30",
+            "leave": "11:30",
+            "why": "Your child plays at the Holly Point playground and walks the greenway, with a picnic shelter for a snack. It is a long, free-play morning for a child who has lots of energy.",
+            "tips": [
+              "Bring a snack and eat at the picnic shelter.",
+              "Let your child choose between the playground and the greenway first.",
+              "Tell your child the plan for leaving before you start the walk to the car."
+            ],
+            "interests": [
+              "nature",
+              "movement"
+            ],
+            "also": [],
+            "area": "north-raleigh",
+            "outdoor": true,
+            "source": {
+              "kind": "park",
+              "title": "Holly Point, Falls Lake",
+              "address": "14424 New Light Rd. Wake Forest",
+              "lat": 36.01002946709156,
+              "lon": -78.65745775232777,
+              "url": "https://www.ncparks.gov/falls-lake-state-recreation-area",
+              "amenities": [
+                "playground",
+                "picnic-shelter",
+                "restroom",
+                "greenway"
+              ],
+              "indoor": false,
+              "area": "north-raleigh",
+              "hours": null,
+              "cost": "Free"
+            }
+          },
+          "alternatives": [
+            {
+              "ref": "event:wake-parks:9411:2026-11-27",
+              "arrive": "13:00",
+              "leave": "15:00",
+              "why": "Your child learns about bison at the American Bison Exploration Station, then sees the mill at the Mill Open House, where interpreters answer questions. Both are drop-in.",
+              "tips": [
+                "Help your child think of one question to ask an interpreter.",
+                "Bring a snack and eat it between stops."
+              ],
+              "interests": [
+                "animals",
+                "science",
+                "nature"
+              ],
+              "also": [
+                {
+                  "ref": "event:wake-parks:9430",
+                  "source": {
+                    "kind": "event",
+                    "title": "Mill Open House",
+                    "start": "2026-11-27T13:00:00",
+                    "end": "2026-11-27T16:00:00",
+                    "venue": "Historic Yates Mill County Park",
+                    "address": "4620 Lake Wheeler Rd., Raleigh, NC  27603",
+                    "url": "https://apm.activecommunities.com/wakeparks/Activity_Search/mill-open-house/9430?locale=en-US",
+                    "cost": "Free",
+                    "lat": 35.72157134974476,
+                    "lon": -78.68526087901417,
+                    "ages": null,
+                    "registration": false,
+                    "indoor": false,
+                    "area": "raleigh",
+                    "source": "wake-parks",
+                    "dropIn": true
+                  }
+                }
+              ],
+              "area": "raleigh",
+              "outdoor": true,
+              "source": {
+                "kind": "event",
+                "title": "Exploration Station: American Bison",
+                "start": "2026-11-27T08:30:00",
+                "end": "2026-11-27T17:00:00",
+                "venue": "Historic Yates Mill County Park",
+                "address": "4620 Lake Wheeler Rd., Raleigh, NC  27603",
+                "url": "https://apm.activecommunities.com/wakeparks/Activity_Search/exploration-station-american-bison/9411?locale=en-US",
+                "cost": "Free",
+                "lat": 35.72157134974476,
+                "lon": -78.68526087901417,
+                "ages": null,
+                "registration": false,
+                "indoor": false,
+                "area": "raleigh",
+                "source": "wake-parks",
+                "dropIn": true
+              }
+            },
+            {
+              "ref": "place:knightdale-station-park",
+              "arrive": "09:00",
+              "leave": "11:00",
+              "why": "A playground and greenway for running, climbing and exploring, with a picnic shelter for a snack.",
+              "tips": [
+                "Bring a snack for the picnic shelter.",
+                "Give a five-minute warning before it is time to go."
+              ],
+              "interests": [
+                "movement",
+                "nature"
+              ],
+              "also": [],
+              "area": "east-wake",
+              "outdoor": true,
+              "source": {
+                "kind": "park",
+                "title": "Knightdale Station Park",
+                "address": "810 North First Avenue, Knightdale, NC",
+                "lat": 35.795776739559024,
+                "lon": -78.47584503817626,
+                "url": "https://www.knightdalenc.gov/knightdalestationpark",
+                "amenities": [
+                  "playground",
+                  "picnic-shelter",
+                  "greenway"
+                ],
+                "indoor": false,
+                "area": "east-wake",
+                "hours": null,
+                "cost": "Free"
+              }
+            },
+            {
+              "ref": "place:crowder-county-park",
+              "arrive": "09:30",
+              "leave": "11:30",
+              "why": "Your child can climb at the playground, walk the greenway and look around the garden.",
+              "tips": [
+                "Bring a snack for a picnic shelter break.",
+                "Let your child lead the walk."
+              ],
+              "interests": [
+                "movement",
+                "nature"
+              ],
+              "also": [],
+              "area": "cary-apex",
+              "outdoor": true,
+              "source": {
+                "kind": "park",
+                "title": "Crowder County Park",
+                "address": "4709 Ten Ten Road",
+                "lat": 35.69174392711247,
+                "lon": -78.76585678897689,
+                "url": "https://www.wakegov.com/departments-government/parks-recreation-and-open-space/all-parks-trails/crowder-county-park",
+                "amenities": [
+                  "playground",
+                  "picnic-shelter",
+                  "restroom",
+                  "greenway",
+                  "garden"
+                ],
+                "indoor": false,
+                "area": "cary-apex",
+                "hours": null,
+                "cost": "Free"
+              }
+            }
+          ],
+          "rainBackup": null,
+          "timeline": [
+            {
+              "start": "07:00",
+              "end": "07:30",
+              "kind": "meal",
+              "title": "Up and breakfast"
+            },
+            {
+              "start": "07:30",
+              "end": "08:50",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "08:50",
+              "end": "09:10",
+              "kind": "routine",
+              "title": "Get ready to go",
+              "detail": "Shoes on, the bag, water and a snack."
+            },
+            {
+              "start": "09:10",
+              "end": "09:30",
+              "kind": "travel",
+              "title": "Drive to Holly Point, Falls Lake"
+            },
+            {
+              "start": "09:30",
+              "end": "11:30",
+              "kind": "outing",
+              "title": "Holly Point, Falls Lake"
+            },
+            {
+              "start": "11:30",
+              "end": "11:50",
+              "kind": "travel",
+              "title": "Drive home"
+            },
+            {
+              "start": "11:50",
+              "end": "12:20",
+              "kind": "meal",
+              "title": "Lunch"
+            },
+            {
+              "start": "12:20",
+              "end": "18:00",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "18:00",
+              "end": "18:45",
+              "kind": "meal",
+              "title": "Dinner"
+            },
+            {
+              "start": "18:45",
+              "end": "19:30",
+              "kind": "routine",
+              "title": "Bath, books and bed"
+            }
+          ]
+        }
+      ],
+      "dropped": [
+        "[short-nap] alternative event:libcal:durham-county-library:17233178 Bragtown's Bilingual Storytime with Ms. Melanie! is for Baby, Kindergarten, Pre-School, Toddler",
+        "[quiet] alternative event:libcal:durham-county-library:17233178 Bragtown's Bilingual Storytime with Ms. Melanie! is for Baby, Kindergarten, Pre-School, Toddler",
+        "[no-nap] alternative event:libcal:durham-county-library:17233178 Bragtown's Bilingual Storytime with Ms. Melanie! is for Baby, Kindergarten, Pre-School, Toddler"
+      ]
+    }
+  ],
+  "checked": {
+    "at": "2026-11-14T11:04:36.783Z",
+    "forecast": "none",
+    "weather": null,
+    "hidden": []
+  }
+}

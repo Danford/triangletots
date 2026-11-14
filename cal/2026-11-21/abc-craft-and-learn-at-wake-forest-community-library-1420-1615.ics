@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Triangle Tots//triangletots.com//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:2026-11-21-abc-craft-and-learn-at-wake-forest-community-library-1420-16
+ 15@triangletots.com
+DTSTAMP:20261114T100000Z
+DTSTART:20261121T192000Z
+DTEND:20261121T211500Z
+SUMMARY:ABC Craft and Learn at Wake Forest Community Library
+LOCATION:400 E Holding Avenue\, Wake Forest\, NC
+DESCRIPTION:https://www.wake.gov/events/abc-craft-and-learn-649\nhttps://ww
+ w.wakeforestnc.gov/parks-recreation-cultural-resources/parks-facilities/ki
+ wanis-park\nThe whole day: https://triangletots.com/2026-11-21/t3/\nTimes 
+ and details can change. Check the event or place before you go.
+END:VEVENT
+END:VCALENDAR

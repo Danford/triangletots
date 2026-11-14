@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Triangle Tots//triangletots.com//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:2026-11-27-leesville-community-park-1415-1530@triangletots.com
+DTSTAMP:20261114T100000Z
+DTSTART:20261127T191500Z
+DTEND:20261127T203000Z
+SUMMARY:Leesville Community Park
+LOCATION:5105 Country Trail\, Raleigh\, NC 27613
+DESCRIPTION:https://raleighnc.gov/parks-and-recreation/places/leesville-com
+ munity-park\nThe whole day: https://triangletots.com/2026-11-27/t4/\nTimes
+  and details can change. Check the event or place before you go.
+END:VEVENT
+END:VCALENDAR

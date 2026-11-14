@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Triangle Tots//triangletots.com//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:2026-11-25-total-tot-time-at-campus-hills-park-0930-1200@triangletots.c
+ om
+DTSTAMP:20261114T100000Z
+DTSTART:20261125T143000Z
+DTEND:20261125T170000Z
+SUMMARY:Total Tot Time at Campus Hills Park
+LOCATION:2000 S Alston Ave\, Durham\, NC
+DESCRIPTION:Sign up first.\nhttps://www.dprplaymore.org/Facilities/Facility
+ /Details/Campus-Hills-Park-10\nhttps://apm.activecommunities.com/dprplaymo
+ re/Activity_Search/total-tot-time/20088?locale=en-US\nThe whole day: https
+ ://triangletots.com/2026-11-25/t4/\nTimes and details can change. Check th
+ e event or place before you go.
+END:VEVENT
+END:VCALENDAR

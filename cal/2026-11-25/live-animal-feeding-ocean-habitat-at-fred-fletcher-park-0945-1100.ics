@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Triangle Tots//triangletots.com//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:2026-11-25-live-animal-feeding-ocean-habitat-at-fred-fletcher-park-0945
+ -1100@triangletots.com
+DTSTAMP:20261114T100000Z
+DTSTART:20261125T144500Z
+DTEND:20261125T160000Z
+SUMMARY:Live Animal Feeding – Ocean Habitat at Fred Fletcher Park
+LOCATION:820 Clay Street\, Raleigh\, NC 27605
+DESCRIPTION:https://raleighnc.gov/parks-and-recreation/places/fred-fletcher
+ -park\nhttps://www.naturalsciences.org/calendar/event/live-animal-feeding-
+ ocean-habitat-5/2026-11-25/\nThe whole day: https://triangletots.com/2026-
+ 11-25/t1/\nTimes and details can change. Check the event or place before y
+ ou go.
+END:VEVENT
+END:VCALENDAR

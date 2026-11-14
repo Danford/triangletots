@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Triangle Tots//triangletots.com//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:2026-11-18-historic-oak-view-county-park-0800-0945@triangletots.com
+DTSTAMP:20261114T100000Z
+DTSTART:20261118T130000Z
+DTEND:20261118T144500Z
+SUMMARY:Historic Oak View County Park
+LOCATION:4028 Carya Dr.\, Raleigh\, NC  27610
+DESCRIPTION:https://www.wakegov.com/departments-government/parks-recreation
+ -and-open-space/all-parks-trails/historic-oak-view-county-park\nThe whole 
+ day: https://triangletots.com/2026-11-18/t2/\nTimes and details can change
+ . Check the event or place before you go.
+END:VEVENT
+END:VCALENDAR

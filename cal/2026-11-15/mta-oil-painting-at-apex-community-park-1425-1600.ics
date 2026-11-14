@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Triangle Tots//triangletots.com//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:2026-11-15-mta-oil-painting-at-apex-community-park-1425-1600@triangleto
+ ts.com
+DTSTAMP:20261114T100000Z
+DTSTART:20261115T192500Z
+DTEND:20261115T210000Z
+SUMMARY:MTA:  Oil Painting at Apex Community Park
+LOCATION:2200 Laura Duncan Rd.\, Apex\, NC
+DESCRIPTION:http://www.apexnc.org/795/Apex-Community-Park\nhttps://www.wake
+ .gov/events/mta-oil-painting\nThe whole day: https://triangletots.com/2026
+ -11-15/t1/\nTimes and details can change. Check the event or place before 
+ you go.
+END:VEVENT
+END:VCALENDAR

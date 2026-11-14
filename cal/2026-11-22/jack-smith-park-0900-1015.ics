@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Triangle Tots//triangletots.com//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:2026-11-22-jack-smith-park-0900-1015@triangletots.com
+DTSTAMP:20261114T100000Z
+DTSTART:20261122T140000Z
+DTEND:20261122T151500Z
+SUMMARY:Jack Smith Park
+LOCATION:9725 Penny Road\, Cary\, NC
+DESCRIPTION:http://www.townofcary.org/recreation-enjoyment/parks-greenways-
+ environment/parks/jack-smith-park\nThe whole day: https://triangletots.com
+ /2026-11-22/t4/\nTimes and details can change. Check the event or place be
+ fore you go.
+END:VEVENT
+END:VCALENDAR

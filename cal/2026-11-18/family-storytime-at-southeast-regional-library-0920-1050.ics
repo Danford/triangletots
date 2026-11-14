@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Triangle Tots//triangletots.com//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:2026-11-18-family-storytime-at-southeast-regional-library-0920-1050@tri
+ angletots.com
+DTSTAMP:20261114T100000Z
+DTSTART:20261118T142000Z
+DTEND:20261118T155000Z
+SUMMARY:Family Storytime at Southeast Regional Library
+LOCATION:908 Seventh Avenue\, Garner\, NC
+DESCRIPTION:https://www.wake.gov/events/family-storytime-4043\nhttps://www.
+ garnernc.gov/departments/parks-recreation-and-cultural-resources/garner-pa
+ rks/jaycee-park\nThe whole day: https://triangletots.com/2026-11-18/t2/\nT
+ imes and details can change. Check the event or place before you go.
+END:VEVENT
+END:VCALENDAR

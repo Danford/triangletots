@@ -1,0 +1,1188 @@
+{
+  "date": "2026-11-16",
+  "band": "t2",
+  "versions": [
+    {
+      "at": "2026-11-03T11:08:22.091Z",
+      "reason": null,
+      "forecast": "none",
+      "weather": null,
+      "plans": [
+        {
+          "nap": "early-nap",
+          "napLabel": "One nap, 12 to 2",
+          "headline": "Leaf story and craft at the park",
+          "main": {
+            "ref": "place:crowder-county-park",
+            "also": [
+              {
+                "ref": "event:wake-parks:9405",
+                "source": {
+                  "kind": "event",
+                  "title": "Tiny Tots: Red Leaf, Yellow Leaf",
+                  "start": "2026-11-16T10:15:00",
+                  "end": "2026-11-16T11:00:00",
+                  "venue": "Crowder County Park",
+                  "address": "4709 Ten Ten Road",
+                  "url": "https://apm.activecommunities.com/wakeparks/Activity_Search/tiny-tots-red-leaf-yellow-leaf/9405?locale=en-US",
+                  "cost": "Free",
+                  "lat": 35.69174392711247,
+                  "lon": -78.76585678897689,
+                  "ages": "At least 1 but less than 7",
+                  "registration": "https://apm.activecommunities.com/wakeparks/Activity_Search/tiny-tots-red-leaf-yellow-leaf/9405?locale=en-US",
+                  "indoor": false,
+                  "area": "cary-apex",
+                  "source": "wake-parks",
+                  "dropIn": false
+                }
+              }
+            ],
+            "arrive": "09:45",
+            "leave": "11:00",
+            "why": "Your 2-year-old plays at Crowder County Park, then hears Red Leaf, Yellow Leaf and makes a craft at Tiny Tots. A family needs to sign up first.",
+            "tips": [
+              "Sign up before you go.",
+              "Let your child run first so sitting for the story is easier.",
+              "Bring a snack for the car ride home."
+            ],
+            "interests": [
+              "stories",
+              "art",
+              "nature"
+            ],
+            "area": "cary-apex",
+            "outdoor": true,
+            "source": {
+              "kind": "park",
+              "title": "Crowder County Park",
+              "address": "4709 Ten Ten Road",
+              "lat": 35.69174392711247,
+              "lon": -78.76585678897689,
+              "url": "https://www.wakegov.com/departments-government/parks-recreation-and-open-space/all-parks-trails/crowder-county-park",
+              "amenities": [
+                "playground",
+                "picnic-shelter",
+                "restroom",
+                "greenway",
+                "garden"
+              ],
+              "indoor": false,
+              "area": "cary-apex",
+              "hours": null,
+              "cost": "Free"
+            }
+          },
+          "alternatives": [
+            {
+              "ref": "place:walltown-park",
+              "also": [
+                {
+                  "ref": "event:durham-rec:19841:2026-11-16",
+                  "source": {
+                    "kind": "event",
+                    "title": "Total Tot Time",
+                    "start": "2026-11-16T10:00:00",
+                    "end": "2026-11-16T12:00:00",
+                    "venue": "Walltown Park Rec Ctr",
+                    "address": "1308 W Club Blvd, Durham, NC",
+                    "url": "https://apm.activecommunities.com/dprplaymore/Activity_Search/total-tot-time/19841?locale=en-US",
+                    "cost": null,
+                    "lat": 36.018264,
+                    "lon": -78.91403399999999,
+                    "ages": "0 - 4",
+                    "registration": "https://apm.activecommunities.com/dprplaymore/Activity_Search/total-tot-time/19841?locale=en-US",
+                    "indoor": true,
+                    "area": "durham",
+                    "source": "durham-rec",
+                    "dropIn": false
+                  }
+                }
+              ],
+              "arrive": "09:30",
+              "leave": "11:15",
+              "why": "Your child plays at Walltown Park, then crawls through tunnels and plays with a parachute at Total Tot Time. A family needs to sign up first.",
+              "tips": [
+                "Sign up ahead of time.",
+                "Leave the gym a little early, while your child is still having fun."
+              ],
+              "interests": [
+                "movement",
+                "music"
+              ],
+              "area": "durham",
+              "outdoor": false,
+              "source": {
+                "kind": "park",
+                "title": "Walltown Park",
+                "address": "1308 W Club Blvd, Durham, NC",
+                "lat": 36.018264,
+                "lon": -78.91403399999999,
+                "url": "https://www.dprplaymore.org/Facilities/Facility/Details/Walltown-Park-74",
+                "amenities": [
+                  "playground",
+                  "picnic-shelter"
+                ],
+                "indoor": false,
+                "area": "durham",
+                "hours": null,
+                "cost": "Free"
+              }
+            },
+            {
+              "ref": "event:wake:22344",
+              "also": [
+                {
+                  "ref": "place:leesville-community-park",
+                  "source": {
+                    "kind": "park",
+                    "title": "Leesville Community Park",
+                    "address": "5105 Country Trail, Raleigh, NC 27613",
+                    "lat": 35.88424,
+                    "lon": -78.71549,
+                    "url": "https://raleighnc.gov/parks-and-recreation/places/leesville-community-park",
+                    "amenities": [
+                      "greenway",
+                      "playground",
+                      "garden"
+                    ],
+                    "indoor": false,
+                    "area": "north-raleigh",
+                    "hours": null,
+                    "cost": "Free"
+                  }
+                }
+              ],
+              "arrive": "09:50",
+              "leave": "11:10",
+              "why": "Your child sings and hears stories at Leesville Family Storytime, then plays at Leesville Community Park.",
+              "tips": [
+                "Bring a small snack for the park.",
+                "Give a two-minute warning before you leave the playground."
+              ],
+              "interests": [
+                "stories",
+                "music",
+                "movement"
+              ],
+              "area": "north-raleigh",
+              "outdoor": false,
+              "source": {
+                "kind": "event",
+                "title": "Family Storytime",
+                "start": "2026-11-16T10:00:00-05:00",
+                "end": "2026-11-16T10:30:00-05:00",
+                "venue": "Leesville Community Library",
+                "address": "5105 Country Trail, Raleigh, NC 27613",
+                "url": "https://www.wake.gov/events/family-storytime-4158",
+                "cost": "Free",
+                "lat": 35.88424,
+                "lon": -78.71549,
+                "ages": "Young Children",
+                "registration": null,
+                "indoor": true,
+                "area": "north-raleigh",
+                "source": "wake-county",
+                "dropIn": false
+              }
+            },
+            {
+              "ref": "place:jc-raulston-arboretum",
+              "arrive": "09:00",
+              "leave": "10:45",
+              "why": "Your child wanders the garden paths and looks at trees and plants at toddler pace.",
+              "tips": [
+                "Let your child choose which path to follow.",
+                "Bring a snack and eat it before you head back to the car."
+              ],
+              "interests": [
+                "nature",
+                "movement"
+              ],
+              "also": [],
+              "area": "raleigh",
+              "outdoor": true,
+              "source": {
+                "kind": "garden",
+                "title": "JC Raulston Arboretum",
+                "address": "4415 Beryl Rd, Raleigh, NC 27606",
+                "lat": 35.794,
+                "lon": -78.6987,
+                "url": "https://jcra.ncsu.edu/",
+                "amenities": [
+                  "garden",
+                  "nature"
+                ],
+                "indoor": false,
+                "area": "raleigh",
+                "hours": {
+                  "mon": "9 a.m.–4:30 p.m.",
+                  "tue": "9 a.m.–4:30 p.m.",
+                  "wed": "9 a.m.–4:30 p.m.",
+                  "thu": "9 a.m.–4:30 p.m.",
+                  "fri": "9 a.m.–4:30 p.m.",
+                  "sat": "9 a.m.–5 p.m.",
+                  "sun": "9 a.m.–5 p.m."
+                },
+                "cost": "Free",
+                "note": "Free. NC State’s garden; no pets."
+              }
+            },
+            {
+              "ref": "event:wake:24153",
+              "also": [
+                {
+                  "ref": "place:middle-creek-school-park",
+                  "source": {
+                    "kind": "park",
+                    "title": "Middle Creek School Park",
+                    "address": "151 Middle Creek Park Avenue, Cary, NC",
+                    "lat": 35.662513193321765,
+                    "lon": -78.7643852913516,
+                    "url": "https://www.carync.gov/recreation-enjoyment/parks-greenways-environment/parks/middle-creek-school-park",
+                    "amenities": [
+                      "playground",
+                      "picnic-shelter",
+                      "restroom",
+                      "greenway"
+                    ],
+                    "indoor": false,
+                    "area": "south-wake",
+                    "hours": null,
+                    "cost": "Free"
+                  }
+                }
+              ],
+              "arrive": "09:20",
+              "leave": "10:50",
+              "why": "Your child joins Family Storytime at Middle Creek Community Library, then plays at Middle Creek School Park.",
+              "tips": [
+                "Bring a snack for after the playground.",
+                "Walk to the car holding hands when it is time to go."
+              ],
+              "interests": [
+                "stories",
+                "music",
+                "movement"
+              ],
+              "area": "south-wake",
+              "outdoor": false,
+              "source": {
+                "kind": "event",
+                "title": "Family Storytime",
+                "start": "2026-11-16T09:30:00-05:00",
+                "end": "2026-11-16T10:00:00-05:00",
+                "venue": "Middle Creek Community Library",
+                "address": "111 Middle Creek Park Avenue, Apex, NC",
+                "url": "https://www.wake.gov/events/family-storytime-4670",
+                "cost": "Free",
+                "lat": 35.6682418176122,
+                "lon": -78.7587045638366,
+                "ages": "Young Children",
+                "registration": null,
+                "indoor": true,
+                "area": "south-wake",
+                "source": "wake-county",
+                "dropIn": false
+              }
+            }
+          ],
+          "rainBackup": null,
+          "timeline": [
+            {
+              "start": "07:00",
+              "end": "07:30",
+              "kind": "meal",
+              "title": "Up and breakfast"
+            },
+            {
+              "start": "07:30",
+              "end": "09:05",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "09:05",
+              "end": "09:25",
+              "kind": "routine",
+              "title": "Get ready to go",
+              "detail": "Shoes on, the bag, water and a snack."
+            },
+            {
+              "start": "09:25",
+              "end": "09:45",
+              "kind": "travel",
+              "title": "Drive to Crowder County Park"
+            },
+            {
+              "start": "09:45",
+              "end": "10:15",
+              "kind": "outing",
+              "title": "Crowder County Park"
+            },
+            {
+              "start": "10:15",
+              "end": "11:00",
+              "kind": "outing",
+              "title": "Tiny Tots: Red Leaf, Yellow Leaf"
+            },
+            {
+              "start": "11:00",
+              "end": "11:20",
+              "kind": "travel",
+              "title": "Drive home"
+            },
+            {
+              "start": "11:20",
+              "end": "11:50",
+              "kind": "meal",
+              "title": "Lunch"
+            },
+            {
+              "start": "11:50",
+              "end": "12:00",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "12:00",
+              "end": "14:00",
+              "kind": "nap",
+              "title": "Nap"
+            },
+            {
+              "start": "14:00",
+              "end": "14:20",
+              "kind": "routine",
+              "title": "Up and a snack"
+            },
+            {
+              "start": "14:20",
+              "end": "18:00",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "18:00",
+              "end": "18:45",
+              "kind": "meal",
+              "title": "Dinner"
+            },
+            {
+              "start": "18:45",
+              "end": "19:30",
+              "kind": "routine",
+              "title": "Bath, books and bed"
+            }
+          ]
+        },
+        {
+          "nap": "late-nap",
+          "napLabel": "One nap, 1 to 3",
+          "headline": "Stroll the garden paths at your own pace",
+          "main": {
+            "ref": "place:jc-raulston-arboretum",
+            "arrive": "09:30",
+            "leave": "11:30",
+            "why": "Your 2-year-old explores NC State's garden, following the paths and looking for leaves, trees and plants.",
+            "tips": [
+              "Let your child lead and stop wherever something catches their eye.",
+              "Bring a snack and a water bottle.",
+              "Leave pets at home. The arboretum does not allow them."
+            ],
+            "interests": [
+              "nature",
+              "movement"
+            ],
+            "also": [],
+            "area": "raleigh",
+            "outdoor": true,
+            "source": {
+              "kind": "garden",
+              "title": "JC Raulston Arboretum",
+              "address": "4415 Beryl Rd, Raleigh, NC 27606",
+              "lat": 35.794,
+              "lon": -78.6987,
+              "url": "https://jcra.ncsu.edu/",
+              "amenities": [
+                "garden",
+                "nature"
+              ],
+              "indoor": false,
+              "area": "raleigh",
+              "hours": {
+                "mon": "9 a.m.–4:30 p.m.",
+                "tue": "9 a.m.–4:30 p.m.",
+                "wed": "9 a.m.–4:30 p.m.",
+                "thu": "9 a.m.–4:30 p.m.",
+                "fri": "9 a.m.–4:30 p.m.",
+                "sat": "9 a.m.–5 p.m.",
+                "sun": "9 a.m.–5 p.m."
+              },
+              "cost": "Free",
+              "note": "Free. NC State’s garden; no pets."
+            }
+          },
+          "alternatives": [
+            {
+              "ref": "place:hillside-park",
+              "also": [
+                {
+                  "ref": "event:durham-rec:19772:2026-11-16",
+                  "source": {
+                    "kind": "event",
+                    "title": "Total Tot Time",
+                    "start": "2026-11-16T10:00:00",
+                    "end": "2026-11-16T12:00:00",
+                    "venue": "W.D. Hill Rec Ctr",
+                    "address": "1308 Fayetteville St, Durham, NC",
+                    "url": "https://apm.activecommunities.com/dprplaymore/Activity_Search/total-tot-time/19772?locale=en-US",
+                    "cost": null,
+                    "lat": 35.9797,
+                    "lon": -78.8985,
+                    "ages": "1 - 6",
+                    "registration": "https://apm.activecommunities.com/dprplaymore/Activity_Search/total-tot-time/19772?locale=en-US",
+                    "indoor": true,
+                    "area": "durham",
+                    "source": "durham-rec",
+                    "dropIn": false
+                  }
+                }
+              ],
+              "arrive": "09:30",
+              "leave": "11:45",
+              "why": "Your child plays at Hillside Park, then crawls through tunnels and plays with a parachute at Total Tot Time. A family needs to sign up first.",
+              "tips": [
+                "Sign up ahead of time.",
+                "Bring a snack for after the gym."
+              ],
+              "interests": [
+                "movement",
+                "music"
+              ],
+              "area": "durham",
+              "outdoor": false,
+              "source": {
+                "kind": "park",
+                "title": "Hillside Park",
+                "address": "1301 S Roxboro St, Durham, NC",
+                "lat": 35.98093222222222,
+                "lon": -78.90178333333333,
+                "url": "https://www.dprplaymore.org/Facilities/Facility/Details/Hillside-Park-32",
+                "amenities": [
+                  "playground",
+                  "splashpad",
+                  "pool",
+                  "picnic-shelter",
+                  "restroom"
+                ],
+                "indoor": false,
+                "area": "durham",
+                "hours": null,
+                "cost": "Free"
+              }
+            },
+            {
+              "ref": "event:wake:24287",
+              "also": [
+                {
+                  "ref": "place:pullen-park-amusements",
+                  "source": {
+                    "kind": "park",
+                    "title": "Pullen Park Amusements",
+                    "address": "410 Park Ave, Raleigh, NC 27606",
+                    "lat": 35.7806,
+                    "lon": -78.66396,
+                    "url": "https://raleighnc.gov/parks-and-recreation/places/pullen-park-amusements",
+                    "amenities": [
+                      "carousel",
+                      "boating",
+                      "train",
+                      "amusements",
+                      "courts",
+                      "playground",
+                      "picnic-shelter"
+                    ],
+                    "indoor": false,
+                    "area": "raleigh",
+                    "hours": {
+                      "mon": "10 a.m.–6 p.m.",
+                      "tue": "10 a.m.–6 p.m.",
+                      "wed": "10 a.m.–6 p.m.",
+                      "thu": "10 a.m.–6 p.m.",
+                      "fri": "10 a.m.–8 p.m.",
+                      "sat": "10 a.m.–8 p.m.",
+                      "sun": "10 a.m.–8 p.m."
+                    },
+                    "cost": "Free to get in; rides $2 a ticket"
+                  }
+                }
+              ],
+              "arrive": "09:50",
+              "leave": "11:45",
+              "why": "Your child hears stories and songs at Oberlin Family Storytime, then heads to Pullen Park Amusements for the carousel and train.",
+              "tips": [
+                "Ask at the Youth Services desk about the free tickets.",
+                "Pick one ride to start and let your child decide about a second."
+              ],
+              "interests": [
+                "stories",
+                "vehicles",
+                "movement"
+              ],
+              "area": "raleigh",
+              "outdoor": false,
+              "source": {
+                "kind": "event",
+                "title": "Family Storytime",
+                "start": "2026-11-16T10:00:00-05:00",
+                "end": "2026-11-16T10:30:00-05:00",
+                "venue": "Oberlin Regional Library",
+                "address": "1930 Clark Avenue, Raleigh, NC",
+                "url": "https://www.wake.gov/events/family-storytime-4381",
+                "cost": "Free",
+                "lat": 35.7898395688737,
+                "lon": -78.65822660779,
+                "ages": "Young Children",
+                "registration": null,
+                "indoor": true,
+                "area": "raleigh",
+                "source": "wake-county",
+                "dropIn": false
+              }
+            },
+            {
+              "ref": "place:crowder-county-park",
+              "also": [
+                {
+                  "ref": "event:wake-parks:9405",
+                  "source": {
+                    "kind": "event",
+                    "title": "Tiny Tots: Red Leaf, Yellow Leaf",
+                    "start": "2026-11-16T10:15:00",
+                    "end": "2026-11-16T11:00:00",
+                    "venue": "Crowder County Park",
+                    "address": "4709 Ten Ten Road",
+                    "url": "https://apm.activecommunities.com/wakeparks/Activity_Search/tiny-tots-red-leaf-yellow-leaf/9405?locale=en-US",
+                    "cost": "Free",
+                    "lat": 35.69174392711247,
+                    "lon": -78.76585678897689,
+                    "ages": "At least 1 but less than 7",
+                    "registration": "https://apm.activecommunities.com/wakeparks/Activity_Search/tiny-tots-red-leaf-yellow-leaf/9405?locale=en-US",
+                    "indoor": false,
+                    "area": "cary-apex",
+                    "source": "wake-parks",
+                    "dropIn": false
+                  }
+                }
+              ],
+              "arrive": "09:45",
+              "leave": "11:00",
+              "why": "Your child plays at Crowder County Park, then hears Red Leaf, Yellow Leaf and makes a craft at Tiny Tots. A family needs to sign up first.",
+              "tips": [
+                "Sign up before you go.",
+                "Bring a snack for the car ride home."
+              ],
+              "interests": [
+                "stories",
+                "art",
+                "nature"
+              ],
+              "area": "cary-apex",
+              "outdoor": true,
+              "source": {
+                "kind": "park",
+                "title": "Crowder County Park",
+                "address": "4709 Ten Ten Road",
+                "lat": 35.69174392711247,
+                "lon": -78.76585678897689,
+                "url": "https://www.wakegov.com/departments-government/parks-recreation-and-open-space/all-parks-trails/crowder-county-park",
+                "amenities": [
+                  "playground",
+                  "picnic-shelter",
+                  "restroom",
+                  "greenway",
+                  "garden"
+                ],
+                "indoor": false,
+                "area": "cary-apex",
+                "hours": null,
+                "cost": "Free"
+              }
+            }
+          ],
+          "rainBackup": null,
+          "timeline": [
+            {
+              "start": "07:00",
+              "end": "07:30",
+              "kind": "meal",
+              "title": "Up and breakfast"
+            },
+            {
+              "start": "07:30",
+              "end": "08:50",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "08:50",
+              "end": "09:10",
+              "kind": "routine",
+              "title": "Get ready to go",
+              "detail": "Shoes on, the bag, water and a snack."
+            },
+            {
+              "start": "09:10",
+              "end": "09:30",
+              "kind": "travel",
+              "title": "Drive to JC Raulston Arboretum"
+            },
+            {
+              "start": "09:30",
+              "end": "11:30",
+              "kind": "outing",
+              "title": "JC Raulston Arboretum"
+            },
+            {
+              "start": "11:30",
+              "end": "11:50",
+              "kind": "travel",
+              "title": "Drive home"
+            },
+            {
+              "start": "11:50",
+              "end": "12:15",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "12:15",
+              "end": "12:45",
+              "kind": "meal",
+              "title": "Lunch"
+            },
+            {
+              "start": "12:45",
+              "end": "13:00",
+              "kind": "quiet",
+              "title": "Wind down",
+              "detail": "A couple of books to settle."
+            },
+            {
+              "start": "13:00",
+              "end": "15:00",
+              "kind": "nap",
+              "title": "Nap"
+            },
+            {
+              "start": "15:00",
+              "end": "15:20",
+              "kind": "routine",
+              "title": "Up and a snack"
+            },
+            {
+              "start": "15:20",
+              "end": "18:30",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "18:30",
+              "end": "19:15",
+              "kind": "meal",
+              "title": "Dinner"
+            },
+            {
+              "start": "19:15",
+              "end": "20:00",
+              "kind": "routine",
+              "title": "Bath, books and bed"
+            }
+          ]
+        },
+        {
+          "nap": "short-nap",
+          "napLabel": "Short nap, 1 to 2",
+          "headline": "Garden paths and a discovery garden",
+          "main": {
+            "ref": "place:sarah-p-duke-gardens",
+            "arrive": "14:30",
+            "leave": "16:30",
+            "why": "Your 2-year-old explores the garden paths and the Charlotte Brody Discovery Garden at toddler pace.",
+            "tips": [
+              "Let your child pick the path and stop wherever they like.",
+              "Pack a snack and eat it on a bench halfway through.",
+              "Tell your child you are leaving after one more look, then walk toward the car."
+            ],
+            "interests": [
+              "nature",
+              "movement"
+            ],
+            "also": [],
+            "area": "durham",
+            "outdoor": true,
+            "source": {
+              "kind": "garden",
+              "title": "Sarah P. Duke Gardens",
+              "address": "420 Anderson St, Durham, NC 27708",
+              "lat": 36.0024,
+              "lon": -78.9328,
+              "url": "https://gardens.duke.edu/visit/",
+              "amenities": [
+                "garden",
+                "nature",
+                "restroom"
+              ],
+              "indoor": false,
+              "area": "durham",
+              "hours": {
+                "sun": "8 a.m. to sunset",
+                "mon": "8 a.m. to sunset",
+                "tue": "8 a.m. to sunset",
+                "wed": "8 a.m. to sunset",
+                "thu": "8 a.m. to sunset",
+                "fri": "8 a.m. to sunset",
+                "sat": "8 a.m. to sunset"
+              },
+              "cost": "Free",
+              "note": "Free; paid parking that often fills before 10 a.m. on nice days. Five miles of paths, and the Charlotte Brody Discovery Garden."
+            }
+          },
+          "alternatives": [
+            {
+              "ref": "place:pullen-park-amusements",
+              "arrive": "14:30",
+              "leave": "16:30",
+              "why": "Your child rides the carousel and the train and plays on the playground at Pullen Park Amusements.",
+              "tips": [
+                "Pick one ride to start and let your child choose the next.",
+                "Bring a snack for the playground."
+              ],
+              "interests": [
+                "vehicles",
+                "movement"
+              ],
+              "also": [],
+              "area": "raleigh",
+              "outdoor": true,
+              "source": {
+                "kind": "park",
+                "title": "Pullen Park Amusements",
+                "address": "410 Park Ave, Raleigh, NC 27606",
+                "lat": 35.7806,
+                "lon": -78.66396,
+                "url": "https://raleighnc.gov/parks-and-recreation/places/pullen-park-amusements",
+                "amenities": [
+                  "carousel",
+                  "boating",
+                  "train",
+                  "amusements",
+                  "courts",
+                  "playground",
+                  "picnic-shelter"
+                ],
+                "indoor": false,
+                "area": "raleigh",
+                "hours": {
+                  "mon": "10 a.m.–6 p.m.",
+                  "tue": "10 a.m.–6 p.m.",
+                  "wed": "10 a.m.–6 p.m.",
+                  "thu": "10 a.m.–6 p.m.",
+                  "fri": "10 a.m.–8 p.m.",
+                  "sat": "10 a.m.–8 p.m.",
+                  "sun": "10 a.m.–8 p.m."
+                },
+                "cost": "Free to get in; rides $2 a ticket"
+              }
+            },
+            {
+              "ref": "place:crowder-county-park",
+              "also": [
+                {
+                  "ref": "event:wake-parks:9405",
+                  "source": {
+                    "kind": "event",
+                    "title": "Tiny Tots: Red Leaf, Yellow Leaf",
+                    "start": "2026-11-16T10:15:00",
+                    "end": "2026-11-16T11:00:00",
+                    "venue": "Crowder County Park",
+                    "address": "4709 Ten Ten Road",
+                    "url": "https://apm.activecommunities.com/wakeparks/Activity_Search/tiny-tots-red-leaf-yellow-leaf/9405?locale=en-US",
+                    "cost": "Free",
+                    "lat": 35.69174392711247,
+                    "lon": -78.76585678897689,
+                    "ages": "At least 1 but less than 7",
+                    "registration": "https://apm.activecommunities.com/wakeparks/Activity_Search/tiny-tots-red-leaf-yellow-leaf/9405?locale=en-US",
+                    "indoor": false,
+                    "area": "cary-apex",
+                    "source": "wake-parks",
+                    "dropIn": false
+                  }
+                }
+              ],
+              "arrive": "09:45",
+              "leave": "11:00",
+              "why": "Your child plays at Crowder County Park, then hears Red Leaf, Yellow Leaf and makes a craft at Tiny Tots. A family needs to sign up first.",
+              "tips": [
+                "Sign up before you go.",
+                "Let your child run first so sitting for the story is easier."
+              ],
+              "interests": [
+                "stories",
+                "art",
+                "nature"
+              ],
+              "area": "cary-apex",
+              "outdoor": true,
+              "source": {
+                "kind": "park",
+                "title": "Crowder County Park",
+                "address": "4709 Ten Ten Road",
+                "lat": 35.69174392711247,
+                "lon": -78.76585678897689,
+                "url": "https://www.wakegov.com/departments-government/parks-recreation-and-open-space/all-parks-trails/crowder-county-park",
+                "amenities": [
+                  "playground",
+                  "picnic-shelter",
+                  "restroom",
+                  "greenway",
+                  "garden"
+                ],
+                "indoor": false,
+                "area": "cary-apex",
+                "hours": null,
+                "cost": "Free"
+              }
+            },
+            {
+              "ref": "event:wake:22344",
+              "also": [
+                {
+                  "ref": "place:leesville-community-park",
+                  "source": {
+                    "kind": "park",
+                    "title": "Leesville Community Park",
+                    "address": "5105 Country Trail, Raleigh, NC 27613",
+                    "lat": 35.88424,
+                    "lon": -78.71549,
+                    "url": "https://raleighnc.gov/parks-and-recreation/places/leesville-community-park",
+                    "amenities": [
+                      "greenway",
+                      "playground",
+                      "garden"
+                    ],
+                    "indoor": false,
+                    "area": "north-raleigh",
+                    "hours": null,
+                    "cost": "Free"
+                  }
+                }
+              ],
+              "arrive": "09:50",
+              "leave": "11:10",
+              "why": "Your child sings and hears stories at Leesville Family Storytime, then plays at Leesville Community Park.",
+              "tips": [
+                "Bring a small snack for the park.",
+                "Give a two-minute warning before leaving the playground."
+              ],
+              "interests": [
+                "stories",
+                "music",
+                "movement"
+              ],
+              "area": "north-raleigh",
+              "outdoor": false,
+              "source": {
+                "kind": "event",
+                "title": "Family Storytime",
+                "start": "2026-11-16T10:00:00-05:00",
+                "end": "2026-11-16T10:30:00-05:00",
+                "venue": "Leesville Community Library",
+                "address": "5105 Country Trail, Raleigh, NC 27613",
+                "url": "https://www.wake.gov/events/family-storytime-4158",
+                "cost": "Free",
+                "lat": 35.88424,
+                "lon": -78.71549,
+                "ages": "Young Children",
+                "registration": null,
+                "indoor": true,
+                "area": "north-raleigh",
+                "source": "wake-county",
+                "dropIn": false
+              }
+            },
+            {
+              "ref": "event:wake:24153",
+              "also": [
+                {
+                  "ref": "place:middle-creek-school-park",
+                  "source": {
+                    "kind": "park",
+                    "title": "Middle Creek School Park",
+                    "address": "151 Middle Creek Park Avenue, Cary, NC",
+                    "lat": 35.662513193321765,
+                    "lon": -78.7643852913516,
+                    "url": "https://www.carync.gov/recreation-enjoyment/parks-greenways-environment/parks/middle-creek-school-park",
+                    "amenities": [
+                      "playground",
+                      "picnic-shelter",
+                      "restroom",
+                      "greenway"
+                    ],
+                    "indoor": false,
+                    "area": "south-wake",
+                    "hours": null,
+                    "cost": "Free"
+                  }
+                }
+              ],
+              "arrive": "09:20",
+              "leave": "10:50",
+              "why": "Your child joins Family Storytime at Middle Creek Community Library, then plays at Middle Creek School Park.",
+              "tips": [
+                "Bring a snack for after the playground.",
+                "Walk to the car holding hands when it is time to go."
+              ],
+              "interests": [
+                "stories",
+                "music",
+                "movement"
+              ],
+              "area": "south-wake",
+              "outdoor": false,
+              "source": {
+                "kind": "event",
+                "title": "Family Storytime",
+                "start": "2026-11-16T09:30:00-05:00",
+                "end": "2026-11-16T10:00:00-05:00",
+                "venue": "Middle Creek Community Library",
+                "address": "111 Middle Creek Park Avenue, Apex, NC",
+                "url": "https://www.wake.gov/events/family-storytime-4670",
+                "cost": "Free",
+                "lat": 35.6682418176122,
+                "lon": -78.7587045638366,
+                "ages": "Young Children",
+                "registration": null,
+                "indoor": true,
+                "area": "south-wake",
+                "source": "wake-county",
+                "dropIn": false
+              }
+            }
+          ],
+          "rainBackup": null,
+          "timeline": [
+            {
+              "start": "07:00",
+              "end": "07:30",
+              "kind": "meal",
+              "title": "Up and breakfast"
+            },
+            {
+              "start": "07:30",
+              "end": "12:15",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "12:15",
+              "end": "12:45",
+              "kind": "meal",
+              "title": "Lunch"
+            },
+            {
+              "start": "12:45",
+              "end": "13:00",
+              "kind": "quiet",
+              "title": "Wind down",
+              "detail": "A couple of books to settle."
+            },
+            {
+              "start": "13:00",
+              "end": "14:00",
+              "kind": "nap",
+              "title": "Nap"
+            },
+            {
+              "start": "14:00",
+              "end": "14:10",
+              "kind": "routine",
+              "title": "Up, a snack and out the door",
+              "detail": "Have the bag packed and by the door before the nap."
+            },
+            {
+              "start": "14:10",
+              "end": "14:30",
+              "kind": "travel",
+              "title": "Drive to Sarah P. Duke Gardens"
+            },
+            {
+              "start": "14:30",
+              "end": "16:30",
+              "kind": "outing",
+              "title": "Sarah P. Duke Gardens"
+            },
+            {
+              "start": "16:30",
+              "end": "16:50",
+              "kind": "travel",
+              "title": "Drive home"
+            },
+            {
+              "start": "16:50",
+              "end": "18:00",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "18:00",
+              "end": "18:45",
+              "kind": "meal",
+              "title": "Dinner"
+            },
+            {
+              "start": "18:45",
+              "end": "19:30",
+              "kind": "routine",
+              "title": "Bath, books and bed"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "checked": {
+    "at": "2026-11-14T11:03:27.380Z",
+    "forecast": "nws",
+    "weather": {
+      "period": "Monday",
+      "tempF": 57,
+      "precipProbability": 0,
+      "shortForecast": "Sunny",
+      "windMph": 6,
+      "windFrom": "N",
+      "hours": [
+        {
+          "t": "05:00",
+          "tempF": 35,
+          "pop": 0,
+          "cloud": 10
+        },
+        {
+          "t": "06:00",
+          "tempF": 35,
+          "pop": 0,
+          "cloud": 10
+        },
+        {
+          "t": "07:00",
+          "tempF": 34,
+          "pop": 0,
+          "cloud": 10
+        },
+        {
+          "t": "08:00",
+          "tempF": 39,
+          "pop": 0,
+          "cloud": 9
+        },
+        {
+          "t": "09:00",
+          "tempF": 43,
+          "pop": 0,
+          "cloud": 8
+        },
+        {
+          "t": "10:00",
+          "tempF": 48,
+          "pop": 0,
+          "cloud": 7
+        },
+        {
+          "t": "11:00",
+          "tempF": 51,
+          "pop": 0,
+          "cloud": 9
+        },
+        {
+          "t": "12:00",
+          "tempF": 54,
+          "pop": 0,
+          "cloud": 10
+        },
+        {
+          "t": "13:00",
+          "tempF": 55,
+          "pop": 0,
+          "cloud": 12
+        },
+        {
+          "t": "14:00",
+          "tempF": 56,
+          "pop": 0,
+          "cloud": 9
+        },
+        {
+          "t": "15:00",
+          "tempF": 57,
+          "pop": 0,
+          "cloud": 6
+        },
+        {
+          "t": "16:00",
+          "tempF": 56,
+          "pop": 0,
+          "cloud": 3
+        },
+        {
+          "t": "17:00",
+          "tempF": 53,
+          "pop": 0,
+          "cloud": 3
+        },
+        {
+          "t": "18:00",
+          "tempF": 49,
+          "pop": 0,
+          "cloud": 3
+        },
+        {
+          "t": "19:00",
+          "tempF": 46,
+          "pop": 0,
+          "cloud": 3
+        },
+        {
+          "t": "20:00",
+          "tempF": 43,
+          "pop": 0,
+          "cloud": 3
+        },
+        {
+          "t": "21:00",
+          "tempF": 41,
+          "pop": 0,
+          "cloud": 2
+        },
+        {
+          "t": "22:00",
+          "tempF": 39,
+          "pop": 0,
+          "cloud": 2
+        },
+        {
+          "t": "23:00",
+          "tempF": 38,
+          "pop": 0,
+          "cloud": 3
+        }
+      ]
+    },
+    "hidden": [
+      {
+        "ref": "event:wake:24637",
+        "why": "off its calendar"
+      }
+    ]
+  }
+}

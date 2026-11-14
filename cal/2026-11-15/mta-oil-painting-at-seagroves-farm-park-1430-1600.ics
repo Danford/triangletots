@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Triangle Tots//triangletots.com//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:2026-11-15-mta-oil-painting-at-seagroves-farm-park-1430-1600@triangleto
+ ts.com
+DTSTAMP:20261114T100000Z
+DTSTART:20261115T193000Z
+DTEND:20261115T210000Z
+SUMMARY:MTA:  Oil Painting at Seagroves Farm Park
+LOCATION:201 Parkfield Dr.\, Apex\, NC
+DESCRIPTION:https://www.apexnc.org/1936/Seagroves-Farm-Park\nhttps://www.wa
+ ke.gov/events/mta-oil-painting\nThe whole day: https://triangletots.com/20
+ 26-11-15/t4/\nTimes and details can change. Check the event or place befor
+ e you go.
+END:VEVENT
+END:VCALENDAR

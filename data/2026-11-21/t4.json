@@ -1,0 +1,875 @@
+{
+  "date": "2026-11-21",
+  "band": "t4",
+  "versions": [
+    {
+      "at": "2026-11-08T11:05:38.650Z",
+      "reason": null,
+      "forecast": "none",
+      "weather": null,
+      "plans": [
+        {
+          "nap": "short-nap",
+          "napLabel": "Short nap, 1 to 2",
+          "headline": "Nature walk and playground at Harris Lake",
+          "main": {
+            "ref": "place:harris-lake-county-park",
+            "arrive": "09:00",
+            "leave": "11:30",
+            "why": "Your child can follow the greenway, look for what lives in the woods, then burn off energy at the playground. A picnic shelter makes a good snack stop.",
+            "tips": [
+              "Bring a small snack and let your child choose which trail to try first.",
+              "Give a ten-minute warning, then end on the playground so leaving feels like a treat.",
+              "Pack a little bag so your child can collect leaves and sticks to take home."
+            ],
+            "interests": [
+              "nature",
+              "movement"
+            ],
+            "also": [],
+            "area": "south-wake",
+            "outdoor": true,
+            "source": {
+              "kind": "park",
+              "title": "Harris Lake County Park",
+              "address": "2112 County Park Dr., New Hill, NC  27562",
+              "lat": 35.63024208800726,
+              "lon": -78.91757987745865,
+              "url": "https://www.wakegov.com/departments-government/parks-recreation-and-open-space/all-parks-trails/harris-lake-county-park",
+              "amenities": [
+                "playground",
+                "picnic-shelter",
+                "restroom",
+                "greenway",
+                "nature"
+              ],
+              "indoor": false,
+              "area": "south-wake",
+              "hours": null,
+              "cost": "Free"
+            }
+          },
+          "alternatives": [
+            {
+              "ref": "event:weekly:mols-early-childhood:2026-11-21",
+              "arrive": "10:00",
+              "leave": "11:30",
+              "why": "Early Childhood Drop-In at Hideaway Woods has sensory play, songs and stories. Your child can play as long as {they} like{s}. Museum admission is included.",
+              "tips": [
+                "Come any time and stay as long as {they} like{s}.",
+                "Let your child pick the activity and skip any that {they} {is}n't ready for."
+              ],
+              "interests": [
+                "nature",
+                "music",
+                "stories"
+              ],
+              "also": [],
+              "area": "durham",
+              "outdoor": true,
+              "source": {
+                "kind": "event",
+                "title": "Early Childhood Drop-In",
+                "start": "2026-11-21T09:30:00",
+                "end": "2026-11-21T11:30:00",
+                "venue": "Hideaway Woods, Museum of Life and Science",
+                "address": "433 W Murray Ave, Durham, NC 27704",
+                "url": "https://www.lifeandscience.org/learn/drop-in-programs/",
+                "cost": "Included with museum admission",
+                "lat": 36.0294,
+                "lon": -78.8993,
+                "ages": "young children and their caregivers",
+                "registration": false,
+                "indoor": false,
+                "area": "durham",
+                "source": "weekly",
+                "dropIn": true
+              }
+            },
+            {
+              "ref": "event:wake:24647",
+              "arrive": "14:25",
+              "leave": "16:00",
+              "why": "ABC Craft and Learn is a kindergarten readiness program for ages 3 to 5, with crafts and early skills practice. Then your child can run at Wake Forest Kiwanis Park.",
+              "tips": [
+                "Pick up your free ticket at the front desk before the program.",
+                "Bring a snack for the playground afterward."
+              ],
+              "interests": [
+                "art",
+                "movement"
+              ],
+              "also": [
+                {
+                  "ref": "place:wake-forest-kiwanis-park",
+                  "source": {
+                    "kind": "park",
+                    "title": "Wake Forest Kiwanis Park",
+                    "address": "404 E Holding Ave, Wake Forest, NC",
+                    "lat": 35.96949541581039,
+                    "lon": -78.50987455178895,
+                    "url": "https://www.wakeforestnc.gov/parks-recreation-cultural-resources/parks-facilities/kiwanis-park",
+                    "amenities": [
+                      "playground",
+                      "picnic-shelter"
+                    ],
+                    "indoor": false,
+                    "area": "north-raleigh",
+                    "hours": null,
+                    "cost": "Free"
+                  }
+                }
+              ],
+              "area": "north-raleigh",
+              "outdoor": false,
+              "source": {
+                "kind": "event",
+                "title": "ABC Craft and Learn",
+                "start": "2026-11-21T14:30:00-05:00",
+                "end": "2026-11-21T15:15:00-05:00",
+                "venue": "Wake Forest Community Library",
+                "address": "400 E Holding Avenue, Wake Forest, NC",
+                "url": "https://www.wake.gov/events/abc-craft-and-learn-649",
+                "cost": "Free",
+                "lat": 35.9699502750089,
+                "lon": -78.5102712176725,
+                "ages": "Young Children",
+                "registration": null,
+                "indoor": true,
+                "area": "north-raleigh",
+                "source": "wake-county",
+                "dropIn": false
+              }
+            },
+            {
+              "ref": "event:wake:21756",
+              "arrive": "10:10",
+              "leave": "11:30",
+              "why": "Family Storytime at East Regional Library has books, music, rhymes and movement. Afterward your child can play at Knightdale Station Park.",
+              "tips": [
+                "Sit near the front so your child can see the pictures.",
+                "Bring a snack for the playground."
+              ],
+              "interests": [
+                "stories",
+                "music",
+                "movement"
+              ],
+              "also": [
+                {
+                  "ref": "place:knightdale-station-park",
+                  "source": {
+                    "kind": "park",
+                    "title": "Knightdale Station Park",
+                    "address": "810 North First Avenue, Knightdale, NC",
+                    "lat": 35.795776739559024,
+                    "lon": -78.47584503817626,
+                    "url": "https://www.knightdalenc.gov/knightdalestationpark",
+                    "amenities": [
+                      "playground",
+                      "picnic-shelter",
+                      "greenway"
+                    ],
+                    "indoor": false,
+                    "area": "east-wake",
+                    "hours": null,
+                    "cost": "Free"
+                  }
+                }
+              ],
+              "area": "east-wake",
+              "outdoor": false,
+              "source": {
+                "kind": "event",
+                "title": "Family Storytime",
+                "start": "2026-11-21T10:15:00-05:00",
+                "end": "2026-11-21T10:45:00-05:00",
+                "venue": "East Regional Library",
+                "address": "946 Steeple Square Court, Knightdale, NC",
+                "url": "https://www.wake.gov/events/family-storytime-3981",
+                "cost": "Free",
+                "lat": 35.8028243321954,
+                "lon": -78.487155767495,
+                "ages": "Young Children",
+                "registration": null,
+                "indoor": true,
+                "area": "east-wake",
+                "source": "wake-county",
+                "dropIn": false
+              }
+            }
+          ],
+          "rainBackup": null,
+          "timeline": [
+            {
+              "start": "07:00",
+              "end": "07:30",
+              "kind": "meal",
+              "title": "Up and breakfast"
+            },
+            {
+              "start": "07:30",
+              "end": "08:20",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "08:20",
+              "end": "08:40",
+              "kind": "routine",
+              "title": "Get ready to go",
+              "detail": "Shoes on, the bag, water and a snack."
+            },
+            {
+              "start": "08:40",
+              "end": "09:00",
+              "kind": "travel",
+              "title": "Drive to Harris Lake County Park"
+            },
+            {
+              "start": "09:00",
+              "end": "11:30",
+              "kind": "outing",
+              "title": "Harris Lake County Park"
+            },
+            {
+              "start": "11:30",
+              "end": "11:50",
+              "kind": "travel",
+              "title": "Drive home"
+            },
+            {
+              "start": "11:50",
+              "end": "12:15",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "12:15",
+              "end": "12:45",
+              "kind": "meal",
+              "title": "Lunch"
+            },
+            {
+              "start": "12:45",
+              "end": "13:00",
+              "kind": "quiet",
+              "title": "Wind down",
+              "detail": "A couple of books to settle."
+            },
+            {
+              "start": "13:00",
+              "end": "14:00",
+              "kind": "nap",
+              "title": "Nap"
+            },
+            {
+              "start": "14:00",
+              "end": "14:20",
+              "kind": "routine",
+              "title": "Up and a snack"
+            },
+            {
+              "start": "14:20",
+              "end": "18:30",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "18:30",
+              "end": "19:15",
+              "kind": "meal",
+              "title": "Dinner"
+            },
+            {
+              "start": "19:15",
+              "end": "20:00",
+              "kind": "routine",
+              "title": "Bath, books and bed"
+            }
+          ]
+        },
+        {
+          "nap": "quiet",
+          "napLabel": "Quiet time",
+          "headline": "Explore the forest trails at Clemmons",
+          "main": {
+            "ref": "place:clemmons-educational-state-forest",
+            "arrive": "09:00",
+            "leave": "11:30",
+            "why": "Your child can walk the greenway like an explorer and hunt for leaves, sticks and animal signs. There is a picnic shelter for a snack break.",
+            "tips": [
+              "Bring a snack to eat at the picnic shelter.",
+              "Give your child a job, like finding three kinds of leaves.",
+              "Head back before {they} get{s} tired so the walk ends happily."
+            ],
+            "interests": [
+              "nature",
+              "movement"
+            ],
+            "also": [],
+            "area": "east-wake",
+            "outdoor": true,
+            "source": {
+              "kind": "park",
+              "title": "Clemmons Educational State Forest",
+              "address": "2256 Old U.S. Hwy 70, Clayton, NC",
+              "lat": 35.674152072557575,
+              "lon": -78.48905206181357,
+              "url": "https://www.ncesf.org/clemmons.html",
+              "amenities": [
+                "picnic-shelter",
+                "restroom",
+                "greenway"
+              ],
+              "indoor": false,
+              "area": "east-wake",
+              "hours": null,
+              "cost": "Free"
+            }
+          },
+          "alternatives": [
+            {
+              "ref": "event:weekly:mols-early-childhood:2026-11-21",
+              "arrive": "10:00",
+              "leave": "11:30",
+              "why": "Early Childhood Drop-In at Hideaway Woods offers sensory play, songs and stories. Drop in and let your child play as long as {they} like{s}. Museum admission is included.",
+              "tips": [
+                "Come any time and stay as long as {they} like{s}.",
+                "Let your child lead and try what looks fun."
+              ],
+              "interests": [
+                "nature",
+                "music",
+                "stories"
+              ],
+              "also": [],
+              "area": "durham",
+              "outdoor": true,
+              "source": {
+                "kind": "event",
+                "title": "Early Childhood Drop-In",
+                "start": "2026-11-21T09:30:00",
+                "end": "2026-11-21T11:30:00",
+                "venue": "Hideaway Woods, Museum of Life and Science",
+                "address": "433 W Murray Ave, Durham, NC 27704",
+                "url": "https://www.lifeandscience.org/learn/drop-in-programs/",
+                "cost": "Included with museum admission",
+                "lat": 36.0294,
+                "lon": -78.8993,
+                "ages": "young children and their caregivers",
+                "registration": false,
+                "indoor": false,
+                "area": "durham",
+                "source": "weekly",
+                "dropIn": true
+              }
+            },
+            {
+              "ref": "event:wake:22455",
+              "arrive": "09:20",
+              "leave": "10:50",
+              "why": "Family Storytime at Cary Regional Library has books, music, rhymes and movement for ages 0 to 5. Then your child can play at Heater Park.",
+              "tips": [
+                "Arrive early to pick up your free tickets at the Youth Services desk.",
+                "Save a snack for the playground."
+              ],
+              "interests": [
+                "stories",
+                "music",
+                "movement"
+              ],
+              "also": [
+                {
+                  "ref": "place:heater-park",
+                  "source": {
+                    "kind": "park",
+                    "title": "Heater Park",
+                    "address": "400 S West Street, Cary, NC",
+                    "lat": 35.782741238152695,
+                    "lon": -78.78762242839083,
+                    "url": "https://www.carync.gov/recreation-enjoyment/parks-greenways-environment/parks/heater-park",
+                    "amenities": [
+                      "playground"
+                    ],
+                    "indoor": false,
+                    "area": "cary-apex",
+                    "hours": null,
+                    "cost": "Free"
+                  }
+                }
+              ],
+              "area": "cary-apex",
+              "outdoor": false,
+              "source": {
+                "kind": "event",
+                "title": "Family Storytime",
+                "start": "2026-11-21T09:30:00-05:00",
+                "end": "2026-11-21T10:00:00-05:00",
+                "venue": "Cary Regional Library",
+                "address": "315 Kildaire Farm Road, Cary, NC",
+                "url": "https://www.wake.gov/events/family-storytime-4241",
+                "cost": "Free",
+                "lat": 35.7829780174653,
+                "lon": -78.780241332586,
+                "ages": "Young Children",
+                "registration": null,
+                "indoor": true,
+                "area": "cary-apex",
+                "source": "wake-county",
+                "dropIn": false
+              }
+            },
+            {
+              "ref": "place:gipson-play-plaza",
+              "arrive": "10:30",
+              "leave": "12:00",
+              "why": "Your child can play at Gipson Play Plaza, then wander over to Music at the Market in Dix Park to listen to the tunes.",
+              "tips": [
+                "Play first, then walk over for music at 11:00 am.",
+                "Let your child dance if the music moves {them}."
+              ],
+              "interests": [
+                "movement",
+                "music"
+              ],
+              "also": [
+                {
+                  "ref": "event:dix-park:/event/music-market-0:2026-11-21",
+                  "source": {
+                    "kind": "event",
+                    "title": "Music at the Market",
+                    "start": "2026-11-21T11:00:00",
+                    "end": "2026-11-21T17:00:00",
+                    "venue": "House of Many Porches Market, Dix Park",
+                    "address": "1030 Richardson Dr, Raleigh, NC 27603",
+                    "url": "https://dixpark.org/event/music-market-0",
+                    "cost": "Free",
+                    "lat": 35.7701,
+                    "lon": -78.6568,
+                    "ages": null,
+                    "registration": null,
+                    "indoor": false,
+                    "area": "raleigh",
+                    "source": "dix-park",
+                    "dropIn": true
+                  }
+                }
+              ],
+              "area": "raleigh",
+              "outdoor": true,
+              "source": {
+                "kind": "park",
+                "title": "Gipson Play Plaza at Dix Park",
+                "address": "715 Biggs Dr, Raleigh, NC 27603",
+                "lat": 35.7667,
+                "lon": -78.6539,
+                "url": "https://dixpark.org/gipson-play-plaza",
+                "amenities": [
+                  "playground",
+                  "restroom"
+                ],
+                "indoor": false,
+                "area": "raleigh",
+                "hours": {
+                  "sun": "8 a.m.–9 p.m.",
+                  "mon": "8 a.m.–9 p.m.",
+                  "tue": "8 a.m.–9 p.m.",
+                  "wed": "8 a.m.–9 p.m.",
+                  "thu": "8 a.m.–9 p.m.",
+                  "fri": "8 a.m.–9 p.m.",
+                  "sat": "8 a.m.–9 p.m."
+                },
+                "cost": "Free",
+                "note": "Free; free parking. Big destination playground on the south edge of Dix Park."
+              }
+            },
+            {
+              "ref": "place:nc-botanical-garden",
+              "arrive": "09:30",
+              "leave": "11:30",
+              "why": "Your child can follow the garden paths and the forest nature trails behind the display gardens. It is a good place to look closely at plants.",
+              "tips": [
+                "Bring a snack for a bench break.",
+                "Ask your child to find something small, like a seed or a bug."
+              ],
+              "interests": [
+                "nature",
+                "science"
+              ],
+              "also": [],
+              "area": "chapel-hill",
+              "outdoor": true,
+              "source": {
+                "kind": "garden",
+                "title": "NC Botanical Garden",
+                "address": "100 Old Mason Farm Rd, Chapel Hill, NC 27517",
+                "lat": 35.9011,
+                "lon": -79.0319,
+                "url": "https://ncbg.unc.edu/visit/",
+                "amenities": [
+                  "garden",
+                  "nature",
+                  "restroom"
+                ],
+                "indoor": false,
+                "area": "chapel-hill",
+                "cost": "Free",
+                "note": "Free. Display gardens, and nature trails through the forest behind them."
+              }
+            }
+          ],
+          "rainBackup": null,
+          "timeline": [
+            {
+              "start": "07:00",
+              "end": "07:30",
+              "kind": "meal",
+              "title": "Up and breakfast"
+            },
+            {
+              "start": "07:30",
+              "end": "08:20",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "08:20",
+              "end": "08:40",
+              "kind": "routine",
+              "title": "Get ready to go",
+              "detail": "Shoes on, the bag, water and a snack."
+            },
+            {
+              "start": "08:40",
+              "end": "09:00",
+              "kind": "travel",
+              "title": "Drive to Clemmons Educational State Forest"
+            },
+            {
+              "start": "09:00",
+              "end": "11:30",
+              "kind": "outing",
+              "title": "Clemmons Educational State Forest"
+            },
+            {
+              "start": "11:30",
+              "end": "11:50",
+              "kind": "travel",
+              "title": "Drive home"
+            },
+            {
+              "start": "11:50",
+              "end": "12:20",
+              "kind": "meal",
+              "title": "Lunch"
+            },
+            {
+              "start": "12:20",
+              "end": "13:00",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "13:00",
+              "end": "13:45",
+              "kind": "quiet",
+              "title": "Quiet time",
+              "detail": "Books or quiet play in their room."
+            },
+            {
+              "start": "13:45",
+              "end": "18:00",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "18:00",
+              "end": "18:45",
+              "kind": "meal",
+              "title": "Dinner"
+            },
+            {
+              "start": "18:45",
+              "end": "19:30",
+              "kind": "routine",
+              "title": "Bath, books and bed"
+            }
+          ]
+        },
+        {
+          "nap": "no-nap",
+          "napLabel": "No nap",
+          "headline": "Dinosaur Trail, farmyard and train ride",
+          "main": {
+            "ref": "place:museum-of-life-and-science",
+            "arrive": "10:30",
+            "leave": "13:30",
+            "why": "Your child can climb the Hideaway Woods treehouses, splash by the creek, visit the farmyard, ride the train and walk the Dinosaur Trail, all outside. Tickets are $19 for ages 3 to 15.",
+            "tips": [
+              "Start at the farmyard, then ride the train while {they} {has} energy.",
+              "Snack in the middle so the Dinosaur Trail feels like a treat.",
+              "Pick one last favorite spot, then leave from there."
+            ],
+            "interests": [
+              "dinosaurs",
+              "animals",
+              "nature"
+            ],
+            "also": [],
+            "area": "durham",
+            "outdoor": true,
+            "source": {
+              "kind": "museum",
+              "title": "Museum of Life and Science",
+              "address": "433 W Murray Ave, Durham, NC 27704",
+              "lat": 36.0294,
+              "lon": -78.8993,
+              "url": "https://www.lifeandscience.org/visit/",
+              "amenities": [
+                "nature",
+                "animals",
+                "train",
+                "playground",
+                "restroom"
+              ],
+              "indoor": false,
+              "area": "durham",
+              "cost": "$24 adults, $19 ages 3–15, under 3 free",
+              "note": "Tickets: $24 adults, $19 ages 3–15, under 3 free. Hideaway Woods treehouses and creek, farmyard, train ride and Dinosaur Trail are outside."
+            }
+          },
+          "alternatives": [
+            {
+              "ref": "place:pullen-park-amusements",
+              "arrive": "14:00",
+              "leave": "16:30",
+              "why": "Your child can ride the carousel and the train, then run at the playground. Boating is there too if {they} want{s} to try it.",
+              "tips": [
+                "Pick one ride to start and one to save for last.",
+                "Bring a snack for a break between rides."
+              ],
+              "interests": [
+                "vehicles",
+                "movement"
+              ],
+              "also": [],
+              "area": "raleigh",
+              "outdoor": true,
+              "source": {
+                "kind": "park",
+                "title": "Pullen Park Amusements",
+                "address": "410 Park Ave, Raleigh, NC 27606",
+                "lat": 35.7806,
+                "lon": -78.66396,
+                "url": "https://raleighnc.gov/parks-and-recreation/places/pullen-park-amusements",
+                "amenities": [
+                  "carousel",
+                  "boating",
+                  "train",
+                  "amusements",
+                  "courts",
+                  "playground",
+                  "picnic-shelter"
+                ],
+                "indoor": false,
+                "area": "raleigh",
+                "hours": {
+                  "mon": "10 a.m.–6 p.m.",
+                  "tue": "10 a.m.–6 p.m.",
+                  "wed": "10 a.m.–6 p.m.",
+                  "thu": "10 a.m.–6 p.m.",
+                  "fri": "10 a.m.–8 p.m.",
+                  "sat": "10 a.m.–8 p.m.",
+                  "sun": "10 a.m.–8 p.m."
+                },
+                "cost": "Free to get in; rides $2 a ticket"
+              }
+            },
+            {
+              "ref": "place:lake-crabtree-county-park",
+              "arrive": "09:00",
+              "leave": "11:30",
+              "why": "Your child can explore the greenway and nature areas, look around the garden, and play on the playground. Boating is available at the lake.",
+              "tips": [
+                "Bring a snack for the picnic shelter.",
+                "Let your child pick which path to walk."
+              ],
+              "interests": [
+                "nature",
+                "water",
+                "movement"
+              ],
+              "also": [],
+              "area": "north-raleigh",
+              "outdoor": true,
+              "source": {
+                "kind": "park",
+                "title": "Lake Crabtree County Park",
+                "address": "1400 Aviation Pkwy., Morrisville, NC  27560",
+                "lat": 35.845600151785014,
+                "lon": -78.80104927513673,
+                "url": "https://www.wakegov.com/departments-government/parks-recreation-and-open-space/all-parks-trails/lake-crabtree-county-park",
+                "amenities": [
+                  "playground",
+                  "picnic-shelter",
+                  "restroom",
+                  "greenway",
+                  "nature",
+                  "garden",
+                  "boating"
+                ],
+                "indoor": false,
+                "area": "north-raleigh",
+                "hours": null,
+                "cost": "Free"
+              }
+            },
+            {
+              "ref": "place:hemlock-bluffs",
+              "arrive": "09:30",
+              "leave": "11:30",
+              "why": "Your child can walk the mulched trails and boardwalks through the woods like a real hiker. The trails have stairs, so a carrier helps if little legs tire.",
+              "tips": [
+                "Bring water and a snack.",
+                "Turn around when {they} start{s} slowing down so the walk ends well."
+              ],
+              "interests": [
+                "nature",
+                "movement"
+              ],
+              "also": [],
+              "area": "cary-apex",
+              "outdoor": true,
+              "source": {
+                "kind": "park",
+                "title": "Hemlock Bluffs Nature Preserve",
+                "address": "2616 Kildaire Farm Rd, Cary, NC 27518",
+                "lat": 35.7253,
+                "lon": -78.7846,
+                "url": "https://www.carync.gov/recreation-enjoyment/parks-greenways-environment/parks/stevens-nature-center-at-hemlock-bluffs-nature-preserve",
+                "amenities": [
+                  "nature"
+                ],
+                "indoor": false,
+                "area": "cary-apex",
+                "hours": {
+                  "sun": "9 a.m. to sunset",
+                  "mon": "9 a.m. to sunset",
+                  "tue": "9 a.m. to sunset",
+                  "wed": "9 a.m. to sunset",
+                  "thu": "9 a.m. to sunset",
+                  "fri": "9 a.m. to sunset",
+                  "sat": "9 a.m. to sunset"
+                },
+                "cost": "Free",
+                "note": "Free. About three miles of mulched trails and boardwalks with stairs (a carrier beats a stroller); restrooms in the Stevens Nature Center, open Mon–Sat 10–5, Sun 1–5."
+              }
+            },
+            {
+              "ref": "event:wake-parks:8358:2026-11-21",
+              "arrive": "14:00",
+              "leave": "15:30",
+              "why": "Your child can follow the self-led StoryWalk at Beech Bluff County Park, reading a story page by page along the Educational Loop. It is free.",
+              "tips": [
+                "Let your child lead from page to page.",
+                "Take turns reading the pages aloud.",
+                "Bring a snack for the playground afterward."
+              ],
+              "interests": [
+                "stories",
+                "nature"
+              ],
+              "also": [],
+              "area": "south-wake",
+              "outdoor": true,
+              "source": {
+                "kind": "event",
+                "title": "Beech Bluff County Park StoryWalk® 2026 (Self-Led)",
+                "start": "2026-11-21T08:00:00",
+                "end": "2026-11-21T17:30:00",
+                "venue": "Beech Bluff County Park",
+                "address": "Beech Bluff Park Drive, Fuquay-Varina, NC",
+                "url": "https://apm.activecommunities.com/wakeparks/Activity_Search/beech-bluff-county-park-storywalk-2026-self-led/8358?locale=en-US",
+                "cost": "Free",
+                "lat": 35.58537279715877,
+                "lon": -78.6793341971644,
+                "ages": null,
+                "registration": false,
+                "indoor": false,
+                "area": "south-wake",
+                "source": "wake-parks",
+                "dropIn": true
+              }
+            }
+          ],
+          "rainBackup": null,
+          "timeline": [
+            {
+              "start": "07:00",
+              "end": "07:30",
+              "kind": "meal",
+              "title": "Up and breakfast"
+            },
+            {
+              "start": "07:30",
+              "end": "09:50",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "09:50",
+              "end": "10:10",
+              "kind": "routine",
+              "title": "Get ready to go",
+              "detail": "Shoes on, the bag, water and a snack."
+            },
+            {
+              "start": "10:10",
+              "end": "10:30",
+              "kind": "travel",
+              "title": "Drive to Museum of Life and Science"
+            },
+            {
+              "start": "10:30",
+              "end": "13:30",
+              "kind": "outing",
+              "title": "Museum of Life and Science",
+              "detail": "Pack a lunch to eat there."
+            },
+            {
+              "start": "13:30",
+              "end": "13:50",
+              "kind": "travel",
+              "title": "Drive home"
+            },
+            {
+              "start": "13:50",
+              "end": "18:00",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "18:00",
+              "end": "18:45",
+              "kind": "meal",
+              "title": "Dinner"
+            },
+            {
+              "start": "18:45",
+              "end": "19:30",
+              "kind": "routine",
+              "title": "Bath, books and bed"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "checked": {
+    "at": "2026-11-14T11:03:27.446Z",
+    "forecast": "none",
+    "weather": null,
+    "hidden": []
+  }
+}

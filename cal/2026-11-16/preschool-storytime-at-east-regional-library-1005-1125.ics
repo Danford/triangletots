@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Triangle Tots//triangletots.com//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:2026-11-16-preschool-storytime-at-east-regional-library-1005-1125@trian
+ gletots.com
+DTSTAMP:20261114T100000Z
+DTSTART:20261116T150500Z
+DTEND:20261116T162500Z
+SUMMARY:Preschool Storytime at East Regional Library
+LOCATION:946 Steeple Square Court\, Knightdale\, NC
+DESCRIPTION:https://www.wake.gov/events/preschool-storytime-238\nhttps://ww
+ w.knightdalenc.gov/knightdalestationpark\nThe whole day: https://trianglet
+ ots.com/2026-11-16/t3/\nTimes and details can change. Check the event or p
+ lace before you go.
+END:VEVENT
+END:VCALENDAR

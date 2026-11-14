@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Triangle Tots//triangletots.com//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:2026-11-25-water-coloring-along-the-eno-fews-ford-at-eno-river-state-pa
+ -1255-1430@triangletots.com
+DTSTAMP:20261114T100000Z
+DTSTART:20261125T175500Z
+DTEND:20261125T193000Z
+SUMMARY:Water Coloring Along the Eno: Fews Ford at Eno River State Park - F
+ ews Ford Access
+LOCATION:6101 Cole Mill Road\, Durham\, NC
+DESCRIPTION:Sign up first.\nhttps://events.dncr.nc.gov/event/water-coloring
+ -along-the-eno-fews-ford-9037\nThe whole day: https://triangletots.com/202
+ 6-11-25/t4/\nTimes and details can change. Check the event or place before
+  you go.
+END:VEVENT
+END:VCALENDAR

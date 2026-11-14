@@ -1,0 +1,1103 @@
+{
+  "date": "2026-11-20",
+  "band": "t2",
+  "versions": [
+    {
+      "at": "2026-11-07T11:05:53.370Z",
+      "reason": null,
+      "forecast": "none",
+      "weather": null,
+      "plans": [
+        {
+          "nap": "early-nap",
+          "napLabel": "One nap, 12 to 2",
+          "headline": "Run at the playground, then watch ocean animals get fed",
+          "main": {
+            "ref": "place:fred-fletcher-park",
+            "arrive": "10:00",
+            "leave": "11:00",
+            "also": [
+              {
+                "ref": "event:museum:nc-natural-sciences:123923",
+                "source": {
+                  "kind": "event",
+                  "title": "Live Animal Feeding – Ocean Habitat",
+                  "start": "2026-11-20T10:45:00",
+                  "end": "2026-11-20T11:00:00",
+                  "venue": "NC Museum of Natural Sciences",
+                  "address": "11 West Jones Street, Raleigh, NC, 27601",
+                  "url": "https://www.naturalsciences.org/calendar/event/live-animal-feeding-ocean-habitat-5/2026-11-20/",
+                  "cost": "Museum admission is free",
+                  "lat": 35.7822735,
+                  "lon": -78.6395502,
+                  "ages": "Adults All Ages Children Live Animals Teens Walk-up Programs",
+                  "registration": false,
+                  "indoor": true,
+                  "area": "raleigh",
+                  "source": "museum",
+                  "dropIn": false
+                }
+              }
+            ],
+            "why": "Your toddler runs off energy at the playground, then watches the ocean habitat animals get fed at 10:45 am. It is a short outing that ends well before lunch and nap.",
+            "tips": [
+              "Have a snack at the park so {they} {is} not hungry during the feeding.",
+              "Say \"one more slide, then the fish\" about ten minutes before you go.",
+              "The feeding is only about 15 minutes, so head in a little early."
+            ],
+            "interests": [
+              "animals",
+              "movement",
+              "science"
+            ],
+            "area": "raleigh",
+            "outdoor": false,
+            "source": {
+              "kind": "park",
+              "title": "Fred Fletcher Park",
+              "address": "820 Clay Street, Raleigh, NC 27605",
+              "lat": 35.79264,
+              "lon": -78.64957,
+              "url": "https://raleighnc.gov/parks-and-recreation/places/fred-fletcher-park",
+              "amenities": [
+                "garden",
+                "picnic-shelter",
+                "courts",
+                "fields",
+                "playground"
+              ],
+              "indoor": false,
+              "area": "raleigh",
+              "hours": null,
+              "cost": "Free"
+            }
+          },
+          "alternatives": [
+            {
+              "ref": "event:weekly:mols-early-childhood:2026-11-20",
+              "arrive": "10:00",
+              "leave": "11:15",
+              "why": "Sensory play, songs and stories in Hideaway Woods. It is a drop-in, so your child can stay as long as {they} like{s}. It is included with museum admission.",
+              "tips": [
+                "Bring an extra layer for playing outside.",
+                "Let {them} pick the activity and stay as long as {they} like{s}."
+              ],
+              "interests": [
+                "nature",
+                "music",
+                "stories"
+              ],
+              "also": [],
+              "area": "durham",
+              "outdoor": true,
+              "source": {
+                "kind": "event",
+                "title": "Early Childhood Drop-In",
+                "start": "2026-11-20T09:30:00",
+                "end": "2026-11-20T11:30:00",
+                "venue": "Hideaway Woods, Museum of Life and Science",
+                "address": "433 W Murray Ave, Durham, NC 27704",
+                "url": "https://www.lifeandscience.org/learn/drop-in-programs/",
+                "cost": "Included with museum admission",
+                "lat": 36.0294,
+                "lon": -78.8993,
+                "ages": "young children and their caregivers",
+                "registration": false,
+                "indoor": false,
+                "area": "durham",
+                "source": "weekly",
+                "dropIn": true
+              }
+            },
+            {
+              "ref": "event:wake:24345",
+              "arrive": "09:20",
+              "leave": "11:00",
+              "also": [
+                {
+                  "ref": "place:apex-community-park",
+                  "source": {
+                    "kind": "park",
+                    "title": "Apex Community Park",
+                    "address": "2200 Laura Duncan Rd., Apex, NC",
+                    "lat": 35.75461588131496,
+                    "lon": -78.82862025650613,
+                    "url": "http://www.apexnc.org/795/Apex-Community-Park",
+                    "amenities": [
+                      "playground",
+                      "picnic-shelter",
+                      "restroom",
+                      "greenway"
+                    ],
+                    "indoor": false,
+                    "area": "cary-apex",
+                    "hours": null,
+                    "cost": "Free"
+                  }
+                }
+              ],
+              "why": "Toddler Storytime at 9:30 am has books, music, rhymes and movement. Then your child can play at Apex Community Park.",
+              "tips": [
+                "Ask at the Youth Services desk for a ticket.",
+                "Bring a snack for the park after storytime."
+              ],
+              "interests": [
+                "stories",
+                "music",
+                "movement"
+              ],
+              "area": "cary-apex",
+              "outdoor": false,
+              "source": {
+                "kind": "event",
+                "title": "Toddler Storytime",
+                "start": "2026-11-20T09:30:00-05:00",
+                "end": "2026-11-20T10:00:00-05:00",
+                "venue": "Eva Perry Regional Library",
+                "address": "2100 Shepherds Vineyard Drive, Apex, NC",
+                "url": "https://www.wake.gov/events/toddler-storytime-1118",
+                "cost": "Free",
+                "lat": 35.7437832024768,
+                "lon": -78.8251607833066,
+                "ages": "Young Children",
+                "registration": null,
+                "indoor": true,
+                "area": "cary-apex",
+                "source": "wake-county",
+                "dropIn": false
+              }
+            },
+            {
+              "ref": "event:wake:22400",
+              "arrive": "09:50",
+              "leave": "11:10",
+              "also": [
+                {
+                  "ref": "place:leesville-community-park",
+                  "source": {
+                    "kind": "park",
+                    "title": "Leesville Community Park",
+                    "address": "5105 Country Trail, Raleigh, NC 27613",
+                    "lat": 35.88424,
+                    "lon": -78.71549,
+                    "url": "https://raleighnc.gov/parks-and-recreation/places/leesville-community-park",
+                    "amenities": [
+                      "greenway",
+                      "playground",
+                      "garden"
+                    ],
+                    "indoor": false,
+                    "area": "north-raleigh",
+                    "hours": null,
+                    "cost": "Free"
+                  }
+                }
+              ],
+              "why": "Family Storytime at 10:00 am has books, music, rhymes and movement. Afterward your toddler can run around Leesville Community Park.",
+              "tips": [
+                "Bring a snack for after the stories.",
+                "Tell {them} the park comes next if {they} get{s} wiggly."
+              ],
+              "interests": [
+                "stories",
+                "music",
+                "movement"
+              ],
+              "area": "north-raleigh",
+              "outdoor": false,
+              "source": {
+                "kind": "event",
+                "title": "Family Storytime",
+                "start": "2026-11-20T10:00:00-05:00",
+                "end": "2026-11-20T10:30:00-05:00",
+                "venue": "Leesville Community Library",
+                "address": "5105 Country Trail, Raleigh, NC 27613",
+                "url": "https://www.wake.gov/events/family-storytime-4202",
+                "cost": "Free",
+                "lat": 35.88424,
+                "lon": -78.71549,
+                "ages": "Young Children",
+                "registration": null,
+                "indoor": true,
+                "area": "north-raleigh",
+                "source": "wake-county",
+                "dropIn": false
+              }
+            },
+            {
+              "ref": "event:wake-parks:8358:2026-11-20",
+              "arrive": "09:00",
+              "leave": "10:15",
+              "why": "Your toddler walks the Educational Loop and reads a picture book one page at a time. It is self-led, so you set the pace.",
+              "tips": [
+                "Let your child run ahead to find the next page.",
+                "Bring a snack for the end of the loop."
+              ],
+              "interests": [
+                "stories",
+                "nature",
+                "movement"
+              ],
+              "also": [],
+              "area": "south-wake",
+              "outdoor": true,
+              "source": {
+                "kind": "event",
+                "title": "Beech Bluff County Park StoryWalk® 2026 (Self-Led)",
+                "start": "2026-11-20T08:00:00",
+                "end": "2026-11-20T17:30:00",
+                "venue": "Beech Bluff County Park",
+                "address": "Beech Bluff Park Drive, Fuquay-Varina, NC",
+                "url": "https://apm.activecommunities.com/wakeparks/Activity_Search/beech-bluff-county-park-storywalk-2026-self-led/8358?locale=en-US",
+                "cost": "Free",
+                "lat": 35.58537279715877,
+                "lon": -78.6793341971644,
+                "ages": null,
+                "registration": false,
+                "indoor": false,
+                "area": "south-wake",
+                "source": "wake-parks",
+                "dropIn": true
+              }
+            }
+          ],
+          "rainBackup": null,
+          "timeline": [
+            {
+              "start": "07:00",
+              "end": "07:30",
+              "kind": "meal",
+              "title": "Up and breakfast"
+            },
+            {
+              "start": "07:30",
+              "end": "09:20",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "09:20",
+              "end": "09:40",
+              "kind": "routine",
+              "title": "Get ready to go",
+              "detail": "Shoes on, the bag, water and a snack."
+            },
+            {
+              "start": "09:40",
+              "end": "10:00",
+              "kind": "travel",
+              "title": "Drive to Fred Fletcher Park"
+            },
+            {
+              "start": "10:00",
+              "end": "10:35",
+              "kind": "outing",
+              "title": "Fred Fletcher Park"
+            },
+            {
+              "start": "10:35",
+              "end": "10:45",
+              "kind": "travel",
+              "title": "Drive to NC Museum of Natural Sciences"
+            },
+            {
+              "start": "10:45",
+              "end": "11:00",
+              "kind": "outing",
+              "title": "Live Animal Feeding – Ocean Habitat"
+            },
+            {
+              "start": "11:00",
+              "end": "11:20",
+              "kind": "travel",
+              "title": "Drive home"
+            },
+            {
+              "start": "11:20",
+              "end": "11:50",
+              "kind": "meal",
+              "title": "Lunch"
+            },
+            {
+              "start": "11:50",
+              "end": "12:00",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "12:00",
+              "end": "14:00",
+              "kind": "nap",
+              "title": "Nap"
+            },
+            {
+              "start": "14:00",
+              "end": "14:20",
+              "kind": "routine",
+              "title": "Up and a snack"
+            },
+            {
+              "start": "14:20",
+              "end": "18:00",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "18:00",
+              "end": "18:45",
+              "kind": "meal",
+              "title": "Dinner"
+            },
+            {
+              "start": "18:45",
+              "end": "19:30",
+              "kind": "routine",
+              "title": "Bath, books and bed"
+            }
+          ]
+        },
+        {
+          "nap": "late-nap",
+          "napLabel": "One nap, 1 to 3",
+          "headline": "Playground, then playdough and crafts at storytime",
+          "main": {
+            "ref": "place:green-road-park",
+            "arrive": "09:45",
+            "leave": "11:30",
+            "also": [
+              {
+                "ref": "event:wake:24320",
+                "source": {
+                  "kind": "event",
+                  "title": "Storytime Stay and Play",
+                  "start": "2026-11-20T10:30:00-05:00",
+                  "end": "2026-11-20T11:30:00-05:00",
+                  "venue": "Green Road Community Library",
+                  "address": "4201 Green Rd, Raleigh, NC 27604",
+                  "url": "https://www.wake.gov/events/storytime-stay-and-play-55",
+                  "cost": "Free",
+                  "lat": 35.8409,
+                  "lon": -78.59225,
+                  "ages": "Young Children",
+                  "registration": null,
+                  "indoor": true,
+                  "area": "north-raleigh",
+                  "source": "wake-county",
+                  "dropIn": false
+                }
+              }
+            ],
+            "why": "Your toddler plays at Green Road Park first. Then Storytime Stay and Play at 10:30 am has a story, then stations with playdough, building materials and crafts.",
+            "tips": [
+              "Have a snack at the park before you go in.",
+              "Let your child pick the station {they} like{s} best and stay there.",
+              "Say goodbye to the last craft, then walk out together."
+            ],
+            "interests": [
+              "stories",
+              "art",
+              "movement"
+            ],
+            "area": "north-raleigh",
+            "outdoor": false,
+            "source": {
+              "kind": "park",
+              "title": "Green Road Park",
+              "address": "4201 Green Rd, Raleigh, NC 27604",
+              "lat": 35.8409,
+              "lon": -78.59225,
+              "url": "https://raleighnc.gov/parks-and-recreation/places/green-road-park",
+              "amenities": [
+                "community-center",
+                "picnic-shelter",
+                "courts",
+                "fields",
+                "playground"
+              ],
+              "indoor": false,
+              "area": "north-raleigh",
+              "hours": null,
+              "cost": "Free"
+            }
+          },
+          "alternatives": [
+            {
+              "ref": "event:weekly:mols-early-childhood:2026-11-20",
+              "arrive": "10:00",
+              "leave": "11:30",
+              "why": "Sensory play, songs and stories in Hideaway Woods. It is a drop-in, so your child can come and go. It is included with museum admission.",
+              "tips": [
+                "Bring an extra layer for playing outside.",
+                "Leave while {they} {is} still having fun."
+              ],
+              "interests": [
+                "nature",
+                "music",
+                "stories"
+              ],
+              "also": [],
+              "area": "durham",
+              "outdoor": true,
+              "source": {
+                "kind": "event",
+                "title": "Early Childhood Drop-In",
+                "start": "2026-11-20T09:30:00",
+                "end": "2026-11-20T11:30:00",
+                "venue": "Hideaway Woods, Museum of Life and Science",
+                "address": "433 W Murray Ave, Durham, NC 27704",
+                "url": "https://www.lifeandscience.org/learn/drop-in-programs/",
+                "cost": "Included with museum admission",
+                "lat": 36.0294,
+                "lon": -78.8993,
+                "ages": "young children and their caregivers",
+                "registration": false,
+                "indoor": false,
+                "area": "durham",
+                "source": "weekly",
+                "dropIn": true
+              }
+            },
+            {
+              "ref": "event:wake-parks:9409",
+              "arrive": "09:50",
+              "leave": "10:45",
+              "why": "Park staff read a story about fall leaves, and your child can imagine what a leaf could be. A family needs to sign up first.",
+              "tips": [
+                "Pick up a real leaf and ask what it could be.",
+                "Bring a snack for after the story."
+              ],
+              "interests": [
+                "stories",
+                "nature"
+              ],
+              "also": [],
+              "area": "raleigh",
+              "outdoor": true,
+              "source": {
+                "kind": "event",
+                "title": "Park Tales: If You Find a Leaf",
+                "start": "2026-11-20T10:00:00",
+                "end": "2026-11-20T10:45:00",
+                "venue": "Historic Yates Mill County Park",
+                "address": "4620 Lake Wheeler Rd., Raleigh, NC  27603",
+                "url": "https://apm.activecommunities.com/wakeparks/Activity_Search/park-tales-if-you-find-a-leaf/9409?locale=en-US",
+                "cost": "Free",
+                "lat": 35.72157134974476,
+                "lon": -78.68526087901417,
+                "ages": null,
+                "registration": "https://apm.activecommunities.com/wakeparks/Activity_Search/park-tales-if-you-find-a-leaf/9409?locale=en-US",
+                "indoor": false,
+                "area": "raleigh",
+                "source": "wake-parks",
+                "dropIn": false
+              }
+            },
+            {
+              "ref": "place:elevate-fitness-course",
+              "arrive": "09:50",
+              "leave": "11:00",
+              "also": [
+                {
+                  "ref": "event:wake:24380",
+                  "source": {
+                    "kind": "event",
+                    "title": "Family Storytime",
+                    "start": "2026-11-20T10:30:00-05:00",
+                    "end": "2026-11-20T11:00:00-05:00",
+                    "venue": "Eva Perry Regional Library",
+                    "address": "2100 Shepherds Vineyard Drive, Apex, NC",
+                    "url": "https://www.wake.gov/events/family-storytime-4707",
+                    "cost": "Free",
+                    "lat": 35.7437832024768,
+                    "lon": -78.8251607833066,
+                    "ages": "Young Children",
+                    "registration": null,
+                    "indoor": true,
+                    "area": "cary-apex",
+                    "source": "wake-county",
+                    "dropIn": false
+                  }
+                }
+              ],
+              "why": "Your toddler plays at Elevate Fitness Course first. Then Family Storytime at 10:30 am has books, music, rhymes and movement.",
+              "tips": [
+                "Ask at the Youth Services desk for a ticket.",
+                "Snack at the park before storytime."
+              ],
+              "interests": [
+                "movement",
+                "stories",
+                "music"
+              ],
+              "area": "cary-apex",
+              "outdoor": false,
+              "source": {
+                "kind": "park",
+                "title": "Elevate Fitness Course",
+                "address": "2200 Laura Duncan Road",
+                "lat": 35.75324600887787,
+                "lon": -78.82398539933118,
+                "url": "http://www.apexnc.org/1187/Elevate-Fitness-Course",
+                "amenities": [
+                  "playground",
+                  "picnic-shelter",
+                  "restroom",
+                  "greenway"
+                ],
+                "indoor": false,
+                "area": "cary-apex",
+                "hours": null,
+                "cost": "Free"
+              }
+            },
+            {
+              "ref": "place:white-deer-park",
+              "arrive": "15:30",
+              "leave": "16:40",
+              "why": "A relaxed afternoon after nap at White Deer Park, with a playground and greenway. Your toddler can play and wander.",
+              "tips": [
+                "Bring a snack for after nap.",
+                "Start for the car before {they} get{s} tired."
+              ],
+              "interests": [
+                "nature",
+                "movement"
+              ],
+              "also": [],
+              "area": "south-wake",
+              "outdoor": true,
+              "source": {
+                "kind": "park",
+                "title": "White Deer Park",
+                "address": "2400 Aversboro Road, Garner NC, 27529",
+                "lat": 35.67703339814751,
+                "lon": -78.62516412154841,
+                "url": "https://www.garnernc.gov/departments/parks-recreation-and-cultural-resources/garner-parks/white-deer-park",
+                "amenities": [
+                  "playground",
+                  "picnic-shelter",
+                  "restroom",
+                  "greenway",
+                  "nature"
+                ],
+                "indoor": false,
+                "area": "south-wake",
+                "hours": null,
+                "cost": "Free"
+              }
+            }
+          ],
+          "rainBackup": null,
+          "timeline": [
+            {
+              "start": "07:00",
+              "end": "07:30",
+              "kind": "meal",
+              "title": "Up and breakfast"
+            },
+            {
+              "start": "07:30",
+              "end": "09:05",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "09:05",
+              "end": "09:25",
+              "kind": "routine",
+              "title": "Get ready to go",
+              "detail": "Shoes on, the bag, water and a snack."
+            },
+            {
+              "start": "09:25",
+              "end": "09:45",
+              "kind": "travel",
+              "title": "Drive to Green Road Park"
+            },
+            {
+              "start": "09:45",
+              "end": "10:20",
+              "kind": "outing",
+              "title": "Green Road Park"
+            },
+            {
+              "start": "10:20",
+              "end": "10:30",
+              "kind": "travel",
+              "title": "Walk to Green Road Community Library"
+            },
+            {
+              "start": "10:30",
+              "end": "11:30",
+              "kind": "outing",
+              "title": "Storytime Stay and Play"
+            },
+            {
+              "start": "11:30",
+              "end": "11:40",
+              "kind": "travel",
+              "title": "Walk back to the car"
+            },
+            {
+              "start": "11:40",
+              "end": "12:00",
+              "kind": "travel",
+              "title": "Drive home"
+            },
+            {
+              "start": "12:00",
+              "end": "12:15",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "12:15",
+              "end": "12:45",
+              "kind": "meal",
+              "title": "Lunch"
+            },
+            {
+              "start": "12:45",
+              "end": "13:00",
+              "kind": "quiet",
+              "title": "Wind down",
+              "detail": "A couple of books to settle."
+            },
+            {
+              "start": "13:00",
+              "end": "15:00",
+              "kind": "nap",
+              "title": "Nap"
+            },
+            {
+              "start": "15:00",
+              "end": "15:20",
+              "kind": "routine",
+              "title": "Up and a snack"
+            },
+            {
+              "start": "15:20",
+              "end": "18:30",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "18:30",
+              "end": "19:15",
+              "kind": "meal",
+              "title": "Dinner"
+            },
+            {
+              "start": "19:15",
+              "end": "20:00",
+              "kind": "routine",
+              "title": "Bath, books and bed"
+            }
+          ]
+        },
+        {
+          "nap": "short-nap",
+          "napLabel": "Short nap, 1 to 2",
+          "headline": "Parachute and tunnels at Total Tot Time, after a park warm-up",
+          "main": {
+            "ref": "place:walltown-park",
+            "arrive": "09:30",
+            "leave": "11:30",
+            "also": [
+              {
+                "ref": "event:durham-rec:19841:2026-11-20",
+                "source": {
+                  "kind": "event",
+                  "title": "Total Tot Time",
+                  "start": "2026-11-20T10:00:00",
+                  "end": "2026-11-20T12:00:00",
+                  "venue": "Walltown Park Rec Ctr",
+                  "address": "1308 W Club Blvd, Durham, NC",
+                  "url": "https://apm.activecommunities.com/dprplaymore/Activity_Search/total-tot-time/19841?locale=en-US",
+                  "cost": null,
+                  "lat": 36.018264,
+                  "lon": -78.91403399999999,
+                  "ages": "0 - 4",
+                  "registration": "https://apm.activecommunities.com/dprplaymore/Activity_Search/total-tot-time/19841?locale=en-US",
+                  "indoor": true,
+                  "area": "durham",
+                  "source": "durham-rec",
+                  "dropIn": false
+                }
+              }
+            ],
+            "why": "Your toddler warms up at the playground, then plays in the gym with a parachute and tunnels. A family needs to sign up for Total Tot Time.",
+            "tips": [
+              "Bring a snack and water for the playground.",
+              "Join in on the parachute, since {they} will copy you.",
+              "Leave a little before the end, while {they} {is} still happy."
+            ],
+            "interests": [
+              "movement"
+            ],
+            "area": "durham",
+            "outdoor": false,
+            "source": {
+              "kind": "park",
+              "title": "Walltown Park",
+              "address": "1308 W Club Blvd, Durham, NC",
+              "lat": 36.018264,
+              "lon": -78.91403399999999,
+              "url": "https://www.dprplaymore.org/Facilities/Facility/Details/Walltown-Park-74",
+              "amenities": [
+                "playground",
+                "picnic-shelter"
+              ],
+              "indoor": false,
+              "area": "durham",
+              "hours": null,
+              "cost": "Free"
+            }
+          },
+          "alternatives": [
+            {
+              "ref": "event:wake-parks:9409",
+              "arrive": "09:50",
+              "leave": "10:45",
+              "why": "Park staff read a story about fall leaves, and your child can imagine what a leaf could be. A family needs to sign up first.",
+              "tips": [
+                "Pick up a real leaf and ask what it could be.",
+                "Bring a snack for after the story."
+              ],
+              "interests": [
+                "stories",
+                "nature"
+              ],
+              "also": [],
+              "area": "raleigh",
+              "outdoor": true,
+              "source": {
+                "kind": "event",
+                "title": "Park Tales: If You Find a Leaf",
+                "start": "2026-11-20T10:00:00",
+                "end": "2026-11-20T10:45:00",
+                "venue": "Historic Yates Mill County Park",
+                "address": "4620 Lake Wheeler Rd., Raleigh, NC  27603",
+                "url": "https://apm.activecommunities.com/wakeparks/Activity_Search/park-tales-if-you-find-a-leaf/9409?locale=en-US",
+                "cost": "Free",
+                "lat": 35.72157134974476,
+                "lon": -78.68526087901417,
+                "ages": null,
+                "registration": "https://apm.activecommunities.com/wakeparks/Activity_Search/park-tales-if-you-find-a-leaf/9409?locale=en-US",
+                "indoor": false,
+                "area": "raleigh",
+                "source": "wake-parks",
+                "dropIn": false
+              }
+            },
+            {
+              "ref": "place:clemmons-educational-state-forest",
+              "arrive": "09:30",
+              "leave": "11:00",
+              "why": "A morning in the forest. Your toddler can walk the greenway and look for leaves, sticks and acorns.",
+              "tips": [
+                "Bring a snack for the picnic shelter.",
+                "Let {them} set the pace on the walk."
+              ],
+              "interests": [
+                "nature",
+                "movement"
+              ],
+              "also": [],
+              "area": "east-wake",
+              "outdoor": true,
+              "source": {
+                "kind": "park",
+                "title": "Clemmons Educational State Forest",
+                "address": "2256 Old U.S. Hwy 70, Clayton, NC",
+                "lat": 35.674152072557575,
+                "lon": -78.48905206181357,
+                "url": "https://www.ncesf.org/clemmons.html",
+                "amenities": [
+                  "picnic-shelter",
+                  "restroom",
+                  "greenway"
+                ],
+                "indoor": false,
+                "area": "east-wake",
+                "hours": null,
+                "cost": "Free"
+              }
+            },
+            {
+              "ref": "place:apex-nature-park",
+              "arrive": "14:30",
+              "leave": "16:00",
+              "why": "An easy afternoon walk on the greenway after nap. Your toddler can collect leaves and sticks.",
+              "tips": [
+                "Bring a snack for the picnic shelter.",
+                "Pack a bag for the leaves {they} collect{s}."
+              ],
+              "interests": [
+                "nature",
+                "movement"
+              ],
+              "also": [],
+              "area": "cary-apex",
+              "outdoor": true,
+              "source": {
+                "kind": "park",
+                "title": "Apex Nature Park",
+                "address": "2600 Evans Rd., Apex, NC",
+                "lat": 35.71709646233568,
+                "lon": -78.90520368087866,
+                "url": "https://www.apexnc.org/800/Nature-Park-Seymour-Athletic-Fields",
+                "amenities": [
+                  "picnic-shelter",
+                  "restroom",
+                  "greenway",
+                  "nature"
+                ],
+                "indoor": false,
+                "area": "cary-apex",
+                "hours": null,
+                "cost": "Free"
+              }
+            },
+            {
+              "ref": "place:blue-jay-point-county-park",
+              "arrive": "14:40",
+              "leave": "16:10",
+              "why": "An afternoon at Blue Jay Point County Park with a playground and greenway. Your child can play and then wander the nature paths.",
+              "tips": [
+                "Play first and walk second, while {they} {has} energy.",
+                "Bring a snack for the picnic shelter."
+              ],
+              "interests": [
+                "nature",
+                "movement"
+              ],
+              "also": [],
+              "area": "north-raleigh",
+              "outdoor": true,
+              "source": {
+                "kind": "park",
+                "title": "Blue Jay Point County Park",
+                "address": "3200 Pleasant Union Church Road, Raleigh, NC 27614",
+                "lat": 35.96762827199893,
+                "lon": -78.64454785104198,
+                "url": "https://www.wakegov.com/departments-government/parks-recreation-and-open-space/all-parks-trails/blue-jay-point-county-park",
+                "amenities": [
+                  "playground",
+                  "picnic-shelter",
+                  "restroom",
+                  "greenway",
+                  "nature"
+                ],
+                "indoor": false,
+                "area": "north-raleigh",
+                "hours": null,
+                "cost": "Free"
+              }
+            }
+          ],
+          "rainBackup": null,
+          "timeline": [
+            {
+              "start": "07:00",
+              "end": "07:30",
+              "kind": "meal",
+              "title": "Up and breakfast"
+            },
+            {
+              "start": "07:30",
+              "end": "08:50",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "08:50",
+              "end": "09:10",
+              "kind": "routine",
+              "title": "Get ready to go",
+              "detail": "Shoes on, the bag, water and a snack."
+            },
+            {
+              "start": "09:10",
+              "end": "09:30",
+              "kind": "travel",
+              "title": "Drive to Walltown Park"
+            },
+            {
+              "start": "09:30",
+              "end": "09:50",
+              "kind": "outing",
+              "title": "Walltown Park"
+            },
+            {
+              "start": "09:50",
+              "end": "10:00",
+              "kind": "travel",
+              "title": "Walk to Walltown Park Rec Ctr"
+            },
+            {
+              "start": "10:00",
+              "end": "11:30",
+              "kind": "outing",
+              "title": "Total Tot Time"
+            },
+            {
+              "start": "11:30",
+              "end": "11:40",
+              "kind": "travel",
+              "title": "Walk back to the car"
+            },
+            {
+              "start": "11:40",
+              "end": "12:00",
+              "kind": "travel",
+              "title": "Drive home"
+            },
+            {
+              "start": "12:00",
+              "end": "12:15",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "12:15",
+              "end": "12:45",
+              "kind": "meal",
+              "title": "Lunch"
+            },
+            {
+              "start": "12:45",
+              "end": "13:00",
+              "kind": "quiet",
+              "title": "Wind down",
+              "detail": "A couple of books to settle."
+            },
+            {
+              "start": "13:00",
+              "end": "14:00",
+              "kind": "nap",
+              "title": "Nap"
+            },
+            {
+              "start": "14:00",
+              "end": "14:20",
+              "kind": "routine",
+              "title": "Up and a snack"
+            },
+            {
+              "start": "14:20",
+              "end": "18:00",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "18:00",
+              "end": "18:45",
+              "kind": "meal",
+              "title": "Dinner"
+            },
+            {
+              "start": "18:45",
+              "end": "19:30",
+              "kind": "routine",
+              "title": "Bath, books and bed"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "checked": {
+    "at": "2026-11-14T11:03:27.430Z",
+    "forecast": "nws",
+    "weather": {
+      "period": "Friday",
+      "tempF": 68,
+      "precipProbability": 1,
+      "shortForecast": "Mostly Sunny",
+      "windMph": 2,
+      "windFrom": "N",
+      "hours": [
+        {
+          "t": "05:00",
+          "tempF": 38,
+          "pop": 1,
+          "cloud": 30
+        },
+        {
+          "t": "06:00",
+          "tempF": 37,
+          "pop": 1,
+          "cloud": 30
+        },
+        {
+          "t": "07:00",
+          "tempF": 38,
+          "pop": 1,
+          "cloud": 36
+        },
+        {
+          "t": "08:00",
+          "tempF": 42,
+          "pop": 1,
+          "cloud": 36
+        },
+        {
+          "t": "09:00",
+          "tempF": 48,
+          "pop": 1,
+          "cloud": 36
+        },
+        {
+          "t": "10:00",
+          "tempF": 54,
+          "pop": 1,
+          "cloud": 36
+        },
+        {
+          "t": "11:00",
+          "tempF": 59,
+          "pop": 1,
+          "cloud": 36
+        },
+        {
+          "t": "12:00",
+          "tempF": 63,
+          "pop": 1,
+          "cloud": 36
+        },
+        {
+          "t": "13:00",
+          "tempF": 66,
+          "pop": 1,
+          "cloud": 30
+        },
+        {
+          "t": "14:00",
+          "tempF": 68,
+          "pop": 1,
+          "cloud": 30
+        },
+        {
+          "t": "15:00",
+          "tempF": 68,
+          "pop": 1,
+          "cloud": 30
+        },
+        {
+          "t": "16:00",
+          "tempF": 67,
+          "pop": 1,
+          "cloud": 30
+        },
+        {
+          "t": "17:00",
+          "tempF": 64,
+          "pop": 1,
+          "cloud": 30
+        }
+      ]
+    },
+    "hidden": []
+  }
+}

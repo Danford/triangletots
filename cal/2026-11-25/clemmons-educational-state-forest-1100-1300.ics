@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Triangle Tots//triangletots.com//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:2026-11-25-clemmons-educational-state-forest-1100-1300@triangletots.com
+DTSTAMP:20261114T100000Z
+DTSTART:20261125T160000Z
+DTEND:20261125T180000Z
+SUMMARY:Clemmons Educational State Forest
+LOCATION:2256 Old U.S. Hwy 70\, Clayton\, NC
+DESCRIPTION:https://www.ncesf.org/clemmons.html\nThe whole day: https://tri
+ angletots.com/2026-11-25/t2/\nTimes and details can change. Check the even
+ t or place before you go.
+END:VEVENT
+END:VCALENDAR

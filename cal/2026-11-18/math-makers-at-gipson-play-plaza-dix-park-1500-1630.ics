@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Triangle Tots//triangletots.com//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:2026-11-18-math-makers-at-gipson-play-plaza-dix-park-1500-1630@triangle
+ tots.com
+DTSTAMP:20261114T100000Z
+DTSTART:20261118T200000Z
+DTEND:20261118T213000Z
+SUMMARY:Math Makers at Gipson Play Plaza\, Dix Park
+LOCATION:715 Biggs Dr\, Raleigh\, NC 27603
+DESCRIPTION:https://dixpark.org/event/math-makers-0\nThe whole day: https:/
+ /triangletots.com/2026-11-18/t3/\nTimes and details can change. Check the 
+ event or place before you go.
+END:VEVENT
+END:VCALENDAR

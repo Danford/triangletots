@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Triangle Tots//triangletots.com//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:2026-11-24-live-animal-feeding-lobster-at-fred-fletcher-park-1245-1425@
+ triangletots.com
+DTSTAMP:20261114T100000Z
+DTSTART:20261124T174500Z
+DTEND:20261124T192500Z
+SUMMARY:Live Animal Feeding: Lobster at Fred Fletcher Park
+LOCATION:820 Clay Street\, Raleigh\, NC 27605
+DESCRIPTION:https://raleighnc.gov/parks-and-recreation/places/fred-fletcher
+ -park\nhttps://www.naturalsciences.org/calendar/event/live-animal-feeding-
+ lobster-4/2026-11-24/\nhttps://raleighnc.gov/parks-and-recreation/places/h
+ alifax-park\nThe whole day: https://triangletots.com/2026-11-24/t3/\nTimes
+  and details can change. Check the event or place before you go.
+END:VEVENT
+END:VCALENDAR

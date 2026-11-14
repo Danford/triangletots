@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Triangle Tots//triangletots.com//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:2026-11-22-north-cary-park-1530-1645@triangletots.com
+DTSTAMP:20261114T100000Z
+DTSTART:20261122T203000Z
+DTEND:20261122T214500Z
+SUMMARY:North Cary Park
+LOCATION:1100 Norwell Boulevard\, Cary\, NC
+DESCRIPTION:http://www.townofcary.org/recreation-enjoyment/parks-greenways-
+ environment/parks/north-cary-park\nThe whole day: https://triangletots.com
+ /2026-11-22/t4/\nTimes and details can change. Check the event or place be
+ fore you go.
+END:VEVENT
+END:VCALENDAR

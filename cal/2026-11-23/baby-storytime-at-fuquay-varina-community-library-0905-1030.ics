@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Triangle Tots//triangletots.com//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:2026-11-23-baby-storytime-at-fuquay-varina-community-library-0905-1030@
+ triangletots.com
+DTSTAMP:20261114T100000Z
+DTSTART:20261123T140500Z
+DTEND:20261123T153000Z
+SUMMARY:Baby Storytime at Fuquay-Varina Community Library
+LOCATION:271 Bramblehill Drive\, Fuquay-Varina\, NC
+DESCRIPTION:https://www.wake.gov/events/baby-storytime-1137\nhttp://www.fuq
+ uay-varina.org/Facilities/Facility/Details/FuquayVarina-Museums-at-Ashwort
+ h-Park-14\nThe whole day: https://triangletots.com/2026-11-23/t1/\nTimes a
+ nd details can change. Check the event or place before you go.
+END:VEVENT
+END:VCALENDAR

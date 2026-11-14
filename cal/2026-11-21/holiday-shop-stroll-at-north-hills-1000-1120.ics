@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Triangle Tots//triangletots.com//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:2026-11-21-holiday-shop-stroll-at-north-hills-1000-1120@triangletots.co
+ m
+DTSTAMP:20261114T100000Z
+DTSTART:20261121T150000Z
+DTEND:20261121T162000Z
+SUMMARY:Holiday Shop & Stroll at North Hills
+LOCATION:4321 Lassiter at North Hills Ave\, Raleigh\, NC\, 27609
+DESCRIPTION:https://www.visitnorthhills.com/events/holiday-shop-and-stroll-
+ 2026\nhttps://raleighnc.gov/parks-and-recreation/places/north-hills-park\n
+ The whole day: https://triangletots.com/2026-11-21/t2/\nTimes and details 
+ can change. Check the event or place before you go.
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Triangle Tots//triangletots.com//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:2026-11-20-storytime-stay-and-play-at-green-road-community-library-1020
+ -1215@triangletots.com
+DTSTAMP:20261114T100000Z
+DTSTART:20261120T152000Z
+DTEND:20261120T171500Z
+SUMMARY:Storytime Stay and Play at Green Road Community Library
+LOCATION:4201 Green Rd\, Raleigh\, NC 27604
+DESCRIPTION:https://www.wake.gov/events/storytime-stay-and-play-55\nhttps:/
+ /raleighnc.gov/parks-and-recreation/places/green-road-park\nThe whole day:
+  https://triangletots.com/2026-11-20/t3/\nTimes and details can change. Ch
+ eck the event or place before you go.
+END:VEVENT
+END:VCALENDAR

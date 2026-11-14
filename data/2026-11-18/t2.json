@@ -1,0 +1,1200 @@
+{
+  "date": "2026-11-18",
+  "band": "t2",
+  "versions": [
+    {
+      "at": "2026-11-12T01:45:03.196Z",
+      "reason": null,
+      "forecast": "nws",
+      "weather": {
+        "period": "Wednesday",
+        "tempF": 57,
+        "precipProbability": 10,
+        "shortForecast": "Sunny",
+        "windMph": 9,
+        "windFrom": "N",
+        "hours": [
+          {
+            "t": "05:00",
+            "tempF": 35,
+            "pop": 10,
+            "cloud": 23
+          },
+          {
+            "t": "06:00",
+            "tempF": 34,
+            "pop": 10,
+            "cloud": 23
+          },
+          {
+            "t": "07:00",
+            "tempF": 35,
+            "pop": 6,
+            "cloud": 25
+          }
+        ]
+      },
+      "plans": [
+        {
+          "nap": "early-nap",
+          "napLabel": "One nap, 12 to 2",
+          "headline": "Visit the animals and wander the garden paths",
+          "main": {
+            "ref": "place:historic-oak-view-county-park",
+            "arrive": "09:00",
+            "leave": "10:45",
+            "why": "Your toddler can look for the animals and wander the garden paths at {their} own pace. It is a calm morning that ends well before nap.",
+            "tips": [
+              "Pack a snack to share on the picnic shelter before you go.",
+              "Let {them} choose which way to walk and stay as long as {they} like{s}.",
+              "Name one last animal to wave to, then head to the car."
+            ],
+            "interests": [
+              "animals",
+              "nature"
+            ],
+            "also": [],
+            "area": "raleigh",
+            "outdoor": true,
+            "source": {
+              "kind": "park",
+              "title": "Historic Oak View County Park",
+              "address": "4028 Carya Dr., Raleigh, NC  27610",
+              "lat": 35.76980126731367,
+              "lon": -78.57063248179927,
+              "url": "https://www.wakegov.com/departments-government/parks-recreation-and-open-space/all-parks-trails/historic-oak-view-county-park",
+              "amenities": [
+                "picnic-shelter",
+                "restroom",
+                "greenway",
+                "animals",
+                "garden"
+              ],
+              "indoor": false,
+              "area": "raleigh",
+              "hours": null,
+              "cost": "Free"
+            }
+          },
+          "alternatives": [
+            {
+              "ref": "event:wake:21996",
+              "arrive": "09:05",
+              "leave": "10:30",
+              "why": "Toddler Storytime at Northeast Regional Library has books, songs and rhymes with movement, then {they} burn{s} off energy at Plummer Park.",
+              "tips": [
+                "Sit near the front so {they} can see the pictures.",
+                "Bring a snack for the playground."
+              ],
+              "interests": [
+                "stories",
+                "music",
+                "movement"
+              ],
+              "also": [
+                {
+                  "ref": "place:plummer-park",
+                  "source": {
+                    "kind": "park",
+                    "title": "Plummer Park",
+                    "address": "965 Jones Wynd, Wake Forest, NC",
+                    "lat": 35.96978706226675,
+                    "lon": -78.5486469005171,
+                    "url": "https://www.wakeforestnc.gov/parks-recreation-cultural-resources/parks-facilities/plummer-park",
+                    "amenities": [
+                      "playground",
+                      "picnic-shelter"
+                    ],
+                    "indoor": false,
+                    "area": "north-raleigh",
+                    "hours": null,
+                    "cost": "Free"
+                  }
+                }
+              ],
+              "area": "north-raleigh",
+              "outdoor": false,
+              "source": {
+                "kind": "event",
+                "title": "Toddler Storytime",
+                "start": "2026-11-18T09:15:00-05:00",
+                "end": "2026-11-18T09:45:00-05:00",
+                "venue": "Northeast Regional Library",
+                "address": "14401 Green Elm Lane, Raleigh, NC",
+                "url": "https://www.wake.gov/events/toddler-storytime-1027",
+                "cost": "Free",
+                "lat": 35.9541926372282,
+                "lon": -78.5438512128256,
+                "ages": "Young Children",
+                "registration": null,
+                "indoor": true,
+                "area": "north-raleigh",
+                "source": "wake-county",
+                "dropIn": false
+              }
+            },
+            {
+              "ref": "place:apex-nature-park",
+              "arrive": "09:00",
+              "leave": "10:30",
+              "why": "A quiet nature morning for exploring the greenway and looking for leaves, sticks and birds.",
+              "tips": [
+                "Bring a bag for treasures like leaves and acorns.",
+                "Pack a snack for the picnic shelter."
+              ],
+              "interests": [
+                "nature"
+              ],
+              "also": [],
+              "area": "cary-apex",
+              "outdoor": true,
+              "source": {
+                "kind": "park",
+                "title": "Apex Nature Park",
+                "address": "2600 Evans Rd., Apex, NC",
+                "lat": 35.71709646233568,
+                "lon": -78.90520368087866,
+                "url": "https://www.apexnc.org/800/Nature-Park-Seymour-Athletic-Fields",
+                "amenities": [
+                  "picnic-shelter",
+                  "restroom",
+                  "greenway",
+                  "nature"
+                ],
+                "indoor": false,
+                "area": "cary-apex",
+                "hours": null,
+                "cost": "Free"
+              }
+            },
+            {
+              "ref": "place:gill-street-park",
+              "arrive": "10:00",
+              "leave": "11:00",
+              "why": "Your toddler plays at Gill Street Park first, then settles in for Family Storytime at Zebulon Community Library with books, music and rhymes.",
+              "tips": [
+                "Let {them} run first so sitting for stories is easier.",
+                "Tell {them} the stories come next, then walk over together."
+              ],
+              "interests": [
+                "movement",
+                "stories"
+              ],
+              "also": [
+                {
+                  "ref": "event:wake:24008",
+                  "source": {
+                    "kind": "event",
+                    "title": "Family Storytime",
+                    "start": "2026-11-18T10:30:00-05:00",
+                    "end": "2026-11-18T11:00:00-05:00",
+                    "venue": "Zebulon Community Library",
+                    "address": "1000 Dogwood Drive, Zebulon, NC",
+                    "url": "https://www.wake.gov/events/family-storytime-4547",
+                    "cost": "Free",
+                    "lat": 35.8364587208387,
+                    "lon": -78.3198221383783,
+                    "ages": "Young Children",
+                    "registration": null,
+                    "indoor": true,
+                    "area": "east-wake",
+                    "source": "wake-county",
+                    "dropIn": false
+                  }
+                }
+              ],
+              "area": "east-wake",
+              "outdoor": false,
+              "source": {
+                "kind": "park",
+                "title": "Gill Street Park",
+                "address": "600 N Privette St, Zebulon, NC",
+                "lat": 35.82878975768889,
+                "lon": -78.31085709480551,
+                "url": "https://www.townofzebulon.org/o/parksandrec/page/parks-facilities-rentals",
+                "amenities": [
+                  "playground"
+                ],
+                "indoor": false,
+                "area": "east-wake",
+                "hours": null,
+                "cost": "Free"
+              }
+            },
+            {
+              "ref": "event:durham-rec:20235",
+              "arrive": "08:50",
+              "leave": "10:40",
+              "why": "Pancakes & Pajamas at W.D. Hill Recreation Center is a cozy pajama breakfast, then play at Hillside Park. A family needs to sign up first.",
+              "tips": [
+                "Wear pajamas and bring a jacket for the park.",
+                "Let {them} build {their} own pancake."
+              ],
+              "interests": [
+                "movement"
+              ],
+              "also": [
+                {
+                  "ref": "place:hillside-park",
+                  "source": {
+                    "kind": "park",
+                    "title": "Hillside Park",
+                    "address": "1301 S Roxboro St, Durham, NC",
+                    "lat": 35.98093222222222,
+                    "lon": -78.90178333333333,
+                    "url": "https://www.dprplaymore.org/Facilities/Facility/Details/Hillside-Park-32",
+                    "amenities": [
+                      "playground",
+                      "splashpad",
+                      "pool",
+                      "picnic-shelter",
+                      "restroom"
+                    ],
+                    "indoor": false,
+                    "area": "durham",
+                    "hours": null,
+                    "cost": "Free"
+                  }
+                }
+              ],
+              "area": "durham",
+              "outdoor": false,
+              "source": {
+                "kind": "event",
+                "title": "Pancakes & Pajamas",
+                "start": "2026-11-18T09:00:00",
+                "end": "2026-11-18T10:00:00",
+                "venue": "W.D. Hill Recreation Center",
+                "address": "1308 Fayetteville St, Durham, NC",
+                "url": "https://apm.activecommunities.com/dprplaymore/Activity_Search/pancakes-pajamas/20235?locale=en-US",
+                "cost": "$1.50 for Durham residents, $6.50 for others",
+                "lat": 35.9797,
+                "lon": -78.8985,
+                "ages": "2 - 6",
+                "registration": "https://apm.activecommunities.com/dprplaymore/Activity_Search/pancakes-pajamas/20235?locale=en-US",
+                "indoor": true,
+                "area": "durham",
+                "source": "durham-rec",
+                "dropIn": false
+              }
+            }
+          ],
+          "rainBackup": null,
+          "timeline": [
+            {
+              "start": "07:00",
+              "end": "07:30",
+              "kind": "meal",
+              "title": "Up and breakfast"
+            },
+            {
+              "start": "07:30",
+              "end": "08:20",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "08:20",
+              "end": "08:40",
+              "kind": "routine",
+              "title": "Get ready to go",
+              "detail": "Shoes on, the bag, water and a snack."
+            },
+            {
+              "start": "08:40",
+              "end": "09:00",
+              "kind": "travel",
+              "title": "Drive to Historic Oak View County Park"
+            },
+            {
+              "start": "09:00",
+              "end": "10:45",
+              "kind": "outing",
+              "title": "Historic Oak View County Park"
+            },
+            {
+              "start": "10:45",
+              "end": "11:05",
+              "kind": "travel",
+              "title": "Drive home"
+            },
+            {
+              "start": "11:05",
+              "end": "11:15",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "11:15",
+              "end": "11:45",
+              "kind": "meal",
+              "title": "Lunch"
+            },
+            {
+              "start": "11:45",
+              "end": "12:00",
+              "kind": "quiet",
+              "title": "Wind down",
+              "detail": "A couple of books to settle."
+            },
+            {
+              "start": "12:00",
+              "end": "14:00",
+              "kind": "nap",
+              "title": "Nap"
+            },
+            {
+              "start": "14:00",
+              "end": "14:20",
+              "kind": "routine",
+              "title": "Up and a snack"
+            },
+            {
+              "start": "14:20",
+              "end": "18:00",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "18:00",
+              "end": "18:45",
+              "kind": "meal",
+              "title": "Dinner"
+            },
+            {
+              "start": "18:45",
+              "end": "19:30",
+              "kind": "routine",
+              "title": "Bath, books and bed"
+            }
+          ]
+        },
+        {
+          "nap": "late-nap",
+          "napLabel": "One nap, 1 to 3",
+          "headline": "Walk a story page by page through the park",
+          "main": {
+            "ref": "event:wake-parks:8358:2026-11-18",
+            "arrive": "09:30",
+            "leave": "11:15",
+            "why": "Your toddler follows the self-led StoryWalk at Beech Bluff County Park, reading one page at a time along the loop. It is a drop-in, so come and go as {they} like{s}.",
+            "tips": [
+              "Let {them} run ahead to the next page.",
+              "Bring a snack and a small water bottle.",
+              "Finish with time on the playground."
+            ],
+            "interests": [
+              "stories",
+              "nature",
+              "movement"
+            ],
+            "also": [],
+            "area": "south-wake",
+            "outdoor": true,
+            "source": {
+              "kind": "event",
+              "title": "Beech Bluff County Park StoryWalk® 2026 (Self-Led)",
+              "start": "2026-11-18T08:00:00",
+              "end": "2026-11-18T17:30:00",
+              "venue": "Beech Bluff County Park",
+              "address": "Beech Bluff Park Drive, Fuquay-Varina, NC",
+              "url": "https://apm.activecommunities.com/wakeparks/Activity_Search/beech-bluff-county-park-storywalk-2026-self-led/8358?locale=en-US",
+              "cost": "Free",
+              "lat": 35.58537279715877,
+              "lon": -78.6793341971644,
+              "ages": null,
+              "registration": false,
+              "indoor": false,
+              "area": "south-wake",
+              "source": "wake-parks",
+              "dropIn": true
+            }
+          },
+          "alternatives": [
+            {
+              "ref": "event:wake:24633",
+              "arrive": "09:20",
+              "leave": "10:40",
+              "why": "Toddler Storytime at Wake Forest Community Library, then play at Holding Park with the playground.",
+              "tips": [
+                "Arrive a few minutes early to pick a spot.",
+                "Bring a snack for after the stories."
+              ],
+              "interests": [
+                "stories",
+                "music",
+                "movement"
+              ],
+              "also": [
+                {
+                  "ref": "place:holding-park",
+                  "source": {
+                    "kind": "park",
+                    "title": "Holding Park",
+                    "address": "133 W Owen Ave, Wake Forest, NC",
+                    "lat": 35.9780288481514,
+                    "lon": -78.51404932968246,
+                    "url": "https://www.wakeforestnc.gov/parks-recreation-cultural-resources/parks-facilities/holding-park",
+                    "amenities": [
+                      "playground",
+                      "pool",
+                      "picnic-shelter",
+                      "greenway"
+                    ],
+                    "indoor": false,
+                    "area": "north-raleigh",
+                    "hours": null,
+                    "cost": "Free"
+                  }
+                }
+              ],
+              "area": "north-raleigh",
+              "outdoor": false,
+              "source": {
+                "kind": "event",
+                "title": "Toddler Storytime",
+                "start": "2026-11-18T09:30:00-05:00",
+                "end": "2026-11-18T09:55:00-05:00",
+                "venue": "Wake Forest Community Library",
+                "address": "400 E Holding Avenue, Wake Forest, NC",
+                "url": "https://www.wake.gov/events/toddler-storytime-1122",
+                "cost": "Free",
+                "lat": 35.9699502750089,
+                "lon": -78.5102712176725,
+                "ages": "Young Children",
+                "registration": null,
+                "indoor": true,
+                "area": "north-raleigh",
+                "source": "wake-county",
+                "dropIn": false
+              }
+            },
+            {
+              "ref": "event:wake:24008",
+              "arrive": "10:20",
+              "leave": "12:10",
+              "why": "Your toddler enjoys Family Storytime and then Stay and Play at Zebulon Community Library, ending with a run at Gill Street Park.",
+              "tips": [
+                "Bring a snack for the park.",
+                "Say the park is next to make leaving the stations easy."
+              ],
+              "interests": [
+                "stories",
+                "movement"
+              ],
+              "also": [
+                {
+                  "ref": "event:wake:24550",
+                  "source": {
+                    "kind": "event",
+                    "title": "Stay and Play",
+                    "start": "2026-11-18T11:00:00-05:00",
+                    "end": "2026-11-18T11:30:00-05:00",
+                    "venue": "Zebulon Community Library",
+                    "address": "1000 Dogwood Drive, Zebulon, NC",
+                    "url": "https://www.wake.gov/events/stay-and-play-30",
+                    "cost": "Free",
+                    "lat": 35.8364587208387,
+                    "lon": -78.3198221383783,
+                    "ages": "Young Children",
+                    "registration": null,
+                    "indoor": true,
+                    "area": "east-wake",
+                    "source": "wake-county",
+                    "dropIn": false
+                  }
+                },
+                {
+                  "ref": "place:gill-street-park",
+                  "source": {
+                    "kind": "park",
+                    "title": "Gill Street Park",
+                    "address": "600 N Privette St, Zebulon, NC",
+                    "lat": 35.82878975768889,
+                    "lon": -78.31085709480551,
+                    "url": "https://www.townofzebulon.org/o/parksandrec/page/parks-facilities-rentals",
+                    "amenities": [
+                      "playground"
+                    ],
+                    "indoor": false,
+                    "area": "east-wake",
+                    "hours": null,
+                    "cost": "Free"
+                  }
+                }
+              ],
+              "area": "east-wake",
+              "outdoor": false,
+              "source": {
+                "kind": "event",
+                "title": "Family Storytime",
+                "start": "2026-11-18T10:30:00-05:00",
+                "end": "2026-11-18T11:00:00-05:00",
+                "venue": "Zebulon Community Library",
+                "address": "1000 Dogwood Drive, Zebulon, NC",
+                "url": "https://www.wake.gov/events/family-storytime-4547",
+                "cost": "Free",
+                "lat": 35.8364587208387,
+                "lon": -78.3198221383783,
+                "ages": "Young Children",
+                "registration": null,
+                "indoor": true,
+                "area": "east-wake",
+                "source": "wake-county",
+                "dropIn": false
+              }
+            },
+            {
+              "ref": "place:historic-oak-view-county-park",
+              "arrive": "09:30",
+              "leave": "11:15",
+              "why": "Your toddler can look for animals and explore the garden paths at {their} own pace.",
+              "tips": [
+                "Bring a snack for the picnic shelter.",
+                "Let {them} lead the way."
+              ],
+              "interests": [
+                "animals",
+                "nature"
+              ],
+              "also": [],
+              "area": "raleigh",
+              "outdoor": true,
+              "source": {
+                "kind": "park",
+                "title": "Historic Oak View County Park",
+                "address": "4028 Carya Dr., Raleigh, NC  27610",
+                "lat": 35.76980126731367,
+                "lon": -78.57063248179927,
+                "url": "https://www.wakegov.com/departments-government/parks-recreation-and-open-space/all-parks-trails/historic-oak-view-county-park",
+                "amenities": [
+                  "picnic-shelter",
+                  "restroom",
+                  "greenway",
+                  "animals",
+                  "garden"
+                ],
+                "indoor": false,
+                "area": "raleigh",
+                "hours": null,
+                "cost": "Free"
+              }
+            },
+            {
+              "ref": "event:durham-rec:20235",
+              "arrive": "08:50",
+              "leave": "10:40",
+              "why": "Pancakes & Pajamas at W.D. Hill Recreation Center is a cozy pajama breakfast, then play at Hillside Park. A family needs to sign up first.",
+              "tips": [
+                "Wear pajamas and bring a jacket for the park.",
+                "Let {them} build {their} own pancake."
+              ],
+              "interests": [
+                "movement"
+              ],
+              "also": [
+                {
+                  "ref": "place:hillside-park",
+                  "source": {
+                    "kind": "park",
+                    "title": "Hillside Park",
+                    "address": "1301 S Roxboro St, Durham, NC",
+                    "lat": 35.98093222222222,
+                    "lon": -78.90178333333333,
+                    "url": "https://www.dprplaymore.org/Facilities/Facility/Details/Hillside-Park-32",
+                    "amenities": [
+                      "playground",
+                      "splashpad",
+                      "pool",
+                      "picnic-shelter",
+                      "restroom"
+                    ],
+                    "indoor": false,
+                    "area": "durham",
+                    "hours": null,
+                    "cost": "Free"
+                  }
+                }
+              ],
+              "area": "durham",
+              "outdoor": false,
+              "source": {
+                "kind": "event",
+                "title": "Pancakes & Pajamas",
+                "start": "2026-11-18T09:00:00",
+                "end": "2026-11-18T10:00:00",
+                "venue": "W.D. Hill Recreation Center",
+                "address": "1308 Fayetteville St, Durham, NC",
+                "url": "https://apm.activecommunities.com/dprplaymore/Activity_Search/pancakes-pajamas/20235?locale=en-US",
+                "cost": "$1.50 for Durham residents, $6.50 for others",
+                "lat": 35.9797,
+                "lon": -78.8985,
+                "ages": "2 - 6",
+                "registration": "https://apm.activecommunities.com/dprplaymore/Activity_Search/pancakes-pajamas/20235?locale=en-US",
+                "indoor": true,
+                "area": "durham",
+                "source": "durham-rec",
+                "dropIn": false
+              }
+            }
+          ],
+          "rainBackup": null,
+          "timeline": [
+            {
+              "start": "07:00",
+              "end": "07:30",
+              "kind": "meal",
+              "title": "Up and breakfast"
+            },
+            {
+              "start": "07:30",
+              "end": "08:50",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "08:50",
+              "end": "09:10",
+              "kind": "routine",
+              "title": "Get ready to go",
+              "detail": "Shoes on, the bag, water and a snack."
+            },
+            {
+              "start": "09:10",
+              "end": "09:30",
+              "kind": "travel",
+              "title": "Drive to Beech Bluff County Park"
+            },
+            {
+              "start": "09:30",
+              "end": "11:15",
+              "kind": "outing",
+              "title": "Beech Bluff County Park"
+            },
+            {
+              "start": "11:15",
+              "end": "11:35",
+              "kind": "travel",
+              "title": "Drive home"
+            },
+            {
+              "start": "11:35",
+              "end": "12:15",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "12:15",
+              "end": "12:45",
+              "kind": "meal",
+              "title": "Lunch"
+            },
+            {
+              "start": "12:45",
+              "end": "13:00",
+              "kind": "quiet",
+              "title": "Wind down",
+              "detail": "A couple of books to settle."
+            },
+            {
+              "start": "13:00",
+              "end": "15:00",
+              "kind": "nap",
+              "title": "Nap"
+            },
+            {
+              "start": "15:00",
+              "end": "15:20",
+              "kind": "routine",
+              "title": "Up and a snack"
+            },
+            {
+              "start": "15:20",
+              "end": "18:30",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "18:30",
+              "end": "19:15",
+              "kind": "meal",
+              "title": "Dinner"
+            },
+            {
+              "start": "19:15",
+              "end": "20:00",
+              "kind": "routine",
+              "title": "Bath, books and bed"
+            }
+          ]
+        },
+        {
+          "nap": "short-nap",
+          "napLabel": "Short nap, 1 to 2",
+          "headline": "Play at the park, then turkey-day fun",
+          "main": {
+            "ref": "place:rock-quarry-park",
+            "arrive": "10:30",
+            "leave": "12:00",
+            "why": "Your toddler plays at Rock Quarry Park first, then joins Gobble Till You Wobble at Edison Johnson Rec Ctr for turkey day activities. A family needs to sign up first.",
+            "tips": [
+              "Let {them} burn off energy at the playground before going in.",
+              "Bring a snack and eat after the program, before the car ride home."
+            ],
+            "interests": [
+              "movement"
+            ],
+            "also": [
+              {
+                "ref": "event:durham-rec:19549",
+                "source": {
+                  "kind": "event",
+                  "title": "Gobble Till You Wobble",
+                  "start": "2026-11-18T11:00:00",
+                  "end": "2026-11-18T12:00:00",
+                  "venue": "Edison Johnson Rec Ctr",
+                  "address": "W Murray Ave, Durham, NC",
+                  "url": "https://apm.activecommunities.com/dprplaymore/Activity_Search/gobble-till-you-wobble/19549?locale=en-US",
+                  "cost": "$1.35 for Durham residents, $5.85 for others",
+                  "lat": 36.0299,
+                  "lon": -78.9011,
+                  "ages": "0 - 4",
+                  "registration": "https://apm.activecommunities.com/dprplaymore/Activity_Search/gobble-till-you-wobble/19549?locale=en-US",
+                  "indoor": true,
+                  "area": "durham",
+                  "source": "durham-rec",
+                  "dropIn": false
+                }
+              }
+            ],
+            "area": "durham",
+            "outdoor": false,
+            "source": {
+              "kind": "park",
+              "title": "Rock Quarry Park",
+              "address": "701 Stadium Dr, Durham, NC",
+              "lat": 36.03166363636364,
+              "lon": -78.90176545454545,
+              "url": "https://www.dprplaymore.org/Facilities/Facility/Details/Rock-Quarry-Park-60",
+              "amenities": [
+                "playground",
+                "splashpad",
+                "restroom",
+                "greenway"
+              ],
+              "indoor": false,
+              "area": "durham",
+              "hours": null,
+              "cost": "Free"
+            }
+          },
+          "alternatives": [
+            {
+              "ref": "event:wake:22069",
+              "arrive": "09:20",
+              "leave": "10:50",
+              "why": "Family Storytime at Southeast Regional Library with songs and rhymes, then a playground stop at Garner Jaycee Park.",
+              "tips": [
+                "Bring a snack for the playground.",
+                "Tell {them} the slide is next as you leave the library."
+              ],
+              "interests": [
+                "stories",
+                "music",
+                "movement"
+              ],
+              "also": [
+                {
+                  "ref": "place:garner-jaycee-park",
+                  "source": {
+                    "kind": "park",
+                    "title": "Garner Jaycee Park",
+                    "address": "1300 Vandora Springs Road, Garner NC, 27529",
+                    "lat": 35.69851219013472,
+                    "lon": -78.63043787809701,
+                    "url": "https://www.garnernc.gov/departments/parks-recreation-and-cultural-resources/garner-parks/jaycee-park",
+                    "amenities": [
+                      "playground",
+                      "picnic-shelter"
+                    ],
+                    "indoor": false,
+                    "area": "raleigh",
+                    "hours": null,
+                    "cost": "Free"
+                  }
+                }
+              ],
+              "area": "raleigh",
+              "outdoor": false,
+              "source": {
+                "kind": "event",
+                "title": "Family Storytime",
+                "start": "2026-11-18T09:30:00-05:00",
+                "end": "2026-11-18T10:00:00-05:00",
+                "venue": "Southeast Regional Library",
+                "address": "908 Seventh Avenue, Garner, NC",
+                "url": "https://www.wake.gov/events/family-storytime-4043",
+                "cost": "Free",
+                "lat": 35.7060263640315,
+                "lon": -78.6211614329399,
+                "ages": "Young Children",
+                "registration": null,
+                "indoor": true,
+                "area": "raleigh",
+                "source": "wake-county",
+                "dropIn": false
+              }
+            },
+            {
+              "ref": "event:wake:21996",
+              "arrive": "09:05",
+              "leave": "10:30",
+              "why": "Toddler Storytime at Northeast Regional Library has books, music and movement, then time to play at Tyler Run Park.",
+              "tips": [
+                "Sit close so {they} can join the songs.",
+                "Bring a snack for the park."
+              ],
+              "interests": [
+                "stories",
+                "music",
+                "movement"
+              ],
+              "also": [
+                {
+                  "ref": "place:tyler-run-park",
+                  "source": {
+                    "kind": "park",
+                    "title": "Tyler Run Park",
+                    "address": "830 Pineview Dr, Wake Forest, NC",
+                    "lat": 35.971215429049174,
+                    "lon": -78.5212159679015,
+                    "url": "https://www.wakeforestnc.gov/parks-recreation-cultural-resources/parks-facilities/tyler-run-park",
+                    "amenities": [
+                      "playground",
+                      "picnic-shelter",
+                      "greenway"
+                    ],
+                    "indoor": false,
+                    "area": "north-raleigh",
+                    "hours": null,
+                    "cost": "Free"
+                  }
+                }
+              ],
+              "area": "north-raleigh",
+              "outdoor": false,
+              "source": {
+                "kind": "event",
+                "title": "Toddler Storytime",
+                "start": "2026-11-18T09:15:00-05:00",
+                "end": "2026-11-18T09:45:00-05:00",
+                "venue": "Northeast Regional Library",
+                "address": "14401 Green Elm Lane, Raleigh, NC",
+                "url": "https://www.wake.gov/events/toddler-storytime-1027",
+                "cost": "Free",
+                "lat": 35.9541926372282,
+                "lon": -78.5438512128256,
+                "ages": "Young Children",
+                "registration": null,
+                "indoor": true,
+                "area": "north-raleigh",
+                "source": "wake-county",
+                "dropIn": false
+              }
+            },
+            {
+              "ref": "place:leigh-farm-park",
+              "arrive": "09:30",
+              "leave": "11:00",
+              "why": "An easy outdoor stroll on the greenway, with room for {them} to wander and look around.",
+              "tips": [
+                "Bring a snack and water.",
+                "Let {them} pick the path."
+              ],
+              "interests": [
+                "nature"
+              ],
+              "also": [],
+              "area": "chapel-hill",
+              "outdoor": true,
+              "source": {
+                "kind": "park",
+                "title": "Leigh Farm Park",
+                "address": "370 Leigh Farm Rd, Durham, NC",
+                "lat": 35.92444642857142,
+                "lon": -78.98327714285713,
+                "url": "https://www.dprplaymore.org/Facilities/Facility/Details/Leigh-Farm-Park-40",
+                "amenities": [
+                  "restroom",
+                  "greenway"
+                ],
+                "indoor": false,
+                "area": "chapel-hill",
+                "hours": null,
+                "cost": "Free"
+              }
+            },
+            {
+              "ref": "place:carpenter-park",
+              "arrive": "09:30",
+              "leave": "10:45",
+              "why": "A playground morning in Cary with a picnic shelter for a snack break.",
+              "tips": [
+                "Pack a snack for the picnic shelter.",
+                "Give a five-minute warning before leaving."
+              ],
+              "interests": [
+                "movement",
+                "nature"
+              ],
+              "also": [],
+              "area": "cary-apex",
+              "outdoor": true,
+              "source": {
+                "kind": "park",
+                "title": "Carpenter Park",
+                "address": "4420 Louis Stephens Drive, Cary, NC",
+                "lat": 35.82284995357582,
+                "lon": -78.86424049854338,
+                "url": "http://www.townofcary.org/recreation-enjoyment/parks-greenways-environment/parks/carpenter-park",
+                "amenities": [
+                  "playground",
+                  "picnic-shelter",
+                  "restroom",
+                  "greenway"
+                ],
+                "indoor": false,
+                "area": "cary-apex",
+                "hours": null,
+                "cost": "Free"
+              }
+            }
+          ],
+          "rainBackup": null,
+          "timeline": [
+            {
+              "start": "07:00",
+              "end": "07:30",
+              "kind": "meal",
+              "title": "Up and breakfast"
+            },
+            {
+              "start": "07:30",
+              "end": "09:50",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "09:50",
+              "end": "10:10",
+              "kind": "routine",
+              "title": "Get ready to go",
+              "detail": "Shoes on, the bag, water and a snack."
+            },
+            {
+              "start": "10:10",
+              "end": "10:30",
+              "kind": "travel",
+              "title": "Drive to Rock Quarry Park"
+            },
+            {
+              "start": "10:30",
+              "end": "10:50",
+              "kind": "outing",
+              "title": "Rock Quarry Park"
+            },
+            {
+              "start": "10:50",
+              "end": "11:00",
+              "kind": "travel",
+              "title": "Walk to Edison Johnson Rec Ctr"
+            },
+            {
+              "start": "11:00",
+              "end": "12:00",
+              "kind": "outing",
+              "title": "Gobble Till You Wobble"
+            },
+            {
+              "start": "12:00",
+              "end": "12:10",
+              "kind": "travel",
+              "title": "Walk back to the car"
+            },
+            {
+              "start": "12:10",
+              "end": "12:30",
+              "kind": "travel",
+              "title": "Drive home"
+            },
+            {
+              "start": "12:30",
+              "end": "13:00",
+              "kind": "meal",
+              "title": "Lunch"
+            },
+            {
+              "start": "13:00",
+              "end": "14:00",
+              "kind": "nap",
+              "title": "Nap"
+            },
+            {
+              "start": "14:00",
+              "end": "14:20",
+              "kind": "routine",
+              "title": "Up and a snack"
+            },
+            {
+              "start": "14:20",
+              "end": "18:00",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "18:00",
+              "end": "18:45",
+              "kind": "meal",
+              "title": "Dinner"
+            },
+            {
+              "start": "18:45",
+              "end": "19:30",
+              "kind": "routine",
+              "title": "Bath, books and bed"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "checked": {
+    "at": "2026-11-14T11:03:27.405Z",
+    "forecast": "nws",
+    "weather": {
+      "period": "Wednesday",
+      "tempF": 62,
+      "precipProbability": 0,
+      "shortForecast": "Sunny",
+      "windMph": 3,
+      "windFrom": "NE",
+      "hours": [
+        {
+          "t": "05:00",
+          "tempF": 34,
+          "pop": 0,
+          "cloud": 4
+        },
+        {
+          "t": "06:00",
+          "tempF": 33,
+          "pop": 0,
+          "cloud": 4
+        },
+        {
+          "t": "07:00",
+          "tempF": 34,
+          "pop": 0,
+          "cloud": 6
+        },
+        {
+          "t": "08:00",
+          "tempF": 38,
+          "pop": 0,
+          "cloud": 6
+        },
+        {
+          "t": "09:00",
+          "tempF": 44,
+          "pop": 0,
+          "cloud": 6
+        },
+        {
+          "t": "10:00",
+          "tempF": 50,
+          "pop": 0,
+          "cloud": 6
+        },
+        {
+          "t": "11:00",
+          "tempF": 54,
+          "pop": 0,
+          "cloud": 6
+        },
+        {
+          "t": "12:00",
+          "tempF": 57,
+          "pop": 0,
+          "cloud": 6
+        },
+        {
+          "t": "13:00",
+          "tempF": 59,
+          "pop": 0,
+          "cloud": 2
+        },
+        {
+          "t": "14:00",
+          "tempF": 61,
+          "pop": 0,
+          "cloud": 2
+        },
+        {
+          "t": "15:00",
+          "tempF": 62,
+          "pop": 0,
+          "cloud": 2
+        },
+        {
+          "t": "16:00",
+          "tempF": 61,
+          "pop": 0,
+          "cloud": 2
+        },
+        {
+          "t": "17:00",
+          "tempF": 58,
+          "pop": 0,
+          "cloud": 2
+        },
+        {
+          "t": "18:00",
+          "tempF": 53,
+          "pop": 0,
+          "cloud": 2
+        },
+        {
+          "t": "19:00",
+          "tempF": 49,
+          "pop": 0,
+          "cloud": 3
+        },
+        {
+          "t": "20:00",
+          "tempF": 46,
+          "pop": 0,
+          "cloud": 3
+        },
+        {
+          "t": "21:00",
+          "tempF": 43,
+          "pop": 0,
+          "cloud": 3
+        },
+        {
+          "t": "22:00",
+          "tempF": 41,
+          "pop": 0,
+          "cloud": 3
+        },
+        {
+          "t": "23:00",
+          "tempF": 40,
+          "pop": 0,
+          "cloud": 3
+        }
+      ]
+    },
+    "hidden": []
+  }
+}

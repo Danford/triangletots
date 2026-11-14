@@ -1,0 +1,1134 @@
+{
+  "date": "2026-11-15",
+  "band": "t3",
+  "versions": [
+    {
+      "at": "2026-11-12T01:30:04.806Z",
+      "reason": null,
+      "forecast": "nws",
+      "weather": {
+        "period": "Sunday",
+        "tempF": 55,
+        "precipProbability": 0,
+        "shortForecast": "Sunny",
+        "windMph": 5,
+        "windFrom": "NW",
+        "hours": [
+          {
+            "t": "05:00",
+            "tempF": 35,
+            "pop": 0,
+            "cloud": 1
+          },
+          {
+            "t": "06:00",
+            "tempF": 34,
+            "pop": 0,
+            "cloud": 1
+          },
+          {
+            "t": "07:00",
+            "tempF": 34,
+            "pop": 0,
+            "cloud": 0
+          },
+          {
+            "t": "08:00",
+            "tempF": 37,
+            "pop": 0,
+            "cloud": 0
+          },
+          {
+            "t": "09:00",
+            "tempF": 42,
+            "pop": 0,
+            "cloud": 0
+          },
+          {
+            "t": "10:00",
+            "tempF": 46,
+            "pop": 0,
+            "cloud": 0
+          },
+          {
+            "t": "11:00",
+            "tempF": 49,
+            "pop": 0,
+            "cloud": 0
+          },
+          {
+            "t": "12:00",
+            "tempF": 51,
+            "pop": 0,
+            "cloud": 0
+          },
+          {
+            "t": "13:00",
+            "tempF": 53,
+            "pop": 0,
+            "cloud": 8
+          },
+          {
+            "t": "14:00",
+            "tempF": 54,
+            "pop": 0,
+            "cloud": 8
+          },
+          {
+            "t": "15:00",
+            "tempF": 54,
+            "pop": 0,
+            "cloud": 8
+          },
+          {
+            "t": "16:00",
+            "tempF": 53,
+            "pop": 0,
+            "cloud": 8
+          },
+          {
+            "t": "17:00",
+            "tempF": 50,
+            "pop": 0,
+            "cloud": 8
+          },
+          {
+            "t": "18:00",
+            "tempF": 46,
+            "pop": 0,
+            "cloud": 8
+          },
+          {
+            "t": "19:00",
+            "tempF": 42,
+            "pop": 0,
+            "cloud": 9
+          },
+          {
+            "t": "20:00",
+            "tempF": 40,
+            "pop": 0,
+            "cloud": 9
+          },
+          {
+            "t": "21:00",
+            "tempF": 39,
+            "pop": 0,
+            "cloud": 9
+          },
+          {
+            "t": "22:00",
+            "tempF": 39,
+            "pop": 0,
+            "cloud": 9
+          },
+          {
+            "t": "23:00",
+            "tempF": 38,
+            "pop": 0,
+            "cloud": 9
+          }
+        ]
+      },
+      "plans": [
+        {
+          "nap": "nap",
+          "napLabel": "Nap, 1 to 2:30",
+          "headline": "Trails, nature and a big playground morning",
+          "main": {
+            "ref": "place:harris-lake-county-park",
+            "arrive": "09:30",
+            "leave": "11:45",
+            "why": "Your child can explore the nature areas, walk the greenway and burn off energy at the playground. It is an easy morning that ends well before the nap.",
+            "tips": [
+              "Pack a snack for partway through so {they} can refuel and keep going.",
+              "Let your child pick the first stop and follow {their} lead.",
+              "Give a five-minute warning, then take one last slide on the way out."
+            ],
+            "interests": [
+              "nature",
+              "movement"
+            ],
+            "also": [],
+            "area": "south-wake",
+            "outdoor": true,
+            "source": {
+              "kind": "park",
+              "title": "Harris Lake County Park",
+              "address": "2112 County Park Dr., New Hill, NC  27562",
+              "lat": 35.63024208800726,
+              "lon": -78.91757987745865,
+              "url": "https://www.wakegov.com/departments-government/parks-recreation-and-open-space/all-parks-trails/harris-lake-county-park",
+              "amenities": [
+                "playground",
+                "picnic-shelter",
+                "restroom",
+                "greenway",
+                "nature"
+              ],
+              "indoor": false,
+              "area": "south-wake",
+              "hours": null,
+              "cost": "Free"
+            }
+          },
+          "alternatives": [
+            {
+              "ref": "place:gipson-play-plaza",
+              "arrive": "09:00",
+              "leave": "11:00",
+              "why": "This big destination playground gives your child lots of climbing and sliding with room to run.",
+              "tips": [
+                "Bring a water bottle and a snack for the car ride home.",
+                "Head out with a countdown and a last turn on the slide."
+              ],
+              "interests": [
+                "movement"
+              ],
+              "also": [],
+              "area": "raleigh",
+              "outdoor": true,
+              "source": {
+                "kind": "park",
+                "title": "Gipson Play Plaza at Dix Park",
+                "address": "715 Biggs Dr, Raleigh, NC 27603",
+                "lat": 35.7667,
+                "lon": -78.6539,
+                "url": "https://dixpark.org/gipson-play-plaza",
+                "amenities": [
+                  "playground",
+                  "restroom"
+                ],
+                "indoor": false,
+                "area": "raleigh",
+                "hours": {
+                  "sun": "8 a.m.–9 p.m.",
+                  "mon": "8 a.m.–9 p.m.",
+                  "tue": "8 a.m.–9 p.m.",
+                  "wed": "8 a.m.–9 p.m.",
+                  "thu": "8 a.m.–9 p.m.",
+                  "fri": "8 a.m.–9 p.m.",
+                  "sat": "8 a.m.–9 p.m."
+                },
+                "cost": "Free",
+                "note": "Free; free parking. Big destination playground on the south edge of Dix Park."
+              }
+            },
+            {
+              "ref": "event:weekly:mols-early-childhood:2026-11-15",
+              "arrive": "10:00",
+              "leave": "11:30",
+              "why": "Your toddler can join sensory play, songs and stories in Hideaway Woods. It is a drop-in, so come and go as {they} like{s}.",
+              "tips": [
+                "Visit a station your child likes first, then try something new.",
+                "Leave while {they} {is} still happy so the car ride goes smoothly."
+              ],
+              "interests": [
+                "nature",
+                "stories",
+                "music"
+              ],
+              "also": [],
+              "area": "durham",
+              "outdoor": true,
+              "source": {
+                "kind": "event",
+                "title": "Early Childhood Drop-In",
+                "start": "2026-11-15T09:30:00",
+                "end": "2026-11-15T11:30:00",
+                "venue": "Hideaway Woods, Museum of Life and Science",
+                "address": "433 W Murray Ave, Durham, NC 27704",
+                "url": "https://www.lifeandscience.org/learn/drop-in-programs/",
+                "cost": "Included with museum admission",
+                "lat": 36.0294,
+                "lon": -78.8993,
+                "ages": "young children and their caregivers",
+                "registration": false,
+                "indoor": false,
+                "area": "durham",
+                "source": "weekly",
+                "dropIn": true
+              }
+            },
+            {
+              "ref": "event:wake:24403",
+              "arrive": "15:00",
+              "leave": "16:40",
+              "why": "Your child can watch a local artist, Claudia Finelle, show oil paintings at Eva Perry library from 3:00 to 4:00 pm. Then {they} can play at Apex Community Park.",
+              "tips": [
+                "Ask your child what colors {they} see in the paintings.",
+                "Bring a snack for the park afterward."
+              ],
+              "interests": [
+                "art",
+                "movement"
+              ],
+              "also": [
+                {
+                  "ref": "place:apex-community-park",
+                  "source": {
+                    "kind": "park",
+                    "title": "Apex Community Park",
+                    "address": "2200 Laura Duncan Rd., Apex, NC",
+                    "lat": 35.75461588131496,
+                    "lon": -78.82862025650613,
+                    "url": "http://www.apexnc.org/795/Apex-Community-Park",
+                    "amenities": [
+                      "playground",
+                      "picnic-shelter",
+                      "restroom",
+                      "greenway"
+                    ],
+                    "indoor": false,
+                    "area": "cary-apex",
+                    "hours": null,
+                    "cost": "Free"
+                  }
+                }
+              ],
+              "area": "cary-apex",
+              "outdoor": false,
+              "source": {
+                "kind": "event",
+                "title": "MTA:  Oil Painting",
+                "start": "2026-11-15T15:00:00-05:00",
+                "end": "2026-11-15T16:00:00-05:00",
+                "venue": "Eva Perry Regional Library",
+                "address": "2100 Shepherds Vineyard Drive, Apex, NC",
+                "url": "https://www.wake.gov/events/mta-oil-painting",
+                "cost": "Free",
+                "lat": 35.7437832024768,
+                "lon": -78.8251607833066,
+                "ages": "All Ages",
+                "registration": null,
+                "indoor": true,
+                "area": "cary-apex",
+                "source": "wake-county",
+                "dropIn": false
+              }
+            }
+          ],
+          "rainBackup": null,
+          "timeline": [
+            {
+              "start": "07:00",
+              "end": "07:30",
+              "kind": "meal",
+              "title": "Up and breakfast"
+            },
+            {
+              "start": "07:30",
+              "end": "08:50",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "08:50",
+              "end": "09:10",
+              "kind": "routine",
+              "title": "Get ready to go",
+              "detail": "Shoes on, the bag, water and a snack."
+            },
+            {
+              "start": "09:10",
+              "end": "09:30",
+              "kind": "travel",
+              "title": "Drive to Harris Lake County Park"
+            },
+            {
+              "start": "09:30",
+              "end": "11:45",
+              "kind": "outing",
+              "title": "Harris Lake County Park"
+            },
+            {
+              "start": "11:45",
+              "end": "12:05",
+              "kind": "travel",
+              "title": "Drive home"
+            },
+            {
+              "start": "12:05",
+              "end": "12:15",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "12:15",
+              "end": "12:45",
+              "kind": "meal",
+              "title": "Lunch"
+            },
+            {
+              "start": "12:45",
+              "end": "13:00",
+              "kind": "quiet",
+              "title": "Wind down",
+              "detail": "A couple of books to settle."
+            },
+            {
+              "start": "13:00",
+              "end": "14:30",
+              "kind": "nap",
+              "title": "Nap"
+            },
+            {
+              "start": "14:30",
+              "end": "14:50",
+              "kind": "routine",
+              "title": "Up and a snack"
+            },
+            {
+              "start": "14:50",
+              "end": "18:30",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "18:30",
+              "end": "19:15",
+              "kind": "meal",
+              "title": "Dinner"
+            },
+            {
+              "start": "19:15",
+              "end": "20:00",
+              "kind": "routine",
+              "title": "Bath, books and bed"
+            }
+          ]
+        },
+        {
+          "nap": "quiet",
+          "napLabel": "Quiet time, no sleep",
+          "headline": "Sensory crafts, then playtime at the park",
+          "main": {
+            "ref": "event:reclink:BCCCSENSEXPL-009",
+            "arrive": "13:50",
+            "leave": "15:40",
+            "why": "Families need to sign up for Sensory Explorers, a hands-on class at 2:00 pm with themed stations and simple crafts. Afterward {they} can play at Brier Creek Park.",
+            "tips": [
+              "Sign up ahead of time and bring the $10 fee.",
+              "Let your child stay with the station {they} like{s} best.",
+              "Head to the playground right after to burn off energy."
+            ],
+            "interests": [
+              "art",
+              "science",
+              "movement"
+            ],
+            "also": [
+              {
+                "ref": "place:brier-creek-park",
+                "source": {
+                  "kind": "park",
+                  "title": "Brier Creek Park",
+                  "address": "10810 Globe Rd, Raleigh, NC 27617",
+                  "lat": 35.90051,
+                  "lon": -78.80682,
+                  "url": "https://raleighnc.gov/parks-and-recreation/places/brier-creek-park",
+                  "amenities": [
+                    "community-center",
+                    "picnic-shelter",
+                    "fields",
+                    "playground"
+                  ],
+                  "indoor": false,
+                  "area": "durham",
+                  "hours": null,
+                  "cost": "Free"
+                }
+              }
+            ],
+            "area": "durham",
+            "outdoor": false,
+            "source": {
+              "kind": "event",
+              "title": "Sensory Explorers",
+              "start": "2026-11-15T14:00:00",
+              "end": "2026-11-15T15:00:00",
+              "venue": "Brier Creek Community Center",
+              "address": "10810 Globe Rd, Raleigh, NC 27617",
+              "url": "https://ncraleighweb.myvscloud.com/webtrac/web/search.html?module=AR",
+              "cost": "$10.00",
+              "lat": 35.90051,
+              "lon": -78.80682,
+              "ages": "2-5.99",
+              "registration": "https://ncraleighweb.myvscloud.com/webtrac/web/search.html?module=AR",
+              "indoor": true,
+              "area": "durham",
+              "source": "reclink",
+              "dropIn": false
+            }
+          },
+          "alternatives": [
+            {
+              "ref": "place:gipson-play-plaza",
+              "arrive": "09:00",
+              "leave": "11:00",
+              "why": "A big destination playground with lots of climbing and sliding gives your child a full morning of movement.",
+              "tips": [
+                "Bring a snack and water.",
+                "Give a five-minute warning before you leave."
+              ],
+              "interests": [
+                "movement"
+              ],
+              "also": [],
+              "area": "raleigh",
+              "outdoor": true,
+              "source": {
+                "kind": "park",
+                "title": "Gipson Play Plaza at Dix Park",
+                "address": "715 Biggs Dr, Raleigh, NC 27603",
+                "lat": 35.7667,
+                "lon": -78.6539,
+                "url": "https://dixpark.org/gipson-play-plaza",
+                "amenities": [
+                  "playground",
+                  "restroom"
+                ],
+                "indoor": false,
+                "area": "raleigh",
+                "hours": {
+                  "sun": "8 a.m.–9 p.m.",
+                  "mon": "8 a.m.–9 p.m.",
+                  "tue": "8 a.m.–9 p.m.",
+                  "wed": "8 a.m.–9 p.m.",
+                  "thu": "8 a.m.–9 p.m.",
+                  "fri": "8 a.m.–9 p.m.",
+                  "sat": "8 a.m.–9 p.m."
+                },
+                "cost": "Free",
+                "note": "Free; free parking. Big destination playground on the south edge of Dix Park."
+              }
+            },
+            {
+              "ref": "event:wake:24171",
+              "arrive": "13:50",
+              "leave": "15:20",
+              "why": "ABC Craft and Learn at 2:00 pm is an alphabet craft for ages 3 to 5 with a caregiver. Then your child can play at Middle Creek School Park.",
+              "tips": [
+                "Let your child lead the craft and keep it playful.",
+                "Save a snack for the playground."
+              ],
+              "interests": [
+                "art",
+                "stories",
+                "movement"
+              ],
+              "also": [
+                {
+                  "ref": "place:middle-creek-school-park",
+                  "source": {
+                    "kind": "park",
+                    "title": "Middle Creek School Park",
+                    "address": "151 Middle Creek Park Avenue, Cary, NC",
+                    "lat": 35.662513193321765,
+                    "lon": -78.7643852913516,
+                    "url": "https://www.carync.gov/recreation-enjoyment/parks-greenways-environment/parks/middle-creek-school-park",
+                    "amenities": [
+                      "playground",
+                      "picnic-shelter",
+                      "restroom",
+                      "greenway"
+                    ],
+                    "indoor": false,
+                    "area": "south-wake",
+                    "hours": null,
+                    "cost": "Free"
+                  }
+                }
+              ],
+              "area": "south-wake",
+              "outdoor": false,
+              "source": {
+                "kind": "event",
+                "title": "ABC Craft and Learn",
+                "start": "2026-11-15T14:00:00-05:00",
+                "end": "2026-11-15T14:45:00-05:00",
+                "venue": "Middle Creek Community Library",
+                "address": "111 Middle Creek Park Avenue, Apex, NC",
+                "url": "https://www.wake.gov/events/abc-craft-and-learn-574",
+                "cost": "Free",
+                "lat": 35.6682418176122,
+                "lon": -78.7587045638366,
+                "ages": "Young Children",
+                "registration": null,
+                "indoor": true,
+                "area": "south-wake",
+                "source": "wake-county",
+                "dropIn": false
+              }
+            },
+            {
+              "ref": "place:blue-jay-point-county-park",
+              "arrive": "09:00",
+              "leave": "11:30",
+              "why": "Your child can wander the greenway, look for nature along the way and play at the playground.",
+              "tips": [
+                "Bring a snack to enjoy before you leave.",
+                "Let your child choose which way to walk."
+              ],
+              "interests": [
+                "nature",
+                "movement"
+              ],
+              "also": [],
+              "area": "north-raleigh",
+              "outdoor": true,
+              "source": {
+                "kind": "park",
+                "title": "Blue Jay Point County Park",
+                "address": "3200 Pleasant Union Church Road, Raleigh, NC 27614",
+                "lat": 35.96762827199893,
+                "lon": -78.64454785104198,
+                "url": "https://www.wakegov.com/departments-government/parks-recreation-and-open-space/all-parks-trails/blue-jay-point-county-park",
+                "amenities": [
+                  "playground",
+                  "picnic-shelter",
+                  "restroom",
+                  "greenway",
+                  "nature"
+                ],
+                "indoor": false,
+                "area": "north-raleigh",
+                "hours": null,
+                "cost": "Free"
+              }
+            },
+            {
+              "ref": "event:weekly:mols-early-childhood:2026-11-15",
+              "arrive": "10:00",
+              "leave": "11:30",
+              "why": "Your toddler can drop in for sensory play, songs and stories in Hideaway Woods, and stay as long as {they} like{s}.",
+              "tips": [
+                "Start with whatever catches your child's eye.",
+                "Leave while {they} {is} still happy."
+              ],
+              "interests": [
+                "nature",
+                "stories",
+                "music"
+              ],
+              "also": [],
+              "area": "durham",
+              "outdoor": true,
+              "source": {
+                "kind": "event",
+                "title": "Early Childhood Drop-In",
+                "start": "2026-11-15T09:30:00",
+                "end": "2026-11-15T11:30:00",
+                "venue": "Hideaway Woods, Museum of Life and Science",
+                "address": "433 W Murray Ave, Durham, NC 27704",
+                "url": "https://www.lifeandscience.org/learn/drop-in-programs/",
+                "cost": "Included with museum admission",
+                "lat": 36.0294,
+                "lon": -78.8993,
+                "ages": "young children and their caregivers",
+                "registration": false,
+                "indoor": false,
+                "area": "durham",
+                "source": "weekly",
+                "dropIn": true
+              }
+            }
+          ],
+          "rainBackup": null,
+          "timeline": [
+            {
+              "start": "07:00",
+              "end": "07:30",
+              "kind": "meal",
+              "title": "Up and breakfast"
+            },
+            {
+              "start": "07:30",
+              "end": "11:45",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "11:45",
+              "end": "12:15",
+              "kind": "meal",
+              "title": "Lunch"
+            },
+            {
+              "start": "12:15",
+              "end": "13:00",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "13:00",
+              "end": "13:30",
+              "kind": "quiet",
+              "title": "Quiet time",
+              "detail": "Books or quiet play in their room."
+            },
+            {
+              "start": "13:30",
+              "end": "13:50",
+              "kind": "travel",
+              "title": "Drive to Brier Creek Community Center"
+            },
+            {
+              "start": "13:50",
+              "end": "15:00",
+              "kind": "outing",
+              "title": "Sensory Explorers"
+            },
+            {
+              "start": "15:00",
+              "end": "15:10",
+              "kind": "travel",
+              "title": "Walk to Brier Creek Park"
+            },
+            {
+              "start": "15:10",
+              "end": "15:40",
+              "kind": "outing",
+              "title": "Brier Creek Park"
+            },
+            {
+              "start": "15:40",
+              "end": "15:50",
+              "kind": "travel",
+              "title": "Walk back to the car"
+            },
+            {
+              "start": "15:50",
+              "end": "16:10",
+              "kind": "travel",
+              "title": "Drive home"
+            },
+            {
+              "start": "16:10",
+              "end": "18:00",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "18:00",
+              "end": "18:45",
+              "kind": "meal",
+              "title": "Dinner"
+            },
+            {
+              "start": "18:45",
+              "end": "19:30",
+              "kind": "routine",
+              "title": "Bath, books and bed"
+            }
+          ]
+        },
+        {
+          "nap": "no-nap",
+          "napLabel": "No nap",
+          "headline": "Slides, climbs and a big playground morning",
+          "main": {
+            "ref": "place:gipson-play-plaza",
+            "arrive": "09:30",
+            "leave": "12:00",
+            "why": "This big destination playground gives your child plenty of room to climb, slide and run. It is a fun, free morning.",
+            "tips": [
+              "Bring a water bottle and a snack to share.",
+              "Let your child pick the first thing to try.",
+              "Give a five-minute warning, then one last slide."
+            ],
+            "interests": [
+              "movement"
+            ],
+            "also": [],
+            "area": "raleigh",
+            "outdoor": true,
+            "source": {
+              "kind": "park",
+              "title": "Gipson Play Plaza at Dix Park",
+              "address": "715 Biggs Dr, Raleigh, NC 27603",
+              "lat": 35.7667,
+              "lon": -78.6539,
+              "url": "https://dixpark.org/gipson-play-plaza",
+              "amenities": [
+                "playground",
+                "restroom"
+              ],
+              "indoor": false,
+              "area": "raleigh",
+              "hours": {
+                "sun": "8 a.m.–9 p.m.",
+                "mon": "8 a.m.–9 p.m.",
+                "tue": "8 a.m.–9 p.m.",
+                "wed": "8 a.m.–9 p.m.",
+                "thu": "8 a.m.–9 p.m.",
+                "fri": "8 a.m.–9 p.m.",
+                "sat": "8 a.m.–9 p.m."
+              },
+              "cost": "Free",
+              "note": "Free; free parking. Big destination playground on the south edge of Dix Park."
+            }
+          },
+          "alternatives": [
+            {
+              "ref": "event:wake:24171",
+              "arrive": "13:50",
+              "leave": "15:20",
+              "why": "ABC Craft and Learn at 2:00 pm is an alphabet craft for ages 3 to 5 with a caregiver. Then your child can play at Middle Creek School Park.",
+              "tips": [
+                "Let your child lead the craft.",
+                "Bring a snack for the playground."
+              ],
+              "interests": [
+                "art",
+                "stories",
+                "movement"
+              ],
+              "also": [
+                {
+                  "ref": "place:middle-creek-school-park",
+                  "source": {
+                    "kind": "park",
+                    "title": "Middle Creek School Park",
+                    "address": "151 Middle Creek Park Avenue, Cary, NC",
+                    "lat": 35.662513193321765,
+                    "lon": -78.7643852913516,
+                    "url": "https://www.carync.gov/recreation-enjoyment/parks-greenways-environment/parks/middle-creek-school-park",
+                    "amenities": [
+                      "playground",
+                      "picnic-shelter",
+                      "restroom",
+                      "greenway"
+                    ],
+                    "indoor": false,
+                    "area": "south-wake",
+                    "hours": null,
+                    "cost": "Free"
+                  }
+                }
+              ],
+              "area": "south-wake",
+              "outdoor": false,
+              "source": {
+                "kind": "event",
+                "title": "ABC Craft and Learn",
+                "start": "2026-11-15T14:00:00-05:00",
+                "end": "2026-11-15T14:45:00-05:00",
+                "venue": "Middle Creek Community Library",
+                "address": "111 Middle Creek Park Avenue, Apex, NC",
+                "url": "https://www.wake.gov/events/abc-craft-and-learn-574",
+                "cost": "Free",
+                "lat": 35.6682418176122,
+                "lon": -78.7587045638366,
+                "ages": "Young Children",
+                "registration": null,
+                "indoor": true,
+                "area": "south-wake",
+                "source": "wake-county",
+                "dropIn": false
+              }
+            },
+            {
+              "ref": "event:weekly:mols-early-childhood:2026-11-15",
+              "arrive": "10:00",
+              "leave": "11:30",
+              "why": "Your toddler can drop in for sensory play, songs and stories in Hideaway Woods, and stay as long as {they} like{s}.",
+              "tips": [
+                "Visit the stations your child likes first.",
+                "Leave while {they} {is} still having fun."
+              ],
+              "interests": [
+                "nature",
+                "stories",
+                "music"
+              ],
+              "also": [],
+              "area": "durham",
+              "outdoor": true,
+              "source": {
+                "kind": "event",
+                "title": "Early Childhood Drop-In",
+                "start": "2026-11-15T09:30:00",
+                "end": "2026-11-15T11:30:00",
+                "venue": "Hideaway Woods, Museum of Life and Science",
+                "address": "433 W Murray Ave, Durham, NC 27704",
+                "url": "https://www.lifeandscience.org/learn/drop-in-programs/",
+                "cost": "Included with museum admission",
+                "lat": 36.0294,
+                "lon": -78.8993,
+                "ages": "young children and their caregivers",
+                "registration": false,
+                "indoor": false,
+                "area": "durham",
+                "source": "weekly",
+                "dropIn": true
+              }
+            },
+            {
+              "ref": "place:apex-nature-park",
+              "arrive": "09:30",
+              "leave": "11:30",
+              "why": "Your child can walk the greenway and look for sticks, leaves and birds in a nature park.",
+              "tips": [
+                "Bring a snack and eat it on a picnic stop.",
+                "Let {them} lead the walk."
+              ],
+              "interests": [
+                "nature"
+              ],
+              "also": [],
+              "area": "cary-apex",
+              "outdoor": true,
+              "source": {
+                "kind": "park",
+                "title": "Apex Nature Park",
+                "address": "2600 Evans Rd., Apex, NC",
+                "lat": 35.71709646233568,
+                "lon": -78.90520368087866,
+                "url": "https://www.apexnc.org/800/Nature-Park-Seymour-Athletic-Fields",
+                "amenities": [
+                  "picnic-shelter",
+                  "restroom",
+                  "greenway",
+                  "nature"
+                ],
+                "indoor": false,
+                "area": "cary-apex",
+                "hours": null,
+                "cost": "Free"
+              }
+            },
+            {
+              "ref": "place:wendell-park",
+              "arrive": "09:30",
+              "leave": "11:30",
+              "why": "This neighborhood park has a playground and greenway, which makes it an easy morning close to home.",
+              "tips": [
+                "Pack a snack to eat before you leave.",
+                "Say goodbye to each favorite spot on the way out."
+              ],
+              "interests": [
+                "movement",
+                "nature"
+              ],
+              "also": [],
+              "area": "east-wake",
+              "outdoor": true,
+              "source": {
+                "kind": "park",
+                "title": "Wendell Park",
+                "address": "601 W. Third Street, Wendell, NC",
+                "lat": 35.78171909213524,
+                "lon": -78.37858290652449,
+                "url": "https://townofwendellnc.gov/departments/parks_and_recreation/facilities___rentals/index.php",
+                "amenities": [
+                  "playground",
+                  "picnic-shelter",
+                  "restroom",
+                  "greenway"
+                ],
+                "indoor": false,
+                "area": "east-wake",
+                "hours": null,
+                "cost": "Free"
+              }
+            }
+          ],
+          "rainBackup": null,
+          "timeline": [
+            {
+              "start": "07:00",
+              "end": "07:30",
+              "kind": "meal",
+              "title": "Up and breakfast"
+            },
+            {
+              "start": "07:30",
+              "end": "08:50",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "08:50",
+              "end": "09:10",
+              "kind": "routine",
+              "title": "Get ready to go",
+              "detail": "Shoes on, the bag, water and a snack."
+            },
+            {
+              "start": "09:10",
+              "end": "09:30",
+              "kind": "travel",
+              "title": "Drive to Gipson Play Plaza at Dix Park"
+            },
+            {
+              "start": "09:30",
+              "end": "12:00",
+              "kind": "outing",
+              "title": "Gipson Play Plaza at Dix Park"
+            },
+            {
+              "start": "12:00",
+              "end": "12:20",
+              "kind": "travel",
+              "title": "Drive home"
+            },
+            {
+              "start": "12:20",
+              "end": "12:50",
+              "kind": "meal",
+              "title": "Lunch"
+            },
+            {
+              "start": "12:50",
+              "end": "18:00",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "18:00",
+              "end": "18:45",
+              "kind": "meal",
+              "title": "Dinner"
+            },
+            {
+              "start": "18:45",
+              "end": "19:30",
+              "kind": "routine",
+              "title": "Bath, books and bed"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "checked": {
+    "at": "2026-11-14T11:03:30.506Z",
+    "forecast": "nws",
+    "weather": {
+      "period": "Sunday",
+      "tempF": 57,
+      "precipProbability": 0,
+      "shortForecast": "Widespread Frost then Sunny",
+      "windMph": 6,
+      "windFrom": "NW",
+      "hours": [
+        {
+          "t": "05:00",
+          "tempF": 35,
+          "pop": 0,
+          "cloud": 3
+        },
+        {
+          "t": "06:00",
+          "tempF": 35,
+          "pop": 0,
+          "cloud": 4
+        },
+        {
+          "t": "07:00",
+          "tempF": 34,
+          "pop": 0,
+          "cloud": 4
+        },
+        {
+          "t": "08:00",
+          "tempF": 36,
+          "pop": 0,
+          "cloud": 2
+        },
+        {
+          "t": "09:00",
+          "tempF": 42,
+          "pop": 0,
+          "cloud": 1
+        },
+        {
+          "t": "10:00",
+          "tempF": 47,
+          "pop": 0,
+          "cloud": 2
+        },
+        {
+          "t": "11:00",
+          "tempF": 51,
+          "pop": 0,
+          "cloud": 2
+        },
+        {
+          "t": "12:00",
+          "tempF": 53,
+          "pop": 0,
+          "cloud": 3
+        },
+        {
+          "t": "13:00",
+          "tempF": 55,
+          "pop": 0,
+          "cloud": 6
+        },
+        {
+          "t": "14:00",
+          "tempF": 56,
+          "pop": 0,
+          "cloud": 5
+        },
+        {
+          "t": "15:00",
+          "tempF": 56,
+          "pop": 0,
+          "cloud": 3
+        },
+        {
+          "t": "16:00",
+          "tempF": 57,
+          "pop": 0,
+          "cloud": 3
+        },
+        {
+          "t": "17:00",
+          "tempF": 53,
+          "pop": 0,
+          "cloud": 2
+        },
+        {
+          "t": "18:00",
+          "tempF": 49,
+          "pop": 0,
+          "cloud": 2
+        },
+        {
+          "t": "19:00",
+          "tempF": 47,
+          "pop": 0,
+          "cloud": 2
+        },
+        {
+          "t": "20:00",
+          "tempF": 43,
+          "pop": 0,
+          "cloud": 1
+        },
+        {
+          "t": "21:00",
+          "tempF": 42,
+          "pop": 0,
+          "cloud": 4
+        },
+        {
+          "t": "22:00",
+          "tempF": 40,
+          "pop": 0,
+          "cloud": 7
+        },
+        {
+          "t": "23:00",
+          "tempF": 39,
+          "pop": 0,
+          "cloud": 8
+        }
+      ]
+    },
+    "hidden": []
+  }
+}

@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Triangle Tots//triangletots.com//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:2026-11-26-jc-raulston-arboretum-1455-1610@triangletots.com
+DTSTAMP:20261114T100000Z
+DTSTART:20261126T195500Z
+DTEND:20261126T211000Z
+SUMMARY:JC Raulston Arboretum
+LOCATION:4415 Beryl Rd\, Raleigh\, NC 27606
+DESCRIPTION:https://jcra.ncsu.edu/\nThe whole day: https://triangletots.com
+ /2026-11-26/t4/\nTimes and details can change. Check the event or place be
+ fore you go.
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,1048 @@
+{
+  "date": "2026-11-15",
+  "band": "t2",
+  "versions": [
+    {
+      "at": "2026-11-12T01:34:59.441Z",
+      "reason": null,
+      "forecast": "nws",
+      "weather": {
+        "period": "Sunday",
+        "tempF": 55,
+        "precipProbability": 0,
+        "shortForecast": "Sunny",
+        "windMph": 5,
+        "windFrom": "NW",
+        "hours": [
+          {
+            "t": "05:00",
+            "tempF": 35,
+            "pop": 0,
+            "cloud": 1
+          },
+          {
+            "t": "06:00",
+            "tempF": 34,
+            "pop": 0,
+            "cloud": 1
+          },
+          {
+            "t": "07:00",
+            "tempF": 34,
+            "pop": 0,
+            "cloud": 0
+          },
+          {
+            "t": "08:00",
+            "tempF": 37,
+            "pop": 0,
+            "cloud": 0
+          },
+          {
+            "t": "09:00",
+            "tempF": 42,
+            "pop": 0,
+            "cloud": 0
+          },
+          {
+            "t": "10:00",
+            "tempF": 46,
+            "pop": 0,
+            "cloud": 0
+          },
+          {
+            "t": "11:00",
+            "tempF": 49,
+            "pop": 0,
+            "cloud": 0
+          },
+          {
+            "t": "12:00",
+            "tempF": 51,
+            "pop": 0,
+            "cloud": 0
+          },
+          {
+            "t": "13:00",
+            "tempF": 53,
+            "pop": 0,
+            "cloud": 8
+          },
+          {
+            "t": "14:00",
+            "tempF": 54,
+            "pop": 0,
+            "cloud": 8
+          },
+          {
+            "t": "15:00",
+            "tempF": 54,
+            "pop": 0,
+            "cloud": 8
+          },
+          {
+            "t": "16:00",
+            "tempF": 53,
+            "pop": 0,
+            "cloud": 8
+          },
+          {
+            "t": "17:00",
+            "tempF": 50,
+            "pop": 0,
+            "cloud": 8
+          },
+          {
+            "t": "18:00",
+            "tempF": 46,
+            "pop": 0,
+            "cloud": 8
+          },
+          {
+            "t": "19:00",
+            "tempF": 42,
+            "pop": 0,
+            "cloud": 9
+          },
+          {
+            "t": "20:00",
+            "tempF": 40,
+            "pop": 0,
+            "cloud": 9
+          },
+          {
+            "t": "21:00",
+            "tempF": 39,
+            "pop": 0,
+            "cloud": 9
+          },
+          {
+            "t": "22:00",
+            "tempF": 39,
+            "pop": 0,
+            "cloud": 9
+          },
+          {
+            "t": "23:00",
+            "tempF": 38,
+            "pop": 0,
+            "cloud": 9
+          }
+        ]
+      },
+      "plans": [
+        {
+          "nap": "early-nap",
+          "napLabel": "One nap, 12 to 2",
+          "headline": "Learn about bison on a morning outside",
+          "main": {
+            "ref": "event:wake-parks:9411:2026-11-15",
+            "arrive": "09:30",
+            "leave": "11:00",
+            "why": "Your toddler can drop in at the American Bison Exploration Station at Historic Yates Mill County Park and explore at {their} own pace. It is free and outdoors.",
+            "tips": [
+              "Bring a snack and eat it before the drive home.",
+              "Ask your child to point out what is big and what is small.",
+              "Give a five-minute warning, then name one last thing to look at."
+            ],
+            "interests": [
+              "animals",
+              "nature",
+              "science"
+            ],
+            "also": [],
+            "area": "raleigh",
+            "outdoor": true,
+            "source": {
+              "kind": "event",
+              "title": "Exploration Station: American Bison",
+              "start": "2026-11-15T08:30:00",
+              "end": "2026-11-15T17:00:00",
+              "venue": "Historic Yates Mill County Park",
+              "address": "4620 Lake Wheeler Rd., Raleigh, NC  27603",
+              "url": "https://apm.activecommunities.com/wakeparks/Activity_Search/exploration-station-american-bison/9411?locale=en-US",
+              "cost": "Free",
+              "lat": 35.72157134974476,
+              "lon": -78.68526087901417,
+              "ages": null,
+              "registration": false,
+              "indoor": false,
+              "area": "raleigh",
+              "source": "wake-parks",
+              "dropIn": true
+            }
+          },
+          "alternatives": [
+            {
+              "ref": "place:pullen-park-amusements",
+              "arrive": "10:00",
+              "leave": "11:15",
+              "why": "A carousel and train ride, plus the playground, make a classic morning for a 2-year-old.",
+              "tips": [
+                "Let {them} choose the first ride.",
+                "Snack before the rides, not during."
+              ],
+              "interests": [
+                "vehicles",
+                "movement"
+              ],
+              "also": [],
+              "area": "raleigh",
+              "outdoor": true,
+              "source": {
+                "kind": "park",
+                "title": "Pullen Park Amusements",
+                "address": "410 Park Ave, Raleigh, NC 27606",
+                "lat": 35.7806,
+                "lon": -78.66396,
+                "url": "https://raleighnc.gov/parks-and-recreation/places/pullen-park-amusements",
+                "amenities": [
+                  "carousel",
+                  "boating",
+                  "train",
+                  "amusements",
+                  "courts",
+                  "playground",
+                  "picnic-shelter"
+                ],
+                "indoor": false,
+                "area": "raleigh",
+                "hours": {
+                  "mon": "10 a.m.–6 p.m.",
+                  "tue": "10 a.m.–6 p.m.",
+                  "wed": "10 a.m.–6 p.m.",
+                  "thu": "10 a.m.–6 p.m.",
+                  "fri": "10 a.m.–6 p.m.",
+                  "sat": "10 a.m.–6 p.m.",
+                  "sun": "10 a.m.–6 p.m."
+                },
+                "cost": "Free to get in; rides $2 a ticket"
+              }
+            },
+            {
+              "ref": "place:apex-nature-park",
+              "arrive": "09:00",
+              "leave": "10:30",
+              "why": "A slow walk on the greenway to look for leaves, sticks and birds.",
+              "tips": [
+                "Bring a small bag for collecting leaves.",
+                "Snack at the picnic shelter before you leave."
+              ],
+              "interests": [
+                "nature",
+                "movement"
+              ],
+              "also": [],
+              "area": "cary-apex",
+              "outdoor": true,
+              "source": {
+                "kind": "park",
+                "title": "Apex Nature Park",
+                "address": "2600 Evans Rd., Apex, NC",
+                "lat": 35.71709646233568,
+                "lon": -78.90520368087866,
+                "url": "https://www.apexnc.org/800/Nature-Park-Seymour-Athletic-Fields",
+                "amenities": [
+                  "picnic-shelter",
+                  "restroom",
+                  "greenway",
+                  "nature"
+                ],
+                "indoor": false,
+                "area": "cary-apex",
+                "hours": null,
+                "cost": "Free"
+              }
+            },
+            {
+              "ref": "place:rock-quarry-park",
+              "arrive": "09:00",
+              "leave": "10:30",
+              "why": "{They} can climb and slide on the playground, then stroll the greenway.",
+              "tips": [
+                "Bring a snack for the end of the visit.",
+                "Walk to the car along the greenway to make leaving easier."
+              ],
+              "interests": [
+                "movement",
+                "nature"
+              ],
+              "also": [],
+              "area": "durham",
+              "outdoor": true,
+              "source": {
+                "kind": "park",
+                "title": "Rock Quarry Park",
+                "address": "701 Stadium Dr, Durham, NC",
+                "lat": 36.03166363636364,
+                "lon": -78.90176545454545,
+                "url": "https://www.dprplaymore.org/Facilities/Facility/Details/Rock-Quarry-Park-60",
+                "amenities": [
+                  "playground",
+                  "splashpad",
+                  "restroom",
+                  "greenway"
+                ],
+                "indoor": false,
+                "area": "durham",
+                "hours": null,
+                "cost": "Free"
+              }
+            }
+          ],
+          "rainBackup": null,
+          "timeline": [
+            {
+              "start": "07:00",
+              "end": "07:30",
+              "kind": "meal",
+              "title": "Up and breakfast"
+            },
+            {
+              "start": "07:30",
+              "end": "08:50",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "08:50",
+              "end": "09:10",
+              "kind": "routine",
+              "title": "Get ready to go",
+              "detail": "Shoes on, the bag, water and a snack."
+            },
+            {
+              "start": "09:10",
+              "end": "09:30",
+              "kind": "travel",
+              "title": "Drive to Historic Yates Mill County Park"
+            },
+            {
+              "start": "09:30",
+              "end": "11:00",
+              "kind": "outing",
+              "title": "Historic Yates Mill County Park"
+            },
+            {
+              "start": "11:00",
+              "end": "11:20",
+              "kind": "travel",
+              "title": "Drive home"
+            },
+            {
+              "start": "11:20",
+              "end": "11:50",
+              "kind": "meal",
+              "title": "Lunch"
+            },
+            {
+              "start": "11:50",
+              "end": "12:00",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "12:00",
+              "end": "14:00",
+              "kind": "nap",
+              "title": "Nap"
+            },
+            {
+              "start": "14:00",
+              "end": "14:20",
+              "kind": "routine",
+              "title": "Up and a snack"
+            },
+            {
+              "start": "14:20",
+              "end": "18:00",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "18:00",
+              "end": "18:45",
+              "kind": "meal",
+              "title": "Dinner"
+            },
+            {
+              "start": "18:45",
+              "end": "19:30",
+              "kind": "routine",
+              "title": "Bath, books and bed"
+            }
+          ]
+        },
+        {
+          "nap": "late-nap",
+          "napLabel": "One nap, 1 to 3",
+          "headline": "Garden paths and forest trails to explore",
+          "main": {
+            "ref": "place:nc-botanical-garden",
+            "arrive": "09:30",
+            "leave": "11:30",
+            "why": "Your toddler can wander the display gardens and the nature trails through the forest behind them. It is free.",
+            "tips": [
+              "Let {them} lead on the trails and stop wherever {they} like{s}.",
+              "Bring a snack to eat before you leave.",
+              "Pick one last leaf to carry back to the car."
+            ],
+            "interests": [
+              "nature",
+              "movement"
+            ],
+            "also": [],
+            "area": "chapel-hill",
+            "outdoor": true,
+            "source": {
+              "kind": "garden",
+              "title": "NC Botanical Garden",
+              "address": "100 Old Mason Farm Rd, Chapel Hill, NC 27517",
+              "lat": 35.9011,
+              "lon": -79.0319,
+              "url": "https://ncbg.unc.edu/visit/",
+              "amenities": [
+                "garden",
+                "nature",
+                "restroom"
+              ],
+              "indoor": false,
+              "area": "chapel-hill",
+              "cost": "Free",
+              "note": "Free. Display gardens, and nature trails through the forest behind them."
+            }
+          },
+          "alternatives": [
+            {
+              "ref": "place:pullen-park-amusements",
+              "arrive": "10:00",
+              "leave": "12:00",
+              "why": "{They} can ride the carousel and the train, then play on the playground.",
+              "tips": [
+                "Let {them} pick the first ride.",
+                "Bring a snack for a break between rides."
+              ],
+              "interests": [
+                "vehicles",
+                "movement"
+              ],
+              "also": [],
+              "area": "raleigh",
+              "outdoor": true,
+              "source": {
+                "kind": "park",
+                "title": "Pullen Park Amusements",
+                "address": "410 Park Ave, Raleigh, NC 27606",
+                "lat": 35.7806,
+                "lon": -78.66396,
+                "url": "https://raleighnc.gov/parks-and-recreation/places/pullen-park-amusements",
+                "amenities": [
+                  "carousel",
+                  "boating",
+                  "train",
+                  "amusements",
+                  "courts",
+                  "playground",
+                  "picnic-shelter"
+                ],
+                "indoor": false,
+                "area": "raleigh",
+                "hours": {
+                  "mon": "10 a.m.–6 p.m.",
+                  "tue": "10 a.m.–6 p.m.",
+                  "wed": "10 a.m.–6 p.m.",
+                  "thu": "10 a.m.–6 p.m.",
+                  "fri": "10 a.m.–6 p.m.",
+                  "sat": "10 a.m.–6 p.m.",
+                  "sun": "10 a.m.–6 p.m."
+                },
+                "cost": "Free to get in; rides $2 a ticket"
+              }
+            },
+            {
+              "ref": "place:apex-nature-park",
+              "arrive": "09:30",
+              "leave": "11:00",
+              "why": "A greenway walk with leaves, sticks and birdsong to look for.",
+              "tips": [
+                "Bring a bag for treasures.",
+                "Snack at the picnic shelter before you leave."
+              ],
+              "interests": [
+                "nature",
+                "movement"
+              ],
+              "also": [],
+              "area": "cary-apex",
+              "outdoor": true,
+              "source": {
+                "kind": "park",
+                "title": "Apex Nature Park",
+                "address": "2600 Evans Rd., Apex, NC",
+                "lat": 35.71709646233568,
+                "lon": -78.90520368087866,
+                "url": "https://www.apexnc.org/800/Nature-Park-Seymour-Athletic-Fields",
+                "amenities": [
+                  "picnic-shelter",
+                  "restroom",
+                  "greenway",
+                  "nature"
+                ],
+                "indoor": false,
+                "area": "cary-apex",
+                "hours": null,
+                "cost": "Free"
+              }
+            },
+            {
+              "ref": "place:forest-hills-park",
+              "arrive": "09:30",
+              "leave": "11:00",
+              "why": "Playground time and a greenway walk in Durham.",
+              "tips": [
+                "Bring a snack and a water bottle.",
+                "Give a five-minute warning before you walk back to the car."
+              ],
+              "interests": [
+                "movement",
+                "nature"
+              ],
+              "also": [],
+              "area": "durham",
+              "outdoor": true,
+              "source": {
+                "kind": "park",
+                "title": "Forest Hills Park",
+                "address": "1639 University Dr, Durham, NC",
+                "lat": 35.98149000000001,
+                "lon": -78.91138333333333,
+                "url": "https://www.dprplaymore.org/Facilities/Facility/Details/Forest-Hills-Park-24",
+                "amenities": [
+                  "playground",
+                  "splashpad",
+                  "picnic-shelter",
+                  "restroom",
+                  "greenway"
+                ],
+                "indoor": false,
+                "area": "durham",
+                "hours": null,
+                "cost": "Free"
+              }
+            }
+          ],
+          "rainBackup": null,
+          "timeline": [
+            {
+              "start": "07:00",
+              "end": "07:30",
+              "kind": "meal",
+              "title": "Up and breakfast"
+            },
+            {
+              "start": "07:30",
+              "end": "08:50",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "08:50",
+              "end": "09:10",
+              "kind": "routine",
+              "title": "Get ready to go",
+              "detail": "Shoes on, the bag, water and a snack."
+            },
+            {
+              "start": "09:10",
+              "end": "09:30",
+              "kind": "travel",
+              "title": "Drive to NC Botanical Garden"
+            },
+            {
+              "start": "09:30",
+              "end": "11:30",
+              "kind": "outing",
+              "title": "NC Botanical Garden"
+            },
+            {
+              "start": "11:30",
+              "end": "11:50",
+              "kind": "travel",
+              "title": "Drive home"
+            },
+            {
+              "start": "11:50",
+              "end": "12:15",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "12:15",
+              "end": "12:45",
+              "kind": "meal",
+              "title": "Lunch"
+            },
+            {
+              "start": "12:45",
+              "end": "13:00",
+              "kind": "quiet",
+              "title": "Wind down",
+              "detail": "A couple of books to settle."
+            },
+            {
+              "start": "13:00",
+              "end": "15:00",
+              "kind": "nap",
+              "title": "Nap"
+            },
+            {
+              "start": "15:00",
+              "end": "15:20",
+              "kind": "routine",
+              "title": "Up and a snack"
+            },
+            {
+              "start": "15:20",
+              "end": "18:30",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "18:30",
+              "end": "19:15",
+              "kind": "meal",
+              "title": "Dinner"
+            },
+            {
+              "start": "19:15",
+              "end": "20:00",
+              "kind": "routine",
+              "title": "Bath, books and bed"
+            }
+          ]
+        },
+        {
+          "nap": "short-nap",
+          "napLabel": "Short nap, 1 to 2",
+          "headline": "Play at the park, then watch an artist paint",
+          "main": {
+            "ref": "place:apex-community-park",
+            "arrive": "14:30",
+            "leave": "16:00",
+            "why": "Your toddler plays at Apex Community Park first, then visits the MTA: Oil Painting hour at Eva Perry Regional Library to see the work of local artist Claudia Finelle.",
+            "tips": [
+              "Snack at the park before you go inside.",
+              "Ask {them} which color is {their} favorite in the paintings.",
+              "Keep the library visit short and leave when {they} {is} ready."
+            ],
+            "interests": [
+              "movement",
+              "art"
+            ],
+            "also": [
+              {
+                "ref": "event:wake:24403",
+                "source": {
+                  "kind": "event",
+                  "title": "MTA:  Oil Painting",
+                  "start": "2026-11-15T15:00:00-05:00",
+                  "end": "2026-11-15T16:00:00-05:00",
+                  "venue": "Eva Perry Regional Library",
+                  "address": "2100 Shepherds Vineyard Drive, Apex, NC",
+                  "url": "https://www.wake.gov/events/mta-oil-painting",
+                  "cost": "Free",
+                  "lat": 35.7437832024768,
+                  "lon": -78.8251607833066,
+                  "ages": "All Ages",
+                  "registration": null,
+                  "indoor": true,
+                  "area": "cary-apex",
+                  "source": "wake-county",
+                  "dropIn": false
+                }
+              }
+            ],
+            "area": "cary-apex",
+            "outdoor": false,
+            "source": {
+              "kind": "park",
+              "title": "Apex Community Park",
+              "address": "2200 Laura Duncan Rd., Apex, NC",
+              "lat": 35.75461588131496,
+              "lon": -78.82862025650613,
+              "url": "http://www.apexnc.org/795/Apex-Community-Park",
+              "amenities": [
+                "playground",
+                "picnic-shelter",
+                "restroom",
+                "greenway"
+              ],
+              "indoor": false,
+              "area": "cary-apex",
+              "hours": null,
+              "cost": "Free"
+            }
+          },
+          "alternatives": [
+            {
+              "ref": "place:pullen-park-amusements",
+              "arrive": "10:00",
+              "leave": "12:00",
+              "why": "Carousel and train rides, plus a playground, make a happy morning for a 2-year-old.",
+              "tips": [
+                "Let {them} choose the first ride.",
+                "Snack before the rides."
+              ],
+              "interests": [
+                "vehicles",
+                "movement"
+              ],
+              "also": [],
+              "area": "raleigh",
+              "outdoor": true,
+              "source": {
+                "kind": "park",
+                "title": "Pullen Park Amusements",
+                "address": "410 Park Ave, Raleigh, NC 27606",
+                "lat": 35.7806,
+                "lon": -78.66396,
+                "url": "https://raleighnc.gov/parks-and-recreation/places/pullen-park-amusements",
+                "amenities": [
+                  "carousel",
+                  "boating",
+                  "train",
+                  "amusements",
+                  "courts",
+                  "playground",
+                  "picnic-shelter"
+                ],
+                "indoor": false,
+                "area": "raleigh",
+                "hours": {
+                  "mon": "10 a.m.–6 p.m.",
+                  "tue": "10 a.m.–6 p.m.",
+                  "wed": "10 a.m.–6 p.m.",
+                  "thu": "10 a.m.–6 p.m.",
+                  "fri": "10 a.m.–6 p.m.",
+                  "sat": "10 a.m.–6 p.m.",
+                  "sun": "10 a.m.–6 p.m."
+                },
+                "cost": "Free to get in; rides $2 a ticket"
+              }
+            },
+            {
+              "ref": "place:nc-botanical-garden",
+              "arrive": "09:30",
+              "leave": "11:00",
+              "why": "{They} can wander the display gardens and the forest trails behind them at {their} own pace. It is free.",
+              "tips": [
+                "Bring a snack for a break on the trail.",
+                "Let {them} choose which way to turn."
+              ],
+              "interests": [
+                "nature",
+                "movement"
+              ],
+              "also": [],
+              "area": "chapel-hill",
+              "outdoor": true,
+              "source": {
+                "kind": "garden",
+                "title": "NC Botanical Garden",
+                "address": "100 Old Mason Farm Rd, Chapel Hill, NC 27517",
+                "lat": 35.9011,
+                "lon": -79.0319,
+                "url": "https://ncbg.unc.edu/visit/",
+                "amenities": [
+                  "garden",
+                  "nature",
+                  "restroom"
+                ],
+                "indoor": false,
+                "area": "chapel-hill",
+                "cost": "Free",
+                "note": "Free. Display gardens, and nature trails through the forest behind them."
+              }
+            },
+            {
+              "ref": "place:rock-quarry-park",
+              "arrive": "09:00",
+              "leave": "11:00",
+              "why": "{They} play at Rock Quarry Park, then join the Early Childhood Drop-In at Hideaway Woods for sensory play, songs and stories. It is included with museum admission.",
+              "tips": [
+                "Come and go from the drop-in as {they} like{s}.",
+                "Bring a snack for the park."
+              ],
+              "interests": [
+                "music",
+                "stories",
+                "nature"
+              ],
+              "also": [
+                {
+                  "ref": "event:weekly:mols-early-childhood:2026-11-15",
+                  "source": {
+                    "kind": "event",
+                    "title": "Early Childhood Drop-In",
+                    "start": "2026-11-15T09:30:00",
+                    "end": "2026-11-15T11:30:00",
+                    "venue": "Hideaway Woods, Museum of Life and Science",
+                    "address": "433 W Murray Ave, Durham, NC 27704",
+                    "url": "https://www.lifeandscience.org/learn/drop-in-programs/",
+                    "cost": "Included with museum admission",
+                    "lat": 36.0294,
+                    "lon": -78.8993,
+                    "ages": "young children and their caregivers",
+                    "registration": false,
+                    "indoor": false,
+                    "area": "durham",
+                    "source": "weekly",
+                    "dropIn": true
+                  }
+                }
+              ],
+              "area": "durham",
+              "outdoor": true,
+              "source": {
+                "kind": "park",
+                "title": "Rock Quarry Park",
+                "address": "701 Stadium Dr, Durham, NC",
+                "lat": 36.03166363636364,
+                "lon": -78.90176545454545,
+                "url": "https://www.dprplaymore.org/Facilities/Facility/Details/Rock-Quarry-Park-60",
+                "amenities": [
+                  "playground",
+                  "splashpad",
+                  "restroom",
+                  "greenway"
+                ],
+                "indoor": false,
+                "area": "durham",
+                "hours": null,
+                "cost": "Free"
+              }
+            }
+          ],
+          "rainBackup": null,
+          "timeline": [
+            {
+              "start": "07:00",
+              "end": "07:30",
+              "kind": "meal",
+              "title": "Up and breakfast"
+            },
+            {
+              "start": "07:30",
+              "end": "12:15",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "12:15",
+              "end": "12:45",
+              "kind": "meal",
+              "title": "Lunch"
+            },
+            {
+              "start": "12:45",
+              "end": "13:00",
+              "kind": "quiet",
+              "title": "Wind down",
+              "detail": "A couple of books to settle."
+            },
+            {
+              "start": "13:00",
+              "end": "14:00",
+              "kind": "nap",
+              "title": "Nap"
+            },
+            {
+              "start": "14:00",
+              "end": "14:10",
+              "kind": "routine",
+              "title": "Up, a snack and out the door",
+              "detail": "Have the bag packed and by the door before the nap."
+            },
+            {
+              "start": "14:10",
+              "end": "14:30",
+              "kind": "travel",
+              "title": "Drive to Apex Community Park"
+            },
+            {
+              "start": "14:30",
+              "end": "14:50",
+              "kind": "outing",
+              "title": "Apex Community Park"
+            },
+            {
+              "start": "14:50",
+              "end": "15:00",
+              "kind": "travel",
+              "title": "Drive to Eva Perry Regional Library"
+            },
+            {
+              "start": "15:00",
+              "end": "16:00",
+              "kind": "outing",
+              "title": "MTA:  Oil Painting"
+            },
+            {
+              "start": "16:00",
+              "end": "16:20",
+              "kind": "travel",
+              "title": "Drive home"
+            },
+            {
+              "start": "16:20",
+              "end": "18:00",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "18:00",
+              "end": "18:45",
+              "kind": "meal",
+              "title": "Dinner"
+            },
+            {
+              "start": "18:45",
+              "end": "19:30",
+              "kind": "routine",
+              "title": "Bath, books and bed"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "checked": {
+    "at": "2026-11-14T11:03:27.363Z",
+    "forecast": "nws",
+    "weather": {
+      "period": "Sunday",
+      "tempF": 57,
+      "precipProbability": 0,
+      "shortForecast": "Widespread Frost then Sunny",
+      "windMph": 6,
+      "windFrom": "NW",
+      "hours": [
+        {
+          "t": "05:00",
+          "tempF": 35,
+          "pop": 0,
+          "cloud": 3
+        },
+        {
+          "t": "06:00",
+          "tempF": 35,
+          "pop": 0,
+          "cloud": 4
+        },
+        {
+          "t": "07:00",
+          "tempF": 34,
+          "pop": 0,
+          "cloud": 4
+        },
+        {
+          "t": "08:00",
+          "tempF": 36,
+          "pop": 0,
+          "cloud": 2
+        },
+        {
+          "t": "09:00",
+          "tempF": 42,
+          "pop": 0,
+          "cloud": 1
+        },
+        {
+          "t": "10:00",
+          "tempF": 47,
+          "pop": 0,
+          "cloud": 2
+        },
+        {
+          "t": "11:00",
+          "tempF": 51,
+          "pop": 0,
+          "cloud": 2
+        },
+        {
+          "t": "12:00",
+          "tempF": 53,
+          "pop": 0,
+          "cloud": 3
+        },
+        {
+          "t": "13:00",
+          "tempF": 55,
+          "pop": 0,
+          "cloud": 6
+        },
+        {
+          "t": "14:00",
+          "tempF": 56,
+          "pop": 0,
+          "cloud": 5
+        },
+        {
+          "t": "15:00",
+          "tempF": 56,
+          "pop": 0,
+          "cloud": 3
+        },
+        {
+          "t": "16:00",
+          "tempF": 57,
+          "pop": 0,
+          "cloud": 3
+        },
+        {
+          "t": "17:00",
+          "tempF": 53,
+          "pop": 0,
+          "cloud": 2
+        },
+        {
+          "t": "18:00",
+          "tempF": 49,
+          "pop": 0,
+          "cloud": 2
+        },
+        {
+          "t": "19:00",
+          "tempF": 47,
+          "pop": 0,
+          "cloud": 2
+        },
+        {
+          "t": "20:00",
+          "tempF": 43,
+          "pop": 0,
+          "cloud": 1
+        },
+        {
+          "t": "21:00",
+          "tempF": 42,
+          "pop": 0,
+          "cloud": 4
+        },
+        {
+          "t": "22:00",
+          "tempF": 40,
+          "pop": 0,
+          "cloud": 7
+        },
+        {
+          "t": "23:00",
+          "tempF": 39,
+          "pop": 0,
+          "cloud": 8
+        }
+      ]
+    },
+    "hidden": []
+  }
+}

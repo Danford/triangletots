@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Triangle Tots//triangletots.com//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:2026-11-27-honeycutt-road-park-1425-1540@triangletots.com
+DTSTAMP:20261114T100000Z
+DTSTART:20261127T192500Z
+DTEND:20261127T204000Z
+SUMMARY:Honeycutt Road Park
+LOCATION:101 Fitness Drive\, Fuquay-Varina\, NC
+DESCRIPTION:https://www.fuquay-varina.org/Facilities/Facility/Details/17\nT
+ he whole day: https://triangletots.com/2026-11-27/t4/\nTimes and details c
+ an change. Check the event or place before you go.
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,1006 @@
+{
+  "date": "2026-11-25",
+  "band": "t4",
+  "versions": [
+    {
+      "at": "2026-11-12T11:05:37.119Z",
+      "reason": null,
+      "forecast": "none",
+      "weather": null,
+      "plans": [
+        {
+          "nap": "short-nap",
+          "napLabel": "Short nap, 1 to 2",
+          "headline": "Run at the park, then parachute and tunnel play",
+          "main": {
+            "ref": "place:hillside-park",
+            "arrive": "09:30",
+            "leave": "12:00",
+            "why": "Your child runs and climbs at Hillside Park, then plays with a parachute and crawls through tunnels at Total Tot Time at 10:00 am. A family needs to sign up for Total Tot Time.",
+            "tips": [
+              "Let your child burn off energy at the park first so the gym goes smoothly.",
+              "Pack a snack for the drive between the park and the gym.",
+              "Give a heads-up before the last parachute turn so leaving is easier."
+            ],
+            "interests": [
+              "movement"
+            ],
+            "also": [
+              {
+                "ref": "event:durham-rec:19772:2026-11-25",
+                "source": {
+                  "kind": "event",
+                  "title": "Total Tot Time",
+                  "start": "2026-11-25T10:00:00",
+                  "end": "2026-11-25T12:00:00",
+                  "venue": "W.D. Hill Rec Ctr",
+                  "address": "1308 Fayetteville St, Durham, NC",
+                  "url": "https://apm.activecommunities.com/dprplaymore/Activity_Search/total-tot-time/19772?locale=en-US",
+                  "cost": null,
+                  "lat": 35.9797,
+                  "lon": -78.8985,
+                  "ages": "1 - 6",
+                  "registration": "https://apm.activecommunities.com/dprplaymore/Activity_Search/total-tot-time/19772?locale=en-US",
+                  "indoor": true,
+                  "area": "durham",
+                  "source": "durham-rec",
+                  "dropIn": false
+                }
+              }
+            ],
+            "area": "durham",
+            "outdoor": false,
+            "source": {
+              "kind": "park",
+              "title": "Hillside Park",
+              "address": "1301 S Roxboro St, Durham, NC",
+              "lat": 35.98093222222222,
+              "lon": -78.90178333333333,
+              "url": "https://www.dprplaymore.org/Facilities/Facility/Details/Hillside-Park-32",
+              "amenities": [
+                "playground",
+                "splashpad",
+                "pool",
+                "picnic-shelter",
+                "restroom"
+              ],
+              "indoor": false,
+              "area": "durham",
+              "hours": null,
+              "cost": "Free"
+            }
+          },
+          "alternatives": [
+            {
+              "ref": "place:apex-nature-park",
+              "arrive": "09:30",
+              "leave": "11:30",
+              "why": "Your child explores the nature park and the greenway at {their} own pace, with room to run and look for things along the way.",
+              "tips": [
+                "Bring a small bag for leaves and sticks {they} find.",
+                "Snack at the picnic shelter before the drive home."
+              ],
+              "interests": [
+                "nature",
+                "movement"
+              ],
+              "also": [],
+              "area": "cary-apex",
+              "outdoor": true,
+              "source": {
+                "kind": "park",
+                "title": "Apex Nature Park",
+                "address": "2600 Evans Rd., Apex, NC",
+                "lat": 35.71709646233568,
+                "lon": -78.90520368087866,
+                "url": "https://www.apexnc.org/800/Nature-Park-Seymour-Athletic-Fields",
+                "amenities": [
+                  "picnic-shelter",
+                  "restroom",
+                  "greenway",
+                  "nature"
+                ],
+                "indoor": false,
+                "area": "cary-apex",
+                "hours": null,
+                "cost": "Free"
+              }
+            },
+            {
+              "ref": "event:wake:21696",
+              "arrive": "10:10",
+              "leave": "11:30",
+              "why": "Your child enjoys Family Storytime at East Regional Library at 10:15 am, with books, songs and movement, then runs around at Knightdale Station Park.",
+              "tips": [
+                "Go to the park after so {they} can wiggle freely.",
+                "Bring a snack for the playground."
+              ],
+              "interests": [
+                "stories",
+                "movement"
+              ],
+              "also": [
+                {
+                  "ref": "place:knightdale-station-park",
+                  "source": {
+                    "kind": "park",
+                    "title": "Knightdale Station Park",
+                    "address": "810 North First Avenue, Knightdale, NC",
+                    "lat": 35.795776739559024,
+                    "lon": -78.47584503817626,
+                    "url": "https://www.knightdalenc.gov/knightdalestationpark",
+                    "amenities": [
+                      "playground",
+                      "picnic-shelter",
+                      "greenway"
+                    ],
+                    "indoor": false,
+                    "area": "east-wake",
+                    "hours": null,
+                    "cost": "Free"
+                  }
+                }
+              ],
+              "area": "east-wake",
+              "outdoor": false,
+              "source": {
+                "kind": "event",
+                "title": "Family Storytime",
+                "start": "2026-11-25T10:15:00-05:00",
+                "end": "2026-11-25T10:45:00-05:00",
+                "venue": "East Regional Library",
+                "address": "946 Steeple Square Court, Knightdale, NC",
+                "url": "https://www.wake.gov/events/family-storytime-3941",
+                "cost": "Free",
+                "lat": 35.8028243321954,
+                "lon": -78.487155767495,
+                "ages": "Young Children",
+                "registration": null,
+                "indoor": true,
+                "area": "east-wake",
+                "source": "wake-county",
+                "dropIn": false
+              }
+            },
+            {
+              "ref": "place:davie-street-park",
+              "arrive": "10:40",
+              "leave": "12:00",
+              "why": "Your child plays at Davie Street Park, then watches Wild Rescue 3D, a 45-minute film at Marbles Kids Museum at 11:15 am, made for ages 4 and up.",
+              "tips": [
+                "Play hard first so {they} can sit still for the film.",
+                "Talk about the animals {they} might see on screen."
+              ],
+              "interests": [
+                "animals",
+                "movement"
+              ],
+              "also": [
+                {
+                  "ref": "event:museum:marbles:48413",
+                  "source": {
+                    "kind": "event",
+                    "title": "Wild Rescue 3D",
+                    "start": "2026-11-25T11:15:00",
+                    "end": "2026-11-25T12:00:00",
+                    "venue": "Marbles Kids Museum",
+                    "address": "201 E Hargett St, Raleigh, NC 27601",
+                    "url": "https://marbleskidsmuseum.org/event/48964/",
+                    "cost": "IMAX documentary: $8 adults, $6 ages 1–11",
+                    "lat": 35.7789,
+                    "lon": -78.6361,
+                    "ages": "IMAX film, 4 and up",
+                    "registration": null,
+                    "indoor": true,
+                    "area": "raleigh",
+                    "source": "museum",
+                    "dropIn": false,
+                    "film": true
+                  }
+                }
+              ],
+              "area": "raleigh",
+              "outdoor": false,
+              "source": {
+                "kind": "park",
+                "title": "Davie Street Park",
+                "address": "910 E. Davie Street, Raleigh, NC 27601",
+                "lat": 35.77497,
+                "lon": -78.62437,
+                "url": "https://raleighnc.gov/parks-and-recreation/places/davie-street-park",
+                "amenities": [
+                  "playground",
+                  "picnic-shelter",
+                  "courts"
+                ],
+                "indoor": false,
+                "area": "raleigh",
+                "hours": null,
+                "cost": "Free"
+              }
+            },
+            {
+              "ref": "place:blue-jay-point-county-park",
+              "arrive": "09:30",
+              "leave": "11:30",
+              "why": "Your child explores the nature areas and the playground at Blue Jay Point County Park, with plenty of room to roam.",
+              "tips": [
+                "Bring a snack for the picnic shelter.",
+                "Let {them} pick which path to follow."
+              ],
+              "interests": [
+                "nature",
+                "movement"
+              ],
+              "also": [],
+              "area": "north-raleigh",
+              "outdoor": true,
+              "source": {
+                "kind": "park",
+                "title": "Blue Jay Point County Park",
+                "address": "3200 Pleasant Union Church Road, Raleigh, NC 27614",
+                "lat": 35.96762827199893,
+                "lon": -78.64454785104198,
+                "url": "https://www.wakegov.com/departments-government/parks-recreation-and-open-space/all-parks-trails/blue-jay-point-county-park",
+                "amenities": [
+                  "playground",
+                  "picnic-shelter",
+                  "restroom",
+                  "greenway",
+                  "nature"
+                ],
+                "indoor": false,
+                "area": "north-raleigh",
+                "hours": null,
+                "cost": "Free"
+              }
+            }
+          ],
+          "rainBackup": null,
+          "timeline": [
+            {
+              "start": "07:00",
+              "end": "07:30",
+              "kind": "meal",
+              "title": "Up and breakfast"
+            },
+            {
+              "start": "07:30",
+              "end": "08:50",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "08:50",
+              "end": "09:10",
+              "kind": "routine",
+              "title": "Get ready to go",
+              "detail": "Shoes on, the bag, water and a snack."
+            },
+            {
+              "start": "09:10",
+              "end": "09:30",
+              "kind": "travel",
+              "title": "Drive to Hillside Park"
+            },
+            {
+              "start": "09:30",
+              "end": "09:50",
+              "kind": "outing",
+              "title": "Hillside Park"
+            },
+            {
+              "start": "09:50",
+              "end": "10:00",
+              "kind": "travel",
+              "title": "Walk to W.D. Hill Rec Ctr"
+            },
+            {
+              "start": "10:00",
+              "end": "12:00",
+              "kind": "outing",
+              "title": "Total Tot Time"
+            },
+            {
+              "start": "12:00",
+              "end": "12:10",
+              "kind": "travel",
+              "title": "Walk back to the car"
+            },
+            {
+              "start": "12:10",
+              "end": "12:30",
+              "kind": "travel",
+              "title": "Drive home"
+            },
+            {
+              "start": "12:30",
+              "end": "13:00",
+              "kind": "meal",
+              "title": "Lunch"
+            },
+            {
+              "start": "13:00",
+              "end": "14:00",
+              "kind": "nap",
+              "title": "Nap"
+            },
+            {
+              "start": "14:00",
+              "end": "14:20",
+              "kind": "routine",
+              "title": "Up and a snack"
+            },
+            {
+              "start": "14:20",
+              "end": "18:30",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "18:30",
+              "end": "19:15",
+              "kind": "meal",
+              "title": "Dinner"
+            },
+            {
+              "start": "19:15",
+              "end": "20:00",
+              "kind": "routine",
+              "title": "Bath, books and bed"
+            }
+          ]
+        },
+        {
+          "nap": "quiet",
+          "napLabel": "Quiet time",
+          "headline": "Make a craft, then play at the park",
+          "main": {
+            "ref": "event:wake:23013",
+            "arrive": "13:55",
+            "leave": "15:40",
+            "why": "Your child joins ABC Craft & Learn at 2:00 pm, a kindergarten readiness craft program for ages 3 to 5, then runs around at Falcon Park. It is the last one before the winter pause.",
+            "tips": [
+              "Pack a snack for after the craft.",
+              "Tell your child the park comes next so it is easy to leave the library."
+            ],
+            "interests": [
+              "art",
+              "movement"
+            ],
+            "also": [
+              {
+                "ref": "place:falcon-park",
+                "source": {
+                  "kind": "park",
+                  "title": "Falcon Park",
+                  "address": "611 E. Academy Street, Fuquay-Varina, NC",
+                  "lat": 35.5858018605673,
+                  "lon": -78.79303938673571,
+                  "url": "https://www.fuquay-varina.org/Facilities/Facility/Details/9",
+                  "amenities": [
+                    "playground",
+                    "picnic-shelter",
+                    "restroom",
+                    "greenway"
+                  ],
+                  "indoor": false,
+                  "area": "south-wake",
+                  "hours": null,
+                  "cost": "Free"
+                }
+              }
+            ],
+            "area": "south-wake",
+            "outdoor": false,
+            "source": {
+              "kind": "event",
+              "title": "ABC Craft & Learn",
+              "start": "2026-11-25T14:00:00-05:00",
+              "end": "2026-11-25T15:00:00-05:00",
+              "venue": "Fuquay-Varina Community Library",
+              "address": "271 Bramblehill Drive, Fuquay-Varina, NC",
+              "url": "https://www.wake.gov/events/abc-craft-learn-194",
+              "cost": "Free",
+              "lat": 35.5850617253451,
+              "lon": -78.7802518504044,
+              "ages": "Young Children",
+              "registration": null,
+              "indoor": true,
+              "area": "south-wake",
+              "source": "wake-county",
+              "dropIn": false
+            }
+          },
+          "alternatives": [
+            {
+              "ref": "place:historic-oak-view-county-park",
+              "arrive": "09:30",
+              "leave": "11:30",
+              "why": "Your child wanders the greenway and garden at Historic Oak View County Park and looks for animals along the way.",
+              "tips": [
+                "Bring a snack to eat at the picnic shelter.",
+                "Let your child lead the way on the paths."
+              ],
+              "interests": [
+                "animals",
+                "nature"
+              ],
+              "also": [],
+              "area": "raleigh",
+              "outdoor": true,
+              "source": {
+                "kind": "park",
+                "title": "Historic Oak View County Park",
+                "address": "4028 Carya Dr., Raleigh, NC  27610",
+                "lat": 35.76980126731367,
+                "lon": -78.57063248179927,
+                "url": "https://www.wakegov.com/departments-government/parks-recreation-and-open-space/all-parks-trails/historic-oak-view-county-park",
+                "amenities": [
+                  "picnic-shelter",
+                  "restroom",
+                  "greenway",
+                  "animals",
+                  "garden"
+                ],
+                "indoor": false,
+                "area": "raleigh",
+                "hours": null,
+                "cost": "Free"
+              }
+            },
+            {
+              "ref": "event:libcal:durham-county-library:17669051",
+              "arrive": "13:55",
+              "leave": "15:10",
+              "why": "Your child tries apple experiments at Little STEAMers at 2:00 pm, then plays at Knightdale Station Park. A family needs to sign up for the program.",
+              "tips": [
+                "Ask {them} to guess what will happen to the apple slices.",
+                "Bring a snack for the park."
+              ],
+              "interests": [
+                "science",
+                "movement"
+              ],
+              "also": [
+                {
+                  "ref": "place:knightdale-station-park",
+                  "source": {
+                    "kind": "park",
+                    "title": "Knightdale Station Park",
+                    "address": "810 North First Avenue, Knightdale, NC",
+                    "lat": 35.795776739559024,
+                    "lon": -78.47584503817626,
+                    "url": "https://www.knightdalenc.gov/knightdalestationpark",
+                    "amenities": [
+                      "playground",
+                      "picnic-shelter",
+                      "greenway"
+                    ],
+                    "indoor": false,
+                    "area": "east-wake",
+                    "hours": null,
+                    "cost": "Free"
+                  }
+                }
+              ],
+              "area": "durham",
+              "outdoor": false,
+              "source": {
+                "kind": "event",
+                "title": "Little STEAMers: Experimental Apples",
+                "start": "2026-11-25T14:00:00",
+                "end": "2026-11-25T14:30:00",
+                "venue": "East Regional Library",
+                "address": "211 Lick Creek Lane, Durham, NC",
+                "url": "https://durhamcountylibrary.libcal.com/event/17669051",
+                "cost": "Free",
+                "lat": 35.8028243321954,
+                "lon": -78.487155767495,
+                "ages": "Pre-School",
+                "registration": "https://durhamcountylibrary.libcal.com/event/17669051",
+                "indoor": true,
+                "area": "durham",
+                "source": "libcal",
+                "dropIn": false
+              }
+            },
+            {
+              "ref": "event:wake:17796",
+              "arrive": "13:55",
+              "leave": "15:25",
+              "why": "Your child does a craft at ABC Craft & Learn at 2:00 pm, a readiness program for ages 3 to 5, then stretches out at Indian Creek Greenway.",
+              "tips": [
+                "Space is limited, so stop by the front desk for a ticket.",
+                "Plan a snack for the greenway."
+              ],
+              "interests": [
+                "art",
+                "movement"
+              ],
+              "also": [
+                {
+                  "ref": "place:indian-creek-greenway-and-trailhead",
+                  "source": {
+                    "kind": "park",
+                    "title": "Indian Creek Greenway and Trailhead",
+                    "address": "101 Town Hall Drive",
+                    "lat": 35.822293677106394,
+                    "lon": -78.8292547099617,
+                    "url": "https://www.morrisvillenc.gov/Things-To-Do/Parks-and-Greenways/Indian-Creek-Trailhead",
+                    "amenities": [
+                      "playground",
+                      "picnic-shelter",
+                      "restroom",
+                      "greenway"
+                    ],
+                    "indoor": false,
+                    "area": "cary-apex",
+                    "hours": null,
+                    "cost": "Free"
+                  }
+                }
+              ],
+              "area": "cary-apex",
+              "outdoor": false,
+              "source": {
+                "kind": "event",
+                "title": "ABC Craft & Learn",
+                "start": "2026-11-25T14:00:00-05:00",
+                "end": "2026-11-25T14:45:00-05:00",
+                "venue": "Morrisville Community Library",
+                "address": "310 Town Hall Drive, Morrisville, NC",
+                "url": "https://www.wake.gov/events/abc-craft-learn-166",
+                "cost": "Free",
+                "lat": 35.8248479257278,
+                "lon": -78.8334621430841,
+                "ages": "Young Children",
+                "registration": null,
+                "indoor": true,
+                "area": "cary-apex",
+                "source": "wake-county",
+                "dropIn": false
+              }
+            },
+            {
+              "ref": "place:blue-jay-point-county-park",
+              "arrive": "09:30",
+              "leave": "11:30",
+              "why": "Your child explores the nature areas and the playground at Blue Jay Point County Park.",
+              "tips": [
+                "Bring a snack for the picnic shelter.",
+                "Let {them} choose which trail to try first."
+              ],
+              "interests": [
+                "nature",
+                "movement"
+              ],
+              "also": [],
+              "area": "north-raleigh",
+              "outdoor": true,
+              "source": {
+                "kind": "park",
+                "title": "Blue Jay Point County Park",
+                "address": "3200 Pleasant Union Church Road, Raleigh, NC 27614",
+                "lat": 35.96762827199893,
+                "lon": -78.64454785104198,
+                "url": "https://www.wakegov.com/departments-government/parks-recreation-and-open-space/all-parks-trails/blue-jay-point-county-park",
+                "amenities": [
+                  "playground",
+                  "picnic-shelter",
+                  "restroom",
+                  "greenway",
+                  "nature"
+                ],
+                "indoor": false,
+                "area": "north-raleigh",
+                "hours": null,
+                "cost": "Free"
+              }
+            }
+          ],
+          "rainBackup": null,
+          "timeline": [
+            {
+              "start": "07:00",
+              "end": "07:30",
+              "kind": "meal",
+              "title": "Up and breakfast"
+            },
+            {
+              "start": "07:30",
+              "end": "11:45",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "11:45",
+              "end": "12:15",
+              "kind": "meal",
+              "title": "Lunch"
+            },
+            {
+              "start": "12:15",
+              "end": "13:00",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "13:00",
+              "end": "13:35",
+              "kind": "quiet",
+              "title": "Quiet time",
+              "detail": "Books or quiet play in their room."
+            },
+            {
+              "start": "13:35",
+              "end": "13:55",
+              "kind": "travel",
+              "title": "Drive to Fuquay-Varina Community Library"
+            },
+            {
+              "start": "13:55",
+              "end": "15:00",
+              "kind": "outing",
+              "title": "ABC Craft & Learn"
+            },
+            {
+              "start": "15:00",
+              "end": "15:10",
+              "kind": "travel",
+              "title": "Drive to Falcon Park"
+            },
+            {
+              "start": "15:10",
+              "end": "15:40",
+              "kind": "outing",
+              "title": "Falcon Park"
+            },
+            {
+              "start": "15:40",
+              "end": "16:00",
+              "kind": "travel",
+              "title": "Drive home"
+            },
+            {
+              "start": "16:00",
+              "end": "18:00",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "18:00",
+              "end": "18:45",
+              "kind": "meal",
+              "title": "Dinner"
+            },
+            {
+              "start": "18:45",
+              "end": "19:30",
+              "kind": "routine",
+              "title": "Bath, books and bed"
+            }
+          ]
+        },
+        {
+          "nap": "no-nap",
+          "napLabel": "No nap",
+          "headline": "Paint the river with a park ranger",
+          "main": {
+            "ref": "event:state-parks:54374611637672:54374611638697",
+            "arrive": "12:55",
+            "leave": "14:30",
+            "why": "Your child paints the Eno River with watercolor pencils and river water, beside the cascades with a park ranger, then walks up to the Piper-Cox House. A family needs to sign up.",
+            "tips": [
+              "Bring a bag to carry the finished paintings.",
+              "Let {them} choose the view to paint."
+            ],
+            "interests": [
+              "art",
+              "nature",
+              "water"
+            ],
+            "also": [],
+            "area": "chapel-hill",
+            "outdoor": true,
+            "source": {
+              "kind": "event",
+              "title": "Water Coloring Along the Eno: Fews Ford",
+              "start": "2026-11-25T13:00:00-05:00",
+              "end": "2026-11-25T14:30:00-05:00",
+              "venue": "Eno River State Park - Fews Ford Access",
+              "address": "6101 Cole Mill Road, Durham, NC",
+              "url": "https://events.dncr.nc.gov/event/water-coloring-along-the-eno-fews-ford-9037",
+              "cost": null,
+              "lat": 36.078519,
+              "lon": -79.005129,
+              "ages": null,
+              "registration": "https://events.dncr.nc.gov/event/water-coloring-along-the-eno-fews-ford-9037",
+              "indoor": false,
+              "area": "chapel-hill",
+              "source": "state-parks",
+              "dropIn": false
+            }
+          },
+          "alternatives": [
+            {
+              "ref": "place:levelle-moton-park",
+              "arrive": "11:35",
+              "leave": "13:00",
+              "why": "Your child plays at LeVelle Moton Park, then watches T. REX 3D, a 45-minute film at Marbles Kids Museum at 12:15 pm, made for ages 4 and up.",
+              "tips": [
+                "Play hard first so {they} can sit still in the theater.",
+                "Pack a snack for after the film."
+              ],
+              "interests": [
+                "dinosaurs",
+                "science"
+              ],
+              "also": [
+                {
+                  "ref": "event:museum:marbles:48415",
+                  "source": {
+                    "kind": "event",
+                    "title": "T. REX 3D",
+                    "start": "2026-11-25T12:15:00",
+                    "end": "2026-11-25T13:00:00",
+                    "venue": "Marbles Kids Museum",
+                    "address": "201 E Hargett St, Raleigh, NC 27601",
+                    "url": "https://marbleskidsmuseum.org/event/48965/",
+                    "cost": "IMAX documentary: $8 adults, $6 ages 1–11",
+                    "lat": 35.7789,
+                    "lon": -78.6361,
+                    "ages": "IMAX film, 4 and up",
+                    "registration": null,
+                    "indoor": true,
+                    "area": "raleigh",
+                    "source": "museum",
+                    "dropIn": false,
+                    "film": true
+                  }
+                }
+              ],
+              "area": "raleigh",
+              "outdoor": false,
+              "source": {
+                "kind": "park",
+                "title": "LeVelle Moton Park",
+                "address": "920 E. Lane Street, Raleigh, NC 27601",
+                "lat": 35.78316,
+                "lon": -78.62606,
+                "url": "https://raleighnc.gov/parks-and-recreation/places/levelle-moton-park",
+                "amenities": [
+                  "picnic-shelter",
+                  "courts",
+                  "playground"
+                ],
+                "indoor": false,
+                "area": "raleigh",
+                "hours": null,
+                "cost": "Free"
+              }
+            },
+            {
+              "ref": "place:apex-nature-park",
+              "arrive": "09:30",
+              "leave": "11:30",
+              "why": "Your child explores the nature park and the greenway at {their} own pace.",
+              "tips": [
+                "Bring a snack for the picnic shelter.",
+                "Challenge {them} to find five different leaves."
+              ],
+              "interests": [
+                "nature",
+                "movement"
+              ],
+              "also": [],
+              "area": "cary-apex",
+              "outdoor": true,
+              "source": {
+                "kind": "park",
+                "title": "Apex Nature Park",
+                "address": "2600 Evans Rd., Apex, NC",
+                "lat": 35.71709646233568,
+                "lon": -78.90520368087866,
+                "url": "https://www.apexnc.org/800/Nature-Park-Seymour-Athletic-Fields",
+                "amenities": [
+                  "picnic-shelter",
+                  "restroom",
+                  "greenway",
+                  "nature"
+                ],
+                "indoor": false,
+                "area": "cary-apex",
+                "hours": null,
+                "cost": "Free"
+              }
+            },
+            {
+              "ref": "place:campus-hills-park",
+              "arrive": "09:30",
+              "leave": "12:00",
+              "why": "Your child plays at Campus Hills Park, then joins Total Tot Time at 10:00 am to play with a parachute and crawl through tunnels. A family needs to sign up.",
+              "tips": [
+                "Burn off energy at the park first.",
+                "Give a warning before the last turn on the parachute."
+              ],
+              "interests": [
+                "movement"
+              ],
+              "also": [
+                {
+                  "ref": "event:durham-rec:20088:2026-11-25",
+                  "source": {
+                    "kind": "event",
+                    "title": "Total Tot Time",
+                    "start": "2026-11-25T10:00:00",
+                    "end": "2026-11-25T12:00:00",
+                    "venue": "I.R. Holmes, Sr. Rec Ctr",
+                    "address": "2000 S Alston Ave, Durham, NC",
+                    "url": "https://apm.activecommunities.com/dprplaymore/Activity_Search/total-tot-time/20088?locale=en-US",
+                    "cost": null,
+                    "lat": 35.9619,
+                    "lon": -78.8908,
+                    "ages": "1 - 6",
+                    "registration": "https://apm.activecommunities.com/dprplaymore/Activity_Search/total-tot-time/20088?locale=en-US",
+                    "indoor": true,
+                    "area": "durham",
+                    "source": "durham-rec",
+                    "dropIn": false
+                  }
+                }
+              ],
+              "area": "durham",
+              "outdoor": false,
+              "source": {
+                "kind": "park",
+                "title": "Campus Hills Park",
+                "address": "2000 S Alston Ave, Durham, NC",
+                "lat": 35.962475999999995,
+                "lon": -78.891791,
+                "url": "https://www.dprplaymore.org/Facilities/Facility/Details/Campus-Hills-Park-10",
+                "amenities": [
+                  "playground",
+                  "picnic-shelter"
+                ],
+                "indoor": false,
+                "area": "durham",
+                "hours": null,
+                "cost": "Free"
+              }
+            },
+            {
+              "ref": "event:libcal:durham-county-library:17669051",
+              "arrive": "13:55",
+              "leave": "15:10",
+              "why": "Your child tries apple experiments at Little STEAMers at 2:00 pm, then plays at Knightdale Station Park. A family needs to sign up for the program.",
+              "tips": [
+                "Ask {them} to guess what will happen to the apple slices.",
+                "Bring a snack for the park."
+              ],
+              "interests": [
+                "science",
+                "movement"
+              ],
+              "also": [
+                {
+                  "ref": "place:knightdale-station-park",
+                  "source": {
+                    "kind": "park",
+                    "title": "Knightdale Station Park",
+                    "address": "810 North First Avenue, Knightdale, NC",
+                    "lat": 35.795776739559024,
+                    "lon": -78.47584503817626,
+                    "url": "https://www.knightdalenc.gov/knightdalestationpark",
+                    "amenities": [
+                      "playground",
+                      "picnic-shelter",
+                      "greenway"
+                    ],
+                    "indoor": false,
+                    "area": "east-wake",
+                    "hours": null,
+                    "cost": "Free"
+                  }
+                }
+              ],
+              "area": "durham",
+              "outdoor": false,
+              "source": {
+                "kind": "event",
+                "title": "Little STEAMers: Experimental Apples",
+                "start": "2026-11-25T14:00:00",
+                "end": "2026-11-25T14:30:00",
+                "venue": "East Regional Library",
+                "address": "211 Lick Creek Lane, Durham, NC",
+                "url": "https://durhamcountylibrary.libcal.com/event/17669051",
+                "cost": "Free",
+                "lat": 35.8028243321954,
+                "lon": -78.487155767495,
+                "ages": "Pre-School",
+                "registration": "https://durhamcountylibrary.libcal.com/event/17669051",
+                "indoor": true,
+                "area": "durham",
+                "source": "libcal",
+                "dropIn": false
+              }
+            }
+          ],
+          "rainBackup": null,
+          "timeline": [
+            {
+              "start": "07:00",
+              "end": "07:30",
+              "kind": "meal",
+              "title": "Up and breakfast"
+            },
+            {
+              "start": "07:30",
+              "end": "11:45",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "11:45",
+              "end": "12:15",
+              "kind": "meal",
+              "title": "Lunch"
+            },
+            {
+              "start": "12:15",
+              "end": "12:35",
+              "kind": "routine",
+              "title": "Get ready to go",
+              "detail": "Shoes on, the bag, water and a snack."
+            },
+            {
+              "start": "12:35",
+              "end": "12:55",
+              "kind": "travel",
+              "title": "Drive to Eno River State Park - Fews Ford Access"
+            },
+            {
+              "start": "12:55",
+              "end": "14:30",
+              "kind": "outing",
+              "title": "Eno River State Park - Fews Ford Access"
+            },
+            {
+              "start": "14:30",
+              "end": "14:50",
+              "kind": "travel",
+              "title": "Drive home"
+            },
+            {
+              "start": "14:50",
+              "end": "18:00",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "18:00",
+              "end": "18:45",
+              "kind": "meal",
+              "title": "Dinner"
+            },
+            {
+              "start": "18:45",
+              "end": "19:30",
+              "kind": "routine",
+              "title": "Bath, books and bed"
+            }
+          ]
+        }
+      ],
+      "dropped": [
+        "[no-nap] event:state-parks:54374611637672:54374611638697 tip: \"{they} focus\" needs its ending as a placeholder (like{s}, {is}, {has}): \"Eat lunch before you go so {they} can focus on painting.\""
+      ]
+    }
+  ],
+  "checked": {
+    "at": "2026-11-14T11:03:27.500Z",
+    "forecast": "none",
+    "weather": null,
+    "hidden": []
+  }
+}

@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Triangle Tots//triangletots.com//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:2026-11-21-young-art-explorers-color-creations-at-heater-park-1030-1200
+ @triangletots.com
+DTSTAMP:20261114T100000Z
+DTSTART:20261121T153000Z
+DTEND:20261121T170000Z
+SUMMARY:Young Art Explorers: Color Creations at Heater Park
+LOCATION:400 S West Street\, Cary\, NC
+DESCRIPTION:Sign up first.\nhttps://www.carync.gov/recreation-enjoyment/par
+ ks-greenways-environment/parks/heater-park\nhttps://nccaryweb.myvscloud.co
+ m/webtrac/web/search.html?module=AR\nThe whole day: https://triangletots.c
+ om/2026-11-21/t2/\nTimes and details can change. Check the event or place 
+ before you go.
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Triangle Tots//triangletots.com//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:2026-11-16-tiny-tots-red-leaf-yellow-leaf-at-crowder-county-park-1005-1
+ 135@triangletots.com
+DTSTAMP:20261114T100000Z
+DTSTART:20261116T150500Z
+DTEND:20261116T163500Z
+SUMMARY:Tiny Tots: Red Leaf\, Yellow Leaf at Crowder County Park
+LOCATION:4709 Ten Ten Road
+DESCRIPTION:Sign up first.\nhttps://apm.activecommunities.com/wakeparks/Act
+ ivity_Search/tiny-tots-red-leaf-yellow-leaf/9405?locale=en-US\nhttps://www
+ .wakegov.com/departments-government/parks-recreation-and-open-space/all-pa
+ rks-trails/crowder-county-park\nThe whole day: https://triangletots.com/20
+ 26-11-16/t3/\nTimes and details can change. Check the event or place befor
+ e you go.
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Triangle Tots//triangletots.com//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:2026-11-24-museum-of-life-and-science-1530-1730@triangletots.com
+DTSTAMP:20261114T100000Z
+DTSTART:20261124T203000Z
+DTEND:20261124T223000Z
+SUMMARY:Museum of Life and Science
+LOCATION:433 W Murray Ave\, Durham\, NC 27704
+DESCRIPTION:https://www.lifeandscience.org/visit/\nThe whole day: https://t
+ riangletots.com/2026-11-24/t2/\nTimes and details can change. Check the ev
+ ent or place before you go.
+END:VEVENT
+END:VCALENDAR

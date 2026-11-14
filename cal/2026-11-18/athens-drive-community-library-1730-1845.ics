@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Triangle Tots//triangletots.com//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:2026-11-18-athens-drive-community-library-1730-1845@triangletots.com
+DTSTAMP:20261114T100000Z
+DTSTART:20261118T223000Z
+DTEND:20261118T234500Z
+SUMMARY:Athens Drive Community Library
+LOCATION:1420 Athens Drive\, Raleigh\, NC
+DESCRIPTION:The whole day: https://triangletots.com/2026-11-18/t1/\nTimes a
+ nd details can change. Check the event or place before you go.
+END:VEVENT
+END:VCALENDAR

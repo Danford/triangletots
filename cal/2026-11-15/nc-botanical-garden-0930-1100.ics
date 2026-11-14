@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Triangle Tots//triangletots.com//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:2026-11-15-nc-botanical-garden-0930-1100@triangletots.com
+DTSTAMP:20261114T100000Z
+DTSTART:20261115T143000Z
+DTEND:20261115T160000Z
+SUMMARY:NC Botanical Garden
+LOCATION:100 Old Mason Farm Rd\, Chapel Hill\, NC 27517
+DESCRIPTION:https://ncbg.unc.edu/visit/\nThe whole day: https://triangletot
+ s.com/2026-11-15/t2/\nTimes and details can change. Check the event or pla
+ ce before you go.
+END:VEVENT
+END:VCALENDAR

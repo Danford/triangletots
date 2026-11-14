@@ -1,0 +1,932 @@
+{
+  "date": "2026-11-23",
+  "band": "t1",
+  "versions": [
+    {
+      "at": "2026-11-10T11:05:10.393Z",
+      "reason": null,
+      "forecast": "none",
+      "weather": null,
+      "plans": [
+        {
+          "nap": "two-naps",
+          "napLabel": "Two naps",
+          "headline": "Wander garden paths and find the Discovery Garden",
+          "main": {
+            "ref": "place:sarah-p-duke-gardens",
+            "arrive": "11:00",
+            "leave": "12:45",
+            "why": "Your toddler can toddle along the garden paths, look at plants and visit the Charlotte Brody Discovery Garden. It is a gentle, free late morning that ends well before the afternoon nap.",
+            "tips": [
+              "Parking is paid and often fills before 10 am, so leave a few minutes to find a spot.",
+              "Bring a snack and let {them} stop and poke at leaves along the way.",
+              "Head back to the car while {they} {is} still happy, and point out one last flower on the way out."
+            ],
+            "interests": [
+              "nature",
+              "movement"
+            ],
+            "also": [],
+            "area": "durham",
+            "outdoor": true,
+            "source": {
+              "kind": "garden",
+              "title": "Sarah P. Duke Gardens",
+              "address": "420 Anderson St, Durham, NC 27708",
+              "lat": 36.0024,
+              "lon": -78.9328,
+              "url": "https://gardens.duke.edu/visit/",
+              "amenities": [
+                "garden",
+                "nature",
+                "restroom"
+              ],
+              "indoor": false,
+              "area": "durham",
+              "hours": {
+                "sun": "8 a.m. to sunset",
+                "mon": "8 a.m. to sunset",
+                "tue": "8 a.m. to sunset",
+                "wed": "8 a.m. to sunset",
+                "thu": "8 a.m. to sunset",
+                "fri": "8 a.m. to sunset",
+                "sat": "8 a.m. to sunset"
+              },
+              "cost": "Free",
+              "note": "Free; paid parking that often fills before 10 a.m. on nice days. Five miles of paths, and the Charlotte Brody Discovery Garden."
+            }
+          },
+          "alternatives": [
+            {
+              "ref": "event:libcal:durham-county-library:17562310",
+              "arrive": "10:50",
+              "leave": "12:20",
+              "why": "Songs, rhymes and a short story, then a themed craft, followed by a run around Knightdale Station Park. A family needs to sign up for the storytime.",
+              "tips": [
+                "Bring a snack for the park after the story.",
+                "Let your toddler carry a favorite book in."
+              ],
+              "interests": [
+                "stories",
+                "music",
+                "movement"
+              ],
+              "also": [
+                {
+                  "ref": "place:knightdale-station-park",
+                  "source": {
+                    "kind": "park",
+                    "title": "Knightdale Station Park",
+                    "address": "810 North First Avenue, Knightdale, NC",
+                    "lat": 35.795776739559024,
+                    "lon": -78.47584503817626,
+                    "url": "https://www.knightdalenc.gov/knightdalestationpark",
+                    "amenities": [
+                      "playground",
+                      "picnic-shelter",
+                      "greenway"
+                    ],
+                    "indoor": false,
+                    "area": "east-wake",
+                    "hours": null,
+                    "cost": "Free"
+                  }
+                }
+              ],
+              "area": "durham",
+              "outdoor": false,
+              "source": {
+                "kind": "event",
+                "title": "Story Sprouts (Toddler/Preschool Storytime)",
+                "start": "2026-11-23T11:00:00",
+                "end": "2026-11-23T11:30:00",
+                "venue": "East Regional Library",
+                "address": "211 Lick Creek Lane, Durham, NC",
+                "url": "https://durhamcountylibrary.libcal.com/event/17562310",
+                "cost": "Free",
+                "lat": 35.8028243321954,
+                "lon": -78.487155767495,
+                "ages": "Pre-School, Toddler",
+                "registration": "https://durhamcountylibrary.libcal.com/event/17562310",
+                "indoor": true,
+                "area": "durham",
+                "source": "libcal",
+                "dropIn": false
+              }
+            },
+            {
+              "ref": "place:apex-nature-park",
+              "arrive": "11:00",
+              "leave": "12:30",
+              "why": "A relaxed nature stop where your toddler can walk the greenway and collect leaves and sticks. A picnic shelter is there for a snack.",
+              "tips": [
+                "Bring a small bag for {their} leaf and stick treasures.",
+                "Snack at the picnic shelter before you head home."
+              ],
+              "interests": [
+                "nature",
+                "movement"
+              ],
+              "also": [],
+              "area": "cary-apex",
+              "outdoor": true,
+              "source": {
+                "kind": "park",
+                "title": "Apex Nature Park",
+                "address": "2600 Evans Rd., Apex, NC",
+                "lat": 35.71709646233568,
+                "lon": -78.90520368087866,
+                "url": "https://www.apexnc.org/800/Nature-Park-Seymour-Athletic-Fields",
+                "amenities": [
+                  "picnic-shelter",
+                  "restroom",
+                  "greenway",
+                  "nature"
+                ],
+                "indoor": false,
+                "area": "cary-apex",
+                "hours": null,
+                "cost": "Free"
+              }
+            },
+            {
+              "ref": "event:wake-parks:8358:2026-11-23",
+              "arrive": "11:00",
+              "leave": "12:15",
+              "why": "Walk the self-guided StoryWalk on the Educational Loop and read the story a page at a time. Come and go as {they} like{s}.",
+              "tips": [
+                "Carry the story along by pointing at the pictures on each page.",
+                "Bring a snack to eat after the walk."
+              ],
+              "interests": [
+                "stories",
+                "nature"
+              ],
+              "also": [],
+              "area": "south-wake",
+              "outdoor": true,
+              "source": {
+                "kind": "event",
+                "title": "Beech Bluff County Park StoryWalk® 2026 (Self-Led)",
+                "start": "2026-11-23T08:00:00",
+                "end": "2026-11-23T17:30:00",
+                "venue": "Beech Bluff County Park",
+                "address": "Beech Bluff Park Drive, Fuquay-Varina, NC",
+                "url": "https://apm.activecommunities.com/wakeparks/Activity_Search/beech-bluff-county-park-storywalk-2026-self-led/8358?locale=en-US",
+                "cost": "Free",
+                "lat": 35.58537279715877,
+                "lon": -78.6793341971644,
+                "ages": null,
+                "registration": false,
+                "indoor": false,
+                "area": "south-wake",
+                "source": "wake-parks",
+                "dropIn": true
+              }
+            }
+          ],
+          "rainBackup": null,
+          "timeline": [
+            {
+              "start": "07:00",
+              "end": "07:30",
+              "kind": "meal",
+              "title": "Up and breakfast"
+            },
+            {
+              "start": "07:30",
+              "end": "09:30",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "09:30",
+              "end": "10:30",
+              "kind": "nap",
+              "title": "Nap"
+            },
+            {
+              "start": "10:30",
+              "end": "10:40",
+              "kind": "routine",
+              "title": "Up, a snack and out the door",
+              "detail": "Have the bag packed and by the door before the nap."
+            },
+            {
+              "start": "10:40",
+              "end": "11:00",
+              "kind": "travel",
+              "title": "Drive to Sarah P. Duke Gardens"
+            },
+            {
+              "start": "11:00",
+              "end": "12:45",
+              "kind": "outing",
+              "title": "Sarah P. Duke Gardens",
+              "detail": "Pack a lunch to eat there."
+            },
+            {
+              "start": "12:45",
+              "end": "13:05",
+              "kind": "travel",
+              "title": "Drive home"
+            },
+            {
+              "start": "13:05",
+              "end": "14:30",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "14:30",
+              "end": "15:30",
+              "kind": "nap",
+              "title": "Nap"
+            },
+            {
+              "start": "15:30",
+              "end": "15:50",
+              "kind": "routine",
+              "title": "Up and a snack"
+            },
+            {
+              "start": "15:50",
+              "end": "17:30",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "17:30",
+              "end": "18:15",
+              "kind": "meal",
+              "title": "Dinner"
+            },
+            {
+              "start": "18:15",
+              "end": "19:00",
+              "kind": "routine",
+              "title": "Bath, books and bed"
+            }
+          ]
+        },
+        {
+          "nap": "early-nap",
+          "napLabel": "One nap, 12 to 2",
+          "headline": "Roam big lawns and find outdoor art",
+          "main": {
+            "ref": "place:ncma-museum-park",
+            "arrive": "09:15",
+            "leave": "11:00",
+            "why": "Your toddler can toddle across wide lawns, follow the trails and look up at big outdoor art. It is free and has plenty of room to move before the nap.",
+            "tips": [
+              "Bring a snack and a water bottle for a break on the grass.",
+              "Let {them} walk up to the sculptures and name what {they} see.",
+              "Start back to the car by 10:45 so the ride home is calm."
+            ],
+            "interests": [
+              "art",
+              "nature",
+              "movement"
+            ],
+            "also": [],
+            "area": "raleigh",
+            "outdoor": true,
+            "source": {
+              "kind": "garden",
+              "title": "NC Museum of Art Museum Park",
+              "address": "2110 Blue Ridge Rd, Raleigh, NC 27607",
+              "lat": 35.8105,
+              "lon": -78.7022,
+              "url": "https://ncartmuseum.org/museum-park/",
+              "amenities": [
+                "garden",
+                "nature",
+                "greenway",
+                "restroom"
+              ],
+              "indoor": false,
+              "area": "raleigh",
+              "hours": {
+                "sun": "dawn to dusk",
+                "mon": "dawn to dusk",
+                "tue": "dawn to dusk",
+                "wed": "dawn to dusk",
+                "thu": "dawn to dusk",
+                "fri": "dawn to dusk",
+                "sat": "dawn to dusk"
+              },
+              "cost": "Free",
+              "note": "Free. 164 acres of trails, lawns and big outdoor art; the Capital Area Greenway runs through."
+            }
+          },
+          "alternatives": [
+            {
+              "ref": "place:walltown-park",
+              "arrive": "09:30",
+              "leave": "11:20",
+              "why": "Warm up on the Walltown Park playground, then play in the gym at Total Tot Time with a parachute and tunnels. A family needs to sign up for Total Tot Time.",
+              "tips": [
+                "Bring socks for the gym.",
+                "Save a snack for the car ride home."
+              ],
+              "interests": [
+                "movement",
+                "music"
+              ],
+              "also": [
+                {
+                  "ref": "event:durham-rec:19841:2026-11-23",
+                  "source": {
+                    "kind": "event",
+                    "title": "Total Tot Time",
+                    "start": "2026-11-23T10:00:00",
+                    "end": "2026-11-23T12:00:00",
+                    "venue": "Walltown Park Rec Ctr",
+                    "address": "1308 W Club Blvd, Durham, NC",
+                    "url": "https://apm.activecommunities.com/dprplaymore/Activity_Search/total-tot-time/19841?locale=en-US",
+                    "cost": null,
+                    "lat": 36.018264,
+                    "lon": -78.91403399999999,
+                    "ages": "0 - 4",
+                    "registration": "https://apm.activecommunities.com/dprplaymore/Activity_Search/total-tot-time/19841?locale=en-US",
+                    "indoor": true,
+                    "area": "durham",
+                    "source": "durham-rec",
+                    "dropIn": false
+                  }
+                }
+              ],
+              "area": "durham",
+              "outdoor": false,
+              "source": {
+                "kind": "park",
+                "title": "Walltown Park",
+                "address": "1308 W Club Blvd, Durham, NC",
+                "lat": 36.018264,
+                "lon": -78.91403399999999,
+                "url": "https://www.dprplaymore.org/Facilities/Facility/Details/Walltown-Park-74",
+                "amenities": [
+                  "playground",
+                  "picnic-shelter"
+                ],
+                "indoor": false,
+                "area": "durham",
+                "hours": null,
+                "cost": "Free"
+              }
+            },
+            {
+              "ref": "event:wake:22457",
+              "arrive": "09:20",
+              "leave": "10:40",
+              "why": "Books, songs and rhymes at the Family Storytime, then a play at Heater Park. Pick up free tickets at the Youth Services desk when you arrive.",
+              "tips": [
+                "Get there early for tickets.",
+                "Sing one of the songs on the way to the park."
+              ],
+              "interests": [
+                "stories",
+                "music",
+                "movement"
+              ],
+              "also": [
+                {
+                  "ref": "place:heater-park",
+                  "source": {
+                    "kind": "park",
+                    "title": "Heater Park",
+                    "address": "400 S West Street, Cary, NC",
+                    "lat": 35.782741238152695,
+                    "lon": -78.78762242839083,
+                    "url": "https://www.carync.gov/recreation-enjoyment/parks-greenways-environment/parks/heater-park",
+                    "amenities": [
+                      "playground"
+                    ],
+                    "indoor": false,
+                    "area": "cary-apex",
+                    "hours": null,
+                    "cost": "Free"
+                  }
+                }
+              ],
+              "area": "cary-apex",
+              "outdoor": false,
+              "source": {
+                "kind": "event",
+                "title": "Family Storytime",
+                "start": "2026-11-23T09:30:00-05:00",
+                "end": "2026-11-23T10:00:00-05:00",
+                "venue": "Cary Regional Library",
+                "address": "315 Kildaire Farm Road, Cary, NC",
+                "url": "https://www.wake.gov/events/family-storytime-4243",
+                "cost": "Free",
+                "lat": 35.7829780174653,
+                "lon": -78.780241332586,
+                "ages": "Young Children",
+                "registration": null,
+                "indoor": true,
+                "area": "cary-apex",
+                "source": "wake-county",
+                "dropIn": false
+              }
+            },
+            {
+              "ref": "event:wake-parks:8358:2026-11-23",
+              "arrive": "09:00",
+              "leave": "10:30",
+              "why": "Follow the self-guided StoryWalk along the Educational Loop and read the story a page at a time. {They} can stop and go at {their} own pace.",
+              "tips": [
+                "Let {them} point at each page and turn to the next.",
+                "Bring a snack for after the walk."
+              ],
+              "interests": [
+                "stories",
+                "nature"
+              ],
+              "also": [],
+              "area": "south-wake",
+              "outdoor": true,
+              "source": {
+                "kind": "event",
+                "title": "Beech Bluff County Park StoryWalk® 2026 (Self-Led)",
+                "start": "2026-11-23T08:00:00",
+                "end": "2026-11-23T17:30:00",
+                "venue": "Beech Bluff County Park",
+                "address": "Beech Bluff Park Drive, Fuquay-Varina, NC",
+                "url": "https://apm.activecommunities.com/wakeparks/Activity_Search/beech-bluff-county-park-storywalk-2026-self-led/8358?locale=en-US",
+                "cost": "Free",
+                "lat": 35.58537279715877,
+                "lon": -78.6793341971644,
+                "ages": null,
+                "registration": false,
+                "indoor": false,
+                "area": "south-wake",
+                "source": "wake-parks",
+                "dropIn": true
+              }
+            }
+          ],
+          "rainBackup": null,
+          "timeline": [
+            {
+              "start": "07:00",
+              "end": "07:30",
+              "kind": "meal",
+              "title": "Up and breakfast"
+            },
+            {
+              "start": "07:30",
+              "end": "08:35",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "08:35",
+              "end": "08:55",
+              "kind": "routine",
+              "title": "Get ready to go",
+              "detail": "Shoes on, the bag, water and a snack."
+            },
+            {
+              "start": "08:55",
+              "end": "09:15",
+              "kind": "travel",
+              "title": "Drive to NC Museum of Art Museum Park"
+            },
+            {
+              "start": "09:15",
+              "end": "11:00",
+              "kind": "outing",
+              "title": "NC Museum of Art Museum Park"
+            },
+            {
+              "start": "11:00",
+              "end": "11:20",
+              "kind": "travel",
+              "title": "Drive home"
+            },
+            {
+              "start": "11:20",
+              "end": "11:50",
+              "kind": "meal",
+              "title": "Lunch"
+            },
+            {
+              "start": "11:50",
+              "end": "12:00",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "12:00",
+              "end": "14:00",
+              "kind": "nap",
+              "title": "Nap"
+            },
+            {
+              "start": "14:00",
+              "end": "14:20",
+              "kind": "routine",
+              "title": "Up and a snack"
+            },
+            {
+              "start": "14:20",
+              "end": "17:30",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "17:30",
+              "end": "18:15",
+              "kind": "meal",
+              "title": "Dinner"
+            },
+            {
+              "start": "18:15",
+              "end": "19:00",
+              "kind": "routine",
+              "title": "Bath, books and bed"
+            }
+          ]
+        },
+        {
+          "nap": "late-nap",
+          "napLabel": "One nap, 1 to 3",
+          "headline": "Sing and read, then run around the park",
+          "main": {
+            "ref": "event:wake:21633",
+            "arrive": "09:05",
+            "leave": "10:50",
+            "why": "Toddler Storytime has books, music, rhymes and movement for children walking through age 3. Then your toddler can burn off energy at Knightdale Station Park.",
+            "tips": [
+              "Pick up a ticket at the Youth Services desk when you arrive.",
+              "Bring a snack for the park.",
+              "Say goodbye to the swings with a last wave to ease the leaving."
+            ],
+            "interests": [
+              "stories",
+              "music",
+              "movement"
+            ],
+            "also": [
+              {
+                "ref": "place:knightdale-station-park",
+                "source": {
+                  "kind": "park",
+                  "title": "Knightdale Station Park",
+                  "address": "810 North First Avenue, Knightdale, NC",
+                  "lat": 35.795776739559024,
+                  "lon": -78.47584503817626,
+                  "url": "https://www.knightdalenc.gov/knightdalestationpark",
+                  "amenities": [
+                    "playground",
+                    "picnic-shelter",
+                    "greenway"
+                  ],
+                  "indoor": false,
+                  "area": "east-wake",
+                  "hours": null,
+                  "cost": "Free"
+                }
+              }
+            ],
+            "area": "east-wake",
+            "outdoor": false,
+            "source": {
+              "kind": "event",
+              "title": "Toddler Storytime",
+              "start": "2026-11-23T09:15:00-05:00",
+              "end": "2026-11-23T09:45:00-05:00",
+              "venue": "East Regional Library",
+              "address": "946 Steeple Square Court, Knightdale, NC",
+              "url": "https://www.wake.gov/events/toddler-storytime-964",
+              "cost": "Free",
+              "lat": 35.8028243321954,
+              "lon": -78.487155767495,
+              "ages": "Young Children",
+              "registration": null,
+              "indoor": true,
+              "area": "east-wake",
+              "source": "wake-county",
+              "dropIn": false
+            }
+          },
+          "alternatives": [
+            {
+              "ref": "event:wake:24632",
+              "arrive": "09:20",
+              "leave": "10:40",
+              "why": "A short lapsit Baby Storytime with books, songs and rhymes, then play at Wake Forest Kiwanis Park.",
+              "tips": [
+                "Sit close so your toddler can see the pages.",
+                "Bring a snack for the park."
+              ],
+              "interests": [
+                "stories",
+                "music",
+                "movement"
+              ],
+              "also": [
+                {
+                  "ref": "place:wake-forest-kiwanis-park",
+                  "source": {
+                    "kind": "park",
+                    "title": "Wake Forest Kiwanis Park",
+                    "address": "404 E Holding Ave, Wake Forest, NC",
+                    "lat": 35.96949541581039,
+                    "lon": -78.50987455178895,
+                    "url": "https://www.wakeforestnc.gov/parks-recreation-cultural-resources/parks-facilities/kiwanis-park",
+                    "amenities": [
+                      "playground",
+                      "picnic-shelter"
+                    ],
+                    "indoor": false,
+                    "area": "north-raleigh",
+                    "hours": null,
+                    "cost": "Free"
+                  }
+                }
+              ],
+              "area": "north-raleigh",
+              "outdoor": false,
+              "source": {
+                "kind": "event",
+                "title": "Baby Storytime",
+                "start": "2026-11-23T09:30:00-05:00",
+                "end": "2026-11-23T09:50:00-05:00",
+                "venue": "Wake Forest Community Library",
+                "address": "400 E Holding Avenue, Wake Forest, NC",
+                "url": "https://www.wake.gov/events/baby-storytime-1222",
+                "cost": "Free",
+                "lat": 35.9699502750089,
+                "lon": -78.5102712176725,
+                "ages": "Young Children",
+                "registration": null,
+                "indoor": true,
+                "area": "north-raleigh",
+                "source": "wake-county",
+                "dropIn": false
+              }
+            },
+            {
+              "ref": "place:hillside-park",
+              "arrive": "09:30",
+              "leave": "11:30",
+              "why": "Play at Hillside Park, then go into the gym at Total Tot Time to crawl through tunnels and play with a parachute. A family needs to sign up for Total Tot Time.",
+              "tips": [
+                "Bring socks for the gym.",
+                "Offer a snack at the park before the program."
+              ],
+              "interests": [
+                "movement",
+                "music"
+              ],
+              "also": [
+                {
+                  "ref": "event:durham-rec:19772:2026-11-23",
+                  "source": {
+                    "kind": "event",
+                    "title": "Total Tot Time",
+                    "start": "2026-11-23T10:00:00",
+                    "end": "2026-11-23T12:00:00",
+                    "venue": "W.D. Hill Rec Ctr",
+                    "address": "1308 Fayetteville St, Durham, NC",
+                    "url": "https://apm.activecommunities.com/dprplaymore/Activity_Search/total-tot-time/19772?locale=en-US",
+                    "cost": null,
+                    "lat": 35.9797,
+                    "lon": -78.8985,
+                    "ages": "1 - 6",
+                    "registration": "https://apm.activecommunities.com/dprplaymore/Activity_Search/total-tot-time/19772?locale=en-US",
+                    "indoor": true,
+                    "area": "durham",
+                    "source": "durham-rec",
+                    "dropIn": false
+                  }
+                }
+              ],
+              "area": "durham",
+              "outdoor": false,
+              "source": {
+                "kind": "park",
+                "title": "Hillside Park",
+                "address": "1301 S Roxboro St, Durham, NC",
+                "lat": 35.98093222222222,
+                "lon": -78.90178333333333,
+                "url": "https://www.dprplaymore.org/Facilities/Facility/Details/Hillside-Park-32",
+                "amenities": [
+                  "playground",
+                  "splashpad",
+                  "pool",
+                  "picnic-shelter",
+                  "restroom"
+                ],
+                "indoor": false,
+                "area": "durham",
+                "hours": null,
+                "cost": "Free"
+              }
+            },
+            {
+              "ref": "event:wake:22992",
+              "arrive": "09:05",
+              "leave": "10:30",
+              "why": "The last Baby Storytime before the winter pause, with books, rhymes and songs, followed by a play at Fuquay-Varina Museums at Ashworth Park.",
+              "tips": [
+                "Bring a favorite stuffed friend to hold during the songs.",
+                "Pack a snack for the playground."
+              ],
+              "interests": [
+                "stories",
+                "music",
+                "movement"
+              ],
+              "also": [
+                {
+                  "ref": "place:fuquay-varina-museums-at-ashworth-park",
+                  "source": {
+                    "kind": "park",
+                    "title": "Fuquay-Varina Museums at Ashworth Park",
+                    "address": "131 South Fuquay Avenue, Fuquay-Varina, NC",
+                    "lat": 35.58355770107221,
+                    "lon": -78.79818805961258,
+                    "url": "http://www.fuquay-varina.org/Facilities/Facility/Details/FuquayVarina-Museums-at-Ashworth-Park-14",
+                    "amenities": [
+                      "playground",
+                      "greenway"
+                    ],
+                    "indoor": false,
+                    "area": "south-wake",
+                    "hours": null,
+                    "cost": "Free"
+                  }
+                }
+              ],
+              "area": "south-wake",
+              "outdoor": false,
+              "source": {
+                "kind": "event",
+                "title": "Baby Storytime",
+                "start": "2026-11-23T09:15:00-05:00",
+                "end": "2026-11-23T09:30:00-05:00",
+                "venue": "Fuquay-Varina Community Library",
+                "address": "271 Bramblehill Drive, Fuquay-Varina, NC",
+                "url": "https://www.wake.gov/events/baby-storytime-1137",
+                "cost": "Free",
+                "lat": 35.5850617253451,
+                "lon": -78.7802518504044,
+                "ages": "Young Children",
+                "registration": null,
+                "indoor": true,
+                "area": "south-wake",
+                "source": "wake-county",
+                "dropIn": false
+              }
+            },
+            {
+              "ref": "place:apex-nature-park",
+              "arrive": "15:30",
+              "leave": "16:45",
+              "why": "An easy after-nap walk on the greenway where your toddler can explore sticks and leaves.",
+              "tips": [
+                "Bring a snack for the picnic shelter.",
+                "Head to the car before the light fades."
+              ],
+              "interests": [
+                "nature",
+                "movement"
+              ],
+              "also": [],
+              "area": "cary-apex",
+              "outdoor": true,
+              "source": {
+                "kind": "park",
+                "title": "Apex Nature Park",
+                "address": "2600 Evans Rd., Apex, NC",
+                "lat": 35.71709646233568,
+                "lon": -78.90520368087866,
+                "url": "https://www.apexnc.org/800/Nature-Park-Seymour-Athletic-Fields",
+                "amenities": [
+                  "picnic-shelter",
+                  "restroom",
+                  "greenway",
+                  "nature"
+                ],
+                "indoor": false,
+                "area": "cary-apex",
+                "hours": null,
+                "cost": "Free"
+              }
+            }
+          ],
+          "rainBackup": null,
+          "timeline": [
+            {
+              "start": "07:00",
+              "end": "07:30",
+              "kind": "meal",
+              "title": "Up and breakfast"
+            },
+            {
+              "start": "07:30",
+              "end": "08:25",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "08:25",
+              "end": "08:45",
+              "kind": "routine",
+              "title": "Get ready to go",
+              "detail": "Shoes on, the bag, water and a snack."
+            },
+            {
+              "start": "08:45",
+              "end": "09:05",
+              "kind": "travel",
+              "title": "Drive to East Regional Library"
+            },
+            {
+              "start": "09:05",
+              "end": "09:45",
+              "kind": "outing",
+              "title": "Toddler Storytime"
+            },
+            {
+              "start": "09:45",
+              "end": "09:55",
+              "kind": "travel",
+              "title": "Drive to Knightdale Station Park"
+            },
+            {
+              "start": "09:55",
+              "end": "10:50",
+              "kind": "outing",
+              "title": "Knightdale Station Park"
+            },
+            {
+              "start": "10:50",
+              "end": "11:10",
+              "kind": "travel",
+              "title": "Drive home"
+            },
+            {
+              "start": "11:10",
+              "end": "12:15",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "12:15",
+              "end": "12:45",
+              "kind": "meal",
+              "title": "Lunch"
+            },
+            {
+              "start": "12:45",
+              "end": "13:00",
+              "kind": "quiet",
+              "title": "Wind down",
+              "detail": "A couple of books to settle."
+            },
+            {
+              "start": "13:00",
+              "end": "15:00",
+              "kind": "nap",
+              "title": "Nap"
+            },
+            {
+              "start": "15:00",
+              "end": "15:20",
+              "kind": "routine",
+              "title": "Up and a snack"
+            },
+            {
+              "start": "15:20",
+              "end": "18:00",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "18:00",
+              "end": "18:45",
+              "kind": "meal",
+              "title": "Dinner"
+            },
+            {
+              "start": "18:45",
+              "end": "19:30",
+              "kind": "routine",
+              "title": "Bath, books and bed"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "checked": {
+    "at": "2026-11-14T11:03:27.461Z",
+    "forecast": "none",
+    "weather": null,
+    "hidden": []
+  }
+}

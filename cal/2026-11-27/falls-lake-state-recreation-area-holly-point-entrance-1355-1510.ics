@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Triangle Tots//triangletots.com//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:2026-11-27-falls-lake-state-recreation-area-holly-point-entrance-1355-1
+ 510@triangletots.com
+DTSTAMP:20261114T100000Z
+DTSTART:20261127T185500Z
+DTEND:20261127T201000Z
+SUMMARY:Falls Lake State Recreation Area - Holly Point Entrance
+LOCATION:14424 New Light Rd. Wake Forest
+DESCRIPTION:https://www.ncparks.gov/falls-lake-state-recreation-area\nThe w
+ hole day: https://triangletots.com/2026-11-27/t3/\nTimes and details can c
+ hange. Check the event or place before you go.
+END:VEVENT
+END:VCALENDAR

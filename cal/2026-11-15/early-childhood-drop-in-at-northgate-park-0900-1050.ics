@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Triangle Tots//triangletots.com//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:2026-11-15-early-childhood-drop-in-at-northgate-park-0900-1050@triangle
+ tots.com
+DTSTAMP:20261114T100000Z
+DTSTART:20261115T140000Z
+DTEND:20261115T155000Z
+SUMMARY:Early Childhood Drop-In at Northgate Park
+LOCATION:300 W Club Blvd\, Durham\, NC
+DESCRIPTION:https://www.dprplaymore.org/Facilities/Facility/Details/Northga
+ te-Park-47\nhttps://www.lifeandscience.org/learn/drop-in-programs/\nThe wh
+ ole day: https://triangletots.com/2026-11-15/t1/\nTimes and details can ch
+ ange. Check the event or place before you go.
+END:VEVENT
+END:VCALENDAR

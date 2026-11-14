@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Triangle Tots//triangletots.com//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:2026-11-23-toddler-storytime-at-west-regional-library-0920-1115@triangl
+ etots.com
+DTSTAMP:20261114T100000Z
+DTSTART:20261123T142000Z
+DTEND:20261123T161500Z
+SUMMARY:Toddler Storytime at West Regional Library
+LOCATION:4000 Louis Stephens Drive\, Cary\, NC\, 27519
+DESCRIPTION:https://www.wake.gov/events/toddler-storytime-1083\nhttps://ral
+ eighnc.gov/parks-and-recreation/places/pullen-park-amusements\nThe whole d
+ ay: https://triangletots.com/2026-11-23/t2/\nTimes and details can change.
+  Check the event or place before you go.
+END:VEVENT
+END:VCALENDAR

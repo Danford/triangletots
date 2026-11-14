@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Triangle Tots//triangletots.com//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:2026-11-16-tiny-tots-red-leaf-yellow-leaf-at-crowder-county-park-1005-1
+ 150@triangletots.com
+DTSTAMP:20261114T100000Z
+DTSTART:20261116T150500Z
+DTEND:20261116T165000Z
+SUMMARY:Tiny Tots: Red Leaf\, Yellow Leaf at Crowder County Park
+LOCATION:4709 Ten Ten Road
+DESCRIPTION:Sign up first.\nhttps://apm.activecommunities.com/wakeparks/Act
+ ivity_Search/tiny-tots-red-leaf-yellow-leaf/9405?locale=en-US\nhttp://www.
+ townofcary.org/recreation-enjoyment/parks-greenways-environment/parks/jack
+ -smith-park\nThe whole day: https://triangletots.com/2026-11-16/t1/\nTimes
+  and details can change. Check the event or place before you go.
+END:VEVENT
+END:VCALENDAR

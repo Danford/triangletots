@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Triangle Tots//triangletots.com//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:2026-11-25-t-rex-3d-at-levelle-moton-park-1135-1300@triangletots.com
+DTSTAMP:20261114T100000Z
+DTSTART:20261125T163500Z
+DTEND:20261125T180000Z
+SUMMARY:T. REX 3D at LeVelle Moton Park
+LOCATION:920 E. Lane Street\, Raleigh\, NC 27601
+DESCRIPTION:https://raleighnc.gov/parks-and-recreation/places/levelle-moton
+ -park\nhttps://marbleskidsmuseum.org/event/48965/\nThe whole day: https://
+ triangletots.com/2026-11-25/t4/\nTimes and details can change. Check the e
+ vent or place before you go.
+END:VEVENT
+END:VCALENDAR

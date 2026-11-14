@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Triangle Tots//triangletots.com//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:2026-11-18-baby-storytime-at-middle-creek-community-library-0920-1040@t
+ riangletots.com
+DTSTAMP:20261114T100000Z
+DTSTART:20261118T142000Z
+DTEND:20261118T154000Z
+SUMMARY:Baby Storytime at Middle Creek Community Library
+LOCATION:111 Middle Creek Park Avenue\, Apex\, NC
+DESCRIPTION:https://www.wake.gov/events/baby-storytime-1175\nhttps://www.ca
+ rync.gov/recreation-enjoyment/parks-greenways-environment/parks/middle-cre
+ ek-school-park\nThe whole day: https://triangletots.com/2026-11-18/t1/\nTi
+ mes and details can change. Check the event or place before you go.
+END:VEVENT
+END:VCALENDAR

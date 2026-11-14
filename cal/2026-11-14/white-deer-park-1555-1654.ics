@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Triangle Tots//triangletots.com//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:2026-11-14-white-deer-park-1555-1654@triangletots.com
+DTSTAMP:20261114T100000Z
+DTSTART:20261114T205500Z
+DTEND:20261114T215400Z
+SUMMARY:White Deer Park
+LOCATION:2400 Aversboro Road\, Garner NC\, 27529
+DESCRIPTION:https://www.garnernc.gov/departments/parks-recreation-and-cultu
+ ral-resources/garner-parks/white-deer-park\nThe whole day: https://triangl
+ etots.com/2026-11-14/t4/\nTimes and details can change. Check the event or
+  place before you go.
+END:VEVENT
+END:VCALENDAR

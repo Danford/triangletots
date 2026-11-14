@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Triangle Tots//triangletots.com//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:2026-11-14-a-nutcracker-experience-at-northeast-regional-library-1120-1
+ 250@triangletots.com
+DTSTAMP:20261114T100000Z
+DTSTART:20261114T162000Z
+DTEND:20261114T175000Z
+SUMMARY:A Nutcracker Experience at Northeast Regional Library
+LOCATION:14401 Green Elm Lane\, Raleigh\, NC
+DESCRIPTION:https://www.wake.gov/events/nutcracker-experience\nhttps://www.
+ wakeforestnc.gov/parks-recreation-cultural-resources/parks-facilities/plum
+ mer-park\nThe whole day: https://triangletots.com/2026-11-14/t1/\nTimes an
+ d details can change. Check the event or place before you go.
+END:VEVENT
+END:VCALENDAR

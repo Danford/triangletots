@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Triangle Tots//triangletots.com//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:2026-11-26-leigh-farm-park-1600-1648@triangletots.com
+DTSTAMP:20261114T100000Z
+DTSTART:20261126T210000Z
+DTEND:20261126T214800Z
+SUMMARY:Leigh Farm Park
+LOCATION:370 Leigh Farm Rd\, Durham\, NC
+DESCRIPTION:https://www.dprplaymore.org/Facilities/Facility/Details/Leigh-F
+ arm-Park-40\nThe whole day: https://triangletots.com/2026-11-26/t2/\nTimes
+  and details can change. Check the event or place before you go.
+END:VEVENT
+END:VCALENDAR

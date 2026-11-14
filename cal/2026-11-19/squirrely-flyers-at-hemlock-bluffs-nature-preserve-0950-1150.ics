@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Triangle Tots//triangletots.com//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:2026-11-19-squirrely-flyers-at-hemlock-bluffs-nature-preserve-0950-1150
+ @triangletots.com
+DTSTAMP:20261114T100000Z
+DTSTART:20261119T145000Z
+DTEND:20261119T165000Z
+SUMMARY:Squirrely Flyers at Hemlock Bluffs Nature Preserve
+LOCATION:2616 Kildaire Farm Road\, Cary\, NC
+DESCRIPTION:Sign up first.\nhttps://nccaryweb.myvscloud.com/webtrac/web/sea
+ rch.html?module=AR\nhttp://www.wcpss.net/pennyroades\nThe whole day: https
+ ://triangletots.com/2026-11-19/t4/\nTimes and details can change. Check th
+ e event or place before you go.
+END:VEVENT
+END:VCALENDAR

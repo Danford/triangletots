@@ -1,0 +1,861 @@
+{
+  "date": "2026-11-22",
+  "band": "t4",
+  "versions": [
+    {
+      "at": "2026-11-09T11:05:46.422Z",
+      "reason": null,
+      "forecast": "none",
+      "weather": null,
+      "plans": [
+        {
+          "nap": "short-nap",
+          "napLabel": "Short nap, 1 to 2",
+          "headline": "Greenway walk and playground time at Lake Crabtree",
+          "main": {
+            "ref": "place:lake-crabtree-county-park",
+            "arrive": "09:00",
+            "leave": "11:30",
+            "why": "Your child can follow the greenway, hunt for leaves and nature finds, then burn off energy on the playground. It is an easy, open morning with time to get home for lunch.",
+            "tips": [
+              "Bring a snack and eat it at a picnic shelter partway through.",
+              "Give a five-minute warning before the playground ends, then walk back along the greenway.",
+              "Head out by 11:30 am so lunch and rest stay on schedule."
+            ],
+            "interests": [
+              "nature",
+              "movement"
+            ],
+            "also": [],
+            "area": "north-raleigh",
+            "outdoor": true,
+            "source": {
+              "kind": "park",
+              "title": "Lake Crabtree County Park",
+              "address": "1400 Aviation Pkwy., Morrisville, NC  27560",
+              "lat": 35.845600151785014,
+              "lon": -78.80104927513673,
+              "url": "https://www.wakegov.com/departments-government/parks-recreation-and-open-space/all-parks-trails/lake-crabtree-county-park",
+              "amenities": [
+                "playground",
+                "picnic-shelter",
+                "restroom",
+                "greenway",
+                "nature",
+                "garden",
+                "boating"
+              ],
+              "indoor": false,
+              "area": "north-raleigh",
+              "hours": null,
+              "cost": "Free"
+            }
+          },
+          "alternatives": [
+            {
+              "ref": "event:weekly:mols-early-childhood:2026-11-22",
+              "arrive": "09:30",
+              "leave": "11:30",
+              "why": "Sensory play, songs and stories in Hideaway Woods. Your child can come and go and stay as long as {they} like{s}.",
+              "tips": [
+                "Museum admission covers the program.",
+                "Arrive near the start so {they} can settle in before it gets busy."
+              ],
+              "interests": [
+                "nature",
+                "music",
+                "stories"
+              ],
+              "also": [],
+              "area": "durham",
+              "outdoor": true,
+              "source": {
+                "kind": "event",
+                "title": "Early Childhood Drop-In",
+                "start": "2026-11-22T09:30:00",
+                "end": "2026-11-22T11:30:00",
+                "venue": "Hideaway Woods, Museum of Life and Science",
+                "address": "433 W Murray Ave, Durham, NC 27704",
+                "url": "https://www.lifeandscience.org/learn/drop-in-programs/",
+                "cost": "Included with museum admission",
+                "lat": 36.0294,
+                "lon": -78.8993,
+                "ages": "young children and their caregivers",
+                "registration": false,
+                "indoor": false,
+                "area": "durham",
+                "source": "weekly",
+                "dropIn": true
+              }
+            },
+            {
+              "ref": "place:john-chavis-memorial-park",
+              "arrive": "10:30",
+              "leave": "11:45",
+              "why": "Play at John Chavis Memorial Park, which has a carousel and a playground, then watch the Superhuman Body 3D film at Marbles Kids Museum at 11:00 am.",
+              "tips": [
+                "The film is made for ages 4 and up, so let {them} run first.",
+                "Take a bathroom stop before the film starts."
+              ],
+              "interests": [
+                "movement",
+                "science"
+              ],
+              "also": [
+                {
+                  "ref": "event:museum:marbles:48009",
+                  "source": {
+                    "kind": "event",
+                    "title": "Superhuman Body 3D",
+                    "start": "2026-11-22T11:00:00",
+                    "end": "2026-11-22T11:45:00",
+                    "venue": "Marbles Kids Museum",
+                    "address": "201 E Hargett St, Raleigh, NC 27601",
+                    "url": "https://marbleskidsmuseum.org/event/48830/",
+                    "cost": "IMAX documentary: $8 adults, $6 ages 1–11",
+                    "lat": 35.7789,
+                    "lon": -78.6361,
+                    "ages": "IMAX film, 4 and up",
+                    "registration": null,
+                    "indoor": true,
+                    "area": "raleigh",
+                    "source": "museum",
+                    "dropIn": false,
+                    "film": true
+                  }
+                }
+              ],
+              "area": "raleigh",
+              "outdoor": false,
+              "source": {
+                "kind": "park",
+                "title": "John Chavis Memorial Park",
+                "address": "505 Martin Luther King Jr Blvd, Raleigh, NC 27601",
+                "lat": 35.7698,
+                "lon": -78.63021,
+                "url": "https://raleighnc.gov/parks-and-recreation/places/john-chavis-memorial-park",
+                "amenities": [
+                  "community-center",
+                  "playground",
+                  "carousel",
+                  "fields"
+                ],
+                "indoor": false,
+                "area": "raleigh",
+                "hours": null,
+                "cost": "Free"
+              }
+            },
+            {
+              "ref": "event:wake-parks:8358:2026-11-22",
+              "arrive": "09:00",
+              "leave": "10:30",
+              "why": "A self-led StoryWalk along the Educational Loop. Your child reads a page, then runs to find the next one.",
+              "tips": [
+                "Let {them} lead and turn the pages as you go.",
+                "Bring a snack for the end."
+              ],
+              "interests": [
+                "stories",
+                "nature",
+                "movement"
+              ],
+              "also": [],
+              "area": "south-wake",
+              "outdoor": true,
+              "source": {
+                "kind": "event",
+                "title": "Beech Bluff County Park StoryWalk® 2026 (Self-Led)",
+                "start": "2026-11-22T08:00:00",
+                "end": "2026-11-22T17:30:00",
+                "venue": "Beech Bluff County Park",
+                "address": "Beech Bluff Park Drive, Fuquay-Varina, NC",
+                "url": "https://apm.activecommunities.com/wakeparks/Activity_Search/beech-bluff-county-park-storywalk-2026-self-led/8358?locale=en-US",
+                "cost": "Free",
+                "lat": 35.58537279715877,
+                "lon": -78.6793341971644,
+                "ages": null,
+                "registration": false,
+                "indoor": false,
+                "area": "south-wake",
+                "source": "wake-parks",
+                "dropIn": true
+              }
+            },
+            {
+              "ref": "place:leigh-farm-park",
+              "arrive": "09:00",
+              "leave": "10:45",
+              "why": "A calm morning walk along the greenway, with space for your child to explore at {their} own pace.",
+              "tips": [
+                "Bring a snack and a small bag for collecting leaves or sticks.",
+                "Let {them} choose which way to go at each turn."
+              ],
+              "interests": [
+                "nature",
+                "movement"
+              ],
+              "also": [],
+              "area": "chapel-hill",
+              "outdoor": true,
+              "source": {
+                "kind": "park",
+                "title": "Leigh Farm Park",
+                "address": "370 Leigh Farm Rd, Durham, NC",
+                "lat": 35.92444642857142,
+                "lon": -78.98327714285713,
+                "url": "https://www.dprplaymore.org/Facilities/Facility/Details/Leigh-Farm-Park-40",
+                "amenities": [
+                  "restroom",
+                  "greenway"
+                ],
+                "indoor": false,
+                "area": "chapel-hill",
+                "hours": null,
+                "cost": "Free"
+              }
+            }
+          ],
+          "rainBackup": null,
+          "timeline": [
+            {
+              "start": "07:00",
+              "end": "07:30",
+              "kind": "meal",
+              "title": "Up and breakfast"
+            },
+            {
+              "start": "07:30",
+              "end": "08:20",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "08:20",
+              "end": "08:40",
+              "kind": "routine",
+              "title": "Get ready to go",
+              "detail": "Shoes on, the bag, water and a snack."
+            },
+            {
+              "start": "08:40",
+              "end": "09:00",
+              "kind": "travel",
+              "title": "Drive to Lake Crabtree County Park"
+            },
+            {
+              "start": "09:00",
+              "end": "11:30",
+              "kind": "outing",
+              "title": "Lake Crabtree County Park"
+            },
+            {
+              "start": "11:30",
+              "end": "11:50",
+              "kind": "travel",
+              "title": "Drive home"
+            },
+            {
+              "start": "11:50",
+              "end": "12:15",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "12:15",
+              "end": "12:45",
+              "kind": "meal",
+              "title": "Lunch"
+            },
+            {
+              "start": "12:45",
+              "end": "13:00",
+              "kind": "quiet",
+              "title": "Wind down",
+              "detail": "A couple of books to settle."
+            },
+            {
+              "start": "13:00",
+              "end": "14:00",
+              "kind": "nap",
+              "title": "Nap"
+            },
+            {
+              "start": "14:00",
+              "end": "14:20",
+              "kind": "routine",
+              "title": "Up and a snack"
+            },
+            {
+              "start": "14:20",
+              "end": "18:30",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "18:30",
+              "end": "19:15",
+              "kind": "meal",
+              "title": "Dinner"
+            },
+            {
+              "start": "19:15",
+              "end": "20:00",
+              "kind": "routine",
+              "title": "Bath, books and bed"
+            }
+          ]
+        },
+        {
+          "nap": "quiet",
+          "napLabel": "Quiet time",
+          "headline": "Play at John Chavis park, then a 3D film about the body",
+          "main": {
+            "ref": "place:john-chavis-memorial-park",
+            "arrive": "10:30",
+            "leave": "11:45",
+            "why": "Start with the playground and carousel at John Chavis Memorial Park, then settle in for the 11:00 am Superhuman Body 3D film at Marbles Kids Museum.",
+            "tips": [
+              "Play first so {they} can sit still for the film.",
+              "Tell your child before you go that the film comes next, so leaving the park is easier.",
+              "The film is made for ages 4 and up. Bring a snack for after."
+            ],
+            "interests": [
+              "movement",
+              "science"
+            ],
+            "also": [],
+            "area": "raleigh",
+            "outdoor": true,
+            "source": {
+              "kind": "park",
+              "title": "John Chavis Memorial Park",
+              "address": "505 Martin Luther King Jr Blvd, Raleigh, NC 27601",
+              "lat": 35.7698,
+              "lon": -78.63021,
+              "url": "https://raleighnc.gov/parks-and-recreation/places/john-chavis-memorial-park",
+              "amenities": [
+                "community-center",
+                "playground",
+                "carousel",
+                "fields"
+              ],
+              "indoor": false,
+              "area": "raleigh",
+              "hours": null,
+              "cost": "Free"
+            }
+          },
+          "alternatives": [
+            {
+              "ref": "event:weekly:mols-early-childhood:2026-11-22",
+              "arrive": "09:30",
+              "leave": "11:30",
+              "why": "Sensory play, songs and stories in Hideaway Woods. Your child can come and go and stay as long as {they} like{s}.",
+              "tips": [
+                "Museum admission covers the program.",
+                "Plan to head home by 11:30 am so there is time to wind down."
+              ],
+              "interests": [
+                "nature",
+                "music",
+                "stories"
+              ],
+              "also": [],
+              "area": "durham",
+              "outdoor": true,
+              "source": {
+                "kind": "event",
+                "title": "Early Childhood Drop-In",
+                "start": "2026-11-22T09:30:00",
+                "end": "2026-11-22T11:30:00",
+                "venue": "Hideaway Woods, Museum of Life and Science",
+                "address": "433 W Murray Ave, Durham, NC 27704",
+                "url": "https://www.lifeandscience.org/learn/drop-in-programs/",
+                "cost": "Included with museum admission",
+                "lat": 36.0294,
+                "lon": -78.8993,
+                "ages": "young children and their caregivers",
+                "registration": false,
+                "indoor": false,
+                "area": "durham",
+                "source": "weekly",
+                "dropIn": true
+              }
+            },
+            {
+              "ref": "event:wake-parks:8358:2026-11-22",
+              "arrive": "09:00",
+              "leave": "10:30",
+              "why": "A self-led StoryWalk along the Educational Loop. Your child reads a page, then runs to find the next one.",
+              "tips": [
+                "Let {them} lead and turn the pages as you go.",
+                "Bring a snack for the end."
+              ],
+              "interests": [
+                "stories",
+                "nature",
+                "movement"
+              ],
+              "also": [],
+              "area": "south-wake",
+              "outdoor": true,
+              "source": {
+                "kind": "event",
+                "title": "Beech Bluff County Park StoryWalk® 2026 (Self-Led)",
+                "start": "2026-11-22T08:00:00",
+                "end": "2026-11-22T17:30:00",
+                "venue": "Beech Bluff County Park",
+                "address": "Beech Bluff Park Drive, Fuquay-Varina, NC",
+                "url": "https://apm.activecommunities.com/wakeparks/Activity_Search/beech-bluff-county-park-storywalk-2026-self-led/8358?locale=en-US",
+                "cost": "Free",
+                "lat": 35.58537279715877,
+                "lon": -78.6793341971644,
+                "ages": null,
+                "registration": false,
+                "indoor": false,
+                "area": "south-wake",
+                "source": "wake-parks",
+                "dropIn": true
+              }
+            },
+            {
+              "ref": "place:lake-crabtree-county-park",
+              "arrive": "09:00",
+              "leave": "11:30",
+              "why": "Your child can follow the greenway, look for nature finds, then play on the playground before quiet time.",
+              "tips": [
+                "Bring a snack for a picnic shelter break.",
+                "Warn {them} five minutes before it is time to go."
+              ],
+              "interests": [
+                "nature",
+                "movement"
+              ],
+              "also": [],
+              "area": "north-raleigh",
+              "outdoor": true,
+              "source": {
+                "kind": "park",
+                "title": "Lake Crabtree County Park",
+                "address": "1400 Aviation Pkwy., Morrisville, NC  27560",
+                "lat": 35.845600151785014,
+                "lon": -78.80104927513673,
+                "url": "https://www.wakegov.com/departments-government/parks-recreation-and-open-space/all-parks-trails/lake-crabtree-county-park",
+                "amenities": [
+                  "playground",
+                  "picnic-shelter",
+                  "restroom",
+                  "greenway",
+                  "nature",
+                  "garden",
+                  "boating"
+                ],
+                "indoor": false,
+                "area": "north-raleigh",
+                "hours": null,
+                "cost": "Free"
+              }
+            },
+            {
+              "ref": "event:wake-parks:9404",
+              "arrive": "13:50",
+              "leave": "15:30",
+              "why": "A guided art program at Robin Shelter using fall leaves and the color wheel, then play at Crowder County Park. A family needs to sign up first.",
+              "tips": [
+                "Pick up a few colorful leaves on the way in.",
+                "Bring a snack for after the program."
+              ],
+              "interests": [
+                "art",
+                "nature"
+              ],
+              "also": [
+                {
+                  "ref": "place:crowder-county-park",
+                  "source": {
+                    "kind": "park",
+                    "title": "Crowder County Park",
+                    "address": "4709 Ten Ten Road",
+                    "lat": 35.69174392711247,
+                    "lon": -78.76585678897689,
+                    "url": "https://www.wakegov.com/departments-government/parks-recreation-and-open-space/all-parks-trails/crowder-county-park",
+                    "amenities": [
+                      "playground",
+                      "picnic-shelter",
+                      "restroom",
+                      "greenway",
+                      "garden"
+                    ],
+                    "indoor": false,
+                    "area": "cary-apex",
+                    "hours": null,
+                    "cost": "Free"
+                  }
+                }
+              ],
+              "area": "cary-apex",
+              "outdoor": true,
+              "source": {
+                "kind": "event",
+                "title": "Art in the Park: The Colors of Fall",
+                "start": "2026-11-22T14:00:00",
+                "end": "2026-11-22T15:00:00",
+                "venue": "Crowder County Park",
+                "address": "4709 Ten Ten Road",
+                "url": "https://apm.activecommunities.com/wakeparks/Activity_Search/art-in-the-park-the-colors-of-fall/9404?locale=en-US",
+                "cost": "Free",
+                "lat": 35.69174392711247,
+                "lon": -78.76585678897689,
+                "ages": null,
+                "registration": "https://apm.activecommunities.com/wakeparks/Activity_Search/art-in-the-park-the-colors-of-fall/9404?locale=en-US",
+                "indoor": false,
+                "area": "cary-apex",
+                "source": "wake-parks",
+                "dropIn": false
+              }
+            }
+          ],
+          "rainBackup": null,
+          "timeline": [
+            {
+              "start": "07:00",
+              "end": "07:30",
+              "kind": "meal",
+              "title": "Up and breakfast"
+            },
+            {
+              "start": "07:30",
+              "end": "09:50",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "09:50",
+              "end": "10:10",
+              "kind": "routine",
+              "title": "Get ready to go",
+              "detail": "Shoes on, the bag, water and a snack."
+            },
+            {
+              "start": "10:10",
+              "end": "10:30",
+              "kind": "travel",
+              "title": "Drive to John Chavis Memorial Park"
+            },
+            {
+              "start": "10:30",
+              "end": "11:45",
+              "kind": "outing",
+              "title": "John Chavis Memorial Park"
+            },
+            {
+              "start": "11:45",
+              "end": "12:05",
+              "kind": "travel",
+              "title": "Drive home"
+            },
+            {
+              "start": "12:05",
+              "end": "12:35",
+              "kind": "meal",
+              "title": "Lunch"
+            },
+            {
+              "start": "12:35",
+              "end": "13:00",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "13:00",
+              "end": "13:45",
+              "kind": "quiet",
+              "title": "Quiet time",
+              "detail": "Books or quiet play in their room."
+            },
+            {
+              "start": "13:45",
+              "end": "18:00",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "18:00",
+              "end": "18:45",
+              "kind": "meal",
+              "title": "Dinner"
+            },
+            {
+              "start": "18:45",
+              "end": "19:30",
+              "kind": "routine",
+              "title": "Bath, books and bed"
+            }
+          ]
+        },
+        {
+          "nap": "no-nap",
+          "napLabel": "No nap",
+          "headline": "Paint with fall colors, then play at Crowder County Park",
+          "main": {
+            "ref": "event:wake-parks:9404",
+            "arrive": "13:50",
+            "leave": "15:30",
+            "why": "Join Art in the Park at 2:00 pm at Robin Shelter to explore the color wheel with fall leaves, then play at Crowder County Park. A family needs to sign up first.",
+            "tips": [
+              "Collect a few colorful leaves on the way in to match colors.",
+              "Bring a snack for after the program, before the playground.",
+              "Say the playground is next so leaving the art table is easy."
+            ],
+            "interests": [
+              "art",
+              "nature"
+            ],
+            "also": [
+              {
+                "ref": "place:crowder-county-park",
+                "source": {
+                  "kind": "park",
+                  "title": "Crowder County Park",
+                  "address": "4709 Ten Ten Road",
+                  "lat": 35.69174392711247,
+                  "lon": -78.76585678897689,
+                  "url": "https://www.wakegov.com/departments-government/parks-recreation-and-open-space/all-parks-trails/crowder-county-park",
+                  "amenities": [
+                    "playground",
+                    "picnic-shelter",
+                    "restroom",
+                    "greenway",
+                    "garden"
+                  ],
+                  "indoor": false,
+                  "area": "cary-apex",
+                  "hours": null,
+                  "cost": "Free"
+                }
+              }
+            ],
+            "area": "cary-apex",
+            "outdoor": true,
+            "source": {
+              "kind": "event",
+              "title": "Art in the Park: The Colors of Fall",
+              "start": "2026-11-22T14:00:00",
+              "end": "2026-11-22T15:00:00",
+              "venue": "Crowder County Park",
+              "address": "4709 Ten Ten Road",
+              "url": "https://apm.activecommunities.com/wakeparks/Activity_Search/art-in-the-park-the-colors-of-fall/9404?locale=en-US",
+              "cost": "Free",
+              "lat": 35.69174392711247,
+              "lon": -78.76585678897689,
+              "ages": null,
+              "registration": "https://apm.activecommunities.com/wakeparks/Activity_Search/art-in-the-park-the-colors-of-fall/9404?locale=en-US",
+              "indoor": false,
+              "area": "cary-apex",
+              "source": "wake-parks",
+              "dropIn": false
+            }
+          },
+          "alternatives": [
+            {
+              "ref": "event:weekly:mols-early-childhood:2026-11-22",
+              "arrive": "09:30",
+              "leave": "11:30",
+              "why": "Sensory play, songs and stories in Hideaway Woods. Your child can come and go and stay as long as {they} like{s}.",
+              "tips": [
+                "Museum admission covers the program.",
+                "Arrive near the start so {they} can settle in before it gets busy."
+              ],
+              "interests": [
+                "nature",
+                "music",
+                "stories"
+              ],
+              "also": [],
+              "area": "durham",
+              "outdoor": true,
+              "source": {
+                "kind": "event",
+                "title": "Early Childhood Drop-In",
+                "start": "2026-11-22T09:30:00",
+                "end": "2026-11-22T11:30:00",
+                "venue": "Hideaway Woods, Museum of Life and Science",
+                "address": "433 W Murray Ave, Durham, NC 27704",
+                "url": "https://www.lifeandscience.org/learn/drop-in-programs/",
+                "cost": "Included with museum admission",
+                "lat": 36.0294,
+                "lon": -78.8993,
+                "ages": "young children and their caregivers",
+                "registration": false,
+                "indoor": false,
+                "area": "durham",
+                "source": "weekly",
+                "dropIn": true
+              }
+            },
+            {
+              "ref": "event:wake-parks:8358:2026-11-22",
+              "arrive": "10:00",
+              "leave": "11:30",
+              "why": "A self-led StoryWalk along the Educational Loop. Your child reads a page, then runs to find the next one.",
+              "tips": [
+                "Let {them} lead and turn the pages as you go.",
+                "Bring a snack for the end."
+              ],
+              "interests": [
+                "stories",
+                "nature",
+                "movement"
+              ],
+              "also": [],
+              "area": "south-wake",
+              "outdoor": true,
+              "source": {
+                "kind": "event",
+                "title": "Beech Bluff County Park StoryWalk® 2026 (Self-Led)",
+                "start": "2026-11-22T08:00:00",
+                "end": "2026-11-22T17:30:00",
+                "venue": "Beech Bluff County Park",
+                "address": "Beech Bluff Park Drive, Fuquay-Varina, NC",
+                "url": "https://apm.activecommunities.com/wakeparks/Activity_Search/beech-bluff-county-park-storywalk-2026-self-led/8358?locale=en-US",
+                "cost": "Free",
+                "lat": 35.58537279715877,
+                "lon": -78.6793341971644,
+                "ages": null,
+                "registration": false,
+                "indoor": false,
+                "area": "south-wake",
+                "source": "wake-parks",
+                "dropIn": true
+              }
+            },
+            {
+              "ref": "place:lake-crabtree-county-park",
+              "arrive": "09:00",
+              "leave": "11:30",
+              "why": "Your child can follow the greenway, look for nature finds, then play on the playground.",
+              "tips": [
+                "Bring a snack for a picnic shelter break.",
+                "Warn {them} five minutes before it is time to go."
+              ],
+              "interests": [
+                "nature",
+                "movement"
+              ],
+              "also": [],
+              "area": "north-raleigh",
+              "outdoor": true,
+              "source": {
+                "kind": "park",
+                "title": "Lake Crabtree County Park",
+                "address": "1400 Aviation Pkwy., Morrisville, NC  27560",
+                "lat": 35.845600151785014,
+                "lon": -78.80104927513673,
+                "url": "https://www.wakegov.com/departments-government/parks-recreation-and-open-space/all-parks-trails/lake-crabtree-county-park",
+                "amenities": [
+                  "playground",
+                  "picnic-shelter",
+                  "restroom",
+                  "greenway",
+                  "nature",
+                  "garden",
+                  "boating"
+                ],
+                "indoor": false,
+                "area": "north-raleigh",
+                "hours": null,
+                "cost": "Free"
+              }
+            }
+          ],
+          "rainBackup": null,
+          "timeline": [
+            {
+              "start": "07:00",
+              "end": "07:30",
+              "kind": "meal",
+              "title": "Up and breakfast"
+            },
+            {
+              "start": "07:30",
+              "end": "11:45",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "11:45",
+              "end": "12:15",
+              "kind": "meal",
+              "title": "Lunch"
+            },
+            {
+              "start": "12:15",
+              "end": "13:10",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "13:10",
+              "end": "13:30",
+              "kind": "routine",
+              "title": "Get ready to go",
+              "detail": "Shoes on, the bag, water and a snack."
+            },
+            {
+              "start": "13:30",
+              "end": "13:50",
+              "kind": "travel",
+              "title": "Drive to Crowder County Park"
+            },
+            {
+              "start": "13:50",
+              "end": "15:00",
+              "kind": "outing",
+              "title": "Art in the Park: The Colors of Fall"
+            },
+            {
+              "start": "15:00",
+              "end": "15:30",
+              "kind": "outing",
+              "title": "Crowder County Park"
+            },
+            {
+              "start": "15:30",
+              "end": "15:50",
+              "kind": "travel",
+              "title": "Drive home"
+            },
+            {
+              "start": "15:50",
+              "end": "18:00",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "18:00",
+              "end": "18:45",
+              "kind": "meal",
+              "title": "Dinner"
+            },
+            {
+              "start": "18:45",
+              "end": "19:30",
+              "kind": "routine",
+              "title": "Bath, books and bed"
+            }
+          ]
+        }
+      ],
+      "dropped": [
+        "[no-nap] alternative place:john-chavis-memorial-park: one film in an outing is plenty at this age"
+      ]
+    }
+  ],
+  "checked": {
+    "at": "2026-11-14T11:03:27.457Z",
+    "forecast": "none",
+    "weather": null,
+    "hidden": []
+  }
+}

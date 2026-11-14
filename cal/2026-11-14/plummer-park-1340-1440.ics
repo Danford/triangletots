@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Triangle Tots//triangletots.com//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:2026-11-14-plummer-park-1340-1440@triangletots.com
+DTSTAMP:20261114T100000Z
+DTSTART:20261114T184000Z
+DTEND:20261114T194000Z
+SUMMARY:Plummer Park
+LOCATION:965 Jones Wynd\, Wake Forest\, NC
+DESCRIPTION:https://www.wakeforestnc.gov/parks-recreation-cultural-resource
+ s/parks-facilities/plummer-park\nThe whole day: https://triangletots.com/2
+ 026-11-14/t3/\nTimes and details can change. Check the event or place befo
+ re you go.
+END:VEVENT
+END:VCALENDAR

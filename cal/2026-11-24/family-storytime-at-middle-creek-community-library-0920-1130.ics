@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Triangle Tots//triangletots.com//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:2026-11-24-family-storytime-at-middle-creek-community-library-0920-1130
+ @triangletots.com
+DTSTAMP:20261114T100000Z
+DTSTART:20261124T142000Z
+DTEND:20261124T163000Z
+SUMMARY:Family Storytime at Middle Creek Community Library
+LOCATION:111 Middle Creek Park Avenue\, Apex\, NC
+DESCRIPTION:https://www.wake.gov/events/family-storytime-4673\nhttps://www.
+ carync.gov/recreation-enjoyment/parks-greenways-environment/parks/middle-c
+ reek-school-park\nThe whole day: https://triangletots.com/2026-11-24/t2/\n
+ Times and details can change. Check the event or place before you go.
+END:VEVENT
+END:VCALENDAR

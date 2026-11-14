@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Triangle Tots//triangletots.com//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:2026-11-20-barwell-road-park-1500-1615@triangletots.com
+DTSTAMP:20261114T100000Z
+DTSTART:20261120T200000Z
+DTEND:20261120T211500Z
+SUMMARY:Barwell Road Park
+LOCATION:5857 Barwell Park Drive\, Raleigh\, NC 27610
+DESCRIPTION:https://raleighnc.gov/parks-and-recreation/places/barwell-road-
+ park\nThe whole day: https://triangletots.com/2026-11-20/t2/\nTimes and de
+ tails can change. Check the event or place before you go.
+END:VEVENT
+END:VCALENDAR

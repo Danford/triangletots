@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Triangle Tots//triangletots.com//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:2026-11-20-preschool-storytime-at-main-library-1020-1210@triangletots.c
+ om
+DTSTAMP:20261114T100000Z
+DTSTART:20261120T152000Z
+DTEND:20261120T171000Z
+SUMMARY:Preschool Storytime at Main Library
+LOCATION:300 N. Roxboro St\, Durham\, NC
+DESCRIPTION:Sign up first.\nhttps://durhamcountylibrary.libcal.com/event/17
+ 237060\nhttps://www.dprplaymore.org/Facilities/Facility/Details/Edgemont-P
+ ark-22\nThe whole day: https://triangletots.com/2026-11-20/t4/\nTimes and 
+ details can change. Check the event or place before you go.
+END:VEVENT
+END:VCALENDAR

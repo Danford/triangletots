@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Triangle Tots//triangletots.com//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:2026-11-24-total-tot-time-at-edison-johnson-rec-ctr-0950-1130@trianglet
+ ots.com
+DTSTAMP:20261114T100000Z
+DTSTART:20261124T145000Z
+DTEND:20261124T163000Z
+SUMMARY:Total Tot Time at Edison Johnson Rec Ctr
+LOCATION:W Murray Ave\, Durham\, NC
+DESCRIPTION:Sign up first.\nhttps://apm.activecommunities.com/dprplaymore/A
+ ctivity_Search/total-tot-time/19599?locale=en-US\nThe whole day: https://t
+ riangletots.com/2026-11-24/t1/\nTimes and details can change. Check the ev
+ ent or place before you go.
+END:VEVENT
+END:VCALENDAR

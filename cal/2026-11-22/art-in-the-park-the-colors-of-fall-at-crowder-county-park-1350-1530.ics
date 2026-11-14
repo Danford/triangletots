@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Triangle Tots//triangletots.com//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:2026-11-22-art-in-the-park-the-colors-of-fall-at-crowder-county-park-13
+ 50-1530@triangletots.com
+DTSTAMP:20261114T100000Z
+DTSTART:20261122T185000Z
+DTEND:20261122T203000Z
+SUMMARY:Art in the Park: The Colors of Fall at Crowder County Park
+LOCATION:4709 Ten Ten Road
+DESCRIPTION:Sign up first.\nhttps://apm.activecommunities.com/wakeparks/Act
+ ivity_Search/art-in-the-park-the-colors-of-fall/9404?locale=en-US\nhttps:/
+ /www.wakegov.com/departments-government/parks-recreation-and-open-space/al
+ l-parks-trails/crowder-county-park\nThe whole day: https://triangletots.co
+ m/2026-11-22/t4/\nTimes and details can change. Check the event or place b
+ efore you go.
+END:VEVENT
+END:VCALENDAR

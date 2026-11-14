@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Triangle Tots//triangletots.com//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:2026-11-14-music-in-the-library-raleigh-ukem-jam-at-seagroves-farm-park
+ -1500-1630@triangletots.com
+DTSTAMP:20261114T100000Z
+DTSTART:20261114T200000Z
+DTEND:20261114T213000Z
+SUMMARY:Music in the Library: Raleigh Ukem Jam at Seagroves Farm Park
+LOCATION:201 Parkfield Dr.\, Apex\, NC
+DESCRIPTION:https://www.apexnc.org/1936/Seagroves-Farm-Park\nhttps://www.wa
+ ke.gov/events/music-library-raleigh-ukem-jam\nThe whole day: https://trian
+ gletots.com/2026-11-14/t3/\nTimes and details can change. Check the event 
+ or place before you go.
+END:VEVENT
+END:VCALENDAR

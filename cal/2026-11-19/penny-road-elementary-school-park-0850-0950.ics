@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Triangle Tots//triangletots.com//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:2026-11-19-penny-road-elementary-school-park-0850-0950@triangletots.com
+DTSTAMP:20261114T100000Z
+DTSTART:20261119T135000Z
+DTEND:20261119T145000Z
+SUMMARY:Penny Road Elementary School Park
+LOCATION:10900 Penny Rd\, Cary\, NC
+DESCRIPTION:http://www.wcpss.net/pennyroades\nThe whole day: https://triang
+ letots.com/2026-11-19/t4/\nTimes and details can change. Check the event o
+ r place before you go.
+END:VEVENT
+END:VCALENDAR

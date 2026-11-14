@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Triangle Tots//triangletots.com//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:2026-11-23-hemlock-bluffs-nature-preserve-1430-1545@triangletots.com
+DTSTAMP:20261114T100000Z
+DTSTART:20261123T193000Z
+DTEND:20261123T204500Z
+SUMMARY:Hemlock Bluffs Nature Preserve
+LOCATION:2616 Kildaire Farm Rd\, Cary\, NC 27518
+DESCRIPTION:https://www.carync.gov/recreation-enjoyment/parks-greenways-env
+ ironment/parks/stevens-nature-center-at-hemlock-bluffs-nature-preserve\nTh
+ e whole day: https://triangletots.com/2026-11-23/t4/\nTimes and details ca
+ n change. Check the event or place before you go.
+END:VEVENT
+END:VCALENDAR

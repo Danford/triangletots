@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Triangle Tots//triangletots.com//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:2026-11-20-family-storytime-at-elevate-fitness-course-0950-1100@triangl
+ etots.com
+DTSTAMP:20261114T100000Z
+DTSTART:20261120T145000Z
+DTEND:20261120T160000Z
+SUMMARY:Family Storytime at Elevate Fitness Course
+LOCATION:2200 Laura Duncan Road
+DESCRIPTION:http://www.apexnc.org/1187/Elevate-Fitness-Course\nhttps://www.
+ wake.gov/events/family-storytime-4707\nThe whole day: https://triangletots
+ .com/2026-11-20/t2/\nTimes and details can change. Check the event or plac
+ e before you go.
+END:VEVENT
+END:VCALENDAR

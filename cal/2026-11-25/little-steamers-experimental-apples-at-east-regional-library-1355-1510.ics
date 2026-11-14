@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Triangle Tots//triangletots.com//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:2026-11-25-little-steamers-experimental-apples-at-east-regional-library
+ -1355-1510@triangletots.com
+DTSTAMP:20261114T100000Z
+DTSTART:20261125T185500Z
+DTEND:20261125T201000Z
+SUMMARY:Little STEAMers: Experimental Apples at East Regional Library
+LOCATION:211 Lick Creek Lane\, Durham\, NC
+DESCRIPTION:Sign up first.\nhttps://durhamcountylibrary.libcal.com/event/17
+ 669051\nhttps://www.knightdalenc.gov/knightdalestationpark\nThe whole day:
+  https://triangletots.com/2026-11-25/t4/\nTimes and details can change. Ch
+ eck the event or place before you go.
+END:VEVENT
+END:VCALENDAR

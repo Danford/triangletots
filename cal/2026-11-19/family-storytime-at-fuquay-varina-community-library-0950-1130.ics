@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Triangle Tots//triangletots.com//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:2026-11-19-family-storytime-at-fuquay-varina-community-library-0950-113
+ 0@triangletots.com
+DTSTAMP:20261114T100000Z
+DTSTART:20261119T145000Z
+DTEND:20261119T163000Z
+SUMMARY:Family Storytime at Fuquay-Varina Community Library
+LOCATION:271 Bramblehill Drive\, Fuquay-Varina\, NC
+DESCRIPTION:https://www.wake.gov/events/family-storytime-4583\nhttp://www.f
+ uquay-varina.org/Facilities/Facility/Details/FuquayVarina-Museums-at-Ashwo
+ rth-Park-14\nThe whole day: https://triangletots.com/2026-11-19/t1/\nTimes
+  and details can change. Check the event or place before you go.
+END:VEVENT
+END:VCALENDAR

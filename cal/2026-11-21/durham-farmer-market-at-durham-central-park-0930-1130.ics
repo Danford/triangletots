@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Triangle Tots//triangletots.com//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:2026-11-21-durham-farmer-market-at-durham-central-park-0930-1130@triang
+ letots.com
+DTSTAMP:20261114T100000Z
+DTSTART:20261121T143000Z
+DTEND:20261121T163000Z
+SUMMARY:Durham Farmer’ Market at Durham Central Park
+LOCATION:501 Foster Street\, Durham\, NC\, 27701
+DESCRIPTION:https://durhamcentralpark.org/upcoming-event/durham-farmer-mark
+ et/2026-11-21/\nhttps://www.dprplaymore.org/Facilities/Facility/Details/Du
+ rham-Central-Park-18\nThe whole day: https://triangletots.com/2026-11-21/t
+ 3/\nTimes and details can change. Check the event or place before you go.
+END:VEVENT
+END:VCALENDAR

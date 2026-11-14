@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Triangle Tots//triangletots.com//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:2026-11-22-exploration-station-american-bison-at-historic-yates-mill-co
+ -0830-1015@triangletots.com
+DTSTAMP:20261114T100000Z
+DTSTART:20261122T133000Z
+DTEND:20261122T151500Z
+SUMMARY:Exploration Station: American Bison at Historic Yates Mill County P
+ ark
+LOCATION:4620 Lake Wheeler Rd.\, Raleigh\, NC  27603
+DESCRIPTION:https://apm.activecommunities.com/wakeparks/Activity_Search/exp
+ loration-station-american-bison/9411?locale=en-US\nThe whole day: https://
+ triangletots.com/2026-11-22/t1/\nTimes and details can change. Check the e
+ vent or place before you go.
+END:VEVENT
+END:VCALENDAR

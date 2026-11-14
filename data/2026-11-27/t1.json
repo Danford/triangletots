@@ -1,0 +1,870 @@
+{
+  "date": "2026-11-27",
+  "band": "t1",
+  "versions": [
+    {
+      "at": "2026-11-14T11:04:57.175Z",
+      "reason": null,
+      "forecast": "none",
+      "weather": null,
+      "plans": [
+        {
+          "nap": "two-naps",
+          "napLabel": "Two naps",
+          "headline": "Sensory play and songs in the woods, then a Durham park",
+          "main": {
+            "ref": "event:weekly:mols-early-childhood:2026-11-27",
+            "arrive": "11:00",
+            "leave": "12:30",
+            "why": "Your toddler gets sensory play, songs and stories at the Early Childhood Drop-In in Hideaway Woods, then runs at Rock Quarry Park. Drop in and stay as long as {they} like{s}.",
+            "tips": [
+              "Bring a snack for the park once the songs wind down.",
+              "Let your child wander between activities instead of sitting for the whole program.",
+              "Offer lunch in the car on the way home so naptime starts easy."
+            ],
+            "interests": [
+              "music",
+              "stories",
+              "nature"
+            ],
+            "also": [
+              {
+                "ref": "place:rock-quarry-park",
+                "source": {
+                  "kind": "park",
+                  "title": "Rock Quarry Park",
+                  "address": "701 Stadium Dr, Durham, NC",
+                  "lat": 36.03166363636364,
+                  "lon": -78.90176545454545,
+                  "url": "https://www.dprplaymore.org/Facilities/Facility/Details/Rock-Quarry-Park-60",
+                  "amenities": [
+                    "playground",
+                    "splashpad",
+                    "restroom",
+                    "greenway"
+                  ],
+                  "indoor": false,
+                  "area": "durham",
+                  "hours": null,
+                  "cost": "Free"
+                }
+              }
+            ],
+            "area": "durham",
+            "outdoor": true,
+            "source": {
+              "kind": "event",
+              "title": "Early Childhood Drop-In",
+              "start": "2026-11-27T09:30:00",
+              "end": "2026-11-27T11:30:00",
+              "venue": "Hideaway Woods, Museum of Life and Science",
+              "address": "433 W Murray Ave, Durham, NC 27704",
+              "url": "https://www.lifeandscience.org/learn/drop-in-programs/",
+              "cost": "Included with museum admission",
+              "lat": 36.0294,
+              "lon": -78.8993,
+              "ages": "young children and their caregivers",
+              "registration": false,
+              "indoor": false,
+              "area": "durham",
+              "source": "weekly",
+              "dropIn": true
+            }
+          },
+          "alternatives": [
+            {
+              "ref": "event:wake-parks:9411:2026-11-27",
+              "arrive": "12:30",
+              "leave": "13:50",
+              "why": "Your toddler can drop in to the bison Exploration Station, then visit the Mill Open House at Yates Mill with the mill doors open and interpreters to talk with.",
+              "tips": [
+                "Carry your child in the mill if {they} want{s} a better view.",
+                "Let {them} point and look rather than listen to long explanations."
+              ],
+              "interests": [
+                "animals",
+                "nature",
+                "science"
+              ],
+              "also": [
+                {
+                  "ref": "event:wake-parks:9430",
+                  "source": {
+                    "kind": "event",
+                    "title": "Mill Open House",
+                    "start": "2026-11-27T13:00:00",
+                    "end": "2026-11-27T16:00:00",
+                    "venue": "Historic Yates Mill County Park",
+                    "address": "4620 Lake Wheeler Rd., Raleigh, NC  27603",
+                    "url": "https://apm.activecommunities.com/wakeparks/Activity_Search/mill-open-house/9430?locale=en-US",
+                    "cost": "Free",
+                    "lat": 35.72157134974476,
+                    "lon": -78.68526087901417,
+                    "ages": null,
+                    "registration": false,
+                    "indoor": false,
+                    "area": "raleigh",
+                    "source": "wake-parks",
+                    "dropIn": true
+                  }
+                }
+              ],
+              "area": "raleigh",
+              "outdoor": true,
+              "source": {
+                "kind": "event",
+                "title": "Exploration Station: American Bison",
+                "start": "2026-11-27T08:30:00",
+                "end": "2026-11-27T17:00:00",
+                "venue": "Historic Yates Mill County Park",
+                "address": "4620 Lake Wheeler Rd., Raleigh, NC  27603",
+                "url": "https://apm.activecommunities.com/wakeparks/Activity_Search/exploration-station-american-bison/9411?locale=en-US",
+                "cost": "Free",
+                "lat": 35.72157134974476,
+                "lon": -78.68526087901417,
+                "ages": null,
+                "registration": false,
+                "indoor": false,
+                "area": "raleigh",
+                "source": "wake-parks",
+                "dropIn": true
+              }
+            },
+            {
+              "ref": "place:apex-community-park",
+              "arrive": "11:00",
+              "leave": "12:15",
+              "why": "A playground morning for your toddler to climb, slide and toddle along the greenway.",
+              "tips": [
+                "Bring a snack to enjoy at the picnic shelter.",
+                "Give a five-minute warning before leaving, then head straight for the car."
+              ],
+              "interests": [
+                "movement"
+              ],
+              "also": [],
+              "area": "cary-apex",
+              "outdoor": true,
+              "source": {
+                "kind": "park",
+                "title": "Apex Community Park",
+                "address": "2200 Laura Duncan Rd., Apex, NC",
+                "lat": 35.75461588131496,
+                "lon": -78.82862025650613,
+                "url": "http://www.apexnc.org/795/Apex-Community-Park",
+                "amenities": [
+                  "playground",
+                  "picnic-shelter",
+                  "restroom",
+                  "greenway"
+                ],
+                "indoor": false,
+                "area": "cary-apex",
+                "hours": null,
+                "cost": "Free"
+              }
+            },
+            {
+              "ref": "place:white-deer-park",
+              "arrive": "11:00",
+              "leave": "12:30",
+              "why": "Your toddler can play on the playground and explore the greenway and nature areas at {their} own pace.",
+              "tips": [
+                "Bring a water bottle and a snack for the picnic shelter.",
+                "Let {them} stop and look at whatever catches {their} eye."
+              ],
+              "interests": [
+                "nature",
+                "movement"
+              ],
+              "also": [],
+              "area": "south-wake",
+              "outdoor": true,
+              "source": {
+                "kind": "park",
+                "title": "White Deer Park",
+                "address": "2400 Aversboro Road, Garner NC, 27529",
+                "lat": 35.67703339814751,
+                "lon": -78.62516412154841,
+                "url": "https://www.garnernc.gov/departments/parks-recreation-and-cultural-resources/garner-parks/white-deer-park",
+                "amenities": [
+                  "playground",
+                  "picnic-shelter",
+                  "restroom",
+                  "greenway",
+                  "nature"
+                ],
+                "indoor": false,
+                "area": "south-wake",
+                "hours": null,
+                "cost": "Free"
+              }
+            }
+          ],
+          "rainBackup": null,
+          "timeline": [
+            {
+              "start": "07:00",
+              "end": "07:30",
+              "kind": "meal",
+              "title": "Up and breakfast"
+            },
+            {
+              "start": "07:30",
+              "end": "09:30",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "09:30",
+              "end": "10:30",
+              "kind": "nap",
+              "title": "Nap"
+            },
+            {
+              "start": "10:30",
+              "end": "10:40",
+              "kind": "routine",
+              "title": "Up, a snack and out the door",
+              "detail": "Have the bag packed and by the door before the nap."
+            },
+            {
+              "start": "10:40",
+              "end": "11:00",
+              "kind": "travel",
+              "title": "Drive to Hideaway Woods, Museum of Life and Science"
+            },
+            {
+              "start": "11:00",
+              "end": "11:30",
+              "kind": "outing",
+              "title": "Early Childhood Drop-In",
+              "detail": "Pack a lunch to eat there."
+            },
+            {
+              "start": "11:30",
+              "end": "11:40",
+              "kind": "travel",
+              "title": "Walk to Rock Quarry Park"
+            },
+            {
+              "start": "11:40",
+              "end": "12:30",
+              "kind": "outing",
+              "title": "Rock Quarry Park"
+            },
+            {
+              "start": "12:30",
+              "end": "12:40",
+              "kind": "travel",
+              "title": "Walk back to the car"
+            },
+            {
+              "start": "12:40",
+              "end": "13:00",
+              "kind": "travel",
+              "title": "Drive home"
+            },
+            {
+              "start": "13:00",
+              "end": "14:30",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "14:30",
+              "end": "15:30",
+              "kind": "nap",
+              "title": "Nap"
+            },
+            {
+              "start": "15:30",
+              "end": "15:50",
+              "kind": "routine",
+              "title": "Up and a snack"
+            },
+            {
+              "start": "15:50",
+              "end": "17:30",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "17:30",
+              "end": "18:15",
+              "kind": "meal",
+              "title": "Dinner"
+            },
+            {
+              "start": "18:15",
+              "end": "19:00",
+              "kind": "routine",
+              "title": "Bath, books and bed"
+            }
+          ]
+        },
+        {
+          "nap": "early-nap",
+          "napLabel": "One nap, 12 to 2",
+          "headline": "A slow nature morning on the Apex greenway",
+          "main": {
+            "ref": "place:apex-nature-park",
+            "arrive": "09:15",
+            "leave": "10:45",
+            "why": "Your toddler can walk the greenway and explore the nature park at {their} own pace. There is a picnic shelter and a restroom for snack time.",
+            "tips": [
+              "Bring a snack and eat it at the picnic shelter.",
+              "Let {them} stop to pick up sticks and leaves.",
+              "Head home by 11:00 so lunch comes before the 12:00 nap."
+            ],
+            "interests": [
+              "nature",
+              "movement"
+            ],
+            "also": [],
+            "area": "cary-apex",
+            "outdoor": true,
+            "source": {
+              "kind": "park",
+              "title": "Apex Nature Park",
+              "address": "2600 Evans Rd., Apex, NC",
+              "lat": 35.71709646233568,
+              "lon": -78.90520368087866,
+              "url": "https://www.apexnc.org/800/Nature-Park-Seymour-Athletic-Fields",
+              "amenities": [
+                "picnic-shelter",
+                "restroom",
+                "greenway",
+                "nature"
+              ],
+              "indoor": false,
+              "area": "cary-apex",
+              "hours": null,
+              "cost": "Free"
+            }
+          },
+          "alternatives": [
+            {
+              "ref": "event:weekly:mols-early-childhood:2026-11-27",
+              "arrive": "10:00",
+              "leave": "11:20",
+              "why": "Your toddler gets sensory play, songs and stories at the Early Childhood Drop-In in Hideaway Woods. Drop in and stay as long as {they} like{s}.",
+              "tips": [
+                "Join the songs for a bit, then let {them} explore.",
+                "Bring a snack for a break."
+              ],
+              "interests": [
+                "music",
+                "stories",
+                "nature"
+              ],
+              "also": [],
+              "area": "durham",
+              "outdoor": true,
+              "source": {
+                "kind": "event",
+                "title": "Early Childhood Drop-In",
+                "start": "2026-11-27T09:30:00",
+                "end": "2026-11-27T11:30:00",
+                "venue": "Hideaway Woods, Museum of Life and Science",
+                "address": "433 W Murray Ave, Durham, NC 27704",
+                "url": "https://www.lifeandscience.org/learn/drop-in-programs/",
+                "cost": "Included with museum admission",
+                "lat": 36.0294,
+                "lon": -78.8993,
+                "ages": "young children and their caregivers",
+                "registration": false,
+                "indoor": false,
+                "area": "durham",
+                "source": "weekly",
+                "dropIn": true
+              }
+            },
+            {
+              "ref": "event:wake-parks:9430",
+              "arrive": "14:30",
+              "leave": "16:00",
+              "why": "After the nap, your toddler can drop in at the Mill Open House at Yates Mill. The doors are open and interpreters can talk about how the mill works.",
+              "tips": [
+                "Bring a snack for after the nap.",
+                "Keep the visit short and let your child look at what interests {them}."
+              ],
+              "interests": [
+                "nature",
+                "science"
+              ],
+              "also": [],
+              "area": "raleigh",
+              "outdoor": true,
+              "source": {
+                "kind": "event",
+                "title": "Mill Open House",
+                "start": "2026-11-27T13:00:00",
+                "end": "2026-11-27T16:00:00",
+                "venue": "Historic Yates Mill County Park",
+                "address": "4620 Lake Wheeler Rd., Raleigh, NC  27603",
+                "url": "https://apm.activecommunities.com/wakeparks/Activity_Search/mill-open-house/9430?locale=en-US",
+                "cost": "Free",
+                "lat": 35.72157134974476,
+                "lon": -78.68526087901417,
+                "ages": null,
+                "registration": false,
+                "indoor": false,
+                "area": "raleigh",
+                "source": "wake-parks",
+                "dropIn": true
+              }
+            },
+            {
+              "ref": "place:harris-lake-county-park",
+              "arrive": "14:45",
+              "leave": "16:30",
+              "why": "An afternoon of playground time and short walks along the greenway for your toddler.",
+              "tips": [
+                "Bring a snack and water for the picnic shelter.",
+                "Head out by 4:30 pm so you beat the evening wind-down."
+              ],
+              "interests": [
+                "nature",
+                "movement"
+              ],
+              "also": [],
+              "area": "south-wake",
+              "outdoor": true,
+              "source": {
+                "kind": "park",
+                "title": "Harris Lake County Park",
+                "address": "2112 County Park Dr., New Hill, NC  27562",
+                "lat": 35.63024208800726,
+                "lon": -78.91757987745865,
+                "url": "https://www.wakegov.com/departments-government/parks-recreation-and-open-space/all-parks-trails/harris-lake-county-park",
+                "amenities": [
+                  "playground",
+                  "picnic-shelter",
+                  "restroom",
+                  "greenway",
+                  "nature"
+                ],
+                "indoor": false,
+                "area": "south-wake",
+                "hours": null,
+                "cost": "Free"
+              }
+            },
+            {
+              "ref": "place:wendell-park",
+              "arrive": "15:00",
+              "leave": "16:30",
+              "why": "A relaxed afternoon at the playground, with the greenway for toddling.",
+              "tips": [
+                "Bring a snack for the picnic shelter.",
+                "Leave with a snack in hand so the goodbye is easy."
+              ],
+              "interests": [
+                "movement"
+              ],
+              "also": [],
+              "area": "east-wake",
+              "outdoor": true,
+              "source": {
+                "kind": "park",
+                "title": "Wendell Park",
+                "address": "601 W. Third Street, Wendell, NC",
+                "lat": 35.78171909213524,
+                "lon": -78.37858290652449,
+                "url": "https://townofwendellnc.gov/departments/parks_and_recreation/facilities___rentals/index.php",
+                "amenities": [
+                  "playground",
+                  "picnic-shelter",
+                  "restroom",
+                  "greenway"
+                ],
+                "indoor": false,
+                "area": "east-wake",
+                "hours": null,
+                "cost": "Free"
+              }
+            }
+          ],
+          "rainBackup": null,
+          "timeline": [
+            {
+              "start": "07:00",
+              "end": "07:30",
+              "kind": "meal",
+              "title": "Up and breakfast"
+            },
+            {
+              "start": "07:30",
+              "end": "08:35",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "08:35",
+              "end": "08:55",
+              "kind": "routine",
+              "title": "Get ready to go",
+              "detail": "Shoes on, the bag, water and a snack."
+            },
+            {
+              "start": "08:55",
+              "end": "09:15",
+              "kind": "travel",
+              "title": "Drive to Apex Nature Park"
+            },
+            {
+              "start": "09:15",
+              "end": "10:45",
+              "kind": "outing",
+              "title": "Apex Nature Park"
+            },
+            {
+              "start": "10:45",
+              "end": "11:05",
+              "kind": "travel",
+              "title": "Drive home"
+            },
+            {
+              "start": "11:05",
+              "end": "11:15",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "11:15",
+              "end": "11:45",
+              "kind": "meal",
+              "title": "Lunch"
+            },
+            {
+              "start": "11:45",
+              "end": "12:00",
+              "kind": "quiet",
+              "title": "Wind down",
+              "detail": "A couple of books to settle."
+            },
+            {
+              "start": "12:00",
+              "end": "14:00",
+              "kind": "nap",
+              "title": "Nap"
+            },
+            {
+              "start": "14:00",
+              "end": "14:20",
+              "kind": "routine",
+              "title": "Up and a snack"
+            },
+            {
+              "start": "14:20",
+              "end": "17:30",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "17:30",
+              "end": "18:15",
+              "kind": "meal",
+              "title": "Dinner"
+            },
+            {
+              "start": "18:15",
+              "end": "19:00",
+              "kind": "routine",
+              "title": "Bath, books and bed"
+            }
+          ]
+        },
+        {
+          "nap": "late-nap",
+          "napLabel": "One nap, 1 to 3",
+          "headline": "Play and toddle at a big north Raleigh park",
+          "main": {
+            "ref": "place:falls-lake-state-recreation-area-holly-point-entrance",
+            "arrive": "09:30",
+            "leave": "11:15",
+            "why": "Your toddler can climb and slide on the playground and toddle along the greenway. There is a picnic shelter and a restroom nearby.",
+            "tips": [
+              "Bring a snack and eat at the picnic shelter.",
+              "Let your child set the pace on the greenway.",
+              "Eat lunch soon after you get home, before the 1:00 pm nap."
+            ],
+            "interests": [
+              "movement",
+              "nature"
+            ],
+            "also": [],
+            "area": "north-raleigh",
+            "outdoor": true,
+            "source": {
+              "kind": "park",
+              "title": "Holly Point, Falls Lake",
+              "address": "14424 New Light Rd. Wake Forest",
+              "lat": 36.01002946709156,
+              "lon": -78.65745775232777,
+              "url": "https://www.ncparks.gov/falls-lake-state-recreation-area",
+              "amenities": [
+                "playground",
+                "picnic-shelter",
+                "restroom",
+                "greenway"
+              ],
+              "indoor": false,
+              "area": "north-raleigh",
+              "hours": null,
+              "cost": "Free"
+            }
+          },
+          "alternatives": [
+            {
+              "ref": "place:lakeview-park",
+              "arrive": "10:00",
+              "leave": "11:00",
+              "why": "Your toddler plays at Lakeview Park, then joins Bragtown's Bilingual Storytime with songs and stories in English and Spanish. A family needs to sign up for the storytime.",
+              "tips": [
+                "Sign up before you go.",
+                "Let {them} burn off energy at the park first so sitting for stories is easier."
+              ],
+              "interests": [
+                "stories",
+                "music",
+                "movement"
+              ],
+              "also": [
+                {
+                  "ref": "event:libcal:durham-county-library:17233178",
+                  "source": {
+                    "kind": "event",
+                    "title": "Bragtown's Bilingual Storytime with Ms. Melanie!",
+                    "start": "2026-11-27T10:30:00",
+                    "end": "2026-11-27T11:00:00",
+                    "venue": "Bragtown Branch Library",
+                    "address": "3200 Dearborn Dr, Durham, NC",
+                    "url": "https://durhamcountylibrary.libcal.com/event/17233178",
+                    "cost": "Free",
+                    "lat": 36.03753428465275,
+                    "lon": -78.8717997247329,
+                    "ages": "Baby, Kindergarten, Pre-School, Toddler",
+                    "registration": "https://durhamcountylibrary.libcal.com/event/17233178",
+                    "indoor": true,
+                    "area": "durham",
+                    "source": "libcal",
+                    "dropIn": false
+                  }
+                }
+              ],
+              "area": "durham",
+              "outdoor": false,
+              "source": {
+                "kind": "park",
+                "title": "Lakeview Park",
+                "address": "3500 Dearborn Dr, Durham, NC",
+                "lat": 36.039104,
+                "lon": -78.878006,
+                "url": "https://www.dprplaymore.org/Facilities/Facility/Details/Lakeview-Park-39",
+                "amenities": [
+                  "playground",
+                  "picnic-shelter",
+                  "restroom"
+                ],
+                "indoor": false,
+                "area": "durham",
+                "hours": null,
+                "cost": "Free"
+              }
+            },
+            {
+              "ref": "event:weekly:mols-early-childhood:2026-11-27",
+              "arrive": "10:00",
+              "leave": "11:30",
+              "why": "Your toddler gets sensory play, songs and stories at the Early Childhood Drop-In in Hideaway Woods. Drop in and stay as long as {they} like{s}.",
+              "tips": [
+                "Bring a snack for a break.",
+                "Follow your child's lead from one activity to the next."
+              ],
+              "interests": [
+                "music",
+                "stories",
+                "nature"
+              ],
+              "also": [],
+              "area": "durham",
+              "outdoor": true,
+              "source": {
+                "kind": "event",
+                "title": "Early Childhood Drop-In",
+                "start": "2026-11-27T09:30:00",
+                "end": "2026-11-27T11:30:00",
+                "venue": "Hideaway Woods, Museum of Life and Science",
+                "address": "433 W Murray Ave, Durham, NC 27704",
+                "url": "https://www.lifeandscience.org/learn/drop-in-programs/",
+                "cost": "Included with museum admission",
+                "lat": 36.0294,
+                "lon": -78.8993,
+                "ages": "young children and their caregivers",
+                "registration": false,
+                "indoor": false,
+                "area": "durham",
+                "source": "weekly",
+                "dropIn": true
+              }
+            },
+            {
+              "ref": "place:levelle-moton-park",
+              "arrive": "10:10",
+              "leave": "11:00",
+              "why": "Your toddler plays at LeVelle Moton Park, then watches the Live Animal Feeding of the Ocean Habitat at the NC Museum of Natural Sciences. It is a short walk-up program.",
+              "tips": [
+                "Get to the habitat a few minutes early so your child can see the animals.",
+                "Bring a snack for the park."
+              ],
+              "interests": [
+                "animals",
+                "water",
+                "movement"
+              ],
+              "also": [
+                {
+                  "ref": "event:museum:nc-natural-sciences:123925",
+                  "source": {
+                    "kind": "event",
+                    "title": "Live Animal Feeding – Ocean Habitat",
+                    "start": "2026-11-27T10:45:00",
+                    "end": "2026-11-27T11:00:00",
+                    "venue": "NC Museum of Natural Sciences",
+                    "address": "11 West Jones Street, Raleigh, NC, 27601",
+                    "url": "https://www.naturalsciences.org/calendar/event/live-animal-feeding-ocean-habitat-5/2026-11-27/",
+                    "cost": "Museum admission is free",
+                    "lat": 35.7822735,
+                    "lon": -78.6395502,
+                    "ages": "Adults All Ages Children Live Animals Teens Walk-up Programs",
+                    "registration": false,
+                    "indoor": true,
+                    "area": "raleigh",
+                    "source": "museum",
+                    "dropIn": false
+                  }
+                }
+              ],
+              "area": "raleigh",
+              "outdoor": false,
+              "source": {
+                "kind": "park",
+                "title": "LeVelle Moton Park",
+                "address": "920 E. Lane Street, Raleigh, NC 27601",
+                "lat": 35.78316,
+                "lon": -78.62606,
+                "url": "https://raleighnc.gov/parks-and-recreation/places/levelle-moton-park",
+                "amenities": [
+                  "picnic-shelter",
+                  "courts",
+                  "playground"
+                ],
+                "indoor": false,
+                "area": "raleigh",
+                "hours": null,
+                "cost": "Free"
+              }
+            }
+          ],
+          "rainBackup": null,
+          "timeline": [
+            {
+              "start": "07:00",
+              "end": "07:30",
+              "kind": "meal",
+              "title": "Up and breakfast"
+            },
+            {
+              "start": "07:30",
+              "end": "08:50",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "08:50",
+              "end": "09:10",
+              "kind": "routine",
+              "title": "Get ready to go",
+              "detail": "Shoes on, the bag, water and a snack."
+            },
+            {
+              "start": "09:10",
+              "end": "09:30",
+              "kind": "travel",
+              "title": "Drive to Holly Point, Falls Lake"
+            },
+            {
+              "start": "09:30",
+              "end": "11:15",
+              "kind": "outing",
+              "title": "Holly Point, Falls Lake"
+            },
+            {
+              "start": "11:15",
+              "end": "11:35",
+              "kind": "travel",
+              "title": "Drive home"
+            },
+            {
+              "start": "11:35",
+              "end": "12:15",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "12:15",
+              "end": "12:45",
+              "kind": "meal",
+              "title": "Lunch"
+            },
+            {
+              "start": "12:45",
+              "end": "13:00",
+              "kind": "quiet",
+              "title": "Wind down",
+              "detail": "A couple of books to settle."
+            },
+            {
+              "start": "13:00",
+              "end": "15:00",
+              "kind": "nap",
+              "title": "Nap"
+            },
+            {
+              "start": "15:00",
+              "end": "15:20",
+              "kind": "routine",
+              "title": "Up and a snack"
+            },
+            {
+              "start": "15:20",
+              "end": "18:00",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "18:00",
+              "end": "18:45",
+              "kind": "meal",
+              "title": "Dinner"
+            },
+            {
+              "start": "18:45",
+              "end": "19:30",
+              "kind": "routine",
+              "title": "Bath, books and bed"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "checked": {
+    "at": "2026-11-14T11:04:57.175Z",
+    "forecast": "none",
+    "weather": null,
+    "hidden": []
+  }
+}

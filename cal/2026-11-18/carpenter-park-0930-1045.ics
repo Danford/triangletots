@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Triangle Tots//triangletots.com//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:2026-11-18-carpenter-park-0930-1045@triangletots.com
+DTSTAMP:20261114T100000Z
+DTSTART:20261118T143000Z
+DTEND:20261118T154500Z
+SUMMARY:Carpenter Park
+LOCATION:4420 Louis Stephens Drive\, Cary\, NC
+DESCRIPTION:http://www.townofcary.org/recreation-enjoyment/parks-greenways-
+ environment/parks/carpenter-park\nThe whole day: https://triangletots.com/
+ 2026-11-18/t2/\nTimes and details can change. Check the event or place bef
+ ore you go.
+END:VEVENT
+END:VCALENDAR

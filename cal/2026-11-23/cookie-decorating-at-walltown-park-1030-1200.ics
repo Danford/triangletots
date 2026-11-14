@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Triangle Tots//triangletots.com//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:2026-11-23-cookie-decorating-at-walltown-park-1030-1200@triangletots.co
+ m
+DTSTAMP:20261114T100000Z
+DTSTART:20261123T153000Z
+DTEND:20261123T170000Z
+SUMMARY:Cookie Decorating at Walltown Park
+LOCATION:1308 W Club Blvd\, Durham\, NC
+DESCRIPTION:Sign up first.\nhttps://www.dprplaymore.org/Facilities/Facility
+ /Details/Walltown-Park-74\nhttps://apm.activecommunities.com/dprplaymore/A
+ ctivity_Search/cookie-decorating/19780?locale=en-US\nThe whole day: https:
+ //triangletots.com/2026-11-23/t4/\nTimes and details can change. Check the
+  event or place before you go.
+END:VEVENT
+END:VCALENDAR

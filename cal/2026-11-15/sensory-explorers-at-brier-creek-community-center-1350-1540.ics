@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Triangle Tots//triangletots.com//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:2026-11-15-sensory-explorers-at-brier-creek-community-center-1350-1540@
+ triangletots.com
+DTSTAMP:20261114T100000Z
+DTSTART:20261115T185000Z
+DTEND:20261115T204000Z
+SUMMARY:Sensory Explorers at Brier Creek Community Center
+LOCATION:10810 Globe Rd\, Raleigh\, NC 27617
+DESCRIPTION:Sign up first.\nhttps://ncraleighweb.myvscloud.com/webtrac/web/
+ search.html?module=AR\nhttps://raleighnc.gov/parks-and-recreation/places/b
+ rier-creek-park\nThe whole day: https://triangletots.com/2026-11-15/t3/\nT
+ imes and details can change. Check the event or place before you go.
+END:VEVENT
+END:VCALENDAR

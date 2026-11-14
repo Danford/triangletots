@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Triangle Tots//triangletots.com//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:2026-11-23-abc-craft-and-learn-at-optimist-park-1100-1215@triangletots.
+ com
+DTSTAMP:20261114T100000Z
+DTSTART:20261123T160000Z
+DTEND:20261123T171500Z
+SUMMARY:ABC Craft and Learn at Optimist Park
+LOCATION:5900 Whittier Dr\, Raleigh\, NC 27609
+DESCRIPTION:https://raleighnc.gov/parks-and-recreation/places/optimist-park
+ \nhttps://www.wake.gov/events/abc-craft-and-learn-595\nThe whole day: http
+ s://triangletots.com/2026-11-23/t3/\nTimes and details can change. Check t
+ he event or place before you go.
+END:VEVENT
+END:VCALENDAR

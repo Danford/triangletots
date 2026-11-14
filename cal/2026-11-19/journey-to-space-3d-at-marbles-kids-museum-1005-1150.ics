@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Triangle Tots//triangletots.com//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:2026-11-19-journey-to-space-3d-at-marbles-kids-museum-1005-1150@triangl
+ etots.com
+DTSTAMP:20261114T100000Z
+DTSTART:20261119T150500Z
+DTEND:20261119T165000Z
+SUMMARY:Journey to Space 3D at Marbles Kids Museum
+LOCATION:201 E Hargett St\, Raleigh\, NC 27601
+DESCRIPTION:https://marbleskidsmuseum.org/event/48527/\nhttps://raleighnc.g
+ ov/parks-and-recreation/places/levelle-moton-park\nThe whole day: https://
+ triangletots.com/2026-11-19/t4/\nTimes and details can change. Check the e
+ vent or place before you go.
+END:VEVENT
+END:VCALENDAR

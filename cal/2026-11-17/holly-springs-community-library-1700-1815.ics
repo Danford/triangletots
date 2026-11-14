@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Triangle Tots//triangletots.com//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:2026-11-17-holly-springs-community-library-1700-1815@triangletots.com
+DTSTAMP:20261114T100000Z
+DTSTART:20261117T220000Z
+DTEND:20261117T231500Z
+SUMMARY:Holly Springs Community Library
+LOCATION:300 W Ballentine Street\, Holly Springs\, NC
+DESCRIPTION:The whole day: https://triangletots.com/2026-11-17/t2/\nTimes a
+ nd details can change. Check the event or place before you go.
+END:VEVENT
+END:VCALENDAR

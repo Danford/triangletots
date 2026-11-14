@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Triangle Tots//triangletots.com//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:2026-11-23-story-sprouts-toddler-preschool-storytime-at-east-regional-l
+ -1050-1220@triangletots.com
+DTSTAMP:20261114T100000Z
+DTSTART:20261123T155000Z
+DTEND:20261123T172000Z
+SUMMARY:Story Sprouts (Toddler/Preschool Storytime) at East Regional Librar
+ y
+LOCATION:211 Lick Creek Lane\, Durham\, NC
+DESCRIPTION:Sign up first.\nhttps://durhamcountylibrary.libcal.com/event/17
+ 562310\nhttps://www.knightdalenc.gov/knightdalestationpark\nThe whole day:
+  https://triangletots.com/2026-11-23/t1/\nTimes and details can change. Ch
+ eck the event or place before you go.
+END:VEVENT
+END:VCALENDAR

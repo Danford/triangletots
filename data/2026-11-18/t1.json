@@ -1,0 +1,1273 @@
+{
+  "date": "2026-11-18",
+  "band": "t1",
+  "versions": [
+    {
+      "at": "2026-11-12T01:39:55.701Z",
+      "reason": null,
+      "forecast": "nws",
+      "weather": {
+        "period": "Wednesday",
+        "tempF": 57,
+        "precipProbability": 10,
+        "shortForecast": "Sunny",
+        "windMph": 9,
+        "windFrom": "N",
+        "hours": [
+          {
+            "t": "05:00",
+            "tempF": 35,
+            "pop": 10,
+            "cloud": 23
+          },
+          {
+            "t": "06:00",
+            "tempF": 34,
+            "pop": 10,
+            "cloud": 23
+          }
+        ]
+      },
+      "plans": [
+        {
+          "nap": "two-naps",
+          "napLabel": "Two naps",
+          "headline": "Turkey day fun in the gym, then a playground",
+          "main": {
+            "ref": "event:durham-rec:19549",
+            "arrive": "11:00",
+            "leave": "12:40",
+            "why": "Gobble Till You Wobble is a turkey day program for ages 0 to 4 at Edison Johnson Rec Ctr. A family needs to sign up first. Afterward your toddler plays at Walltown Park.",
+            "tips": [
+              "Sign up before you go. The fee is $1.35 for Durham residents and $5.85 for others.",
+              "Bring a snack for the park so your toddler can refuel before the drive home.",
+              "Say the playground is next as you leave the program, so the move goes smoothly."
+            ],
+            "interests": [
+              "movement"
+            ],
+            "also": [
+              {
+                "ref": "place:walltown-park",
+                "source": {
+                  "kind": "park",
+                  "title": "Walltown Park",
+                  "address": "1308 W Club Blvd, Durham, NC",
+                  "lat": 36.018264,
+                  "lon": -78.91403399999999,
+                  "url": "https://www.dprplaymore.org/Facilities/Facility/Details/Walltown-Park-74",
+                  "amenities": [
+                    "playground",
+                    "picnic-shelter"
+                  ],
+                  "indoor": false,
+                  "area": "durham",
+                  "hours": null,
+                  "cost": "Free"
+                }
+              }
+            ],
+            "area": "durham",
+            "outdoor": false,
+            "source": {
+              "kind": "event",
+              "title": "Gobble Till You Wobble",
+              "start": "2026-11-18T11:00:00",
+              "end": "2026-11-18T12:00:00",
+              "venue": "Edison Johnson Rec Ctr",
+              "address": "W Murray Ave, Durham, NC",
+              "url": "https://apm.activecommunities.com/dprplaymore/Activity_Search/gobble-till-you-wobble/19549?locale=en-US",
+              "cost": "$1.35 for Durham residents, $5.85 for others",
+              "lat": 36.0299,
+              "lon": -78.9011,
+              "ages": "0 - 4",
+              "registration": "https://apm.activecommunities.com/dprplaymore/Activity_Search/gobble-till-you-wobble/19549?locale=en-US",
+              "indoor": true,
+              "area": "durham",
+              "source": "durham-rec",
+              "dropIn": false
+            }
+          },
+          "alternatives": [
+            {
+              "ref": "event:wake:24550",
+              "arrive": "11:00",
+              "leave": "12:10",
+              "why": "Stay and Play at Zebulon Community Library has stations for your toddler to explore. Then your toddler runs at Gill Street Park.",
+              "tips": [
+                "Let your toddler pick a station and stay as long as {they} like{s}.",
+                "Bring a snack for the park."
+              ],
+              "interests": [
+                "stories",
+                "movement"
+              ],
+              "also": [
+                {
+                  "ref": "place:gill-street-park",
+                  "source": {
+                    "kind": "park",
+                    "title": "Gill Street Park",
+                    "address": "600 N Privette St, Zebulon, NC",
+                    "lat": 35.82878975768889,
+                    "lon": -78.31085709480551,
+                    "url": "https://www.townofzebulon.org/o/parksandrec/page/parks-facilities-rentals",
+                    "amenities": [
+                      "playground"
+                    ],
+                    "indoor": false,
+                    "area": "east-wake",
+                    "hours": null,
+                    "cost": "Free"
+                  }
+                }
+              ],
+              "area": "east-wake",
+              "outdoor": false,
+              "source": {
+                "kind": "event",
+                "title": "Stay and Play",
+                "start": "2026-11-18T11:00:00-05:00",
+                "end": "2026-11-18T11:30:00-05:00",
+                "venue": "Zebulon Community Library",
+                "address": "1000 Dogwood Drive, Zebulon, NC",
+                "url": "https://www.wake.gov/events/stay-and-play-30",
+                "cost": "Free",
+                "lat": 35.8364587208387,
+                "lon": -78.3198221383783,
+                "ages": "Young Children",
+                "registration": null,
+                "indoor": true,
+                "area": "east-wake",
+                "source": "wake-county",
+                "dropIn": false
+              }
+            },
+            {
+              "ref": "event:wake-parks:9411:2026-11-18",
+              "arrive": "11:15",
+              "leave": "12:30",
+              "why": "This drop-in Exploration Station at Historic Yates Mill County Park is about the American bison. Come and go when your toddler is ready.",
+              "tips": [
+                "Stay as long as your toddler is curious, then head out.",
+                "Pack a snack for the walk back to the car."
+              ],
+              "interests": [
+                "animals",
+                "science",
+                "nature"
+              ],
+              "also": [],
+              "area": "raleigh",
+              "outdoor": true,
+              "source": {
+                "kind": "event",
+                "title": "Exploration Station: American Bison",
+                "start": "2026-11-18T08:30:00",
+                "end": "2026-11-18T17:00:00",
+                "venue": "Historic Yates Mill County Park",
+                "address": "4620 Lake Wheeler Rd., Raleigh, NC  27603",
+                "url": "https://apm.activecommunities.com/wakeparks/Activity_Search/exploration-station-american-bison/9411?locale=en-US",
+                "cost": "Free",
+                "lat": 35.72157134974476,
+                "lon": -78.68526087901417,
+                "ages": null,
+                "registration": false,
+                "indoor": false,
+                "area": "raleigh",
+                "source": "wake-parks",
+                "dropIn": true
+              }
+            },
+            {
+              "ref": "place:hemlock-bluffs",
+              "arrive": "11:00",
+              "leave": "12:30",
+              "why": "A nature walk on mulched trails and boardwalks at Hemlock Bluffs. Your toddler can look and listen to the woods at {their} own pace.",
+              "tips": [
+                "A carrier works better than a stroller on the stairs.",
+                "Stop often so your toddler can pick up leaves and sticks."
+              ],
+              "interests": [
+                "nature"
+              ],
+              "also": [],
+              "area": "cary-apex",
+              "outdoor": true,
+              "source": {
+                "kind": "park",
+                "title": "Hemlock Bluffs Nature Preserve",
+                "address": "2616 Kildaire Farm Rd, Cary, NC 27518",
+                "lat": 35.7253,
+                "lon": -78.7846,
+                "url": "https://www.carync.gov/recreation-enjoyment/parks-greenways-environment/parks/stevens-nature-center-at-hemlock-bluffs-nature-preserve",
+                "amenities": [
+                  "nature"
+                ],
+                "indoor": false,
+                "area": "cary-apex",
+                "hours": {
+                  "sun": "9 a.m. to sunset",
+                  "mon": "9 a.m. to sunset",
+                  "tue": "9 a.m. to sunset",
+                  "wed": "9 a.m. to sunset",
+                  "thu": "9 a.m. to sunset",
+                  "fri": "9 a.m. to sunset",
+                  "sat": "9 a.m. to sunset"
+                },
+                "cost": "Free",
+                "note": "Free. About three miles of mulched trails and boardwalks with stairs (a carrier beats a stroller); restrooms in the Stevens Nature Center, open Mon–Sat 10–5, Sun 1–5."
+              }
+            },
+            {
+              "ref": "place:harris-lake-county-park",
+              "arrive": "11:00",
+              "leave": "12:30",
+              "why": "Harris Lake County Park has a playground and nature to explore. It is an easy, open morning for a toddler.",
+              "tips": [
+                "Bring a snack and eat at the picnic shelter.",
+                "Let your toddler lead the way along the greenway."
+              ],
+              "interests": [
+                "nature",
+                "movement"
+              ],
+              "also": [],
+              "area": "south-wake",
+              "outdoor": true,
+              "source": {
+                "kind": "park",
+                "title": "Harris Lake County Park",
+                "address": "2112 County Park Dr., New Hill, NC  27562",
+                "lat": 35.63024208800726,
+                "lon": -78.91757987745865,
+                "url": "https://www.wakegov.com/departments-government/parks-recreation-and-open-space/all-parks-trails/harris-lake-county-park",
+                "amenities": [
+                  "playground",
+                  "picnic-shelter",
+                  "restroom",
+                  "greenway",
+                  "nature"
+                ],
+                "indoor": false,
+                "area": "south-wake",
+                "hours": null,
+                "cost": "Free"
+              }
+            }
+          ],
+          "rainBackup": null,
+          "timeline": [
+            {
+              "start": "07:00",
+              "end": "07:30",
+              "kind": "meal",
+              "title": "Up and breakfast"
+            },
+            {
+              "start": "07:30",
+              "end": "09:30",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "09:30",
+              "end": "10:30",
+              "kind": "nap",
+              "title": "Nap"
+            },
+            {
+              "start": "10:30",
+              "end": "10:40",
+              "kind": "routine",
+              "title": "Up, a snack and out the door",
+              "detail": "Have the bag packed and by the door before the nap."
+            },
+            {
+              "start": "10:40",
+              "end": "11:00",
+              "kind": "travel",
+              "title": "Drive to Edison Johnson Rec Ctr"
+            },
+            {
+              "start": "11:00",
+              "end": "12:00",
+              "kind": "outing",
+              "title": "Gobble Till You Wobble",
+              "detail": "Pack a lunch to eat there."
+            },
+            {
+              "start": "12:00",
+              "end": "12:10",
+              "kind": "travel",
+              "title": "Drive to Walltown Park"
+            },
+            {
+              "start": "12:10",
+              "end": "12:40",
+              "kind": "outing",
+              "title": "Walltown Park"
+            },
+            {
+              "start": "12:40",
+              "end": "13:00",
+              "kind": "travel",
+              "title": "Drive home"
+            },
+            {
+              "start": "13:00",
+              "end": "14:30",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "14:30",
+              "end": "15:30",
+              "kind": "nap",
+              "title": "Nap"
+            },
+            {
+              "start": "15:30",
+              "end": "15:50",
+              "kind": "routine",
+              "title": "Up and a snack"
+            },
+            {
+              "start": "15:50",
+              "end": "17:30",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "17:30",
+              "end": "18:15",
+              "kind": "meal",
+              "title": "Dinner"
+            },
+            {
+              "start": "18:15",
+              "end": "19:00",
+              "kind": "routine",
+              "title": "Bath, books and bed"
+            }
+          ]
+        },
+        {
+          "nap": "early-nap",
+          "napLabel": "One nap, 12 to 2",
+          "headline": "Playground fun, then watch ocean animals eat",
+          "main": {
+            "ref": "place:fred-fletcher-park",
+            "arrive": "09:45",
+            "leave": "11:00",
+            "why": "Your toddler plays at Fred Fletcher Park, then watches the Live Animal Feeding of the Ocean Habitat at the NC Museum of Natural Sciences. It lasts 15 minutes.",
+            "tips": [
+              "Head to the feeding a little early so your toddler sees the animals up close.",
+              "Bring a snack for the park and have it before you go in.",
+              "It ends at 11:00 am, so go home for lunch and the nap."
+            ],
+            "interests": [
+              "animals",
+              "water",
+              "movement"
+            ],
+            "also": [
+              {
+                "ref": "event:museum:nc-natural-sciences:123922",
+                "source": {
+                  "kind": "event",
+                  "title": "Live Animal Feeding – Ocean Habitat",
+                  "start": "2026-11-18T10:45:00",
+                  "end": "2026-11-18T11:00:00",
+                  "venue": "NC Museum of Natural Sciences",
+                  "address": "11 West Jones Street, Raleigh, NC, 27601",
+                  "url": "https://www.naturalsciences.org/calendar/event/live-animal-feeding-ocean-habitat-5/2026-11-18/",
+                  "cost": "Museum admission is free",
+                  "lat": 35.7822735,
+                  "lon": -78.6395502,
+                  "ages": "Adults All Ages Children Live Animals Teens Walk-up Programs",
+                  "registration": false,
+                  "indoor": true,
+                  "area": "raleigh",
+                  "source": "museum",
+                  "dropIn": false
+                }
+              }
+            ],
+            "area": "raleigh",
+            "outdoor": false,
+            "source": {
+              "kind": "park",
+              "title": "Fred Fletcher Park",
+              "address": "820 Clay Street, Raleigh, NC 27605",
+              "lat": 35.79264,
+              "lon": -78.64957,
+              "url": "https://raleighnc.gov/parks-and-recreation/places/fred-fletcher-park",
+              "amenities": [
+                "garden",
+                "picnic-shelter",
+                "courts",
+                "fields",
+                "playground"
+              ],
+              "indoor": false,
+              "area": "raleigh",
+              "hours": null,
+              "cost": "Free"
+            }
+          },
+          "alternatives": [
+            {
+              "ref": "place:gipson-play-plaza",
+              "arrive": "14:30",
+              "leave": "16:20",
+              "why": "Your toddler plays at Gipson Play Plaza, then joins Math Makers, a playful math program at Dix Park.",
+              "tips": [
+                "Let your toddler warm up on the playground first.",
+                "Bring a snack for the walk to the program."
+              ],
+              "interests": [
+                "science",
+                "movement"
+              ],
+              "also": [
+                {
+                  "ref": "event:dix-park:/event/math-makers-0:2026-11-18",
+                  "source": {
+                    "kind": "event",
+                    "title": "Math Makers",
+                    "start": "2026-11-18T15:00:00",
+                    "end": "2026-11-18T17:00:00",
+                    "venue": "Gipson Play Plaza, Dix Park",
+                    "address": "715 Biggs Dr, Raleigh, NC 27603",
+                    "url": "https://dixpark.org/event/math-makers-0",
+                    "cost": "Free",
+                    "lat": 35.7667,
+                    "lon": -78.6539,
+                    "ages": null,
+                    "registration": null,
+                    "indoor": false,
+                    "area": "raleigh",
+                    "source": "dix-park",
+                    "dropIn": false
+                  }
+                }
+              ],
+              "area": "raleigh",
+              "outdoor": true,
+              "source": {
+                "kind": "park",
+                "title": "Gipson Play Plaza at Dix Park",
+                "address": "715 Biggs Dr, Raleigh, NC 27603",
+                "lat": 35.7667,
+                "lon": -78.6539,
+                "url": "https://dixpark.org/gipson-play-plaza",
+                "amenities": [
+                  "playground",
+                  "restroom"
+                ],
+                "indoor": false,
+                "area": "raleigh",
+                "hours": {
+                  "sun": "8 a.m.–9 p.m.",
+                  "mon": "8 a.m.–9 p.m.",
+                  "tue": "8 a.m.–9 p.m.",
+                  "wed": "8 a.m.–9 p.m.",
+                  "thu": "8 a.m.–9 p.m.",
+                  "fri": "8 a.m.–9 p.m.",
+                  "sat": "8 a.m.–9 p.m."
+                },
+                "cost": "Free",
+                "note": "Free; free parking. Big destination playground on the south edge of Dix Park."
+              }
+            },
+            {
+              "ref": "place:hillside-park",
+              "arrive": "09:20",
+              "leave": "11:20",
+              "why": "Your toddler plays at Hillside Park, then joins Total Tot Time at W.D. Hill Rec Ctr. There is a parachute and tunnels to crawl through. A family needs to sign up.",
+              "tips": [
+                "Sign up ahead of time.",
+                "Move around in the gym with your toddler and let {them} lead.",
+                "Leave while your toddler is still having fun."
+              ],
+              "interests": [
+                "movement"
+              ],
+              "also": [
+                {
+                  "ref": "event:durham-rec:19772:2026-11-18",
+                  "source": {
+                    "kind": "event",
+                    "title": "Total Tot Time",
+                    "start": "2026-11-18T10:00:00",
+                    "end": "2026-11-18T12:00:00",
+                    "venue": "W.D. Hill Rec Ctr",
+                    "address": "1308 Fayetteville St, Durham, NC",
+                    "url": "https://apm.activecommunities.com/dprplaymore/Activity_Search/total-tot-time/19772?locale=en-US",
+                    "cost": null,
+                    "lat": 35.9797,
+                    "lon": -78.8985,
+                    "ages": "1 - 6",
+                    "registration": "https://apm.activecommunities.com/dprplaymore/Activity_Search/total-tot-time/19772?locale=en-US",
+                    "indoor": true,
+                    "area": "durham",
+                    "source": "durham-rec",
+                    "dropIn": false
+                  }
+                }
+              ],
+              "area": "durham",
+              "outdoor": false,
+              "source": {
+                "kind": "park",
+                "title": "Hillside Park",
+                "address": "1301 S Roxboro St, Durham, NC",
+                "lat": 35.98093222222222,
+                "lon": -78.90178333333333,
+                "url": "https://www.dprplaymore.org/Facilities/Facility/Details/Hillside-Park-32",
+                "amenities": [
+                  "playground",
+                  "splashpad",
+                  "pool",
+                  "picnic-shelter",
+                  "restroom"
+                ],
+                "indoor": false,
+                "area": "durham",
+                "hours": null,
+                "cost": "Free"
+              }
+            },
+            {
+              "ref": "event:wake:21996",
+              "arrive": "09:05",
+              "leave": "10:30",
+              "why": "Toddler Storytime at Northeast Regional Library has books, music, rhymes and movement. Then your toddler plays at Plummer Park.",
+              "tips": [
+                "Sit near the front so your toddler can see the books.",
+                "Bring a snack for the park."
+              ],
+              "interests": [
+                "stories",
+                "music",
+                "movement"
+              ],
+              "also": [
+                {
+                  "ref": "place:plummer-park",
+                  "source": {
+                    "kind": "park",
+                    "title": "Plummer Park",
+                    "address": "965 Jones Wynd, Wake Forest, NC",
+                    "lat": 35.96978706226675,
+                    "lon": -78.5486469005171,
+                    "url": "https://www.wakeforestnc.gov/parks-recreation-cultural-resources/parks-facilities/plummer-park",
+                    "amenities": [
+                      "playground",
+                      "picnic-shelter"
+                    ],
+                    "indoor": false,
+                    "area": "north-raleigh",
+                    "hours": null,
+                    "cost": "Free"
+                  }
+                }
+              ],
+              "area": "north-raleigh",
+              "outdoor": false,
+              "source": {
+                "kind": "event",
+                "title": "Toddler Storytime",
+                "start": "2026-11-18T09:15:00-05:00",
+                "end": "2026-11-18T09:45:00-05:00",
+                "venue": "Northeast Regional Library",
+                "address": "14401 Green Elm Lane, Raleigh, NC",
+                "url": "https://www.wake.gov/events/toddler-storytime-1027",
+                "cost": "Free",
+                "lat": 35.9541926372282,
+                "lon": -78.5438512128256,
+                "ages": "Young Children",
+                "registration": null,
+                "indoor": true,
+                "area": "north-raleigh",
+                "source": "wake-county",
+                "dropIn": false
+              }
+            },
+            {
+              "ref": "event:wake:24162",
+              "arrive": "09:20",
+              "leave": "10:40",
+              "why": "Baby Storytime at Middle Creek Community Library is a lapsit program with books, songs and rhymes. Then your toddler plays at Middle Creek School Park.",
+              "tips": [
+                "Hold your toddler on your lap for the songs and bounces.",
+                "Bring a snack for the park."
+              ],
+              "interests": [
+                "stories",
+                "music"
+              ],
+              "also": [
+                {
+                  "ref": "place:middle-creek-school-park",
+                  "source": {
+                    "kind": "park",
+                    "title": "Middle Creek School Park",
+                    "address": "151 Middle Creek Park Avenue, Cary, NC",
+                    "lat": 35.662513193321765,
+                    "lon": -78.7643852913516,
+                    "url": "https://www.carync.gov/recreation-enjoyment/parks-greenways-environment/parks/middle-creek-school-park",
+                    "amenities": [
+                      "playground",
+                      "picnic-shelter",
+                      "restroom",
+                      "greenway"
+                    ],
+                    "indoor": false,
+                    "area": "south-wake",
+                    "hours": null,
+                    "cost": "Free"
+                  }
+                }
+              ],
+              "area": "south-wake",
+              "outdoor": false,
+              "source": {
+                "kind": "event",
+                "title": "Baby Storytime",
+                "start": "2026-11-18T09:30:00-05:00",
+                "end": "2026-11-18T10:00:00-05:00",
+                "venue": "Middle Creek Community Library",
+                "address": "111 Middle Creek Park Avenue, Apex, NC",
+                "url": "https://www.wake.gov/events/baby-storytime-1175",
+                "cost": "Free",
+                "lat": 35.6682418176122,
+                "lon": -78.7587045638366,
+                "ages": "Young Children",
+                "registration": null,
+                "indoor": true,
+                "area": "south-wake",
+                "source": "wake-county",
+                "dropIn": false
+              }
+            }
+          ],
+          "rainBackup": null,
+          "timeline": [
+            {
+              "start": "07:00",
+              "end": "07:30",
+              "kind": "meal",
+              "title": "Up and breakfast"
+            },
+            {
+              "start": "07:30",
+              "end": "09:05",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "09:05",
+              "end": "09:25",
+              "kind": "routine",
+              "title": "Get ready to go",
+              "detail": "Shoes on, the bag, water and a snack."
+            },
+            {
+              "start": "09:25",
+              "end": "09:45",
+              "kind": "travel",
+              "title": "Drive to Fred Fletcher Park"
+            },
+            {
+              "start": "09:45",
+              "end": "10:35",
+              "kind": "outing",
+              "title": "Fred Fletcher Park"
+            },
+            {
+              "start": "10:35",
+              "end": "10:45",
+              "kind": "travel",
+              "title": "Drive to NC Museum of Natural Sciences"
+            },
+            {
+              "start": "10:45",
+              "end": "11:00",
+              "kind": "outing",
+              "title": "Live Animal Feeding – Ocean Habitat"
+            },
+            {
+              "start": "11:00",
+              "end": "11:20",
+              "kind": "travel",
+              "title": "Drive home"
+            },
+            {
+              "start": "11:20",
+              "end": "11:50",
+              "kind": "meal",
+              "title": "Lunch"
+            },
+            {
+              "start": "11:50",
+              "end": "12:00",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "12:00",
+              "end": "14:00",
+              "kind": "nap",
+              "title": "Nap"
+            },
+            {
+              "start": "14:00",
+              "end": "14:20",
+              "kind": "routine",
+              "title": "Up and a snack"
+            },
+            {
+              "start": "14:20",
+              "end": "17:30",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "17:30",
+              "end": "18:15",
+              "kind": "meal",
+              "title": "Dinner"
+            },
+            {
+              "start": "18:15",
+              "end": "19:00",
+              "kind": "routine",
+              "title": "Bath, books and bed"
+            }
+          ]
+        },
+        {
+          "nap": "late-nap",
+          "napLabel": "One nap, 1 to 3",
+          "headline": "Songs and stories, then play stations and a playground",
+          "main": {
+            "ref": "event:wake:24008",
+            "arrive": "10:20",
+            "leave": "12:10",
+            "why": "Family Storytime at Zebulon Community Library has books, songs and rhymes. Then Stay and Play has stations to explore, and your toddler finishes at Gill Street Park.",
+            "tips": [
+              "Go to the stations right after storytime and let {them} choose.",
+              "Bring a snack for the park.",
+              "Tell your toddler it is time for the slide before you leave the library."
+            ],
+            "interests": [
+              "stories",
+              "music",
+              "movement"
+            ],
+            "also": [
+              {
+                "ref": "event:wake:24550",
+                "source": {
+                  "kind": "event",
+                  "title": "Stay and Play",
+                  "start": "2026-11-18T11:00:00-05:00",
+                  "end": "2026-11-18T11:30:00-05:00",
+                  "venue": "Zebulon Community Library",
+                  "address": "1000 Dogwood Drive, Zebulon, NC",
+                  "url": "https://www.wake.gov/events/stay-and-play-30",
+                  "cost": "Free",
+                  "lat": 35.8364587208387,
+                  "lon": -78.3198221383783,
+                  "ages": "Young Children",
+                  "registration": null,
+                  "indoor": true,
+                  "area": "east-wake",
+                  "source": "wake-county",
+                  "dropIn": false
+                }
+              },
+              {
+                "ref": "place:gill-street-park",
+                "source": {
+                  "kind": "park",
+                  "title": "Gill Street Park",
+                  "address": "600 N Privette St, Zebulon, NC",
+                  "lat": 35.82878975768889,
+                  "lon": -78.31085709480551,
+                  "url": "https://www.townofzebulon.org/o/parksandrec/page/parks-facilities-rentals",
+                  "amenities": [
+                    "playground"
+                  ],
+                  "indoor": false,
+                  "area": "east-wake",
+                  "hours": null,
+                  "cost": "Free"
+                }
+              }
+            ],
+            "area": "east-wake",
+            "outdoor": false,
+            "source": {
+              "kind": "event",
+              "title": "Family Storytime",
+              "start": "2026-11-18T10:30:00-05:00",
+              "end": "2026-11-18T11:00:00-05:00",
+              "venue": "Zebulon Community Library",
+              "address": "1000 Dogwood Drive, Zebulon, NC",
+              "url": "https://www.wake.gov/events/family-storytime-4547",
+              "cost": "Free",
+              "lat": 35.8364587208387,
+              "lon": -78.3198221383783,
+              "ages": "Young Children",
+              "registration": null,
+              "indoor": true,
+              "area": "east-wake",
+              "source": "wake-county",
+              "dropIn": false
+            }
+          },
+          "alternatives": [
+            {
+              "ref": "event:libcal:durham-county-library:15412071",
+              "arrive": "09:35",
+              "leave": "11:00",
+              "why": "Babies & Bubbles at Southwest Regional Library is a lapsit storytime for ages 0 to 24 months, with songs, stories, play and bubbles. Then your toddler plays at Cornwallis Road Park.",
+              "tips": [
+                "Hold your toddler on your lap for the bounces and songs.",
+                "Bring a snack for the park."
+              ],
+              "interests": [
+                "stories",
+                "music"
+              ],
+              "also": [
+                {
+                  "ref": "place:cornwallis-road-park",
+                  "source": {
+                    "kind": "park",
+                    "title": "Cornwallis Road Park",
+                    "address": "2830 Wade Rd, Durham, NC",
+                    "lat": 35.97904,
+                    "lon": -78.95229666666667,
+                    "url": "https://www.dprplaymore.org/Facilities/Facility/Details/Cornwallis-Road-Park-13",
+                    "amenities": [
+                      "playground",
+                      "restroom"
+                    ],
+                    "indoor": false,
+                    "area": "durham",
+                    "hours": null,
+                    "cost": "Free"
+                  }
+                }
+              ],
+              "area": "durham",
+              "outdoor": false,
+              "source": {
+                "kind": "event",
+                "title": "Babies & Bubbles: Lapsit Storytime",
+                "start": "2026-11-18T09:45:00",
+                "end": "2026-11-18T10:15:00",
+                "venue": "Southwest Regional Library",
+                "address": "3605 Shannon Rd, Durham, NC",
+                "url": "https://durhamcountylibrary.libcal.com/event/15412071",
+                "cost": "Free",
+                "lat": 35.95871978266895,
+                "lon": -78.95455361473043,
+                "ages": "Baby, Toddler",
+                "registration": false,
+                "indoor": true,
+                "area": "durham",
+                "source": "libcal",
+                "dropIn": false
+              }
+            },
+            {
+              "ref": "event:museum:nc-natural-sciences:123922",
+              "arrive": "10:35",
+              "leave": "11:45",
+              "why": "The Live Animal Feeding of the Ocean Habitat at the NC Museum of Natural Sciences is a short show. Then your toddler runs at LeVelle Moton Park.",
+              "tips": [
+                "Get close to the tank before 10:45 am so your toddler can watch.",
+                "Bring a snack for the park."
+              ],
+              "interests": [
+                "animals",
+                "water",
+                "movement"
+              ],
+              "also": [
+                {
+                  "ref": "place:levelle-moton-park",
+                  "source": {
+                    "kind": "park",
+                    "title": "LeVelle Moton Park",
+                    "address": "920 E. Lane Street, Raleigh, NC 27601",
+                    "lat": 35.78316,
+                    "lon": -78.62606,
+                    "url": "https://raleighnc.gov/parks-and-recreation/places/levelle-moton-park",
+                    "amenities": [
+                      "picnic-shelter",
+                      "courts",
+                      "playground"
+                    ],
+                    "indoor": false,
+                    "area": "raleigh",
+                    "hours": null,
+                    "cost": "Free"
+                  }
+                }
+              ],
+              "area": "raleigh",
+              "outdoor": false,
+              "source": {
+                "kind": "event",
+                "title": "Live Animal Feeding – Ocean Habitat",
+                "start": "2026-11-18T10:45:00",
+                "end": "2026-11-18T11:00:00",
+                "venue": "NC Museum of Natural Sciences",
+                "address": "11 West Jones Street, Raleigh, NC, 27601",
+                "url": "https://www.naturalsciences.org/calendar/event/live-animal-feeding-ocean-habitat-5/2026-11-18/",
+                "cost": "Museum admission is free",
+                "lat": 35.7822735,
+                "lon": -78.6395502,
+                "ages": "Adults All Ages Children Live Animals Teens Walk-up Programs",
+                "registration": false,
+                "indoor": true,
+                "area": "raleigh",
+                "source": "museum",
+                "dropIn": false
+              }
+            },
+            {
+              "ref": "event:wake:24633",
+              "arrive": "09:20",
+              "leave": "10:40",
+              "why": "Toddler Storytime at Wake Forest Community Library has books, music, rhymes and movement. Then your toddler plays at Holding Park.",
+              "tips": [
+                "Sing along and let your toddler wiggle.",
+                "Bring a snack for the park."
+              ],
+              "interests": [
+                "stories",
+                "music",
+                "movement"
+              ],
+              "also": [
+                {
+                  "ref": "place:holding-park",
+                  "source": {
+                    "kind": "park",
+                    "title": "Holding Park",
+                    "address": "133 W Owen Ave, Wake Forest, NC",
+                    "lat": 35.9780288481514,
+                    "lon": -78.51404932968246,
+                    "url": "https://www.wakeforestnc.gov/parks-recreation-cultural-resources/parks-facilities/holding-park",
+                    "amenities": [
+                      "playground",
+                      "pool",
+                      "picnic-shelter",
+                      "greenway"
+                    ],
+                    "indoor": false,
+                    "area": "north-raleigh",
+                    "hours": null,
+                    "cost": "Free"
+                  }
+                }
+              ],
+              "area": "north-raleigh",
+              "outdoor": false,
+              "source": {
+                "kind": "event",
+                "title": "Toddler Storytime",
+                "start": "2026-11-18T09:30:00-05:00",
+                "end": "2026-11-18T09:55:00-05:00",
+                "venue": "Wake Forest Community Library",
+                "address": "400 E Holding Avenue, Wake Forest, NC",
+                "url": "https://www.wake.gov/events/toddler-storytime-1122",
+                "cost": "Free",
+                "lat": 35.9699502750089,
+                "lon": -78.5102712176725,
+                "ages": "Young Children",
+                "registration": null,
+                "indoor": true,
+                "area": "north-raleigh",
+                "source": "wake-county",
+                "dropIn": false
+              }
+            },
+            {
+              "ref": "place:apex-nature-park",
+              "arrive": "09:30",
+              "leave": "11:00",
+              "why": "A slow morning at Apex Nature Park, with a greenway and a picnic shelter. Your toddler can walk, look and collect leaves.",
+              "tips": [
+                "Bring a snack and eat at the picnic shelter.",
+                "Let your toddler set the pace on the path."
+              ],
+              "interests": [
+                "nature"
+              ],
+              "also": [],
+              "area": "cary-apex",
+              "outdoor": true,
+              "source": {
+                "kind": "park",
+                "title": "Apex Nature Park",
+                "address": "2600 Evans Rd., Apex, NC",
+                "lat": 35.71709646233568,
+                "lon": -78.90520368087866,
+                "url": "https://www.apexnc.org/800/Nature-Park-Seymour-Athletic-Fields",
+                "amenities": [
+                  "picnic-shelter",
+                  "restroom",
+                  "greenway",
+                  "nature"
+                ],
+                "indoor": false,
+                "area": "cary-apex",
+                "hours": null,
+                "cost": "Free"
+              }
+            }
+          ],
+          "rainBackup": null,
+          "timeline": [
+            {
+              "start": "07:00",
+              "end": "07:30",
+              "kind": "meal",
+              "title": "Up and breakfast"
+            },
+            {
+              "start": "07:30",
+              "end": "09:40",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "09:40",
+              "end": "10:00",
+              "kind": "routine",
+              "title": "Get ready to go",
+              "detail": "Shoes on, the bag, water and a snack."
+            },
+            {
+              "start": "10:00",
+              "end": "10:20",
+              "kind": "travel",
+              "title": "Drive to Zebulon Community Library"
+            },
+            {
+              "start": "10:20",
+              "end": "11:00",
+              "kind": "outing",
+              "title": "Family Storytime",
+              "detail": "Pack a lunch to eat there."
+            },
+            {
+              "start": "11:00",
+              "end": "11:30",
+              "kind": "outing",
+              "title": "Stay and Play"
+            },
+            {
+              "start": "11:30",
+              "end": "11:40",
+              "kind": "travel",
+              "title": "Drive to Gill Street Park"
+            },
+            {
+              "start": "11:40",
+              "end": "12:10",
+              "kind": "outing",
+              "title": "Gill Street Park"
+            },
+            {
+              "start": "12:10",
+              "end": "12:30",
+              "kind": "travel",
+              "title": "Drive home"
+            },
+            {
+              "start": "12:30",
+              "end": "12:45",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "12:45",
+              "end": "13:00",
+              "kind": "quiet",
+              "title": "Wind down",
+              "detail": "A couple of books to settle."
+            },
+            {
+              "start": "13:00",
+              "end": "15:00",
+              "kind": "nap",
+              "title": "Nap"
+            },
+            {
+              "start": "15:00",
+              "end": "15:20",
+              "kind": "routine",
+              "title": "Up and a snack"
+            },
+            {
+              "start": "15:20",
+              "end": "18:00",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "18:00",
+              "end": "18:45",
+              "kind": "meal",
+              "title": "Dinner"
+            },
+            {
+              "start": "18:45",
+              "end": "19:30",
+              "kind": "routine",
+              "title": "Bath, books and bed"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "checked": {
+    "at": "2026-11-14T11:03:27.401Z",
+    "forecast": "nws",
+    "weather": {
+      "period": "Wednesday",
+      "tempF": 62,
+      "precipProbability": 0,
+      "shortForecast": "Sunny",
+      "windMph": 3,
+      "windFrom": "NE",
+      "hours": [
+        {
+          "t": "05:00",
+          "tempF": 34,
+          "pop": 0,
+          "cloud": 4
+        },
+        {
+          "t": "06:00",
+          "tempF": 33,
+          "pop": 0,
+          "cloud": 4
+        },
+        {
+          "t": "07:00",
+          "tempF": 34,
+          "pop": 0,
+          "cloud": 6
+        },
+        {
+          "t": "08:00",
+          "tempF": 38,
+          "pop": 0,
+          "cloud": 6
+        },
+        {
+          "t": "09:00",
+          "tempF": 44,
+          "pop": 0,
+          "cloud": 6
+        },
+        {
+          "t": "10:00",
+          "tempF": 50,
+          "pop": 0,
+          "cloud": 6
+        },
+        {
+          "t": "11:00",
+          "tempF": 54,
+          "pop": 0,
+          "cloud": 6
+        },
+        {
+          "t": "12:00",
+          "tempF": 57,
+          "pop": 0,
+          "cloud": 6
+        },
+        {
+          "t": "13:00",
+          "tempF": 59,
+          "pop": 0,
+          "cloud": 2
+        },
+        {
+          "t": "14:00",
+          "tempF": 61,
+          "pop": 0,
+          "cloud": 2
+        },
+        {
+          "t": "15:00",
+          "tempF": 62,
+          "pop": 0,
+          "cloud": 2
+        },
+        {
+          "t": "16:00",
+          "tempF": 61,
+          "pop": 0,
+          "cloud": 2
+        },
+        {
+          "t": "17:00",
+          "tempF": 58,
+          "pop": 0,
+          "cloud": 2
+        },
+        {
+          "t": "18:00",
+          "tempF": 53,
+          "pop": 0,
+          "cloud": 2
+        },
+        {
+          "t": "19:00",
+          "tempF": 49,
+          "pop": 0,
+          "cloud": 3
+        },
+        {
+          "t": "20:00",
+          "tempF": 46,
+          "pop": 0,
+          "cloud": 3
+        },
+        {
+          "t": "21:00",
+          "tempF": 43,
+          "pop": 0,
+          "cloud": 3
+        },
+        {
+          "t": "22:00",
+          "tempF": 41,
+          "pop": 0,
+          "cloud": 3
+        },
+        {
+          "t": "23:00",
+          "tempF": 40,
+          "pop": 0,
+          "cloud": 3
+        }
+      ]
+    },
+    "hidden": []
+  }
+}
