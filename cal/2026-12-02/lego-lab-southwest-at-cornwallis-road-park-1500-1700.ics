@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Triangle Tots//triangletots.com//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:2026-12-02-lego-lab-southwest-at-cornwallis-road-park-1500-1700@triangl
+ etots.com
+DTSTAMP:20261121T100000Z
+DTSTART:20261202T200000Z
+DTEND:20261202T220000Z
+SUMMARY:Lego Lab @ Southwest at Cornwallis Road Park
+LOCATION:2830 Wade Rd\, Durham\, NC
+DESCRIPTION:https://www.dprplaymore.org/Facilities/Facility/Details/Cornwal
+ lis-Road-Park-13\nhttps://durhamcountylibrary.libcal.com/event/17489475\nT
+ he whole day: https://triangletots.com/2026-12-02/t4/\nTimes and details c
+ an change. Check the event or place before you go.
+END:VEVENT
+END:VCALENDAR

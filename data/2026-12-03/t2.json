@@ -1,0 +1,835 @@
+{
+  "date": "2026-12-03",
+  "band": "t2",
+  "versions": [
+    {
+      "at": "2026-11-20T11:07:08.202Z",
+      "reason": null,
+      "forecast": "none",
+      "weather": null,
+      "plans": [
+        {
+          "nap": "early-nap",
+          "napLabel": "One nap, 12 to 2",
+          "headline": "Wander the garden paths and forest trails",
+          "main": {
+            "ref": "place:nc-botanical-garden",
+            "arrive": "09:00",
+            "leave": "11:00",
+            "why": "Your toddler can stroll the display gardens, then follow a nature trail into the forest. {They} can stop to look at leaves, sticks and seed pods as long as {they} like{s}.",
+            "tips": [
+              "Bring a snack to eat partway round, before {they} get{s} tired.",
+              "Let your child choose which path to take at each fork.",
+              "Say 'one more look' and point to the car to leave without a fuss."
+            ],
+            "interests": [
+              "nature",
+              "movement"
+            ],
+            "also": [],
+            "area": "chapel-hill",
+            "outdoor": true,
+            "source": {
+              "kind": "garden",
+              "title": "NC Botanical Garden",
+              "address": "100 Old Mason Farm Rd, Chapel Hill, NC 27517",
+              "lat": 35.9011,
+              "lon": -79.0319,
+              "url": "https://ncbg.unc.edu/visit/",
+              "amenities": [
+                "garden",
+                "nature",
+                "restroom"
+              ],
+              "indoor": false,
+              "area": "chapel-hill",
+              "cost": "Free",
+              "note": "Free. Display gardens, and nature trails through the forest behind them."
+            }
+          },
+          "alternatives": [
+            {
+              "ref": "place:pullen-park-amusements",
+              "arrive": "10:00",
+              "leave": "11:20",
+              "why": "Your toddler can ride the carousel and the train, then climb at the playground.",
+              "tips": [
+                "Pick one ride to start and one to end on so leaving feels planned.",
+                "Bring a snack for a break between rides."
+              ],
+              "interests": [
+                "vehicles",
+                "movement"
+              ],
+              "also": [],
+              "area": "raleigh",
+              "outdoor": true,
+              "source": {
+                "kind": "park",
+                "title": "Pullen Park Amusements",
+                "address": "410 Park Ave, Raleigh, NC 27606",
+                "lat": 35.7806,
+                "lon": -78.66396,
+                "url": "https://raleighnc.gov/parks-and-recreation/places/pullen-park-amusements",
+                "amenities": [
+                  "carousel",
+                  "boating",
+                  "train",
+                  "amusements",
+                  "courts",
+                  "playground",
+                  "picnic-shelter"
+                ],
+                "indoor": false,
+                "area": "raleigh",
+                "hours": {
+                  "mon": "10 a.m.–6 p.m.",
+                  "tue": "10 a.m.–6 p.m.",
+                  "wed": "10 a.m.–6 p.m.",
+                  "thu": "10 a.m.–6 p.m.",
+                  "fri": "10 a.m.–6 p.m.",
+                  "sat": "10 a.m.–6 p.m.",
+                  "sun": "10 a.m.–6 p.m."
+                },
+                "cost": "Free to get in; rides $2 a ticket"
+              }
+            },
+            {
+              "ref": "event:wake-parks:8358:2026-12-03",
+              "arrive": "09:00",
+              "leave": "10:45",
+              "why": "Your child follows the StoryWalk pages along the Educational Loop, reading a book one page at a time. It is self-led and free.",
+              "tips": [
+                "Read each page aloud and let {them} hop or tiptoe to the next one.",
+                "Bring a snack to share on the way back."
+              ],
+              "interests": [
+                "stories",
+                "nature"
+              ],
+              "also": [],
+              "area": "south-wake",
+              "outdoor": true,
+              "source": {
+                "kind": "event",
+                "title": "Beech Bluff County Park StoryWalk® 2026 (Self-Led)",
+                "start": "2026-12-03T08:00:00",
+                "end": "2026-12-03T17:30:00",
+                "venue": "Beech Bluff County Park",
+                "address": "Beech Bluff Park Drive, Fuquay-Varina, NC",
+                "url": "https://apm.activecommunities.com/wakeparks/Activity_Search/beech-bluff-county-park-storywalk-2026-self-led/8358?locale=en-US",
+                "cost": "Free",
+                "lat": 35.58537279715877,
+                "lon": -78.6793341971644,
+                "ages": null,
+                "registration": false,
+                "indoor": false,
+                "area": "south-wake",
+                "source": "wake-parks",
+                "dropIn": true
+              }
+            },
+            {
+              "ref": "place:plummer-park",
+              "arrive": "15:30",
+              "leave": "17:00",
+              "why": "Your toddler plays at the park first, then joins the Cookiemobile fun at the Northeast Regional Library, with crafts, games and cookies.",
+              "tips": [
+                "Let {them} play hard at the park before the crafts start.",
+                "Bring a layer for the late afternoon."
+              ],
+              "interests": [
+                "art",
+                "movement"
+              ],
+              "also": [
+                {
+                  "ref": "event:wake:25056",
+                  "source": {
+                    "kind": "event",
+                    "title": "Cookiemobile!",
+                    "start": "2026-12-03T16:00:00-05:00",
+                    "end": "2026-12-03T18:00:00-05:00",
+                    "venue": "Northeast Regional Library",
+                    "address": "14401 Green Elm Lane, Raleigh, NC",
+                    "url": "https://www.wake.gov/events/cookiemobile-0",
+                    "cost": "Free",
+                    "lat": 35.9541926372282,
+                    "lon": -78.5438512128256,
+                    "ages": "Young Children School-Age Children",
+                    "registration": null,
+                    "indoor": true,
+                    "area": "north-raleigh",
+                    "source": "wake-county",
+                    "dropIn": false
+                  }
+                }
+              ],
+              "area": "north-raleigh",
+              "outdoor": false,
+              "source": {
+                "kind": "park",
+                "title": "Plummer Park",
+                "address": "965 Jones Wynd, Wake Forest, NC",
+                "lat": 35.96978706226675,
+                "lon": -78.5486469005171,
+                "url": "https://www.wakeforestnc.gov/parks-recreation-cultural-resources/parks-facilities/plummer-park",
+                "amenities": [
+                  "playground",
+                  "picnic-shelter"
+                ],
+                "indoor": false,
+                "area": "north-raleigh",
+                "hours": null,
+                "cost": "Free"
+              }
+            }
+          ],
+          "rainBackup": null,
+          "timeline": [
+            {
+              "start": "07:00",
+              "end": "07:30",
+              "kind": "meal",
+              "title": "Up and breakfast"
+            },
+            {
+              "start": "07:30",
+              "end": "08:20",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "08:20",
+              "end": "08:40",
+              "kind": "routine",
+              "title": "Get ready to go",
+              "detail": "Shoes on, the bag, water and a snack."
+            },
+            {
+              "start": "08:40",
+              "end": "09:00",
+              "kind": "travel",
+              "title": "Drive to NC Botanical Garden"
+            },
+            {
+              "start": "09:00",
+              "end": "11:00",
+              "kind": "outing",
+              "title": "NC Botanical Garden"
+            },
+            {
+              "start": "11:00",
+              "end": "11:20",
+              "kind": "travel",
+              "title": "Drive home"
+            },
+            {
+              "start": "11:20",
+              "end": "11:50",
+              "kind": "meal",
+              "title": "Lunch"
+            },
+            {
+              "start": "11:50",
+              "end": "12:00",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "12:00",
+              "end": "14:00",
+              "kind": "nap",
+              "title": "Nap"
+            },
+            {
+              "start": "14:00",
+              "end": "14:20",
+              "kind": "routine",
+              "title": "Up and a snack"
+            },
+            {
+              "start": "14:20",
+              "end": "18:00",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "18:00",
+              "end": "18:45",
+              "kind": "meal",
+              "title": "Dinner"
+            },
+            {
+              "start": "18:45",
+              "end": "19:30",
+              "kind": "routine",
+              "title": "Bath, books and bed"
+            }
+          ]
+        },
+        {
+          "nap": "late-nap",
+          "napLabel": "One nap, 1 to 3",
+          "headline": "Walk a story and play on the loop",
+          "main": {
+            "ref": "event:wake-parks:8358:2026-12-03",
+            "arrive": "09:30",
+            "leave": "11:15",
+            "why": "Your toddler walks the StoryWalk along the Educational Loop at Beech Bluff, reading a story one page at a time. It is self-led and free, with a playground in the park too.",
+            "tips": [
+              "Read each page aloud and let {them} hop or tiptoe to the next one.",
+              "Bring a snack and eat it before the playground.",
+              "Leave after one last slide so it feels like a plan."
+            ],
+            "interests": [
+              "stories",
+              "nature",
+              "movement"
+            ],
+            "also": [],
+            "area": "south-wake",
+            "outdoor": true,
+            "source": {
+              "kind": "event",
+              "title": "Beech Bluff County Park StoryWalk® 2026 (Self-Led)",
+              "start": "2026-12-03T08:00:00",
+              "end": "2026-12-03T17:30:00",
+              "venue": "Beech Bluff County Park",
+              "address": "Beech Bluff Park Drive, Fuquay-Varina, NC",
+              "url": "https://apm.activecommunities.com/wakeparks/Activity_Search/beech-bluff-county-park-storywalk-2026-self-led/8358?locale=en-US",
+              "cost": "Free",
+              "lat": 35.58537279715877,
+              "lon": -78.6793341971644,
+              "ages": null,
+              "registration": false,
+              "indoor": false,
+              "area": "south-wake",
+              "source": "wake-parks",
+              "dropIn": true
+            }
+          },
+          "alternatives": [
+            {
+              "ref": "place:pullen-park-amusements",
+              "arrive": "10:00",
+              "leave": "12:00",
+              "why": "Your child can ride the carousel and the train, then run at the playground.",
+              "tips": [
+                "Start with the ride {they} want most.",
+                "Bring a snack for a break between rides."
+              ],
+              "interests": [
+                "vehicles",
+                "movement"
+              ],
+              "also": [],
+              "area": "raleigh",
+              "outdoor": true,
+              "source": {
+                "kind": "park",
+                "title": "Pullen Park Amusements",
+                "address": "410 Park Ave, Raleigh, NC 27606",
+                "lat": 35.7806,
+                "lon": -78.66396,
+                "url": "https://raleighnc.gov/parks-and-recreation/places/pullen-park-amusements",
+                "amenities": [
+                  "carousel",
+                  "boating",
+                  "train",
+                  "amusements",
+                  "courts",
+                  "playground",
+                  "picnic-shelter"
+                ],
+                "indoor": false,
+                "area": "raleigh",
+                "hours": {
+                  "mon": "10 a.m.–6 p.m.",
+                  "tue": "10 a.m.–6 p.m.",
+                  "wed": "10 a.m.–6 p.m.",
+                  "thu": "10 a.m.–6 p.m.",
+                  "fri": "10 a.m.–6 p.m.",
+                  "sat": "10 a.m.–6 p.m.",
+                  "sun": "10 a.m.–6 p.m."
+                },
+                "cost": "Free to get in; rides $2 a ticket"
+              }
+            },
+            {
+              "ref": "event:museum:nc-natural-sciences:124293",
+              "arrive": "10:50",
+              "leave": "11:55",
+              "why": "Your toddler listens to a short story at the NC Museum of Natural Sciences, then runs around LeVelle Moton Park.",
+              "tips": [
+                "Get there a few minutes early so {they} can settle in before the story.",
+                "Bring a snack for the park."
+              ],
+              "interests": [
+                "stories",
+                "science"
+              ],
+              "also": [
+                {
+                  "ref": "place:levelle-moton-park",
+                  "source": {
+                    "kind": "park",
+                    "title": "LeVelle Moton Park",
+                    "address": "920 E. Lane Street, Raleigh, NC 27601",
+                    "lat": 35.78316,
+                    "lon": -78.62606,
+                    "url": "https://raleighnc.gov/parks-and-recreation/places/levelle-moton-park",
+                    "amenities": [
+                      "picnic-shelter",
+                      "courts",
+                      "playground"
+                    ],
+                    "indoor": false,
+                    "area": "raleigh",
+                    "hours": null,
+                    "cost": "Free"
+                  }
+                }
+              ],
+              "area": "raleigh",
+              "outdoor": false,
+              "source": {
+                "kind": "event",
+                "title": "Story Time at the Museum",
+                "start": "2026-12-03T11:00:00",
+                "end": "2026-12-03T11:20:00",
+                "venue": "NC Museum of Natural Sciences",
+                "address": "11 West Jones Street, Raleigh, NC, 27601",
+                "url": "https://www.naturalsciences.org/calendar/event/story-time-at-the-museum-3/2026-12-03/",
+                "cost": "Free",
+                "lat": 35.7822735,
+                "lon": -78.6395502,
+                "ages": "Children Story Time at the Museum Walk-up Programs Windows on the World",
+                "registration": false,
+                "indoor": true,
+                "area": "raleigh",
+                "source": "museum",
+                "dropIn": false
+              }
+            },
+            {
+              "ref": "place:plummer-park",
+              "arrive": "15:30",
+              "leave": "17:00",
+              "why": "Your toddler plays at the park, then joins the Cookiemobile at the Northeast Regional Library for crafts, games and cookies.",
+              "tips": [
+                "Let {them} play hard at the park before the crafts start.",
+                "Bring a layer for the late afternoon."
+              ],
+              "interests": [
+                "art",
+                "movement"
+              ],
+              "also": [
+                {
+                  "ref": "event:wake:25056",
+                  "source": {
+                    "kind": "event",
+                    "title": "Cookiemobile!",
+                    "start": "2026-12-03T16:00:00-05:00",
+                    "end": "2026-12-03T18:00:00-05:00",
+                    "venue": "Northeast Regional Library",
+                    "address": "14401 Green Elm Lane, Raleigh, NC",
+                    "url": "https://www.wake.gov/events/cookiemobile-0",
+                    "cost": "Free",
+                    "lat": 35.9541926372282,
+                    "lon": -78.5438512128256,
+                    "ages": "Young Children School-Age Children",
+                    "registration": null,
+                    "indoor": true,
+                    "area": "north-raleigh",
+                    "source": "wake-county",
+                    "dropIn": false
+                  }
+                }
+              ],
+              "area": "north-raleigh",
+              "outdoor": false,
+              "source": {
+                "kind": "park",
+                "title": "Plummer Park",
+                "address": "965 Jones Wynd, Wake Forest, NC",
+                "lat": 35.96978706226675,
+                "lon": -78.5486469005171,
+                "url": "https://www.wakeforestnc.gov/parks-recreation-cultural-resources/parks-facilities/plummer-park",
+                "amenities": [
+                  "playground",
+                  "picnic-shelter"
+                ],
+                "indoor": false,
+                "area": "north-raleigh",
+                "hours": null,
+                "cost": "Free"
+              }
+            }
+          ],
+          "rainBackup": null,
+          "timeline": [
+            {
+              "start": "07:00",
+              "end": "07:30",
+              "kind": "meal",
+              "title": "Up and breakfast"
+            },
+            {
+              "start": "07:30",
+              "end": "08:50",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "08:50",
+              "end": "09:10",
+              "kind": "routine",
+              "title": "Get ready to go",
+              "detail": "Shoes on, the bag, water and a snack."
+            },
+            {
+              "start": "09:10",
+              "end": "09:30",
+              "kind": "travel",
+              "title": "Drive to Beech Bluff County Park"
+            },
+            {
+              "start": "09:30",
+              "end": "11:15",
+              "kind": "outing",
+              "title": "Beech Bluff County Park"
+            },
+            {
+              "start": "11:15",
+              "end": "11:35",
+              "kind": "travel",
+              "title": "Drive home"
+            },
+            {
+              "start": "11:35",
+              "end": "12:15",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "12:15",
+              "end": "12:45",
+              "kind": "meal",
+              "title": "Lunch"
+            },
+            {
+              "start": "12:45",
+              "end": "13:00",
+              "kind": "quiet",
+              "title": "Wind down",
+              "detail": "A couple of books to settle."
+            },
+            {
+              "start": "13:00",
+              "end": "15:00",
+              "kind": "nap",
+              "title": "Nap"
+            },
+            {
+              "start": "15:00",
+              "end": "15:20",
+              "kind": "routine",
+              "title": "Up and a snack"
+            },
+            {
+              "start": "15:20",
+              "end": "18:30",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "18:30",
+              "end": "19:15",
+              "kind": "meal",
+              "title": "Dinner"
+            },
+            {
+              "start": "19:15",
+              "end": "20:00",
+              "kind": "routine",
+              "title": "Bath, books and bed"
+            }
+          ]
+        },
+        {
+          "nap": "short-nap",
+          "napLabel": "Short nap, 1 to 2",
+          "headline": "Ride the carousel and the train",
+          "main": {
+            "ref": "place:pullen-park-amusements",
+            "arrive": "10:00",
+            "leave": "12:00",
+            "why": "Your toddler can ride the carousel and the train, then climb at the playground. There is a lot to do, so {they} can pick and stay as long as {they} like{s}.",
+            "tips": [
+              "Pick one ride to start and one to end on so leaving feels planned.",
+              "Bring a snack for a break between rides.",
+              "Head to the car by 11:45 so lunch and the nap go smoothly."
+            ],
+            "interests": [
+              "vehicles",
+              "movement"
+            ],
+            "also": [],
+            "area": "raleigh",
+            "outdoor": true,
+            "source": {
+              "kind": "park",
+              "title": "Pullen Park Amusements",
+              "address": "410 Park Ave, Raleigh, NC 27606",
+              "lat": 35.7806,
+              "lon": -78.66396,
+              "url": "https://raleighnc.gov/parks-and-recreation/places/pullen-park-amusements",
+              "amenities": [
+                "carousel",
+                "boating",
+                "train",
+                "amusements",
+                "courts",
+                "playground",
+                "picnic-shelter"
+              ],
+              "indoor": false,
+              "area": "raleigh",
+              "hours": {
+                "mon": "10 a.m.–6 p.m.",
+                "tue": "10 a.m.–6 p.m.",
+                "wed": "10 a.m.–6 p.m.",
+                "thu": "10 a.m.–6 p.m.",
+                "fri": "10 a.m.–6 p.m.",
+                "sat": "10 a.m.–6 p.m.",
+                "sun": "10 a.m.–6 p.m."
+              },
+              "cost": "Free to get in; rides $2 a ticket"
+            }
+          },
+          "alternatives": [
+            {
+              "ref": "event:wake-parks:8358:2026-12-03",
+              "arrive": "09:30",
+              "leave": "11:00",
+              "why": "Your toddler follows the StoryWalk pages along the Educational Loop at Beech Bluff, reading a story one page at a time. It is self-led and free.",
+              "tips": [
+                "Read each page aloud and let {them} hop or tiptoe to the next one.",
+                "Bring a snack to share on the way back."
+              ],
+              "interests": [
+                "stories",
+                "nature"
+              ],
+              "also": [],
+              "area": "south-wake",
+              "outdoor": true,
+              "source": {
+                "kind": "event",
+                "title": "Beech Bluff County Park StoryWalk® 2026 (Self-Led)",
+                "start": "2026-12-03T08:00:00",
+                "end": "2026-12-03T17:30:00",
+                "venue": "Beech Bluff County Park",
+                "address": "Beech Bluff Park Drive, Fuquay-Varina, NC",
+                "url": "https://apm.activecommunities.com/wakeparks/Activity_Search/beech-bluff-county-park-storywalk-2026-self-led/8358?locale=en-US",
+                "cost": "Free",
+                "lat": 35.58537279715877,
+                "lon": -78.6793341971644,
+                "ages": null,
+                "registration": false,
+                "indoor": false,
+                "area": "south-wake",
+                "source": "wake-parks",
+                "dropIn": true
+              }
+            },
+            {
+              "ref": "place:nc-botanical-garden",
+              "arrive": "14:30",
+              "leave": "16:30",
+              "why": "After the nap, your child can wander the display gardens and the forest trails behind them.",
+              "tips": [
+                "Bring a snack for halfway round.",
+                "Let {them} choose which path to take."
+              ],
+              "interests": [
+                "nature",
+                "movement"
+              ],
+              "also": [],
+              "area": "chapel-hill",
+              "outdoor": true,
+              "source": {
+                "kind": "garden",
+                "title": "NC Botanical Garden",
+                "address": "100 Old Mason Farm Rd, Chapel Hill, NC 27517",
+                "lat": 35.9011,
+                "lon": -79.0319,
+                "url": "https://ncbg.unc.edu/visit/",
+                "amenities": [
+                  "garden",
+                  "nature",
+                  "restroom"
+                ],
+                "indoor": false,
+                "area": "chapel-hill",
+                "cost": "Free",
+                "note": "Free. Display gardens, and nature trails through the forest behind them."
+              }
+            },
+            {
+              "ref": "place:plummer-park",
+              "arrive": "15:30",
+              "leave": "17:00",
+              "why": "Your toddler plays at the park, then joins the Cookiemobile at the Northeast Regional Library for crafts, games and cookies.",
+              "tips": [
+                "Let {them} play hard at the park before the crafts start.",
+                "Bring a layer for the late afternoon."
+              ],
+              "interests": [
+                "art",
+                "movement"
+              ],
+              "also": [
+                {
+                  "ref": "event:wake:25056",
+                  "source": {
+                    "kind": "event",
+                    "title": "Cookiemobile!",
+                    "start": "2026-12-03T16:00:00-05:00",
+                    "end": "2026-12-03T18:00:00-05:00",
+                    "venue": "Northeast Regional Library",
+                    "address": "14401 Green Elm Lane, Raleigh, NC",
+                    "url": "https://www.wake.gov/events/cookiemobile-0",
+                    "cost": "Free",
+                    "lat": 35.9541926372282,
+                    "lon": -78.5438512128256,
+                    "ages": "Young Children School-Age Children",
+                    "registration": null,
+                    "indoor": true,
+                    "area": "north-raleigh",
+                    "source": "wake-county",
+                    "dropIn": false
+                  }
+                }
+              ],
+              "area": "north-raleigh",
+              "outdoor": false,
+              "source": {
+                "kind": "park",
+                "title": "Plummer Park",
+                "address": "965 Jones Wynd, Wake Forest, NC",
+                "lat": 35.96978706226675,
+                "lon": -78.5486469005171,
+                "url": "https://www.wakeforestnc.gov/parks-recreation-cultural-resources/parks-facilities/plummer-park",
+                "amenities": [
+                  "playground",
+                  "picnic-shelter"
+                ],
+                "indoor": false,
+                "area": "north-raleigh",
+                "hours": null,
+                "cost": "Free"
+              }
+            }
+          ],
+          "rainBackup": null,
+          "timeline": [
+            {
+              "start": "07:00",
+              "end": "07:30",
+              "kind": "meal",
+              "title": "Up and breakfast"
+            },
+            {
+              "start": "07:30",
+              "end": "09:20",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "09:20",
+              "end": "09:40",
+              "kind": "routine",
+              "title": "Get ready to go",
+              "detail": "Shoes on, the bag, water and a snack."
+            },
+            {
+              "start": "09:40",
+              "end": "10:00",
+              "kind": "travel",
+              "title": "Drive to Pullen Park Amusements"
+            },
+            {
+              "start": "10:00",
+              "end": "12:00",
+              "kind": "outing",
+              "title": "Pullen Park Amusements"
+            },
+            {
+              "start": "12:00",
+              "end": "12:20",
+              "kind": "travel",
+              "title": "Drive home"
+            },
+            {
+              "start": "12:20",
+              "end": "12:50",
+              "kind": "meal",
+              "title": "Lunch"
+            },
+            {
+              "start": "12:50",
+              "end": "13:00",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "13:00",
+              "end": "14:00",
+              "kind": "nap",
+              "title": "Nap"
+            },
+            {
+              "start": "14:00",
+              "end": "14:20",
+              "kind": "routine",
+              "title": "Up and a snack"
+            },
+            {
+              "start": "14:20",
+              "end": "18:00",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "18:00",
+              "end": "18:45",
+              "kind": "meal",
+              "title": "Dinner"
+            },
+            {
+              "start": "18:45",
+              "end": "19:30",
+              "kind": "routine",
+              "title": "Bath, books and bed"
+            }
+          ]
+        }
+      ],
+      "dropped": [
+        "[early-nap] alternative place:old-north-durham-park Bilingual Storytime at The Nasher / Cuento Bilingüe en el Museo de Arte Nasher is for Baby, Kindergarten, Pre-School, Toddler",
+        "[late-nap] alternative event:libcal:durham-county-library:15559148 Liv and Sing! is for Baby, Kindergarten, Pre-School, Toddler",
+        "[short-nap] alternative event:libcal:durham-county-library:15559148 Liv and Sing! is for Baby, Kindergarten, Pre-School, Toddler"
+      ]
+    }
+  ],
+  "checked": {
+    "at": "2026-11-21T11:03:20.730Z",
+    "forecast": "none",
+    "weather": null,
+    "hidden": []
+  }
+}

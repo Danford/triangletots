@@ -1,0 +1,924 @@
+{
+  "date": "2026-12-04",
+  "band": "t3",
+  "versions": [
+    {
+      "at": "2026-11-21T11:04:29.748Z",
+      "reason": null,
+      "forecast": "none",
+      "weather": null,
+      "plans": [
+        {
+          "nap": "nap",
+          "napLabel": "Nap, 1 to 2:30",
+          "headline": "Hunt for winter insects, then walk a story",
+          "main": {
+            "ref": "event:wake-parks:9458",
+            "arrive": "09:50",
+            "leave": "11:30",
+            "why": "Your child looks for where insects go in winter at Budding Sprouts, then walks the StoryWalk pages along the Educational Loop. Families need to sign up for the insect program; the StoryWalk is self-led.",
+            "tips": [
+              "Meet at Harvest Hub a few minutes before 10:00 am.",
+              "Bring a snack for after the program, before the StoryWalk.",
+              "Let {them} lead along the loop and stop when {they} {is} ready."
+            ],
+            "interests": [
+              "nature",
+              "science",
+              "stories"
+            ],
+            "also": [
+              {
+                "ref": "event:wake-parks:8358:2026-12-04",
+                "source": {
+                  "kind": "event",
+                  "title": "Beech Bluff County Park StoryWalk® 2026 (Self-Led)",
+                  "start": "2026-12-04T08:00:00",
+                  "end": "2026-12-04T17:30:00",
+                  "venue": "Beech Bluff County Park",
+                  "address": "Beech Bluff Park Drive, Fuquay-Varina, NC",
+                  "url": "https://apm.activecommunities.com/wakeparks/Activity_Search/beech-bluff-county-park-storywalk-2026-self-led/8358?locale=en-US",
+                  "cost": "Free",
+                  "lat": 35.58537279715877,
+                  "lon": -78.6793341971644,
+                  "ages": null,
+                  "registration": false,
+                  "indoor": false,
+                  "area": "south-wake",
+                  "source": "wake-parks",
+                  "dropIn": true
+                }
+              }
+            ],
+            "area": "south-wake",
+            "outdoor": true,
+            "source": {
+              "kind": "event",
+              "title": "Budding Sprouts: Where are the Insects?",
+              "start": "2026-12-04T10:00:00",
+              "end": "2026-12-04T11:00:00",
+              "venue": "Beech Bluff County Park",
+              "address": "Beech Bluff Park Drive, Fuquay-Varina, NC",
+              "url": "https://apm.activecommunities.com/wakeparks/Activity_Search/budding-sprouts-where-are-the-insects/9458?locale=en-US",
+              "cost": "Free",
+              "lat": 35.58537279715877,
+              "lon": -78.6793341971644,
+              "ages": "At least 2 but less than 6",
+              "registration": "https://apm.activecommunities.com/wakeparks/Activity_Search/budding-sprouts-where-are-the-insects/9458?locale=en-US",
+              "indoor": false,
+              "area": "south-wake",
+              "source": "wake-parks",
+              "dropIn": false
+            }
+          },
+          "alternatives": [
+            {
+              "ref": "place:historic-oak-view-county-park",
+              "arrive": "09:30",
+              "leave": "11:15",
+              "why": "A slow morning with the animals and garden paths, at your toddler's own speed.",
+              "tips": [
+                "Bring a snack to share at the picnic shelter.",
+                "Let your child pick which way to wander."
+              ],
+              "interests": [
+                "animals",
+                "nature"
+              ],
+              "also": [],
+              "area": "raleigh",
+              "outdoor": true,
+              "source": {
+                "kind": "park",
+                "title": "Historic Oak View County Park",
+                "address": "4028 Carya Dr., Raleigh, NC  27610",
+                "lat": 35.76980126731367,
+                "lon": -78.57063248179927,
+                "url": "https://www.wakegov.com/departments-government/parks-recreation-and-open-space/all-parks-trails/historic-oak-view-county-park",
+                "amenities": [
+                  "picnic-shelter",
+                  "restroom",
+                  "greenway",
+                  "animals",
+                  "garden"
+                ],
+                "indoor": false,
+                "area": "raleigh",
+                "hours": null,
+                "cost": "Free"
+              }
+            },
+            {
+              "ref": "place:lake-crabtree-county-park",
+              "arrive": "09:00",
+              "leave": "11:00",
+              "why": "Trails, a playground and lots of open ground for a nature morning.",
+              "tips": [
+                "Bring a snack and a small bag for collecting sticks and leaves.",
+                "Head to the playground when walking slows down."
+              ],
+              "interests": [
+                "nature",
+                "movement"
+              ],
+              "also": [],
+              "area": "north-raleigh",
+              "outdoor": true,
+              "source": {
+                "kind": "park",
+                "title": "Lake Crabtree County Park",
+                "address": "1400 Aviation Pkwy., Morrisville, NC  27560",
+                "lat": 35.845600151785014,
+                "lon": -78.80104927513673,
+                "url": "https://www.wakegov.com/departments-government/parks-recreation-and-open-space/all-parks-trails/lake-crabtree-county-park",
+                "amenities": [
+                  "playground",
+                  "picnic-shelter",
+                  "restroom",
+                  "greenway",
+                  "nature",
+                  "garden",
+                  "boating"
+                ],
+                "indoor": false,
+                "area": "north-raleigh",
+                "hours": null,
+                "cost": "Free"
+              }
+            },
+            {
+              "ref": "place:gipson-play-plaza",
+              "arrive": "09:00",
+              "leave": "10:45",
+              "why": "A big destination playground where your child can climb and run at {their} own pace.",
+              "tips": [
+                "Bring water and a snack for a mid-morning break.",
+                "Give a five minute warning before it is time to go."
+              ],
+              "interests": [
+                "movement"
+              ],
+              "also": [],
+              "area": "raleigh",
+              "outdoor": true,
+              "source": {
+                "kind": "park",
+                "title": "Gipson Play Plaza at Dix Park",
+                "address": "715 Biggs Dr, Raleigh, NC 27603",
+                "lat": 35.7667,
+                "lon": -78.6539,
+                "url": "https://dixpark.org/gipson-play-plaza",
+                "amenities": [
+                  "playground",
+                  "restroom"
+                ],
+                "indoor": false,
+                "area": "raleigh",
+                "hours": {
+                  "sun": "8 a.m.–9 p.m.",
+                  "mon": "8 a.m.–9 p.m.",
+                  "tue": "8 a.m.–9 p.m.",
+                  "wed": "8 a.m.–9 p.m.",
+                  "thu": "8 a.m.–9 p.m.",
+                  "fri": "8 a.m.–9 p.m.",
+                  "sat": "8 a.m.–9 p.m."
+                },
+                "cost": "Free",
+                "note": "Free; free parking. Big destination playground on the south edge of Dix Park."
+              }
+            }
+          ],
+          "rainBackup": null,
+          "timeline": [
+            {
+              "start": "07:00",
+              "end": "07:30",
+              "kind": "meal",
+              "title": "Up and breakfast"
+            },
+            {
+              "start": "07:30",
+              "end": "09:10",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "09:10",
+              "end": "09:30",
+              "kind": "routine",
+              "title": "Get ready to go",
+              "detail": "Shoes on, the bag, water and a snack."
+            },
+            {
+              "start": "09:30",
+              "end": "09:50",
+              "kind": "travel",
+              "title": "Drive to Beech Bluff County Park"
+            },
+            {
+              "start": "09:50",
+              "end": "11:00",
+              "kind": "outing",
+              "title": "Budding Sprouts: Where are the Insects?"
+            },
+            {
+              "start": "11:00",
+              "end": "11:30",
+              "kind": "outing",
+              "title": "Beech Bluff County Park StoryWalk® 2026 (Self-Led)"
+            },
+            {
+              "start": "11:30",
+              "end": "11:50",
+              "kind": "travel",
+              "title": "Drive home"
+            },
+            {
+              "start": "11:50",
+              "end": "12:15",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "12:15",
+              "end": "12:45",
+              "kind": "meal",
+              "title": "Lunch"
+            },
+            {
+              "start": "12:45",
+              "end": "13:00",
+              "kind": "quiet",
+              "title": "Wind down",
+              "detail": "A couple of books to settle."
+            },
+            {
+              "start": "13:00",
+              "end": "14:30",
+              "kind": "nap",
+              "title": "Nap"
+            },
+            {
+              "start": "14:30",
+              "end": "14:50",
+              "kind": "routine",
+              "title": "Up and a snack"
+            },
+            {
+              "start": "14:50",
+              "end": "18:30",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "18:30",
+              "end": "19:15",
+              "kind": "meal",
+              "title": "Dinner"
+            },
+            {
+              "start": "19:15",
+              "end": "20:00",
+              "kind": "routine",
+              "title": "Bath, books and bed"
+            }
+          ]
+        },
+        {
+          "nap": "quiet",
+          "napLabel": "Quiet time, no sleep",
+          "headline": "Parachute and tunnel play in the gym",
+          "main": {
+            "ref": "place:walltown-park",
+            "arrive": "09:30",
+            "leave": "12:00",
+            "why": "Your child plays at Walltown Park first, then joins Total Tot Time in the gym with a parachute and tunnels. Families need to sign up for Total Tot Time.",
+            "tips": [
+              "Let {them} run at the playground so {they} {is} ready to join in.",
+              "Bring water and a snack for after the gym.",
+              "Head for the tunnels first if {they} {is} shy about the group."
+            ],
+            "interests": [
+              "movement",
+              "music"
+            ],
+            "also": [
+              {
+                "ref": "event:durham-rec:19841:2026-12-04",
+                "source": {
+                  "kind": "event",
+                  "title": "Total Tot Time",
+                  "start": "2026-12-04T10:00:00",
+                  "end": "2026-12-04T12:00:00",
+                  "venue": "Walltown Park Rec Ctr",
+                  "address": "1308 W Club Blvd, Durham, NC",
+                  "url": "https://apm.activecommunities.com/dprplaymore/Activity_Search/total-tot-time/19841?locale=en-US",
+                  "cost": null,
+                  "lat": 36.018264,
+                  "lon": -78.91403399999999,
+                  "ages": "0 - 4",
+                  "registration": "https://apm.activecommunities.com/dprplaymore/Activity_Search/total-tot-time/19841?locale=en-US",
+                  "indoor": true,
+                  "area": "durham",
+                  "source": "durham-rec",
+                  "dropIn": false
+                }
+              }
+            ],
+            "area": "durham",
+            "outdoor": false,
+            "source": {
+              "kind": "park",
+              "title": "Walltown Park",
+              "address": "1308 W Club Blvd, Durham, NC",
+              "lat": 36.018264,
+              "lon": -78.91403399999999,
+              "url": "https://www.dprplaymore.org/Facilities/Facility/Details/Walltown-Park-74",
+              "amenities": [
+                "playground",
+                "picnic-shelter"
+              ],
+              "indoor": false,
+              "area": "durham",
+              "hours": null,
+              "cost": "Free"
+            }
+          },
+          "alternatives": [
+            {
+              "ref": "event:wake-parks:9458",
+              "arrive": "09:50",
+              "leave": "11:30",
+              "why": "Your child looks for winter insects, then walks the StoryWalk pages. Families need to sign up for the insect program; the StoryWalk is self-led.",
+              "tips": [
+                "Meet at Harvest Hub a few minutes before 10:00 am.",
+                "Bring a snack for between the two stops."
+              ],
+              "interests": [
+                "nature",
+                "science",
+                "stories"
+              ],
+              "also": [
+                {
+                  "ref": "event:wake-parks:8358:2026-12-04",
+                  "source": {
+                    "kind": "event",
+                    "title": "Beech Bluff County Park StoryWalk® 2026 (Self-Led)",
+                    "start": "2026-12-04T08:00:00",
+                    "end": "2026-12-04T17:30:00",
+                    "venue": "Beech Bluff County Park",
+                    "address": "Beech Bluff Park Drive, Fuquay-Varina, NC",
+                    "url": "https://apm.activecommunities.com/wakeparks/Activity_Search/beech-bluff-county-park-storywalk-2026-self-led/8358?locale=en-US",
+                    "cost": "Free",
+                    "lat": 35.58537279715877,
+                    "lon": -78.6793341971644,
+                    "ages": null,
+                    "registration": false,
+                    "indoor": false,
+                    "area": "south-wake",
+                    "source": "wake-parks",
+                    "dropIn": true
+                  }
+                }
+              ],
+              "area": "south-wake",
+              "outdoor": true,
+              "source": {
+                "kind": "event",
+                "title": "Budding Sprouts: Where are the Insects?",
+                "start": "2026-12-04T10:00:00",
+                "end": "2026-12-04T11:00:00",
+                "venue": "Beech Bluff County Park",
+                "address": "Beech Bluff Park Drive, Fuquay-Varina, NC",
+                "url": "https://apm.activecommunities.com/wakeparks/Activity_Search/budding-sprouts-where-are-the-insects/9458?locale=en-US",
+                "cost": "Free",
+                "lat": 35.58537279715877,
+                "lon": -78.6793341971644,
+                "ages": "At least 2 but less than 6",
+                "registration": "https://apm.activecommunities.com/wakeparks/Activity_Search/budding-sprouts-where-are-the-insects/9458?locale=en-US",
+                "indoor": false,
+                "area": "south-wake",
+                "source": "wake-parks",
+                "dropIn": false
+              }
+            },
+            {
+              "ref": "place:hemlock-bluffs",
+              "arrive": "09:30",
+              "leave": "11:15",
+              "why": "A woodland walk on mulched trails where your child can spot leaves, sticks and bark.",
+              "tips": [
+                "There are stairs, so a carrier beats a stroller.",
+                "Pick a short stretch and turn back when {they} tire{s}."
+              ],
+              "interests": [
+                "nature"
+              ],
+              "also": [],
+              "area": "cary-apex",
+              "outdoor": true,
+              "source": {
+                "kind": "park",
+                "title": "Hemlock Bluffs Nature Preserve",
+                "address": "2616 Kildaire Farm Rd, Cary, NC 27518",
+                "lat": 35.7253,
+                "lon": -78.7846,
+                "url": "https://www.carync.gov/recreation-enjoyment/parks-greenways-environment/parks/stevens-nature-center-at-hemlock-bluffs-nature-preserve",
+                "amenities": [
+                  "nature"
+                ],
+                "indoor": false,
+                "area": "cary-apex",
+                "hours": {
+                  "sun": "9 a.m. to sunset",
+                  "mon": "9 a.m. to sunset",
+                  "tue": "9 a.m. to sunset",
+                  "wed": "9 a.m. to sunset",
+                  "thu": "9 a.m. to sunset",
+                  "fri": "9 a.m. to sunset",
+                  "sat": "9 a.m. to sunset"
+                },
+                "cost": "Free",
+                "note": "Free. About three miles of mulched trails and boardwalks with stairs (a carrier beats a stroller); restrooms in the Stevens Nature Center, open Mon–Sat 10–5, Sun 1–5."
+              }
+            },
+            {
+              "ref": "place:nc-botanical-garden",
+              "arrive": "14:15",
+              "leave": "16:00",
+              "why": "An afternoon among display gardens and forest trails after quiet time.",
+              "tips": [
+                "Bring a snack for a bench break.",
+                "Let your child choose which path to follow."
+              ],
+              "interests": [
+                "nature",
+                "science"
+              ],
+              "also": [],
+              "area": "chapel-hill",
+              "outdoor": true,
+              "source": {
+                "kind": "garden",
+                "title": "NC Botanical Garden",
+                "address": "100 Old Mason Farm Rd, Chapel Hill, NC 27517",
+                "lat": 35.9011,
+                "lon": -79.0319,
+                "url": "https://ncbg.unc.edu/visit/",
+                "amenities": [
+                  "garden",
+                  "nature",
+                  "restroom"
+                ],
+                "indoor": false,
+                "area": "chapel-hill",
+                "cost": "Free",
+                "note": "Free. Display gardens, and nature trails through the forest behind them."
+              }
+            }
+          ],
+          "rainBackup": null,
+          "timeline": [
+            {
+              "start": "07:00",
+              "end": "07:30",
+              "kind": "meal",
+              "title": "Up and breakfast"
+            },
+            {
+              "start": "07:30",
+              "end": "08:50",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "08:50",
+              "end": "09:10",
+              "kind": "routine",
+              "title": "Get ready to go",
+              "detail": "Shoes on, the bag, water and a snack."
+            },
+            {
+              "start": "09:10",
+              "end": "09:30",
+              "kind": "travel",
+              "title": "Drive to Walltown Park"
+            },
+            {
+              "start": "09:30",
+              "end": "09:50",
+              "kind": "outing",
+              "title": "Walltown Park"
+            },
+            {
+              "start": "09:50",
+              "end": "10:00",
+              "kind": "travel",
+              "title": "Walk to Walltown Park Rec Ctr"
+            },
+            {
+              "start": "10:00",
+              "end": "12:00",
+              "kind": "outing",
+              "title": "Total Tot Time"
+            },
+            {
+              "start": "12:00",
+              "end": "12:10",
+              "kind": "travel",
+              "title": "Walk back to the car"
+            },
+            {
+              "start": "12:10",
+              "end": "12:30",
+              "kind": "travel",
+              "title": "Drive home"
+            },
+            {
+              "start": "12:30",
+              "end": "13:00",
+              "kind": "meal",
+              "title": "Lunch"
+            },
+            {
+              "start": "13:00",
+              "end": "13:45",
+              "kind": "quiet",
+              "title": "Quiet time",
+              "detail": "Books or quiet play in their room."
+            },
+            {
+              "start": "13:45",
+              "end": "18:00",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "18:00",
+              "end": "18:45",
+              "kind": "meal",
+              "title": "Dinner"
+            },
+            {
+              "start": "18:45",
+              "end": "19:30",
+              "kind": "routine",
+              "title": "Bath, books and bed"
+            }
+          ]
+        },
+        {
+          "nap": "no-nap",
+          "napLabel": "No nap",
+          "headline": "Play, then watch a Polar Express and Grinch show",
+          "main": {
+            "ref": "place:isabella-cannon-park",
+            "arrive": "15:30",
+            "leave": "16:30",
+            "why": "Your child plays at Isabella Cannon Park, then watches a short Polar Express and Grinch show put on by high school students. Families need to sign up for the show.",
+            "tips": [
+              "Arrive at the park by 3:30 pm to burn off wiggles before the show.",
+              "Bring a snack to have after the show.",
+              "Remind your child the show is short, about 30 minutes."
+            ],
+            "interests": [
+              "stories",
+              "movement"
+            ],
+            "also": [
+              {
+                "ref": "event:wake:24769",
+                "source": {
+                  "kind": "event",
+                  "title": "Raleigh Charter High School Children's Theater Performance",
+                  "start": "2026-12-04T16:00:00-05:00",
+                  "end": "2026-12-04T16:30:00-05:00",
+                  "venue": "Oberlin Regional Library",
+                  "address": "1930 Clark Ave., Raleigh, NC, 27605",
+                  "url": "https://www.eventbrite.com/e/raleigh-charter-high-school-childrens-theater-performance-tickets-2004389057628",
+                  "cost": "Free",
+                  "lat": 35.7898395688737,
+                  "lon": -78.65822660779,
+                  "ages": "All Ages",
+                  "registration": "https://www.eventbrite.com/e/raleigh-charter-high-school-childrens-theater-performance-tickets-2004389057628",
+                  "indoor": true,
+                  "area": "raleigh",
+                  "source": "wake-county",
+                  "dropIn": false
+                }
+              }
+            ],
+            "area": "raleigh",
+            "outdoor": false,
+            "source": {
+              "kind": "park",
+              "title": "Isabella Cannon Park",
+              "address": "2601 Kilgore Avenue, Raleigh, NC 27607",
+              "lat": 35.79245,
+              "lon": -78.66947,
+              "url": "https://raleighnc.gov/parks-and-recreation/places/isabella-cannon-park",
+              "amenities": [
+                "picnic-shelter",
+                "courts",
+                "playground"
+              ],
+              "indoor": false,
+              "area": "raleigh",
+              "hours": null,
+              "cost": "Free"
+            }
+          },
+          "alternatives": [
+            {
+              "ref": "place:walltown-park",
+              "arrive": "09:30",
+              "leave": "12:00",
+              "why": "Your child plays at Walltown Park, then joins Total Tot Time in the gym with a parachute and tunnels. Families need to sign up for Total Tot Time.",
+              "tips": [
+                "Run at the playground first.",
+                "Bring water and a snack for after the gym."
+              ],
+              "interests": [
+                "movement",
+                "music"
+              ],
+              "also": [
+                {
+                  "ref": "event:durham-rec:19841:2026-12-04",
+                  "source": {
+                    "kind": "event",
+                    "title": "Total Tot Time",
+                    "start": "2026-12-04T10:00:00",
+                    "end": "2026-12-04T12:00:00",
+                    "venue": "Walltown Park Rec Ctr",
+                    "address": "1308 W Club Blvd, Durham, NC",
+                    "url": "https://apm.activecommunities.com/dprplaymore/Activity_Search/total-tot-time/19841?locale=en-US",
+                    "cost": null,
+                    "lat": 36.018264,
+                    "lon": -78.91403399999999,
+                    "ages": "0 - 4",
+                    "registration": "https://apm.activecommunities.com/dprplaymore/Activity_Search/total-tot-time/19841?locale=en-US",
+                    "indoor": true,
+                    "area": "durham",
+                    "source": "durham-rec",
+                    "dropIn": false
+                  }
+                }
+              ],
+              "area": "durham",
+              "outdoor": false,
+              "source": {
+                "kind": "park",
+                "title": "Walltown Park",
+                "address": "1308 W Club Blvd, Durham, NC",
+                "lat": 36.018264,
+                "lon": -78.91403399999999,
+                "url": "https://www.dprplaymore.org/Facilities/Facility/Details/Walltown-Park-74",
+                "amenities": [
+                  "playground",
+                  "picnic-shelter"
+                ],
+                "indoor": false,
+                "area": "durham",
+                "hours": null,
+                "cost": "Free"
+              }
+            },
+            {
+              "ref": "place:gipson-play-plaza",
+              "arrive": "09:00",
+              "leave": "11:00",
+              "why": "A big destination playground for climbing and running.",
+              "tips": [
+                "Bring water and a snack for a break.",
+                "Give a five minute warning before leaving."
+              ],
+              "interests": [
+                "movement"
+              ],
+              "also": [],
+              "area": "raleigh",
+              "outdoor": true,
+              "source": {
+                "kind": "park",
+                "title": "Gipson Play Plaza at Dix Park",
+                "address": "715 Biggs Dr, Raleigh, NC 27603",
+                "lat": 35.7667,
+                "lon": -78.6539,
+                "url": "https://dixpark.org/gipson-play-plaza",
+                "amenities": [
+                  "playground",
+                  "restroom"
+                ],
+                "indoor": false,
+                "area": "raleigh",
+                "hours": {
+                  "sun": "8 a.m.–9 p.m.",
+                  "mon": "8 a.m.–9 p.m.",
+                  "tue": "8 a.m.–9 p.m.",
+                  "wed": "8 a.m.–9 p.m.",
+                  "thu": "8 a.m.–9 p.m.",
+                  "fri": "8 a.m.–9 p.m.",
+                  "sat": "8 a.m.–9 p.m."
+                },
+                "cost": "Free",
+                "note": "Free; free parking. Big destination playground on the south edge of Dix Park."
+              }
+            },
+            {
+              "ref": "event:wake-parks:9458",
+              "arrive": "09:50",
+              "leave": "11:30",
+              "why": "Your child looks for winter insects, then walks the StoryWalk pages. Families need to sign up for the insect program; the StoryWalk is self-led.",
+              "tips": [
+                "Meet at Harvest Hub a few minutes before 10:00 am.",
+                "Bring a snack for between the two stops."
+              ],
+              "interests": [
+                "nature",
+                "science",
+                "stories"
+              ],
+              "also": [
+                {
+                  "ref": "event:wake-parks:8358:2026-12-04",
+                  "source": {
+                    "kind": "event",
+                    "title": "Beech Bluff County Park StoryWalk® 2026 (Self-Led)",
+                    "start": "2026-12-04T08:00:00",
+                    "end": "2026-12-04T17:30:00",
+                    "venue": "Beech Bluff County Park",
+                    "address": "Beech Bluff Park Drive, Fuquay-Varina, NC",
+                    "url": "https://apm.activecommunities.com/wakeparks/Activity_Search/beech-bluff-county-park-storywalk-2026-self-led/8358?locale=en-US",
+                    "cost": "Free",
+                    "lat": 35.58537279715877,
+                    "lon": -78.6793341971644,
+                    "ages": null,
+                    "registration": false,
+                    "indoor": false,
+                    "area": "south-wake",
+                    "source": "wake-parks",
+                    "dropIn": true
+                  }
+                }
+              ],
+              "area": "south-wake",
+              "outdoor": true,
+              "source": {
+                "kind": "event",
+                "title": "Budding Sprouts: Where are the Insects?",
+                "start": "2026-12-04T10:00:00",
+                "end": "2026-12-04T11:00:00",
+                "venue": "Beech Bluff County Park",
+                "address": "Beech Bluff Park Drive, Fuquay-Varina, NC",
+                "url": "https://apm.activecommunities.com/wakeparks/Activity_Search/budding-sprouts-where-are-the-insects/9458?locale=en-US",
+                "cost": "Free",
+                "lat": 35.58537279715877,
+                "lon": -78.6793341971644,
+                "ages": "At least 2 but less than 6",
+                "registration": "https://apm.activecommunities.com/wakeparks/Activity_Search/budding-sprouts-where-are-the-insects/9458?locale=en-US",
+                "indoor": false,
+                "area": "south-wake",
+                "source": "wake-parks",
+                "dropIn": false
+              }
+            },
+            {
+              "ref": "place:hemlock-bluffs",
+              "arrive": "09:30",
+              "leave": "11:30",
+              "why": "A woodland walk on mulched trails with lots to touch and notice.",
+              "tips": [
+                "There are stairs, so a carrier beats a stroller.",
+                "Turn back when {they} tire{s}."
+              ],
+              "interests": [
+                "nature"
+              ],
+              "also": [],
+              "area": "cary-apex",
+              "outdoor": true,
+              "source": {
+                "kind": "park",
+                "title": "Hemlock Bluffs Nature Preserve",
+                "address": "2616 Kildaire Farm Rd, Cary, NC 27518",
+                "lat": 35.7253,
+                "lon": -78.7846,
+                "url": "https://www.carync.gov/recreation-enjoyment/parks-greenways-environment/parks/stevens-nature-center-at-hemlock-bluffs-nature-preserve",
+                "amenities": [
+                  "nature"
+                ],
+                "indoor": false,
+                "area": "cary-apex",
+                "hours": {
+                  "sun": "9 a.m. to sunset",
+                  "mon": "9 a.m. to sunset",
+                  "tue": "9 a.m. to sunset",
+                  "wed": "9 a.m. to sunset",
+                  "thu": "9 a.m. to sunset",
+                  "fri": "9 a.m. to sunset",
+                  "sat": "9 a.m. to sunset"
+                },
+                "cost": "Free",
+                "note": "Free. About three miles of mulched trails and boardwalks with stairs (a carrier beats a stroller); restrooms in the Stevens Nature Center, open Mon–Sat 10–5, Sun 1–5."
+              }
+            }
+          ],
+          "rainBackup": null,
+          "timeline": [
+            {
+              "start": "07:00",
+              "end": "07:30",
+              "kind": "meal",
+              "title": "Up and breakfast"
+            },
+            {
+              "start": "07:30",
+              "end": "11:45",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "11:45",
+              "end": "12:15",
+              "kind": "meal",
+              "title": "Lunch"
+            },
+            {
+              "start": "12:15",
+              "end": "14:50",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "14:50",
+              "end": "15:10",
+              "kind": "routine",
+              "title": "Get ready to go",
+              "detail": "Shoes on, the bag, water and a snack."
+            },
+            {
+              "start": "15:10",
+              "end": "15:30",
+              "kind": "travel",
+              "title": "Drive to Isabella Cannon Park"
+            },
+            {
+              "start": "15:30",
+              "end": "15:50",
+              "kind": "outing",
+              "title": "Isabella Cannon Park"
+            },
+            {
+              "start": "15:50",
+              "end": "16:00",
+              "kind": "travel",
+              "title": "Drive to Oberlin Regional Library"
+            },
+            {
+              "start": "16:00",
+              "end": "16:30",
+              "kind": "outing",
+              "title": "Raleigh Charter High School Children's Theater Performance"
+            },
+            {
+              "start": "16:30",
+              "end": "16:50",
+              "kind": "travel",
+              "title": "Drive home"
+            },
+            {
+              "start": "16:50",
+              "end": "18:00",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "18:00",
+              "end": "18:45",
+              "kind": "meal",
+              "title": "Dinner"
+            },
+            {
+              "start": "18:45",
+              "end": "19:30",
+              "kind": "routine",
+              "title": "Bath, books and bed"
+            }
+          ]
+        }
+      ],
+      "dropped": [
+        "[nap] alternative event:libcal:durham-county-library:17233179 Bragtown's Bilingual Storytime with Ms. Melanie! is for Baby, Kindergarten, Pre-School, Toddler",
+        "[quiet] alternative event:wake:24769: arrives 15:30, event starts 16:00"
+      ]
+    }
+  ],
+  "checked": {
+    "at": "2026-11-21T11:04:29.748Z",
+    "forecast": "none",
+    "weather": null,
+    "hidden": []
+  }
+}

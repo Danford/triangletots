@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Triangle Tots//triangletots.com//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:2026-11-30-mini-makers-workshop-at-north-regional-library-1020-1140@tri
+ angletots.com
+DTSTAMP:20261121T100000Z
+DTSTART:20261130T152000Z
+DTEND:20261130T164000Z
+SUMMARY:Mini Makers Workshop at North Regional Library
+LOCATION:221 Milton Rd\, Durham\, NC
+DESCRIPTION:Sign up first.\nhttps://durhamcountylibrary.libcal.com/event/16
+ 966215\nhttps://www.dprplaymore.org/Facilities/Facility/Details/Old-Farm-R
+ oad-Park-51\nThe whole day: https://triangletots.com/2026-11-30/t3/\nTimes
+  and details can change. Check the event or place before you go.
+END:VEVENT
+END:VCALENDAR

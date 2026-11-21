@@ -1,0 +1,35 @@
+{
+  "builtAt": "2026-11-21T11:10:27.729Z",
+  "today": "2026-11-21",
+  "plannedDays": 14,
+  "horizonDays": 14,
+  "lastDay": "2026-12-04",
+  "audit": {
+    "hard": 5,
+    "soft": 30,
+    "rules": {
+      "stops-apart": {
+        "hard": true,
+        "main": 1,
+        "other": 4
+      },
+      "shift-across-town": {
+        "hard": false,
+        "main": 26,
+        "other": 0
+      },
+      "shift-at-home": {
+        "hard": false,
+        "main": 3,
+        "other": 0
+      },
+      "drive-time": {
+        "hard": false,
+        "main": 1,
+        "other": 0
+      }
+    }
+  },
+  "guides": 23,
+  "guidesFailed": []
+}

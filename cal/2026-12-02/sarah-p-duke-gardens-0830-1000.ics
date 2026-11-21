@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Triangle Tots//triangletots.com//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:2026-12-02-sarah-p-duke-gardens-0830-1000@triangletots.com
+DTSTAMP:20261121T100000Z
+DTSTART:20261202T133000Z
+DTEND:20261202T150000Z
+SUMMARY:Sarah P. Duke Gardens
+LOCATION:420 Anderson St\, Durham\, NC 27708
+DESCRIPTION:https://gardens.duke.edu/visit/\nThe whole day: https://triangl
+ etots.com/2026-12-02/t3/\nTimes and details can change. Check the event or
+  place before you go.
+END:VEVENT
+END:VCALENDAR

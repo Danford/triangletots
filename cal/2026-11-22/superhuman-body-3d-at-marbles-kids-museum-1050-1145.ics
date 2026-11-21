@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Triangle Tots//triangletots.com//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:2026-11-22-superhuman-body-3d-at-marbles-kids-museum-1050-1145@triangle
+ tots.com
+DTSTAMP:20261121T100000Z
+DTSTART:20261122T155000Z
+DTEND:20261122T164500Z
+SUMMARY:Superhuman Body 3D at Marbles Kids Museum
+LOCATION:201 E Hargett St\, Raleigh\, NC 27601
+DESCRIPTION:https://marbleskidsmuseum.org/event/48830/\nThe whole day: http
+ s://triangletots.com/2026-11-22/t4/\nTimes and details can change. Check t
+ he event or place before you go.
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Triangle Tots//triangletots.com//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:2026-11-25-lakeview-park-1330-1430@triangletots.com
+DTSTAMP:20261121T100000Z
+DTSTART:20261125T183000Z
+DTEND:20261125T193000Z
+SUMMARY:Lakeview Park
+LOCATION:3500 Dearborn Dr\, Durham\, NC
+DESCRIPTION:https://www.dprplaymore.org/Facilities/Facility/Details/Lakevie
+ w-Park-39\nThe whole day: https://triangletots.com/2026-11-25/t2/\nTimes a
+ nd details can change. Check the event or place before you go.
+END:VEVENT
+END:VCALENDAR

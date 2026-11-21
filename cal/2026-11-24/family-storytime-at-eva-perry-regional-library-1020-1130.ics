@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Triangle Tots//triangletots.com//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:2026-11-24-family-storytime-at-eva-perry-regional-library-1020-1130@tri
+ angletots.com
+DTSTAMP:20261121T100000Z
+DTSTART:20261124T152000Z
+DTEND:20261124T163000Z
+SUMMARY:Family Storytime at Eva Perry Regional Library
+LOCATION:2100 Shepherds Vineyard Drive\, Apex\, NC
+DESCRIPTION:https://www.wake.gov/events/family-storytime-4709\nhttps://www.
+ apexnc.org/1936/Seagroves-Farm-Park\nThe whole day: https://triangletots.c
+ om/2026-11-24/t2/\nTimes and details can change. Check the event or place 
+ before you go.
+END:VEVENT
+END:VCALENDAR

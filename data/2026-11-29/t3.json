@@ -1,0 +1,957 @@
+{
+  "date": "2026-11-29",
+  "band": "t3",
+  "versions": [
+    {
+      "at": "2026-11-16T11:05:07.442Z",
+      "reason": null,
+      "forecast": "none",
+      "weather": null,
+      "plans": [
+        {
+          "nap": "nap",
+          "napLabel": "Nap, 1 to 2:30",
+          "headline": "Sensory play in Hideaway Woods, then a playground",
+          "main": {
+            "ref": "event:weekly:mols-early-childhood:2026-11-29",
+            "arrive": "10:00",
+            "leave": "12:10",
+            "why": "Your child can try sensory play, songs and stories at the Early Childhood Drop-In in Hideaway Woods, then run off energy at Rock Quarry Park.",
+            "tips": [
+              "Drop in and let {them} pick a station and stay as long as {they} like{s}.",
+              "Pack a snack for the park so the drive stays calm.",
+              "Tell your child the playground is next, so leaving the woods goes smoothly."
+            ],
+            "interests": [
+              "nature",
+              "music",
+              "stories"
+            ],
+            "also": [
+              {
+                "ref": "place:rock-quarry-park",
+                "source": {
+                  "kind": "park",
+                  "title": "Rock Quarry Park",
+                  "address": "701 Stadium Dr, Durham, NC",
+                  "lat": 36.03166363636364,
+                  "lon": -78.90176545454545,
+                  "url": "https://www.dprplaymore.org/Facilities/Facility/Details/Rock-Quarry-Park-60",
+                  "amenities": [
+                    "playground",
+                    "splashpad",
+                    "restroom",
+                    "greenway"
+                  ],
+                  "indoor": false,
+                  "area": "durham",
+                  "hours": null,
+                  "cost": "Free"
+                }
+              }
+            ],
+            "area": "durham",
+            "outdoor": true,
+            "source": {
+              "kind": "event",
+              "title": "Early Childhood Drop-In",
+              "start": "2026-11-29T09:30:00",
+              "end": "2026-11-29T11:30:00",
+              "venue": "Hideaway Woods, Museum of Life and Science",
+              "address": "433 W Murray Ave, Durham, NC 27704",
+              "url": "https://www.lifeandscience.org/learn/drop-in-programs/",
+              "cost": "Included with museum admission",
+              "lat": 36.0294,
+              "lon": -78.8993,
+              "ages": "young children and their caregivers",
+              "registration": false,
+              "indoor": false,
+              "area": "durham",
+              "source": "weekly",
+              "dropIn": true
+            }
+          },
+          "alternatives": [
+            {
+              "ref": "place:pullen-park-amusements",
+              "arrive": "10:00",
+              "leave": "12:00",
+              "why": "Your child can ride the carousel and the train, then climb at the playground.",
+              "tips": [
+                "Let your child choose the first ride.",
+                "Have a snack before you go so {they} can stay for more rides."
+              ],
+              "interests": [
+                "vehicles",
+                "movement"
+              ],
+              "also": [],
+              "area": "raleigh",
+              "outdoor": true,
+              "source": {
+                "kind": "park",
+                "title": "Pullen Park Amusements",
+                "address": "410 Park Ave, Raleigh, NC 27606",
+                "lat": 35.7806,
+                "lon": -78.66396,
+                "url": "https://raleighnc.gov/parks-and-recreation/places/pullen-park-amusements",
+                "amenities": [
+                  "carousel",
+                  "boating",
+                  "train",
+                  "amusements",
+                  "courts",
+                  "playground",
+                  "picnic-shelter"
+                ],
+                "indoor": false,
+                "area": "raleigh",
+                "hours": {
+                  "mon": "10 a.m.–6 p.m.",
+                  "tue": "10 a.m.–6 p.m.",
+                  "wed": "10 a.m.–6 p.m.",
+                  "thu": "10 a.m.–6 p.m.",
+                  "fri": "10 a.m.–6 p.m.",
+                  "sat": "10 a.m.–6 p.m.",
+                  "sun": "10 a.m.–6 p.m."
+                },
+                "cost": "Free to get in; rides $2 a ticket"
+              }
+            },
+            {
+              "ref": "event:wake:24625",
+              "arrive": "15:00",
+              "leave": "16:40",
+              "why": "Your child can listen to holiday songs from the Greenhope Serenaders Club at West Regional Library, then play at Carpenter Park.",
+              "tips": [
+                "Clap and sing along with the songs.",
+                "Tell your child the playground comes after the music."
+              ],
+              "interests": [
+                "music",
+                "movement"
+              ],
+              "also": [
+                {
+                  "ref": "place:carpenter-park",
+                  "source": {
+                    "kind": "park",
+                    "title": "Carpenter Park",
+                    "address": "4420 Louis Stephens Drive, Cary, NC",
+                    "lat": 35.82284995357582,
+                    "lon": -78.86424049854338,
+                    "url": "http://www.townofcary.org/recreation-enjoyment/parks-greenways-environment/parks/carpenter-park",
+                    "amenities": [
+                      "playground",
+                      "picnic-shelter",
+                      "restroom",
+                      "greenway"
+                    ],
+                    "indoor": false,
+                    "area": "cary-apex",
+                    "hours": null,
+                    "cost": "Free"
+                  }
+                }
+              ],
+              "area": "cary-apex",
+              "outdoor": false,
+              "source": {
+                "kind": "event",
+                "title": "Music in the Library: Greenhope Serenaders Club",
+                "start": "2026-11-29T15:00:00-05:00",
+                "end": "2026-11-29T16:00:00-05:00",
+                "venue": "West Regional Library",
+                "address": "4000 Louis Stephens Drive, Cary, NC",
+                "url": "https://www.wake.gov/events/music-library-greenhope-serenaders-club",
+                "cost": "Free",
+                "lat": 35.8148624293953,
+                "lon": -78.8644916775722,
+                "ages": "All Ages",
+                "registration": null,
+                "indoor": true,
+                "area": "cary-apex",
+                "source": "wake-county",
+                "dropIn": false
+              }
+            },
+            {
+              "ref": "event:wake-parks:8358:2026-11-29",
+              "arrive": "09:00",
+              "leave": "10:30",
+              "why": "Your child can walk the StoryWalk loop and read a story page by page along the way.",
+              "tips": [
+                "Let your child lead the way to the next page.",
+                "Bring a snack for after the story."
+              ],
+              "interests": [
+                "stories",
+                "nature"
+              ],
+              "also": [],
+              "area": "south-wake",
+              "outdoor": true,
+              "source": {
+                "kind": "event",
+                "title": "Beech Bluff County Park StoryWalk® 2026 (Self-Led)",
+                "start": "2026-11-29T08:00:00",
+                "end": "2026-11-29T17:30:00",
+                "venue": "Beech Bluff County Park",
+                "address": "Beech Bluff Park Drive, Fuquay-Varina, NC",
+                "url": "https://apm.activecommunities.com/wakeparks/Activity_Search/beech-bluff-county-park-storywalk-2026-self-led/8358?locale=en-US",
+                "cost": "Free",
+                "lat": 35.58537279715877,
+                "lon": -78.6793341971644,
+                "ages": null,
+                "registration": false,
+                "indoor": false,
+                "area": "south-wake",
+                "source": "wake-parks",
+                "dropIn": true
+              }
+            },
+            {
+              "ref": "place:knightdale-station-park",
+              "arrive": "09:00",
+              "leave": "10:30",
+              "why": "Your child can climb and slide at the playground and take a short walk on the greenway.",
+              "tips": [
+                "Bring a snack to share at the picnic shelter.",
+                "Give a ten-minute warning before you leave."
+              ],
+              "interests": [
+                "movement",
+                "nature"
+              ],
+              "also": [],
+              "area": "east-wake",
+              "outdoor": true,
+              "source": {
+                "kind": "park",
+                "title": "Knightdale Station Park",
+                "address": "810 North First Avenue, Knightdale, NC",
+                "lat": 35.795776739559024,
+                "lon": -78.47584503817626,
+                "url": "https://www.knightdalenc.gov/knightdalestationpark",
+                "amenities": [
+                  "playground",
+                  "picnic-shelter",
+                  "greenway"
+                ],
+                "indoor": false,
+                "area": "east-wake",
+                "hours": null,
+                "cost": "Free"
+              }
+            }
+          ],
+          "rainBackup": null,
+          "timeline": [
+            {
+              "start": "07:00",
+              "end": "07:30",
+              "kind": "meal",
+              "title": "Up and breakfast"
+            },
+            {
+              "start": "07:30",
+              "end": "09:20",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "09:20",
+              "end": "09:40",
+              "kind": "routine",
+              "title": "Get ready to go",
+              "detail": "Shoes on, the bag, water and a snack."
+            },
+            {
+              "start": "09:40",
+              "end": "10:00",
+              "kind": "travel",
+              "title": "Drive to Hideaway Woods, Museum of Life and Science"
+            },
+            {
+              "start": "10:00",
+              "end": "11:30",
+              "kind": "outing",
+              "title": "Early Childhood Drop-In",
+              "detail": "Pack a lunch to eat there."
+            },
+            {
+              "start": "11:30",
+              "end": "11:40",
+              "kind": "travel",
+              "title": "Walk to Rock Quarry Park"
+            },
+            {
+              "start": "11:40",
+              "end": "12:10",
+              "kind": "outing",
+              "title": "Rock Quarry Park"
+            },
+            {
+              "start": "12:10",
+              "end": "12:20",
+              "kind": "travel",
+              "title": "Walk back to the car"
+            },
+            {
+              "start": "12:20",
+              "end": "12:45",
+              "kind": "travel",
+              "title": "Drive home"
+            },
+            {
+              "start": "12:45",
+              "end": "13:00",
+              "kind": "quiet",
+              "title": "Wind down",
+              "detail": "A couple of books to settle."
+            },
+            {
+              "start": "13:00",
+              "end": "14:30",
+              "kind": "nap",
+              "title": "Nap"
+            },
+            {
+              "start": "14:30",
+              "end": "14:50",
+              "kind": "routine",
+              "title": "Up and a snack"
+            },
+            {
+              "start": "14:50",
+              "end": "18:30",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "18:30",
+              "end": "19:15",
+              "kind": "meal",
+              "title": "Dinner"
+            },
+            {
+              "start": "19:15",
+              "end": "20:00",
+              "kind": "routine",
+              "title": "Bath, books and bed"
+            }
+          ]
+        },
+        {
+          "nap": "quiet",
+          "napLabel": "Quiet time, no sleep",
+          "headline": "Playground first, then holiday songs",
+          "main": {
+            "ref": "place:carpenter-park",
+            "arrive": "14:30",
+            "leave": "16:00",
+            "why": "Your child can play at Carpenter Park, then sit down for holiday songs from the Greenhope Serenaders Club at West Regional Library.",
+            "tips": [
+              "Have a snack at the park before the music starts.",
+              "Sing and clap along with the songs.",
+              "Tell your child the songs come after the playground."
+            ],
+            "interests": [
+              "music",
+              "movement"
+            ],
+            "also": [
+              {
+                "ref": "event:wake:24625",
+                "source": {
+                  "kind": "event",
+                  "title": "Music in the Library: Greenhope Serenaders Club",
+                  "start": "2026-11-29T15:00:00-05:00",
+                  "end": "2026-11-29T16:00:00-05:00",
+                  "venue": "West Regional Library",
+                  "address": "4000 Louis Stephens Drive, Cary, NC",
+                  "url": "https://www.wake.gov/events/music-library-greenhope-serenaders-club",
+                  "cost": "Free",
+                  "lat": 35.8148624293953,
+                  "lon": -78.8644916775722,
+                  "ages": "All Ages",
+                  "registration": null,
+                  "indoor": true,
+                  "area": "cary-apex",
+                  "source": "wake-county",
+                  "dropIn": false
+                }
+              }
+            ],
+            "area": "cary-apex",
+            "outdoor": false,
+            "source": {
+              "kind": "park",
+              "title": "Carpenter Park",
+              "address": "4420 Louis Stephens Drive, Cary, NC",
+              "lat": 35.82284995357582,
+              "lon": -78.86424049854338,
+              "url": "http://www.townofcary.org/recreation-enjoyment/parks-greenways-environment/parks/carpenter-park",
+              "amenities": [
+                "playground",
+                "picnic-shelter",
+                "restroom",
+                "greenway"
+              ],
+              "indoor": false,
+              "area": "cary-apex",
+              "hours": null,
+              "cost": "Free"
+            }
+          },
+          "alternatives": [
+            {
+              "ref": "event:weekly:mols-early-childhood:2026-11-29",
+              "arrive": "10:00",
+              "leave": "11:30",
+              "why": "Your child can try sensory play, songs and stories in Hideaway Woods at the Early Childhood Drop-In.",
+              "tips": [
+                "Drop in and let {them} stay as long as {they} like{s}.",
+                "Bring a snack for the car ride home."
+              ],
+              "interests": [
+                "nature",
+                "music",
+                "stories"
+              ],
+              "also": [],
+              "area": "durham",
+              "outdoor": true,
+              "source": {
+                "kind": "event",
+                "title": "Early Childhood Drop-In",
+                "start": "2026-11-29T09:30:00",
+                "end": "2026-11-29T11:30:00",
+                "venue": "Hideaway Woods, Museum of Life and Science",
+                "address": "433 W Murray Ave, Durham, NC 27704",
+                "url": "https://www.lifeandscience.org/learn/drop-in-programs/",
+                "cost": "Included with museum admission",
+                "lat": 36.0294,
+                "lon": -78.8993,
+                "ages": "young children and their caregivers",
+                "registration": false,
+                "indoor": false,
+                "area": "durham",
+                "source": "weekly",
+                "dropIn": true
+              }
+            },
+            {
+              "ref": "event:wake-parks:9423",
+              "arrive": "14:00",
+              "leave": "15:30",
+              "why": "Your child can see the open mill and hear historic interpreters explain how it works at the Mill Open House.",
+              "tips": [
+                "Drop in and stay as long as {they} like{s}.",
+                "Let your child ask the questions."
+              ],
+              "interests": [
+                "science",
+                "nature"
+              ],
+              "also": [],
+              "area": "raleigh",
+              "outdoor": true,
+              "source": {
+                "kind": "event",
+                "title": "Mill Open House",
+                "start": "2026-11-29T13:00:00",
+                "end": "2026-11-29T16:00:00",
+                "venue": "Historic Yates Mill County Park",
+                "address": "4620 Lake Wheeler Rd., Raleigh, NC  27603",
+                "url": "https://apm.activecommunities.com/wakeparks/Activity_Search/mill-open-house/9423?locale=en-US",
+                "cost": "Free",
+                "lat": 35.72157134974476,
+                "lon": -78.68526087901417,
+                "ages": null,
+                "registration": false,
+                "indoor": false,
+                "area": "raleigh",
+                "source": "wake-parks",
+                "dropIn": true
+              }
+            },
+            {
+              "ref": "event:wake-parks:8358:2026-11-29",
+              "arrive": "09:00",
+              "leave": "10:30",
+              "why": "Your child can walk the StoryWalk loop and read a story page by page along the way.",
+              "tips": [
+                "Let your child lead the way to the next page.",
+                "Bring a snack for after the story."
+              ],
+              "interests": [
+                "stories",
+                "nature"
+              ],
+              "also": [],
+              "area": "south-wake",
+              "outdoor": true,
+              "source": {
+                "kind": "event",
+                "title": "Beech Bluff County Park StoryWalk® 2026 (Self-Led)",
+                "start": "2026-11-29T08:00:00",
+                "end": "2026-11-29T17:30:00",
+                "venue": "Beech Bluff County Park",
+                "address": "Beech Bluff Park Drive, Fuquay-Varina, NC",
+                "url": "https://apm.activecommunities.com/wakeparks/Activity_Search/beech-bluff-county-park-storywalk-2026-self-led/8358?locale=en-US",
+                "cost": "Free",
+                "lat": 35.58537279715877,
+                "lon": -78.6793341971644,
+                "ages": null,
+                "registration": false,
+                "indoor": false,
+                "area": "south-wake",
+                "source": "wake-parks",
+                "dropIn": true
+              }
+            },
+            {
+              "ref": "place:knightdale-station-park",
+              "arrive": "09:00",
+              "leave": "10:30",
+              "why": "Your child can climb and slide at the playground and take a short walk on the greenway.",
+              "tips": [
+                "Bring a snack to share at the picnic shelter.",
+                "Give a ten-minute warning before you leave."
+              ],
+              "interests": [
+                "movement",
+                "nature"
+              ],
+              "also": [],
+              "area": "east-wake",
+              "outdoor": true,
+              "source": {
+                "kind": "park",
+                "title": "Knightdale Station Park",
+                "address": "810 North First Avenue, Knightdale, NC",
+                "lat": 35.795776739559024,
+                "lon": -78.47584503817626,
+                "url": "https://www.knightdalenc.gov/knightdalestationpark",
+                "amenities": [
+                  "playground",
+                  "picnic-shelter",
+                  "greenway"
+                ],
+                "indoor": false,
+                "area": "east-wake",
+                "hours": null,
+                "cost": "Free"
+              }
+            }
+          ],
+          "rainBackup": null,
+          "timeline": [
+            {
+              "start": "07:00",
+              "end": "07:30",
+              "kind": "meal",
+              "title": "Up and breakfast"
+            },
+            {
+              "start": "07:30",
+              "end": "11:45",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "11:45",
+              "end": "12:15",
+              "kind": "meal",
+              "title": "Lunch"
+            },
+            {
+              "start": "12:15",
+              "end": "13:00",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "13:00",
+              "end": "13:50",
+              "kind": "quiet",
+              "title": "Quiet time",
+              "detail": "Books or quiet play in their room."
+            },
+            {
+              "start": "13:50",
+              "end": "14:10",
+              "kind": "routine",
+              "title": "Get ready to go",
+              "detail": "Shoes on, the bag, water and a snack."
+            },
+            {
+              "start": "14:10",
+              "end": "14:30",
+              "kind": "travel",
+              "title": "Drive to Carpenter Park"
+            },
+            {
+              "start": "14:30",
+              "end": "14:50",
+              "kind": "outing",
+              "title": "Carpenter Park"
+            },
+            {
+              "start": "14:50",
+              "end": "15:00",
+              "kind": "travel",
+              "title": "Drive to West Regional Library"
+            },
+            {
+              "start": "15:00",
+              "end": "16:00",
+              "kind": "outing",
+              "title": "Music in the Library: Greenhope Serenaders Club"
+            },
+            {
+              "start": "16:00",
+              "end": "16:20",
+              "kind": "travel",
+              "title": "Drive home"
+            },
+            {
+              "start": "16:20",
+              "end": "18:00",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "18:00",
+              "end": "18:45",
+              "kind": "meal",
+              "title": "Dinner"
+            },
+            {
+              "start": "18:45",
+              "end": "19:30",
+              "kind": "routine",
+              "title": "Bath, books and bed"
+            }
+          ]
+        },
+        {
+          "nap": "no-nap",
+          "napLabel": "No nap",
+          "headline": "Make a craft, then play at the park",
+          "main": {
+            "ref": "event:wake:21868",
+            "arrive": "12:55",
+            "leave": "15:20",
+            "why": "Your child can make a craft at the All Ages Crafternoon at Green Road Community Library, then burn off energy at Green Road Park.",
+            "tips": [
+              "Eat lunch before you go.",
+              "Let your child choose the project.",
+              "Tell {them} the playground comes after the crafts, so leaving is easy."
+            ],
+            "interests": [
+              "art",
+              "movement"
+            ],
+            "also": [
+              {
+                "ref": "place:green-road-park",
+                "source": {
+                  "kind": "park",
+                  "title": "Green Road Park",
+                  "address": "4201 Green Rd, Raleigh, NC 27604",
+                  "lat": 35.8409,
+                  "lon": -78.59225,
+                  "url": "https://raleighnc.gov/parks-and-recreation/places/green-road-park",
+                  "amenities": [
+                    "community-center",
+                    "picnic-shelter",
+                    "courts",
+                    "fields",
+                    "playground"
+                  ],
+                  "indoor": false,
+                  "area": "north-raleigh",
+                  "hours": null,
+                  "cost": "Free"
+                }
+              }
+            ],
+            "area": "raleigh",
+            "outdoor": false,
+            "source": {
+              "kind": "event",
+              "title": "All Ages Crafternoon",
+              "start": "2026-11-29T13:00:00-05:00",
+              "end": "2026-11-29T14:30:00-05:00",
+              "venue": "Green Road Community Library",
+              "address": "4101 Green Road, Raleigh, NC",
+              "url": "https://www.wake.gov/events/all-ages-crafternoon-0",
+              "cost": "Free",
+              "lat": 35.8393031103746,
+              "lon": -78.5919233951002,
+              "ages": "Adults & Seniors Young Children All Ages School-Age Children Teens",
+              "registration": null,
+              "indoor": true,
+              "area": "raleigh",
+              "source": "wake-county",
+              "dropIn": false
+            }
+          },
+          "alternatives": [
+            {
+              "ref": "event:museum:durham-central-park:13302",
+              "arrive": "11:00",
+              "leave": "12:30",
+              "why": "Your child can wander the Durham Underground Market at Durham Central Park and play at the playground.",
+              "tips": [
+                "Bring a snack for a break.",
+                "Let your child lead the way through the market."
+              ],
+              "interests": [
+                "movement"
+              ],
+              "also": [],
+              "area": "durham",
+              "outdoor": true,
+              "source": {
+                "kind": "event",
+                "title": "Durham Underground Market",
+                "start": "2026-11-29T11:00:00",
+                "end": "2026-11-29T15:00:00",
+                "venue": "Durham Central Park",
+                "address": "501 Foster Street, Durham, NC, 27701",
+                "url": "https://durhamcentralpark.org/upcoming-event/durham-underground-market-2/2026-11-29/",
+                "cost": null,
+                "lat": 36.0008,
+                "lon": -78.9021,
+                "ages": null,
+                "registration": null,
+                "indoor": false,
+                "area": "durham",
+                "source": "museum",
+                "dropIn": true
+              }
+            },
+            {
+              "ref": "event:wake:24625",
+              "arrive": "15:00",
+              "leave": "16:40",
+              "why": "Your child can listen to holiday songs from the Greenhope Serenaders Club at West Regional Library, then play at Carpenter Park.",
+              "tips": [
+                "Clap and sing along with the songs.",
+                "Tell your child the playground comes after the music."
+              ],
+              "interests": [
+                "music",
+                "movement"
+              ],
+              "also": [
+                {
+                  "ref": "place:carpenter-park",
+                  "source": {
+                    "kind": "park",
+                    "title": "Carpenter Park",
+                    "address": "4420 Louis Stephens Drive, Cary, NC",
+                    "lat": 35.82284995357582,
+                    "lon": -78.86424049854338,
+                    "url": "http://www.townofcary.org/recreation-enjoyment/parks-greenways-environment/parks/carpenter-park",
+                    "amenities": [
+                      "playground",
+                      "picnic-shelter",
+                      "restroom",
+                      "greenway"
+                    ],
+                    "indoor": false,
+                    "area": "cary-apex",
+                    "hours": null,
+                    "cost": "Free"
+                  }
+                }
+              ],
+              "area": "cary-apex",
+              "outdoor": false,
+              "source": {
+                "kind": "event",
+                "title": "Music in the Library: Greenhope Serenaders Club",
+                "start": "2026-11-29T15:00:00-05:00",
+                "end": "2026-11-29T16:00:00-05:00",
+                "venue": "West Regional Library",
+                "address": "4000 Louis Stephens Drive, Cary, NC",
+                "url": "https://www.wake.gov/events/music-library-greenhope-serenaders-club",
+                "cost": "Free",
+                "lat": 35.8148624293953,
+                "lon": -78.8644916775722,
+                "ages": "All Ages",
+                "registration": null,
+                "indoor": true,
+                "area": "cary-apex",
+                "source": "wake-county",
+                "dropIn": false
+              }
+            },
+            {
+              "ref": "event:wake-parks:9423",
+              "arrive": "13:30",
+              "leave": "15:30",
+              "why": "Your child can see the open mill and hear historic interpreters explain how it works at the Mill Open House.",
+              "tips": [
+                "Drop in and stay as long as {they} like{s}.",
+                "Let your child ask the questions."
+              ],
+              "interests": [
+                "science",
+                "nature"
+              ],
+              "also": [],
+              "area": "raleigh",
+              "outdoor": true,
+              "source": {
+                "kind": "event",
+                "title": "Mill Open House",
+                "start": "2026-11-29T13:00:00",
+                "end": "2026-11-29T16:00:00",
+                "venue": "Historic Yates Mill County Park",
+                "address": "4620 Lake Wheeler Rd., Raleigh, NC  27603",
+                "url": "https://apm.activecommunities.com/wakeparks/Activity_Search/mill-open-house/9423?locale=en-US",
+                "cost": "Free",
+                "lat": 35.72157134974476,
+                "lon": -78.68526087901417,
+                "ages": null,
+                "registration": false,
+                "indoor": false,
+                "area": "raleigh",
+                "source": "wake-parks",
+                "dropIn": true
+              }
+            },
+            {
+              "ref": "event:wake-parks:8358:2026-11-29",
+              "arrive": "09:00",
+              "leave": "10:30",
+              "why": "Your child can walk the StoryWalk loop and read a story page by page along the way.",
+              "tips": [
+                "Let your child lead the way to the next page.",
+                "Bring a snack for after the story."
+              ],
+              "interests": [
+                "stories",
+                "nature"
+              ],
+              "also": [],
+              "area": "south-wake",
+              "outdoor": true,
+              "source": {
+                "kind": "event",
+                "title": "Beech Bluff County Park StoryWalk® 2026 (Self-Led)",
+                "start": "2026-11-29T08:00:00",
+                "end": "2026-11-29T17:30:00",
+                "venue": "Beech Bluff County Park",
+                "address": "Beech Bluff Park Drive, Fuquay-Varina, NC",
+                "url": "https://apm.activecommunities.com/wakeparks/Activity_Search/beech-bluff-county-park-storywalk-2026-self-led/8358?locale=en-US",
+                "cost": "Free",
+                "lat": 35.58537279715877,
+                "lon": -78.6793341971644,
+                "ages": null,
+                "registration": false,
+                "indoor": false,
+                "area": "south-wake",
+                "source": "wake-parks",
+                "dropIn": true
+              }
+            }
+          ],
+          "rainBackup": null,
+          "timeline": [
+            {
+              "start": "07:00",
+              "end": "07:30",
+              "kind": "meal",
+              "title": "Up and breakfast"
+            },
+            {
+              "start": "07:30",
+              "end": "11:45",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "11:45",
+              "end": "12:15",
+              "kind": "meal",
+              "title": "Lunch"
+            },
+            {
+              "start": "12:15",
+              "end": "12:35",
+              "kind": "routine",
+              "title": "Get ready to go",
+              "detail": "Shoes on, the bag, water and a snack."
+            },
+            {
+              "start": "12:35",
+              "end": "12:55",
+              "kind": "travel",
+              "title": "Drive to Green Road Community Library"
+            },
+            {
+              "start": "12:55",
+              "end": "14:30",
+              "kind": "outing",
+              "title": "All Ages Crafternoon"
+            },
+            {
+              "start": "14:30",
+              "end": "14:40",
+              "kind": "travel",
+              "title": "Walk to Green Road Park"
+            },
+            {
+              "start": "14:40",
+              "end": "15:20",
+              "kind": "outing",
+              "title": "Green Road Park"
+            },
+            {
+              "start": "15:20",
+              "end": "15:30",
+              "kind": "travel",
+              "title": "Walk back to the car"
+            },
+            {
+              "start": "15:30",
+              "end": "15:50",
+              "kind": "travel",
+              "title": "Drive home"
+            },
+            {
+              "start": "15:50",
+              "end": "18:00",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "18:00",
+              "end": "18:45",
+              "kind": "meal",
+              "title": "Dinner"
+            },
+            {
+              "start": "18:45",
+              "end": "19:30",
+              "kind": "routine",
+              "title": "Bath, books and bed"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "checked": {
+    "at": "2026-11-21T11:03:21.429Z",
+    "forecast": "none",
+    "weather": null,
+    "hidden": []
+  }
+}

@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Triangle Tots//triangletots.com//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:2026-11-30-member-monday-ancient-nubia-at-nc-museum-of-art-1000-1115@tr
+ iangletots.com
+DTSTAMP:20261121T100000Z
+DTSTART:20261130T150000Z
+DTEND:20261130T161500Z
+SUMMARY:Member Monday: Ancient Nubia at NC Museum of Art
+LOCATION:2110 Blue Ridge Rd\, Raleigh\, NC 27607
+DESCRIPTION:https://ncartmuseum.org/event/member-monday-ancient-nubia/\nhtt
+ ps://ncartmuseum.org/museum-park/\nThe whole day: https://triangletots.com
+ /2026-11-30/t1/\nTimes and details can change. Check the event or place be
+ fore you go.
+END:VEVENT
+END:VCALENDAR

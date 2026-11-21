@@ -1,0 +1,1158 @@
+{
+  "date": "2026-12-01",
+  "band": "t4",
+  "versions": [
+    {
+      "at": "2026-11-18T11:06:40.897Z",
+      "reason": null,
+      "forecast": "none",
+      "weather": null,
+      "plans": [
+        {
+          "nap": "short-nap",
+          "napLabel": "Short nap, 1 to 2",
+          "headline": "Play, then hunt for nature on a preschool walk",
+          "main": {
+            "ref": "place:whippoorwill-park",
+            "arrive": "09:30",
+            "leave": "11:00",
+            "also": [
+              {
+                "ref": "event:durham-rec:19865",
+                "source": {
+                  "kind": "event",
+                  "title": "Muddy Boots",
+                  "start": "2026-12-01T10:00:00",
+                  "end": "2026-12-01T11:00:00",
+                  "venue": "Whippoorwill Park",
+                  "address": "1632 Rowemont Dr, Durham, NC",
+                  "url": "https://apm.activecommunities.com/dprplaymore/Activity_Search/muddy-boots/19865?locale=en-US",
+                  "cost": "$1.50 for Durham residents, $6.50 for others",
+                  "lat": 36.047740000000005,
+                  "lon": -78.92395166666667,
+                  "ages": "1 - 6",
+                  "registration": "https://apm.activecommunities.com/dprplaymore/Activity_Search/muddy-boots/19865?locale=en-US",
+                  "indoor": false,
+                  "area": "durham",
+                  "source": "durham-rec",
+                  "dropIn": false
+                }
+              }
+            ],
+            "why": "Your child plays at Whippoorwill Park first, then joins Muddy Boots at 10:00 am for a nature book and a walk to spot what is outside. A family needs to sign up for this program.",
+            "tips": [
+              "Bring a snack for after the walk, and shoes that can get dirty.",
+              "Let {them} choose one thing to look for on the walk.",
+              "Give a five-minute warning before you leave the playground."
+            ],
+            "interests": [
+              "nature",
+              "movement",
+              "stories"
+            ],
+            "area": "durham",
+            "outdoor": true,
+            "source": {
+              "kind": "park",
+              "title": "Whippoorwill Park",
+              "address": "1632 Rowemont Dr, Durham, NC",
+              "lat": 36.047740000000005,
+              "lon": -78.92395166666667,
+              "url": "https://www.dprplaymore.org/Facilities/Facility/Details/Whippoorwill-Park-79",
+              "amenities": [
+                "playground",
+                "picnic-shelter",
+                "restroom",
+                "greenway"
+              ],
+              "indoor": false,
+              "area": "durham",
+              "hours": null,
+              "cost": "Free"
+            }
+          },
+          "alternatives": [
+            {
+              "ref": "event:wake:24985",
+              "arrive": "09:30",
+              "leave": "11:30",
+              "also": [
+                {
+                  "ref": "place:optimist-park",
+                  "source": {
+                    "kind": "park",
+                    "title": "Optimist Park",
+                    "address": "5900 Whittier Dr, Raleigh, NC 27609",
+                    "lat": 35.86353,
+                    "lon": -78.64661,
+                    "url": "https://raleighnc.gov/parks-and-recreation/places/optimist-park",
+                    "amenities": [
+                      "community-center",
+                      "pool",
+                      "nature",
+                      "courts",
+                      "fields",
+                      "playground"
+                    ],
+                    "indoor": false,
+                    "area": "north-raleigh",
+                    "hours": null,
+                    "cost": "Free"
+                  }
+                }
+              ],
+              "why": "Your child watches model trains travel through little scenes at the North Regional Library Model Train Exhibit, then runs off energy at Optimist Park.",
+              "tips": [
+                "Let {them} pick a favorite train to follow around the scenes.",
+                "Save a snack for the park so the library visit stays calm."
+              ],
+              "interests": [
+                "vehicles",
+                "movement"
+              ],
+              "area": "north-raleigh",
+              "outdoor": false,
+              "source": {
+                "kind": "event",
+                "title": "Model Train Exhibit",
+                "start": "2026-12-01T09:30:00-05:00",
+                "end": "2026-12-01T12:30:00-05:00",
+                "venue": "North Regional Library",
+                "address": "7009 Harps Mill Road, Raleigh, NC",
+                "url": "https://www.wake.gov/events/model-train-exhibit",
+                "cost": "Free",
+                "lat": 35.880907380619,
+                "lon": -78.6281516610688,
+                "ages": "Young Children All Ages School-Age Children Teens",
+                "registration": null,
+                "indoor": true,
+                "area": "north-raleigh",
+                "source": "wake-county",
+                "dropIn": true
+              }
+            },
+            {
+              "ref": "event:wake:25000",
+              "arrive": "10:20",
+              "leave": "11:40",
+              "also": [
+                {
+                  "ref": "place:southgate-park",
+                  "source": {
+                    "kind": "park",
+                    "title": "Southgate Park",
+                    "address": "1801 Proctor Street, Raleigh, NC 27610",
+                    "lat": 35.75566,
+                    "lon": -78.60731,
+                    "url": "https://raleighnc.gov/parks-and-recreation/places/southgate-park",
+                    "amenities": [
+                      "community-center",
+                      "picnic-shelter",
+                      "fields",
+                      "courts",
+                      "playground"
+                    ],
+                    "indoor": false,
+                    "area": "raleigh",
+                    "hours": null,
+                    "cost": "Free"
+                  }
+                }
+              ],
+              "why": "Your child rings and sings along at Jingle Bell Tales at 10:30 am, then plays at Southgate Park.",
+              "tips": [
+                "Let {them} join the ringing and singing as loudly as {they} like{s}.",
+                "Head to the park right after to wiggle out the music."
+              ],
+              "interests": [
+                "music",
+                "movement"
+              ],
+              "area": "raleigh",
+              "outdoor": false,
+              "source": {
+                "kind": "event",
+                "title": "Jingle Bell Tales",
+                "start": "2026-12-01T10:30:00-05:00",
+                "end": "2026-12-01T11:00:00-05:00",
+                "venue": "Southgate Community Library",
+                "address": "1601-14 Cross Link Road, Raleigh, NC",
+                "url": "https://www.wake.gov/events/jingle-bell-tales",
+                "cost": "Free",
+                "lat": 35.755127557114,
+                "lon": -78.6153737255612,
+                "ages": "Young Children",
+                "registration": null,
+                "indoor": true,
+                "area": "raleigh",
+                "source": "wake-county",
+                "dropIn": false
+              }
+            },
+            {
+              "ref": "place:knightdale-station-park",
+              "arrive": "15:30",
+              "leave": "17:00",
+              "also": [
+                {
+                  "ref": "event:wake:25053",
+                  "source": {
+                    "kind": "event",
+                    "title": "Cookiemobile!",
+                    "start": "2026-12-01T16:00:00-05:00",
+                    "end": "2026-12-01T18:00:00-05:00",
+                    "venue": "East Regional Library",
+                    "address": "946 Steeple Square Court, Knightdale, NC",
+                    "url": "https://www.wake.gov/events/cookiemobile",
+                    "cost": "Free",
+                    "lat": 35.8028243321954,
+                    "lon": -78.487155767495,
+                    "ages": "Young Children School-Age Children",
+                    "registration": null,
+                    "indoor": true,
+                    "area": "east-wake",
+                    "source": "wake-county",
+                    "dropIn": false
+                  }
+                }
+              ],
+              "why": "Your child plays at Knightdale Station Park, then joins the Cookiemobile at East Regional Library at 4:00 pm for crafts and games.",
+              "tips": [
+                "Bring a snack for the park so {they} arrive at the crafts ready to focus.",
+                "Leave a little early so the drive home is before dark."
+              ],
+              "interests": [
+                "art",
+                "movement"
+              ],
+              "area": "east-wake",
+              "outdoor": false,
+              "source": {
+                "kind": "park",
+                "title": "Knightdale Station Park",
+                "address": "810 North First Avenue, Knightdale, NC",
+                "lat": 35.795776739559024,
+                "lon": -78.47584503817626,
+                "url": "https://www.knightdalenc.gov/knightdalestationpark",
+                "amenities": [
+                  "playground",
+                  "picnic-shelter",
+                  "greenway"
+                ],
+                "indoor": false,
+                "area": "east-wake",
+                "hours": null,
+                "cost": "Free"
+              }
+            },
+            {
+              "ref": "event:wake-parks:8358:2026-12-01",
+              "arrive": "09:30",
+              "leave": "11:00",
+              "also": [
+                {
+                  "ref": "place:beech-bluff-county-park",
+                  "source": {
+                    "kind": "park",
+                    "title": "Beech Bluff County Park",
+                    "address": "Beech Bluff Park Drive, Fuquay-Varina, NC",
+                    "lat": 35.58537279715877,
+                    "lon": -78.6793341971644,
+                    "url": "https://www.wake.gov/departments-government/parks-recreation-open-space/all-parks-trails/beech-bluff-county-park",
+                    "amenities": [
+                      "playground",
+                      "garden",
+                      "greenway",
+                      "restroom",
+                      "picnic-shelter"
+                    ],
+                    "indoor": false,
+                    "area": "south-wake",
+                    "hours": null,
+                    "cost": "Free"
+                  }
+                }
+              ],
+              "why": "Your child reads a picture book one page at a time along the StoryWalk, then plays at Beech Bluff County Park.",
+              "tips": [
+                "Let {them} lead and turn to the next page of the story.",
+                "Bring a snack for the playground afterward."
+              ],
+              "interests": [
+                "stories",
+                "nature"
+              ],
+              "area": "south-wake",
+              "outdoor": true,
+              "source": {
+                "kind": "event",
+                "title": "Beech Bluff County Park StoryWalk® 2026 (Self-Led)",
+                "start": "2026-12-01T08:00:00",
+                "end": "2026-12-01T17:30:00",
+                "venue": "Beech Bluff County Park",
+                "address": "Beech Bluff Park Drive, Fuquay-Varina, NC",
+                "url": "https://apm.activecommunities.com/wakeparks/Activity_Search/beech-bluff-county-park-storywalk-2026-self-led/8358?locale=en-US",
+                "cost": "Free",
+                "lat": 35.58537279715877,
+                "lon": -78.6793341971644,
+                "ages": null,
+                "registration": false,
+                "indoor": false,
+                "area": "south-wake",
+                "source": "wake-parks",
+                "dropIn": true
+              }
+            }
+          ],
+          "rainBackup": null,
+          "timeline": [
+            {
+              "start": "07:00",
+              "end": "07:30",
+              "kind": "meal",
+              "title": "Up and breakfast"
+            },
+            {
+              "start": "07:30",
+              "end": "08:50",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "08:50",
+              "end": "09:10",
+              "kind": "routine",
+              "title": "Get ready to go",
+              "detail": "Shoes on, the bag, water and a snack."
+            },
+            {
+              "start": "09:10",
+              "end": "09:30",
+              "kind": "travel",
+              "title": "Drive to Whippoorwill Park"
+            },
+            {
+              "start": "09:30",
+              "end": "10:00",
+              "kind": "outing",
+              "title": "Whippoorwill Park"
+            },
+            {
+              "start": "10:00",
+              "end": "11:00",
+              "kind": "outing",
+              "title": "Muddy Boots"
+            },
+            {
+              "start": "11:00",
+              "end": "11:20",
+              "kind": "travel",
+              "title": "Drive home"
+            },
+            {
+              "start": "11:20",
+              "end": "12:15",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "12:15",
+              "end": "12:45",
+              "kind": "meal",
+              "title": "Lunch"
+            },
+            {
+              "start": "12:45",
+              "end": "13:00",
+              "kind": "quiet",
+              "title": "Wind down",
+              "detail": "A couple of books to settle."
+            },
+            {
+              "start": "13:00",
+              "end": "14:00",
+              "kind": "nap",
+              "title": "Nap"
+            },
+            {
+              "start": "14:00",
+              "end": "14:20",
+              "kind": "routine",
+              "title": "Up and a snack"
+            },
+            {
+              "start": "14:20",
+              "end": "18:30",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "18:30",
+              "end": "19:15",
+              "kind": "meal",
+              "title": "Dinner"
+            },
+            {
+              "start": "19:15",
+              "end": "20:00",
+              "kind": "routine",
+              "title": "Bath, books and bed"
+            }
+          ]
+        },
+        {
+          "nap": "quiet",
+          "napLabel": "Quiet time",
+          "headline": "Watch model trains roll, then run at the park",
+          "main": {
+            "ref": "event:wake:24985",
+            "arrive": "09:30",
+            "leave": "11:30",
+            "also": [
+              {
+                "ref": "place:optimist-park",
+                "source": {
+                  "kind": "park",
+                  "title": "Optimist Park",
+                  "address": "5900 Whittier Dr, Raleigh, NC 27609",
+                  "lat": 35.86353,
+                  "lon": -78.64661,
+                  "url": "https://raleighnc.gov/parks-and-recreation/places/optimist-park",
+                  "amenities": [
+                    "community-center",
+                    "pool",
+                    "nature",
+                    "courts",
+                    "fields",
+                    "playground"
+                  ],
+                  "indoor": false,
+                  "area": "north-raleigh",
+                  "hours": null,
+                  "cost": "Free"
+                }
+              }
+            ],
+            "why": "Your child watches model trains travel through different scenes at the North Regional Library Model Train Exhibit, then plays at Optimist Park.",
+            "tips": [
+              "Let {them} pick a favorite train and follow it around the scenes.",
+              "Bring a snack for the park so the library visit stays easy.",
+              "Tell {them} the park is next so leaving the trains goes smoothly."
+            ],
+            "interests": [
+              "vehicles",
+              "movement",
+              "nature"
+            ],
+            "area": "north-raleigh",
+            "outdoor": false,
+            "source": {
+              "kind": "event",
+              "title": "Model Train Exhibit",
+              "start": "2026-12-01T09:30:00-05:00",
+              "end": "2026-12-01T12:30:00-05:00",
+              "venue": "North Regional Library",
+              "address": "7009 Harps Mill Road, Raleigh, NC",
+              "url": "https://www.wake.gov/events/model-train-exhibit",
+              "cost": "Free",
+              "lat": 35.880907380619,
+              "lon": -78.6281516610688,
+              "ages": "Young Children All Ages School-Age Children Teens",
+              "registration": null,
+              "indoor": true,
+              "area": "north-raleigh",
+              "source": "wake-county",
+              "dropIn": true
+            }
+          },
+          "alternatives": [
+            {
+              "ref": "place:whippoorwill-park",
+              "arrive": "09:30",
+              "leave": "11:00",
+              "also": [
+                {
+                  "ref": "event:durham-rec:19865",
+                  "source": {
+                    "kind": "event",
+                    "title": "Muddy Boots",
+                    "start": "2026-12-01T10:00:00",
+                    "end": "2026-12-01T11:00:00",
+                    "venue": "Whippoorwill Park",
+                    "address": "1632 Rowemont Dr, Durham, NC",
+                    "url": "https://apm.activecommunities.com/dprplaymore/Activity_Search/muddy-boots/19865?locale=en-US",
+                    "cost": "$1.50 for Durham residents, $6.50 for others",
+                    "lat": 36.047740000000005,
+                    "lon": -78.92395166666667,
+                    "ages": "1 - 6",
+                    "registration": "https://apm.activecommunities.com/dprplaymore/Activity_Search/muddy-boots/19865?locale=en-US",
+                    "indoor": false,
+                    "area": "durham",
+                    "source": "durham-rec",
+                    "dropIn": false
+                  }
+                }
+              ],
+              "why": "Your child plays at Whippoorwill Park, then joins Muddy Boots at 10:00 am for a nature book and a walk. A family needs to sign up for this program.",
+              "tips": [
+                "Bring shoes that can get dirty and a snack for after.",
+                "Let {them} choose one thing to look for on the walk."
+              ],
+              "interests": [
+                "nature",
+                "movement",
+                "stories"
+              ],
+              "area": "durham",
+              "outdoor": true,
+              "source": {
+                "kind": "park",
+                "title": "Whippoorwill Park",
+                "address": "1632 Rowemont Dr, Durham, NC",
+                "lat": 36.047740000000005,
+                "lon": -78.92395166666667,
+                "url": "https://www.dprplaymore.org/Facilities/Facility/Details/Whippoorwill-Park-79",
+                "amenities": [
+                  "playground",
+                  "picnic-shelter",
+                  "restroom",
+                  "greenway"
+                ],
+                "indoor": false,
+                "area": "durham",
+                "hours": null,
+                "cost": "Free"
+              }
+            },
+            {
+              "ref": "event:wake:25000",
+              "arrive": "10:20",
+              "leave": "11:40",
+              "also": [
+                {
+                  "ref": "place:southgate-park",
+                  "source": {
+                    "kind": "park",
+                    "title": "Southgate Park",
+                    "address": "1801 Proctor Street, Raleigh, NC 27610",
+                    "lat": 35.75566,
+                    "lon": -78.60731,
+                    "url": "https://raleighnc.gov/parks-and-recreation/places/southgate-park",
+                    "amenities": [
+                      "community-center",
+                      "picnic-shelter",
+                      "fields",
+                      "courts",
+                      "playground"
+                    ],
+                    "indoor": false,
+                    "area": "raleigh",
+                    "hours": null,
+                    "cost": "Free"
+                  }
+                }
+              ],
+              "why": "Your child rings and sings along at Jingle Bell Tales at 10:30 am, then plays at Southgate Park.",
+              "tips": [
+                "Let {them} join in on the bells.",
+                "Head to the park right after to wiggle out the music."
+              ],
+              "interests": [
+                "music",
+                "movement"
+              ],
+              "area": "raleigh",
+              "outdoor": false,
+              "source": {
+                "kind": "event",
+                "title": "Jingle Bell Tales",
+                "start": "2026-12-01T10:30:00-05:00",
+                "end": "2026-12-01T11:00:00-05:00",
+                "venue": "Southgate Community Library",
+                "address": "1601-14 Cross Link Road, Raleigh, NC",
+                "url": "https://www.wake.gov/events/jingle-bell-tales",
+                "cost": "Free",
+                "lat": 35.755127557114,
+                "lon": -78.6153737255612,
+                "ages": "Young Children",
+                "registration": null,
+                "indoor": true,
+                "area": "raleigh",
+                "source": "wake-county",
+                "dropIn": false
+              }
+            },
+            {
+              "ref": "place:hemlock-bluffs",
+              "arrive": "09:30",
+              "leave": "11:30",
+              "also": [],
+              "why": "Your child explores the trails and boardwalks at Hemlock Bluffs Nature Preserve and looks for leaves, bugs and birds.",
+              "tips": [
+                "The trails have stairs, so a carrier works better than a stroller.",
+                "The Stevens Nature Center restrooms open at 10 am, so plan a stop then.",
+                "Bring a snack to eat on the trail."
+              ],
+              "interests": [
+                "nature",
+                "movement"
+              ],
+              "area": "cary-apex",
+              "outdoor": true,
+              "source": {
+                "kind": "park",
+                "title": "Hemlock Bluffs Nature Preserve",
+                "address": "2616 Kildaire Farm Rd, Cary, NC 27518",
+                "lat": 35.7253,
+                "lon": -78.7846,
+                "url": "https://www.carync.gov/recreation-enjoyment/parks-greenways-environment/parks/stevens-nature-center-at-hemlock-bluffs-nature-preserve",
+                "amenities": [
+                  "nature"
+                ],
+                "indoor": false,
+                "area": "cary-apex",
+                "hours": {
+                  "sun": "9 a.m. to sunset",
+                  "mon": "9 a.m. to sunset",
+                  "tue": "9 a.m. to sunset",
+                  "wed": "9 a.m. to sunset",
+                  "thu": "9 a.m. to sunset",
+                  "fri": "9 a.m. to sunset",
+                  "sat": "9 a.m. to sunset"
+                },
+                "cost": "Free",
+                "note": "Free. About three miles of mulched trails and boardwalks with stairs (a carrier beats a stroller); restrooms in the Stevens Nature Center, open Mon–Sat 10–5, Sun 1–5."
+              }
+            },
+            {
+              "ref": "event:wake-parks:8358:2026-12-01",
+              "arrive": "09:30",
+              "leave": "11:00",
+              "also": [
+                {
+                  "ref": "place:beech-bluff-county-park",
+                  "source": {
+                    "kind": "park",
+                    "title": "Beech Bluff County Park",
+                    "address": "Beech Bluff Park Drive, Fuquay-Varina, NC",
+                    "lat": 35.58537279715877,
+                    "lon": -78.6793341971644,
+                    "url": "https://www.wake.gov/departments-government/parks-recreation-open-space/all-parks-trails/beech-bluff-county-park",
+                    "amenities": [
+                      "playground",
+                      "garden",
+                      "greenway",
+                      "restroom",
+                      "picnic-shelter"
+                    ],
+                    "indoor": false,
+                    "area": "south-wake",
+                    "hours": null,
+                    "cost": "Free"
+                  }
+                }
+              ],
+              "why": "Your child reads a picture book one page at a time along the StoryWalk, then plays at Beech Bluff County Park.",
+              "tips": [
+                "Let {them} lead and turn to the next page of the story.",
+                "Bring a snack for the playground afterward."
+              ],
+              "interests": [
+                "stories",
+                "nature"
+              ],
+              "area": "south-wake",
+              "outdoor": true,
+              "source": {
+                "kind": "event",
+                "title": "Beech Bluff County Park StoryWalk® 2026 (Self-Led)",
+                "start": "2026-12-01T08:00:00",
+                "end": "2026-12-01T17:30:00",
+                "venue": "Beech Bluff County Park",
+                "address": "Beech Bluff Park Drive, Fuquay-Varina, NC",
+                "url": "https://apm.activecommunities.com/wakeparks/Activity_Search/beech-bluff-county-park-storywalk-2026-self-led/8358?locale=en-US",
+                "cost": "Free",
+                "lat": 35.58537279715877,
+                "lon": -78.6793341971644,
+                "ages": null,
+                "registration": false,
+                "indoor": false,
+                "area": "south-wake",
+                "source": "wake-parks",
+                "dropIn": true
+              }
+            }
+          ],
+          "rainBackup": null,
+          "timeline": [
+            {
+              "start": "07:00",
+              "end": "07:30",
+              "kind": "meal",
+              "title": "Up and breakfast"
+            },
+            {
+              "start": "07:30",
+              "end": "08:50",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "08:50",
+              "end": "09:10",
+              "kind": "routine",
+              "title": "Get ready to go",
+              "detail": "Shoes on, the bag, water and a snack."
+            },
+            {
+              "start": "09:10",
+              "end": "09:30",
+              "kind": "travel",
+              "title": "Drive to North Regional Library"
+            },
+            {
+              "start": "09:30",
+              "end": "11:30",
+              "kind": "outing",
+              "title": "North Regional Library"
+            },
+            {
+              "start": "11:30",
+              "end": "11:50",
+              "kind": "travel",
+              "title": "Drive home"
+            },
+            {
+              "start": "11:50",
+              "end": "12:20",
+              "kind": "meal",
+              "title": "Lunch"
+            },
+            {
+              "start": "12:20",
+              "end": "13:00",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "13:00",
+              "end": "13:45",
+              "kind": "quiet",
+              "title": "Quiet time",
+              "detail": "Books or quiet play in their room."
+            },
+            {
+              "start": "13:45",
+              "end": "18:00",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "18:00",
+              "end": "18:45",
+              "kind": "meal",
+              "title": "Dinner"
+            },
+            {
+              "start": "18:45",
+              "end": "19:30",
+              "kind": "routine",
+              "title": "Bath, books and bed"
+            }
+          ]
+        },
+        {
+          "nap": "no-nap",
+          "napLabel": "No nap",
+          "headline": "Watch a 3D film, see a lobster fed, then play",
+          "main": {
+            "ref": "event:museum:marbles:48978",
+            "arrive": "12:05",
+            "leave": "14:30",
+            "also": [
+              {
+                "ref": "event:museum:nc-natural-sciences:123488",
+                "source": {
+                  "kind": "event",
+                  "title": "Live Animal Feeding: Lobster",
+                  "start": "2026-12-01T13:30:00",
+                  "end": "2026-12-01T13:45:00",
+                  "venue": "NC Museum of Natural Sciences",
+                  "address": "11 West Jones Street, Raleigh, NC, 27601",
+                  "url": "https://www.naturalsciences.org/calendar/event/live-animal-feeding-lobster-4/2026-12-01/",
+                  "cost": "Museum admission is free",
+                  "lat": 35.7822735,
+                  "lon": -78.6395502,
+                  "ages": "Adults All Ages Children Downtown Raleigh Live Animals Teens Walk-up Programs",
+                  "registration": false,
+                  "indoor": true,
+                  "area": "raleigh",
+                  "source": "museum",
+                  "dropIn": false
+                }
+              },
+              {
+                "ref": "place:levelle-moton-park",
+                "source": {
+                  "kind": "park",
+                  "title": "LeVelle Moton Park",
+                  "address": "920 E. Lane Street, Raleigh, NC 27601",
+                  "lat": 35.78316,
+                  "lon": -78.62606,
+                  "url": "https://raleighnc.gov/parks-and-recreation/places/levelle-moton-park",
+                  "amenities": [
+                    "picnic-shelter",
+                    "courts",
+                    "playground"
+                  ],
+                  "indoor": false,
+                  "area": "raleigh",
+                  "hours": null,
+                  "cost": "Free"
+                }
+              }
+            ],
+            "why": "Your child watches Cities of the Future 3D at Marbles at 12:15 pm, sees the Live Animal Feeding: Lobster at the Natural Sciences museum at 1:30 pm, then plays at LeVelle Moton Park.",
+            "tips": [
+              "Eat lunch before the film or pack something to eat between stops.",
+              "The lobster feeding is short, so arrive a few minutes early.",
+              "Let {them} lead the playground time, then leave with a countdown."
+            ],
+            "interests": [
+              "science",
+              "animals",
+              "movement"
+            ],
+            "area": "raleigh",
+            "outdoor": false,
+            "source": {
+              "kind": "event",
+              "title": "Cities of the Future 3D",
+              "start": "2026-12-01T12:15:00",
+              "end": "2026-12-01T13:00:00",
+              "venue": "Marbles Kids Museum",
+              "address": "201 E Hargett St, Raleigh, NC 27601",
+              "url": "https://marbleskidsmuseum.org/event/49131/",
+              "cost": "IMAX documentary: $8 adults, $6 ages 1–11",
+              "lat": 35.7789,
+              "lon": -78.6361,
+              "ages": "IMAX film, 4 and up",
+              "registration": null,
+              "indoor": true,
+              "area": "raleigh",
+              "source": "museum",
+              "dropIn": false,
+              "film": true
+            }
+          },
+          "alternatives": [
+            {
+              "ref": "place:whippoorwill-park",
+              "arrive": "09:30",
+              "leave": "11:00",
+              "also": [
+                {
+                  "ref": "event:durham-rec:19865",
+                  "source": {
+                    "kind": "event",
+                    "title": "Muddy Boots",
+                    "start": "2026-12-01T10:00:00",
+                    "end": "2026-12-01T11:00:00",
+                    "venue": "Whippoorwill Park",
+                    "address": "1632 Rowemont Dr, Durham, NC",
+                    "url": "https://apm.activecommunities.com/dprplaymore/Activity_Search/muddy-boots/19865?locale=en-US",
+                    "cost": "$1.50 for Durham residents, $6.50 for others",
+                    "lat": 36.047740000000005,
+                    "lon": -78.92395166666667,
+                    "ages": "1 - 6",
+                    "registration": "https://apm.activecommunities.com/dprplaymore/Activity_Search/muddy-boots/19865?locale=en-US",
+                    "indoor": false,
+                    "area": "durham",
+                    "source": "durham-rec",
+                    "dropIn": false
+                  }
+                }
+              ],
+              "why": "Your child plays at Whippoorwill Park, then joins Muddy Boots at 10:00 am for a nature book and a walk. A family needs to sign up for this program.",
+              "tips": [
+                "Bring shoes that can get dirty and a snack for after.",
+                "Let {them} choose one thing to look for on the walk."
+              ],
+              "interests": [
+                "nature",
+                "movement",
+                "stories"
+              ],
+              "area": "durham",
+              "outdoor": true,
+              "source": {
+                "kind": "park",
+                "title": "Whippoorwill Park",
+                "address": "1632 Rowemont Dr, Durham, NC",
+                "lat": 36.047740000000005,
+                "lon": -78.92395166666667,
+                "url": "https://www.dprplaymore.org/Facilities/Facility/Details/Whippoorwill-Park-79",
+                "amenities": [
+                  "playground",
+                  "picnic-shelter",
+                  "restroom",
+                  "greenway"
+                ],
+                "indoor": false,
+                "area": "durham",
+                "hours": null,
+                "cost": "Free"
+              }
+            },
+            {
+              "ref": "place:hemlock-bluffs",
+              "arrive": "09:30",
+              "leave": "11:30",
+              "also": [],
+              "why": "Your child explores the trails and boardwalks at Hemlock Bluffs Nature Preserve and looks for leaves, bugs and birds.",
+              "tips": [
+                "The trails have stairs, so a carrier works better than a stroller.",
+                "The Stevens Nature Center restrooms open at 10 am, so plan a stop then.",
+                "Bring a snack to eat on the trail."
+              ],
+              "interests": [
+                "nature",
+                "movement"
+              ],
+              "area": "cary-apex",
+              "outdoor": true,
+              "source": {
+                "kind": "park",
+                "title": "Hemlock Bluffs Nature Preserve",
+                "address": "2616 Kildaire Farm Rd, Cary, NC 27518",
+                "lat": 35.7253,
+                "lon": -78.7846,
+                "url": "https://www.carync.gov/recreation-enjoyment/parks-greenways-environment/parks/stevens-nature-center-at-hemlock-bluffs-nature-preserve",
+                "amenities": [
+                  "nature"
+                ],
+                "indoor": false,
+                "area": "cary-apex",
+                "hours": {
+                  "sun": "9 a.m. to sunset",
+                  "mon": "9 a.m. to sunset",
+                  "tue": "9 a.m. to sunset",
+                  "wed": "9 a.m. to sunset",
+                  "thu": "9 a.m. to sunset",
+                  "fri": "9 a.m. to sunset",
+                  "sat": "9 a.m. to sunset"
+                },
+                "cost": "Free",
+                "note": "Free. About three miles of mulched trails and boardwalks with stairs (a carrier beats a stroller); restrooms in the Stevens Nature Center, open Mon–Sat 10–5, Sun 1–5."
+              }
+            },
+            {
+              "ref": "place:knightdale-station-park",
+              "arrive": "15:30",
+              "leave": "17:00",
+              "also": [
+                {
+                  "ref": "event:wake:25053",
+                  "source": {
+                    "kind": "event",
+                    "title": "Cookiemobile!",
+                    "start": "2026-12-01T16:00:00-05:00",
+                    "end": "2026-12-01T18:00:00-05:00",
+                    "venue": "East Regional Library",
+                    "address": "946 Steeple Square Court, Knightdale, NC",
+                    "url": "https://www.wake.gov/events/cookiemobile",
+                    "cost": "Free",
+                    "lat": 35.8028243321954,
+                    "lon": -78.487155767495,
+                    "ages": "Young Children School-Age Children",
+                    "registration": null,
+                    "indoor": true,
+                    "area": "east-wake",
+                    "source": "wake-county",
+                    "dropIn": false
+                  }
+                }
+              ],
+              "why": "Your child plays at Knightdale Station Park, then joins the Cookiemobile at East Regional Library at 4:00 pm for crafts and games.",
+              "tips": [
+                "Bring a snack for the park so {they} arrive at the crafts ready to focus.",
+                "Leave a little early so the drive home is before dark."
+              ],
+              "interests": [
+                "art",
+                "movement"
+              ],
+              "area": "east-wake",
+              "outdoor": false,
+              "source": {
+                "kind": "park",
+                "title": "Knightdale Station Park",
+                "address": "810 North First Avenue, Knightdale, NC",
+                "lat": 35.795776739559024,
+                "lon": -78.47584503817626,
+                "url": "https://www.knightdalenc.gov/knightdalestationpark",
+                "amenities": [
+                  "playground",
+                  "picnic-shelter",
+                  "greenway"
+                ],
+                "indoor": false,
+                "area": "east-wake",
+                "hours": null,
+                "cost": "Free"
+              }
+            },
+            {
+              "ref": "event:wake:24985",
+              "arrive": "09:30",
+              "leave": "11:30",
+              "also": [
+                {
+                  "ref": "place:optimist-park",
+                  "source": {
+                    "kind": "park",
+                    "title": "Optimist Park",
+                    "address": "5900 Whittier Dr, Raleigh, NC 27609",
+                    "lat": 35.86353,
+                    "lon": -78.64661,
+                    "url": "https://raleighnc.gov/parks-and-recreation/places/optimist-park",
+                    "amenities": [
+                      "community-center",
+                      "pool",
+                      "nature",
+                      "courts",
+                      "fields",
+                      "playground"
+                    ],
+                    "indoor": false,
+                    "area": "north-raleigh",
+                    "hours": null,
+                    "cost": "Free"
+                  }
+                }
+              ],
+              "why": "Your child watches model trains travel through different scenes at the North Regional Library Model Train Exhibit, then plays at Optimist Park.",
+              "tips": [
+                "Let {them} pick a favorite train to follow around the scenes.",
+                "Save a snack for the park."
+              ],
+              "interests": [
+                "vehicles",
+                "movement"
+              ],
+              "area": "north-raleigh",
+              "outdoor": false,
+              "source": {
+                "kind": "event",
+                "title": "Model Train Exhibit",
+                "start": "2026-12-01T09:30:00-05:00",
+                "end": "2026-12-01T12:30:00-05:00",
+                "venue": "North Regional Library",
+                "address": "7009 Harps Mill Road, Raleigh, NC",
+                "url": "https://www.wake.gov/events/model-train-exhibit",
+                "cost": "Free",
+                "lat": 35.880907380619,
+                "lon": -78.6281516610688,
+                "ages": "Young Children All Ages School-Age Children Teens",
+                "registration": null,
+                "indoor": true,
+                "area": "north-raleigh",
+                "source": "wake-county",
+                "dropIn": true
+              }
+            }
+          ],
+          "rainBackup": null,
+          "timeline": [
+            {
+              "start": "07:00",
+              "end": "07:30",
+              "kind": "meal",
+              "title": "Up and breakfast"
+            },
+            {
+              "start": "07:30",
+              "end": "11:25",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "11:25",
+              "end": "11:45",
+              "kind": "routine",
+              "title": "Get ready to go",
+              "detail": "Shoes on, the bag, water and a snack."
+            },
+            {
+              "start": "11:45",
+              "end": "12:05",
+              "kind": "travel",
+              "title": "Drive to Marbles Kids Museum"
+            },
+            {
+              "start": "12:05",
+              "end": "13:00",
+              "kind": "outing",
+              "title": "Cities of the Future 3D",
+              "detail": "Pack a lunch to eat there."
+            },
+            {
+              "start": "13:00",
+              "end": "13:10",
+              "kind": "travel",
+              "title": "Drive to NC Museum of Natural Sciences"
+            },
+            {
+              "start": "13:10",
+              "end": "13:45",
+              "kind": "outing",
+              "title": "Live Animal Feeding: Lobster"
+            },
+            {
+              "start": "13:45",
+              "end": "13:55",
+              "kind": "travel",
+              "title": "Drive to LeVelle Moton Park"
+            },
+            {
+              "start": "13:55",
+              "end": "14:30",
+              "kind": "outing",
+              "title": "LeVelle Moton Park"
+            },
+            {
+              "start": "14:30",
+              "end": "14:50",
+              "kind": "travel",
+              "title": "Drive home"
+            },
+            {
+              "start": "14:50",
+              "end": "18:00",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "18:00",
+              "end": "18:45",
+              "kind": "meal",
+              "title": "Dinner"
+            },
+            {
+              "start": "18:45",
+              "end": "19:30",
+              "kind": "routine",
+              "title": "Bath, books and bed"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "checked": {
+    "at": "2026-11-21T11:03:21.447Z",
+    "forecast": "none",
+    "weather": null,
+    "hidden": []
+  }
+}

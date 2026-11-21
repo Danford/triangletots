@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Triangle Tots//triangletots.com//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:2026-11-25-lego-free-play-at-lakeview-park-1030-1200@triangletots.com
+DTSTAMP:20261121T100000Z
+DTSTART:20261125T153000Z
+DTEND:20261125T170000Z
+SUMMARY:LEGO Free Play at Lakeview Park
+LOCATION:3500 Dearborn Dr\, Durham\, NC
+DESCRIPTION:Sign up first.\nhttps://www.dprplaymore.org/Facilities/Facility
+ /Details/Lakeview-Park-39\nhttps://durhamcountylibrary.libcal.com/event/18
+ 001682\nThe whole day: https://triangletots.com/2026-11-25/t2/\nTimes and 
+ details can change. Check the event or place before you go.
+END:VEVENT
+END:VCALENDAR

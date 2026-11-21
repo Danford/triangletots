@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Triangle Tots//triangletots.com//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:2026-11-26-express-library-on-fayetteville-street-1000-1115@triangletot
+ s.com
+DTSTAMP:20261121T100000Z
+DTSTART:20261126T150000Z
+DTEND:20261126T161500Z
+SUMMARY:Express Library on Fayetteville Street
+LOCATION:336 Fayetteville Street\, Raleigh\, NC
+DESCRIPTION:The whole day: https://triangletots.com/2026-11-26/t2/\nTimes a
+ nd details can change. Check the event or place before you go.
+END:VEVENT
+END:VCALENDAR

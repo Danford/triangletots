@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Triangle Tots//triangletots.com//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:2026-11-25-west-regional-library-1725-1840@triangletots.com
+DTSTAMP:20261121T100000Z
+DTSTART:20261125T222500Z
+DTEND:20261125T234000Z
+SUMMARY:West Regional Library
+LOCATION:4000 Louis Stephens Drive\, Cary\, NC
+DESCRIPTION:The whole day: https://triangletots.com/2026-11-25/t4/\nTimes a
+ nd details can change. Check the event or place before you go.
+END:VEVENT
+END:VCALENDAR

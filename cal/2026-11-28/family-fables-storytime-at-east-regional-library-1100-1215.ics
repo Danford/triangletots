@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Triangle Tots//triangletots.com//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:2026-11-28-family-fables-storytime-at-east-regional-library-1100-1215@t
+ riangletots.com
+DTSTAMP:20261121T100000Z
+DTSTART:20261128T160000Z
+DTEND:20261128T171500Z
+SUMMARY:Family Fables (Storytime) at East Regional Library
+LOCATION:211 Lick Creek Lane\, Durham\, NC
+DESCRIPTION:Sign up first.\nhttps://durhamcountylibrary.libcal.com/event/17
+ 562324\nhttps://www.knightdalenc.gov/knightdalestationpark\nThe whole day:
+  https://triangletots.com/2026-11-28/t1/\nTimes and details can change. Ch
+ eck the event or place before you go.
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Triangle Tots//triangletots.com//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:2026-11-30-method-community-park-1200-1300@triangletots.com
+DTSTAMP:20261121T100000Z
+DTSTART:20261130T170000Z
+DTEND:20261130T180000Z
+SUMMARY:Method Community Park
+LOCATION:514 Method Rd\, Raleigh\, NC 27607
+DESCRIPTION:https://raleighnc.gov/parks-and-recreation/places/method-commun
+ ity-park\nThe whole day: https://triangletots.com/2026-11-30/t1/\nTimes an
+ d details can change. Check the event or place before you go.
+END:VEVENT
+END:VCALENDAR

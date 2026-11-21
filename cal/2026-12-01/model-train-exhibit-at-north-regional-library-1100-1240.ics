@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Triangle Tots//triangletots.com//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:2026-12-01-model-train-exhibit-at-north-regional-library-1100-1240@tria
+ ngletots.com
+DTSTAMP:20261121T100000Z
+DTSTART:20261201T160000Z
+DTEND:20261201T174000Z
+SUMMARY:Model Train Exhibit at North Regional Library
+LOCATION:7009 Harps Mill Road\, Raleigh\, NC
+DESCRIPTION:https://www.wake.gov/events/model-train-exhibit\nhttps://raleig
+ hnc.gov/parks-and-recreation/places/honeycutt-park\nThe whole day: https:/
+ /triangletots.com/2026-12-01/t1/\nTimes and details can change. Check the 
+ event or place before you go.
+END:VEVENT
+END:VCALENDAR

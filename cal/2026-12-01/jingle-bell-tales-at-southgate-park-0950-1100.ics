@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Triangle Tots//triangletots.com//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:2026-12-01-jingle-bell-tales-at-southgate-park-0950-1100@triangletots.c
+ om
+DTSTAMP:20261121T100000Z
+DTSTART:20261201T145000Z
+DTEND:20261201T160000Z
+SUMMARY:Jingle Bell Tales at Southgate Park
+LOCATION:1801 Proctor Street\, Raleigh\, NC 27610
+DESCRIPTION:https://raleighnc.gov/parks-and-recreation/places/southgate-par
+ k\nhttps://www.wake.gov/events/jingle-bell-tales\nThe whole day: https://t
+ riangletots.com/2026-12-01/t1/\nTimes and details can change. Check the ev
+ ent or place before you go.
+END:VEVENT
+END:VCALENDAR

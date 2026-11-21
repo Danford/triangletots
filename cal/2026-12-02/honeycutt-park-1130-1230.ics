@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Triangle Tots//triangletots.com//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:2026-12-02-honeycutt-park-1130-1230@triangletots.com
+DTSTAMP:20261121T100000Z
+DTSTART:20261202T163000Z
+DTEND:20261202T173000Z
+SUMMARY:Honeycutt Park
+LOCATION:1032 Clear Creek Farm Road\, Raleigh\, NC 27615
+DESCRIPTION:https://raleighnc.gov/parks-and-recreation/places/honeycutt-par
+ k\nThe whole day: https://triangletots.com/2026-12-02/t3/\nTimes and detai
+ ls can change. Check the event or place before you go.
+END:VEVENT
+END:VCALENDAR

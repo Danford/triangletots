@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Triangle Tots//triangletots.com//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:2026-12-02-story-craft-at-fuquay-varina-museums-at-ashworth-park-1320-1
+ 500@triangletots.com
+DTSTAMP:20261121T100000Z
+DTSTART:20261202T182000Z
+DTEND:20261202T200000Z
+SUMMARY:Story & Craft at Fuquay-Varina Museums at Ashworth Park
+LOCATION:131 South Fuquay Avenue\, Fuquay-Varina\, NC
+DESCRIPTION:http://www.fuquay-varina.org/Facilities/Facility/Details/Fuquay
+ Varina-Museums-at-Ashworth-Park-14\nhttps://www.wake.gov/events/story-craf
+ t\nThe whole day: https://triangletots.com/2026-12-02/t4/\nTimes and detai
+ ls can change. Check the event or place before you go.
+END:VEVENT
+END:VCALENDAR

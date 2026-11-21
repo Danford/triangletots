@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Triangle Tots//triangletots.com//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:2026-11-29-music-in-the-library-greenhope-serenaders-club-at-west-regio
+ -1450-1640@triangletots.com
+DTSTAMP:20261121T100000Z
+DTSTART:20261129T195000Z
+DTEND:20261129T214000Z
+SUMMARY:Music in the Library: Greenhope Serenaders Club at West Regional Li
+ brary
+LOCATION:4000 Louis Stephens Drive\, Cary\, NC
+DESCRIPTION:https://www.wake.gov/events/music-library-greenhope-serenaders-
+ club\nhttp://www.townofcary.org/recreation-enjoyment/parks-greenways-envir
+ onment/parks/carpenter-park\nThe whole day: https://triangletots.com/2026-
+ 11-29/t4/\nTimes and details can change. Check the event or place before y
+ ou go.
+END:VEVENT
+END:VCALENDAR

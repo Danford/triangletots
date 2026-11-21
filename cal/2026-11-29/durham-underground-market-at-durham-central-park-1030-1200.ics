@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Triangle Tots//triangletots.com//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:2026-11-29-durham-underground-market-at-durham-central-park-1030-1200@t
+ riangletots.com
+DTSTAMP:20261121T100000Z
+DTSTART:20261129T153000Z
+DTEND:20261129T170000Z
+SUMMARY:Durham Underground Market at Durham Central Park
+LOCATION:501 Foster St\, Durham\, NC
+DESCRIPTION:https://www.dprplaymore.org/Facilities/Facility/Details/Durham-
+ Central-Park-18\nhttps://durhamcentralpark.org/upcoming-event/durham-under
+ ground-market-2/2026-11-29/\nThe whole day: https://triangletots.com/2026-
+ 11-29/t4/\nTimes and details can change. Check the event or place before y
+ ou go.
+END:VEVENT
+END:VCALENDAR
