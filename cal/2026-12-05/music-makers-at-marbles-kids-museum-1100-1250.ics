@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Triangle Tots//triangletots.com//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:2026-12-05-music-makers-at-marbles-kids-museum-1100-1250@triangletots.c
+ om
+DTSTAMP:20261127T100000Z
+DTSTART:20261205T160000Z
+DTEND:20261205T175000Z
+SUMMARY:Music Makers at Marbles Kids Museum
+LOCATION:201 E Hargett St\, Raleigh\, NC 27601
+DESCRIPTION:https://marbleskidsmuseum.org/event/49149/\nhttps://raleighnc.g
+ ov/parks-and-recreation/places/john-chavis-memorial-park\nThe whole day: h
+ ttps://triangletots.com/2026-12-05/t1/\nTimes and details can change. Chec
+ k the event or place before you go.
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,1041 @@
+{
+  "date": "2026-12-05",
+  "band": "t3",
+  "versions": [
+    {
+      "at": "2026-11-22T11:05:01.534Z",
+      "reason": null,
+      "forecast": "none",
+      "weather": null,
+      "plans": [
+        {
+          "nap": "nap",
+          "napLabel": "Nap, 1 to 2:30",
+          "headline": "Meet Santa at the old gristmill",
+          "main": {
+            "ref": "event:wake-parks:9474",
+            "arrive": "10:00",
+            "leave": "11:45",
+            "why": "Your child can meet Santa inside the historic gristmill at the free Meet Santa at Yates Mill event, which runs 10:00 am to 12:00 pm. The park also has holiday crafts to try.",
+            "tips": [
+              "Have your phone ready. Volunteers will take a photo of your child with Santa.",
+              "Talk about meeting Santa in the car so it feels familiar. Let {them} hang back if {they} {is} shy.",
+              "Pack a snack and eat it before you head home, so the ride is calm."
+            ],
+            "interests": [
+              "art",
+              "nature"
+            ],
+            "also": [],
+            "area": "raleigh",
+            "outdoor": true,
+            "source": {
+              "kind": "event",
+              "title": "Meet Santa at Yates Mill (morning)",
+              "start": "2026-12-05T10:00:00",
+              "end": "2026-12-05T12:00:00",
+              "venue": "Historic Yates Mill County Park",
+              "address": "4620 Lake Wheeler Rd., Raleigh, NC  27603",
+              "url": "https://apm.activecommunities.com/wakeparks/Activity_Search/meet-santa-at-yates-mill-morning/9474?locale=en-US",
+              "cost": "Free",
+              "lat": 35.72157134974476,
+              "lon": -78.68526087901417,
+              "ages": null,
+              "registration": false,
+              "indoor": false,
+              "area": "raleigh",
+              "source": "wake-parks",
+              "dropIn": false
+            }
+          },
+          "alternatives": [
+            {
+              "ref": "event:wake:25081",
+              "arrive": "09:50",
+              "leave": "12:15",
+              "why": "Your child can hear an interactive read-aloud of The Polar Express with train activities at 10:00 am. Then {they} can run at Falcon Park.",
+              "tips": [
+                "Bring a snack for the park, not the story.",
+                "Tell your child the park is next, so leaving the library is easier."
+              ],
+              "interests": [
+                "stories",
+                "vehicles",
+                "movement"
+              ],
+              "also": [
+                {
+                  "ref": "place:falcon-park",
+                  "source": {
+                    "kind": "park",
+                    "title": "Falcon Park",
+                    "address": "611 E. Academy Street, Fuquay-Varina, NC",
+                    "lat": 35.5858018605673,
+                    "lon": -78.79303938673571,
+                    "url": "https://www.fuquay-varina.org/Facilities/Facility/Details/9",
+                    "amenities": [
+                      "playground",
+                      "picnic-shelter",
+                      "restroom",
+                      "greenway"
+                    ],
+                    "indoor": false,
+                    "area": "south-wake",
+                    "hours": null,
+                    "cost": "Free"
+                  }
+                }
+              ],
+              "area": "south-wake",
+              "outdoor": false,
+              "source": {
+                "kind": "event",
+                "title": "The Polar Express",
+                "start": "2026-12-05T10:00:00-05:00",
+                "end": "2026-12-05T11:00:00-05:00",
+                "venue": "Fuquay-Varina Community Library",
+                "address": "271 Bramblehill Drive, Fuquay-Varina, NC",
+                "url": "https://www.wake.gov/events/polar-express-0",
+                "cost": "Free",
+                "lat": 35.5850617253451,
+                "lon": -78.7802518504044,
+                "ages": "All Ages",
+                "registration": null,
+                "indoor": true,
+                "area": "south-wake",
+                "source": "wake-county",
+                "dropIn": false
+              }
+            },
+            {
+              "ref": "event:museum:durham-central-park:13956",
+              "arrive": "09:00",
+              "leave": "11:30",
+              "why": "Wander the DFM Winter Market at Durham Central Park, then let {them} burn off energy at the playground there.",
+              "tips": [
+                "Hold hands in the busy market. Let {them} lead you to the playground after.",
+                "Bring a snack for the playground."
+              ],
+              "interests": [
+                "movement"
+              ],
+              "also": [
+                {
+                  "ref": "place:durham-central-park",
+                  "source": {
+                    "kind": "park",
+                    "title": "Durham Central Park",
+                    "address": "501 Foster St, Durham, NC",
+                    "lat": 36.0006525,
+                    "lon": -78.90071999999999,
+                    "url": "https://www.dprplaymore.org/Facilities/Facility/Details/Durham-Central-Park-18",
+                    "amenities": [
+                      "playground",
+                      "restroom",
+                      "greenway"
+                    ],
+                    "indoor": false,
+                    "area": "durham",
+                    "hours": null,
+                    "cost": "Free"
+                  }
+                }
+              ],
+              "area": "durham",
+              "outdoor": true,
+              "source": {
+                "kind": "event",
+                "title": "DFM Winter Market",
+                "start": "2026-12-05T09:00:00",
+                "end": "2026-12-05T12:00:00",
+                "venue": "Durham Central Park",
+                "address": "501 Foster Street, Durham, NC, 27701",
+                "url": "https://durhamcentralpark.org/upcoming-event/dfm-winter-market-2/2026-12-05/",
+                "cost": null,
+                "lat": 36.0008,
+                "lon": -78.9021,
+                "ages": null,
+                "registration": null,
+                "indoor": false,
+                "area": "durham",
+                "source": "museum",
+                "dropIn": true
+              }
+            },
+            {
+              "ref": "event:museum:marbles:49038",
+              "arrive": "10:00",
+              "leave": "12:15",
+              "why": "Make music at the drop-in Music Makers at Marbles Kids Museum, then head to John Chavis Memorial Park. It has a playground and a carousel.",
+              "tips": [
+                "Let your child pick an instrument and play as long as {they} like{s}.",
+                "Leave the museum with a cheerful 'park next' plan."
+              ],
+              "interests": [
+                "music",
+                "movement"
+              ],
+              "also": [
+                {
+                  "ref": "place:john-chavis-memorial-park",
+                  "source": {
+                    "kind": "park",
+                    "title": "John Chavis Memorial Park",
+                    "address": "505 Martin Luther King Jr Blvd, Raleigh, NC 27601",
+                    "lat": 35.7698,
+                    "lon": -78.63021,
+                    "url": "https://raleighnc.gov/parks-and-recreation/places/john-chavis-memorial-park",
+                    "amenities": [
+                      "community-center",
+                      "playground",
+                      "carousel",
+                      "fields"
+                    ],
+                    "indoor": false,
+                    "area": "raleigh",
+                    "hours": null,
+                    "cost": "Free"
+                  }
+                }
+              ],
+              "area": "raleigh",
+              "outdoor": false,
+              "source": {
+                "kind": "event",
+                "title": "Music Makers",
+                "start": "2026-12-05T10:00:00",
+                "end": "2026-12-05T13:00:00",
+                "venue": "Marbles Kids Museum",
+                "address": "201 E Hargett St, Raleigh, NC 27601",
+                "url": "https://marbleskidsmuseum.org/event/49149/",
+                "cost": "Museum admission $12.50 at the door, $9.50 bought ahead; under 1 free",
+                "lat": 35.7789,
+                "lon": -78.6361,
+                "ages": "Included with Admission Non-ticketed",
+                "registration": null,
+                "indoor": true,
+                "area": "raleigh",
+                "source": "museum",
+                "dropIn": true
+              }
+            },
+            {
+              "ref": "event:dix-park:/event/frost-fest:2026-12-05",
+              "arrive": "15:00",
+              "leave": "16:45",
+              "why": "Drop in at Frost Fest at Gipson Play Plaza in Dix Park and stay as long as {they} like{s}. It is a big playground.",
+              "tips": [
+                "Bring a snack for a bench break.",
+                "Give a ten-minute warning before you leave."
+              ],
+              "interests": [
+                "movement"
+              ],
+              "also": [],
+              "area": "raleigh",
+              "outdoor": true,
+              "source": {
+                "kind": "event",
+                "title": "Frost Fest",
+                "start": "2026-12-05T14:00:00",
+                "end": "2026-12-05T21:00:00",
+                "venue": "Gipson Play Plaza, Dix Park",
+                "address": "715 Biggs Dr, Raleigh, NC 27603",
+                "url": "https://dixpark.org/event/frost-fest",
+                "cost": null,
+                "lat": 35.7667,
+                "lon": -78.6539,
+                "ages": null,
+                "registration": null,
+                "indoor": false,
+                "area": "raleigh",
+                "source": "dix-park",
+                "dropIn": true
+              }
+            }
+          ],
+          "rainBackup": null,
+          "timeline": [
+            {
+              "start": "07:00",
+              "end": "07:30",
+              "kind": "meal",
+              "title": "Up and breakfast"
+            },
+            {
+              "start": "07:30",
+              "end": "09:20",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "09:20",
+              "end": "09:40",
+              "kind": "routine",
+              "title": "Get ready to go",
+              "detail": "Shoes on, the bag, water and a snack."
+            },
+            {
+              "start": "09:40",
+              "end": "10:00",
+              "kind": "travel",
+              "title": "Drive to Historic Yates Mill County Park"
+            },
+            {
+              "start": "10:00",
+              "end": "11:45",
+              "kind": "outing",
+              "title": "Historic Yates Mill County Park"
+            },
+            {
+              "start": "11:45",
+              "end": "12:05",
+              "kind": "travel",
+              "title": "Drive home"
+            },
+            {
+              "start": "12:05",
+              "end": "12:15",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "12:15",
+              "end": "12:45",
+              "kind": "meal",
+              "title": "Lunch"
+            },
+            {
+              "start": "12:45",
+              "end": "13:00",
+              "kind": "quiet",
+              "title": "Wind down",
+              "detail": "A couple of books to settle."
+            },
+            {
+              "start": "13:00",
+              "end": "14:30",
+              "kind": "nap",
+              "title": "Nap"
+            },
+            {
+              "start": "14:30",
+              "end": "14:50",
+              "kind": "routine",
+              "title": "Up and a snack"
+            },
+            {
+              "start": "14:50",
+              "end": "18:30",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "18:30",
+              "end": "19:15",
+              "kind": "meal",
+              "title": "Dinner"
+            },
+            {
+              "start": "19:15",
+              "end": "20:00",
+              "kind": "routine",
+              "title": "Bath, books and bed"
+            }
+          ]
+        },
+        {
+          "nap": "quiet",
+          "napLabel": "Quiet time, no sleep",
+          "headline": "Browse a winter market, then play at the park",
+          "main": {
+            "ref": "event:museum:durham-central-park:13956",
+            "arrive": "09:00",
+            "leave": "11:30",
+            "why": "Wander the DFM Winter Market at Durham Central Park, which is a drop-in. Then your child can run off energy at the playground.",
+            "tips": [
+              "Hold hands in the market crowd. Let {them} lead you to the playground after.",
+              "Bring a snack for the playground."
+            ],
+            "interests": [
+              "movement"
+            ],
+            "also": [
+              {
+                "ref": "place:durham-central-park",
+                "source": {
+                  "kind": "park",
+                  "title": "Durham Central Park",
+                  "address": "501 Foster St, Durham, NC",
+                  "lat": 36.0006525,
+                  "lon": -78.90071999999999,
+                  "url": "https://www.dprplaymore.org/Facilities/Facility/Details/Durham-Central-Park-18",
+                  "amenities": [
+                    "playground",
+                    "restroom",
+                    "greenway"
+                  ],
+                  "indoor": false,
+                  "area": "durham",
+                  "hours": null,
+                  "cost": "Free"
+                }
+              }
+            ],
+            "area": "durham",
+            "outdoor": true,
+            "source": {
+              "kind": "event",
+              "title": "DFM Winter Market",
+              "start": "2026-12-05T09:00:00",
+              "end": "2026-12-05T12:00:00",
+              "venue": "Durham Central Park",
+              "address": "501 Foster Street, Durham, NC, 27701",
+              "url": "https://durhamcentralpark.org/upcoming-event/dfm-winter-market-2/2026-12-05/",
+              "cost": null,
+              "lat": 36.0008,
+              "lon": -78.9021,
+              "ages": null,
+              "registration": null,
+              "indoor": false,
+              "area": "durham",
+              "source": "museum",
+              "dropIn": true
+            }
+          },
+          "alternatives": [
+            {
+              "ref": "event:wake:25081",
+              "arrive": "09:50",
+              "leave": "12:15",
+              "why": "Your child can hear an interactive read-aloud of The Polar Express with train activities at 10:00 am. Then {they} can run at Falcon Park.",
+              "tips": [
+                "Bring a snack for the park, not the story.",
+                "Tell your child the park is next, so leaving the library is easier."
+              ],
+              "interests": [
+                "stories",
+                "vehicles",
+                "movement"
+              ],
+              "also": [
+                {
+                  "ref": "place:falcon-park",
+                  "source": {
+                    "kind": "park",
+                    "title": "Falcon Park",
+                    "address": "611 E. Academy Street, Fuquay-Varina, NC",
+                    "lat": 35.5858018605673,
+                    "lon": -78.79303938673571,
+                    "url": "https://www.fuquay-varina.org/Facilities/Facility/Details/9",
+                    "amenities": [
+                      "playground",
+                      "picnic-shelter",
+                      "restroom",
+                      "greenway"
+                    ],
+                    "indoor": false,
+                    "area": "south-wake",
+                    "hours": null,
+                    "cost": "Free"
+                  }
+                }
+              ],
+              "area": "south-wake",
+              "outdoor": false,
+              "source": {
+                "kind": "event",
+                "title": "The Polar Express",
+                "start": "2026-12-05T10:00:00-05:00",
+                "end": "2026-12-05T11:00:00-05:00",
+                "venue": "Fuquay-Varina Community Library",
+                "address": "271 Bramblehill Drive, Fuquay-Varina, NC",
+                "url": "https://www.wake.gov/events/polar-express-0",
+                "cost": "Free",
+                "lat": 35.5850617253451,
+                "lon": -78.7802518504044,
+                "ages": "All Ages",
+                "registration": null,
+                "indoor": true,
+                "area": "south-wake",
+                "source": "wake-county",
+                "dropIn": false
+              }
+            },
+            {
+              "ref": "event:museum:ncma:6586",
+              "arrive": "10:20",
+              "leave": "12:00",
+              "why": "Take the 10:30 am Family-Friendly Tour at the NC Museum of Art, then let your child roam the lawns and trails of Museum Park.",
+              "tips": [
+                "Let your child point out a favorite picture on the tour.",
+                "Bring a snack and eat it outside after the tour."
+              ],
+              "interests": [
+                "art",
+                "nature",
+                "movement"
+              ],
+              "also": [
+                {
+                  "ref": "place:ncma-museum-park",
+                  "source": {
+                    "kind": "garden",
+                    "title": "NC Museum of Art Museum Park",
+                    "address": "2110 Blue Ridge Rd, Raleigh, NC 27607",
+                    "lat": 35.8105,
+                    "lon": -78.7022,
+                    "url": "https://ncartmuseum.org/museum-park/",
+                    "amenities": [
+                      "garden",
+                      "nature",
+                      "greenway",
+                      "restroom"
+                    ],
+                    "indoor": false,
+                    "area": "raleigh",
+                    "hours": {
+                      "sun": "dawn to dusk",
+                      "mon": "dawn to dusk",
+                      "tue": "dawn to dusk",
+                      "wed": "dawn to dusk",
+                      "thu": "dawn to dusk",
+                      "fri": "dawn to dusk",
+                      "sat": "dawn to dusk"
+                    },
+                    "cost": "Free",
+                    "note": "Free. 164 acres of trails, lawns and big outdoor art; the Capital Area Greenway runs through."
+                  }
+                }
+              ],
+              "area": "raleigh",
+              "outdoor": false,
+              "source": {
+                "kind": "event",
+                "title": "Family-Friendly Tours",
+                "start": "2026-12-05T10:30:00",
+                "end": "2026-12-05T11:00:00",
+                "venue": "NC Museum of Art",
+                "address": "2110 Blue Ridge Rd, Raleigh, NC 27607",
+                "url": "https://ncartmuseum.org/event/family-friendly-tours-7/",
+                "cost": "Museum and park admission is free",
+                "lat": 35.8105,
+                "lon": -78.7022,
+                "ages": "Families Tours",
+                "registration": null,
+                "indoor": true,
+                "area": "raleigh",
+                "source": "museum",
+                "dropIn": false
+              }
+            },
+            {
+              "ref": "place:nc-botanical-garden",
+              "arrive": "09:30",
+              "leave": "11:30",
+              "why": "Your child can walk the display gardens and the nature trails through the forest behind them.",
+              "tips": [
+                "Bring water and a snack for a bench break.",
+                "Let {them} choose which path to take at each turn."
+              ],
+              "interests": [
+                "nature",
+                "movement"
+              ],
+              "also": [],
+              "area": "chapel-hill",
+              "outdoor": true,
+              "source": {
+                "kind": "garden",
+                "title": "NC Botanical Garden",
+                "address": "100 Old Mason Farm Rd, Chapel Hill, NC 27517",
+                "lat": 35.9011,
+                "lon": -79.0319,
+                "url": "https://ncbg.unc.edu/visit/",
+                "amenities": [
+                  "garden",
+                  "nature",
+                  "restroom"
+                ],
+                "indoor": false,
+                "area": "chapel-hill",
+                "cost": "Free",
+                "note": "Free. Display gardens, and nature trails through the forest behind them."
+              }
+            },
+            {
+              "ref": "event:wake:24664",
+              "arrive": "13:50",
+              "leave": "16:40",
+              "why": "Join Eva Perry Regional Library's 30th anniversary party at 2:00 pm for activities. Then stretch at Apex Community Park.",
+              "tips": [
+                "Pick one activity to try, so the party does not feel like too much.",
+                "Bring a snack for the park."
+              ],
+              "interests": [
+                "stories",
+                "movement"
+              ],
+              "also": [
+                {
+                  "ref": "place:apex-community-park",
+                  "source": {
+                    "kind": "park",
+                    "title": "Apex Community Park",
+                    "address": "2200 Laura Duncan Rd., Apex, NC",
+                    "lat": 35.75461588131496,
+                    "lon": -78.82862025650613,
+                    "url": "http://www.apexnc.org/795/Apex-Community-Park",
+                    "amenities": [
+                      "playground",
+                      "picnic-shelter",
+                      "restroom",
+                      "greenway"
+                    ],
+                    "indoor": false,
+                    "area": "cary-apex",
+                    "hours": null,
+                    "cost": "Free"
+                  }
+                }
+              ],
+              "area": "cary-apex",
+              "outdoor": false,
+              "source": {
+                "kind": "event",
+                "title": "Eva Perry Regional Library's 30th Year Anniversary.",
+                "start": "2026-12-05T14:00:00-05:00",
+                "end": "2026-12-05T16:00:00-05:00",
+                "venue": "Eva Perry Regional Library",
+                "address": "2100 Shepherds Vineyard Drive, Apex, NC",
+                "url": "https://www.wake.gov/events/eva-perry-regional-librarys-30th-year-anniversary",
+                "cost": "Free",
+                "lat": 35.7437832024768,
+                "lon": -78.8251607833066,
+                "ages": "All Ages",
+                "registration": null,
+                "indoor": true,
+                "area": "cary-apex",
+                "source": "wake-county",
+                "dropIn": false
+              }
+            }
+          ],
+          "rainBackup": null,
+          "timeline": [
+            {
+              "start": "07:00",
+              "end": "07:30",
+              "kind": "meal",
+              "title": "Up and breakfast"
+            },
+            {
+              "start": "07:30",
+              "end": "08:20",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "08:20",
+              "end": "08:40",
+              "kind": "routine",
+              "title": "Get ready to go",
+              "detail": "Shoes on, the bag, water and a snack."
+            },
+            {
+              "start": "08:40",
+              "end": "09:00",
+              "kind": "travel",
+              "title": "Drive to Durham Central Park"
+            },
+            {
+              "start": "09:00",
+              "end": "11:30",
+              "kind": "outing",
+              "title": "Durham Central Park"
+            },
+            {
+              "start": "11:30",
+              "end": "11:50",
+              "kind": "travel",
+              "title": "Drive home"
+            },
+            {
+              "start": "11:50",
+              "end": "12:20",
+              "kind": "meal",
+              "title": "Lunch"
+            },
+            {
+              "start": "12:20",
+              "end": "13:00",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "13:00",
+              "end": "13:45",
+              "kind": "quiet",
+              "title": "Quiet time",
+              "detail": "Books or quiet play in their room."
+            },
+            {
+              "start": "13:45",
+              "end": "18:00",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "18:00",
+              "end": "18:45",
+              "kind": "meal",
+              "title": "Dinner"
+            },
+            {
+              "start": "18:45",
+              "end": "19:30",
+              "kind": "routine",
+              "title": "Bath, books and bed"
+            }
+          ]
+        },
+        {
+          "nap": "no-nap",
+          "napLabel": "No nap",
+          "headline": "Ride The Polar Express story, then run at the park",
+          "main": {
+            "ref": "event:wake:25081",
+            "arrive": "09:50",
+            "leave": "12:15",
+            "why": "Your child can join an interactive read-aloud of The Polar Express with train activities at 10:00 am. Then {they} can run around at Falcon Park.",
+            "tips": [
+              "Bring a snack for the park, not the story.",
+              "Tell your child the park is next, so leaving the library is easier.",
+              "Let {them} be the train conductor on the walk to the park."
+            ],
+            "interests": [
+              "stories",
+              "vehicles",
+              "movement"
+            ],
+            "also": [
+              {
+                "ref": "place:falcon-park",
+                "source": {
+                  "kind": "park",
+                  "title": "Falcon Park",
+                  "address": "611 E. Academy Street, Fuquay-Varina, NC",
+                  "lat": 35.5858018605673,
+                  "lon": -78.79303938673571,
+                  "url": "https://www.fuquay-varina.org/Facilities/Facility/Details/9",
+                  "amenities": [
+                    "playground",
+                    "picnic-shelter",
+                    "restroom",
+                    "greenway"
+                  ],
+                  "indoor": false,
+                  "area": "south-wake",
+                  "hours": null,
+                  "cost": "Free"
+                }
+              }
+            ],
+            "area": "south-wake",
+            "outdoor": false,
+            "source": {
+              "kind": "event",
+              "title": "The Polar Express",
+              "start": "2026-12-05T10:00:00-05:00",
+              "end": "2026-12-05T11:00:00-05:00",
+              "venue": "Fuquay-Varina Community Library",
+              "address": "271 Bramblehill Drive, Fuquay-Varina, NC",
+              "url": "https://www.wake.gov/events/polar-express-0",
+              "cost": "Free",
+              "lat": 35.5850617253451,
+              "lon": -78.7802518504044,
+              "ages": "All Ages",
+              "registration": null,
+              "indoor": true,
+              "area": "south-wake",
+              "source": "wake-county",
+              "dropIn": false
+            }
+          },
+          "alternatives": [
+            {
+              "ref": "event:wake-parks:9474",
+              "arrive": "10:00",
+              "leave": "11:45",
+              "why": "Your child can meet Santa inside the historic gristmill at the free Meet Santa at Yates Mill event. The park also has holiday crafts.",
+              "tips": [
+                "Have your phone ready. Volunteers will take a photo of your child with Santa.",
+                "Let {them} hang back if {they} {is} shy."
+              ],
+              "interests": [
+                "art",
+                "nature"
+              ],
+              "also": [],
+              "area": "raleigh",
+              "outdoor": true,
+              "source": {
+                "kind": "event",
+                "title": "Meet Santa at Yates Mill (morning)",
+                "start": "2026-12-05T10:00:00",
+                "end": "2026-12-05T12:00:00",
+                "venue": "Historic Yates Mill County Park",
+                "address": "4620 Lake Wheeler Rd., Raleigh, NC  27603",
+                "url": "https://apm.activecommunities.com/wakeparks/Activity_Search/meet-santa-at-yates-mill-morning/9474?locale=en-US",
+                "cost": "Free",
+                "lat": 35.72157134974476,
+                "lon": -78.68526087901417,
+                "ages": null,
+                "registration": false,
+                "indoor": false,
+                "area": "raleigh",
+                "source": "wake-parks",
+                "dropIn": false
+              }
+            },
+            {
+              "ref": "event:wake:24664",
+              "arrive": "13:50",
+              "leave": "16:40",
+              "why": "Join Eva Perry Regional Library's 30th anniversary party at 2:00 pm for activities. Then stretch at Apex Community Park.",
+              "tips": [
+                "Pick one activity to try, so the party does not feel like too much.",
+                "Bring a snack for the park."
+              ],
+              "interests": [
+                "stories",
+                "movement"
+              ],
+              "also": [
+                {
+                  "ref": "place:apex-community-park",
+                  "source": {
+                    "kind": "park",
+                    "title": "Apex Community Park",
+                    "address": "2200 Laura Duncan Rd., Apex, NC",
+                    "lat": 35.75461588131496,
+                    "lon": -78.82862025650613,
+                    "url": "http://www.apexnc.org/795/Apex-Community-Park",
+                    "amenities": [
+                      "playground",
+                      "picnic-shelter",
+                      "restroom",
+                      "greenway"
+                    ],
+                    "indoor": false,
+                    "area": "cary-apex",
+                    "hours": null,
+                    "cost": "Free"
+                  }
+                }
+              ],
+              "area": "cary-apex",
+              "outdoor": false,
+              "source": {
+                "kind": "event",
+                "title": "Eva Perry Regional Library's 30th Year Anniversary.",
+                "start": "2026-12-05T14:00:00-05:00",
+                "end": "2026-12-05T16:00:00-05:00",
+                "venue": "Eva Perry Regional Library",
+                "address": "2100 Shepherds Vineyard Drive, Apex, NC",
+                "url": "https://www.wake.gov/events/eva-perry-regional-librarys-30th-year-anniversary",
+                "cost": "Free",
+                "lat": 35.7437832024768,
+                "lon": -78.8251607833066,
+                "ages": "All Ages",
+                "registration": null,
+                "indoor": true,
+                "area": "cary-apex",
+                "source": "wake-county",
+                "dropIn": false
+              }
+            },
+            {
+              "ref": "place:nc-botanical-garden",
+              "arrive": "09:30",
+              "leave": "12:00",
+              "why": "Your child can walk the display gardens and the nature trails through the forest behind them.",
+              "tips": [
+                "Bring water and a snack for a bench break.",
+                "Let {them} choose which path to take at each turn."
+              ],
+              "interests": [
+                "nature",
+                "movement"
+              ],
+              "also": [],
+              "area": "chapel-hill",
+              "outdoor": true,
+              "source": {
+                "kind": "garden",
+                "title": "NC Botanical Garden",
+                "address": "100 Old Mason Farm Rd, Chapel Hill, NC 27517",
+                "lat": 35.9011,
+                "lon": -79.0319,
+                "url": "https://ncbg.unc.edu/visit/",
+                "amenities": [
+                  "garden",
+                  "nature",
+                  "restroom"
+                ],
+                "indoor": false,
+                "area": "chapel-hill",
+                "cost": "Free",
+                "note": "Free. Display gardens, and nature trails through the forest behind them."
+              }
+            },
+            {
+              "ref": "event:museum:ncma:6586",
+              "arrive": "10:20",
+              "leave": "12:00",
+              "why": "Take the 10:30 am Family-Friendly Tour at the NC Museum of Art, then let your child roam the lawns and trails of Museum Park.",
+              "tips": [
+                "Let your child point out a favorite picture on the tour.",
+                "Bring a snack and eat it outside after the tour."
+              ],
+              "interests": [
+                "art",
+                "nature",
+                "movement"
+              ],
+              "also": [
+                {
+                  "ref": "place:ncma-museum-park",
+                  "source": {
+                    "kind": "garden",
+                    "title": "NC Museum of Art Museum Park",
+                    "address": "2110 Blue Ridge Rd, Raleigh, NC 27607",
+                    "lat": 35.8105,
+                    "lon": -78.7022,
+                    "url": "https://ncartmuseum.org/museum-park/",
+                    "amenities": [
+                      "garden",
+                      "nature",
+                      "greenway",
+                      "restroom"
+                    ],
+                    "indoor": false,
+                    "area": "raleigh",
+                    "hours": {
+                      "sun": "dawn to dusk",
+                      "mon": "dawn to dusk",
+                      "tue": "dawn to dusk",
+                      "wed": "dawn to dusk",
+                      "thu": "dawn to dusk",
+                      "fri": "dawn to dusk",
+                      "sat": "dawn to dusk"
+                    },
+                    "cost": "Free",
+                    "note": "Free. 164 acres of trails, lawns and big outdoor art; the Capital Area Greenway runs through."
+                  }
+                }
+              ],
+              "area": "raleigh",
+              "outdoor": false,
+              "source": {
+                "kind": "event",
+                "title": "Family-Friendly Tours",
+                "start": "2026-12-05T10:30:00",
+                "end": "2026-12-05T11:00:00",
+                "venue": "NC Museum of Art",
+                "address": "2110 Blue Ridge Rd, Raleigh, NC 27607",
+                "url": "https://ncartmuseum.org/event/family-friendly-tours-7/",
+                "cost": "Museum and park admission is free",
+                "lat": 35.8105,
+                "lon": -78.7022,
+                "ages": "Families Tours",
+                "registration": null,
+                "indoor": true,
+                "area": "raleigh",
+                "source": "museum",
+                "dropIn": false
+              }
+            }
+          ],
+          "rainBackup": null,
+          "timeline": [
+            {
+              "start": "07:00",
+              "end": "07:30",
+              "kind": "meal",
+              "title": "Up and breakfast"
+            },
+            {
+              "start": "07:30",
+              "end": "09:10",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "09:10",
+              "end": "09:30",
+              "kind": "routine",
+              "title": "Get ready to go",
+              "detail": "Shoes on, the bag, water and a snack."
+            },
+            {
+              "start": "09:30",
+              "end": "09:50",
+              "kind": "travel",
+              "title": "Drive to Fuquay-Varina Community Library"
+            },
+            {
+              "start": "09:50",
+              "end": "11:00",
+              "kind": "outing",
+              "title": "The Polar Express",
+              "detail": "Pack a lunch to eat there."
+            },
+            {
+              "start": "11:00",
+              "end": "11:10",
+              "kind": "travel",
+              "title": "Drive to Falcon Park"
+            },
+            {
+              "start": "11:10",
+              "end": "12:15",
+              "kind": "outing",
+              "title": "Falcon Park"
+            },
+            {
+              "start": "12:15",
+              "end": "12:35",
+              "kind": "travel",
+              "title": "Drive home"
+            },
+            {
+              "start": "12:35",
+              "end": "18:00",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "18:00",
+              "end": "18:45",
+              "kind": "meal",
+              "title": "Dinner"
+            },
+            {
+              "start": "18:45",
+              "end": "19:30",
+              "kind": "routine",
+              "title": "Bath, books and bed"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "checked": {
+    "at": "2026-11-27T11:03:44.835Z",
+    "forecast": "none",
+    "weather": null,
+    "hidden": []
+  }
+}

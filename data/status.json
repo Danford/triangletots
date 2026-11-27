@@ -1,0 +1,30 @@
+{
+  "builtAt": "2026-11-27T11:08:48.116Z",
+  "today": "2026-11-27",
+  "plannedDays": 14,
+  "horizonDays": 14,
+  "lastDay": "2026-12-10",
+  "audit": {
+    "hard": 2,
+    "soft": 13,
+    "rules": {
+      "stops-apart": {
+        "hard": true,
+        "main": 0,
+        "other": 2
+      },
+      "shift-across-town": {
+        "hard": false,
+        "main": 12,
+        "other": 0
+      },
+      "repeat": {
+        "hard": false,
+        "main": 1,
+        "other": 0
+      }
+    }
+  },
+  "guides": 20,
+  "guidesFailed": []
+}

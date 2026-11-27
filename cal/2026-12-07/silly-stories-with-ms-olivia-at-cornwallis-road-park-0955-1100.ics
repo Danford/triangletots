@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Triangle Tots//triangletots.com//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:2026-12-07-silly-stories-with-ms-olivia-at-cornwallis-road-park-0955-11
+ 00@triangletots.com
+DTSTAMP:20261127T100000Z
+DTSTART:20261207T145500Z
+DTEND:20261207T160000Z
+SUMMARY:Silly Stories with Ms. Olivia at Cornwallis Road Park
+LOCATION:2830 Wade Rd\, Durham\, NC
+DESCRIPTION:https://www.dprplaymore.org/Facilities/Facility/Details/Cornwal
+ lis-Road-Park-13\nhttps://durhamcountylibrary.libcal.com/event/15558960\nT
+ he whole day: https://triangletots.com/2026-12-07/t1/\nTimes and details c
+ an change. Check the event or place before you go.
+END:VEVENT
+END:VCALENDAR

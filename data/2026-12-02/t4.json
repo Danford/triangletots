@@ -1,0 +1,1093 @@
+{
+  "date": "2026-12-02",
+  "band": "t4",
+  "versions": [
+    {
+      "at": "2026-11-19T11:05:25.682Z",
+      "reason": null,
+      "forecast": "none",
+      "weather": null,
+      "plans": [
+        {
+          "nap": "short-nap",
+          "napLabel": "Short nap, 1 to 2",
+          "headline": "Run at the park, then build with Legos",
+          "main": {
+            "ref": "place:cornwallis-road-park",
+            "arrive": "15:00",
+            "leave": "17:00",
+            "also": [
+              {
+                "ref": "event:libcal:durham-county-library:17489475",
+                "source": {
+                  "kind": "event",
+                  "title": "Lego Lab @ Southwest",
+                  "start": "2026-12-02T15:30:00",
+                  "end": "2026-12-02T17:00:00",
+                  "venue": "Southwest Regional Library",
+                  "address": "3605 Shannon Rd, Durham, NC",
+                  "url": "https://durhamcountylibrary.libcal.com/event/17489475",
+                  "cost": "Free",
+                  "lat": 35.95871978266895,
+                  "lon": -78.95455361473043,
+                  "ages": "Elementary School, Kindergarten, Pre-School",
+                  "registration": false,
+                  "indoor": true,
+                  "area": "durham",
+                  "source": "libcal",
+                  "dropIn": false
+                }
+              }
+            ],
+            "why": "Your child runs off energy at the park, then takes on the Lego Lab challenge of the day and builds for the first hour. At 4:30 pm {they} can help sort blocks.",
+            "tips": [
+              "Bring a snack for the park so {they} go{es} into the library with a full tummy.",
+              "Let {them} choose what to build and stay with the challenge as long as {they} like{s}.",
+              "Tell {them} early that the last job is sorting blocks, so leaving feels like part of the game."
+            ],
+            "interests": [
+              "science",
+              "movement"
+            ],
+            "area": "durham",
+            "outdoor": false,
+            "source": {
+              "kind": "park",
+              "title": "Cornwallis Road Park",
+              "address": "2830 Wade Rd, Durham, NC",
+              "lat": 35.97904,
+              "lon": -78.95229666666667,
+              "url": "https://www.dprplaymore.org/Facilities/Facility/Details/Cornwallis-Road-Park-13",
+              "amenities": [
+                "playground",
+                "restroom"
+              ],
+              "indoor": false,
+              "area": "durham",
+              "hours": null,
+              "cost": "Free"
+            }
+          },
+          "alternatives": [
+            {
+              "ref": "place:hillside-park",
+              "arrive": "09:30",
+              "leave": "12:00",
+              "also": [
+                {
+                  "ref": "event:durham-rec:19772:2026-12-02",
+                  "source": {
+                    "kind": "event",
+                    "title": "Total Tot Time",
+                    "start": "2026-12-02T10:00:00",
+                    "end": "2026-12-02T12:00:00",
+                    "venue": "W.D. Hill Rec Ctr",
+                    "address": "1308 Fayetteville St, Durham, NC",
+                    "url": "https://apm.activecommunities.com/dprplaymore/Activity_Search/total-tot-time/19772?locale=en-US",
+                    "cost": null,
+                    "lat": 35.9797,
+                    "lon": -78.8985,
+                    "ages": "1 - 6",
+                    "registration": "https://apm.activecommunities.com/dprplaymore/Activity_Search/total-tot-time/19772?locale=en-US",
+                    "indoor": true,
+                    "area": "durham",
+                    "source": "durham-rec",
+                    "dropIn": false
+                  }
+                }
+              ],
+              "why": "A short play at the park, then Total Tot Time in the gym with a parachute and tunnels. A family needs to sign up for it.",
+              "tips": [
+                "Sign up ahead of time.",
+                "Wear shoes {they} can run in for the gym."
+              ],
+              "interests": [
+                "movement"
+              ],
+              "area": "durham",
+              "outdoor": false,
+              "source": {
+                "kind": "park",
+                "title": "Hillside Park",
+                "address": "1301 S Roxboro St, Durham, NC",
+                "lat": 35.98093222222222,
+                "lon": -78.90178333333333,
+                "url": "https://www.dprplaymore.org/Facilities/Facility/Details/Hillside-Park-32",
+                "amenities": [
+                  "playground",
+                  "splashpad",
+                  "pool",
+                  "picnic-shelter",
+                  "restroom"
+                ],
+                "indoor": false,
+                "area": "durham",
+                "hours": null,
+                "cost": "Free"
+              }
+            },
+            {
+              "ref": "place:gipson-play-plaza",
+              "arrive": "09:00",
+              "leave": "11:30",
+              "why": "A big destination playground gives your child room to climb, slide and run before lunch.",
+              "tips": [
+                "Bring a water bottle and a snack.",
+                "Give a ten minute warning before you leave and name the next thing, like lunch."
+              ],
+              "interests": [
+                "movement"
+              ],
+              "also": [],
+              "area": "raleigh",
+              "outdoor": true,
+              "source": {
+                "kind": "park",
+                "title": "Gipson Play Plaza at Dix Park",
+                "address": "715 Biggs Dr, Raleigh, NC 27603",
+                "lat": 35.7667,
+                "lon": -78.6539,
+                "url": "https://dixpark.org/gipson-play-plaza",
+                "amenities": [
+                  "playground",
+                  "restroom"
+                ],
+                "indoor": false,
+                "area": "raleigh",
+                "hours": {
+                  "sun": "8 a.m.–9 p.m.",
+                  "mon": "8 a.m.–9 p.m.",
+                  "tue": "8 a.m.–9 p.m.",
+                  "wed": "8 a.m.–9 p.m.",
+                  "thu": "8 a.m.–9 p.m.",
+                  "fri": "8 a.m.–9 p.m.",
+                  "sat": "8 a.m.–9 p.m."
+                },
+                "cost": "Free",
+                "note": "Free; free parking. Big destination playground on the south edge of Dix Park."
+              }
+            },
+            {
+              "ref": "place:crowder-county-park",
+              "arrive": "09:30",
+              "leave": "11:30",
+              "why": "Your child can play on the playground and explore the garden and greenway at {their} own pace.",
+              "tips": [
+                "Bring a bag for leaves and sticks {they} collect.",
+                "Pack a snack for a picnic shelter break."
+              ],
+              "interests": [
+                "nature",
+                "movement"
+              ],
+              "also": [],
+              "area": "cary-apex",
+              "outdoor": true,
+              "source": {
+                "kind": "park",
+                "title": "Crowder County Park",
+                "address": "4709 Ten Ten Road",
+                "lat": 35.69174392711247,
+                "lon": -78.76585678897689,
+                "url": "https://www.wakegov.com/departments-government/parks-recreation-and-open-space/all-parks-trails/crowder-county-park",
+                "amenities": [
+                  "playground",
+                  "picnic-shelter",
+                  "restroom",
+                  "greenway",
+                  "garden"
+                ],
+                "indoor": false,
+                "area": "cary-apex",
+                "hours": null,
+                "cost": "Free"
+              }
+            },
+            {
+              "ref": "place:wendell-park",
+              "arrive": "15:00",
+              "leave": "16:30",
+              "why": "An easy afternoon after the nap: playground time and a walk on the greenway before the light fades.",
+              "tips": [
+                "Bring a snack and a layer for the late afternoon.",
+                "Head out while the sun is still up so leaving is calm."
+              ],
+              "interests": [
+                "movement",
+                "nature"
+              ],
+              "also": [],
+              "area": "east-wake",
+              "outdoor": true,
+              "source": {
+                "kind": "park",
+                "title": "Wendell Park",
+                "address": "601 W. Third Street, Wendell, NC",
+                "lat": 35.78171909213524,
+                "lon": -78.37858290652449,
+                "url": "https://townofwendellnc.gov/departments/parks_and_recreation/facilities___rentals/index.php",
+                "amenities": [
+                  "playground",
+                  "picnic-shelter",
+                  "restroom",
+                  "greenway"
+                ],
+                "indoor": false,
+                "area": "east-wake",
+                "hours": null,
+                "cost": "Free"
+              }
+            }
+          ],
+          "rainBackup": null,
+          "timeline": [
+            {
+              "start": "07:00",
+              "end": "07:30",
+              "kind": "meal",
+              "title": "Up and breakfast"
+            },
+            {
+              "start": "07:30",
+              "end": "12:15",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "12:15",
+              "end": "12:45",
+              "kind": "meal",
+              "title": "Lunch"
+            },
+            {
+              "start": "12:45",
+              "end": "13:00",
+              "kind": "quiet",
+              "title": "Wind down",
+              "detail": "A couple of books to settle."
+            },
+            {
+              "start": "13:00",
+              "end": "14:00",
+              "kind": "nap",
+              "title": "Nap"
+            },
+            {
+              "start": "14:00",
+              "end": "14:20",
+              "kind": "routine",
+              "title": "Up and a snack"
+            },
+            {
+              "start": "14:20",
+              "end": "14:40",
+              "kind": "routine",
+              "title": "Get ready to go",
+              "detail": "Shoes on, the bag, water and a snack."
+            },
+            {
+              "start": "14:40",
+              "end": "15:00",
+              "kind": "travel",
+              "title": "Drive to Cornwallis Road Park"
+            },
+            {
+              "start": "15:00",
+              "end": "15:20",
+              "kind": "outing",
+              "title": "Cornwallis Road Park"
+            },
+            {
+              "start": "15:20",
+              "end": "15:30",
+              "kind": "travel",
+              "title": "Drive to Southwest Regional Library"
+            },
+            {
+              "start": "15:30",
+              "end": "17:00",
+              "kind": "outing",
+              "title": "Lego Lab @ Southwest"
+            },
+            {
+              "start": "17:00",
+              "end": "17:20",
+              "kind": "travel",
+              "title": "Drive home"
+            },
+            {
+              "start": "17:20",
+              "end": "18:30",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "18:30",
+              "end": "19:15",
+              "kind": "meal",
+              "title": "Dinner"
+            },
+            {
+              "start": "19:15",
+              "end": "20:00",
+              "kind": "routine",
+              "title": "Bath, books and bed"
+            }
+          ]
+        },
+        {
+          "nap": "quiet",
+          "napLabel": "Quiet time",
+          "headline": "Walk the boardwalks at Hemlock Bluffs",
+          "main": {
+            "ref": "place:hemlock-bluffs",
+            "arrive": "09:30",
+            "leave": "11:30",
+            "why": "Your child can explore mulched trails and boardwalks through the woods, with stairs to climb along the way.",
+            "tips": [
+              "Bring a snack and a water bottle for a trail break.",
+              "Let {them} lead and pick which way to go at each turn.",
+              "Count the stairs together to keep little legs going."
+            ],
+            "interests": [
+              "nature",
+              "movement"
+            ],
+            "also": [],
+            "area": "cary-apex",
+            "outdoor": true,
+            "source": {
+              "kind": "park",
+              "title": "Hemlock Bluffs Nature Preserve",
+              "address": "2616 Kildaire Farm Rd, Cary, NC 27518",
+              "lat": 35.7253,
+              "lon": -78.7846,
+              "url": "https://www.carync.gov/recreation-enjoyment/parks-greenways-environment/parks/stevens-nature-center-at-hemlock-bluffs-nature-preserve",
+              "amenities": [
+                "nature"
+              ],
+              "indoor": false,
+              "area": "cary-apex",
+              "hours": {
+                "sun": "9 a.m. to sunset",
+                "mon": "9 a.m. to sunset",
+                "tue": "9 a.m. to sunset",
+                "wed": "9 a.m. to sunset",
+                "thu": "9 a.m. to sunset",
+                "fri": "9 a.m. to sunset",
+                "sat": "9 a.m. to sunset"
+              },
+              "cost": "Free",
+              "note": "Free. About three miles of mulched trails and boardwalks with stairs (a carrier beats a stroller); restrooms in the Stevens Nature Center, open Mon–Sat 10–5, Sun 1–5."
+            }
+          },
+          "alternatives": [
+            {
+              "ref": "event:wake:25078",
+              "arrive": "13:50",
+              "leave": "15:40",
+              "also": [
+                {
+                  "ref": "place:library-park",
+                  "source": {
+                    "kind": "park",
+                    "title": "Library Park",
+                    "address": "116 South Aiken Street, Fuquay-Varina, NC",
+                    "lat": 35.583119998491554,
+                    "lon": -78.79818382147192,
+                    "url": "https://www.fuquay-varina.org/Facilities/Facility/Details/20",
+                    "amenities": [
+                      "playground",
+                      "picnic-shelter"
+                    ],
+                    "indoor": false,
+                    "area": "south-wake",
+                    "hours": null,
+                    "cost": "Free"
+                  }
+                }
+              ],
+              "why": "Your child hears a story and makes a craft at the Fuquay-Varina Community Library, a program for ages 3 to 5, then plays at Library Park.",
+              "tips": [
+                "Bring a snack for after the craft.",
+                "Let {them} carry the craft to the playground to show off."
+              ],
+              "interests": [
+                "stories",
+                "art",
+                "movement"
+              ],
+              "area": "south-wake",
+              "outdoor": false,
+              "source": {
+                "kind": "event",
+                "title": "Story & Craft",
+                "start": "2026-12-02T14:00:00-05:00",
+                "end": "2026-12-02T15:00:00-05:00",
+                "venue": "Fuquay-Varina Community Library",
+                "address": "271 Bramblehill Drive, Fuquay-Varina, NC",
+                "url": "https://www.wake.gov/events/story-craft",
+                "cost": "Free",
+                "lat": 35.5850617253451,
+                "lon": -78.7802518504044,
+                "ages": "Young Children",
+                "registration": null,
+                "indoor": true,
+                "area": "south-wake",
+                "source": "wake-county",
+                "dropIn": false
+              }
+            },
+            {
+              "ref": "place:campus-hills-park",
+              "arrive": "09:30",
+              "leave": "12:00",
+              "also": [
+                {
+                  "ref": "event:durham-rec:20088:2026-12-02",
+                  "source": {
+                    "kind": "event",
+                    "title": "Total Tot Time",
+                    "start": "2026-12-02T10:00:00",
+                    "end": "2026-12-02T12:00:00",
+                    "venue": "I.R. Holmes, Sr. Rec Ctr",
+                    "address": "2000 S Alston Ave, Durham, NC",
+                    "url": "https://apm.activecommunities.com/dprplaymore/Activity_Search/total-tot-time/20088?locale=en-US",
+                    "cost": null,
+                    "lat": 35.9619,
+                    "lon": -78.8908,
+                    "ages": "1 - 6",
+                    "registration": "https://apm.activecommunities.com/dprplaymore/Activity_Search/total-tot-time/20088?locale=en-US",
+                    "indoor": true,
+                    "area": "durham",
+                    "source": "durham-rec",
+                    "dropIn": false
+                  }
+                }
+              ],
+              "why": "A short play at the park, then Total Tot Time in the gym with a parachute and tunnels. A family needs to sign up for it.",
+              "tips": [
+                "Sign up ahead of time.",
+                "Wear shoes {they} can run in for the gym."
+              ],
+              "interests": [
+                "movement"
+              ],
+              "area": "durham",
+              "outdoor": false,
+              "source": {
+                "kind": "park",
+                "title": "Campus Hills Park",
+                "address": "2000 S Alston Ave, Durham, NC",
+                "lat": 35.962475999999995,
+                "lon": -78.891791,
+                "url": "https://www.dprplaymore.org/Facilities/Facility/Details/Campus-Hills-Park-10",
+                "amenities": [
+                  "playground",
+                  "picnic-shelter"
+                ],
+                "indoor": false,
+                "area": "durham",
+                "hours": null,
+                "cost": "Free"
+              }
+            },
+            {
+              "ref": "place:gipson-play-plaza",
+              "arrive": "09:00",
+              "leave": "11:30",
+              "why": "A big destination playground gives your child room to climb, slide and run before lunch.",
+              "tips": [
+                "Bring a water bottle and a snack.",
+                "Give a ten minute warning before you leave."
+              ],
+              "interests": [
+                "movement"
+              ],
+              "also": [],
+              "area": "raleigh",
+              "outdoor": true,
+              "source": {
+                "kind": "park",
+                "title": "Gipson Play Plaza at Dix Park",
+                "address": "715 Biggs Dr, Raleigh, NC 27603",
+                "lat": 35.7667,
+                "lon": -78.6539,
+                "url": "https://dixpark.org/gipson-play-plaza",
+                "amenities": [
+                  "playground",
+                  "restroom"
+                ],
+                "indoor": false,
+                "area": "raleigh",
+                "hours": {
+                  "sun": "8 a.m.–9 p.m.",
+                  "mon": "8 a.m.–9 p.m.",
+                  "tue": "8 a.m.–9 p.m.",
+                  "wed": "8 a.m.–9 p.m.",
+                  "thu": "8 a.m.–9 p.m.",
+                  "fri": "8 a.m.–9 p.m.",
+                  "sat": "8 a.m.–9 p.m."
+                },
+                "cost": "Free",
+                "note": "Free; free parking. Big destination playground on the south edge of Dix Park."
+              }
+            },
+            {
+              "ref": "place:wendell-park",
+              "arrive": "14:30",
+              "leave": "16:30",
+              "why": "After quiet time, your child can play on the playground and walk the greenway.",
+              "tips": [
+                "Bring a snack and an extra layer.",
+                "Name one last slide so leaving is easy."
+              ],
+              "interests": [
+                "movement",
+                "nature"
+              ],
+              "also": [],
+              "area": "east-wake",
+              "outdoor": true,
+              "source": {
+                "kind": "park",
+                "title": "Wendell Park",
+                "address": "601 W. Third Street, Wendell, NC",
+                "lat": 35.78171909213524,
+                "lon": -78.37858290652449,
+                "url": "https://townofwendellnc.gov/departments/parks_and_recreation/facilities___rentals/index.php",
+                "amenities": [
+                  "playground",
+                  "picnic-shelter",
+                  "restroom",
+                  "greenway"
+                ],
+                "indoor": false,
+                "area": "east-wake",
+                "hours": null,
+                "cost": "Free"
+              }
+            }
+          ],
+          "rainBackup": null,
+          "timeline": [
+            {
+              "start": "07:00",
+              "end": "07:30",
+              "kind": "meal",
+              "title": "Up and breakfast"
+            },
+            {
+              "start": "07:30",
+              "end": "08:50",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "08:50",
+              "end": "09:10",
+              "kind": "routine",
+              "title": "Get ready to go",
+              "detail": "Shoes on, the bag, water and a snack."
+            },
+            {
+              "start": "09:10",
+              "end": "09:30",
+              "kind": "travel",
+              "title": "Drive to Hemlock Bluffs Nature Preserve"
+            },
+            {
+              "start": "09:30",
+              "end": "11:30",
+              "kind": "outing",
+              "title": "Hemlock Bluffs Nature Preserve"
+            },
+            {
+              "start": "11:30",
+              "end": "11:50",
+              "kind": "travel",
+              "title": "Drive home"
+            },
+            {
+              "start": "11:50",
+              "end": "12:20",
+              "kind": "meal",
+              "title": "Lunch"
+            },
+            {
+              "start": "12:20",
+              "end": "13:00",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "13:00",
+              "end": "13:45",
+              "kind": "quiet",
+              "title": "Quiet time",
+              "detail": "Books or quiet play in their room."
+            },
+            {
+              "start": "13:45",
+              "end": "18:00",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "18:00",
+              "end": "18:45",
+              "kind": "meal",
+              "title": "Dinner"
+            },
+            {
+              "start": "18:45",
+              "end": "19:30",
+              "kind": "routine",
+              "title": "Bath, books and bed"
+            }
+          ]
+        },
+        {
+          "nap": "no-nap",
+          "napLabel": "No nap",
+          "headline": "Play at the park, then a story and a craft",
+          "main": {
+            "ref": "place:fuquay-varina-museums-at-ashworth-park",
+            "arrive": "13:20",
+            "leave": "15:00",
+            "also": [
+              {
+                "ref": "event:wake:25078",
+                "source": {
+                  "kind": "event",
+                  "title": "Story & Craft",
+                  "start": "2026-12-02T14:00:00-05:00",
+                  "end": "2026-12-02T15:00:00-05:00",
+                  "venue": "Fuquay-Varina Community Library",
+                  "address": "271 Bramblehill Drive, Fuquay-Varina, NC",
+                  "url": "https://www.wake.gov/events/story-craft",
+                  "cost": "Free",
+                  "lat": 35.5850617253451,
+                  "lon": -78.7802518504044,
+                  "ages": "Young Children",
+                  "registration": null,
+                  "indoor": true,
+                  "area": "south-wake",
+                  "source": "wake-county",
+                  "dropIn": false
+                }
+              }
+            ],
+            "why": "Your child plays at Ashworth Park first, then settles in at the Fuquay-Varina Community Library for an interactive story and craft made for ages 3 to 5.",
+            "tips": [
+              "Let {them} run hard at the park so sitting for the story feels easy.",
+              "Bring a snack for after the craft.",
+              "Tell {them} the craft comes next, so leaving the park is simple."
+            ],
+            "interests": [
+              "stories",
+              "art",
+              "movement"
+            ],
+            "area": "south-wake",
+            "outdoor": false,
+            "source": {
+              "kind": "park",
+              "title": "Fuquay-Varina Museums at Ashworth Park",
+              "address": "131 South Fuquay Avenue, Fuquay-Varina, NC",
+              "lat": 35.58355770107221,
+              "lon": -78.79818805961258,
+              "url": "http://www.fuquay-varina.org/Facilities/Facility/Details/FuquayVarina-Museums-at-Ashworth-Park-14",
+              "amenities": [
+                "playground",
+                "greenway"
+              ],
+              "indoor": false,
+              "area": "south-wake",
+              "hours": null,
+              "cost": "Free"
+            }
+          },
+          "alternatives": [
+            {
+              "ref": "place:apex-community-park",
+              "arrive": "09:30",
+              "leave": "11:30",
+              "why": "Your child can play on the playground and walk the greenway, with a picnic shelter for a snack.",
+              "tips": [
+                "Pack a snack for the shelter.",
+                "Bring a ball or bubbles for the open space."
+              ],
+              "interests": [
+                "movement",
+                "nature"
+              ],
+              "also": [],
+              "area": "cary-apex",
+              "outdoor": true,
+              "source": {
+                "kind": "park",
+                "title": "Apex Community Park",
+                "address": "2200 Laura Duncan Rd., Apex, NC",
+                "lat": 35.75461588131496,
+                "lon": -78.82862025650613,
+                "url": "http://www.apexnc.org/795/Apex-Community-Park",
+                "amenities": [
+                  "playground",
+                  "picnic-shelter",
+                  "restroom",
+                  "greenway"
+                ],
+                "indoor": false,
+                "area": "cary-apex",
+                "hours": null,
+                "cost": "Free"
+              }
+            },
+            {
+              "ref": "place:gipson-play-plaza",
+              "arrive": "10:00",
+              "leave": "12:00",
+              "why": "A big destination playground gives your child plenty of room to climb, slide and run.",
+              "tips": [
+                "Bring water and a snack.",
+                "Give a ten minute warning and name lunch as the next thing."
+              ],
+              "interests": [
+                "movement"
+              ],
+              "also": [],
+              "area": "raleigh",
+              "outdoor": true,
+              "source": {
+                "kind": "park",
+                "title": "Gipson Play Plaza at Dix Park",
+                "address": "715 Biggs Dr, Raleigh, NC 27603",
+                "lat": 35.7667,
+                "lon": -78.6539,
+                "url": "https://dixpark.org/gipson-play-plaza",
+                "amenities": [
+                  "playground",
+                  "restroom"
+                ],
+                "indoor": false,
+                "area": "raleigh",
+                "hours": {
+                  "sun": "8 a.m.–9 p.m.",
+                  "mon": "8 a.m.–9 p.m.",
+                  "tue": "8 a.m.–9 p.m.",
+                  "wed": "8 a.m.–9 p.m.",
+                  "thu": "8 a.m.–9 p.m.",
+                  "fri": "8 a.m.–9 p.m.",
+                  "sat": "8 a.m.–9 p.m."
+                },
+                "cost": "Free",
+                "note": "Free; free parking. Big destination playground on the south edge of Dix Park."
+              }
+            },
+            {
+              "ref": "place:cornwallis-road-park",
+              "arrive": "15:00",
+              "leave": "17:00",
+              "also": [
+                {
+                  "ref": "event:libcal:durham-county-library:17489475",
+                  "source": {
+                    "kind": "event",
+                    "title": "Lego Lab @ Southwest",
+                    "start": "2026-12-02T15:30:00",
+                    "end": "2026-12-02T17:00:00",
+                    "venue": "Southwest Regional Library",
+                    "address": "3605 Shannon Rd, Durham, NC",
+                    "url": "https://durhamcountylibrary.libcal.com/event/17489475",
+                    "cost": "Free",
+                    "lat": 35.95871978266895,
+                    "lon": -78.95455361473043,
+                    "ages": "Elementary School, Kindergarten, Pre-School",
+                    "registration": false,
+                    "indoor": true,
+                    "area": "durham",
+                    "source": "libcal",
+                    "dropIn": false
+                  }
+                }
+              ],
+              "why": "A quick run at the park, then the Lego Lab challenge of the day at Southwest Regional Library, with block sorting at the end.",
+              "tips": [
+                "Bring a snack for the park.",
+                "Let {them} pick what to build."
+              ],
+              "interests": [
+                "science",
+                "movement"
+              ],
+              "area": "durham",
+              "outdoor": false,
+              "source": {
+                "kind": "park",
+                "title": "Cornwallis Road Park",
+                "address": "2830 Wade Rd, Durham, NC",
+                "lat": 35.97904,
+                "lon": -78.95229666666667,
+                "url": "https://www.dprplaymore.org/Facilities/Facility/Details/Cornwallis-Road-Park-13",
+                "amenities": [
+                  "playground",
+                  "restroom"
+                ],
+                "indoor": false,
+                "area": "durham",
+                "hours": null,
+                "cost": "Free"
+              }
+            },
+            {
+              "ref": "place:knightdale-station-park",
+              "arrive": "15:00",
+              "leave": "16:30",
+              "why": "Your child can enjoy the playground and a walk on the greenway in the afternoon light.",
+              "tips": [
+                "Bring a snack and an extra layer.",
+                "Head out while the sun is still up."
+              ],
+              "interests": [
+                "movement",
+                "nature"
+              ],
+              "also": [],
+              "area": "east-wake",
+              "outdoor": true,
+              "source": {
+                "kind": "park",
+                "title": "Knightdale Station Park",
+                "address": "810 North First Avenue, Knightdale, NC",
+                "lat": 35.795776739559024,
+                "lon": -78.47584503817626,
+                "url": "https://www.knightdalenc.gov/knightdalestationpark",
+                "amenities": [
+                  "playground",
+                  "picnic-shelter",
+                  "greenway"
+                ],
+                "indoor": false,
+                "area": "east-wake",
+                "hours": null,
+                "cost": "Free"
+              }
+            }
+          ],
+          "rainBackup": null,
+          "timeline": [
+            {
+              "start": "07:00",
+              "end": "07:30",
+              "kind": "meal",
+              "title": "Up and breakfast"
+            },
+            {
+              "start": "07:30",
+              "end": "11:45",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "11:45",
+              "end": "12:15",
+              "kind": "meal",
+              "title": "Lunch"
+            },
+            {
+              "start": "12:15",
+              "end": "12:40",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "12:40",
+              "end": "13:00",
+              "kind": "routine",
+              "title": "Get ready to go",
+              "detail": "Shoes on, the bag, water and a snack."
+            },
+            {
+              "start": "13:00",
+              "end": "13:20",
+              "kind": "travel",
+              "title": "Drive to Fuquay-Varina Museums at Ashworth Park"
+            },
+            {
+              "start": "13:20",
+              "end": "13:50",
+              "kind": "outing",
+              "title": "Fuquay-Varina Museums at Ashworth Park"
+            },
+            {
+              "start": "13:50",
+              "end": "14:00",
+              "kind": "travel",
+              "title": "Drive to Fuquay-Varina Community Library"
+            },
+            {
+              "start": "14:00",
+              "end": "15:00",
+              "kind": "outing",
+              "title": "Story & Craft"
+            },
+            {
+              "start": "15:00",
+              "end": "15:20",
+              "kind": "travel",
+              "title": "Drive home"
+            },
+            {
+              "start": "15:20",
+              "end": "18:00",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "18:00",
+              "end": "18:45",
+              "kind": "meal",
+              "title": "Dinner"
+            },
+            {
+              "start": "18:45",
+              "end": "19:30",
+              "kind": "routine",
+              "title": "Bath, books and bed"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "checked": {
+    "at": "2026-11-27T11:03:44.796Z",
+    "forecast": "nws",
+    "weather": {
+      "period": "Wednesday",
+      "tempF": 61,
+      "precipProbability": 3,
+      "shortForecast": "Sunny",
+      "windMph": 3,
+      "windFrom": "W",
+      "hours": [
+        {
+          "t": "05:00",
+          "tempF": 34,
+          "pop": 3,
+          "cloud": 20
+        },
+        {
+          "t": "06:00",
+          "tempF": 34,
+          "pop": 3,
+          "cloud": 20
+        },
+        {
+          "t": "07:00",
+          "tempF": 35,
+          "pop": 2,
+          "cloud": 16
+        },
+        {
+          "t": "08:00",
+          "tempF": 39,
+          "pop": 2,
+          "cloud": 16
+        },
+        {
+          "t": "09:00",
+          "tempF": 44,
+          "pop": 2,
+          "cloud": 16
+        },
+        {
+          "t": "10:00",
+          "tempF": 49,
+          "pop": 2,
+          "cloud": 16
+        },
+        {
+          "t": "11:00",
+          "tempF": 53,
+          "pop": 2,
+          "cloud": 16
+        },
+        {
+          "t": "12:00",
+          "tempF": 57,
+          "pop": 2,
+          "cloud": 16
+        },
+        {
+          "t": "13:00",
+          "tempF": 59,
+          "pop": 1,
+          "cloud": 10
+        },
+        {
+          "t": "14:00",
+          "tempF": 61,
+          "pop": 1,
+          "cloud": 10
+        },
+        {
+          "t": "15:00",
+          "tempF": 61,
+          "pop": 1,
+          "cloud": 10
+        },
+        {
+          "t": "16:00",
+          "tempF": 60,
+          "pop": 1,
+          "cloud": 10
+        },
+        {
+          "t": "17:00",
+          "tempF": 58,
+          "pop": 1,
+          "cloud": 10
+        },
+        {
+          "t": "18:00",
+          "tempF": 54,
+          "pop": 1,
+          "cloud": 10
+        },
+        {
+          "t": "19:00",
+          "tempF": 51,
+          "pop": 1,
+          "cloud": 19
+        },
+        {
+          "t": "20:00",
+          "tempF": 49,
+          "pop": 1,
+          "cloud": 19
+        },
+        {
+          "t": "21:00",
+          "tempF": 47,
+          "pop": 1,
+          "cloud": 19
+        },
+        {
+          "t": "22:00",
+          "tempF": 46,
+          "pop": 1,
+          "cloud": 19
+        },
+        {
+          "t": "23:00",
+          "tempF": 45,
+          "pop": 1,
+          "cloud": 19
+        }
+      ]
+    },
+    "hidden": []
+  }
+}

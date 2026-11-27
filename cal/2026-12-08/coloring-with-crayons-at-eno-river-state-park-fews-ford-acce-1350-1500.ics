@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Triangle Tots//triangletots.com//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:2026-12-08-coloring-with-crayons-at-eno-river-state-park-fews-ford-acce
+ -1350-1500@triangletots.com
+DTSTAMP:20261127T100000Z
+DTSTART:20261208T185000Z
+DTEND:20261208T200000Z
+SUMMARY:Coloring with Crayons at Eno River State Park - Fews Ford Access & 
+ Visitor Center
+LOCATION:6101 Cole Mill Road\, Durham\, NC
+DESCRIPTION:Sign up first.\nhttps://events.dncr.nc.gov/event/coloring-with-
+ crayons\nThe whole day: https://triangletots.com/2026-12-08/t4/\nTimes and
+  details can change. Check the event or place before you go.
+END:VEVENT
+END:VCALENDAR

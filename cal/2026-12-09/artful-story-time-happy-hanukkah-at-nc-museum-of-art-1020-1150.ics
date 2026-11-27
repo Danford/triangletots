@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Triangle Tots//triangletots.com//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:2026-12-09-artful-story-time-happy-hanukkah-at-nc-museum-of-art-1020-11
+ 50@triangletots.com
+DTSTAMP:20261127T100000Z
+DTSTART:20261209T152000Z
+DTEND:20261209T165000Z
+SUMMARY:Artful Story Time: Happy Hanukkah! at NC Museum of Art
+LOCATION:2110 Blue Ridge Rd\, Raleigh\, NC 27607
+DESCRIPTION:https://ncartmuseum.org/event/artful-story-time-happy-hanukkah/
+ \nhttps://raleighnc.gov/parks-and-recreation/places/laurel-hills-park\nThe
+  whole day: https://triangletots.com/2026-12-09/t4/\nTimes and details can
+  change. Check the event or place before you go.
+END:VEVENT
+END:VCALENDAR

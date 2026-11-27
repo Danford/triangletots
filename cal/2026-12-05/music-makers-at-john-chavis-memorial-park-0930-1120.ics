@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Triangle Tots//triangletots.com//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:2026-12-05-music-makers-at-john-chavis-memorial-park-0930-1120@triangle
+ tots.com
+DTSTAMP:20261127T100000Z
+DTSTART:20261205T143000Z
+DTEND:20261205T162000Z
+SUMMARY:Music Makers at John Chavis Memorial Park
+LOCATION:505 Martin Luther King Jr Blvd\, Raleigh\, NC 27601
+DESCRIPTION:https://raleighnc.gov/parks-and-recreation/places/john-chavis-m
+ emorial-park\nhttps://marbleskidsmuseum.org/event/49149/\nThe whole day: h
+ ttps://triangletots.com/2026-12-05/t1/\nTimes and details can change. Chec
+ k the event or place before you go.
+END:VEVENT
+END:VCALENDAR

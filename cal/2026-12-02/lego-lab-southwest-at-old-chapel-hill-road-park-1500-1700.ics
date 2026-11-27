@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Triangle Tots//triangletots.com//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:2026-12-02-lego-lab-southwest-at-old-chapel-hill-road-park-1500-1700@tr
+ iangletots.com
+DTSTAMP:20261127T100000Z
+DTSTART:20261202T200000Z
+DTEND:20261202T220000Z
+SUMMARY:Lego Lab @ Southwest at Old Chapel Hill Road Park
+LOCATION:3751 SW Durham Dr\, Durham\, NC
+DESCRIPTION:https://www.dprplaymore.org/Facilities/Facility/Details/Old-Cha
+ pel-Hill-Road-Park-50\nhttps://durhamcountylibrary.libcal.com/event/174894
+ 75\nThe whole day: https://triangletots.com/2026-12-02/t3/\nTimes and deta
+ ils can change. Check the event or place before you go.
+END:VEVENT
+END:VCALENDAR

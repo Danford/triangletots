@@ -1,0 +1,921 @@
+{
+  "date": "2026-12-03",
+  "band": "t3",
+  "versions": [
+    {
+      "at": "2026-11-20T11:07:15.353Z",
+      "reason": null,
+      "forecast": "none",
+      "weather": null,
+      "plans": [
+        {
+          "nap": "nap",
+          "napLabel": "Nap, 1 to 2:30",
+          "headline": "Ride the carousel and the train at Pullen Park",
+          "main": {
+            "ref": "place:pullen-park-amusements",
+            "arrive": "10:00",
+            "leave": "12:00",
+            "why": "Your toddler can ride the carousel and the train, then run on the playground. Let {them} pick the first ride and stay as long as {they} like{s}.",
+            "tips": [
+              "Eat a snack on the way so {they} {is} not hungry between rides.",
+              "Tell {them} early that the last ride is coming, so leaving is not a surprise.",
+              "Head out by 12:00 pm so lunch and the nap start on time."
+            ],
+            "interests": [
+              "vehicles",
+              "movement"
+            ],
+            "also": [],
+            "area": "raleigh",
+            "outdoor": true,
+            "source": {
+              "kind": "park",
+              "title": "Pullen Park Amusements",
+              "address": "410 Park Ave, Raleigh, NC 27606",
+              "lat": 35.7806,
+              "lon": -78.66396,
+              "url": "https://raleighnc.gov/parks-and-recreation/places/pullen-park-amusements",
+              "amenities": [
+                "carousel",
+                "boating",
+                "train",
+                "amusements",
+                "courts",
+                "playground",
+                "picnic-shelter"
+              ],
+              "indoor": false,
+              "area": "raleigh",
+              "hours": {
+                "mon": "10 a.m.–6 p.m.",
+                "tue": "10 a.m.–6 p.m.",
+                "wed": "10 a.m.–6 p.m.",
+                "thu": "10 a.m.–6 p.m.",
+                "fri": "10 a.m.–6 p.m.",
+                "sat": "10 a.m.–6 p.m.",
+                "sun": "10 a.m.–6 p.m."
+              },
+              "cost": "Free to get in; rides $2 a ticket"
+            }
+          },
+          "alternatives": [
+            {
+              "ref": "place:nc-botanical-garden",
+              "arrive": "09:30",
+              "leave": "11:30",
+              "why": "Your child can wander the display gardens and the forest trails behind them at {their} own pace.",
+              "tips": [
+                "Bring a water bottle and a small snack.",
+                "Let {them} lead the way on the trails and stop to look at what {they} find."
+              ],
+              "interests": [
+                "nature"
+              ],
+              "also": [],
+              "area": "chapel-hill",
+              "outdoor": true,
+              "source": {
+                "kind": "garden",
+                "title": "NC Botanical Garden",
+                "address": "100 Old Mason Farm Rd, Chapel Hill, NC 27517",
+                "lat": 35.9011,
+                "lon": -79.0319,
+                "url": "https://ncbg.unc.edu/visit/",
+                "amenities": [
+                  "garden",
+                  "nature",
+                  "restroom"
+                ],
+                "indoor": false,
+                "area": "chapel-hill",
+                "cost": "Free",
+                "note": "Free. Display gardens, and nature trails through the forest behind them."
+              }
+            },
+            {
+              "ref": "event:wake:24990",
+              "arrive": "09:30",
+              "leave": "11:20",
+              "why": "Your child watches model trains travel through different scenes, then burns off energy at Honeycutt Park.",
+              "tips": [
+                "Let {them} pick a spot at the exhibit and watch a few laps.",
+                "Save the snack for the park."
+              ],
+              "interests": [
+                "vehicles",
+                "movement"
+              ],
+              "also": [
+                {
+                  "ref": "place:honeycutt-park",
+                  "source": {
+                    "kind": "park",
+                    "title": "Honeycutt Park",
+                    "address": "1032 Clear Creek Farm Road, Raleigh, NC 27615",
+                    "lat": 35.9023,
+                    "lon": -78.6259,
+                    "url": "https://raleighnc.gov/parks-and-recreation/places/honeycutt-park",
+                    "amenities": [
+                      "picnic-shelter",
+                      "courts",
+                      "fields",
+                      "playground"
+                    ],
+                    "indoor": false,
+                    "area": "north-raleigh",
+                    "hours": null,
+                    "cost": "Free"
+                  }
+                }
+              ],
+              "area": "north-raleigh",
+              "outdoor": false,
+              "source": {
+                "kind": "event",
+                "title": "Model Train Exhibit",
+                "start": "2026-12-03T09:30:00-05:00",
+                "end": "2026-12-03T12:30:00-05:00",
+                "venue": "North Regional Library",
+                "address": "7009 Harps Mill Road, Raleigh, NC",
+                "url": "https://www.wake.gov/events/model-train-exhibit-4",
+                "cost": "Free",
+                "lat": 35.880907380619,
+                "lon": -78.6281516610688,
+                "ages": "Young Children All Ages School-Age Children Teens",
+                "registration": null,
+                "indoor": true,
+                "area": "north-raleigh",
+                "source": "wake-county",
+                "dropIn": true
+              }
+            },
+            {
+              "ref": "place:sarah-p-duke-gardens",
+              "arrive": "09:00",
+              "leave": "11:00",
+              "why": "Your child can explore the garden paths and the Charlotte Brody Discovery Garden.",
+              "tips": [
+                "Come early, since parking often fills before 10 am.",
+                "Bring a snack to enjoy on a bench."
+              ],
+              "interests": [
+                "nature"
+              ],
+              "also": [],
+              "area": "durham",
+              "outdoor": true,
+              "source": {
+                "kind": "garden",
+                "title": "Sarah P. Duke Gardens",
+                "address": "420 Anderson St, Durham, NC 27708",
+                "lat": 36.0024,
+                "lon": -78.9328,
+                "url": "https://gardens.duke.edu/visit/",
+                "amenities": [
+                  "garden",
+                  "nature",
+                  "restroom"
+                ],
+                "indoor": false,
+                "area": "durham",
+                "hours": {
+                  "sun": "8 a.m. to sunset",
+                  "mon": "8 a.m. to sunset",
+                  "tue": "8 a.m. to sunset",
+                  "wed": "8 a.m. to sunset",
+                  "thu": "8 a.m. to sunset",
+                  "fri": "8 a.m. to sunset",
+                  "sat": "8 a.m. to sunset"
+                },
+                "cost": "Free",
+                "note": "Free; paid parking that often fills before 10 a.m. on nice days. Five miles of paths, and the Charlotte Brody Discovery Garden."
+              }
+            }
+          ],
+          "rainBackup": null,
+          "timeline": [
+            {
+              "start": "07:00",
+              "end": "07:30",
+              "kind": "meal",
+              "title": "Up and breakfast"
+            },
+            {
+              "start": "07:30",
+              "end": "09:20",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "09:20",
+              "end": "09:40",
+              "kind": "routine",
+              "title": "Get ready to go",
+              "detail": "Shoes on, the bag, water and a snack."
+            },
+            {
+              "start": "09:40",
+              "end": "10:00",
+              "kind": "travel",
+              "title": "Drive to Pullen Park Amusements"
+            },
+            {
+              "start": "10:00",
+              "end": "12:00",
+              "kind": "outing",
+              "title": "Pullen Park Amusements"
+            },
+            {
+              "start": "12:00",
+              "end": "12:20",
+              "kind": "travel",
+              "title": "Drive home"
+            },
+            {
+              "start": "12:20",
+              "end": "12:50",
+              "kind": "meal",
+              "title": "Lunch"
+            },
+            {
+              "start": "12:50",
+              "end": "13:00",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "13:00",
+              "end": "14:30",
+              "kind": "nap",
+              "title": "Nap"
+            },
+            {
+              "start": "14:30",
+              "end": "14:50",
+              "kind": "routine",
+              "title": "Up and a snack"
+            },
+            {
+              "start": "14:50",
+              "end": "18:30",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "18:30",
+              "end": "19:15",
+              "kind": "meal",
+              "title": "Dinner"
+            },
+            {
+              "start": "19:15",
+              "end": "20:00",
+              "kind": "routine",
+              "title": "Bath, books and bed"
+            }
+          ]
+        },
+        {
+          "nap": "quiet",
+          "napLabel": "Quiet time, no sleep",
+          "headline": "Build circuits, then play at East End Park",
+          "main": {
+            "ref": "event:libcal:durham-county-library:17189140",
+            "arrive": "10:00",
+            "leave": "11:50",
+            "why": "Your child snaps circuit pieces together to light things up at the Innovation Lab, then plays at East End Park. Come and go as {they} like{s}.",
+            "tips": [
+              "Let {them} press the pieces together and see what happens.",
+              "Bring a snack for the park.",
+              "Tell {them} the playground is next when it is time to go."
+            ],
+            "interests": [
+              "science",
+              "movement"
+            ],
+            "also": [
+              {
+                "ref": "place:east-end-park",
+                "source": {
+                  "kind": "park",
+                  "title": "East End Park",
+                  "address": "1200 N Alston Ave, Durham, NC",
+                  "lat": 35.997914,
+                  "lon": -78.886666,
+                  "url": "https://www.dprplaymore.org/Facilities/Facility/Details/East-End-Park-20",
+                  "amenities": [
+                    "playground",
+                    "splashpad",
+                    "picnic-shelter",
+                    "restroom"
+                  ],
+                  "indoor": false,
+                  "area": "durham",
+                  "hours": null,
+                  "cost": "Free"
+                }
+              }
+            ],
+            "area": "durham",
+            "outdoor": false,
+            "source": {
+              "kind": "event",
+              "title": "This Week In the Lab: Snap Circuits",
+              "start": "2026-12-03T10:00:00",
+              "end": "2026-12-03T14:00:00",
+              "venue": "Main Library",
+              "address": "300 N. Roxboro St, Durham, NC",
+              "url": "https://durhamcountylibrary.libcal.com/event/17189140",
+              "cost": "Free",
+              "lat": 35.99490876306902,
+              "lon": -78.8964971677054,
+              "ages": "Adult, Elementary School, Emerging Adult: 18-24 Year Olds, High School, Intergenerational, Kindergarten, Middle School, Pre-School, Senior Citizen, Teen, Toddler, Tweens: 9-12 Year Olds, DPS",
+              "registration": false,
+              "indoor": true,
+              "area": "durham",
+              "source": "libcal",
+              "dropIn": true
+            }
+          },
+          "alternatives": [
+            {
+              "ref": "place:pullen-park-amusements",
+              "arrive": "14:30",
+              "leave": "16:30",
+              "why": "After quiet time, your toddler can ride the carousel and the train and play on the playground.",
+              "tips": [
+                "Bring a snack for halfway through.",
+                "Plan the last ride before leaving so the goodbye is easy."
+              ],
+              "interests": [
+                "vehicles",
+                "movement"
+              ],
+              "also": [],
+              "area": "raleigh",
+              "outdoor": true,
+              "source": {
+                "kind": "park",
+                "title": "Pullen Park Amusements",
+                "address": "410 Park Ave, Raleigh, NC 27606",
+                "lat": 35.7806,
+                "lon": -78.66396,
+                "url": "https://raleighnc.gov/parks-and-recreation/places/pullen-park-amusements",
+                "amenities": [
+                  "carousel",
+                  "boating",
+                  "train",
+                  "amusements",
+                  "courts",
+                  "playground",
+                  "picnic-shelter"
+                ],
+                "indoor": false,
+                "area": "raleigh",
+                "hours": {
+                  "mon": "10 a.m.–6 p.m.",
+                  "tue": "10 a.m.–6 p.m.",
+                  "wed": "10 a.m.–6 p.m.",
+                  "thu": "10 a.m.–6 p.m.",
+                  "fri": "10 a.m.–6 p.m.",
+                  "sat": "10 a.m.–6 p.m.",
+                  "sun": "10 a.m.–6 p.m."
+                },
+                "cost": "Free to get in; rides $2 a ticket"
+              }
+            },
+            {
+              "ref": "place:hemlock-bluffs",
+              "arrive": "09:30",
+              "leave": "11:30",
+              "why": "Your child can walk the nature trails and look for leaves, sticks and birds.",
+              "tips": [
+                "The trails have stairs, so a carrier may beat a stroller.",
+                "Bring water and a snack."
+              ],
+              "interests": [
+                "nature"
+              ],
+              "also": [],
+              "area": "cary-apex",
+              "outdoor": true,
+              "source": {
+                "kind": "park",
+                "title": "Hemlock Bluffs Nature Preserve",
+                "address": "2616 Kildaire Farm Rd, Cary, NC 27518",
+                "lat": 35.7253,
+                "lon": -78.7846,
+                "url": "https://www.carync.gov/recreation-enjoyment/parks-greenways-environment/parks/stevens-nature-center-at-hemlock-bluffs-nature-preserve",
+                "amenities": [
+                  "nature"
+                ],
+                "indoor": false,
+                "area": "cary-apex",
+                "hours": {
+                  "sun": "9 a.m. to sunset",
+                  "mon": "9 a.m. to sunset",
+                  "tue": "9 a.m. to sunset",
+                  "wed": "9 a.m. to sunset",
+                  "thu": "9 a.m. to sunset",
+                  "fri": "9 a.m. to sunset",
+                  "sat": "9 a.m. to sunset"
+                },
+                "cost": "Free",
+                "note": "Free. About three miles of mulched trails and boardwalks with stairs (a carrier beats a stroller); restrooms in the Stevens Nature Center, open Mon–Sat 10–5, Sun 1–5."
+              }
+            },
+            {
+              "ref": "place:nc-botanical-garden",
+              "arrive": "14:30",
+              "leave": "16:30",
+              "why": "Your child can wander the display gardens and the forest trails after quiet time.",
+              "tips": [
+                "Bring a snack and water.",
+                "Let {them} choose which path to take."
+              ],
+              "interests": [
+                "nature"
+              ],
+              "also": [],
+              "area": "chapel-hill",
+              "outdoor": true,
+              "source": {
+                "kind": "garden",
+                "title": "NC Botanical Garden",
+                "address": "100 Old Mason Farm Rd, Chapel Hill, NC 27517",
+                "lat": 35.9011,
+                "lon": -79.0319,
+                "url": "https://ncbg.unc.edu/visit/",
+                "amenities": [
+                  "garden",
+                  "nature",
+                  "restroom"
+                ],
+                "indoor": false,
+                "area": "chapel-hill",
+                "cost": "Free",
+                "note": "Free. Display gardens, and nature trails through the forest behind them."
+              }
+            },
+            {
+              "ref": "event:wake-parks:8358:2026-12-03",
+              "arrive": "09:30",
+              "leave": "11:00",
+              "why": "Your child walks the StoryWalk and reads a story one page at a time along the path.",
+              "tips": [
+                "Let {them} run ahead to find the next page.",
+                "Read in a silly voice to keep {them} moving."
+              ],
+              "interests": [
+                "stories",
+                "nature"
+              ],
+              "also": [],
+              "area": "south-wake",
+              "outdoor": true,
+              "source": {
+                "kind": "event",
+                "title": "Beech Bluff County Park StoryWalk® 2026 (Self-Led)",
+                "start": "2026-12-03T08:00:00",
+                "end": "2026-12-03T17:30:00",
+                "venue": "Beech Bluff County Park",
+                "address": "Beech Bluff Park Drive, Fuquay-Varina, NC",
+                "url": "https://apm.activecommunities.com/wakeparks/Activity_Search/beech-bluff-county-park-storywalk-2026-self-led/8358?locale=en-US",
+                "cost": "Free",
+                "lat": 35.58537279715877,
+                "lon": -78.6793341971644,
+                "ages": null,
+                "registration": false,
+                "indoor": false,
+                "area": "south-wake",
+                "source": "wake-parks",
+                "dropIn": true
+              }
+            }
+          ],
+          "rainBackup": null,
+          "timeline": [
+            {
+              "start": "07:00",
+              "end": "07:30",
+              "kind": "meal",
+              "title": "Up and breakfast"
+            },
+            {
+              "start": "07:30",
+              "end": "09:20",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "09:20",
+              "end": "09:40",
+              "kind": "routine",
+              "title": "Get ready to go",
+              "detail": "Shoes on, the bag, water and a snack."
+            },
+            {
+              "start": "09:40",
+              "end": "10:00",
+              "kind": "travel",
+              "title": "Drive to Main Library"
+            },
+            {
+              "start": "10:00",
+              "end": "11:50",
+              "kind": "outing",
+              "title": "Main Library"
+            },
+            {
+              "start": "11:50",
+              "end": "12:10",
+              "kind": "travel",
+              "title": "Drive home"
+            },
+            {
+              "start": "12:10",
+              "end": "12:40",
+              "kind": "meal",
+              "title": "Lunch"
+            },
+            {
+              "start": "12:40",
+              "end": "13:00",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "13:00",
+              "end": "13:45",
+              "kind": "quiet",
+              "title": "Quiet time",
+              "detail": "Books or quiet play in their room."
+            },
+            {
+              "start": "13:45",
+              "end": "18:00",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "18:00",
+              "end": "18:45",
+              "kind": "meal",
+              "title": "Dinner"
+            },
+            {
+              "start": "18:45",
+              "end": "19:30",
+              "kind": "routine",
+              "title": "Bath, books and bed"
+            }
+          ]
+        },
+        {
+          "nap": "no-nap",
+          "napLabel": "No nap",
+          "headline": "Garden paths and a playground at Crowder Park",
+          "main": {
+            "ref": "place:crowder-county-park",
+            "arrive": "09:30",
+            "leave": "11:30",
+            "why": "Your child can climb on the playground and explore the garden and greenway. There is a picnic shelter for a snack break.",
+            "tips": [
+              "Pack a snack and eat it at the picnic shelter.",
+              "Let {them} lead on the greenway and stop to look at plants.",
+              "Count down five more minutes before you head out."
+            ],
+            "interests": [
+              "nature",
+              "movement"
+            ],
+            "also": [],
+            "area": "cary-apex",
+            "outdoor": true,
+            "source": {
+              "kind": "park",
+              "title": "Crowder County Park",
+              "address": "4709 Ten Ten Road",
+              "lat": 35.69174392711247,
+              "lon": -78.76585678897689,
+              "url": "https://www.wakegov.com/departments-government/parks-recreation-and-open-space/all-parks-trails/crowder-county-park",
+              "amenities": [
+                "playground",
+                "picnic-shelter",
+                "restroom",
+                "greenway",
+                "garden"
+              ],
+              "indoor": false,
+              "area": "cary-apex",
+              "hours": null,
+              "cost": "Free"
+            }
+          },
+          "alternatives": [
+            {
+              "ref": "place:historic-oak-view-county-park",
+              "arrive": "09:30",
+              "leave": "11:30",
+              "why": "Your child can visit the park's animals and wander the garden.",
+              "tips": [
+                "Bring a snack to share once {they} {has} said hello to the animals.",
+                "Let {them} decide how long to stay at each stop."
+              ],
+              "interests": [
+                "animals",
+                "nature"
+              ],
+              "also": [],
+              "area": "raleigh",
+              "outdoor": true,
+              "source": {
+                "kind": "park",
+                "title": "Historic Oak View County Park",
+                "address": "4028 Carya Dr., Raleigh, NC  27610",
+                "lat": 35.76980126731367,
+                "lon": -78.57063248179927,
+                "url": "https://www.wakegov.com/departments-government/parks-recreation-and-open-space/all-parks-trails/historic-oak-view-county-park",
+                "amenities": [
+                  "picnic-shelter",
+                  "restroom",
+                  "greenway",
+                  "animals",
+                  "garden"
+                ],
+                "indoor": false,
+                "area": "raleigh",
+                "hours": null,
+                "cost": "Free"
+              }
+            },
+            {
+              "ref": "event:wake:24989",
+              "arrive": "14:00",
+              "leave": "15:50",
+              "why": "Your child watches model trains travel through different scenes, then plays at Honeycutt Park.",
+              "tips": [
+                "Let {them} pick a spot and watch for a while.",
+                "Bring a snack for the park."
+              ],
+              "interests": [
+                "vehicles",
+                "movement"
+              ],
+              "also": [
+                {
+                  "ref": "place:honeycutt-park",
+                  "source": {
+                    "kind": "park",
+                    "title": "Honeycutt Park",
+                    "address": "1032 Clear Creek Farm Road, Raleigh, NC 27615",
+                    "lat": 35.9023,
+                    "lon": -78.6259,
+                    "url": "https://raleighnc.gov/parks-and-recreation/places/honeycutt-park",
+                    "amenities": [
+                      "picnic-shelter",
+                      "courts",
+                      "fields",
+                      "playground"
+                    ],
+                    "indoor": false,
+                    "area": "north-raleigh",
+                    "hours": null,
+                    "cost": "Free"
+                  }
+                }
+              ],
+              "area": "north-raleigh",
+              "outdoor": false,
+              "source": {
+                "kind": "event",
+                "title": "Model Train Exhibit",
+                "start": "2026-12-03T13:30:00-05:00",
+                "end": "2026-12-03T16:30:00-05:00",
+                "venue": "North Regional Library",
+                "address": "7009 Harps Mill Road, Raleigh, NC",
+                "url": "https://www.wake.gov/events/model-train-exhibit-3",
+                "cost": "Free",
+                "lat": 35.880907380619,
+                "lon": -78.6281516610688,
+                "ages": "Young Children All Ages School-Age Children Teens",
+                "registration": null,
+                "indoor": true,
+                "area": "north-raleigh",
+                "source": "wake-county",
+                "dropIn": true
+              }
+            },
+            {
+              "ref": "place:sarah-p-duke-gardens",
+              "arrive": "14:00",
+              "leave": "16:00",
+              "why": "Your child can follow the garden paths and explore the Charlotte Brody Discovery Garden.",
+              "tips": [
+                "Bring a snack and water.",
+                "Let {them} lead the way."
+              ],
+              "interests": [
+                "nature"
+              ],
+              "also": [],
+              "area": "durham",
+              "outdoor": true,
+              "source": {
+                "kind": "garden",
+                "title": "Sarah P. Duke Gardens",
+                "address": "420 Anderson St, Durham, NC 27708",
+                "lat": 36.0024,
+                "lon": -78.9328,
+                "url": "https://gardens.duke.edu/visit/",
+                "amenities": [
+                  "garden",
+                  "nature",
+                  "restroom"
+                ],
+                "indoor": false,
+                "area": "durham",
+                "hours": {
+                  "sun": "8 a.m. to sunset",
+                  "mon": "8 a.m. to sunset",
+                  "tue": "8 a.m. to sunset",
+                  "wed": "8 a.m. to sunset",
+                  "thu": "8 a.m. to sunset",
+                  "fri": "8 a.m. to sunset",
+                  "sat": "8 a.m. to sunset"
+                },
+                "cost": "Free",
+                "note": "Free; paid parking that often fills before 10 a.m. on nice days. Five miles of paths, and the Charlotte Brody Discovery Garden."
+              }
+            }
+          ],
+          "rainBackup": null,
+          "timeline": [
+            {
+              "start": "07:00",
+              "end": "07:30",
+              "kind": "meal",
+              "title": "Up and breakfast"
+            },
+            {
+              "start": "07:30",
+              "end": "08:50",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "08:50",
+              "end": "09:10",
+              "kind": "routine",
+              "title": "Get ready to go",
+              "detail": "Shoes on, the bag, water and a snack."
+            },
+            {
+              "start": "09:10",
+              "end": "09:30",
+              "kind": "travel",
+              "title": "Drive to Crowder County Park"
+            },
+            {
+              "start": "09:30",
+              "end": "11:30",
+              "kind": "outing",
+              "title": "Crowder County Park"
+            },
+            {
+              "start": "11:30",
+              "end": "11:50",
+              "kind": "travel",
+              "title": "Drive home"
+            },
+            {
+              "start": "11:50",
+              "end": "12:20",
+              "kind": "meal",
+              "title": "Lunch"
+            },
+            {
+              "start": "12:20",
+              "end": "18:00",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "18:00",
+              "end": "18:45",
+              "kind": "meal",
+              "title": "Dinner"
+            },
+            {
+              "start": "18:45",
+              "end": "19:30",
+              "kind": "routine",
+              "title": "Bath, books and bed"
+            }
+          ]
+        }
+      ],
+      "dropped": [
+        "[nap] alternative event:libcal:durham-county-library:15318483 Bilingual Storytime at The Nasher / Cuento Bilingüe en el Museo de Arte Nasher is for Baby, Kindergarten, Pre-School, Toddler",
+        "[no-nap] alternative event:libcal:durham-county-library:15559148 Liv and Sing! is for Baby, Kindergarten, Pre-School, Toddler"
+      ],
+      "retried": [
+        "[quiet] main event:libcal:durham-county-library:17189140 says to sign up, but the event says no sign-up is needed: \"Your child snaps circuit pieces together to light things up at the Innovation Lab, then plays at East End Park. Come and go as {they} like{s}, no sign-up needed.\""
+      ]
+    }
+  ],
+  "checked": {
+    "at": "2026-11-27T11:03:44.805Z",
+    "forecast": "nws",
+    "weather": {
+      "period": "Thursday",
+      "tempF": 67,
+      "precipProbability": 3,
+      "shortForecast": "Mostly Sunny",
+      "windMph": 5,
+      "windFrom": "SW",
+      "hours": [
+        {
+          "t": "05:00",
+          "tempF": 41,
+          "pop": 1,
+          "cloud": 33
+        },
+        {
+          "t": "06:00",
+          "tempF": 40,
+          "pop": 1,
+          "cloud": 33
+        },
+        {
+          "t": "07:00",
+          "tempF": 41,
+          "pop": 2,
+          "cloud": 47
+        },
+        {
+          "t": "08:00",
+          "tempF": 44,
+          "pop": 2,
+          "cloud": 47
+        },
+        {
+          "t": "09:00",
+          "tempF": 49,
+          "pop": 2,
+          "cloud": 47
+        },
+        {
+          "t": "10:00",
+          "tempF": 54,
+          "pop": 2,
+          "cloud": 47
+        },
+        {
+          "t": "11:00",
+          "tempF": 58,
+          "pop": 2,
+          "cloud": 47
+        },
+        {
+          "t": "12:00",
+          "tempF": 62,
+          "pop": 2,
+          "cloud": 47
+        },
+        {
+          "t": "13:00",
+          "tempF": 64,
+          "pop": 3,
+          "cloud": 52
+        },
+        {
+          "t": "14:00",
+          "tempF": 65,
+          "pop": 3,
+          "cloud": 52
+        },
+        {
+          "t": "15:00",
+          "tempF": 66,
+          "pop": 3,
+          "cloud": 52
+        },
+        {
+          "t": "16:00",
+          "tempF": 65,
+          "pop": 3,
+          "cloud": 52
+        },
+        {
+          "t": "17:00",
+          "tempF": 63,
+          "pop": 3,
+          "cloud": 52
+        }
+      ]
+    },
+    "hidden": []
+  }
+}

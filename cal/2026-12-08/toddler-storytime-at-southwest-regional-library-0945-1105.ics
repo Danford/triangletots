@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Triangle Tots//triangletots.com//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:2026-12-08-toddler-storytime-at-southwest-regional-library-0945-1105@tr
+ iangletots.com
+DTSTAMP:20261127T100000Z
+DTSTART:20261208T144500Z
+DTEND:20261208T160500Z
+SUMMARY:Toddler Storytime at Southwest Regional Library
+LOCATION:3605 Shannon Rd\, Durham\, NC
+DESCRIPTION:https://durhamcountylibrary.libcal.com/event/15559014\nhttps://
+ www.dprplaymore.org/Facilities/Facility/Details/Cornwallis-Road-Park-13\nT
+ he whole day: https://triangletots.com/2026-12-08/t1/\nTimes and details c
+ an change. Check the event or place before you go.
+END:VEVENT
+END:VCALENDAR

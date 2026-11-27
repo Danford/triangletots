@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Triangle Tots//triangletots.com//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:2026-11-27-live-animal-feeding-ocean-habitat-at-levelle-moton-park-1010
+ -1100@triangletots.com
+DTSTAMP:20261127T100000Z
+DTSTART:20261127T151000Z
+DTEND:20261127T160000Z
+SUMMARY:Live Animal Feeding – Ocean Habitat at LeVelle Moton Park
+LOCATION:920 E. Lane Street\, Raleigh\, NC 27601
+DESCRIPTION:https://raleighnc.gov/parks-and-recreation/places/levelle-moton
+ -park\nThe whole day: https://triangletots.com/2026-11-27/t1/\nTimes and d
+ etails can change. Check the event or place before you go.
+END:VEVENT
+END:VCALENDAR

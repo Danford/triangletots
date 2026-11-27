@@ -1,0 +1,1100 @@
+{
+  "date": "2026-12-03",
+  "band": "t1",
+  "versions": [
+    {
+      "at": "2026-11-20T11:06:53.679Z",
+      "reason": null,
+      "forecast": "none",
+      "weather": null,
+      "plans": [
+        {
+          "nap": "two-naps",
+          "napLabel": "Two naps",
+          "headline": "Walk a picture-book trail, then play at the park",
+          "main": {
+            "ref": "event:wake-parks:8358:2026-12-03",
+            "arrive": "11:00",
+            "leave": "12:30",
+            "why": "Your toddler can stroll the self-led StoryWalk at Beech Bluff County Park and look at each page along the way. Then {they} can play at the park's playground until lunch.",
+            "tips": [
+              "Let {them} walk the trail and stop at any page {they} like{s}. Pointing at pictures counts as reading.",
+              "Bring a snack for the playground so lunch and the drive home go smoothly.",
+              "Say 'one more slide, then bye' about five minutes before you go."
+            ],
+            "interests": [
+              "stories",
+              "nature",
+              "movement"
+            ],
+            "also": [
+              {
+                "ref": "place:beech-bluff-county-park",
+                "source": {
+                  "kind": "park",
+                  "title": "Beech Bluff County Park",
+                  "address": "Beech Bluff Park Drive, Fuquay-Varina, NC",
+                  "lat": 35.58537279715877,
+                  "lon": -78.6793341971644,
+                  "url": "https://www.wake.gov/departments-government/parks-recreation-open-space/all-parks-trails/beech-bluff-county-park",
+                  "amenities": [
+                    "playground",
+                    "garden",
+                    "greenway",
+                    "restroom",
+                    "picnic-shelter"
+                  ],
+                  "indoor": false,
+                  "area": "south-wake",
+                  "hours": null,
+                  "cost": "Free"
+                }
+              }
+            ],
+            "area": "south-wake",
+            "outdoor": true,
+            "source": {
+              "kind": "event",
+              "title": "Beech Bluff County Park StoryWalk® 2026 (Self-Led)",
+              "start": "2026-12-03T08:00:00",
+              "end": "2026-12-03T17:30:00",
+              "venue": "Beech Bluff County Park",
+              "address": "Beech Bluff Park Drive, Fuquay-Varina, NC",
+              "url": "https://apm.activecommunities.com/wakeparks/Activity_Search/beech-bluff-county-park-storywalk-2026-self-led/8358?locale=en-US",
+              "cost": "Free",
+              "lat": 35.58537279715877,
+              "lon": -78.6793341971644,
+              "ages": null,
+              "registration": false,
+              "indoor": false,
+              "area": "south-wake",
+              "source": "wake-parks",
+              "dropIn": true
+            }
+          },
+          "alternatives": [
+            {
+              "ref": "place:pullen-park-amusements",
+              "arrive": "11:00",
+              "leave": "12:30",
+              "why": "Your toddler can ride the carousel and the train and then try the playground. Many toddlers love watching the ride go around.",
+              "tips": [
+                "Pick one ride to do first and let {them} choose the next.",
+                "Bring a snack for the playground before heading home for lunch."
+              ],
+              "interests": [
+                "vehicles",
+                "movement"
+              ],
+              "also": [],
+              "area": "raleigh",
+              "outdoor": true,
+              "source": {
+                "kind": "park",
+                "title": "Pullen Park Amusements",
+                "address": "410 Park Ave, Raleigh, NC 27606",
+                "lat": 35.7806,
+                "lon": -78.66396,
+                "url": "https://raleighnc.gov/parks-and-recreation/places/pullen-park-amusements",
+                "amenities": [
+                  "carousel",
+                  "boating",
+                  "train",
+                  "amusements",
+                  "courts",
+                  "playground",
+                  "picnic-shelter"
+                ],
+                "indoor": false,
+                "area": "raleigh",
+                "hours": {
+                  "mon": "10 a.m.–6 p.m.",
+                  "tue": "10 a.m.–6 p.m.",
+                  "wed": "10 a.m.–6 p.m.",
+                  "thu": "10 a.m.–6 p.m.",
+                  "fri": "10 a.m.–6 p.m.",
+                  "sat": "10 a.m.–6 p.m.",
+                  "sun": "10 a.m.–6 p.m."
+                },
+                "cost": "Free to get in; rides $2 a ticket"
+              }
+            },
+            {
+              "ref": "event:libcal:durham-county-library:17189140",
+              "arrive": "11:00",
+              "leave": "12:40",
+              "why": "Your toddler can poke at the Snap Circuits at the Main Library lab. Then it's off to Durham Central Park to run and play.",
+              "tips": [
+                "Let {them} press and watch rather than build. Keep it short and simple.",
+                "Save snacks for the park to keep the lab calm."
+              ],
+              "interests": [
+                "science",
+                "movement"
+              ],
+              "also": [
+                {
+                  "ref": "place:durham-central-park",
+                  "source": {
+                    "kind": "park",
+                    "title": "Durham Central Park",
+                    "address": "501 Foster St, Durham, NC",
+                    "lat": 36.0006525,
+                    "lon": -78.90071999999999,
+                    "url": "https://www.dprplaymore.org/Facilities/Facility/Details/Durham-Central-Park-18",
+                    "amenities": [
+                      "playground",
+                      "restroom",
+                      "greenway"
+                    ],
+                    "indoor": false,
+                    "area": "durham",
+                    "hours": null,
+                    "cost": "Free"
+                  }
+                }
+              ],
+              "area": "durham",
+              "outdoor": false,
+              "source": {
+                "kind": "event",
+                "title": "This Week In the Lab: Snap Circuits",
+                "start": "2026-12-03T10:00:00",
+                "end": "2026-12-03T14:00:00",
+                "venue": "Main Library",
+                "address": "300 N. Roxboro St, Durham, NC",
+                "url": "https://durhamcountylibrary.libcal.com/event/17189140",
+                "cost": "Free",
+                "lat": 35.99490876306902,
+                "lon": -78.8964971677054,
+                "ages": "Adult, Elementary School, Emerging Adult: 18-24 Year Olds, High School, Intergenerational, Kindergarten, Middle School, Pre-School, Senior Citizen, Teen, Toddler, Tweens: 9-12 Year Olds, DPS",
+                "registration": false,
+                "indoor": true,
+                "area": "durham",
+                "source": "libcal",
+                "dropIn": true
+              }
+            },
+            {
+              "ref": "event:wake:24990",
+              "arrive": "11:00",
+              "leave": "12:40",
+              "why": "Your toddler can watch model trains roll through little scenes at the Model Train Exhibit. Then {they} can burn off energy at Optimist Park.",
+              "tips": [
+                "Hold {them} up or kneel down so {they} can see the tracks.",
+                "Point out each train as it passes and wave goodbye before the park."
+              ],
+              "interests": [
+                "vehicles",
+                "movement"
+              ],
+              "also": [
+                {
+                  "ref": "place:optimist-park",
+                  "source": {
+                    "kind": "park",
+                    "title": "Optimist Park",
+                    "address": "5900 Whittier Dr, Raleigh, NC 27609",
+                    "lat": 35.86353,
+                    "lon": -78.64661,
+                    "url": "https://raleighnc.gov/parks-and-recreation/places/optimist-park",
+                    "amenities": [
+                      "community-center",
+                      "pool",
+                      "nature",
+                      "courts",
+                      "fields",
+                      "playground"
+                    ],
+                    "indoor": false,
+                    "area": "north-raleigh",
+                    "hours": null,
+                    "cost": "Free"
+                  }
+                }
+              ],
+              "area": "north-raleigh",
+              "outdoor": false,
+              "source": {
+                "kind": "event",
+                "title": "Model Train Exhibit",
+                "start": "2026-12-03T09:30:00-05:00",
+                "end": "2026-12-03T12:30:00-05:00",
+                "venue": "North Regional Library",
+                "address": "7009 Harps Mill Road, Raleigh, NC",
+                "url": "https://www.wake.gov/events/model-train-exhibit-4",
+                "cost": "Free",
+                "lat": 35.880907380619,
+                "lon": -78.6281516610688,
+                "ages": "Young Children All Ages School-Age Children Teens",
+                "registration": null,
+                "indoor": true,
+                "area": "north-raleigh",
+                "source": "wake-county",
+                "dropIn": true
+              }
+            },
+            {
+              "ref": "place:apex-community-park",
+              "arrive": "11:00",
+              "leave": "12:30",
+              "why": "This is an easy playground morning in Apex. Your toddler can climb, slide and walk along the greenway.",
+              "tips": [
+                "Bring a snack and a water bottle.",
+                "Let {them} lead the way around the playground."
+              ],
+              "interests": [
+                "movement",
+                "nature"
+              ],
+              "also": [],
+              "area": "cary-apex",
+              "outdoor": true,
+              "source": {
+                "kind": "park",
+                "title": "Apex Community Park",
+                "address": "2200 Laura Duncan Rd., Apex, NC",
+                "lat": 35.75461588131496,
+                "lon": -78.82862025650613,
+                "url": "http://www.apexnc.org/795/Apex-Community-Park",
+                "amenities": [
+                  "playground",
+                  "picnic-shelter",
+                  "restroom",
+                  "greenway"
+                ],
+                "indoor": false,
+                "area": "cary-apex",
+                "hours": null,
+                "cost": "Free"
+              }
+            }
+          ],
+          "rainBackup": null,
+          "timeline": [
+            {
+              "start": "07:00",
+              "end": "07:30",
+              "kind": "meal",
+              "title": "Up and breakfast"
+            },
+            {
+              "start": "07:30",
+              "end": "09:30",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "09:30",
+              "end": "10:30",
+              "kind": "nap",
+              "title": "Nap"
+            },
+            {
+              "start": "10:30",
+              "end": "10:40",
+              "kind": "routine",
+              "title": "Up, a snack and out the door",
+              "detail": "Have the bag packed and by the door before the nap."
+            },
+            {
+              "start": "10:40",
+              "end": "11:00",
+              "kind": "travel",
+              "title": "Drive to Beech Bluff County Park"
+            },
+            {
+              "start": "11:00",
+              "end": "12:30",
+              "kind": "outing",
+              "title": "Beech Bluff County Park",
+              "detail": "Pack a lunch to eat there."
+            },
+            {
+              "start": "12:30",
+              "end": "12:50",
+              "kind": "travel",
+              "title": "Drive home"
+            },
+            {
+              "start": "12:50",
+              "end": "14:30",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "14:30",
+              "end": "15:30",
+              "kind": "nap",
+              "title": "Nap"
+            },
+            {
+              "start": "15:30",
+              "end": "15:50",
+              "kind": "routine",
+              "title": "Up and a snack"
+            },
+            {
+              "start": "15:50",
+              "end": "17:30",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "17:30",
+              "end": "18:15",
+              "kind": "meal",
+              "title": "Dinner"
+            },
+            {
+              "start": "18:15",
+              "end": "19:00",
+              "kind": "routine",
+              "title": "Bath, books and bed"
+            }
+          ]
+        },
+        {
+          "nap": "early-nap",
+          "napLabel": "One nap, 12 to 2",
+          "headline": "Explore the lake park and its trails",
+          "main": {
+            "ref": "place:lake-crabtree-county-park",
+            "arrive": "09:00",
+            "leave": "10:45",
+            "why": "Your toddler can toddle along the greenway, look for birds and plants, and then play at the playground. It's a gentle morning outdoors before the nap.",
+            "tips": [
+              "Bring a snack to eat before the drive home so {they} can settle in the car.",
+              "Let {them} stop and look at leaves and sticks along the way.",
+              "Head home by 10:45 so {they} {is} not overtired at nap."
+            ],
+            "interests": [
+              "nature",
+              "movement"
+            ],
+            "also": [],
+            "area": "north-raleigh",
+            "outdoor": true,
+            "source": {
+              "kind": "park",
+              "title": "Lake Crabtree County Park",
+              "address": "1400 Aviation Pkwy., Morrisville, NC  27560",
+              "lat": 35.845600151785014,
+              "lon": -78.80104927513673,
+              "url": "https://www.wakegov.com/departments-government/parks-recreation-and-open-space/all-parks-trails/lake-crabtree-county-park",
+              "amenities": [
+                "playground",
+                "picnic-shelter",
+                "restroom",
+                "greenway",
+                "nature",
+                "garden",
+                "boating"
+              ],
+              "indoor": false,
+              "area": "north-raleigh",
+              "hours": null,
+              "cost": "Free"
+            }
+          },
+          "alternatives": [
+            {
+              "ref": "place:pullen-park-amusements",
+              "arrive": "10:00",
+              "leave": "11:20",
+              "why": "Your toddler can ride the carousel and the train, then run around the playground. It's a classic outing for this age.",
+              "tips": [
+                "Choose one ride first and let {them} decide about the next.",
+                "Bring a snack for the playground."
+              ],
+              "interests": [
+                "vehicles",
+                "movement"
+              ],
+              "also": [],
+              "area": "raleigh",
+              "outdoor": true,
+              "source": {
+                "kind": "park",
+                "title": "Pullen Park Amusements",
+                "address": "410 Park Ave, Raleigh, NC 27606",
+                "lat": 35.7806,
+                "lon": -78.66396,
+                "url": "https://raleighnc.gov/parks-and-recreation/places/pullen-park-amusements",
+                "amenities": [
+                  "carousel",
+                  "boating",
+                  "train",
+                  "amusements",
+                  "courts",
+                  "playground",
+                  "picnic-shelter"
+                ],
+                "indoor": false,
+                "area": "raleigh",
+                "hours": {
+                  "mon": "10 a.m.–6 p.m.",
+                  "tue": "10 a.m.–6 p.m.",
+                  "wed": "10 a.m.–6 p.m.",
+                  "thu": "10 a.m.–6 p.m.",
+                  "fri": "10 a.m.–6 p.m.",
+                  "sat": "10 a.m.–6 p.m.",
+                  "sun": "10 a.m.–6 p.m."
+                },
+                "cost": "Free to get in; rides $2 a ticket"
+              }
+            },
+            {
+              "ref": "event:libcal:durham-county-library:17189140",
+              "arrive": "10:00",
+              "leave": "11:20",
+              "why": "Your toddler can explore the Snap Circuits at the Main Library lab, then burn off energy at Durham Central Park.",
+              "tips": [
+                "Let {them} press and watch rather than build.",
+                "Bring a snack for the park, not the lab."
+              ],
+              "interests": [
+                "science",
+                "movement"
+              ],
+              "also": [
+                {
+                  "ref": "place:durham-central-park",
+                  "source": {
+                    "kind": "park",
+                    "title": "Durham Central Park",
+                    "address": "501 Foster St, Durham, NC",
+                    "lat": 36.0006525,
+                    "lon": -78.90071999999999,
+                    "url": "https://www.dprplaymore.org/Facilities/Facility/Details/Durham-Central-Park-18",
+                    "amenities": [
+                      "playground",
+                      "restroom",
+                      "greenway"
+                    ],
+                    "indoor": false,
+                    "area": "durham",
+                    "hours": null,
+                    "cost": "Free"
+                  }
+                }
+              ],
+              "area": "durham",
+              "outdoor": false,
+              "source": {
+                "kind": "event",
+                "title": "This Week In the Lab: Snap Circuits",
+                "start": "2026-12-03T10:00:00",
+                "end": "2026-12-03T14:00:00",
+                "venue": "Main Library",
+                "address": "300 N. Roxboro St, Durham, NC",
+                "url": "https://durhamcountylibrary.libcal.com/event/17189140",
+                "cost": "Free",
+                "lat": 35.99490876306902,
+                "lon": -78.8964971677054,
+                "ages": "Adult, Elementary School, Emerging Adult: 18-24 Year Olds, High School, Intergenerational, Kindergarten, Middle School, Pre-School, Senior Citizen, Teen, Toddler, Tweens: 9-12 Year Olds, DPS",
+                "registration": false,
+                "indoor": true,
+                "area": "durham",
+                "source": "libcal",
+                "dropIn": true
+              }
+            },
+            {
+              "ref": "place:apex-nature-park",
+              "arrive": "09:00",
+              "leave": "10:45",
+              "why": "Your toddler can walk the greenway and look for sticks, leaves and birds. It's a quiet nature morning in Apex.",
+              "tips": [
+                "Bring a small bag so {they} can collect a leaf or two.",
+                "Plan a snack before the drive home."
+              ],
+              "interests": [
+                "nature",
+                "movement"
+              ],
+              "also": [],
+              "area": "cary-apex",
+              "outdoor": true,
+              "source": {
+                "kind": "park",
+                "title": "Apex Nature Park",
+                "address": "2600 Evans Rd., Apex, NC",
+                "lat": 35.71709646233568,
+                "lon": -78.90520368087866,
+                "url": "https://www.apexnc.org/800/Nature-Park-Seymour-Athletic-Fields",
+                "amenities": [
+                  "picnic-shelter",
+                  "restroom",
+                  "greenway",
+                  "nature"
+                ],
+                "indoor": false,
+                "area": "cary-apex",
+                "hours": null,
+                "cost": "Free"
+              }
+            },
+            {
+              "ref": "place:plummer-park",
+              "arrive": "15:30",
+              "leave": "17:00",
+              "why": "Your toddler can play at Plummer Park, then join the Cookiemobile at Northeast Regional Library for crafts and games.",
+              "tips": [
+                "Let {them} play first so {they} can settle for the crafts.",
+                "Bring a snack for the car ride home."
+              ],
+              "interests": [
+                "art",
+                "movement"
+              ],
+              "also": [
+                {
+                  "ref": "event:wake:25056",
+                  "source": {
+                    "kind": "event",
+                    "title": "Cookiemobile!",
+                    "start": "2026-12-03T16:00:00-05:00",
+                    "end": "2026-12-03T18:00:00-05:00",
+                    "venue": "Northeast Regional Library",
+                    "address": "14401 Green Elm Lane, Raleigh, NC",
+                    "url": "https://www.wake.gov/events/cookiemobile-0",
+                    "cost": "Free",
+                    "lat": 35.9541926372282,
+                    "lon": -78.5438512128256,
+                    "ages": "Young Children School-Age Children",
+                    "registration": null,
+                    "indoor": true,
+                    "area": "north-raleigh",
+                    "source": "wake-county",
+                    "dropIn": false
+                  }
+                }
+              ],
+              "area": "north-raleigh",
+              "outdoor": false,
+              "source": {
+                "kind": "park",
+                "title": "Plummer Park",
+                "address": "965 Jones Wynd, Wake Forest, NC",
+                "lat": 35.96978706226675,
+                "lon": -78.5486469005171,
+                "url": "https://www.wakeforestnc.gov/parks-recreation-cultural-resources/parks-facilities/plummer-park",
+                "amenities": [
+                  "playground",
+                  "picnic-shelter"
+                ],
+                "indoor": false,
+                "area": "north-raleigh",
+                "hours": null,
+                "cost": "Free"
+              }
+            }
+          ],
+          "rainBackup": null,
+          "timeline": [
+            {
+              "start": "07:00",
+              "end": "07:30",
+              "kind": "meal",
+              "title": "Up and breakfast"
+            },
+            {
+              "start": "07:30",
+              "end": "08:20",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "08:20",
+              "end": "08:40",
+              "kind": "routine",
+              "title": "Get ready to go",
+              "detail": "Shoes on, the bag, water and a snack."
+            },
+            {
+              "start": "08:40",
+              "end": "09:00",
+              "kind": "travel",
+              "title": "Drive to Lake Crabtree County Park"
+            },
+            {
+              "start": "09:00",
+              "end": "10:45",
+              "kind": "outing",
+              "title": "Lake Crabtree County Park"
+            },
+            {
+              "start": "10:45",
+              "end": "11:05",
+              "kind": "travel",
+              "title": "Drive home"
+            },
+            {
+              "start": "11:05",
+              "end": "11:15",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "11:15",
+              "end": "11:45",
+              "kind": "meal",
+              "title": "Lunch"
+            },
+            {
+              "start": "11:45",
+              "end": "12:00",
+              "kind": "quiet",
+              "title": "Wind down",
+              "detail": "A couple of books to settle."
+            },
+            {
+              "start": "12:00",
+              "end": "14:00",
+              "kind": "nap",
+              "title": "Nap"
+            },
+            {
+              "start": "14:00",
+              "end": "14:20",
+              "kind": "routine",
+              "title": "Up and a snack"
+            },
+            {
+              "start": "14:20",
+              "end": "17:30",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "17:30",
+              "end": "18:15",
+              "kind": "meal",
+              "title": "Dinner"
+            },
+            {
+              "start": "18:15",
+              "end": "19:00",
+              "kind": "routine",
+              "title": "Bath, books and bed"
+            }
+          ]
+        },
+        {
+          "nap": "late-nap",
+          "napLabel": "One nap, 1 to 3",
+          "headline": "Play, climb and wander at Crowder County Park",
+          "main": {
+            "ref": "place:crowder-county-park",
+            "arrive": "09:30",
+            "leave": "11:20",
+            "why": "Your toddler can climb and slide at the playground and walk the greenway and garden. It's a roomy morning for a busy walker.",
+            "tips": [
+              "Bring a snack and water.",
+              "Let {them} lead on the paths and stop to look at plants.",
+              "Give a five-minute warning before you head to lunch."
+            ],
+            "interests": [
+              "nature",
+              "movement"
+            ],
+            "also": [],
+            "area": "cary-apex",
+            "outdoor": true,
+            "source": {
+              "kind": "park",
+              "title": "Crowder County Park",
+              "address": "4709 Ten Ten Road",
+              "lat": 35.69174392711247,
+              "lon": -78.76585678897689,
+              "url": "https://www.wakegov.com/departments-government/parks-recreation-and-open-space/all-parks-trails/crowder-county-park",
+              "amenities": [
+                "playground",
+                "picnic-shelter",
+                "restroom",
+                "greenway",
+                "garden"
+              ],
+              "indoor": false,
+              "area": "cary-apex",
+              "hours": null,
+              "cost": "Free"
+            }
+          },
+          "alternatives": [
+            {
+              "ref": "place:gipson-play-plaza",
+              "arrive": "09:00",
+              "leave": "10:45",
+              "why": "Your toddler can try the big destination playground at Dix Park. There's plenty to climb and explore.",
+              "tips": [
+                "Head for the smaller structures first.",
+                "Bring a snack for a break halfway through."
+              ],
+              "interests": [
+                "movement"
+              ],
+              "also": [],
+              "area": "raleigh",
+              "outdoor": true,
+              "source": {
+                "kind": "park",
+                "title": "Gipson Play Plaza at Dix Park",
+                "address": "715 Biggs Dr, Raleigh, NC 27603",
+                "lat": 35.7667,
+                "lon": -78.6539,
+                "url": "https://dixpark.org/gipson-play-plaza",
+                "amenities": [
+                  "playground",
+                  "restroom"
+                ],
+                "indoor": false,
+                "area": "raleigh",
+                "hours": {
+                  "sun": "8 a.m.–9 p.m.",
+                  "mon": "8 a.m.–9 p.m.",
+                  "tue": "8 a.m.–9 p.m.",
+                  "wed": "8 a.m.–9 p.m.",
+                  "thu": "8 a.m.–9 p.m.",
+                  "fri": "8 a.m.–9 p.m.",
+                  "sat": "8 a.m.–9 p.m."
+                },
+                "cost": "Free",
+                "note": "Free; free parking. Big destination playground on the south edge of Dix Park."
+              }
+            },
+            {
+              "ref": "place:knightdale-station-park",
+              "arrive": "09:30",
+              "leave": "11:00",
+              "why": "This is an easy morning in east Wake. Your toddler can play at the playground and walk the greenway.",
+              "tips": [
+                "Bring a snack and water.",
+                "Take a short walk on the greenway after the playground."
+              ],
+              "interests": [
+                "movement",
+                "nature"
+              ],
+              "also": [],
+              "area": "east-wake",
+              "outdoor": true,
+              "source": {
+                "kind": "park",
+                "title": "Knightdale Station Park",
+                "address": "810 North First Avenue, Knightdale, NC",
+                "lat": 35.795776739559024,
+                "lon": -78.47584503817626,
+                "url": "https://www.knightdalenc.gov/knightdalestationpark",
+                "amenities": [
+                  "playground",
+                  "picnic-shelter",
+                  "greenway"
+                ],
+                "indoor": false,
+                "area": "east-wake",
+                "hours": null,
+                "cost": "Free"
+              }
+            },
+            {
+              "ref": "event:libcal:durham-county-library:17189140",
+              "arrive": "10:00",
+              "leave": "11:30",
+              "why": "Your toddler can explore the Snap Circuits at the Main Library lab, then run around Durham Central Park.",
+              "tips": [
+                "Let {them} press and watch, not build.",
+                "Save the snack for the park."
+              ],
+              "interests": [
+                "science",
+                "movement"
+              ],
+              "also": [
+                {
+                  "ref": "place:durham-central-park",
+                  "source": {
+                    "kind": "park",
+                    "title": "Durham Central Park",
+                    "address": "501 Foster St, Durham, NC",
+                    "lat": 36.0006525,
+                    "lon": -78.90071999999999,
+                    "url": "https://www.dprplaymore.org/Facilities/Facility/Details/Durham-Central-Park-18",
+                    "amenities": [
+                      "playground",
+                      "restroom",
+                      "greenway"
+                    ],
+                    "indoor": false,
+                    "area": "durham",
+                    "hours": null,
+                    "cost": "Free"
+                  }
+                }
+              ],
+              "area": "durham",
+              "outdoor": false,
+              "source": {
+                "kind": "event",
+                "title": "This Week In the Lab: Snap Circuits",
+                "start": "2026-12-03T10:00:00",
+                "end": "2026-12-03T14:00:00",
+                "venue": "Main Library",
+                "address": "300 N. Roxboro St, Durham, NC",
+                "url": "https://durhamcountylibrary.libcal.com/event/17189140",
+                "cost": "Free",
+                "lat": 35.99490876306902,
+                "lon": -78.8964971677054,
+                "ages": "Adult, Elementary School, Emerging Adult: 18-24 Year Olds, High School, Intergenerational, Kindergarten, Middle School, Pre-School, Senior Citizen, Teen, Toddler, Tweens: 9-12 Year Olds, DPS",
+                "registration": false,
+                "indoor": true,
+                "area": "durham",
+                "source": "libcal",
+                "dropIn": true
+              }
+            },
+            {
+              "ref": "place:tyler-run-park",
+              "arrive": "15:30",
+              "leave": "17:00",
+              "why": "Your toddler can play at Tyler Run Park, then enjoy crafts and games at the Cookiemobile at Northeast Regional Library.",
+              "tips": [
+                "Let {them} play first so {they} can settle for the crafts.",
+                "Bring a snack for afterward."
+              ],
+              "interests": [
+                "art",
+                "movement"
+              ],
+              "also": [
+                {
+                  "ref": "event:wake:25056",
+                  "source": {
+                    "kind": "event",
+                    "title": "Cookiemobile!",
+                    "start": "2026-12-03T16:00:00-05:00",
+                    "end": "2026-12-03T18:00:00-05:00",
+                    "venue": "Northeast Regional Library",
+                    "address": "14401 Green Elm Lane, Raleigh, NC",
+                    "url": "https://www.wake.gov/events/cookiemobile-0",
+                    "cost": "Free",
+                    "lat": 35.9541926372282,
+                    "lon": -78.5438512128256,
+                    "ages": "Young Children School-Age Children",
+                    "registration": null,
+                    "indoor": true,
+                    "area": "north-raleigh",
+                    "source": "wake-county",
+                    "dropIn": false
+                  }
+                }
+              ],
+              "area": "north-raleigh",
+              "outdoor": false,
+              "source": {
+                "kind": "park",
+                "title": "Tyler Run Park",
+                "address": "830 Pineview Dr, Wake Forest, NC",
+                "lat": 35.971215429049174,
+                "lon": -78.5212159679015,
+                "url": "https://www.wakeforestnc.gov/parks-recreation-cultural-resources/parks-facilities/tyler-run-park",
+                "amenities": [
+                  "playground",
+                  "picnic-shelter",
+                  "greenway"
+                ],
+                "indoor": false,
+                "area": "north-raleigh",
+                "hours": null,
+                "cost": "Free"
+              }
+            }
+          ],
+          "rainBackup": null,
+          "timeline": [
+            {
+              "start": "07:00",
+              "end": "07:30",
+              "kind": "meal",
+              "title": "Up and breakfast"
+            },
+            {
+              "start": "07:30",
+              "end": "08:50",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "08:50",
+              "end": "09:10",
+              "kind": "routine",
+              "title": "Get ready to go",
+              "detail": "Shoes on, the bag, water and a snack."
+            },
+            {
+              "start": "09:10",
+              "end": "09:30",
+              "kind": "travel",
+              "title": "Drive to Crowder County Park"
+            },
+            {
+              "start": "09:30",
+              "end": "11:20",
+              "kind": "outing",
+              "title": "Crowder County Park"
+            },
+            {
+              "start": "11:20",
+              "end": "11:40",
+              "kind": "travel",
+              "title": "Drive home"
+            },
+            {
+              "start": "11:40",
+              "end": "12:15",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "12:15",
+              "end": "12:45",
+              "kind": "meal",
+              "title": "Lunch"
+            },
+            {
+              "start": "12:45",
+              "end": "13:00",
+              "kind": "quiet",
+              "title": "Wind down",
+              "detail": "A couple of books to settle."
+            },
+            {
+              "start": "13:00",
+              "end": "15:00",
+              "kind": "nap",
+              "title": "Nap"
+            },
+            {
+              "start": "15:00",
+              "end": "15:20",
+              "kind": "routine",
+              "title": "Up and a snack"
+            },
+            {
+              "start": "15:20",
+              "end": "18:00",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "18:00",
+              "end": "18:45",
+              "kind": "meal",
+              "title": "Dinner"
+            },
+            {
+              "start": "18:45",
+              "end": "19:30",
+              "kind": "routine",
+              "title": "Bath, books and bed"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "checked": {
+    "at": "2026-11-27T11:03:44.799Z",
+    "forecast": "nws",
+    "weather": {
+      "period": "Thursday",
+      "tempF": 67,
+      "precipProbability": 3,
+      "shortForecast": "Mostly Sunny",
+      "windMph": 5,
+      "windFrom": "SW",
+      "hours": [
+        {
+          "t": "05:00",
+          "tempF": 41,
+          "pop": 1,
+          "cloud": 33
+        },
+        {
+          "t": "06:00",
+          "tempF": 40,
+          "pop": 1,
+          "cloud": 33
+        },
+        {
+          "t": "07:00",
+          "tempF": 41,
+          "pop": 2,
+          "cloud": 47
+        },
+        {
+          "t": "08:00",
+          "tempF": 44,
+          "pop": 2,
+          "cloud": 47
+        },
+        {
+          "t": "09:00",
+          "tempF": 49,
+          "pop": 2,
+          "cloud": 47
+        },
+        {
+          "t": "10:00",
+          "tempF": 54,
+          "pop": 2,
+          "cloud": 47
+        },
+        {
+          "t": "11:00",
+          "tempF": 58,
+          "pop": 2,
+          "cloud": 47
+        },
+        {
+          "t": "12:00",
+          "tempF": 62,
+          "pop": 2,
+          "cloud": 47
+        },
+        {
+          "t": "13:00",
+          "tempF": 64,
+          "pop": 3,
+          "cloud": 52
+        },
+        {
+          "t": "14:00",
+          "tempF": 65,
+          "pop": 3,
+          "cloud": 52
+        },
+        {
+          "t": "15:00",
+          "tempF": 66,
+          "pop": 3,
+          "cloud": 52
+        },
+        {
+          "t": "16:00",
+          "tempF": 65,
+          "pop": 3,
+          "cloud": 52
+        },
+        {
+          "t": "17:00",
+          "tempF": 63,
+          "pop": 3,
+          "cloud": 52
+        }
+      ]
+    },
+    "hidden": []
+  }
+}

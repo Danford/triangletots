@@ -1,0 +1,915 @@
+{
+  "date": "2026-11-29",
+  "band": "t2",
+  "versions": [
+    {
+      "at": "2026-11-16T11:04:48.030Z",
+      "reason": null,
+      "forecast": "none",
+      "weather": null,
+      "plans": [
+        {
+          "nap": "early-nap",
+          "napLabel": "One nap, 12 to 2",
+          "headline": "Holiday songs, then a run at the park",
+          "main": {
+            "ref": "event:wake:24625",
+            "arrive": "14:50",
+            "leave": "16:40",
+            "why": "Your child can listen and move to holiday songs from the Greenhope Serenaders Club at West Regional Library. Then {they} burn{s} off energy at Carpenter Park.",
+            "tips": [
+              "Sit near the back so {they} can bounce and wiggle without bothering anyone.",
+              "Pack a snack for the park, so the songs stay easy.",
+              "Tell {them} the park comes next when the music ends, to make leaving the library smoother."
+            ],
+            "interests": [
+              "music",
+              "movement"
+            ],
+            "also": [
+              {
+                "ref": "place:carpenter-park",
+                "source": {
+                  "kind": "park",
+                  "title": "Carpenter Park",
+                  "address": "4420 Louis Stephens Drive, Cary, NC",
+                  "lat": 35.82284995357582,
+                  "lon": -78.86424049854338,
+                  "url": "http://www.townofcary.org/recreation-enjoyment/parks-greenways-environment/parks/carpenter-park",
+                  "amenities": [
+                    "playground",
+                    "picnic-shelter",
+                    "restroom",
+                    "greenway"
+                  ],
+                  "indoor": false,
+                  "area": "cary-apex",
+                  "hours": null,
+                  "cost": "Free"
+                }
+              }
+            ],
+            "area": "cary-apex",
+            "outdoor": false,
+            "source": {
+              "kind": "event",
+              "title": "Music in the Library: Greenhope Serenaders Club",
+              "start": "2026-11-29T15:00:00-05:00",
+              "end": "2026-11-29T16:00:00-05:00",
+              "venue": "West Regional Library",
+              "address": "4000 Louis Stephens Drive, Cary, NC",
+              "url": "https://www.wake.gov/events/music-library-greenhope-serenaders-club",
+              "cost": "Free",
+              "lat": 35.8148624293953,
+              "lon": -78.8644916775722,
+              "ages": "All Ages",
+              "registration": null,
+              "indoor": true,
+              "area": "cary-apex",
+              "source": "wake-county",
+              "dropIn": false
+            }
+          },
+          "alternatives": [
+            {
+              "ref": "event:wake-parks:9411:2026-11-29",
+              "arrive": "09:30",
+              "leave": "11:00",
+              "why": "A drop-in Exploration Station at Yates Mill about American bison. Your child can come and go as {they} like{s}.",
+              "tips": [
+                "Come early in the morning with a snack in the bag.",
+                "Let {them} lead and stay only as long as {they} stay{s} interested."
+              ],
+              "interests": [
+                "animals",
+                "nature"
+              ],
+              "also": [],
+              "area": "raleigh",
+              "outdoor": true,
+              "source": {
+                "kind": "event",
+                "title": "Exploration Station: American Bison",
+                "start": "2026-11-29T08:30:00",
+                "end": "2026-11-29T17:00:00",
+                "venue": "Historic Yates Mill County Park",
+                "address": "4620 Lake Wheeler Rd., Raleigh, NC  27603",
+                "url": "https://apm.activecommunities.com/wakeparks/Activity_Search/exploration-station-american-bison/9411?locale=en-US",
+                "cost": "Free",
+                "lat": 35.72157134974476,
+                "lon": -78.68526087901417,
+                "ages": null,
+                "registration": false,
+                "indoor": false,
+                "area": "raleigh",
+                "source": "wake-parks",
+                "dropIn": true
+              }
+            },
+            {
+              "ref": "event:weekly:mols-early-childhood:2026-11-29",
+              "arrive": "10:00",
+              "leave": "11:15",
+              "why": "Sensory play, songs and stories for little ones in Hideaway Woods. It is a drop-in, so your child can play as long as {they} like{s}.",
+              "tips": [
+                "Bring a snack and a spare layer for messy play.",
+                "Leave while {they} {is} still having fun, so the goodbye is easy."
+              ],
+              "interests": [
+                "nature",
+                "music",
+                "stories"
+              ],
+              "also": [],
+              "area": "durham",
+              "outdoor": true,
+              "source": {
+                "kind": "event",
+                "title": "Early Childhood Drop-In",
+                "start": "2026-11-29T09:30:00",
+                "end": "2026-11-29T11:30:00",
+                "venue": "Hideaway Woods, Museum of Life and Science",
+                "address": "433 W Murray Ave, Durham, NC 27704",
+                "url": "https://www.lifeandscience.org/learn/drop-in-programs/",
+                "cost": "Included with museum admission",
+                "lat": 36.0294,
+                "lon": -78.8993,
+                "ages": "young children and their caregivers",
+                "registration": false,
+                "indoor": false,
+                "area": "durham",
+                "source": "weekly",
+                "dropIn": true
+              }
+            },
+            {
+              "ref": "place:white-deer-park",
+              "arrive": "09:00",
+              "leave": "10:45",
+              "why": "A playground and a nature setting to explore at your child's own pace.",
+              "tips": [
+                "Bring a snack to eat at the picnic shelter.",
+                "Let {them} pick which way to wander first."
+              ],
+              "interests": [
+                "nature",
+                "movement"
+              ],
+              "also": [],
+              "area": "south-wake",
+              "outdoor": true,
+              "source": {
+                "kind": "park",
+                "title": "White Deer Park",
+                "address": "2400 Aversboro Road, Garner NC, 27529",
+                "lat": 35.67703339814751,
+                "lon": -78.62516412154841,
+                "url": "https://www.garnernc.gov/departments/parks-recreation-and-cultural-resources/garner-parks/white-deer-park",
+                "amenities": [
+                  "playground",
+                  "picnic-shelter",
+                  "restroom",
+                  "greenway",
+                  "nature"
+                ],
+                "indoor": false,
+                "area": "south-wake",
+                "hours": null,
+                "cost": "Free"
+              }
+            }
+          ],
+          "rainBackup": null,
+          "timeline": [
+            {
+              "start": "07:00",
+              "end": "07:30",
+              "kind": "meal",
+              "title": "Up and breakfast"
+            },
+            {
+              "start": "07:30",
+              "end": "11:15",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "11:15",
+              "end": "11:45",
+              "kind": "meal",
+              "title": "Lunch"
+            },
+            {
+              "start": "11:45",
+              "end": "12:00",
+              "kind": "quiet",
+              "title": "Wind down",
+              "detail": "A couple of books to settle."
+            },
+            {
+              "start": "12:00",
+              "end": "14:00",
+              "kind": "nap",
+              "title": "Nap"
+            },
+            {
+              "start": "14:00",
+              "end": "14:20",
+              "kind": "routine",
+              "title": "Up and a snack"
+            },
+            {
+              "start": "14:20",
+              "end": "14:30",
+              "kind": "routine",
+              "title": "Get ready to go",
+              "detail": "Shoes on, the bag, water and a snack."
+            },
+            {
+              "start": "14:30",
+              "end": "14:50",
+              "kind": "travel",
+              "title": "Drive to West Regional Library"
+            },
+            {
+              "start": "14:50",
+              "end": "16:00",
+              "kind": "outing",
+              "title": "Music in the Library: Greenhope Serenaders Club"
+            },
+            {
+              "start": "16:00",
+              "end": "16:10",
+              "kind": "travel",
+              "title": "Drive to Carpenter Park"
+            },
+            {
+              "start": "16:10",
+              "end": "16:40",
+              "kind": "outing",
+              "title": "Carpenter Park"
+            },
+            {
+              "start": "16:40",
+              "end": "17:00",
+              "kind": "travel",
+              "title": "Drive home"
+            },
+            {
+              "start": "17:00",
+              "end": "18:00",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "18:00",
+              "end": "18:45",
+              "kind": "meal",
+              "title": "Dinner"
+            },
+            {
+              "start": "18:45",
+              "end": "19:30",
+              "kind": "routine",
+              "title": "Bath, books and bed"
+            }
+          ]
+        },
+        {
+          "nap": "late-nap",
+          "napLabel": "One nap, 1 to 3",
+          "headline": "Meet the bison at Yates Mill",
+          "main": {
+            "ref": "event:wake-parks:9411:2026-11-29",
+            "arrive": "09:30",
+            "leave": "11:00",
+            "why": "Your child can stop by the drop-in Exploration Station at Yates Mill and learn about American bison. Come and go as {they} like{s}.",
+            "tips": [
+              "Bring a snack and a water bottle for the walk around the park.",
+              "Ask your child what {they} notice{s} about the bison, and let {them} lead.",
+              "Head out while {they} {is} still happy, so the goodbye is calm."
+            ],
+            "interests": [
+              "animals",
+              "nature"
+            ],
+            "also": [],
+            "area": "raleigh",
+            "outdoor": true,
+            "source": {
+              "kind": "event",
+              "title": "Exploration Station: American Bison",
+              "start": "2026-11-29T08:30:00",
+              "end": "2026-11-29T17:00:00",
+              "venue": "Historic Yates Mill County Park",
+              "address": "4620 Lake Wheeler Rd., Raleigh, NC  27603",
+              "url": "https://apm.activecommunities.com/wakeparks/Activity_Search/exploration-station-american-bison/9411?locale=en-US",
+              "cost": "Free",
+              "lat": 35.72157134974476,
+              "lon": -78.68526087901417,
+              "ages": null,
+              "registration": false,
+              "indoor": false,
+              "area": "raleigh",
+              "source": "wake-parks",
+              "dropIn": true
+            }
+          },
+          "alternatives": [
+            {
+              "ref": "event:weekly:mols-early-childhood:2026-11-29",
+              "arrive": "10:00",
+              "leave": "11:30",
+              "why": "Sensory play, songs and stories for little ones in Hideaway Woods. It is a drop-in, so your child can stay as long as {they} like{s}.",
+              "tips": [
+                "Bring a snack and a spare layer for messy play.",
+                "Let {them} pick the activity and skip the rest."
+              ],
+              "interests": [
+                "nature",
+                "music",
+                "stories"
+              ],
+              "also": [],
+              "area": "durham",
+              "outdoor": true,
+              "source": {
+                "kind": "event",
+                "title": "Early Childhood Drop-In",
+                "start": "2026-11-29T09:30:00",
+                "end": "2026-11-29T11:30:00",
+                "venue": "Hideaway Woods, Museum of Life and Science",
+                "address": "433 W Murray Ave, Durham, NC 27704",
+                "url": "https://www.lifeandscience.org/learn/drop-in-programs/",
+                "cost": "Included with museum admission",
+                "lat": 36.0294,
+                "lon": -78.8993,
+                "ages": "young children and their caregivers",
+                "registration": false,
+                "indoor": false,
+                "area": "durham",
+                "source": "weekly",
+                "dropIn": true
+              }
+            },
+            {
+              "ref": "place:hemlock-bluffs",
+              "arrive": "09:30",
+              "leave": "11:15",
+              "why": "A woodland walk for your child to spot plants and creatures along the trail.",
+              "tips": [
+                "A carrier works better than a stroller on the stairs.",
+                "Bring snacks and stop often to look at small things."
+              ],
+              "interests": [
+                "nature"
+              ],
+              "also": [],
+              "area": "cary-apex",
+              "outdoor": true,
+              "source": {
+                "kind": "park",
+                "title": "Hemlock Bluffs Nature Preserve",
+                "address": "2616 Kildaire Farm Rd, Cary, NC 27518",
+                "lat": 35.7253,
+                "lon": -78.7846,
+                "url": "https://www.carync.gov/recreation-enjoyment/parks-greenways-environment/parks/stevens-nature-center-at-hemlock-bluffs-nature-preserve",
+                "amenities": [
+                  "nature"
+                ],
+                "indoor": false,
+                "area": "cary-apex",
+                "hours": {
+                  "sun": "9 a.m. to sunset",
+                  "mon": "9 a.m. to sunset",
+                  "tue": "9 a.m. to sunset",
+                  "wed": "9 a.m. to sunset",
+                  "thu": "9 a.m. to sunset",
+                  "fri": "9 a.m. to sunset",
+                  "sat": "9 a.m. to sunset"
+                },
+                "cost": "Free",
+                "note": "Free. About three miles of mulched trails and boardwalks with stairs (a carrier beats a stroller); restrooms in the Stevens Nature Center, open Mon–Sat 10–5, Sun 1–5."
+              }
+            },
+            {
+              "ref": "place:lake-benson-park",
+              "arrive": "15:30",
+              "leave": "16:45",
+              "why": "A playground and lakeside paths for your child to explore after the nap.",
+              "tips": [
+                "Bring a snack to eat at the picnic shelter.",
+                "Walk the greenway first, then play."
+              ],
+              "interests": [
+                "movement",
+                "water"
+              ],
+              "also": [],
+              "area": "south-wake",
+              "outdoor": true,
+              "source": {
+                "kind": "park",
+                "title": "Lake Benson Park",
+                "address": "921 Buffaloe Road, Garner NC, 27529",
+                "lat": 35.67509092685942,
+                "lon": -78.62824702555534,
+                "url": "https://www.garnernc.gov/departments/parks-recreation-and-cultural-resources/garner-parks/lake-benson-park",
+                "amenities": [
+                  "playground",
+                  "picnic-shelter",
+                  "restroom",
+                  "greenway",
+                  "boating"
+                ],
+                "indoor": false,
+                "area": "south-wake",
+                "hours": null,
+                "cost": "Free"
+              }
+            }
+          ],
+          "rainBackup": null,
+          "timeline": [
+            {
+              "start": "07:00",
+              "end": "07:30",
+              "kind": "meal",
+              "title": "Up and breakfast"
+            },
+            {
+              "start": "07:30",
+              "end": "08:50",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "08:50",
+              "end": "09:10",
+              "kind": "routine",
+              "title": "Get ready to go",
+              "detail": "Shoes on, the bag, water and a snack."
+            },
+            {
+              "start": "09:10",
+              "end": "09:30",
+              "kind": "travel",
+              "title": "Drive to Historic Yates Mill County Park"
+            },
+            {
+              "start": "09:30",
+              "end": "11:00",
+              "kind": "outing",
+              "title": "Historic Yates Mill County Park"
+            },
+            {
+              "start": "11:00",
+              "end": "11:20",
+              "kind": "travel",
+              "title": "Drive home"
+            },
+            {
+              "start": "11:20",
+              "end": "12:15",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "12:15",
+              "end": "12:45",
+              "kind": "meal",
+              "title": "Lunch"
+            },
+            {
+              "start": "12:45",
+              "end": "13:00",
+              "kind": "quiet",
+              "title": "Wind down",
+              "detail": "A couple of books to settle."
+            },
+            {
+              "start": "13:00",
+              "end": "15:00",
+              "kind": "nap",
+              "title": "Nap"
+            },
+            {
+              "start": "15:00",
+              "end": "15:20",
+              "kind": "routine",
+              "title": "Up and a snack"
+            },
+            {
+              "start": "15:20",
+              "end": "18:30",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "18:30",
+              "end": "19:15",
+              "kind": "meal",
+              "title": "Dinner"
+            },
+            {
+              "start": "19:15",
+              "end": "20:00",
+              "kind": "routine",
+              "title": "Bath, books and bed"
+            }
+          ]
+        },
+        {
+          "nap": "short-nap",
+          "napLabel": "Short nap, 1 to 2",
+          "headline": "Playground and a nature walk at White Deer Park",
+          "main": {
+            "ref": "place:white-deer-park",
+            "arrive": "09:30",
+            "leave": "11:30",
+            "why": "Your child can play on the playground and wander the nature areas at {their} own pace.",
+            "tips": [
+              "Bring a snack to enjoy at the picnic shelter.",
+              "Let {them} choose between the playground and the walk, then try the other.",
+              "Start heading to the car at 11:15 so {they} {is} not rushed."
+            ],
+            "interests": [
+              "nature",
+              "movement"
+            ],
+            "also": [],
+            "area": "south-wake",
+            "outdoor": true,
+            "source": {
+              "kind": "park",
+              "title": "White Deer Park",
+              "address": "2400 Aversboro Road, Garner NC, 27529",
+              "lat": 35.67703339814751,
+              "lon": -78.62516412154841,
+              "url": "https://www.garnernc.gov/departments/parks-recreation-and-cultural-resources/garner-parks/white-deer-park",
+              "amenities": [
+                "playground",
+                "picnic-shelter",
+                "restroom",
+                "greenway",
+                "nature"
+              ],
+              "indoor": false,
+              "area": "south-wake",
+              "hours": null,
+              "cost": "Free"
+            }
+          },
+          "alternatives": [
+            {
+              "ref": "event:wake-parks:9423",
+              "arrive": "14:30",
+              "leave": "16:00",
+              "why": "A drop-in look inside Historic Yates Mill, with historic interpreters to talk about how the mill works.",
+              "tips": [
+                "Keep {them} close to you inside the mill.",
+                "Stay for a short visit and leave while {they} {is} still curious."
+              ],
+              "interests": [
+                "science",
+                "nature"
+              ],
+              "also": [],
+              "area": "raleigh",
+              "outdoor": true,
+              "source": {
+                "kind": "event",
+                "title": "Mill Open House",
+                "start": "2026-11-29T13:00:00",
+                "end": "2026-11-29T16:00:00",
+                "venue": "Historic Yates Mill County Park",
+                "address": "4620 Lake Wheeler Rd., Raleigh, NC  27603",
+                "url": "https://apm.activecommunities.com/wakeparks/Activity_Search/mill-open-house/9423?locale=en-US",
+                "cost": "Free",
+                "lat": 35.72157134974476,
+                "lon": -78.68526087901417,
+                "ages": null,
+                "registration": false,
+                "indoor": false,
+                "area": "raleigh",
+                "source": "wake-parks",
+                "dropIn": true
+              }
+            },
+            {
+              "ref": "event:weekly:mols-early-childhood:2026-11-29",
+              "arrive": "10:00",
+              "leave": "11:30",
+              "why": "Sensory play, songs and stories for little ones in Hideaway Woods. It is a drop-in, so your child can play as long as {they} like{s}.",
+              "tips": [
+                "Bring a snack and a spare layer for messy play.",
+                "Let {them} lead and leave when {they} start{s} to fade."
+              ],
+              "interests": [
+                "nature",
+                "music",
+                "stories"
+              ],
+              "also": [],
+              "area": "durham",
+              "outdoor": true,
+              "source": {
+                "kind": "event",
+                "title": "Early Childhood Drop-In",
+                "start": "2026-11-29T09:30:00",
+                "end": "2026-11-29T11:30:00",
+                "venue": "Hideaway Woods, Museum of Life and Science",
+                "address": "433 W Murray Ave, Durham, NC 27704",
+                "url": "https://www.lifeandscience.org/learn/drop-in-programs/",
+                "cost": "Included with museum admission",
+                "lat": 36.0294,
+                "lon": -78.8993,
+                "ages": "young children and their caregivers",
+                "registration": false,
+                "indoor": false,
+                "area": "durham",
+                "source": "weekly",
+                "dropIn": true
+              }
+            },
+            {
+              "ref": "event:wake:24625",
+              "arrive": "14:50",
+              "leave": "16:40",
+              "why": "Your child can listen to holiday songs from the Greenhope Serenaders Club at West Regional Library, then play at Carpenter Park.",
+              "tips": [
+                "Sit near the back so {they} can wiggle freely.",
+                "Bring a snack for the park."
+              ],
+              "interests": [
+                "music",
+                "movement"
+              ],
+              "also": [
+                {
+                  "ref": "place:carpenter-park",
+                  "source": {
+                    "kind": "park",
+                    "title": "Carpenter Park",
+                    "address": "4420 Louis Stephens Drive, Cary, NC",
+                    "lat": 35.82284995357582,
+                    "lon": -78.86424049854338,
+                    "url": "http://www.townofcary.org/recreation-enjoyment/parks-greenways-environment/parks/carpenter-park",
+                    "amenities": [
+                      "playground",
+                      "picnic-shelter",
+                      "restroom",
+                      "greenway"
+                    ],
+                    "indoor": false,
+                    "area": "cary-apex",
+                    "hours": null,
+                    "cost": "Free"
+                  }
+                }
+              ],
+              "area": "cary-apex",
+              "outdoor": false,
+              "source": {
+                "kind": "event",
+                "title": "Music in the Library: Greenhope Serenaders Club",
+                "start": "2026-11-29T15:00:00-05:00",
+                "end": "2026-11-29T16:00:00-05:00",
+                "venue": "West Regional Library",
+                "address": "4000 Louis Stephens Drive, Cary, NC",
+                "url": "https://www.wake.gov/events/music-library-greenhope-serenaders-club",
+                "cost": "Free",
+                "lat": 35.8148624293953,
+                "lon": -78.8644916775722,
+                "ages": "All Ages",
+                "registration": null,
+                "indoor": true,
+                "area": "cary-apex",
+                "source": "wake-county",
+                "dropIn": false
+              }
+            }
+          ],
+          "rainBackup": null,
+          "timeline": [
+            {
+              "start": "07:00",
+              "end": "07:30",
+              "kind": "meal",
+              "title": "Up and breakfast"
+            },
+            {
+              "start": "07:30",
+              "end": "08:50",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "08:50",
+              "end": "09:10",
+              "kind": "routine",
+              "title": "Get ready to go",
+              "detail": "Shoes on, the bag, water and a snack."
+            },
+            {
+              "start": "09:10",
+              "end": "09:30",
+              "kind": "travel",
+              "title": "Drive to White Deer Park"
+            },
+            {
+              "start": "09:30",
+              "end": "11:30",
+              "kind": "outing",
+              "title": "White Deer Park"
+            },
+            {
+              "start": "11:30",
+              "end": "11:50",
+              "kind": "travel",
+              "title": "Drive home"
+            },
+            {
+              "start": "11:50",
+              "end": "12:15",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "12:15",
+              "end": "12:45",
+              "kind": "meal",
+              "title": "Lunch"
+            },
+            {
+              "start": "12:45",
+              "end": "13:00",
+              "kind": "quiet",
+              "title": "Wind down",
+              "detail": "A couple of books to settle."
+            },
+            {
+              "start": "13:00",
+              "end": "14:00",
+              "kind": "nap",
+              "title": "Nap"
+            },
+            {
+              "start": "14:00",
+              "end": "14:20",
+              "kind": "routine",
+              "title": "Up and a snack"
+            },
+            {
+              "start": "14:20",
+              "end": "18:00",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "18:00",
+              "end": "18:45",
+              "kind": "meal",
+              "title": "Dinner"
+            },
+            {
+              "start": "18:45",
+              "end": "19:30",
+              "kind": "routine",
+              "title": "Bath, books and bed"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "checked": {
+    "at": "2026-11-27T11:03:44.736Z",
+    "forecast": "nws",
+    "weather": {
+      "period": "Sunday",
+      "tempF": 64,
+      "precipProbability": 5,
+      "shortForecast": "Mostly Sunny",
+      "windMph": 10,
+      "windFrom": "SW",
+      "hours": [
+        {
+          "t": "05:00",
+          "tempF": 40,
+          "pop": 0,
+          "cloud": 43
+        },
+        {
+          "t": "06:00",
+          "tempF": 39,
+          "pop": 0,
+          "cloud": 45
+        },
+        {
+          "t": "07:00",
+          "tempF": 39,
+          "pop": 0,
+          "cloud": 47
+        },
+        {
+          "t": "08:00",
+          "tempF": 43,
+          "pop": 0,
+          "cloud": 45
+        },
+        {
+          "t": "09:00",
+          "tempF": 46,
+          "pop": 0,
+          "cloud": 42
+        },
+        {
+          "t": "10:00",
+          "tempF": 50,
+          "pop": 0,
+          "cloud": 40
+        },
+        {
+          "t": "11:00",
+          "tempF": 54,
+          "pop": 0,
+          "cloud": 41
+        },
+        {
+          "t": "12:00",
+          "tempF": 57,
+          "pop": 0,
+          "cloud": 41
+        },
+        {
+          "t": "13:00",
+          "tempF": 60,
+          "pop": 5,
+          "cloud": 42
+        },
+        {
+          "t": "14:00",
+          "tempF": 62,
+          "pop": 5,
+          "cloud": 46
+        },
+        {
+          "t": "15:00",
+          "tempF": 63,
+          "pop": 5,
+          "cloud": 51
+        },
+        {
+          "t": "16:00",
+          "tempF": 63,
+          "pop": 5,
+          "cloud": 55
+        },
+        {
+          "t": "17:00",
+          "tempF": 61,
+          "pop": 5,
+          "cloud": 69
+        },
+        {
+          "t": "18:00",
+          "tempF": 59,
+          "pop": 5,
+          "cloud": 82
+        },
+        {
+          "t": "19:00",
+          "tempF": 57,
+          "pop": 93,
+          "cloud": 98
+        },
+        {
+          "t": "20:00",
+          "tempF": 56,
+          "pop": 93,
+          "cloud": 98
+        },
+        {
+          "t": "21:00",
+          "tempF": 55,
+          "pop": 93,
+          "cloud": 98
+        },
+        {
+          "t": "22:00",
+          "tempF": 55,
+          "pop": 93,
+          "cloud": 98
+        },
+        {
+          "t": "23:00",
+          "tempF": 55,
+          "pop": 93,
+          "cloud": 98
+        }
+      ]
+    },
+    "hidden": []
+  }
+}

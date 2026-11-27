@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Triangle Tots//triangletots.com//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:2026-12-05-eva-perry-regional-library-s-30th-year-anniversary-at-apex-c
+ -1330-1600@triangletots.com
+DTSTAMP:20261127T100000Z
+DTSTART:20261205T183000Z
+DTEND:20261205T210000Z
+SUMMARY:Eva Perry Regional Library's 30th Year Anniversary. at Apex Communi
+ ty Park
+LOCATION:2200 Laura Duncan Rd.\, Apex\, NC
+DESCRIPTION:http://www.apexnc.org/795/Apex-Community-Park\nhttps://www.wake
+ .gov/events/eva-perry-regional-librarys-30th-year-anniversary\nThe whole d
+ ay: https://triangletots.com/2026-12-05/t4/\nTimes and details can change.
+  Check the event or place before you go.
+END:VEVENT
+END:VCALENDAR

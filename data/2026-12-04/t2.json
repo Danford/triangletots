@@ -1,0 +1,861 @@
+{
+  "date": "2026-12-04",
+  "band": "t2",
+  "versions": [
+    {
+      "at": "2026-11-21T11:05:31.185Z",
+      "reason": null,
+      "forecast": "none",
+      "weather": null,
+      "plans": [
+        {
+          "nap": "early-nap",
+          "napLabel": "One nap, 12 to 2",
+          "headline": "Play at the park, then watch ocean animals get fed",
+          "main": {
+            "ref": "place:fred-fletcher-park",
+            "arrive": "09:45",
+            "leave": "11:00",
+            "also": [
+              {
+                "ref": "event:museum:nc-natural-sciences:123927",
+                "source": {
+                  "kind": "event",
+                  "title": "Live Animal Feeding – Ocean Habitat",
+                  "start": "2026-12-04T10:45:00",
+                  "end": "2026-12-04T11:00:00",
+                  "venue": "NC Museum of Natural Sciences",
+                  "address": "11 West Jones Street, Raleigh, NC, 27601",
+                  "url": null,
+                  "cost": "Museum admission is free",
+                  "lat": 35.7822735,
+                  "lon": -78.6395502,
+                  "ages": "Adults All Ages Children Live Animals Teens Walk-up Programs",
+                  "registration": false,
+                  "indoor": true,
+                  "area": "raleigh",
+                  "source": "museum",
+                  "dropIn": false
+                }
+              }
+            ],
+            "why": "Your child runs and climbs at Fred Fletcher Park, then watches the Live Animal Feeding in the Ocean Habitat at the NC Museum of Natural Sciences at 10:45 am. The feeding is short and walk-up.",
+            "tips": [
+              "Pack a snack for the park so {they} {is}n't hungry when the feeding starts.",
+              "Tell your child the feeding is a short show. Leaving after it feels natural.",
+              "Stand close so {they} can see the animals eat."
+            ],
+            "interests": [
+              "animals",
+              "water",
+              "movement"
+            ],
+            "area": "raleigh",
+            "outdoor": false,
+            "source": {
+              "kind": "park",
+              "title": "Fred Fletcher Park",
+              "address": "820 Clay Street, Raleigh, NC 27605",
+              "lat": 35.79264,
+              "lon": -78.64957,
+              "url": "https://raleighnc.gov/parks-and-recreation/places/fred-fletcher-park",
+              "amenities": [
+                "garden",
+                "picnic-shelter",
+                "courts",
+                "fields",
+                "playground"
+              ],
+              "indoor": false,
+              "area": "raleigh",
+              "hours": null,
+              "cost": "Free"
+            }
+          },
+          "alternatives": [
+            {
+              "ref": "place:historic-oak-view-county-park",
+              "arrive": "09:00",
+              "leave": "10:45",
+              "why": "Your child can look for the animals here and wander the garden paths. It is an easy, slow morning outside.",
+              "tips": [
+                "Let {them} lead the way and stop wherever {they} like{s}.",
+                "Bring a snack to share at the picnic shelter."
+              ],
+              "interests": [
+                "animals",
+                "nature"
+              ],
+              "also": [],
+              "area": "raleigh",
+              "outdoor": true,
+              "source": {
+                "kind": "park",
+                "title": "Historic Oak View County Park",
+                "address": "4028 Carya Dr., Raleigh, NC  27610",
+                "lat": 35.76980126731367,
+                "lon": -78.57063248179927,
+                "url": "https://www.wakegov.com/departments-government/parks-recreation-and-open-space/all-parks-trails/historic-oak-view-county-park",
+                "amenities": [
+                  "picnic-shelter",
+                  "restroom",
+                  "greenway",
+                  "animals",
+                  "garden"
+                ],
+                "indoor": false,
+                "area": "raleigh",
+                "hours": null,
+                "cost": "Free"
+              }
+            },
+            {
+              "ref": "event:libcal:durham-county-library:17189142",
+              "arrive": "14:30",
+              "leave": "16:30",
+              "also": [
+                {
+                  "ref": "place:east-end-park",
+                  "source": {
+                    "kind": "park",
+                    "title": "East End Park",
+                    "address": "1200 N Alston Ave, Durham, NC",
+                    "lat": 35.997914,
+                    "lon": -78.886666,
+                    "url": "https://www.dprplaymore.org/Facilities/Facility/Details/East-End-Park-20",
+                    "amenities": [
+                      "playground",
+                      "splashpad",
+                      "picnic-shelter",
+                      "restroom"
+                    ],
+                    "indoor": false,
+                    "area": "durham",
+                    "hours": null,
+                    "cost": "Free"
+                  }
+                }
+              ],
+              "why": "Your child snaps simple circuit pieces together with your help in the library's Innovation Lab, then heads to East End Park to run around.",
+              "tips": [
+                "Stay as long as {they} stay{s} interested. A short visit is fine.",
+                "Bring a snack for the park."
+              ],
+              "interests": [
+                "science",
+                "movement"
+              ],
+              "area": "durham",
+              "outdoor": false,
+              "source": {
+                "kind": "event",
+                "title": "This Week In the Lab: Snap Circuits",
+                "start": "2026-12-04T13:00:00",
+                "end": "2026-12-04T17:00:00",
+                "venue": "Main Library",
+                "address": "300 N. Roxboro St, Durham, NC",
+                "url": "https://durhamcountylibrary.libcal.com/event/17189142",
+                "cost": "Free",
+                "lat": 35.99490876306902,
+                "lon": -78.8964971677054,
+                "ages": "Adult, Elementary School, Emerging Adult: 18-24 Year Olds, High School, Intergenerational, Kindergarten, Middle School, Pre-School, Senior Citizen, Teen, Toddler, Tweens: 9-12 Year Olds, DPS",
+                "registration": false,
+                "indoor": true,
+                "area": "durham",
+                "source": "libcal",
+                "dropIn": true
+              }
+            },
+            {
+              "ref": "place:harris-lake-county-park",
+              "arrive": "09:00",
+              "leave": "10:45",
+              "why": "Your child follows the greenway, looks for leaves and sticks, and plays on the playground.",
+              "tips": [
+                "Bring a snack for the picnic shelter.",
+                "Let {them} pick which path to take."
+              ],
+              "interests": [
+                "nature",
+                "movement"
+              ],
+              "also": [],
+              "area": "south-wake",
+              "outdoor": true,
+              "source": {
+                "kind": "park",
+                "title": "Harris Lake County Park",
+                "address": "2112 County Park Dr., New Hill, NC  27562",
+                "lat": 35.63024208800726,
+                "lon": -78.91757987745865,
+                "url": "https://www.wakegov.com/departments-government/parks-recreation-and-open-space/all-parks-trails/harris-lake-county-park",
+                "amenities": [
+                  "playground",
+                  "picnic-shelter",
+                  "restroom",
+                  "greenway",
+                  "nature"
+                ],
+                "indoor": false,
+                "area": "south-wake",
+                "hours": null,
+                "cost": "Free"
+              }
+            }
+          ],
+          "rainBackup": null,
+          "timeline": [
+            {
+              "start": "07:00",
+              "end": "07:30",
+              "kind": "meal",
+              "title": "Up and breakfast"
+            },
+            {
+              "start": "07:30",
+              "end": "09:05",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "09:05",
+              "end": "09:25",
+              "kind": "routine",
+              "title": "Get ready to go",
+              "detail": "Shoes on, the bag, water and a snack."
+            },
+            {
+              "start": "09:25",
+              "end": "09:45",
+              "kind": "travel",
+              "title": "Drive to Fred Fletcher Park"
+            },
+            {
+              "start": "09:45",
+              "end": "10:35",
+              "kind": "outing",
+              "title": "Fred Fletcher Park"
+            },
+            {
+              "start": "10:35",
+              "end": "10:45",
+              "kind": "travel",
+              "title": "Drive to NC Museum of Natural Sciences"
+            },
+            {
+              "start": "10:45",
+              "end": "11:00",
+              "kind": "outing",
+              "title": "Live Animal Feeding – Ocean Habitat"
+            },
+            {
+              "start": "11:00",
+              "end": "11:20",
+              "kind": "travel",
+              "title": "Drive home"
+            },
+            {
+              "start": "11:20",
+              "end": "11:50",
+              "kind": "meal",
+              "title": "Lunch"
+            },
+            {
+              "start": "11:50",
+              "end": "12:00",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "12:00",
+              "end": "14:00",
+              "kind": "nap",
+              "title": "Nap"
+            },
+            {
+              "start": "14:00",
+              "end": "14:20",
+              "kind": "routine",
+              "title": "Up and a snack"
+            },
+            {
+              "start": "14:20",
+              "end": "18:00",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "18:00",
+              "end": "18:45",
+              "kind": "meal",
+              "title": "Dinner"
+            },
+            {
+              "start": "18:45",
+              "end": "19:30",
+              "kind": "routine",
+              "title": "Bath, books and bed"
+            }
+          ]
+        },
+        {
+          "nap": "late-nap",
+          "napLabel": "One nap, 1 to 3",
+          "headline": "Explore nature trails, then a playground romp",
+          "main": {
+            "ref": "place:harris-lake-county-park",
+            "arrive": "09:30",
+            "leave": "11:30",
+            "why": "Your child walks the greenway, finds leaves and sticks along the way, and plays on the playground. It is a roomy, easy morning in nature.",
+            "tips": [
+              "Bring a snack and eat it at the picnic shelter.",
+              "Let {them} stop and look at whatever catches {their} eye.",
+              "Give a five-minute warning before heading to the car."
+            ],
+            "interests": [
+              "nature",
+              "movement"
+            ],
+            "also": [],
+            "area": "south-wake",
+            "outdoor": true,
+            "source": {
+              "kind": "park",
+              "title": "Harris Lake County Park",
+              "address": "2112 County Park Dr., New Hill, NC  27562",
+              "lat": 35.63024208800726,
+              "lon": -78.91757987745865,
+              "url": "https://www.wakegov.com/departments-government/parks-recreation-and-open-space/all-parks-trails/harris-lake-county-park",
+              "amenities": [
+                "playground",
+                "picnic-shelter",
+                "restroom",
+                "greenway",
+                "nature"
+              ],
+              "indoor": false,
+              "area": "south-wake",
+              "hours": null,
+              "cost": "Free"
+            }
+          },
+          "alternatives": [
+            {
+              "ref": "place:historic-oak-view-county-park",
+              "arrive": "09:30",
+              "leave": "11:30",
+              "why": "Your child can visit the animals and stroll the garden paths. The pace is gentle and there is room to wander.",
+              "tips": [
+                "Let {them} lead and stay as long as {they} like{s}.",
+                "Bring a snack for the picnic shelter."
+              ],
+              "interests": [
+                "animals",
+                "nature"
+              ],
+              "also": [],
+              "area": "raleigh",
+              "outdoor": true,
+              "source": {
+                "kind": "park",
+                "title": "Historic Oak View County Park",
+                "address": "4028 Carya Dr., Raleigh, NC  27610",
+                "lat": 35.76980126731367,
+                "lon": -78.57063248179927,
+                "url": "https://www.wakegov.com/departments-government/parks-recreation-and-open-space/all-parks-trails/historic-oak-view-county-park",
+                "amenities": [
+                  "picnic-shelter",
+                  "restroom",
+                  "greenway",
+                  "animals",
+                  "garden"
+                ],
+                "indoor": false,
+                "area": "raleigh",
+                "hours": null,
+                "cost": "Free"
+              }
+            },
+            {
+              "ref": "place:isabella-cannon-park",
+              "arrive": "15:30",
+              "leave": "16:30",
+              "also": [
+                {
+                  "ref": "event:wake:24769",
+                  "source": {
+                    "kind": "event",
+                    "title": "Raleigh Charter High School Children's Theater Performance",
+                    "start": "2026-12-04T16:00:00-05:00",
+                    "end": "2026-12-04T16:30:00-05:00",
+                    "venue": "Oberlin Regional Library",
+                    "address": "1930 Clark Ave., Raleigh, NC, 27605",
+                    "url": "https://www.eventbrite.com/e/raleigh-charter-high-school-childrens-theater-performance-tickets-2004389057628",
+                    "cost": "Free",
+                    "lat": 35.7898395688737,
+                    "lon": -78.65822660779,
+                    "ages": "All Ages",
+                    "registration": "https://www.eventbrite.com/e/raleigh-charter-high-school-childrens-theater-performance-tickets-2004389057628",
+                    "indoor": true,
+                    "area": "raleigh",
+                    "source": "wake-county",
+                    "dropIn": false
+                  }
+                }
+              ],
+              "why": "Your child plays at Isabella Cannon Park, then watches a short Polar Express and Grinch show by teen performers at Oberlin Regional Library at 4:00 pm. A family needs to sign up.",
+              "tips": [
+                "Let {them} run first so sitting for the show is easier.",
+                "Bring a small snack after the show."
+              ],
+              "interests": [
+                "stories",
+                "movement"
+              ],
+              "area": "raleigh",
+              "outdoor": false,
+              "source": {
+                "kind": "park",
+                "title": "Isabella Cannon Park",
+                "address": "2601 Kilgore Avenue, Raleigh, NC 27607",
+                "lat": 35.79245,
+                "lon": -78.66947,
+                "url": "https://raleighnc.gov/parks-and-recreation/places/isabella-cannon-park",
+                "amenities": [
+                  "picnic-shelter",
+                  "courts",
+                  "playground"
+                ],
+                "indoor": false,
+                "area": "raleigh",
+                "hours": null,
+                "cost": "Free"
+              }
+            },
+            {
+              "ref": "event:weekly:mols-early-childhood:2026-12-04",
+              "arrive": "10:00",
+              "leave": "11:30",
+              "why": "Your child joins sensory play, songs and stories in Hideaway Woods at the Museum of Life and Science. Drop in and stay as long as {they} like{s}.",
+              "tips": [
+                "Let {them} choose a station and stay as long as {they} like{s}.",
+                "Join the songs even if {they} just watch{es}."
+              ],
+              "interests": [
+                "nature",
+                "music",
+                "stories"
+              ],
+              "also": [],
+              "area": "durham",
+              "outdoor": true,
+              "source": {
+                "kind": "event",
+                "title": "Early Childhood Drop-In",
+                "start": "2026-12-04T09:30:00",
+                "end": "2026-12-04T11:30:00",
+                "venue": "Hideaway Woods, Museum of Life and Science",
+                "address": "433 W Murray Ave, Durham, NC 27704",
+                "url": "https://www.lifeandscience.org/learn/drop-in-programs/",
+                "cost": "Included with museum admission",
+                "lat": 36.0294,
+                "lon": -78.8993,
+                "ages": "young children and their caregivers",
+                "registration": false,
+                "indoor": false,
+                "area": "durham",
+                "source": "weekly",
+                "dropIn": true
+              }
+            }
+          ],
+          "rainBackup": null,
+          "timeline": [
+            {
+              "start": "07:00",
+              "end": "07:30",
+              "kind": "meal",
+              "title": "Up and breakfast"
+            },
+            {
+              "start": "07:30",
+              "end": "08:50",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "08:50",
+              "end": "09:10",
+              "kind": "routine",
+              "title": "Get ready to go",
+              "detail": "Shoes on, the bag, water and a snack."
+            },
+            {
+              "start": "09:10",
+              "end": "09:30",
+              "kind": "travel",
+              "title": "Drive to Harris Lake County Park"
+            },
+            {
+              "start": "09:30",
+              "end": "11:30",
+              "kind": "outing",
+              "title": "Harris Lake County Park"
+            },
+            {
+              "start": "11:30",
+              "end": "11:50",
+              "kind": "travel",
+              "title": "Drive home"
+            },
+            {
+              "start": "11:50",
+              "end": "12:15",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "12:15",
+              "end": "12:45",
+              "kind": "meal",
+              "title": "Lunch"
+            },
+            {
+              "start": "12:45",
+              "end": "13:00",
+              "kind": "quiet",
+              "title": "Wind down",
+              "detail": "A couple of books to settle."
+            },
+            {
+              "start": "13:00",
+              "end": "15:00",
+              "kind": "nap",
+              "title": "Nap"
+            },
+            {
+              "start": "15:00",
+              "end": "15:20",
+              "kind": "routine",
+              "title": "Up and a snack"
+            },
+            {
+              "start": "15:20",
+              "end": "18:30",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "18:30",
+              "end": "19:15",
+              "kind": "meal",
+              "title": "Dinner"
+            },
+            {
+              "start": "19:15",
+              "end": "20:00",
+              "kind": "routine",
+              "title": "Bath, books and bed"
+            }
+          ]
+        },
+        {
+          "nap": "short-nap",
+          "napLabel": "Short nap, 1 to 2",
+          "headline": "Climb, slide and wander the greenway",
+          "main": {
+            "ref": "place:rock-quarry-park",
+            "arrive": "09:30",
+            "leave": "11:15",
+            "why": "Your child climbs and slides on the playground, then follows the greenway to see what {they} can find. It is an easy, open morning outside in Durham.",
+            "tips": [
+              "Bring a snack and eat it before heading home.",
+              "Let {them} pick which way to walk on the greenway.",
+              "Give a five-minute warning before the car."
+            ],
+            "interests": [
+              "movement",
+              "nature"
+            ],
+            "also": [],
+            "area": "durham",
+            "outdoor": true,
+            "source": {
+              "kind": "park",
+              "title": "Rock Quarry Park",
+              "address": "701 Stadium Dr, Durham, NC",
+              "lat": 36.03166363636364,
+              "lon": -78.90176545454545,
+              "url": "https://www.dprplaymore.org/Facilities/Facility/Details/Rock-Quarry-Park-60",
+              "amenities": [
+                "playground",
+                "splashpad",
+                "restroom",
+                "greenway"
+              ],
+              "indoor": false,
+              "area": "durham",
+              "hours": null,
+              "cost": "Free"
+            }
+          },
+          "alternatives": [
+            {
+              "ref": "place:fred-fletcher-park",
+              "arrive": "09:45",
+              "leave": "11:00",
+              "also": [
+                {
+                  "ref": "event:museum:nc-natural-sciences:123927",
+                  "source": {
+                    "kind": "event",
+                    "title": "Live Animal Feeding – Ocean Habitat",
+                    "start": "2026-12-04T10:45:00",
+                    "end": "2026-12-04T11:00:00",
+                    "venue": "NC Museum of Natural Sciences",
+                    "address": "11 West Jones Street, Raleigh, NC, 27601",
+                    "url": null,
+                    "cost": "Museum admission is free",
+                    "lat": 35.7822735,
+                    "lon": -78.6395502,
+                    "ages": "Adults All Ages Children Live Animals Teens Walk-up Programs",
+                    "registration": false,
+                    "indoor": true,
+                    "area": "raleigh",
+                    "source": "museum",
+                    "dropIn": false
+                  }
+                }
+              ],
+              "why": "Your child plays at Fred Fletcher Park, then watches the Live Animal Feeding in the Ocean Habitat at the NC Museum of Natural Sciences at 10:45 am.",
+              "tips": [
+                "Bring a snack for the park.",
+                "Tell your child the feeding is short so leaving goes smoothly."
+              ],
+              "interests": [
+                "animals",
+                "water",
+                "movement"
+              ],
+              "area": "raleigh",
+              "outdoor": false,
+              "source": {
+                "kind": "park",
+                "title": "Fred Fletcher Park",
+                "address": "820 Clay Street, Raleigh, NC 27605",
+                "lat": 35.79264,
+                "lon": -78.64957,
+                "url": "https://raleighnc.gov/parks-and-recreation/places/fred-fletcher-park",
+                "amenities": [
+                  "garden",
+                  "picnic-shelter",
+                  "courts",
+                  "fields",
+                  "playground"
+                ],
+                "indoor": false,
+                "area": "raleigh",
+                "hours": null,
+                "cost": "Free"
+              }
+            },
+            {
+              "ref": "place:crowder-county-park",
+              "arrive": "14:30",
+              "leave": "16:30",
+              "why": "Your child plays on the playground and walks the greenway and garden. It is an easy afternoon outside after nap.",
+              "tips": [
+                "Bring a snack for the picnic shelter.",
+                "Let {them} choose where to go next."
+              ],
+              "interests": [
+                "nature",
+                "movement"
+              ],
+              "also": [],
+              "area": "cary-apex",
+              "outdoor": true,
+              "source": {
+                "kind": "park",
+                "title": "Crowder County Park",
+                "address": "4709 Ten Ten Road",
+                "lat": 35.69174392711247,
+                "lon": -78.76585678897689,
+                "url": "https://www.wakegov.com/departments-government/parks-recreation-and-open-space/all-parks-trails/crowder-county-park",
+                "amenities": [
+                  "playground",
+                  "picnic-shelter",
+                  "restroom",
+                  "greenway",
+                  "garden"
+                ],
+                "indoor": false,
+                "area": "cary-apex",
+                "hours": null,
+                "cost": "Free"
+              }
+            },
+            {
+              "ref": "event:libcal:durham-county-library:17189142",
+              "arrive": "14:30",
+              "leave": "16:30",
+              "also": [
+                {
+                  "ref": "place:east-end-park",
+                  "source": {
+                    "kind": "park",
+                    "title": "East End Park",
+                    "address": "1200 N Alston Ave, Durham, NC",
+                    "lat": 35.997914,
+                    "lon": -78.886666,
+                    "url": "https://www.dprplaymore.org/Facilities/Facility/Details/East-End-Park-20",
+                    "amenities": [
+                      "playground",
+                      "splashpad",
+                      "picnic-shelter",
+                      "restroom"
+                    ],
+                    "indoor": false,
+                    "area": "durham",
+                    "hours": null,
+                    "cost": "Free"
+                  }
+                }
+              ],
+              "why": "Your child snaps simple circuit pieces together with your help in the library's Innovation Lab, then runs around at East End Park.",
+              "tips": [
+                "Stay as long as {they} stay{s} interested. A short visit is fine.",
+                "Bring a snack for the park."
+              ],
+              "interests": [
+                "science",
+                "movement"
+              ],
+              "area": "durham",
+              "outdoor": false,
+              "source": {
+                "kind": "event",
+                "title": "This Week In the Lab: Snap Circuits",
+                "start": "2026-12-04T13:00:00",
+                "end": "2026-12-04T17:00:00",
+                "venue": "Main Library",
+                "address": "300 N. Roxboro St, Durham, NC",
+                "url": "https://durhamcountylibrary.libcal.com/event/17189142",
+                "cost": "Free",
+                "lat": 35.99490876306902,
+                "lon": -78.8964971677054,
+                "ages": "Adult, Elementary School, Emerging Adult: 18-24 Year Olds, High School, Intergenerational, Kindergarten, Middle School, Pre-School, Senior Citizen, Teen, Toddler, Tweens: 9-12 Year Olds, DPS",
+                "registration": false,
+                "indoor": true,
+                "area": "durham",
+                "source": "libcal",
+                "dropIn": true
+              }
+            }
+          ],
+          "rainBackup": null,
+          "timeline": [
+            {
+              "start": "07:00",
+              "end": "07:30",
+              "kind": "meal",
+              "title": "Up and breakfast"
+            },
+            {
+              "start": "07:30",
+              "end": "08:50",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "08:50",
+              "end": "09:10",
+              "kind": "routine",
+              "title": "Get ready to go",
+              "detail": "Shoes on, the bag, water and a snack."
+            },
+            {
+              "start": "09:10",
+              "end": "09:30",
+              "kind": "travel",
+              "title": "Drive to Rock Quarry Park"
+            },
+            {
+              "start": "09:30",
+              "end": "11:15",
+              "kind": "outing",
+              "title": "Rock Quarry Park"
+            },
+            {
+              "start": "11:15",
+              "end": "11:35",
+              "kind": "travel",
+              "title": "Drive home"
+            },
+            {
+              "start": "11:35",
+              "end": "12:15",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "12:15",
+              "end": "12:45",
+              "kind": "meal",
+              "title": "Lunch"
+            },
+            {
+              "start": "12:45",
+              "end": "13:00",
+              "kind": "quiet",
+              "title": "Wind down",
+              "detail": "A couple of books to settle."
+            },
+            {
+              "start": "13:00",
+              "end": "14:00",
+              "kind": "nap",
+              "title": "Nap"
+            },
+            {
+              "start": "14:00",
+              "end": "14:20",
+              "kind": "routine",
+              "title": "Up and a snack"
+            },
+            {
+              "start": "14:20",
+              "end": "18:00",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "18:00",
+              "end": "18:45",
+              "kind": "meal",
+              "title": "Dinner"
+            },
+            {
+              "start": "18:45",
+              "end": "19:30",
+              "kind": "routine",
+              "title": "Bath, books and bed"
+            }
+          ]
+        }
+      ],
+      "dropped": [
+        "[early-nap] alternative place:lakeview-park Bragtown's Bilingual Storytime with Ms. Melanie! is for Baby, Kindergarten, Pre-School, Toddler"
+      ],
+      "retried": [
+        "[short-nap] main place:lakeview-park Bragtown's Bilingual Storytime with Ms. Melanie! is for Baby, Kindergarten, Pre-School, Toddler"
+      ]
+    }
+  ],
+  "checked": {
+    "at": "2026-11-27T11:03:44.814Z",
+    "forecast": "none",
+    "weather": null,
+    "hidden": []
+  }
+}

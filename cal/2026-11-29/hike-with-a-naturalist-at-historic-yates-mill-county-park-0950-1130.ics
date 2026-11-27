@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Triangle Tots//triangletots.com//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:2026-11-29-hike-with-a-naturalist-at-historic-yates-mill-county-park-09
+ 50-1130@triangletots.com
+DTSTAMP:20261127T100000Z
+DTSTART:20261129T145000Z
+DTEND:20261129T163000Z
+SUMMARY:Hike with a Naturalist at Historic Yates Mill County Park
+LOCATION:4620 Lake Wheeler Rd.\, Raleigh\, NC  27603
+DESCRIPTION:Sign up first.\nhttps://apm.activecommunities.com/wakeparks/Act
+ ivity_Search/hike-with-a-naturalist/9429?locale=en-US\nThe whole day: http
+ s://triangletots.com/2026-11-29/t4/\nTimes and details can change. Check t
+ he event or place before you go.
+END:VEVENT
+END:VCALENDAR

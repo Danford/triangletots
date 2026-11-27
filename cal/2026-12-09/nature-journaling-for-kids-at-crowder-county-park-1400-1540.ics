@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Triangle Tots//triangletots.com//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:2026-12-09-nature-journaling-for-kids-at-crowder-county-park-1400-1540@
+ triangletots.com
+DTSTAMP:20261127T100000Z
+DTSTART:20261209T190000Z
+DTEND:20261209T204000Z
+SUMMARY:Nature Journaling for Kids at Crowder County Park
+LOCATION:4709 Ten Ten Road
+DESCRIPTION:Sign up first.\nhttps://apm.activecommunities.com/wakeparks/Act
+ ivity_Search/nature-journaling-for-kids/9476?locale=en-US\nhttp://www.town
+ ofcary.org/recreation-enjoyment/parks-greenways-environment/parks/jack-smi
+ th-park\nThe whole day: https://triangletots.com/2026-12-09/t3/\nTimes and
+  details can change. Check the event or place before you go.
+END:VEVENT
+END:VCALENDAR

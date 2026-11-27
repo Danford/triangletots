@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Triangle Tots//triangletots.com//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:2026-12-05-meet-santa-at-yates-mill-morning-at-historic-yates-mill-coun
+ -1000-1145@triangletots.com
+DTSTAMP:20261127T100000Z
+DTSTART:20261205T150000Z
+DTEND:20261205T164500Z
+SUMMARY:Meet Santa at Yates Mill (morning) at Historic Yates Mill County Pa
+ rk
+LOCATION:4620 Lake Wheeler Rd.\, Raleigh\, NC  27603
+DESCRIPTION:https://apm.activecommunities.com/wakeparks/Activity_Search/mee
+ t-santa-at-yates-mill-morning/9474?locale=en-US\nThe whole day: https://tr
+ iangletots.com/2026-12-05/t3/\nTimes and details can change. Check the eve
+ nt or place before you go.
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Triangle Tots//triangletots.com//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:2026-12-07-baby-time-meet-up-at-marbles-kids-museum-0950-1120@trianglet
+ ots.com
+DTSTAMP:20261127T100000Z
+DTSTART:20261207T145000Z
+DTEND:20261207T162000Z
+SUMMARY:Baby Time Meet-up at Marbles Kids Museum
+LOCATION:201 E Hargett St\, Raleigh\, NC 27601
+DESCRIPTION:https://marbleskidsmuseum.org/event/48683/\nhttps://raleighnc.g
+ ov/parks-and-recreation/places/john-chavis-memorial-park\nThe whole day: h
+ ttps://triangletots.com/2026-12-07/t1/\nTimes and details can change. Chec
+ k the event or place before you go.
+END:VEVENT
+END:VCALENDAR

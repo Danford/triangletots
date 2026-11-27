@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Triangle Tots//triangletots.com//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:2026-12-05-family-friendly-tours-at-nc-museum-of-art-1020-1200@triangle
+ tots.com
+DTSTAMP:20261127T100000Z
+DTSTART:20261205T152000Z
+DTEND:20261205T170000Z
+SUMMARY:Family-Friendly Tours at NC Museum of Art
+LOCATION:2110 Blue Ridge Rd\, Raleigh\, NC 27607
+DESCRIPTION:https://ncartmuseum.org/event/family-friendly-tours-7/\nhttps:/
+ /ncartmuseum.org/museum-park/\nThe whole day: https://triangletots.com/202
+ 6-12-05/t3/\nTimes and details can change. Check the event or place before
+  you go.
+END:VEVENT
+END:VCALENDAR

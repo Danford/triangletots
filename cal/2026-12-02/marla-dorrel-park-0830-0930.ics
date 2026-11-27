@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Triangle Tots//triangletots.com//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:2026-12-02-marla-dorrel-park-0830-0930@triangletots.com
+DTSTAMP:20261127T100000Z
+DTSTART:20261202T133000Z
+DTEND:20261202T143000Z
+SUMMARY:Marla Dorrel Park
+LOCATION:111 Thurston Drive\, Cary\, NC
+DESCRIPTION:http://www.kidstogethercary.org/\nThe whole day: https://triang
+ letots.com/2026-12-02/t1/\nTimes and details can change. Check the event o
+ r place before you go.
+END:VEVENT
+END:VCALENDAR

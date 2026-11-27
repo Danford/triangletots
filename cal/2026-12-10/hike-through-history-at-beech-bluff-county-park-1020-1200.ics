@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Triangle Tots//triangletots.com//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:2026-12-10-hike-through-history-at-beech-bluff-county-park-1020-1200@tr
+ iangletots.com
+DTSTAMP:20261127T100000Z
+DTSTART:20261210T152000Z
+DTEND:20261210T170000Z
+SUMMARY:Hike Through History at Beech Bluff County Park
+LOCATION:Beech Bluff Park Drive\, Fuquay-Varina\, NC
+DESCRIPTION:Sign up first.\nhttps://apm.activecommunities.com/wakeparks/Act
+ ivity_Search/hike-through-history/9247?locale=en-US\nhttps://apm.activecom
+ munities.com/wakeparks/Activity_Search/beech-bluff-county-park-storywalk-2
+ 026-self-led/8358?locale=en-US\nThe whole day: https://triangletots.com/20
+ 26-12-10/t4/\nTimes and details can change. Check the event or place befor
+ e you go.
+END:VEVENT
+END:VCALENDAR

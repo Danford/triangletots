@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Triangle Tots//triangletots.com//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:2026-12-01-cities-of-the-future-3d-at-marbles-kids-museum-1205-1430@tri
+ angletots.com
+DTSTAMP:20261127T100000Z
+DTSTART:20261201T170500Z
+DTEND:20261201T193000Z
+SUMMARY:Cities of the Future 3D at Marbles Kids Museum
+LOCATION:201 E Hargett St\, Raleigh\, NC 27601
+DESCRIPTION:https://marbleskidsmuseum.org/event/49131/\nhttps://raleighnc.g
+ ov/parks-and-recreation/places/levelle-moton-park\nThe whole day: https://
+ triangletots.com/2026-12-01/t4/\nTimes and details can change. Check the e
+ vent or place before you go.
+END:VEVENT
+END:VCALENDAR

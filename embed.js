@@ -1,0 +1,2 @@
+// Triangle Tots: fits each Triangle Tots box on this page to its height. https://triangletots.com/widget/
+(function(){if(window.__ttEmbed)return;window.__ttEmbed=1;addEventListener("message",function(e){var d=e.data;if(e.origin!=="https://triangletots.com"||!d||d.triangletots!=="height"||!(d.h>=120&&d.h<=2400))return;[].forEach.call(document.querySelectorAll('iframe[src^="https://triangletots.com/embed/"]'),function(f){if(f.contentWindow===e.source)f.style.height=d.h+"px"})})})();

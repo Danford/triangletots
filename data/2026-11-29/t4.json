@@ -1,0 +1,1052 @@
+{
+  "date": "2026-11-29",
+  "band": "t4",
+  "versions": [
+    {
+      "at": "2026-11-16T11:04:39.974Z",
+      "reason": null,
+      "forecast": "none",
+      "weather": null,
+      "plans": [
+        {
+          "nap": "short-nap",
+          "napLabel": "Short nap, 1 to 2",
+          "headline": "Hunt for plants and animals on a naturalist hike",
+          "main": {
+            "ref": "event:wake-parks:9429",
+            "arrive": "09:50",
+            "leave": "11:30",
+            "why": "Your child follows a naturalist around Yates Mill to find the plants and animals that live there. A family needs to sign up first.",
+            "tips": [
+              "Wear shoes that handle natural surfaces. The hike is at least a mile.",
+              "Bring water and a snack to eat right after, so the walk back to the car stays happy.",
+              "Let your child lead with questions and point out what {they} spot{s}."
+            ],
+            "interests": [
+              "nature",
+              "animals",
+              "science"
+            ],
+            "also": [],
+            "area": "raleigh",
+            "outdoor": true,
+            "source": {
+              "kind": "event",
+              "title": "Hike with a Naturalist",
+              "start": "2026-11-29T10:00:00",
+              "end": "2026-11-29T11:30:00",
+              "venue": "Historic Yates Mill County Park",
+              "address": "4620 Lake Wheeler Rd., Raleigh, NC  27603",
+              "url": "https://apm.activecommunities.com/wakeparks/Activity_Search/hike-with-a-naturalist/9429?locale=en-US",
+              "cost": "Free",
+              "lat": 35.72157134974476,
+              "lon": -78.68526087901417,
+              "ages": null,
+              "registration": "https://apm.activecommunities.com/wakeparks/Activity_Search/hike-with-a-naturalist/9429?locale=en-US",
+              "indoor": false,
+              "area": "raleigh",
+              "source": "wake-parks",
+              "dropIn": false
+            }
+          },
+          "alternatives": [
+            {
+              "ref": "place:durham-central-park",
+              "arrive": "10:30",
+              "leave": "12:00",
+              "why": "Your child plays on the playground first, then wanders over to the Durham Underground Market at 11:00 am.",
+              "tips": [
+                "Play first so {they} burn{s} off energy before the market.",
+                "The market is drop-in, so stay as long as {they} like{s}.",
+                "Head home with a snack in hand for an easy exit."
+              ],
+              "interests": [
+                "movement",
+                "art"
+              ],
+              "also": [
+                {
+                  "ref": "event:museum:durham-central-park:13302",
+                  "source": {
+                    "kind": "event",
+                    "title": "Durham Underground Market",
+                    "start": "2026-11-29T11:00:00",
+                    "end": "2026-11-29T15:00:00",
+                    "venue": "Durham Central Park",
+                    "address": "501 Foster Street, Durham, NC, 27701",
+                    "url": "https://durhamcentralpark.org/upcoming-event/durham-underground-market-2/2026-11-29/",
+                    "cost": null,
+                    "lat": 36.0008,
+                    "lon": -78.9021,
+                    "ages": null,
+                    "registration": null,
+                    "indoor": false,
+                    "area": "durham",
+                    "source": "museum",
+                    "dropIn": true
+                  }
+                }
+              ],
+              "area": "durham",
+              "outdoor": true,
+              "source": {
+                "kind": "park",
+                "title": "Durham Central Park",
+                "address": "501 Foster St, Durham, NC",
+                "lat": 36.0006525,
+                "lon": -78.90071999999999,
+                "url": "https://www.dprplaymore.org/Facilities/Facility/Details/Durham-Central-Park-18",
+                "amenities": [
+                  "playground",
+                  "restroom",
+                  "greenway"
+                ],
+                "indoor": false,
+                "area": "durham",
+                "hours": null,
+                "cost": "Free"
+              }
+            },
+            {
+              "ref": "event:wake:24625",
+              "arrive": "14:50",
+              "leave": "16:40",
+              "why": "Your child hears holiday songs from the Greenhope Serenaders Club at West Regional Library at 3:00 pm, then runs at Carpenter Park.",
+              "tips": [
+                "Invite {them} to clap along or sing a tune.",
+                "Bring a snack for the park and head out before the light fades."
+              ],
+              "interests": [
+                "music",
+                "movement"
+              ],
+              "also": [
+                {
+                  "ref": "place:carpenter-park",
+                  "source": {
+                    "kind": "park",
+                    "title": "Carpenter Park",
+                    "address": "4420 Louis Stephens Drive, Cary, NC",
+                    "lat": 35.82284995357582,
+                    "lon": -78.86424049854338,
+                    "url": "http://www.townofcary.org/recreation-enjoyment/parks-greenways-environment/parks/carpenter-park",
+                    "amenities": [
+                      "playground",
+                      "picnic-shelter",
+                      "restroom",
+                      "greenway"
+                    ],
+                    "indoor": false,
+                    "area": "cary-apex",
+                    "hours": null,
+                    "cost": "Free"
+                  }
+                }
+              ],
+              "area": "cary-apex",
+              "outdoor": false,
+              "source": {
+                "kind": "event",
+                "title": "Music in the Library: Greenhope Serenaders Club",
+                "start": "2026-11-29T15:00:00-05:00",
+                "end": "2026-11-29T16:00:00-05:00",
+                "venue": "West Regional Library",
+                "address": "4000 Louis Stephens Drive, Cary, NC",
+                "url": "https://www.wake.gov/events/music-library-greenhope-serenaders-club",
+                "cost": "Free",
+                "lat": 35.8148624293953,
+                "lon": -78.8644916775722,
+                "ages": "All Ages",
+                "registration": null,
+                "indoor": true,
+                "area": "cary-apex",
+                "source": "wake-county",
+                "dropIn": false
+              }
+            },
+            {
+              "ref": "place:knightdale-station-park",
+              "arrive": "09:00",
+              "leave": "11:00",
+              "why": "Your child has a playground to climb and a greenway to walk, with a picnic shelter for a snack.",
+              "tips": [
+                "Bring a snack to eat at the picnic shelter.",
+                "Give a five-minute warning, then walk the greenway to wind down."
+              ],
+              "interests": [
+                "movement",
+                "nature"
+              ],
+              "also": [],
+              "area": "east-wake",
+              "outdoor": true,
+              "source": {
+                "kind": "park",
+                "title": "Knightdale Station Park",
+                "address": "810 North First Avenue, Knightdale, NC",
+                "lat": 35.795776739559024,
+                "lon": -78.47584503817626,
+                "url": "https://www.knightdalenc.gov/knightdalestationpark",
+                "amenities": [
+                  "playground",
+                  "picnic-shelter",
+                  "greenway"
+                ],
+                "indoor": false,
+                "area": "east-wake",
+                "hours": null,
+                "cost": "Free"
+              }
+            },
+            {
+              "ref": "place:gipson-play-plaza",
+              "arrive": "09:00",
+              "leave": "11:00",
+              "why": "A big destination playground gives your child lots of room to climb, run and make up games.",
+              "tips": [
+                "Pack a snack and water, and take a break halfway through.",
+                "Pick one last favorite thing to do before leaving."
+              ],
+              "interests": [
+                "movement"
+              ],
+              "also": [],
+              "area": "raleigh",
+              "outdoor": true,
+              "source": {
+                "kind": "park",
+                "title": "Gipson Play Plaza at Dix Park",
+                "address": "715 Biggs Dr, Raleigh, NC 27603",
+                "lat": 35.7667,
+                "lon": -78.6539,
+                "url": "https://dixpark.org/gipson-play-plaza",
+                "amenities": [
+                  "playground",
+                  "restroom"
+                ],
+                "indoor": false,
+                "area": "raleigh",
+                "hours": {
+                  "sun": "8 a.m.–9 p.m.",
+                  "mon": "8 a.m.–9 p.m.",
+                  "tue": "8 a.m.–9 p.m.",
+                  "wed": "8 a.m.–9 p.m.",
+                  "thu": "8 a.m.–9 p.m.",
+                  "fri": "8 a.m.–9 p.m.",
+                  "sat": "8 a.m.–9 p.m."
+                },
+                "cost": "Free",
+                "note": "Free; free parking. Big destination playground on the south edge of Dix Park."
+              }
+            }
+          ],
+          "rainBackup": null,
+          "timeline": [
+            {
+              "start": "07:00",
+              "end": "07:30",
+              "kind": "meal",
+              "title": "Up and breakfast"
+            },
+            {
+              "start": "07:30",
+              "end": "09:10",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "09:10",
+              "end": "09:30",
+              "kind": "routine",
+              "title": "Get ready to go",
+              "detail": "Shoes on, the bag, water and a snack."
+            },
+            {
+              "start": "09:30",
+              "end": "09:50",
+              "kind": "travel",
+              "title": "Drive to Historic Yates Mill County Park"
+            },
+            {
+              "start": "09:50",
+              "end": "11:30",
+              "kind": "outing",
+              "title": "Historic Yates Mill County Park"
+            },
+            {
+              "start": "11:30",
+              "end": "11:50",
+              "kind": "travel",
+              "title": "Drive home"
+            },
+            {
+              "start": "11:50",
+              "end": "12:15",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "12:15",
+              "end": "12:45",
+              "kind": "meal",
+              "title": "Lunch"
+            },
+            {
+              "start": "12:45",
+              "end": "13:00",
+              "kind": "quiet",
+              "title": "Wind down",
+              "detail": "A couple of books to settle."
+            },
+            {
+              "start": "13:00",
+              "end": "14:00",
+              "kind": "nap",
+              "title": "Nap"
+            },
+            {
+              "start": "14:00",
+              "end": "14:20",
+              "kind": "routine",
+              "title": "Up and a snack"
+            },
+            {
+              "start": "14:20",
+              "end": "18:30",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "18:30",
+              "end": "19:15",
+              "kind": "meal",
+              "title": "Dinner"
+            },
+            {
+              "start": "19:15",
+              "end": "20:00",
+              "kind": "routine",
+              "title": "Bath, books and bed"
+            }
+          ]
+        },
+        {
+          "nap": "quiet",
+          "napLabel": "Quiet time",
+          "headline": "Playground fun, then a wander through the Durham market",
+          "main": {
+            "ref": "place:durham-central-park",
+            "arrive": "10:30",
+            "leave": "12:20",
+            "why": "Your child plays on the playground first, then strolls over to the Durham Underground Market at 11:00 am. It is drop-in, so come and go as you like.",
+            "tips": [
+              "Let {them} play hard first, then walk to the market.",
+              "Bring a snack for a break between the two.",
+              "Head home in time for quiet time at 1:00 pm."
+            ],
+            "interests": [
+              "movement",
+              "art"
+            ],
+            "also": [
+              {
+                "ref": "event:museum:durham-central-park:13302",
+                "source": {
+                  "kind": "event",
+                  "title": "Durham Underground Market",
+                  "start": "2026-11-29T11:00:00",
+                  "end": "2026-11-29T15:00:00",
+                  "venue": "Durham Central Park",
+                  "address": "501 Foster Street, Durham, NC, 27701",
+                  "url": "https://durhamcentralpark.org/upcoming-event/durham-underground-market-2/2026-11-29/",
+                  "cost": null,
+                  "lat": 36.0008,
+                  "lon": -78.9021,
+                  "ages": null,
+                  "registration": null,
+                  "indoor": false,
+                  "area": "durham",
+                  "source": "museum",
+                  "dropIn": true
+                }
+              }
+            ],
+            "area": "durham",
+            "outdoor": true,
+            "source": {
+              "kind": "park",
+              "title": "Durham Central Park",
+              "address": "501 Foster St, Durham, NC",
+              "lat": 36.0006525,
+              "lon": -78.90071999999999,
+              "url": "https://www.dprplaymore.org/Facilities/Facility/Details/Durham-Central-Park-18",
+              "amenities": [
+                "playground",
+                "restroom",
+                "greenway"
+              ],
+              "indoor": false,
+              "area": "durham",
+              "hours": null,
+              "cost": "Free"
+            }
+          },
+          "alternatives": [
+            {
+              "ref": "event:wake-parks:9429",
+              "arrive": "09:50",
+              "leave": "11:30",
+              "why": "Your child follows a naturalist around Yates Mill to look for plants and animals. A family needs to sign up first.",
+              "tips": [
+                "Wear shoes that handle natural surfaces. The hike is at least a mile.",
+                "Bring water and a snack for after."
+              ],
+              "interests": [
+                "nature",
+                "animals",
+                "science"
+              ],
+              "also": [],
+              "area": "raleigh",
+              "outdoor": true,
+              "source": {
+                "kind": "event",
+                "title": "Hike with a Naturalist",
+                "start": "2026-11-29T10:00:00",
+                "end": "2026-11-29T11:30:00",
+                "venue": "Historic Yates Mill County Park",
+                "address": "4620 Lake Wheeler Rd., Raleigh, NC  27603",
+                "url": "https://apm.activecommunities.com/wakeparks/Activity_Search/hike-with-a-naturalist/9429?locale=en-US",
+                "cost": "Free",
+                "lat": 35.72157134974476,
+                "lon": -78.68526087901417,
+                "ages": null,
+                "registration": "https://apm.activecommunities.com/wakeparks/Activity_Search/hike-with-a-naturalist/9429?locale=en-US",
+                "indoor": false,
+                "area": "raleigh",
+                "source": "wake-parks",
+                "dropIn": false
+              }
+            },
+            {
+              "ref": "event:wake-parks:9423",
+              "arrive": "14:00",
+              "leave": "15:30",
+              "why": "Your child peeks into the open mill while historic interpreters explain how it works. It is a free drop-in, so stay as long as {they} like{s}.",
+              "tips": [
+                "Let {them} ask the interpreters how the mill works.",
+                "Bring a snack for after."
+              ],
+              "interests": [
+                "science",
+                "stories"
+              ],
+              "also": [],
+              "area": "raleigh",
+              "outdoor": true,
+              "source": {
+                "kind": "event",
+                "title": "Mill Open House",
+                "start": "2026-11-29T13:00:00",
+                "end": "2026-11-29T16:00:00",
+                "venue": "Historic Yates Mill County Park",
+                "address": "4620 Lake Wheeler Rd., Raleigh, NC  27603",
+                "url": "https://apm.activecommunities.com/wakeparks/Activity_Search/mill-open-house/9423?locale=en-US",
+                "cost": "Free",
+                "lat": 35.72157134974476,
+                "lon": -78.68526087901417,
+                "ages": null,
+                "registration": false,
+                "indoor": false,
+                "area": "raleigh",
+                "source": "wake-parks",
+                "dropIn": true
+              }
+            },
+            {
+              "ref": "event:wake:24625",
+              "arrive": "14:50",
+              "leave": "16:40",
+              "why": "Your child hears holiday songs from the Greenhope Serenaders Club at West Regional Library at 3:00 pm, then plays at Carpenter Park.",
+              "tips": [
+                "Invite {them} to sing or clap along.",
+                "Bring a snack for the park."
+              ],
+              "interests": [
+                "music",
+                "movement"
+              ],
+              "also": [
+                {
+                  "ref": "place:carpenter-park",
+                  "source": {
+                    "kind": "park",
+                    "title": "Carpenter Park",
+                    "address": "4420 Louis Stephens Drive, Cary, NC",
+                    "lat": 35.82284995357582,
+                    "lon": -78.86424049854338,
+                    "url": "http://www.townofcary.org/recreation-enjoyment/parks-greenways-environment/parks/carpenter-park",
+                    "amenities": [
+                      "playground",
+                      "picnic-shelter",
+                      "restroom",
+                      "greenway"
+                    ],
+                    "indoor": false,
+                    "area": "cary-apex",
+                    "hours": null,
+                    "cost": "Free"
+                  }
+                }
+              ],
+              "area": "cary-apex",
+              "outdoor": false,
+              "source": {
+                "kind": "event",
+                "title": "Music in the Library: Greenhope Serenaders Club",
+                "start": "2026-11-29T15:00:00-05:00",
+                "end": "2026-11-29T16:00:00-05:00",
+                "venue": "West Regional Library",
+                "address": "4000 Louis Stephens Drive, Cary, NC",
+                "url": "https://www.wake.gov/events/music-library-greenhope-serenaders-club",
+                "cost": "Free",
+                "lat": 35.8148624293953,
+                "lon": -78.8644916775722,
+                "ages": "All Ages",
+                "registration": null,
+                "indoor": true,
+                "area": "cary-apex",
+                "source": "wake-county",
+                "dropIn": false
+              }
+            },
+            {
+              "ref": "place:lake-crabtree-county-park",
+              "arrive": "09:30",
+              "leave": "11:30",
+              "why": "Your child can climb on the playground, walk the greenway and look for what lives by the lake.",
+              "tips": [
+                "Bring a snack for the picnic shelter.",
+                "Make a nature game of spotting birds or leaves."
+              ],
+              "interests": [
+                "nature",
+                "movement"
+              ],
+              "also": [],
+              "area": "north-raleigh",
+              "outdoor": true,
+              "source": {
+                "kind": "park",
+                "title": "Lake Crabtree County Park",
+                "address": "1400 Aviation Pkwy., Morrisville, NC  27560",
+                "lat": 35.845600151785014,
+                "lon": -78.80104927513673,
+                "url": "https://www.wakegov.com/departments-government/parks-recreation-and-open-space/all-parks-trails/lake-crabtree-county-park",
+                "amenities": [
+                  "playground",
+                  "picnic-shelter",
+                  "restroom",
+                  "greenway",
+                  "nature",
+                  "garden",
+                  "boating"
+                ],
+                "indoor": false,
+                "area": "north-raleigh",
+                "hours": null,
+                "cost": "Free"
+              }
+            }
+          ],
+          "rainBackup": null,
+          "timeline": [
+            {
+              "start": "07:00",
+              "end": "07:30",
+              "kind": "meal",
+              "title": "Up and breakfast"
+            },
+            {
+              "start": "07:30",
+              "end": "09:50",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "09:50",
+              "end": "10:10",
+              "kind": "routine",
+              "title": "Get ready to go",
+              "detail": "Shoes on, the bag, water and a snack."
+            },
+            {
+              "start": "10:10",
+              "end": "10:30",
+              "kind": "travel",
+              "title": "Drive to Durham Central Park"
+            },
+            {
+              "start": "10:30",
+              "end": "11:00",
+              "kind": "outing",
+              "title": "Durham Central Park",
+              "detail": "Pack a lunch to eat there."
+            },
+            {
+              "start": "11:00",
+              "end": "12:20",
+              "kind": "outing",
+              "title": "Durham Underground Market"
+            },
+            {
+              "start": "12:20",
+              "end": "12:40",
+              "kind": "travel",
+              "title": "Drive home"
+            },
+            {
+              "start": "12:40",
+              "end": "13:00",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "13:00",
+              "end": "13:45",
+              "kind": "quiet",
+              "title": "Quiet time",
+              "detail": "Books or quiet play in their room."
+            },
+            {
+              "start": "13:45",
+              "end": "18:00",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "18:00",
+              "end": "18:45",
+              "kind": "meal",
+              "title": "Dinner"
+            },
+            {
+              "start": "18:45",
+              "end": "19:30",
+              "kind": "routine",
+              "title": "Bath, books and bed"
+            }
+          ]
+        },
+        {
+          "nap": "no-nap",
+          "napLabel": "No nap",
+          "headline": "Explore a state forest and picnic on the way",
+          "main": {
+            "ref": "place:clemmons-educational-state-forest",
+            "arrive": "09:30",
+            "leave": "12:00",
+            "why": "Your child walks the greenway at the forest and looks for leaves, bugs and animal signs. A picnic shelter makes a good snack stop.",
+            "tips": [
+              "Pack a snack and water for the picnic shelter.",
+              "Bring a bag for collecting leaves and sticks to look at, then leave them behind.",
+              "Pick a turn-around spot before you start walking."
+            ],
+            "interests": [
+              "nature",
+              "movement"
+            ],
+            "also": [],
+            "area": "east-wake",
+            "outdoor": true,
+            "source": {
+              "kind": "park",
+              "title": "Clemmons Educational State Forest",
+              "address": "2256 Old U.S. Hwy 70, Clayton, NC",
+              "lat": 35.674152072557575,
+              "lon": -78.48905206181357,
+              "url": "https://www.ncesf.org/clemmons.html",
+              "amenities": [
+                "picnic-shelter",
+                "restroom",
+                "greenway"
+              ],
+              "indoor": false,
+              "area": "east-wake",
+              "hours": null,
+              "cost": "Free"
+            }
+          },
+          "alternatives": [
+            {
+              "ref": "event:wake:21868",
+              "arrive": "12:50",
+              "leave": "15:00",
+              "why": "Your child makes a craft at All Ages Crafternoon at Green Road Community Library at 1:00 pm, then runs around Green Road Park.",
+              "tips": [
+                "Let {them} pick the project and take {their} time.",
+                "Bring a snack for the park."
+              ],
+              "interests": [
+                "art",
+                "movement"
+              ],
+              "also": [
+                {
+                  "ref": "place:green-road-park",
+                  "source": {
+                    "kind": "park",
+                    "title": "Green Road Park",
+                    "address": "4201 Green Rd, Raleigh, NC 27604",
+                    "lat": 35.8409,
+                    "lon": -78.59225,
+                    "url": "https://raleighnc.gov/parks-and-recreation/places/green-road-park",
+                    "amenities": [
+                      "community-center",
+                      "picnic-shelter",
+                      "courts",
+                      "fields",
+                      "playground"
+                    ],
+                    "indoor": false,
+                    "area": "north-raleigh",
+                    "hours": null,
+                    "cost": "Free"
+                  }
+                }
+              ],
+              "area": "raleigh",
+              "outdoor": false,
+              "source": {
+                "kind": "event",
+                "title": "All Ages Crafternoon",
+                "start": "2026-11-29T13:00:00-05:00",
+                "end": "2026-11-29T14:30:00-05:00",
+                "venue": "Green Road Community Library",
+                "address": "4101 Green Road, Raleigh, NC",
+                "url": "https://www.wake.gov/events/all-ages-crafternoon-0",
+                "cost": "Free",
+                "lat": 35.8393031103746,
+                "lon": -78.5919233951002,
+                "ages": "Adults & Seniors Young Children All Ages School-Age Children Teens",
+                "registration": null,
+                "indoor": true,
+                "area": "raleigh",
+                "source": "wake-county",
+                "dropIn": false
+              }
+            },
+            {
+              "ref": "event:wake-parks:9429",
+              "arrive": "09:50",
+              "leave": "11:30",
+              "why": "Your child follows a naturalist around Yates Mill to find the plants and animals that live there. A family needs to sign up first.",
+              "tips": [
+                "Wear shoes that handle natural surfaces. The hike is at least a mile.",
+                "Bring water and a snack for after."
+              ],
+              "interests": [
+                "nature",
+                "animals",
+                "science"
+              ],
+              "also": [],
+              "area": "raleigh",
+              "outdoor": true,
+              "source": {
+                "kind": "event",
+                "title": "Hike with a Naturalist",
+                "start": "2026-11-29T10:00:00",
+                "end": "2026-11-29T11:30:00",
+                "venue": "Historic Yates Mill County Park",
+                "address": "4620 Lake Wheeler Rd., Raleigh, NC  27603",
+                "url": "https://apm.activecommunities.com/wakeparks/Activity_Search/hike-with-a-naturalist/9429?locale=en-US",
+                "cost": "Free",
+                "lat": 35.72157134974476,
+                "lon": -78.68526087901417,
+                "ages": null,
+                "registration": "https://apm.activecommunities.com/wakeparks/Activity_Search/hike-with-a-naturalist/9429?locale=en-US",
+                "indoor": false,
+                "area": "raleigh",
+                "source": "wake-parks",
+                "dropIn": false
+              }
+            },
+            {
+              "ref": "place:lake-crabtree-county-park",
+              "arrive": "09:30",
+              "leave": "12:00",
+              "why": "Your child can climb on the playground, walk the greenway and look for what lives by the lake.",
+              "tips": [
+                "Bring a snack for the picnic shelter.",
+                "Make a nature game of spotting birds or leaves."
+              ],
+              "interests": [
+                "nature",
+                "movement"
+              ],
+              "also": [],
+              "area": "north-raleigh",
+              "outdoor": true,
+              "source": {
+                "kind": "park",
+                "title": "Lake Crabtree County Park",
+                "address": "1400 Aviation Pkwy., Morrisville, NC  27560",
+                "lat": 35.845600151785014,
+                "lon": -78.80104927513673,
+                "url": "https://www.wakegov.com/departments-government/parks-recreation-and-open-space/all-parks-trails/lake-crabtree-county-park",
+                "amenities": [
+                  "playground",
+                  "picnic-shelter",
+                  "restroom",
+                  "greenway",
+                  "nature",
+                  "garden",
+                  "boating"
+                ],
+                "indoor": false,
+                "area": "north-raleigh",
+                "hours": null,
+                "cost": "Free"
+              }
+            },
+            {
+              "ref": "place:gipson-play-plaza",
+              "arrive": "09:00",
+              "leave": "11:30",
+              "why": "A big destination playground gives your child lots of room to climb, run and make up games.",
+              "tips": [
+                "Pack a snack and water, and take a break halfway through.",
+                "Pick one last favorite thing to do before leaving."
+              ],
+              "interests": [
+                "movement"
+              ],
+              "also": [],
+              "area": "raleigh",
+              "outdoor": true,
+              "source": {
+                "kind": "park",
+                "title": "Gipson Play Plaza at Dix Park",
+                "address": "715 Biggs Dr, Raleigh, NC 27603",
+                "lat": 35.7667,
+                "lon": -78.6539,
+                "url": "https://dixpark.org/gipson-play-plaza",
+                "amenities": [
+                  "playground",
+                  "restroom"
+                ],
+                "indoor": false,
+                "area": "raleigh",
+                "hours": {
+                  "sun": "8 a.m.–9 p.m.",
+                  "mon": "8 a.m.–9 p.m.",
+                  "tue": "8 a.m.–9 p.m.",
+                  "wed": "8 a.m.–9 p.m.",
+                  "thu": "8 a.m.–9 p.m.",
+                  "fri": "8 a.m.–9 p.m.",
+                  "sat": "8 a.m.–9 p.m."
+                },
+                "cost": "Free",
+                "note": "Free; free parking. Big destination playground on the south edge of Dix Park."
+              }
+            }
+          ],
+          "rainBackup": null,
+          "timeline": [
+            {
+              "start": "07:00",
+              "end": "07:30",
+              "kind": "meal",
+              "title": "Up and breakfast"
+            },
+            {
+              "start": "07:30",
+              "end": "08:50",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "08:50",
+              "end": "09:10",
+              "kind": "routine",
+              "title": "Get ready to go",
+              "detail": "Shoes on, the bag, water and a snack."
+            },
+            {
+              "start": "09:10",
+              "end": "09:30",
+              "kind": "travel",
+              "title": "Drive to Clemmons Educational State Forest"
+            },
+            {
+              "start": "09:30",
+              "end": "12:00",
+              "kind": "outing",
+              "title": "Clemmons Educational State Forest"
+            },
+            {
+              "start": "12:00",
+              "end": "12:20",
+              "kind": "travel",
+              "title": "Drive home"
+            },
+            {
+              "start": "12:20",
+              "end": "12:50",
+              "kind": "meal",
+              "title": "Lunch"
+            },
+            {
+              "start": "12:50",
+              "end": "18:00",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "18:00",
+              "end": "18:45",
+              "kind": "meal",
+              "title": "Dinner"
+            },
+            {
+              "start": "18:45",
+              "end": "19:30",
+              "kind": "routine",
+              "title": "Bath, books and bed"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "checked": {
+    "at": "2026-11-27T11:03:44.744Z",
+    "forecast": "nws",
+    "weather": {
+      "period": "Sunday",
+      "tempF": 64,
+      "precipProbability": 5,
+      "shortForecast": "Mostly Sunny",
+      "windMph": 10,
+      "windFrom": "SW",
+      "hours": [
+        {
+          "t": "05:00",
+          "tempF": 40,
+          "pop": 0,
+          "cloud": 43
+        },
+        {
+          "t": "06:00",
+          "tempF": 39,
+          "pop": 0,
+          "cloud": 45
+        },
+        {
+          "t": "07:00",
+          "tempF": 39,
+          "pop": 0,
+          "cloud": 47
+        },
+        {
+          "t": "08:00",
+          "tempF": 43,
+          "pop": 0,
+          "cloud": 45
+        },
+        {
+          "t": "09:00",
+          "tempF": 46,
+          "pop": 0,
+          "cloud": 42
+        },
+        {
+          "t": "10:00",
+          "tempF": 50,
+          "pop": 0,
+          "cloud": 40
+        },
+        {
+          "t": "11:00",
+          "tempF": 54,
+          "pop": 0,
+          "cloud": 41
+        },
+        {
+          "t": "12:00",
+          "tempF": 57,
+          "pop": 0,
+          "cloud": 41
+        },
+        {
+          "t": "13:00",
+          "tempF": 60,
+          "pop": 5,
+          "cloud": 42
+        },
+        {
+          "t": "14:00",
+          "tempF": 62,
+          "pop": 5,
+          "cloud": 46
+        },
+        {
+          "t": "15:00",
+          "tempF": 63,
+          "pop": 5,
+          "cloud": 51
+        },
+        {
+          "t": "16:00",
+          "tempF": 63,
+          "pop": 5,
+          "cloud": 55
+        },
+        {
+          "t": "17:00",
+          "tempF": 61,
+          "pop": 5,
+          "cloud": 69
+        },
+        {
+          "t": "18:00",
+          "tempF": 59,
+          "pop": 5,
+          "cloud": 82
+        },
+        {
+          "t": "19:00",
+          "tempF": 57,
+          "pop": 93,
+          "cloud": 98
+        },
+        {
+          "t": "20:00",
+          "tempF": 56,
+          "pop": 93,
+          "cloud": 98
+        },
+        {
+          "t": "21:00",
+          "tempF": 55,
+          "pop": 93,
+          "cloud": 98
+        },
+        {
+          "t": "22:00",
+          "tempF": 55,
+          "pop": 93,
+          "cloud": 98
+        },
+        {
+          "t": "23:00",
+          "tempF": 55,
+          "pop": 93,
+          "cloud": 98
+        }
+      ]
+    },
+    "hidden": []
+  }
+}

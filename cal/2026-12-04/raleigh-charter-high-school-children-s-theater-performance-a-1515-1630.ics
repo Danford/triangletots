@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Triangle Tots//triangletots.com//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:2026-12-04-raleigh-charter-high-school-children-s-theater-performance-a
+ -1515-1630@triangletots.com
+DTSTAMP:20261127T100000Z
+DTSTART:20261204T201500Z
+DTEND:20261204T213000Z
+SUMMARY:Raleigh Charter High School Children's Theater Performance at Pulle
+ n Park Amusements
+LOCATION:410 Park Ave\, Raleigh\, NC 27606
+DESCRIPTION:Sign up first.\nhttps://raleighnc.gov/parks-and-recreation/plac
+ es/pullen-park-amusements\nhttps://www.eventbrite.com/e/raleigh-charter-hi
+ gh-school-childrens-theater-performance-tickets-2004389057628\nThe whole d
+ ay: https://triangletots.com/2026-12-04/t4/\nTimes and details can change.
+  Check the event or place before you go.
+END:VEVENT
+END:VCALENDAR

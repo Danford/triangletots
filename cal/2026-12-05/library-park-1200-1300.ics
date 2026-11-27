@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Triangle Tots//triangletots.com//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:2026-12-05-library-park-1200-1300@triangletots.com
+DTSTAMP:20261127T100000Z
+DTSTART:20261205T170000Z
+DTEND:20261205T180000Z
+SUMMARY:Library Park
+LOCATION:116 South Aiken Street\, Fuquay-Varina\, NC
+DESCRIPTION:https://www.fuquay-varina.org/Facilities/Facility/Details/20\nT
+ he whole day: https://triangletots.com/2026-12-05/t2/\nTimes and details c
+ an change. Check the event or place before you go.
+END:VEVENT
+END:VCALENDAR

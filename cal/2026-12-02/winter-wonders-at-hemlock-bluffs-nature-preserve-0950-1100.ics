@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Triangle Tots//triangletots.com//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:2026-12-02-winter-wonders-at-hemlock-bluffs-nature-preserve-0950-1100@t
+ riangletots.com
+DTSTAMP:20261127T100000Z
+DTSTART:20261202T145000Z
+DTEND:20261202T160000Z
+SUMMARY:Winter Wonders at Hemlock Bluffs Nature Preserve
+LOCATION:2616 Kildaire Farm Road\, Cary\, NC
+DESCRIPTION:Sign up first.\nhttps://nccaryweb.myvscloud.com/webtrac/web/sea
+ rch.html?module=AR\nThe whole day: https://triangletots.com/2026-12-02/t2/
+ \nTimes and details can change. Check the event or place before you go.
+END:VEVENT
+END:VCALENDAR

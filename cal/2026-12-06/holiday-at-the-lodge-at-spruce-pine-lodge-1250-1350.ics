@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Triangle Tots//triangletots.com//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:2026-12-06-holiday-at-the-lodge-at-spruce-pine-lodge-1250-1350@triangle
+ tots.com
+DTSTAMP:20261127T100000Z
+DTSTART:20261206T175000Z
+DTEND:20261206T185000Z
+SUMMARY:Holiday at the Lodge at Spruce Pine Lodge
+LOCATION:2235 Bahama Rd\, Durham\, NC
+DESCRIPTION:Sign up first.\nhttps://apm.activecommunities.com/dprplaymore/A
+ ctivity_Search/holiday-at-the-lodge/19887?locale=en-US\nThe whole day: htt
+ ps://triangletots.com/2026-12-06/t1/\nTimes and details can change. Check 
+ the event or place before you go.
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Triangle Tots//triangletots.com//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:2026-12-02-falcon-park-0930-1045@triangletots.com
+DTSTAMP:20261127T100000Z
+DTSTART:20261202T143000Z
+DTEND:20261202T154500Z
+SUMMARY:Falcon Park
+LOCATION:611 E. Academy Street\, Fuquay-Varina\, NC
+DESCRIPTION:https://www.fuquay-varina.org/Facilities/Facility/Details/9\nTh
+ e whole day: https://triangletots.com/2026-12-02/t4/\nTimes and details ca
+ n change. Check the event or place before you go.
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Triangle Tots//triangletots.com//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:2026-12-01-live-animal-feeding-lobster-at-nc-museum-of-natural-sciences
+ -1325-1430@triangletots.com
+DTSTAMP:20261127T100000Z
+DTSTART:20261201T182500Z
+DTEND:20261201T193000Z
+SUMMARY:Live Animal Feeding: Lobster at NC Museum of Natural Sciences
+LOCATION:11 West Jones Street\, Raleigh\, NC\, 27601
+DESCRIPTION:https://raleighnc.gov/parks-and-recreation/places/fred-fletcher
+ -park\nThe whole day: https://triangletots.com/2026-12-01/t3/\nTimes and d
+ etails can change. Check the event or place before you go.
+END:VEVENT
+END:VCALENDAR

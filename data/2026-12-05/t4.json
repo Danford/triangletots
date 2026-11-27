@@ -1,0 +1,878 @@
+{
+  "date": "2026-12-05",
+  "band": "t4",
+  "versions": [
+    {
+      "at": "2026-11-22T11:04:53.843Z",
+      "reason": null,
+      "forecast": "none",
+      "weather": null,
+      "plans": [
+        {
+          "nap": "short-nap",
+          "napLabel": "Short nap, 1 to 2",
+          "headline": "Dinosaur trail, farmyard and a train ride",
+          "main": {
+            "ref": "place:museum-of-life-and-science",
+            "arrive": "10:00",
+            "leave": "12:10",
+            "why": "Your child can hunt for dinosaurs on the Dinosaur Trail, visit the farmyard and ride the train. Hideaway Woods has treehouses and a creek to explore.",
+            "tips": [
+              "Let your child choose the first stop, then work around the grounds from there.",
+              "Pack a snack for the farmyard so lunch at home feels easy.",
+              "Say the train ride is the last thing, so leaving feels like a plan."
+            ],
+            "interests": [
+              "dinosaurs",
+              "animals",
+              "nature"
+            ],
+            "also": [],
+            "area": "durham",
+            "outdoor": true,
+            "source": {
+              "kind": "museum",
+              "title": "Museum of Life and Science",
+              "address": "433 W Murray Ave, Durham, NC 27704",
+              "lat": 36.0294,
+              "lon": -78.8993,
+              "url": "https://www.lifeandscience.org/visit/",
+              "amenities": [
+                "nature",
+                "animals",
+                "train",
+                "playground",
+                "restroom"
+              ],
+              "indoor": false,
+              "area": "durham",
+              "cost": "$24 adults, $19 ages 3–15, under 3 free",
+              "note": "Tickets: $24 adults, $19 ages 3–15, under 3 free. Hideaway Woods treehouses and creek, farmyard, train ride and Dinosaur Trail are outside."
+            }
+          },
+          "alternatives": [
+            {
+              "ref": "place:nc-botanical-garden",
+              "arrive": "09:30",
+              "leave": "11:30",
+              "why": "Your child can walk the forest trails behind the display gardens and look for leaves, seeds and critters.",
+              "tips": [
+                "Bring a small bag for collecting fallen leaves.",
+                "Turn it into a game: find something round, something rough, something red."
+              ],
+              "interests": [
+                "nature",
+                "movement"
+              ],
+              "also": [],
+              "area": "chapel-hill",
+              "outdoor": true,
+              "source": {
+                "kind": "garden",
+                "title": "NC Botanical Garden",
+                "address": "100 Old Mason Farm Rd, Chapel Hill, NC 27517",
+                "lat": 35.9011,
+                "lon": -79.0319,
+                "url": "https://ncbg.unc.edu/visit/",
+                "amenities": [
+                  "garden",
+                  "nature",
+                  "restroom"
+                ],
+                "indoor": false,
+                "area": "chapel-hill",
+                "cost": "Free",
+                "note": "Free. Display gardens, and nature trails through the forest behind them."
+              }
+            },
+            {
+              "ref": "event:dix-park:/event/frost-fest:2026-12-05",
+              "arrive": "14:30",
+              "leave": "16:45",
+              "why": "Frost Fest runs through the afternoon at Gipson Play Plaza at Dix Park, a big playground for climbing and running.",
+              "tips": [
+                "Bring a snack to share after the first burst of play.",
+                "Pick a last slide so the goodbye is a plan, not a surprise."
+              ],
+              "interests": [
+                "movement"
+              ],
+              "also": [],
+              "area": "raleigh",
+              "outdoor": true,
+              "source": {
+                "kind": "event",
+                "title": "Frost Fest",
+                "start": "2026-12-05T14:00:00",
+                "end": "2026-12-05T21:00:00",
+                "venue": "Gipson Play Plaza, Dix Park",
+                "address": "715 Biggs Dr, Raleigh, NC 27603",
+                "url": "https://dixpark.org/event/frost-fest",
+                "cost": null,
+                "lat": 35.7667,
+                "lon": -78.6539,
+                "ages": null,
+                "registration": null,
+                "indoor": false,
+                "area": "raleigh",
+                "source": "dix-park",
+                "dropIn": true
+              }
+            },
+            {
+              "ref": "place:gill-street-park",
+              "also": [
+                {
+                  "ref": "event:wake:25057",
+                  "source": {
+                    "kind": "event",
+                    "title": "Cookiemobile!",
+                    "start": "2026-12-05T10:00:00-05:00",
+                    "end": "2026-12-05T12:00:00-05:00",
+                    "venue": "Zebulon Community Library",
+                    "address": "1000 Dogwood Drive, Zebulon, NC",
+                    "url": "https://www.wake.gov/events/cookiemobile-1",
+                    "cost": "Free",
+                    "lat": 35.8364587208387,
+                    "lon": -78.3198221383783,
+                    "ages": "Young Children School-Age Children",
+                    "registration": null,
+                    "indoor": true,
+                    "area": "east-wake",
+                    "source": "wake-county",
+                    "dropIn": false
+                  }
+                }
+              ],
+              "arrive": "09:30",
+              "leave": "12:00",
+              "why": "Run at Gill Street Park, then head to Zebulon Community Library for the Cookiemobile, where the Bookmobile has a winter makeover and there are crafts and games.",
+              "tips": [
+                "Let your child burn energy at the park first so crafts feel calm.",
+                "Bring a bag for the craft to carry home."
+              ],
+              "interests": [
+                "art",
+                "movement",
+                "stories"
+              ],
+              "area": "east-wake",
+              "outdoor": false,
+              "source": {
+                "kind": "park",
+                "title": "Gill Street Park",
+                "address": "600 N Privette St, Zebulon, NC",
+                "lat": 35.82878975768889,
+                "lon": -78.31085709480551,
+                "url": "https://www.townofzebulon.org/o/parksandrec/page/parks-facilities-rentals",
+                "amenities": [
+                  "playground"
+                ],
+                "indoor": false,
+                "area": "east-wake",
+                "hours": null,
+                "cost": "Free"
+              }
+            },
+            {
+              "ref": "place:crowder-county-park",
+              "arrive": "09:00",
+              "leave": "11:00",
+              "why": "A garden, a playground and greenway paths give your child room to run and explore.",
+              "tips": [
+                "Bring a snack for a bench break.",
+                "Follow the greenway as far as {they} like{s}, then turn back."
+              ],
+              "interests": [
+                "nature",
+                "movement"
+              ],
+              "also": [],
+              "area": "cary-apex",
+              "outdoor": true,
+              "source": {
+                "kind": "park",
+                "title": "Crowder County Park",
+                "address": "4709 Ten Ten Road",
+                "lat": 35.69174392711247,
+                "lon": -78.76585678897689,
+                "url": "https://www.wakegov.com/departments-government/parks-recreation-and-open-space/all-parks-trails/crowder-county-park",
+                "amenities": [
+                  "playground",
+                  "picnic-shelter",
+                  "restroom",
+                  "greenway",
+                  "garden"
+                ],
+                "indoor": false,
+                "area": "cary-apex",
+                "hours": null,
+                "cost": "Free"
+              }
+            }
+          ],
+          "rainBackup": null,
+          "timeline": [
+            {
+              "start": "07:00",
+              "end": "07:30",
+              "kind": "meal",
+              "title": "Up and breakfast"
+            },
+            {
+              "start": "07:30",
+              "end": "09:20",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "09:20",
+              "end": "09:40",
+              "kind": "routine",
+              "title": "Get ready to go",
+              "detail": "Shoes on, the bag, water and a snack."
+            },
+            {
+              "start": "09:40",
+              "end": "10:00",
+              "kind": "travel",
+              "title": "Drive to Museum of Life and Science"
+            },
+            {
+              "start": "10:00",
+              "end": "12:10",
+              "kind": "outing",
+              "title": "Museum of Life and Science",
+              "detail": "Pack a lunch to eat there."
+            },
+            {
+              "start": "12:10",
+              "end": "12:30",
+              "kind": "travel",
+              "title": "Drive home"
+            },
+            {
+              "start": "12:30",
+              "end": "12:45",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "12:45",
+              "end": "13:00",
+              "kind": "quiet",
+              "title": "Wind down",
+              "detail": "A couple of books to settle."
+            },
+            {
+              "start": "13:00",
+              "end": "14:00",
+              "kind": "nap",
+              "title": "Nap"
+            },
+            {
+              "start": "14:00",
+              "end": "14:20",
+              "kind": "routine",
+              "title": "Up and a snack"
+            },
+            {
+              "start": "14:20",
+              "end": "18:30",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "18:30",
+              "end": "19:15",
+              "kind": "meal",
+              "title": "Dinner"
+            },
+            {
+              "start": "19:15",
+              "end": "20:00",
+              "kind": "routine",
+              "title": "Bath, books and bed"
+            }
+          ]
+        },
+        {
+          "nap": "quiet",
+          "napLabel": "Quiet time",
+          "headline": "Make music, then ride the carousel at the park",
+          "main": {
+            "ref": "event:museum:marbles:49038",
+            "also": [
+              {
+                "ref": "place:john-chavis-memorial-park",
+                "source": {
+                  "kind": "park",
+                  "title": "John Chavis Memorial Park",
+                  "address": "505 Martin Luther King Jr Blvd, Raleigh, NC 27601",
+                  "lat": 35.7698,
+                  "lon": -78.63021,
+                  "url": "https://raleighnc.gov/parks-and-recreation/places/john-chavis-memorial-park",
+                  "amenities": [
+                    "community-center",
+                    "playground",
+                    "carousel",
+                    "fields"
+                  ],
+                  "indoor": false,
+                  "area": "raleigh",
+                  "hours": null,
+                  "cost": "Free"
+                }
+              }
+            ],
+            "arrive": "10:00",
+            "leave": "12:15",
+            "why": "Your child can play instruments and make noise at Marbles Music Makers, then head to John Chavis Memorial Park, which has a playground and a carousel.",
+            "tips": [
+              "Drop in and stay as long as {they} like{s}; there is no need to do the whole session.",
+              "Bring a snack for the park.",
+              "Tell your child the park comes next so leaving the museum is easy."
+            ],
+            "interests": [
+              "music",
+              "movement"
+            ],
+            "area": "raleigh",
+            "outdoor": false,
+            "source": {
+              "kind": "event",
+              "title": "Music Makers",
+              "start": "2026-12-05T10:00:00",
+              "end": "2026-12-05T13:00:00",
+              "venue": "Marbles Kids Museum",
+              "address": "201 E Hargett St, Raleigh, NC 27601",
+              "url": "https://marbleskidsmuseum.org/event/49149/",
+              "cost": "Museum admission $12.50 at the door, $9.50 bought ahead; under 1 free",
+              "lat": 35.7789,
+              "lon": -78.6361,
+              "ages": "Included with Admission Non-ticketed",
+              "registration": null,
+              "indoor": true,
+              "area": "raleigh",
+              "source": "museum",
+              "dropIn": true
+            }
+          },
+          "alternatives": [
+            {
+              "ref": "event:museum:durham-central-park:13956",
+              "also": [
+                {
+                  "ref": "place:durham-central-park",
+                  "source": {
+                    "kind": "park",
+                    "title": "Durham Central Park",
+                    "address": "501 Foster St, Durham, NC",
+                    "lat": 36.0006525,
+                    "lon": -78.90071999999999,
+                    "url": "https://www.dprplaymore.org/Facilities/Facility/Details/Durham-Central-Park-18",
+                    "amenities": [
+                      "playground",
+                      "restroom",
+                      "greenway"
+                    ],
+                    "indoor": false,
+                    "area": "durham",
+                    "hours": null,
+                    "cost": "Free"
+                  }
+                }
+              ],
+              "arrive": "09:10",
+              "leave": "11:00",
+              "why": "Stroll the DFM Winter Market at Durham Central Park, then let your child run at the park playground.",
+              "tips": [
+                "Bring a snack so the market browsing stays happy.",
+                "Save the playground as the reward for walking the market."
+              ],
+              "interests": [
+                "movement"
+              ],
+              "area": "durham",
+              "outdoor": true,
+              "source": {
+                "kind": "event",
+                "title": "DFM Winter Market",
+                "start": "2026-12-05T09:00:00",
+                "end": "2026-12-05T12:00:00",
+                "venue": "Durham Central Park",
+                "address": "501 Foster Street, Durham, NC, 27701",
+                "url": "https://durhamcentralpark.org/upcoming-event/dfm-winter-market-2/2026-12-05/",
+                "cost": null,
+                "lat": 36.0008,
+                "lon": -78.9021,
+                "ages": null,
+                "registration": null,
+                "indoor": false,
+                "area": "durham",
+                "source": "museum",
+                "dropIn": true
+              }
+            },
+            {
+              "ref": "event:wake:24993",
+              "also": [
+                {
+                  "ref": "place:honeycutt-park",
+                  "source": {
+                    "kind": "park",
+                    "title": "Honeycutt Park",
+                    "address": "1032 Clear Creek Farm Road, Raleigh, NC 27615",
+                    "lat": 35.9023,
+                    "lon": -78.6259,
+                    "url": "https://raleighnc.gov/parks-and-recreation/places/honeycutt-park",
+                    "amenities": [
+                      "picnic-shelter",
+                      "courts",
+                      "fields",
+                      "playground"
+                    ],
+                    "indoor": false,
+                    "area": "north-raleigh",
+                    "hours": null,
+                    "cost": "Free"
+                  }
+                }
+              ],
+              "arrive": "14:00",
+              "leave": "15:45",
+              "why": "Your child can watch model trains roll through different scenes at North Regional Library, then run at Honeycutt Park.",
+              "tips": [
+                "Ask your child to count the trains or find the tunnels.",
+                "Bring a snack for the park."
+              ],
+              "interests": [
+                "vehicles",
+                "movement"
+              ],
+              "area": "north-raleigh",
+              "outdoor": false,
+              "source": {
+                "kind": "event",
+                "title": "Model Train Exhibit",
+                "start": "2026-12-05T13:30:00-05:00",
+                "end": "2026-12-05T16:30:00-05:00",
+                "venue": "North Regional Library",
+                "address": "7009 Harps Mill Road, Raleigh, NC",
+                "url": "https://www.wake.gov/events/model-train-exhibit-7",
+                "cost": "Free",
+                "lat": 35.880907380619,
+                "lon": -78.6281516610688,
+                "ages": "Young Children All Ages School-Age Children Teens",
+                "registration": null,
+                "indoor": true,
+                "area": "north-raleigh",
+                "source": "wake-county",
+                "dropIn": true
+              }
+            },
+            {
+              "ref": "place:apex-nature-park",
+              "arrive": "09:00",
+              "leave": "11:00",
+              "why": "Your child can walk the greenway and look for leaves, birds and bugs at Apex Nature Park.",
+              "tips": [
+                "Bring a snack for the picnic shelter.",
+                "Give your child a job, like finding three different leaves."
+              ],
+              "interests": [
+                "nature",
+                "movement"
+              ],
+              "also": [],
+              "area": "cary-apex",
+              "outdoor": true,
+              "source": {
+                "kind": "park",
+                "title": "Apex Nature Park",
+                "address": "2600 Evans Rd., Apex, NC",
+                "lat": 35.71709646233568,
+                "lon": -78.90520368087866,
+                "url": "https://www.apexnc.org/800/Nature-Park-Seymour-Athletic-Fields",
+                "amenities": [
+                  "picnic-shelter",
+                  "restroom",
+                  "greenway",
+                  "nature"
+                ],
+                "indoor": false,
+                "area": "cary-apex",
+                "hours": null,
+                "cost": "Free"
+              }
+            }
+          ],
+          "rainBackup": null,
+          "timeline": [
+            {
+              "start": "07:00",
+              "end": "07:30",
+              "kind": "meal",
+              "title": "Up and breakfast"
+            },
+            {
+              "start": "07:30",
+              "end": "09:20",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "09:20",
+              "end": "09:40",
+              "kind": "routine",
+              "title": "Get ready to go",
+              "detail": "Shoes on, the bag, water and a snack."
+            },
+            {
+              "start": "09:40",
+              "end": "10:00",
+              "kind": "travel",
+              "title": "Drive to Marbles Kids Museum"
+            },
+            {
+              "start": "10:00",
+              "end": "12:15",
+              "kind": "outing",
+              "title": "Marbles Kids Museum",
+              "detail": "Pack a lunch to eat there."
+            },
+            {
+              "start": "12:15",
+              "end": "12:35",
+              "kind": "travel",
+              "title": "Drive home"
+            },
+            {
+              "start": "12:35",
+              "end": "13:00",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "13:00",
+              "end": "13:45",
+              "kind": "quiet",
+              "title": "Quiet time",
+              "detail": "Books or quiet play in their room."
+            },
+            {
+              "start": "13:45",
+              "end": "18:00",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "18:00",
+              "end": "18:45",
+              "kind": "meal",
+              "title": "Dinner"
+            },
+            {
+              "start": "18:45",
+              "end": "19:30",
+              "kind": "routine",
+              "title": "Bath, books and bed"
+            }
+          ]
+        },
+        {
+          "nap": "no-nap",
+          "napLabel": "No nap",
+          "headline": "Forest trails and garden hunts in Chapel Hill",
+          "main": {
+            "ref": "place:nc-botanical-garden",
+            "arrive": "10:00",
+            "leave": "12:30",
+            "why": "Your child can explore the display gardens, then follow the nature trails through the forest behind them. It is a long, quiet walk with lots to spot.",
+            "tips": [
+              "Bring water and a snack for a trailside break.",
+              "Make it a scavenger hunt: a pinecone, a feather, something yellow.",
+              "Let {them} lead on the trails."
+            ],
+            "interests": [
+              "nature",
+              "movement"
+            ],
+            "also": [],
+            "area": "chapel-hill",
+            "outdoor": true,
+            "source": {
+              "kind": "garden",
+              "title": "NC Botanical Garden",
+              "address": "100 Old Mason Farm Rd, Chapel Hill, NC 27517",
+              "lat": 35.9011,
+              "lon": -79.0319,
+              "url": "https://ncbg.unc.edu/visit/",
+              "amenities": [
+                "garden",
+                "nature",
+                "restroom"
+              ],
+              "indoor": false,
+              "area": "chapel-hill",
+              "cost": "Free",
+              "note": "Free. Display gardens, and nature trails through the forest behind them."
+            }
+          },
+          "alternatives": [
+            {
+              "ref": "place:museum-of-life-and-science",
+              "arrive": "10:00",
+              "leave": "13:00",
+              "why": "Your child can visit the farmyard, ride the train and walk the Dinosaur Trail, with treehouses and a creek in Hideaway Woods.",
+              "tips": [
+                "Pick two favorite stops and save the train ride for last.",
+                "Pack a snack and eat outside between exhibits."
+              ],
+              "interests": [
+                "animals",
+                "dinosaurs",
+                "nature"
+              ],
+              "also": [],
+              "area": "durham",
+              "outdoor": true,
+              "source": {
+                "kind": "museum",
+                "title": "Museum of Life and Science",
+                "address": "433 W Murray Ave, Durham, NC 27704",
+                "lat": 36.0294,
+                "lon": -78.8993,
+                "url": "https://www.lifeandscience.org/visit/",
+                "amenities": [
+                  "nature",
+                  "animals",
+                  "train",
+                  "playground",
+                  "restroom"
+                ],
+                "indoor": false,
+                "area": "durham",
+                "cost": "$24 adults, $19 ages 3–15, under 3 free",
+                "note": "Tickets: $24 adults, $19 ages 3–15, under 3 free. Hideaway Woods treehouses and creek, farmyard, train ride and Dinosaur Trail are outside."
+              }
+            },
+            {
+              "ref": "event:wake:24993",
+              "also": [
+                {
+                  "ref": "place:honeycutt-park",
+                  "source": {
+                    "kind": "park",
+                    "title": "Honeycutt Park",
+                    "address": "1032 Clear Creek Farm Road, Raleigh, NC 27615",
+                    "lat": 35.9023,
+                    "lon": -78.6259,
+                    "url": "https://raleighnc.gov/parks-and-recreation/places/honeycutt-park",
+                    "amenities": [
+                      "picnic-shelter",
+                      "courts",
+                      "fields",
+                      "playground"
+                    ],
+                    "indoor": false,
+                    "area": "north-raleigh",
+                    "hours": null,
+                    "cost": "Free"
+                  }
+                }
+              ],
+              "arrive": "13:30",
+              "leave": "15:30",
+              "why": "Watch model trains travel through different scenes at North Regional Library, then burn energy at Honeycutt Park.",
+              "tips": [
+                "Ask your child to find the tiniest scene on the layout.",
+                "Bring a snack for the park."
+              ],
+              "interests": [
+                "vehicles",
+                "movement"
+              ],
+              "area": "north-raleigh",
+              "outdoor": false,
+              "source": {
+                "kind": "event",
+                "title": "Model Train Exhibit",
+                "start": "2026-12-05T13:30:00-05:00",
+                "end": "2026-12-05T16:30:00-05:00",
+                "venue": "North Regional Library",
+                "address": "7009 Harps Mill Road, Raleigh, NC",
+                "url": "https://www.wake.gov/events/model-train-exhibit-7",
+                "cost": "Free",
+                "lat": 35.880907380619,
+                "lon": -78.6281516610688,
+                "ages": "Young Children All Ages School-Age Children Teens",
+                "registration": null,
+                "indoor": true,
+                "area": "north-raleigh",
+                "source": "wake-county",
+                "dropIn": true
+              }
+            },
+            {
+              "ref": "event:dix-park:/event/frost-fest:2026-12-05",
+              "arrive": "14:00",
+              "leave": "16:30",
+              "why": "Frost Fest fills the afternoon at Gipson Play Plaza at Dix Park, with a big playground for climbing and sliding.",
+              "tips": [
+                "Bring a snack to share.",
+                "Head home before the light fades and the crowds build."
+              ],
+              "interests": [
+                "movement"
+              ],
+              "also": [],
+              "area": "raleigh",
+              "outdoor": true,
+              "source": {
+                "kind": "event",
+                "title": "Frost Fest",
+                "start": "2026-12-05T14:00:00",
+                "end": "2026-12-05T21:00:00",
+                "venue": "Gipson Play Plaza, Dix Park",
+                "address": "715 Biggs Dr, Raleigh, NC 27603",
+                "url": "https://dixpark.org/event/frost-fest",
+                "cost": null,
+                "lat": 35.7667,
+                "lon": -78.6539,
+                "ages": null,
+                "registration": null,
+                "indoor": false,
+                "area": "raleigh",
+                "source": "dix-park",
+                "dropIn": true
+              }
+            },
+            {
+              "ref": "place:apex-community-park",
+              "also": [
+                {
+                  "ref": "event:wake:24664",
+                  "source": {
+                    "kind": "event",
+                    "title": "Eva Perry Regional Library's 30th Year Anniversary.",
+                    "start": "2026-12-05T14:00:00-05:00",
+                    "end": "2026-12-05T16:00:00-05:00",
+                    "venue": "Eva Perry Regional Library",
+                    "address": "2100 Shepherds Vineyard Drive, Apex, NC",
+                    "url": "https://www.wake.gov/events/eva-perry-regional-librarys-30th-year-anniversary",
+                    "cost": "Free",
+                    "lat": 35.7437832024768,
+                    "lon": -78.8251607833066,
+                    "ages": "All Ages",
+                    "registration": null,
+                    "indoor": true,
+                    "area": "cary-apex",
+                    "source": "wake-county",
+                    "dropIn": false
+                  }
+                }
+              ],
+              "arrive": "13:30",
+              "leave": "16:00",
+              "why": "Play at Apex Community Park, then join Eva Perry Regional Library's 30th anniversary celebration with two hours of activities.",
+              "tips": [
+                "Run first so {they} can sit for the activities.",
+                "Bring a snack for the park."
+              ],
+              "interests": [
+                "stories",
+                "movement"
+              ],
+              "area": "cary-apex",
+              "outdoor": false,
+              "source": {
+                "kind": "park",
+                "title": "Apex Community Park",
+                "address": "2200 Laura Duncan Rd., Apex, NC",
+                "lat": 35.75461588131496,
+                "lon": -78.82862025650613,
+                "url": "http://www.apexnc.org/795/Apex-Community-Park",
+                "amenities": [
+                  "playground",
+                  "picnic-shelter",
+                  "restroom",
+                  "greenway"
+                ],
+                "indoor": false,
+                "area": "cary-apex",
+                "hours": null,
+                "cost": "Free"
+              }
+            }
+          ],
+          "rainBackup": null,
+          "timeline": [
+            {
+              "start": "07:00",
+              "end": "07:30",
+              "kind": "meal",
+              "title": "Up and breakfast"
+            },
+            {
+              "start": "07:30",
+              "end": "09:20",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "09:20",
+              "end": "09:40",
+              "kind": "routine",
+              "title": "Get ready to go",
+              "detail": "Shoes on, the bag, water and a snack."
+            },
+            {
+              "start": "09:40",
+              "end": "10:00",
+              "kind": "travel",
+              "title": "Drive to NC Botanical Garden"
+            },
+            {
+              "start": "10:00",
+              "end": "12:30",
+              "kind": "outing",
+              "title": "NC Botanical Garden",
+              "detail": "Pack a lunch to eat there."
+            },
+            {
+              "start": "12:30",
+              "end": "12:50",
+              "kind": "travel",
+              "title": "Drive home"
+            },
+            {
+              "start": "12:50",
+              "end": "18:00",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "18:00",
+              "end": "18:45",
+              "kind": "meal",
+              "title": "Dinner"
+            },
+            {
+              "start": "18:45",
+              "end": "19:30",
+              "kind": "routine",
+              "title": "Bath, books and bed"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "checked": {
+    "at": "2026-11-27T11:03:44.838Z",
+    "forecast": "none",
+    "weather": null,
+    "hidden": []
+  }
+}

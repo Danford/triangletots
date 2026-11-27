@@ -1,0 +1,976 @@
+{
+  "date": "2026-11-29",
+  "band": "t1",
+  "versions": [
+    {
+      "at": "2026-11-16T11:05:13.795Z",
+      "reason": null,
+      "forecast": "none",
+      "weather": null,
+      "plans": [
+        {
+          "nap": "two-naps",
+          "napLabel": "Two naps",
+          "headline": "Market stalls, then a playground morning",
+          "main": {
+            "ref": "event:museum:durham-central-park:13302",
+            "arrive": "11:00",
+            "leave": "12:30",
+            "why": "Wander the Durham Underground Market for a little while, then let your toddler climb and toddle at the Durham Central Park playground.",
+            "tips": [
+              "Pack a snack and a drink so you can head home for lunch without a fuss.",
+              "Let your toddler lead the way past the stalls at {their} own pace.",
+              "Give one last turn on the playground, then walk to the car together."
+            ],
+            "interests": [
+              "movement"
+            ],
+            "also": [
+              {
+                "ref": "place:durham-central-park",
+                "source": {
+                  "kind": "park",
+                  "title": "Durham Central Park",
+                  "address": "501 Foster St, Durham, NC",
+                  "lat": 36.0006525,
+                  "lon": -78.90071999999999,
+                  "url": "https://www.dprplaymore.org/Facilities/Facility/Details/Durham-Central-Park-18",
+                  "amenities": [
+                    "playground",
+                    "restroom",
+                    "greenway"
+                  ],
+                  "indoor": false,
+                  "area": "durham",
+                  "hours": null,
+                  "cost": "Free"
+                }
+              }
+            ],
+            "area": "durham",
+            "outdoor": true,
+            "source": {
+              "kind": "event",
+              "title": "Durham Underground Market",
+              "start": "2026-11-29T11:00:00",
+              "end": "2026-11-29T15:00:00",
+              "venue": "Durham Central Park",
+              "address": "501 Foster Street, Durham, NC, 27701",
+              "url": "https://durhamcentralpark.org/upcoming-event/durham-underground-market-2/2026-11-29/",
+              "cost": null,
+              "lat": 36.0008,
+              "lon": -78.9021,
+              "ages": null,
+              "registration": null,
+              "indoor": false,
+              "area": "durham",
+              "source": "museum",
+              "dropIn": true
+            }
+          },
+          "alternatives": [
+            {
+              "ref": "event:wake-parks:9411:2026-11-29",
+              "arrive": "12:15",
+              "leave": "13:45",
+              "why": "Your toddler can explore the American Bison Exploration Station, then see inside the open mill at the Mill Open House, where interpreters talk about how it works.",
+              "tips": [
+                "Bring a snack for the car ride home.",
+                "Point out the big shapes and let {them} look as long as {they} like{s}."
+              ],
+              "interests": [
+                "animals",
+                "science"
+              ],
+              "also": [
+                {
+                  "ref": "event:wake-parks:9423",
+                  "source": {
+                    "kind": "event",
+                    "title": "Mill Open House",
+                    "start": "2026-11-29T13:00:00",
+                    "end": "2026-11-29T16:00:00",
+                    "venue": "Historic Yates Mill County Park",
+                    "address": "4620 Lake Wheeler Rd., Raleigh, NC  27603",
+                    "url": "https://apm.activecommunities.com/wakeparks/Activity_Search/mill-open-house/9423?locale=en-US",
+                    "cost": "Free",
+                    "lat": 35.72157134974476,
+                    "lon": -78.68526087901417,
+                    "ages": null,
+                    "registration": false,
+                    "indoor": false,
+                    "area": "raleigh",
+                    "source": "wake-parks",
+                    "dropIn": true
+                  }
+                }
+              ],
+              "area": "raleigh",
+              "outdoor": true,
+              "source": {
+                "kind": "event",
+                "title": "Exploration Station: American Bison",
+                "start": "2026-11-29T08:30:00",
+                "end": "2026-11-29T17:00:00",
+                "venue": "Historic Yates Mill County Park",
+                "address": "4620 Lake Wheeler Rd., Raleigh, NC  27603",
+                "url": "https://apm.activecommunities.com/wakeparks/Activity_Search/exploration-station-american-bison/9411?locale=en-US",
+                "cost": "Free",
+                "lat": 35.72157134974476,
+                "lon": -78.68526087901417,
+                "ages": null,
+                "registration": false,
+                "indoor": false,
+                "area": "raleigh",
+                "source": "wake-parks",
+                "dropIn": true
+              }
+            },
+            {
+              "ref": "place:green-road-park",
+              "arrive": "12:15",
+              "leave": "13:50",
+              "why": "Play at Green Road Park first, then join the All Ages Crafternoon at Green Road Community Library for simple projects your toddler can try.",
+              "tips": [
+                "Bring a snack for the park before the craft.",
+                "Leave the craft table while your toddler is still happy so the drive home stays calm."
+              ],
+              "interests": [
+                "art",
+                "movement"
+              ],
+              "also": [
+                {
+                  "ref": "event:wake:21868",
+                  "source": {
+                    "kind": "event",
+                    "title": "All Ages Crafternoon",
+                    "start": "2026-11-29T13:00:00-05:00",
+                    "end": "2026-11-29T14:30:00-05:00",
+                    "venue": "Green Road Community Library",
+                    "address": "4101 Green Road, Raleigh, NC",
+                    "url": "https://www.wake.gov/events/all-ages-crafternoon-0",
+                    "cost": "Free",
+                    "lat": 35.8393031103746,
+                    "lon": -78.5919233951002,
+                    "ages": "Adults & Seniors Young Children All Ages School-Age Children Teens",
+                    "registration": null,
+                    "indoor": true,
+                    "area": "raleigh",
+                    "source": "wake-county",
+                    "dropIn": false
+                  }
+                }
+              ],
+              "area": "north-raleigh",
+              "outdoor": false,
+              "source": {
+                "kind": "park",
+                "title": "Green Road Park",
+                "address": "4201 Green Rd, Raleigh, NC 27604",
+                "lat": 35.8409,
+                "lon": -78.59225,
+                "url": "https://raleighnc.gov/parks-and-recreation/places/green-road-park",
+                "amenities": [
+                  "community-center",
+                  "picnic-shelter",
+                  "courts",
+                  "fields",
+                  "playground"
+                ],
+                "indoor": false,
+                "area": "north-raleigh",
+                "hours": null,
+                "cost": "Free"
+              }
+            },
+            {
+              "ref": "place:crowder-county-park",
+              "arrive": "11:15",
+              "leave": "12:45",
+              "why": "A relaxed late morning at Crowder County Park with the playground, the garden and the greenway to wander.",
+              "tips": [
+                "Bring a snack to share at the picnic shelter.",
+                "Let your toddler pick which way to walk next."
+              ],
+              "interests": [
+                "nature",
+                "movement"
+              ],
+              "also": [],
+              "area": "cary-apex",
+              "outdoor": true,
+              "source": {
+                "kind": "park",
+                "title": "Crowder County Park",
+                "address": "4709 Ten Ten Road",
+                "lat": 35.69174392711247,
+                "lon": -78.76585678897689,
+                "url": "https://www.wakegov.com/departments-government/parks-recreation-and-open-space/all-parks-trails/crowder-county-park",
+                "amenities": [
+                  "playground",
+                  "picnic-shelter",
+                  "restroom",
+                  "greenway",
+                  "garden"
+                ],
+                "indoor": false,
+                "area": "cary-apex",
+                "hours": null,
+                "cost": "Free"
+              }
+            }
+          ],
+          "rainBackup": null,
+          "timeline": [
+            {
+              "start": "07:00",
+              "end": "07:30",
+              "kind": "meal",
+              "title": "Up and breakfast"
+            },
+            {
+              "start": "07:30",
+              "end": "09:30",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "09:30",
+              "end": "10:30",
+              "kind": "nap",
+              "title": "Nap"
+            },
+            {
+              "start": "10:30",
+              "end": "10:40",
+              "kind": "routine",
+              "title": "Up, a snack and out the door",
+              "detail": "Have the bag packed and by the door before the nap."
+            },
+            {
+              "start": "10:40",
+              "end": "11:00",
+              "kind": "travel",
+              "title": "Drive to Durham Central Park"
+            },
+            {
+              "start": "11:00",
+              "end": "12:30",
+              "kind": "outing",
+              "title": "Durham Central Park",
+              "detail": "Pack a lunch to eat there."
+            },
+            {
+              "start": "12:30",
+              "end": "12:50",
+              "kind": "travel",
+              "title": "Drive home"
+            },
+            {
+              "start": "12:50",
+              "end": "14:30",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "14:30",
+              "end": "15:30",
+              "kind": "nap",
+              "title": "Nap"
+            },
+            {
+              "start": "15:30",
+              "end": "15:50",
+              "kind": "routine",
+              "title": "Up and a snack"
+            },
+            {
+              "start": "15:50",
+              "end": "17:30",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "17:30",
+              "end": "18:15",
+              "kind": "meal",
+              "title": "Dinner"
+            },
+            {
+              "start": "18:15",
+              "end": "19:00",
+              "kind": "routine",
+              "title": "Bath, books and bed"
+            }
+          ]
+        },
+        {
+          "nap": "early-nap",
+          "napLabel": "One nap, 12 to 2",
+          "headline": "Learn about bison, then peek inside an old mill",
+          "main": {
+            "ref": "event:wake-parks:9411:2026-11-29",
+            "arrive": "14:30",
+            "leave": "16:00",
+            "why": "Your toddler can explore the American Bison Exploration Station, then see inside Historic Yates Mill at the Mill Open House, both drop-in and free.",
+            "tips": [
+              "Bring a snack and a drink for after the nap.",
+              "Let {them} look and point at {their} own pace.",
+              "Say goodbye to the mill, then head to the car before {they} get{s} tired."
+            ],
+            "interests": [
+              "animals",
+              "science"
+            ],
+            "also": [
+              {
+                "ref": "event:wake-parks:9423",
+                "source": {
+                  "kind": "event",
+                  "title": "Mill Open House",
+                  "start": "2026-11-29T13:00:00",
+                  "end": "2026-11-29T16:00:00",
+                  "venue": "Historic Yates Mill County Park",
+                  "address": "4620 Lake Wheeler Rd., Raleigh, NC  27603",
+                  "url": "https://apm.activecommunities.com/wakeparks/Activity_Search/mill-open-house/9423?locale=en-US",
+                  "cost": "Free",
+                  "lat": 35.72157134974476,
+                  "lon": -78.68526087901417,
+                  "ages": null,
+                  "registration": false,
+                  "indoor": false,
+                  "area": "raleigh",
+                  "source": "wake-parks",
+                  "dropIn": true
+                }
+              }
+            ],
+            "area": "raleigh",
+            "outdoor": true,
+            "source": {
+              "kind": "event",
+              "title": "Exploration Station: American Bison",
+              "start": "2026-11-29T08:30:00",
+              "end": "2026-11-29T17:00:00",
+              "venue": "Historic Yates Mill County Park",
+              "address": "4620 Lake Wheeler Rd., Raleigh, NC  27603",
+              "url": "https://apm.activecommunities.com/wakeparks/Activity_Search/exploration-station-american-bison/9411?locale=en-US",
+              "cost": "Free",
+              "lat": 35.72157134974476,
+              "lon": -78.68526087901417,
+              "ages": null,
+              "registration": false,
+              "indoor": false,
+              "area": "raleigh",
+              "source": "wake-parks",
+              "dropIn": true
+            }
+          },
+          "alternatives": [
+            {
+              "ref": "event:wake:24625",
+              "arrive": "14:50",
+              "leave": "16:40",
+              "why": "Hear holiday songs from the Greenhope Serenaders at West Regional Library, then burn off energy at Carpenter Park.",
+              "tips": [
+                "Sit near the back so you can step out if {they} get{s} wiggly.",
+                "Bring a snack for the park."
+              ],
+              "interests": [
+                "music",
+                "movement"
+              ],
+              "also": [
+                {
+                  "ref": "place:carpenter-park",
+                  "source": {
+                    "kind": "park",
+                    "title": "Carpenter Park",
+                    "address": "4420 Louis Stephens Drive, Cary, NC",
+                    "lat": 35.82284995357582,
+                    "lon": -78.86424049854338,
+                    "url": "http://www.townofcary.org/recreation-enjoyment/parks-greenways-environment/parks/carpenter-park",
+                    "amenities": [
+                      "playground",
+                      "picnic-shelter",
+                      "restroom",
+                      "greenway"
+                    ],
+                    "indoor": false,
+                    "area": "cary-apex",
+                    "hours": null,
+                    "cost": "Free"
+                  }
+                }
+              ],
+              "area": "cary-apex",
+              "outdoor": false,
+              "source": {
+                "kind": "event",
+                "title": "Music in the Library: Greenhope Serenaders Club",
+                "start": "2026-11-29T15:00:00-05:00",
+                "end": "2026-11-29T16:00:00-05:00",
+                "venue": "West Regional Library",
+                "address": "4000 Louis Stephens Drive, Cary, NC",
+                "url": "https://www.wake.gov/events/music-library-greenhope-serenaders-club",
+                "cost": "Free",
+                "lat": 35.8148624293953,
+                "lon": -78.8644916775722,
+                "ages": "All Ages",
+                "registration": null,
+                "indoor": true,
+                "area": "cary-apex",
+                "source": "wake-county",
+                "dropIn": false
+              }
+            },
+            {
+              "ref": "place:white-deer-park",
+              "arrive": "09:00",
+              "leave": "10:45",
+              "why": "A calm morning of playground time and a nature walk at White Deer Park.",
+              "tips": [
+                "Bring a snack for the picnic shelter.",
+                "Let your toddler stop and look at whatever catches {their} eye."
+              ],
+              "interests": [
+                "nature",
+                "movement"
+              ],
+              "also": [],
+              "area": "south-wake",
+              "outdoor": true,
+              "source": {
+                "kind": "park",
+                "title": "White Deer Park",
+                "address": "2400 Aversboro Road, Garner NC, 27529",
+                "lat": 35.67703339814751,
+                "lon": -78.62516412154841,
+                "url": "https://www.garnernc.gov/departments/parks-recreation-and-cultural-resources/garner-parks/white-deer-park",
+                "amenities": [
+                  "playground",
+                  "picnic-shelter",
+                  "restroom",
+                  "greenway",
+                  "nature"
+                ],
+                "indoor": false,
+                "area": "south-wake",
+                "hours": null,
+                "cost": "Free"
+              }
+            },
+            {
+              "ref": "place:sarah-p-duke-gardens",
+              "arrive": "08:45",
+              "leave": "10:30",
+              "why": "Your toddler can stroll the garden paths and look at plants and the Charlotte Brody Discovery Garden.",
+              "tips": [
+                "Arrive early, since paid parking often fills before 10 am.",
+                "Bring a snack and let {them} wander slowly."
+              ],
+              "interests": [
+                "nature"
+              ],
+              "also": [],
+              "area": "durham",
+              "outdoor": true,
+              "source": {
+                "kind": "garden",
+                "title": "Sarah P. Duke Gardens",
+                "address": "420 Anderson St, Durham, NC 27708",
+                "lat": 36.0024,
+                "lon": -78.9328,
+                "url": "https://gardens.duke.edu/visit/",
+                "amenities": [
+                  "garden",
+                  "nature",
+                  "restroom"
+                ],
+                "indoor": false,
+                "area": "durham",
+                "hours": {
+                  "sun": "8 a.m. to sunset",
+                  "mon": "8 a.m. to sunset",
+                  "tue": "8 a.m. to sunset",
+                  "wed": "8 a.m. to sunset",
+                  "thu": "8 a.m. to sunset",
+                  "fri": "8 a.m. to sunset",
+                  "sat": "8 a.m. to sunset"
+                },
+                "cost": "Free",
+                "note": "Free; paid parking that often fills before 10 a.m. on nice days. Five miles of paths, and the Charlotte Brody Discovery Garden."
+              }
+            }
+          ],
+          "rainBackup": null,
+          "timeline": [
+            {
+              "start": "07:00",
+              "end": "07:30",
+              "kind": "meal",
+              "title": "Up and breakfast"
+            },
+            {
+              "start": "07:30",
+              "end": "11:15",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "11:15",
+              "end": "11:45",
+              "kind": "meal",
+              "title": "Lunch"
+            },
+            {
+              "start": "11:45",
+              "end": "12:00",
+              "kind": "quiet",
+              "title": "Wind down",
+              "detail": "A couple of books to settle."
+            },
+            {
+              "start": "12:00",
+              "end": "14:00",
+              "kind": "nap",
+              "title": "Nap"
+            },
+            {
+              "start": "14:00",
+              "end": "14:10",
+              "kind": "routine",
+              "title": "Up, a snack and out the door",
+              "detail": "Have the bag packed and by the door before the nap."
+            },
+            {
+              "start": "14:10",
+              "end": "14:30",
+              "kind": "travel",
+              "title": "Drive to Historic Yates Mill County Park"
+            },
+            {
+              "start": "14:30",
+              "end": "16:00",
+              "kind": "outing",
+              "title": "Historic Yates Mill County Park"
+            },
+            {
+              "start": "16:00",
+              "end": "16:20",
+              "kind": "travel",
+              "title": "Drive home"
+            },
+            {
+              "start": "16:20",
+              "end": "17:30",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "17:30",
+              "end": "18:15",
+              "kind": "meal",
+              "title": "Dinner"
+            },
+            {
+              "start": "18:15",
+              "end": "19:00",
+              "kind": "routine",
+              "title": "Bath, books and bed"
+            }
+          ]
+        },
+        {
+          "nap": "late-nap",
+          "napLabel": "One nap, 1 to 3",
+          "headline": "Playground, snack and a nature walk",
+          "main": {
+            "ref": "place:blue-jay-point-county-park",
+            "arrive": "09:30",
+            "leave": "11:30",
+            "why": "Your toddler can play on the playground, then follow the greenway to look at the trees and nature around Blue Jay Point.",
+            "tips": [
+              "Bring a snack to eat at the picnic shelter before you go.",
+              "Let {them} choose the pace on the greenway.",
+              "Head to the car while {they} {is} still having fun."
+            ],
+            "interests": [
+              "nature",
+              "movement"
+            ],
+            "also": [],
+            "area": "north-raleigh",
+            "outdoor": true,
+            "source": {
+              "kind": "park",
+              "title": "Blue Jay Point County Park",
+              "address": "3200 Pleasant Union Church Road, Raleigh, NC 27614",
+              "lat": 35.96762827199893,
+              "lon": -78.64454785104198,
+              "url": "https://www.wakegov.com/departments-government/parks-recreation-and-open-space/all-parks-trails/blue-jay-point-county-park",
+              "amenities": [
+                "playground",
+                "picnic-shelter",
+                "restroom",
+                "greenway",
+                "nature"
+              ],
+              "indoor": false,
+              "area": "north-raleigh",
+              "hours": null,
+              "cost": "Free"
+            }
+          },
+          "alternatives": [
+            {
+              "ref": "event:museum:durham-central-park:13302",
+              "arrive": "11:00",
+              "leave": "12:15",
+              "why": "Wander the Durham Underground Market, then let your toddler play at the Durham Central Park playground.",
+              "tips": [
+                "Bring a snack and a drink for the morning.",
+                "Leave the playground in time to get home for lunch."
+              ],
+              "interests": [
+                "movement"
+              ],
+              "also": [
+                {
+                  "ref": "place:durham-central-park",
+                  "source": {
+                    "kind": "park",
+                    "title": "Durham Central Park",
+                    "address": "501 Foster St, Durham, NC",
+                    "lat": 36.0006525,
+                    "lon": -78.90071999999999,
+                    "url": "https://www.dprplaymore.org/Facilities/Facility/Details/Durham-Central-Park-18",
+                    "amenities": [
+                      "playground",
+                      "restroom",
+                      "greenway"
+                    ],
+                    "indoor": false,
+                    "area": "durham",
+                    "hours": null,
+                    "cost": "Free"
+                  }
+                }
+              ],
+              "area": "durham",
+              "outdoor": true,
+              "source": {
+                "kind": "event",
+                "title": "Durham Underground Market",
+                "start": "2026-11-29T11:00:00",
+                "end": "2026-11-29T15:00:00",
+                "venue": "Durham Central Park",
+                "address": "501 Foster Street, Durham, NC, 27701",
+                "url": "https://durhamcentralpark.org/upcoming-event/durham-underground-market-2/2026-11-29/",
+                "cost": null,
+                "lat": 36.0008,
+                "lon": -78.9021,
+                "ages": null,
+                "registration": null,
+                "indoor": false,
+                "area": "durham",
+                "source": "museum",
+                "dropIn": true
+              }
+            },
+            {
+              "ref": "event:wake-parks:9411:2026-11-29",
+              "arrive": "10:00",
+              "leave": "11:15",
+              "why": "Drop in to the American Bison Exploration Station at Historic Yates Mill County Park and learn about the bison together.",
+              "tips": [
+                "Bring a snack for the ride home.",
+                "Let your toddler look and point as long as {they} like{s}."
+              ],
+              "interests": [
+                "animals",
+                "science"
+              ],
+              "also": [],
+              "area": "raleigh",
+              "outdoor": true,
+              "source": {
+                "kind": "event",
+                "title": "Exploration Station: American Bison",
+                "start": "2026-11-29T08:30:00",
+                "end": "2026-11-29T17:00:00",
+                "venue": "Historic Yates Mill County Park",
+                "address": "4620 Lake Wheeler Rd., Raleigh, NC  27603",
+                "url": "https://apm.activecommunities.com/wakeparks/Activity_Search/exploration-station-american-bison/9411?locale=en-US",
+                "cost": "Free",
+                "lat": 35.72157134974476,
+                "lon": -78.68526087901417,
+                "ages": null,
+                "registration": false,
+                "indoor": false,
+                "area": "raleigh",
+                "source": "wake-parks",
+                "dropIn": true
+              }
+            },
+            {
+              "ref": "place:crowder-county-park",
+              "arrive": "09:00",
+              "leave": "10:45",
+              "why": "A slow morning at Crowder County Park with the playground, the garden and the greenway.",
+              "tips": [
+                "Bring a snack for the picnic shelter.",
+                "Let {them} pick where to walk next."
+              ],
+              "interests": [
+                "nature",
+                "movement"
+              ],
+              "also": [],
+              "area": "cary-apex",
+              "outdoor": true,
+              "source": {
+                "kind": "park",
+                "title": "Crowder County Park",
+                "address": "4709 Ten Ten Road",
+                "lat": 35.69174392711247,
+                "lon": -78.76585678897689,
+                "url": "https://www.wakegov.com/departments-government/parks-recreation-and-open-space/all-parks-trails/crowder-county-park",
+                "amenities": [
+                  "playground",
+                  "picnic-shelter",
+                  "restroom",
+                  "greenway",
+                  "garden"
+                ],
+                "indoor": false,
+                "area": "cary-apex",
+                "hours": null,
+                "cost": "Free"
+              }
+            }
+          ],
+          "rainBackup": null,
+          "timeline": [
+            {
+              "start": "07:00",
+              "end": "07:30",
+              "kind": "meal",
+              "title": "Up and breakfast"
+            },
+            {
+              "start": "07:30",
+              "end": "08:50",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "08:50",
+              "end": "09:10",
+              "kind": "routine",
+              "title": "Get ready to go",
+              "detail": "Shoes on, the bag, water and a snack."
+            },
+            {
+              "start": "09:10",
+              "end": "09:30",
+              "kind": "travel",
+              "title": "Drive to Blue Jay Point County Park"
+            },
+            {
+              "start": "09:30",
+              "end": "11:30",
+              "kind": "outing",
+              "title": "Blue Jay Point County Park"
+            },
+            {
+              "start": "11:30",
+              "end": "11:50",
+              "kind": "travel",
+              "title": "Drive home"
+            },
+            {
+              "start": "11:50",
+              "end": "12:15",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "12:15",
+              "end": "12:45",
+              "kind": "meal",
+              "title": "Lunch"
+            },
+            {
+              "start": "12:45",
+              "end": "13:00",
+              "kind": "quiet",
+              "title": "Wind down",
+              "detail": "A couple of books to settle."
+            },
+            {
+              "start": "13:00",
+              "end": "15:00",
+              "kind": "nap",
+              "title": "Nap"
+            },
+            {
+              "start": "15:00",
+              "end": "15:20",
+              "kind": "routine",
+              "title": "Up and a snack"
+            },
+            {
+              "start": "15:20",
+              "end": "18:00",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "18:00",
+              "end": "18:45",
+              "kind": "meal",
+              "title": "Dinner"
+            },
+            {
+              "start": "18:45",
+              "end": "19:30",
+              "kind": "routine",
+              "title": "Bath, books and bed"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "checked": {
+    "at": "2026-11-27T11:03:44.731Z",
+    "forecast": "nws",
+    "weather": {
+      "period": "Sunday",
+      "tempF": 64,
+      "precipProbability": 5,
+      "shortForecast": "Mostly Sunny",
+      "windMph": 10,
+      "windFrom": "SW",
+      "hours": [
+        {
+          "t": "05:00",
+          "tempF": 40,
+          "pop": 0,
+          "cloud": 43
+        },
+        {
+          "t": "06:00",
+          "tempF": 39,
+          "pop": 0,
+          "cloud": 45
+        },
+        {
+          "t": "07:00",
+          "tempF": 39,
+          "pop": 0,
+          "cloud": 47
+        },
+        {
+          "t": "08:00",
+          "tempF": 43,
+          "pop": 0,
+          "cloud": 45
+        },
+        {
+          "t": "09:00",
+          "tempF": 46,
+          "pop": 0,
+          "cloud": 42
+        },
+        {
+          "t": "10:00",
+          "tempF": 50,
+          "pop": 0,
+          "cloud": 40
+        },
+        {
+          "t": "11:00",
+          "tempF": 54,
+          "pop": 0,
+          "cloud": 41
+        },
+        {
+          "t": "12:00",
+          "tempF": 57,
+          "pop": 0,
+          "cloud": 41
+        },
+        {
+          "t": "13:00",
+          "tempF": 60,
+          "pop": 5,
+          "cloud": 42
+        },
+        {
+          "t": "14:00",
+          "tempF": 62,
+          "pop": 5,
+          "cloud": 46
+        },
+        {
+          "t": "15:00",
+          "tempF": 63,
+          "pop": 5,
+          "cloud": 51
+        },
+        {
+          "t": "16:00",
+          "tempF": 63,
+          "pop": 5,
+          "cloud": 55
+        },
+        {
+          "t": "17:00",
+          "tempF": 61,
+          "pop": 5,
+          "cloud": 69
+        },
+        {
+          "t": "18:00",
+          "tempF": 59,
+          "pop": 5,
+          "cloud": 82
+        },
+        {
+          "t": "19:00",
+          "tempF": 57,
+          "pop": 93,
+          "cloud": 98
+        },
+        {
+          "t": "20:00",
+          "tempF": 56,
+          "pop": 93,
+          "cloud": 98
+        },
+        {
+          "t": "21:00",
+          "tempF": 55,
+          "pop": 93,
+          "cloud": 98
+        },
+        {
+          "t": "22:00",
+          "tempF": 55,
+          "pop": 93,
+          "cloud": 98
+        },
+        {
+          "t": "23:00",
+          "tempF": 55,
+          "pop": 93,
+          "cloud": 98
+        }
+      ]
+    },
+    "hidden": []
+  }
+}

@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Triangle Tots//triangletots.com//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:2026-11-28-this-week-in-the-lab-paper-crafts-at-durham-central-park-101
+ 5-1215@triangletots.com
+DTSTAMP:20261127T100000Z
+DTSTART:20261128T151500Z
+DTEND:20261128T171500Z
+SUMMARY:This Week In the Lab: Paper Crafts at Durham Central Park
+LOCATION:501 Foster St\, Durham\, NC
+DESCRIPTION:https://www.dprplaymore.org/Facilities/Facility/Details/Durham-
+ Central-Park-18\nhttps://durhamcountylibrary.libcal.com/event/17189135\nTh
+ e whole day: https://triangletots.com/2026-11-28/t2/\nTimes and details ca
+ n change. Check the event or place before you go.
+END:VEVENT
+END:VCALENDAR

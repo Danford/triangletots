@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Triangle Tots//triangletots.com//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:2026-12-01-jingle-bell-tales-at-southgate-community-library-1025-1140@t
+ riangletots.com
+DTSTAMP:20261127T100000Z
+DTSTART:20261201T152500Z
+DTEND:20261201T164000Z
+SUMMARY:Jingle Bell Tales at Southgate Community Library
+LOCATION:1601-14 Cross Link Road\, Raleigh\, NC
+DESCRIPTION:https://www.wake.gov/events/jingle-bell-tales\nhttps://raleighn
+ c.gov/parks-and-recreation/places/southgate-park\nThe whole day: https://t
+ riangletots.com/2026-12-01/t3/\nTimes and details can change. Check the ev
+ ent or place before you go.
+END:VEVENT
+END:VCALENDAR

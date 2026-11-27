@@ -1,0 +1,1182 @@
+{
+  "date": "2026-12-02",
+  "band": "t2",
+  "versions": [
+    {
+      "at": "2026-11-19T11:04:37.908Z",
+      "reason": null,
+      "forecast": "none",
+      "weather": null,
+      "plans": [
+        {
+          "nap": "early-nap",
+          "napLabel": "One nap, 12 to 2",
+          "headline": "Wander the woods and spot winter shapes and colors",
+          "main": {
+            "ref": "event:cary-rec:ENVI0043-030",
+            "arrive": "09:50",
+            "leave": "11:00",
+            "why": "A gentle morning stroll at Hemlock Bluffs for ages 1 to 3, where your toddler finds shapes, colors, textures and sounds. A family needs to sign up. It starts at 10:00 am.",
+            "tips": [
+              "Bring a carrier, since the trails have stairs.",
+              "Let your child lead and stop for every leaf and stick.",
+              "Pack a snack for the car ride home before the 12:00 nap."
+            ],
+            "interests": [
+              "nature",
+              "science"
+            ],
+            "also": [],
+            "area": "cary-apex",
+            "outdoor": true,
+            "source": {
+              "kind": "event",
+              "title": "Winter Wonders",
+              "start": "2026-12-02T10:00:00",
+              "end": "2026-12-02T11:00:00",
+              "venue": "Hemlock Bluffs Nature Preserve",
+              "address": "2616 Kildaire Farm Road, Cary, NC",
+              "url": "https://nccaryweb.myvscloud.com/webtrac/web/search.html?module=AR",
+              "cost": "$8.00 resident / $10.00 non-resident",
+              "lat": 35.72308620195308,
+              "lon": -78.7831641933086,
+              "ages": "1-3",
+              "registration": "https://nccaryweb.myvscloud.com/webtrac/web/search.html?module=AR",
+              "indoor": false,
+              "area": "cary-apex",
+              "source": "cary-rec",
+              "dropIn": false
+            }
+          },
+          "alternatives": [
+            {
+              "ref": "place:pullen-park-amusements",
+              "arrive": "14:30",
+              "leave": "16:30",
+              "why": "After the nap, your toddler can ride the carousel and the train and stay as long as {they} like{s}.",
+              "tips": [
+                "Bring a snack for a bench break between rides.",
+                "Pick the last ride before you head to the car."
+              ],
+              "interests": [
+                "vehicles",
+                "movement"
+              ],
+              "also": [],
+              "area": "raleigh",
+              "outdoor": true,
+              "source": {
+                "kind": "park",
+                "title": "Pullen Park Amusements",
+                "address": "410 Park Ave, Raleigh, NC 27606",
+                "lat": 35.7806,
+                "lon": -78.66396,
+                "url": "https://raleighnc.gov/parks-and-recreation/places/pullen-park-amusements",
+                "amenities": [
+                  "carousel",
+                  "boating",
+                  "train",
+                  "amusements",
+                  "courts",
+                  "playground",
+                  "picnic-shelter"
+                ],
+                "indoor": false,
+                "area": "raleigh",
+                "hours": {
+                  "mon": "10 a.m.–6 p.m.",
+                  "tue": "10 a.m.–6 p.m.",
+                  "wed": "10 a.m.–6 p.m.",
+                  "thu": "10 a.m.–6 p.m.",
+                  "fri": "10 a.m.–6 p.m.",
+                  "sat": "10 a.m.–6 p.m.",
+                  "sun": "10 a.m.–6 p.m."
+                },
+                "cost": "Free to get in; rides $2 a ticket"
+              }
+            },
+            {
+              "ref": "place:durham-central-park",
+              "arrive": "14:30",
+              "leave": "16:00",
+              "why": "Play at Durham Central Park first, then drop in at Snap Circuits in the Innovation Lab at 3:00 pm to snap pieces together.",
+              "tips": [
+                "Stay at the lab at least 20 minutes so {they} can settle in.",
+                "Bring a snack for the park."
+              ],
+              "interests": [
+                "science",
+                "movement"
+              ],
+              "also": [
+                {
+                  "ref": "event:libcal:durham-county-library:17189139",
+                  "source": {
+                    "kind": "event",
+                    "title": "This Week In the Lab: Snap Circuits",
+                    "start": "2026-12-02T15:00:00",
+                    "end": "2026-12-02T18:00:00",
+                    "venue": "Main Library",
+                    "address": "300 N. Roxboro St, Durham, NC",
+                    "url": "https://durhamcountylibrary.libcal.com/event/17189139",
+                    "cost": "Free",
+                    "lat": 35.99490876306902,
+                    "lon": -78.8964971677054,
+                    "ages": "Adult, Elementary School, Emerging Adult: 18-24 Year Olds, High School, Intergenerational, Kindergarten, Middle School, Pre-School, Senior Citizen, Teen, Toddler, Tweens: 9-12 Year Olds, DPS",
+                    "registration": false,
+                    "indoor": true,
+                    "area": "durham",
+                    "source": "libcal",
+                    "dropIn": true
+                  }
+                }
+              ],
+              "area": "durham",
+              "outdoor": false,
+              "source": {
+                "kind": "park",
+                "title": "Durham Central Park",
+                "address": "501 Foster St, Durham, NC",
+                "lat": 36.0006525,
+                "lon": -78.90071999999999,
+                "url": "https://www.dprplaymore.org/Facilities/Facility/Details/Durham-Central-Park-18",
+                "amenities": [
+                  "playground",
+                  "restroom",
+                  "greenway"
+                ],
+                "indoor": false,
+                "area": "durham",
+                "hours": null,
+                "cost": "Free"
+              }
+            },
+            {
+              "ref": "place:beech-bluff-county-park",
+              "arrive": "14:30",
+              "leave": "16:00",
+              "why": "Read a picture book one page at a time along the StoryWalk, then play at the park.",
+              "tips": [
+                "Let your child run ahead to find the next page.",
+                "Bring a snack for the park."
+              ],
+              "interests": [
+                "stories",
+                "nature"
+              ],
+              "also": [],
+              "area": "south-wake",
+              "outdoor": true,
+              "source": {
+                "kind": "park",
+                "title": "Beech Bluff County Park",
+                "address": "Beech Bluff Park Drive, Fuquay-Varina, NC",
+                "lat": 35.58537279715877,
+                "lon": -78.6793341971644,
+                "url": "https://www.wake.gov/departments-government/parks-recreation-open-space/all-parks-trails/beech-bluff-county-park",
+                "amenities": [
+                  "playground",
+                  "garden",
+                  "greenway",
+                  "restroom",
+                  "picnic-shelter"
+                ],
+                "indoor": false,
+                "area": "south-wake",
+                "hours": null,
+                "cost": "Free"
+              }
+            },
+            {
+              "ref": "place:levelle-moton-park",
+              "arrive": "10:15",
+              "leave": "11:00",
+              "why": "Warm up on the playground, then watch the 10:45 am ocean animal feeding at the Museum of Natural Sciences.",
+              "tips": [
+                "Tell your child the animals eat soon so leaving the swings is easier.",
+                "The feeding is short, so plan to move on after."
+              ],
+              "interests": [
+                "animals",
+                "movement"
+              ],
+              "also": [
+                {
+                  "ref": "event:museum:nc-natural-sciences:123926",
+                  "source": {
+                    "kind": "event",
+                    "title": "Live Animal Feeding – Ocean Habitat",
+                    "start": "2026-12-02T10:45:00",
+                    "end": "2026-12-02T11:00:00",
+                    "venue": "NC Museum of Natural Sciences",
+                    "address": "11 West Jones Street, Raleigh, NC, 27601",
+                    "url": null,
+                    "cost": "Museum admission is free",
+                    "lat": 35.7822735,
+                    "lon": -78.6395502,
+                    "ages": "Adults All Ages Children Live Animals Teens Walk-up Programs",
+                    "registration": false,
+                    "indoor": true,
+                    "area": "raleigh",
+                    "source": "museum",
+                    "dropIn": false
+                  }
+                }
+              ],
+              "area": "raleigh",
+              "outdoor": false,
+              "source": {
+                "kind": "park",
+                "title": "LeVelle Moton Park",
+                "address": "920 E. Lane Street, Raleigh, NC 27601",
+                "lat": 35.78316,
+                "lon": -78.62606,
+                "url": "https://raleighnc.gov/parks-and-recreation/places/levelle-moton-park",
+                "amenities": [
+                  "picnic-shelter",
+                  "courts",
+                  "playground"
+                ],
+                "indoor": false,
+                "area": "raleigh",
+                "hours": null,
+                "cost": "Free"
+              }
+            }
+          ],
+          "rainBackup": null,
+          "timeline": [
+            {
+              "start": "07:00",
+              "end": "07:30",
+              "kind": "meal",
+              "title": "Up and breakfast"
+            },
+            {
+              "start": "07:30",
+              "end": "09:10",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "09:10",
+              "end": "09:30",
+              "kind": "routine",
+              "title": "Get ready to go",
+              "detail": "Shoes on, the bag, water and a snack."
+            },
+            {
+              "start": "09:30",
+              "end": "09:50",
+              "kind": "travel",
+              "title": "Drive to Hemlock Bluffs Nature Preserve"
+            },
+            {
+              "start": "09:50",
+              "end": "11:00",
+              "kind": "outing",
+              "title": "Hemlock Bluffs Nature Preserve"
+            },
+            {
+              "start": "11:00",
+              "end": "11:20",
+              "kind": "travel",
+              "title": "Drive home"
+            },
+            {
+              "start": "11:20",
+              "end": "11:50",
+              "kind": "meal",
+              "title": "Lunch"
+            },
+            {
+              "start": "11:50",
+              "end": "12:00",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "12:00",
+              "end": "14:00",
+              "kind": "nap",
+              "title": "Nap"
+            },
+            {
+              "start": "14:00",
+              "end": "14:20",
+              "kind": "routine",
+              "title": "Up and a snack"
+            },
+            {
+              "start": "14:20",
+              "end": "18:00",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "18:00",
+              "end": "18:45",
+              "kind": "meal",
+              "title": "Dinner"
+            },
+            {
+              "start": "18:45",
+              "end": "19:30",
+              "kind": "routine",
+              "title": "Bath, books and bed"
+            }
+          ]
+        },
+        {
+          "nap": "late-nap",
+          "napLabel": "One nap, 1 to 3",
+          "headline": "Play in the big gym with a parachute and tunnels",
+          "main": {
+            "ref": "place:hillside-park",
+            "arrive": "09:30",
+            "leave": "12:00",
+            "why": "Run around Hillside Park, then join Total Tot Time at W.D. Hill Rec Center at 10:00 am for parachute and tunnel play. A family needs to sign up.",
+            "tips": [
+              "Snack at the park before heading into the gym.",
+              "Wear shoes that are easy to take on and off.",
+              "Give a two-minute warning before leaving the parachute."
+            ],
+            "interests": [
+              "movement",
+              "nature"
+            ],
+            "also": [
+              {
+                "ref": "event:durham-rec:19772:2026-12-02",
+                "source": {
+                  "kind": "event",
+                  "title": "Total Tot Time",
+                  "start": "2026-12-02T10:00:00",
+                  "end": "2026-12-02T12:00:00",
+                  "venue": "W.D. Hill Rec Ctr",
+                  "address": "1308 Fayetteville St, Durham, NC",
+                  "url": "https://apm.activecommunities.com/dprplaymore/Activity_Search/total-tot-time/19772?locale=en-US",
+                  "cost": null,
+                  "lat": 35.9797,
+                  "lon": -78.8985,
+                  "ages": "1 - 6",
+                  "registration": "https://apm.activecommunities.com/dprplaymore/Activity_Search/total-tot-time/19772?locale=en-US",
+                  "indoor": true,
+                  "area": "durham",
+                  "source": "durham-rec",
+                  "dropIn": false
+                }
+              }
+            ],
+            "area": "durham",
+            "outdoor": false,
+            "source": {
+              "kind": "park",
+              "title": "Hillside Park",
+              "address": "1301 S Roxboro St, Durham, NC",
+              "lat": 35.98093222222222,
+              "lon": -78.90178333333333,
+              "url": "https://www.dprplaymore.org/Facilities/Facility/Details/Hillside-Park-32",
+              "amenities": [
+                "playground",
+                "splashpad",
+                "pool",
+                "picnic-shelter",
+                "restroom"
+              ],
+              "indoor": false,
+              "area": "durham",
+              "hours": null,
+              "cost": "Free"
+            }
+          },
+          "alternatives": [
+            {
+              "ref": "event:cary-rec:ENVI0043-030",
+              "arrive": "09:50",
+              "leave": "11:00",
+              "why": "A gentle nature stroll at Hemlock Bluffs for ages 1 to 3, with shapes, colors and sounds to find. A family needs to sign up.",
+              "tips": [
+                "Bring a carrier, since the trails have stairs.",
+                "Let your child lead the way."
+              ],
+              "interests": [
+                "nature",
+                "science"
+              ],
+              "also": [],
+              "area": "cary-apex",
+              "outdoor": true,
+              "source": {
+                "kind": "event",
+                "title": "Winter Wonders",
+                "start": "2026-12-02T10:00:00",
+                "end": "2026-12-02T11:00:00",
+                "venue": "Hemlock Bluffs Nature Preserve",
+                "address": "2616 Kildaire Farm Road, Cary, NC",
+                "url": "https://nccaryweb.myvscloud.com/webtrac/web/search.html?module=AR",
+                "cost": "$8.00 resident / $10.00 non-resident",
+                "lat": 35.72308620195308,
+                "lon": -78.7831641933086,
+                "ages": "1-3",
+                "registration": "https://nccaryweb.myvscloud.com/webtrac/web/search.html?module=AR",
+                "indoor": false,
+                "area": "cary-apex",
+                "source": "cary-rec",
+                "dropIn": false
+              }
+            },
+            {
+              "ref": "place:ncma-museum-park",
+              "arrive": "09:30",
+              "leave": "11:00",
+              "why": "Run on the lawns and trails at the Museum Park, then try What's in the Box? at 10:00 am, a family art program.",
+              "tips": [
+                "Bring a snack for the lawn.",
+                "Let your child touch and guess what is in the box."
+              ],
+              "interests": [
+                "art",
+                "nature"
+              ],
+              "also": [
+                {
+                  "ref": "event:museum:ncma:6567",
+                  "source": {
+                    "kind": "event",
+                    "title": "What’s in the Box?",
+                    "start": "2026-12-02T10:00:00",
+                    "end": "2026-12-02T11:00:00",
+                    "venue": "NC Museum of Art",
+                    "address": "2110 Blue Ridge Rd, Raleigh, NC 27607",
+                    "url": "https://ncartmuseum.org/event/whats-in-the-box-9/",
+                    "cost": "Museum and park admission is free",
+                    "lat": 35.8105,
+                    "lon": -78.7022,
+                    "ages": "Families",
+                    "registration": null,
+                    "indoor": true,
+                    "area": "raleigh",
+                    "source": "museum",
+                    "dropIn": false
+                  }
+                }
+              ],
+              "area": "raleigh",
+              "outdoor": false,
+              "source": {
+                "kind": "garden",
+                "title": "NC Museum of Art Museum Park",
+                "address": "2110 Blue Ridge Rd, Raleigh, NC 27607",
+                "lat": 35.8105,
+                "lon": -78.7022,
+                "url": "https://ncartmuseum.org/museum-park/",
+                "amenities": [
+                  "garden",
+                  "nature",
+                  "greenway",
+                  "restroom"
+                ],
+                "indoor": false,
+                "area": "raleigh",
+                "hours": {
+                  "sun": "dawn to dusk",
+                  "mon": "dawn to dusk",
+                  "tue": "dawn to dusk",
+                  "wed": "dawn to dusk",
+                  "thu": "dawn to dusk",
+                  "fri": "dawn to dusk",
+                  "sat": "dawn to dusk"
+                },
+                "cost": "Free",
+                "note": "Free. 164 acres of trails, lawns and big outdoor art; the Capital Area Greenway runs through."
+              }
+            },
+            {
+              "ref": "place:pullen-park-amusements",
+              "arrive": "15:30",
+              "leave": "17:00",
+              "why": "Ride the carousel and the train after the nap, with time to play before heading home.",
+              "tips": [
+                "Bring a snack for a bench break.",
+                "Pick the last ride before you head to the car."
+              ],
+              "interests": [
+                "vehicles",
+                "movement"
+              ],
+              "also": [],
+              "area": "raleigh",
+              "outdoor": true,
+              "source": {
+                "kind": "park",
+                "title": "Pullen Park Amusements",
+                "address": "410 Park Ave, Raleigh, NC 27606",
+                "lat": 35.7806,
+                "lon": -78.66396,
+                "url": "https://raleighnc.gov/parks-and-recreation/places/pullen-park-amusements",
+                "amenities": [
+                  "carousel",
+                  "boating",
+                  "train",
+                  "amusements",
+                  "courts",
+                  "playground",
+                  "picnic-shelter"
+                ],
+                "indoor": false,
+                "area": "raleigh",
+                "hours": {
+                  "mon": "10 a.m.–6 p.m.",
+                  "tue": "10 a.m.–6 p.m.",
+                  "wed": "10 a.m.–6 p.m.",
+                  "thu": "10 a.m.–6 p.m.",
+                  "fri": "10 a.m.–6 p.m.",
+                  "sat": "10 a.m.–6 p.m.",
+                  "sun": "10 a.m.–6 p.m."
+                },
+                "cost": "Free to get in; rides $2 a ticket"
+              }
+            },
+            {
+              "ref": "event:wake-parks:8358:2026-12-02",
+              "arrive": "09:00",
+              "leave": "10:30",
+              "why": "Read a picture book one page at a time along the self-guided StoryWalk at Beech Bluff County Park.",
+              "tips": [
+                "Let your child run ahead to find the next page.",
+                "Bring a snack to share on the walk."
+              ],
+              "interests": [
+                "stories",
+                "nature"
+              ],
+              "also": [],
+              "area": "south-wake",
+              "outdoor": true,
+              "source": {
+                "kind": "event",
+                "title": "Beech Bluff County Park StoryWalk® 2026 (Self-Led)",
+                "start": "2026-12-02T08:00:00",
+                "end": "2026-12-02T17:30:00",
+                "venue": "Beech Bluff County Park",
+                "address": "Beech Bluff Park Drive, Fuquay-Varina, NC",
+                "url": "https://apm.activecommunities.com/wakeparks/Activity_Search/beech-bluff-county-park-storywalk-2026-self-led/8358?locale=en-US",
+                "cost": "Free",
+                "lat": 35.58537279715877,
+                "lon": -78.6793341971644,
+                "ages": null,
+                "registration": false,
+                "indoor": false,
+                "area": "south-wake",
+                "source": "wake-parks",
+                "dropIn": true
+              }
+            }
+          ],
+          "rainBackup": null,
+          "timeline": [
+            {
+              "start": "07:00",
+              "end": "07:30",
+              "kind": "meal",
+              "title": "Up and breakfast"
+            },
+            {
+              "start": "07:30",
+              "end": "08:50",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "08:50",
+              "end": "09:10",
+              "kind": "routine",
+              "title": "Get ready to go",
+              "detail": "Shoes on, the bag, water and a snack."
+            },
+            {
+              "start": "09:10",
+              "end": "09:30",
+              "kind": "travel",
+              "title": "Drive to Hillside Park"
+            },
+            {
+              "start": "09:30",
+              "end": "09:50",
+              "kind": "outing",
+              "title": "Hillside Park"
+            },
+            {
+              "start": "09:50",
+              "end": "10:00",
+              "kind": "travel",
+              "title": "Walk to W.D. Hill Rec Ctr"
+            },
+            {
+              "start": "10:00",
+              "end": "12:00",
+              "kind": "outing",
+              "title": "Total Tot Time"
+            },
+            {
+              "start": "12:00",
+              "end": "12:10",
+              "kind": "travel",
+              "title": "Walk back to the car"
+            },
+            {
+              "start": "12:10",
+              "end": "12:30",
+              "kind": "travel",
+              "title": "Drive home"
+            },
+            {
+              "start": "12:30",
+              "end": "13:00",
+              "kind": "meal",
+              "title": "Lunch"
+            },
+            {
+              "start": "13:00",
+              "end": "15:00",
+              "kind": "nap",
+              "title": "Nap"
+            },
+            {
+              "start": "15:00",
+              "end": "15:20",
+              "kind": "routine",
+              "title": "Up and a snack"
+            },
+            {
+              "start": "15:20",
+              "end": "18:30",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "18:30",
+              "end": "19:15",
+              "kind": "meal",
+              "title": "Dinner"
+            },
+            {
+              "start": "19:15",
+              "end": "20:00",
+              "kind": "routine",
+              "title": "Bath, books and bed"
+            }
+          ]
+        },
+        {
+          "nap": "short-nap",
+          "napLabel": "Short nap, 1 to 2",
+          "headline": "Run on the lawns, then touch and guess at the art museum",
+          "main": {
+            "ref": "place:ncma-museum-park",
+            "arrive": "09:30",
+            "leave": "11:00",
+            "why": "Stretch your toddler's legs on the lawns and trails at the Museum Park, then join What's in the Box? at 10:00 am, a family art program.",
+            "tips": [
+              "Bring a snack to eat on the lawn first.",
+              "Let your child touch and guess what is in the box.",
+              "Head to the car right after, ahead of the 1:00 pm nap."
+            ],
+            "interests": [
+              "art",
+              "nature"
+            ],
+            "also": [
+              {
+                "ref": "event:museum:ncma:6567",
+                "source": {
+                  "kind": "event",
+                  "title": "What’s in the Box?",
+                  "start": "2026-12-02T10:00:00",
+                  "end": "2026-12-02T11:00:00",
+                  "venue": "NC Museum of Art",
+                  "address": "2110 Blue Ridge Rd, Raleigh, NC 27607",
+                  "url": "https://ncartmuseum.org/event/whats-in-the-box-9/",
+                  "cost": "Museum and park admission is free",
+                  "lat": 35.8105,
+                  "lon": -78.7022,
+                  "ages": "Families",
+                  "registration": null,
+                  "indoor": true,
+                  "area": "raleigh",
+                  "source": "museum",
+                  "dropIn": false
+                }
+              }
+            ],
+            "area": "raleigh",
+            "outdoor": false,
+            "source": {
+              "kind": "garden",
+              "title": "NC Museum of Art Museum Park",
+              "address": "2110 Blue Ridge Rd, Raleigh, NC 27607",
+              "lat": 35.8105,
+              "lon": -78.7022,
+              "url": "https://ncartmuseum.org/museum-park/",
+              "amenities": [
+                "garden",
+                "nature",
+                "greenway",
+                "restroom"
+              ],
+              "indoor": false,
+              "area": "raleigh",
+              "hours": {
+                "sun": "dawn to dusk",
+                "mon": "dawn to dusk",
+                "tue": "dawn to dusk",
+                "wed": "dawn to dusk",
+                "thu": "dawn to dusk",
+                "fri": "dawn to dusk",
+                "sat": "dawn to dusk"
+              },
+              "cost": "Free",
+              "note": "Free. 164 acres of trails, lawns and big outdoor art; the Capital Area Greenway runs through."
+            }
+          },
+          "alternatives": [
+            {
+              "ref": "event:cary-rec:ENVI0043-030",
+              "arrive": "09:50",
+              "leave": "11:00",
+              "why": "A gentle nature stroll at Hemlock Bluffs for ages 1 to 3, with shapes, colors and sounds to find. A family needs to sign up.",
+              "tips": [
+                "Bring a carrier, since the trails have stairs.",
+                "Let your child lead the way."
+              ],
+              "interests": [
+                "nature",
+                "science"
+              ],
+              "also": [],
+              "area": "cary-apex",
+              "outdoor": true,
+              "source": {
+                "kind": "event",
+                "title": "Winter Wonders",
+                "start": "2026-12-02T10:00:00",
+                "end": "2026-12-02T11:00:00",
+                "venue": "Hemlock Bluffs Nature Preserve",
+                "address": "2616 Kildaire Farm Road, Cary, NC",
+                "url": "https://nccaryweb.myvscloud.com/webtrac/web/search.html?module=AR",
+                "cost": "$8.00 resident / $10.00 non-resident",
+                "lat": 35.72308620195308,
+                "lon": -78.7831641933086,
+                "ages": "1-3",
+                "registration": "https://nccaryweb.myvscloud.com/webtrac/web/search.html?module=AR",
+                "indoor": false,
+                "area": "cary-apex",
+                "source": "cary-rec",
+                "dropIn": false
+              }
+            },
+            {
+              "ref": "place:pullen-park-amusements",
+              "arrive": "14:30",
+              "leave": "16:30",
+              "why": "After the short nap, ride the carousel and the train and stay as long as {they} like{s}.",
+              "tips": [
+                "Bring a snack for a bench break between rides.",
+                "Pick the last ride before you head to the car."
+              ],
+              "interests": [
+                "vehicles",
+                "movement"
+              ],
+              "also": [],
+              "area": "raleigh",
+              "outdoor": true,
+              "source": {
+                "kind": "park",
+                "title": "Pullen Park Amusements",
+                "address": "410 Park Ave, Raleigh, NC 27606",
+                "lat": 35.7806,
+                "lon": -78.66396,
+                "url": "https://raleighnc.gov/parks-and-recreation/places/pullen-park-amusements",
+                "amenities": [
+                  "carousel",
+                  "boating",
+                  "train",
+                  "amusements",
+                  "courts",
+                  "playground",
+                  "picnic-shelter"
+                ],
+                "indoor": false,
+                "area": "raleigh",
+                "hours": {
+                  "mon": "10 a.m.–6 p.m.",
+                  "tue": "10 a.m.–6 p.m.",
+                  "wed": "10 a.m.–6 p.m.",
+                  "thu": "10 a.m.–6 p.m.",
+                  "fri": "10 a.m.–6 p.m.",
+                  "sat": "10 a.m.–6 p.m.",
+                  "sun": "10 a.m.–6 p.m."
+                },
+                "cost": "Free to get in; rides $2 a ticket"
+              }
+            },
+            {
+              "ref": "place:museum-of-life-and-science",
+              "arrive": "11:00",
+              "leave": "12:00",
+              "why": "Explore the outdoor museum, then join the 11:30 am story in Hideaway Woods with a museum educator and themed activities.",
+              "tips": [
+                "Bring a snack to eat before the story.",
+                "Stay for the whole story, then go straight to the car for lunch."
+              ],
+              "interests": [
+                "stories",
+                "nature"
+              ],
+              "also": [
+                {
+                  "ref": "event:weekly:mols-storytime:2026-12-02",
+                  "source": {
+                    "kind": "event",
+                    "title": "Storytime in Hideaway Woods",
+                    "start": "2026-12-02T11:30:00",
+                    "end": "2026-12-02T12:00:00",
+                    "venue": "Hideaway Woods, Museum of Life and Science",
+                    "address": "433 W Murray Ave, Durham, NC 27704",
+                    "url": "https://www.lifeandscience.org/learn/drop-in-programs/",
+                    "cost": "Included with museum admission",
+                    "lat": 36.0294,
+                    "lon": -78.8993,
+                    "ages": null,
+                    "registration": false,
+                    "indoor": false,
+                    "area": "durham",
+                    "source": "weekly",
+                    "dropIn": true
+                  }
+                }
+              ],
+              "area": "durham",
+              "outdoor": true,
+              "source": {
+                "kind": "museum",
+                "title": "Museum of Life and Science",
+                "address": "433 W Murray Ave, Durham, NC 27704",
+                "lat": 36.0294,
+                "lon": -78.8993,
+                "url": "https://www.lifeandscience.org/visit/",
+                "amenities": [
+                  "nature",
+                  "animals",
+                  "train",
+                  "playground",
+                  "restroom"
+                ],
+                "indoor": false,
+                "area": "durham",
+                "cost": "$24 adults, $19 ages 3–15, under 3 free",
+                "note": "Tickets: $24 adults, $19 ages 3–15, under 3 free. Hideaway Woods treehouses and creek, farmyard, train ride and Dinosaur Trail are outside."
+              }
+            },
+            {
+              "ref": "place:fred-fletcher-park",
+              "arrive": "10:15",
+              "leave": "11:00",
+              "why": "Play at the playground, then watch the 10:45 am ocean animal feeding at the Museum of Natural Sciences.",
+              "tips": [
+                "Tell your child the animals eat soon so leaving the swings is easier.",
+                "The feeding is short, so plan to move on after."
+              ],
+              "interests": [
+                "animals",
+                "movement"
+              ],
+              "also": [
+                {
+                  "ref": "event:museum:nc-natural-sciences:123926",
+                  "source": {
+                    "kind": "event",
+                    "title": "Live Animal Feeding – Ocean Habitat",
+                    "start": "2026-12-02T10:45:00",
+                    "end": "2026-12-02T11:00:00",
+                    "venue": "NC Museum of Natural Sciences",
+                    "address": "11 West Jones Street, Raleigh, NC, 27601",
+                    "url": null,
+                    "cost": "Museum admission is free",
+                    "lat": 35.7822735,
+                    "lon": -78.6395502,
+                    "ages": "Adults All Ages Children Live Animals Teens Walk-up Programs",
+                    "registration": false,
+                    "indoor": true,
+                    "area": "raleigh",
+                    "source": "museum",
+                    "dropIn": false
+                  }
+                }
+              ],
+              "area": "raleigh",
+              "outdoor": false,
+              "source": {
+                "kind": "park",
+                "title": "Fred Fletcher Park",
+                "address": "820 Clay Street, Raleigh, NC 27605",
+                "lat": 35.79264,
+                "lon": -78.64957,
+                "url": "https://raleighnc.gov/parks-and-recreation/places/fred-fletcher-park",
+                "amenities": [
+                  "garden",
+                  "picnic-shelter",
+                  "courts",
+                  "fields",
+                  "playground"
+                ],
+                "indoor": false,
+                "area": "raleigh",
+                "hours": null,
+                "cost": "Free"
+              }
+            }
+          ],
+          "rainBackup": null,
+          "timeline": [
+            {
+              "start": "07:00",
+              "end": "07:30",
+              "kind": "meal",
+              "title": "Up and breakfast"
+            },
+            {
+              "start": "07:30",
+              "end": "08:50",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "08:50",
+              "end": "09:10",
+              "kind": "routine",
+              "title": "Get ready to go",
+              "detail": "Shoes on, the bag, water and a snack."
+            },
+            {
+              "start": "09:10",
+              "end": "09:30",
+              "kind": "travel",
+              "title": "Drive to NC Museum of Art Museum Park"
+            },
+            {
+              "start": "09:30",
+              "end": "09:50",
+              "kind": "outing",
+              "title": "NC Museum of Art Museum Park"
+            },
+            {
+              "start": "09:50",
+              "end": "10:00",
+              "kind": "travel",
+              "title": "Walk to NC Museum of Art"
+            },
+            {
+              "start": "10:00",
+              "end": "11:00",
+              "kind": "outing",
+              "title": "What’s in the Box?"
+            },
+            {
+              "start": "11:00",
+              "end": "11:10",
+              "kind": "travel",
+              "title": "Walk back to the car"
+            },
+            {
+              "start": "11:10",
+              "end": "11:30",
+              "kind": "travel",
+              "title": "Drive home"
+            },
+            {
+              "start": "11:30",
+              "end": "12:15",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "12:15",
+              "end": "12:45",
+              "kind": "meal",
+              "title": "Lunch"
+            },
+            {
+              "start": "12:45",
+              "end": "13:00",
+              "kind": "quiet",
+              "title": "Wind down",
+              "detail": "A couple of books to settle."
+            },
+            {
+              "start": "13:00",
+              "end": "14:00",
+              "kind": "nap",
+              "title": "Nap"
+            },
+            {
+              "start": "14:00",
+              "end": "14:20",
+              "kind": "routine",
+              "title": "Up and a snack"
+            },
+            {
+              "start": "14:20",
+              "end": "18:00",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "18:00",
+              "end": "18:45",
+              "kind": "meal",
+              "title": "Dinner"
+            },
+            {
+              "start": "18:45",
+              "end": "19:30",
+              "kind": "routine",
+              "title": "Bath, books and bed"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "checked": {
+    "at": "2026-11-27T11:03:44.786Z",
+    "forecast": "nws",
+    "weather": {
+      "period": "Wednesday",
+      "tempF": 61,
+      "precipProbability": 3,
+      "shortForecast": "Sunny",
+      "windMph": 3,
+      "windFrom": "W",
+      "hours": [
+        {
+          "t": "05:00",
+          "tempF": 34,
+          "pop": 3,
+          "cloud": 20
+        },
+        {
+          "t": "06:00",
+          "tempF": 34,
+          "pop": 3,
+          "cloud": 20
+        },
+        {
+          "t": "07:00",
+          "tempF": 35,
+          "pop": 2,
+          "cloud": 16
+        },
+        {
+          "t": "08:00",
+          "tempF": 39,
+          "pop": 2,
+          "cloud": 16
+        },
+        {
+          "t": "09:00",
+          "tempF": 44,
+          "pop": 2,
+          "cloud": 16
+        },
+        {
+          "t": "10:00",
+          "tempF": 49,
+          "pop": 2,
+          "cloud": 16
+        },
+        {
+          "t": "11:00",
+          "tempF": 53,
+          "pop": 2,
+          "cloud": 16
+        },
+        {
+          "t": "12:00",
+          "tempF": 57,
+          "pop": 2,
+          "cloud": 16
+        },
+        {
+          "t": "13:00",
+          "tempF": 59,
+          "pop": 1,
+          "cloud": 10
+        },
+        {
+          "t": "14:00",
+          "tempF": 61,
+          "pop": 1,
+          "cloud": 10
+        },
+        {
+          "t": "15:00",
+          "tempF": 61,
+          "pop": 1,
+          "cloud": 10
+        },
+        {
+          "t": "16:00",
+          "tempF": 60,
+          "pop": 1,
+          "cloud": 10
+        },
+        {
+          "t": "17:00",
+          "tempF": 58,
+          "pop": 1,
+          "cloud": 10
+        },
+        {
+          "t": "18:00",
+          "tempF": 54,
+          "pop": 1,
+          "cloud": 10
+        },
+        {
+          "t": "19:00",
+          "tempF": 51,
+          "pop": 1,
+          "cloud": 19
+        },
+        {
+          "t": "20:00",
+          "tempF": 49,
+          "pop": 1,
+          "cloud": 19
+        },
+        {
+          "t": "21:00",
+          "tempF": 47,
+          "pop": 1,
+          "cloud": 19
+        },
+        {
+          "t": "22:00",
+          "tempF": 46,
+          "pop": 1,
+          "cloud": 19
+        },
+        {
+          "t": "23:00",
+          "tempF": 45,
+          "pop": 1,
+          "cloud": 19
+        }
+      ]
+    },
+    "hidden": []
+  }
+}

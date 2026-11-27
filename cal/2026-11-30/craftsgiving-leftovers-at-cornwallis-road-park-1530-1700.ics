@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Triangle Tots//triangletots.com//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:2026-11-30-craftsgiving-leftovers-at-cornwallis-road-park-1530-1700@tri
+ angletots.com
+DTSTAMP:20261127T100000Z
+DTSTART:20261130T203000Z
+DTEND:20261130T220000Z
+SUMMARY:Craftsgiving Leftovers! at Cornwallis Road Park
+LOCATION:2830 Wade Rd\, Durham\, NC
+DESCRIPTION:Sign up first.\nhttps://www.dprplaymore.org/Facilities/Facility
+ /Details/Cornwallis-Road-Park-13\nhttps://durhamcountylibrary.libcal.com/e
+ vent/17272766\nThe whole day: https://triangletots.com/2026-11-30/t4/\nTim
+ es and details can change. Check the event or place before you go.
+END:VEVENT
+END:VCALENDAR

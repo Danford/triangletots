@@ -1,0 +1,908 @@
+{
+  "date": "2026-12-05",
+  "band": "t2",
+  "versions": [
+    {
+      "at": "2026-11-22T11:05:13.448Z",
+      "reason": null,
+      "forecast": "none",
+      "weather": null,
+      "plans": [
+        {
+          "nap": "early-nap",
+          "napLabel": "One nap, 12 to 2",
+          "headline": "Play at the park, then a Polar Express train story",
+          "main": {
+            "ref": "place:library-park",
+            "also": [
+              {
+                "ref": "event:wake:25081",
+                "source": {
+                  "kind": "event",
+                  "title": "The Polar Express",
+                  "start": "2026-12-05T10:00:00-05:00",
+                  "end": "2026-12-05T11:00:00-05:00",
+                  "venue": "Fuquay-Varina Community Library",
+                  "address": "271 Bramblehill Drive, Fuquay-Varina, NC",
+                  "url": "https://www.wake.gov/events/polar-express-0",
+                  "cost": "Free",
+                  "lat": 35.5850617253451,
+                  "lon": -78.7802518504044,
+                  "ages": "All Ages",
+                  "registration": null,
+                  "indoor": true,
+                  "area": "south-wake",
+                  "source": "wake-county",
+                  "dropIn": false
+                }
+              }
+            ],
+            "arrive": "09:30",
+            "leave": "11:00",
+            "why": "Your toddler runs at Library Park first, then settles in for an interactive read-aloud of The Polar Express with train activities at Fuquay-Varina Community Library.",
+            "tips": [
+              "Let {them} burn off energy on the playground first so sitting for the story feels easier.",
+              "Bring a snack for the ride home, since nap time is not far off.",
+              "Give a two-minute warning before leaving the train activities."
+            ],
+            "interests": [
+              "vehicles",
+              "stories",
+              "movement"
+            ],
+            "area": "south-wake",
+            "outdoor": false,
+            "source": {
+              "kind": "park",
+              "title": "Library Park",
+              "address": "116 South Aiken Street, Fuquay-Varina, NC",
+              "lat": 35.583119998491554,
+              "lon": -78.79818382147192,
+              "url": "https://www.fuquay-varina.org/Facilities/Facility/Details/20",
+              "amenities": [
+                "playground",
+                "picnic-shelter"
+              ],
+              "indoor": false,
+              "area": "south-wake",
+              "hours": null,
+              "cost": "Free"
+            }
+          },
+          "alternatives": [
+            {
+              "ref": "event:museum:durham-central-park:13956",
+              "also": [
+                {
+                  "ref": "place:durham-central-park",
+                  "source": {
+                    "kind": "park",
+                    "title": "Durham Central Park",
+                    "address": "501 Foster St, Durham, NC",
+                    "lat": 36.0006525,
+                    "lon": -78.90071999999999,
+                    "url": "https://www.dprplaymore.org/Facilities/Facility/Details/Durham-Central-Park-18",
+                    "amenities": [
+                      "playground",
+                      "restroom",
+                      "greenway"
+                    ],
+                    "indoor": false,
+                    "area": "durham",
+                    "hours": null,
+                    "cost": "Free"
+                  }
+                }
+              ],
+              "arrive": "09:00",
+              "leave": "10:30",
+              "why": "Wander the winter market at Durham Central Park, then let your toddler run and climb at the park playground.",
+              "tips": [
+                "Let {them} walk beside you through the market for a while.",
+                "Save the snack for the playground."
+              ],
+              "interests": [
+                "movement",
+                "nature"
+              ],
+              "area": "durham",
+              "outdoor": true,
+              "source": {
+                "kind": "event",
+                "title": "DFM Winter Market",
+                "start": "2026-12-05T09:00:00",
+                "end": "2026-12-05T12:00:00",
+                "venue": "Durham Central Park",
+                "address": "501 Foster Street, Durham, NC, 27701",
+                "url": "https://durhamcentralpark.org/upcoming-event/dfm-winter-market-2/2026-12-05/",
+                "cost": null,
+                "lat": 36.0008,
+                "lon": -78.9021,
+                "ages": null,
+                "registration": null,
+                "indoor": false,
+                "area": "durham",
+                "source": "museum",
+                "dropIn": true
+              }
+            },
+            {
+              "ref": "event:durham-rec:20004",
+              "arrive": "14:30",
+              "leave": "16:30",
+              "why": "Your toddler splashes in shallow water with winter toys and plays winter-themed games at Campus Hills Pool. A family needs to sign up.",
+              "tips": [
+                "Bring a towel and a full change of clothes.",
+                "Pack a snack for the car ride home."
+              ],
+              "interests": [
+                "water",
+                "movement"
+              ],
+              "also": [],
+              "area": "durham",
+              "outdoor": true,
+              "source": {
+                "kind": "event",
+                "title": "Snowball Splash",
+                "start": "2026-12-05T14:30:00",
+                "end": "2026-12-05T16:30:00",
+                "venue": "Campus Hills Pool",
+                "address": "2000 S Alston Ave, Durham, NC",
+                "url": "https://apm.activecommunities.com/dprplaymore/Activity_Search/snowball-splash/20004?locale=en-US",
+                "cost": "$6 for Durham residents, $11 for others",
+                "lat": 35.962475999999995,
+                "lon": -78.891791,
+                "ages": "0 - 12",
+                "registration": "https://apm.activecommunities.com/dprplaymore/Activity_Search/snowball-splash/20004?locale=en-US",
+                "indoor": false,
+                "area": "durham",
+                "source": "durham-rec",
+                "dropIn": false
+              }
+            },
+            {
+              "ref": "event:dix-park:/event/frost-fest:2026-12-05",
+              "arrive": "14:30",
+              "leave": "16:00",
+              "why": "A holiday gathering at Gipson Play Plaza, the big playground at Dix Park, where your toddler can climb and slide.",
+              "tips": [
+                "Let {them} pick which play structure to try first.",
+                "Give a five-minute warning before you head out."
+              ],
+              "interests": [
+                "movement"
+              ],
+              "also": [],
+              "area": "raleigh",
+              "outdoor": true,
+              "source": {
+                "kind": "event",
+                "title": "Frost Fest",
+                "start": "2026-12-05T14:00:00",
+                "end": "2026-12-05T21:00:00",
+                "venue": "Gipson Play Plaza, Dix Park",
+                "address": "715 Biggs Dr, Raleigh, NC 27603",
+                "url": "https://dixpark.org/event/frost-fest",
+                "cost": null,
+                "lat": 35.7667,
+                "lon": -78.6539,
+                "ages": null,
+                "registration": null,
+                "indoor": false,
+                "area": "raleigh",
+                "source": "dix-park",
+                "dropIn": true
+              }
+            }
+          ],
+          "rainBackup": null,
+          "timeline": [
+            {
+              "start": "07:00",
+              "end": "07:30",
+              "kind": "meal",
+              "title": "Up and breakfast"
+            },
+            {
+              "start": "07:30",
+              "end": "08:50",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "08:50",
+              "end": "09:10",
+              "kind": "routine",
+              "title": "Get ready to go",
+              "detail": "Shoes on, the bag, water and a snack."
+            },
+            {
+              "start": "09:10",
+              "end": "09:30",
+              "kind": "travel",
+              "title": "Drive to Library Park"
+            },
+            {
+              "start": "09:30",
+              "end": "09:50",
+              "kind": "outing",
+              "title": "Library Park"
+            },
+            {
+              "start": "09:50",
+              "end": "10:00",
+              "kind": "travel",
+              "title": "Drive to Fuquay-Varina Community Library"
+            },
+            {
+              "start": "10:00",
+              "end": "11:00",
+              "kind": "outing",
+              "title": "The Polar Express"
+            },
+            {
+              "start": "11:00",
+              "end": "11:20",
+              "kind": "travel",
+              "title": "Drive home"
+            },
+            {
+              "start": "11:20",
+              "end": "11:50",
+              "kind": "meal",
+              "title": "Lunch"
+            },
+            {
+              "start": "11:50",
+              "end": "12:00",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "12:00",
+              "end": "14:00",
+              "kind": "nap",
+              "title": "Nap"
+            },
+            {
+              "start": "14:00",
+              "end": "14:20",
+              "kind": "routine",
+              "title": "Up and a snack"
+            },
+            {
+              "start": "14:20",
+              "end": "18:00",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "18:00",
+              "end": "18:45",
+              "kind": "meal",
+              "title": "Dinner"
+            },
+            {
+              "start": "18:45",
+              "end": "19:30",
+              "kind": "routine",
+              "title": "Bath, books and bed"
+            }
+          ]
+        },
+        {
+          "nap": "late-nap",
+          "napLabel": "One nap, 1 to 3",
+          "headline": "Stroll the winter market, then play at the park",
+          "main": {
+            "ref": "event:museum:durham-central-park:13956",
+            "also": [
+              {
+                "ref": "place:durham-central-park",
+                "source": {
+                  "kind": "park",
+                  "title": "Durham Central Park",
+                  "address": "501 Foster St, Durham, NC",
+                  "lat": 36.0006525,
+                  "lon": -78.90071999999999,
+                  "url": "https://www.dprplaymore.org/Facilities/Facility/Details/Durham-Central-Park-18",
+                  "amenities": [
+                    "playground",
+                    "restroom",
+                    "greenway"
+                  ],
+                  "indoor": false,
+                  "area": "durham",
+                  "hours": null,
+                  "cost": "Free"
+                }
+              }
+            ],
+            "arrive": "09:30",
+            "leave": "11:30",
+            "why": "Your toddler explores the winter market at Durham Central Park, then spends the rest of the morning on the park playground.",
+            "tips": [
+              "Let {them} walk beside you through the market for a while.",
+              "Bring a snack for the playground.",
+              "Head to the car after a last slide, so nap time starts easy."
+            ],
+            "interests": [
+              "movement",
+              "nature"
+            ],
+            "area": "durham",
+            "outdoor": true,
+            "source": {
+              "kind": "event",
+              "title": "DFM Winter Market",
+              "start": "2026-12-05T09:00:00",
+              "end": "2026-12-05T12:00:00",
+              "venue": "Durham Central Park",
+              "address": "501 Foster Street, Durham, NC, 27701",
+              "url": "https://durhamcentralpark.org/upcoming-event/dfm-winter-market-2/2026-12-05/",
+              "cost": null,
+              "lat": 36.0008,
+              "lon": -78.9021,
+              "ages": null,
+              "registration": null,
+              "indoor": false,
+              "area": "durham",
+              "source": "museum",
+              "dropIn": true
+            }
+          },
+          "alternatives": [
+            {
+              "ref": "event:wake-parks:9474",
+              "arrive": "10:00",
+              "leave": "11:30",
+              "why": "Your toddler can meet Santa inside the historic gristmill and make holiday crafts at Historic Yates Mill County Park.",
+              "tips": [
+                "Talk about Santa on the drive so the visit feels familiar.",
+                "Let {them} watch from a distance before saying hello."
+              ],
+              "interests": [
+                "art",
+                "stories"
+              ],
+              "also": [],
+              "area": "raleigh",
+              "outdoor": true,
+              "source": {
+                "kind": "event",
+                "title": "Meet Santa at Yates Mill (morning)",
+                "start": "2026-12-05T10:00:00",
+                "end": "2026-12-05T12:00:00",
+                "venue": "Historic Yates Mill County Park",
+                "address": "4620 Lake Wheeler Rd., Raleigh, NC  27603",
+                "url": "https://apm.activecommunities.com/wakeparks/Activity_Search/meet-santa-at-yates-mill-morning/9474?locale=en-US",
+                "cost": "Free",
+                "lat": 35.72157134974476,
+                "lon": -78.68526087901417,
+                "ages": null,
+                "registration": false,
+                "indoor": false,
+                "area": "raleigh",
+                "source": "wake-parks",
+                "dropIn": false
+              }
+            },
+            {
+              "ref": "place:crowder-county-park",
+              "arrive": "09:00",
+              "leave": "10:45",
+              "why": "A calm morning at Crowder County Park, with a playground, garden and greenway to explore at {their} own pace.",
+              "tips": [
+                "Bring a snack for the picnic shelter.",
+                "Let {them} lead the way on the greenway."
+              ],
+              "interests": [
+                "nature",
+                "movement"
+              ],
+              "also": [],
+              "area": "cary-apex",
+              "outdoor": true,
+              "source": {
+                "kind": "park",
+                "title": "Crowder County Park",
+                "address": "4709 Ten Ten Road",
+                "lat": 35.69174392711247,
+                "lon": -78.76585678897689,
+                "url": "https://www.wakegov.com/departments-government/parks-recreation-and-open-space/all-parks-trails/crowder-county-park",
+                "amenities": [
+                  "playground",
+                  "picnic-shelter",
+                  "restroom",
+                  "greenway",
+                  "garden"
+                ],
+                "indoor": false,
+                "area": "cary-apex",
+                "hours": null,
+                "cost": "Free"
+              }
+            },
+            {
+              "ref": "event:wake:24993",
+              "also": [
+                {
+                  "ref": "place:honeycutt-park",
+                  "source": {
+                    "kind": "park",
+                    "title": "Honeycutt Park",
+                    "address": "1032 Clear Creek Farm Road, Raleigh, NC 27615",
+                    "lat": 35.9023,
+                    "lon": -78.6259,
+                    "url": "https://raleighnc.gov/parks-and-recreation/places/honeycutt-park",
+                    "amenities": [
+                      "picnic-shelter",
+                      "courts",
+                      "fields",
+                      "playground"
+                    ],
+                    "indoor": false,
+                    "area": "north-raleigh",
+                    "hours": null,
+                    "cost": "Free"
+                  }
+                }
+              ],
+              "arrive": "15:30",
+              "leave": "16:50",
+              "why": "Your toddler watches model trains travel through different scenes at North Regional Library, then plays at Honeycutt Park.",
+              "tips": [
+                "Let {them} pick a favorite train and follow it around the scene.",
+                "Bring a snack for the park."
+              ],
+              "interests": [
+                "vehicles",
+                "movement"
+              ],
+              "area": "north-raleigh",
+              "outdoor": false,
+              "source": {
+                "kind": "event",
+                "title": "Model Train Exhibit",
+                "start": "2026-12-05T13:30:00-05:00",
+                "end": "2026-12-05T16:30:00-05:00",
+                "venue": "North Regional Library",
+                "address": "7009 Harps Mill Road, Raleigh, NC",
+                "url": "https://www.wake.gov/events/model-train-exhibit-7",
+                "cost": "Free",
+                "lat": 35.880907380619,
+                "lon": -78.6281516610688,
+                "ages": "Young Children All Ages School-Age Children Teens",
+                "registration": null,
+                "indoor": true,
+                "area": "north-raleigh",
+                "source": "wake-county",
+                "dropIn": true
+              }
+            },
+            {
+              "ref": "place:gill-street-park",
+              "also": [
+                {
+                  "ref": "event:wake:25057",
+                  "source": {
+                    "kind": "event",
+                    "title": "Cookiemobile!",
+                    "start": "2026-12-05T10:00:00-05:00",
+                    "end": "2026-12-05T12:00:00-05:00",
+                    "venue": "Zebulon Community Library",
+                    "address": "1000 Dogwood Drive, Zebulon, NC",
+                    "url": "https://www.wake.gov/events/cookiemobile-1",
+                    "cost": "Free",
+                    "lat": 35.8364587208387,
+                    "lon": -78.3198221383783,
+                    "ages": "Young Children School-Age Children",
+                    "registration": null,
+                    "indoor": true,
+                    "area": "east-wake",
+                    "source": "wake-county",
+                    "dropIn": false
+                  }
+                }
+              ],
+              "arrive": "09:30",
+              "leave": "11:15",
+              "why": "Play at Gill Street Park first, then join the crafts and games at the Cookiemobile outside Zebulon Community Library.",
+              "tips": [
+                "Bring a snack for the car ride."
+              ],
+              "interests": [
+                "art",
+                "movement"
+              ],
+              "area": "east-wake",
+              "outdoor": false,
+              "source": {
+                "kind": "park",
+                "title": "Gill Street Park",
+                "address": "600 N Privette St, Zebulon, NC",
+                "lat": 35.82878975768889,
+                "lon": -78.31085709480551,
+                "url": "https://www.townofzebulon.org/o/parksandrec/page/parks-facilities-rentals",
+                "amenities": [
+                  "playground"
+                ],
+                "indoor": false,
+                "area": "east-wake",
+                "hours": null,
+                "cost": "Free"
+              }
+            }
+          ],
+          "rainBackup": null,
+          "timeline": [
+            {
+              "start": "07:00",
+              "end": "07:30",
+              "kind": "meal",
+              "title": "Up and breakfast"
+            },
+            {
+              "start": "07:30",
+              "end": "08:50",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "08:50",
+              "end": "09:10",
+              "kind": "routine",
+              "title": "Get ready to go",
+              "detail": "Shoes on, the bag, water and a snack."
+            },
+            {
+              "start": "09:10",
+              "end": "09:30",
+              "kind": "travel",
+              "title": "Drive to Durham Central Park"
+            },
+            {
+              "start": "09:30",
+              "end": "11:30",
+              "kind": "outing",
+              "title": "Durham Central Park"
+            },
+            {
+              "start": "11:30",
+              "end": "11:50",
+              "kind": "travel",
+              "title": "Drive home"
+            },
+            {
+              "start": "11:50",
+              "end": "12:15",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "12:15",
+              "end": "12:45",
+              "kind": "meal",
+              "title": "Lunch"
+            },
+            {
+              "start": "12:45",
+              "end": "13:00",
+              "kind": "quiet",
+              "title": "Wind down",
+              "detail": "A couple of books to settle."
+            },
+            {
+              "start": "13:00",
+              "end": "15:00",
+              "kind": "nap",
+              "title": "Nap"
+            },
+            {
+              "start": "15:00",
+              "end": "15:20",
+              "kind": "routine",
+              "title": "Up and a snack"
+            },
+            {
+              "start": "15:20",
+              "end": "18:30",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "18:30",
+              "end": "19:15",
+              "kind": "meal",
+              "title": "Dinner"
+            },
+            {
+              "start": "19:15",
+              "end": "20:00",
+              "kind": "routine",
+              "title": "Bath, books and bed"
+            }
+          ]
+        },
+        {
+          "nap": "short-nap",
+          "napLabel": "Short nap, 1 to 2",
+          "headline": "A holiday afternoon at Dix Park's big playground",
+          "main": {
+            "ref": "event:dix-park:/event/frost-fest:2026-12-05",
+            "arrive": "14:30",
+            "leave": "16:30",
+            "why": "A holiday gathering at Gipson Play Plaza, the big playground at Dix Park. Your toddler can climb, slide and explore at {their} own pace.",
+            "tips": [
+              "Let {them} pick which play structure to try first.",
+              "Bring a snack for a break halfway through.",
+              "Give a five-minute warning before you head out."
+            ],
+            "interests": [
+              "movement"
+            ],
+            "also": [],
+            "area": "raleigh",
+            "outdoor": true,
+            "source": {
+              "kind": "event",
+              "title": "Frost Fest",
+              "start": "2026-12-05T14:00:00",
+              "end": "2026-12-05T21:00:00",
+              "venue": "Gipson Play Plaza, Dix Park",
+              "address": "715 Biggs Dr, Raleigh, NC 27603",
+              "url": "https://dixpark.org/event/frost-fest",
+              "cost": null,
+              "lat": 35.7667,
+              "lon": -78.6539,
+              "ages": null,
+              "registration": null,
+              "indoor": false,
+              "area": "raleigh",
+              "source": "dix-park",
+              "dropIn": true
+            }
+          },
+          "alternatives": [
+            {
+              "ref": "place:library-park",
+              "also": [
+                {
+                  "ref": "event:wake:25081",
+                  "source": {
+                    "kind": "event",
+                    "title": "The Polar Express",
+                    "start": "2026-12-05T10:00:00-05:00",
+                    "end": "2026-12-05T11:00:00-05:00",
+                    "venue": "Fuquay-Varina Community Library",
+                    "address": "271 Bramblehill Drive, Fuquay-Varina, NC",
+                    "url": "https://www.wake.gov/events/polar-express-0",
+                    "cost": "Free",
+                    "lat": 35.5850617253451,
+                    "lon": -78.7802518504044,
+                    "ages": "All Ages",
+                    "registration": null,
+                    "indoor": true,
+                    "area": "south-wake",
+                    "source": "wake-county",
+                    "dropIn": false
+                  }
+                }
+              ],
+              "arrive": "09:30",
+              "leave": "11:00",
+              "why": "Your toddler runs at Library Park first, then joins an interactive read-aloud of The Polar Express with train activities at Fuquay-Varina Community Library.",
+              "tips": [
+                "Let {them} burn off energy on the playground first.",
+                "Bring a snack for after the story."
+              ],
+              "interests": [
+                "vehicles",
+                "stories",
+                "movement"
+              ],
+              "area": "south-wake",
+              "outdoor": false,
+              "source": {
+                "kind": "park",
+                "title": "Library Park",
+                "address": "116 South Aiken Street, Fuquay-Varina, NC",
+                "lat": 35.583119998491554,
+                "lon": -78.79818382147192,
+                "url": "https://www.fuquay-varina.org/Facilities/Facility/Details/20",
+                "amenities": [
+                  "playground",
+                  "picnic-shelter"
+                ],
+                "indoor": false,
+                "area": "south-wake",
+                "hours": null,
+                "cost": "Free"
+              }
+            },
+            {
+              "ref": "event:durham-rec:20004",
+              "arrive": "14:30",
+              "leave": "16:30",
+              "why": "Your toddler splashes in shallow water with winter toys and plays winter-themed games at Campus Hills Pool. A family needs to sign up.",
+              "tips": [
+                "Bring a towel and a full change of clothes.",
+                "Pack a snack for the car ride home."
+              ],
+              "interests": [
+                "water",
+                "movement"
+              ],
+              "also": [],
+              "area": "durham",
+              "outdoor": true,
+              "source": {
+                "kind": "event",
+                "title": "Snowball Splash",
+                "start": "2026-12-05T14:30:00",
+                "end": "2026-12-05T16:30:00",
+                "venue": "Campus Hills Pool",
+                "address": "2000 S Alston Ave, Durham, NC",
+                "url": "https://apm.activecommunities.com/dprplaymore/Activity_Search/snowball-splash/20004?locale=en-US",
+                "cost": "$6 for Durham residents, $11 for others",
+                "lat": 35.962475999999995,
+                "lon": -78.891791,
+                "ages": "0 - 12",
+                "registration": "https://apm.activecommunities.com/dprplaymore/Activity_Search/snowball-splash/20004?locale=en-US",
+                "indoor": false,
+                "area": "durham",
+                "source": "durham-rec",
+                "dropIn": false
+              }
+            },
+            {
+              "ref": "place:gill-street-park",
+              "also": [
+                {
+                  "ref": "event:wake:25057",
+                  "source": {
+                    "kind": "event",
+                    "title": "Cookiemobile!",
+                    "start": "2026-12-05T10:00:00-05:00",
+                    "end": "2026-12-05T12:00:00-05:00",
+                    "venue": "Zebulon Community Library",
+                    "address": "1000 Dogwood Drive, Zebulon, NC",
+                    "url": "https://www.wake.gov/events/cookiemobile-1",
+                    "cost": "Free",
+                    "lat": 35.8364587208387,
+                    "lon": -78.3198221383783,
+                    "ages": "Young Children School-Age Children",
+                    "registration": null,
+                    "indoor": true,
+                    "area": "east-wake",
+                    "source": "wake-county",
+                    "dropIn": false
+                  }
+                }
+              ],
+              "arrive": "09:30",
+              "leave": "11:15",
+              "why": "Play at Gill Street Park first, then join the crafts and games at the Cookiemobile outside Zebulon Community Library.",
+              "tips": [
+                "Bring a snack for the car ride."
+              ],
+              "interests": [
+                "art",
+                "movement"
+              ],
+              "area": "east-wake",
+              "outdoor": false,
+              "source": {
+                "kind": "park",
+                "title": "Gill Street Park",
+                "address": "600 N Privette St, Zebulon, NC",
+                "lat": 35.82878975768889,
+                "lon": -78.31085709480551,
+                "url": "https://www.townofzebulon.org/o/parksandrec/page/parks-facilities-rentals",
+                "amenities": [
+                  "playground"
+                ],
+                "indoor": false,
+                "area": "east-wake",
+                "hours": null,
+                "cost": "Free"
+              }
+            }
+          ],
+          "rainBackup": null,
+          "timeline": [
+            {
+              "start": "07:00",
+              "end": "07:30",
+              "kind": "meal",
+              "title": "Up and breakfast"
+            },
+            {
+              "start": "07:30",
+              "end": "12:15",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "12:15",
+              "end": "12:45",
+              "kind": "meal",
+              "title": "Lunch"
+            },
+            {
+              "start": "12:45",
+              "end": "13:00",
+              "kind": "quiet",
+              "title": "Wind down",
+              "detail": "A couple of books to settle."
+            },
+            {
+              "start": "13:00",
+              "end": "14:00",
+              "kind": "nap",
+              "title": "Nap"
+            },
+            {
+              "start": "14:00",
+              "end": "14:10",
+              "kind": "routine",
+              "title": "Up, a snack and out the door",
+              "detail": "Have the bag packed and by the door before the nap."
+            },
+            {
+              "start": "14:10",
+              "end": "14:30",
+              "kind": "travel",
+              "title": "Drive to Gipson Play Plaza, Dix Park"
+            },
+            {
+              "start": "14:30",
+              "end": "16:30",
+              "kind": "outing",
+              "title": "Gipson Play Plaza, Dix Park"
+            },
+            {
+              "start": "16:30",
+              "end": "16:50",
+              "kind": "travel",
+              "title": "Drive home"
+            },
+            {
+              "start": "16:50",
+              "end": "18:00",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "18:00",
+              "end": "18:45",
+              "kind": "meal",
+              "title": "Dinner"
+            },
+            {
+              "start": "18:45",
+              "end": "19:30",
+              "kind": "routine",
+              "title": "Bath, books and bed"
+            }
+          ]
+        }
+      ],
+      "dropped": [
+        "[early-nap] alternative place:apex-community-park: leaves 16:10, but event:wake:24664 ends 16:00; allow 10 minutes to get there and stay at least 20",
+        "[late-nap] place:gill-street-park tip: \"{they} focus\" needs its ending as a placeholder (like{s}, {is}, {has}): \"Let {them} play first so {they} can focus on the crafts.\"",
+        "[late-nap] place:gill-street-park tip: \"{they} focus\" needs its ending as a placeholder (like{s}, {is}, {has}): \"Let {them} play first so {they} can focus on the crafts.\"",
+        "[short-nap] alternative place:apex-community-park: leaves 16:10, but event:wake:24664 ends 16:00; allow 10 minutes to get there and stay at least 20",
+        "[short-nap] place:gill-street-park tip: \"{they} focus\" needs its ending as a placeholder (like{s}, {is}, {has}): \"Let {them} play first so {they} can focus on the crafts.\"",
+        "[short-nap] place:gill-street-park tip: \"{they} focus\" needs its ending as a placeholder (like{s}, {is}, {has}): \"Let {them} play first so {they} can focus on the crafts.\""
+      ]
+    }
+  ],
+  "checked": {
+    "at": "2026-11-27T11:03:44.832Z",
+    "forecast": "none",
+    "weather": null,
+    "hidden": []
+  }
+}

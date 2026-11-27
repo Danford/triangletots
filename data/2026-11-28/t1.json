@@ -1,0 +1,950 @@
+{
+  "date": "2026-11-28",
+  "band": "t1",
+  "versions": [
+    {
+      "at": "2026-11-15T11:04:57.791Z",
+      "reason": null,
+      "forecast": "none",
+      "weather": null,
+      "plans": [
+        {
+          "nap": "two-naps",
+          "napLabel": "Two naps",
+          "headline": "Ride the carousel and the train, then play",
+          "main": {
+            "ref": "place:pullen-park-amusements",
+            "arrive": "11:00",
+            "leave": "12:45",
+            "why": "Your toddler can ride the carousel and the train, then play on the playground. It is a short, full morning before lunch and the 2:30 pm nap.",
+            "tips": [
+              "Let {them} pick the first ride and watch for a minute before {they} go{es} on.",
+              "Bring a snack for the picnic shelter so the last ride is not the last treat.",
+              "Say goodbye at the carousel, then walk toward the car."
+            ],
+            "interests": [
+              "vehicles",
+              "movement"
+            ],
+            "also": [],
+            "area": "raleigh",
+            "outdoor": true,
+            "source": {
+              "kind": "park",
+              "title": "Pullen Park Amusements",
+              "address": "410 Park Ave, Raleigh, NC 27606",
+              "lat": 35.7806,
+              "lon": -78.66396,
+              "url": "https://raleighnc.gov/parks-and-recreation/places/pullen-park-amusements",
+              "amenities": [
+                "carousel",
+                "boating",
+                "train",
+                "amusements",
+                "courts",
+                "playground",
+                "picnic-shelter"
+              ],
+              "indoor": false,
+              "area": "raleigh",
+              "hours": {
+                "mon": "10 a.m.–6 p.m.",
+                "tue": "10 a.m.–6 p.m.",
+                "wed": "10 a.m.–6 p.m.",
+                "thu": "10 a.m.–6 p.m.",
+                "fri": "10 a.m.–6 p.m.",
+                "sat": "10 a.m.–6 p.m.",
+                "sun": "10 a.m.–6 p.m."
+              },
+              "cost": "Free to get in; rides $2 a ticket"
+            }
+          },
+          "alternatives": [
+            {
+              "ref": "event:libcal:durham-county-library:17562324",
+              "arrive": "11:00",
+              "leave": "12:30",
+              "why": "Family Fables is a short storytime with songs and finger plays, then {they} can run at Knightdale Station Park. A family needs to sign up first.",
+              "tips": [
+                "Sit near the front so {they} can see the books.",
+                "Pack a snack for the park."
+              ],
+              "interests": [
+                "stories",
+                "movement"
+              ],
+              "also": [
+                {
+                  "ref": "place:knightdale-station-park",
+                  "source": {
+                    "kind": "park",
+                    "title": "Knightdale Station Park",
+                    "address": "810 North First Avenue, Knightdale, NC",
+                    "lat": 35.795776739559024,
+                    "lon": -78.47584503817626,
+                    "url": "https://www.knightdalenc.gov/knightdalestationpark",
+                    "amenities": [
+                      "playground",
+                      "picnic-shelter",
+                      "greenway"
+                    ],
+                    "indoor": false,
+                    "area": "east-wake",
+                    "hours": null,
+                    "cost": "Free"
+                  }
+                }
+              ],
+              "area": "durham",
+              "outdoor": false,
+              "source": {
+                "kind": "event",
+                "title": "Family Fables (Storytime)",
+                "start": "2026-11-28T11:00:00",
+                "end": "2026-11-28T11:45:00",
+                "venue": "East Regional Library",
+                "address": "211 Lick Creek Lane, Durham, NC",
+                "url": "https://durhamcountylibrary.libcal.com/event/17562324",
+                "cost": "Free",
+                "lat": 35.97844156676161,
+                "lon": -78.80970660761102,
+                "ages": "Baby, Elementary School, Kindergarten, Pre-School, Toddler",
+                "registration": "https://durhamcountylibrary.libcal.com/event/17562324",
+                "indoor": true,
+                "area": "durham",
+                "source": "libcal",
+                "dropIn": false
+              }
+            },
+            {
+              "ref": "event:wake-parks:9411:2026-11-28",
+              "arrive": "12:15",
+              "leave": "13:45",
+              "why": "Visit the American Bison Exploration Station, then the Mill Open House at Historic Yates Mill. Both are drop-in, so leave whenever {they} {is} done.",
+              "tips": [
+                "Do the bison first and the mill after 1:00 pm.",
+                "Bring a snack for the walk between stops."
+              ],
+              "interests": [
+                "animals",
+                "science"
+              ],
+              "also": [
+                {
+                  "ref": "event:wake-parks:9422",
+                  "source": {
+                    "kind": "event",
+                    "title": "Mill Open House",
+                    "start": "2026-11-28T13:00:00",
+                    "end": "2026-11-28T16:00:00",
+                    "venue": "Historic Yates Mill County Park",
+                    "address": "4620 Lake Wheeler Rd., Raleigh, NC  27603",
+                    "url": "https://apm.activecommunities.com/wakeparks/Activity_Search/mill-open-house/9422?locale=en-US",
+                    "cost": "Free",
+                    "lat": 35.72157134974476,
+                    "lon": -78.68526087901417,
+                    "ages": null,
+                    "registration": false,
+                    "indoor": false,
+                    "area": "raleigh",
+                    "source": "wake-parks",
+                    "dropIn": true
+                  }
+                }
+              ],
+              "area": "raleigh",
+              "outdoor": true,
+              "source": {
+                "kind": "event",
+                "title": "Exploration Station: American Bison",
+                "start": "2026-11-28T08:30:00",
+                "end": "2026-11-28T17:00:00",
+                "venue": "Historic Yates Mill County Park",
+                "address": "4620 Lake Wheeler Rd., Raleigh, NC  27603",
+                "url": "https://apm.activecommunities.com/wakeparks/Activity_Search/exploration-station-american-bison/9411?locale=en-US",
+                "cost": "Free",
+                "lat": 35.72157134974476,
+                "lon": -78.68526087901417,
+                "ages": null,
+                "registration": false,
+                "indoor": false,
+                "area": "raleigh",
+                "source": "wake-parks",
+                "dropIn": true
+              }
+            },
+            {
+              "ref": "place:sarah-p-duke-gardens",
+              "arrive": "11:00",
+              "leave": "12:30",
+              "why": "Your toddler can toddle along the garden paths and look at plants. It is a calm, slow outing before lunch.",
+              "tips": [
+                "Let {them} get down and walk when {they} want{s} to.",
+                "Pack a snack and eat before you head home."
+              ],
+              "interests": [
+                "nature"
+              ],
+              "also": [],
+              "area": "durham",
+              "outdoor": true,
+              "source": {
+                "kind": "garden",
+                "title": "Sarah P. Duke Gardens",
+                "address": "420 Anderson St, Durham, NC 27708",
+                "lat": 36.0024,
+                "lon": -78.9328,
+                "url": "https://gardens.duke.edu/visit/",
+                "amenities": [
+                  "garden",
+                  "nature",
+                  "restroom"
+                ],
+                "indoor": false,
+                "area": "durham",
+                "hours": {
+                  "sun": "8 a.m. to sunset",
+                  "mon": "8 a.m. to sunset",
+                  "tue": "8 a.m. to sunset",
+                  "wed": "8 a.m. to sunset",
+                  "thu": "8 a.m. to sunset",
+                  "fri": "8 a.m. to sunset",
+                  "sat": "8 a.m. to sunset"
+                },
+                "cost": "Free",
+                "note": "Free; paid parking that often fills before 10 a.m. on nice days. Five miles of paths, and the Charlotte Brody Discovery Garden."
+              }
+            }
+          ],
+          "rainBackup": null,
+          "timeline": [
+            {
+              "start": "07:00",
+              "end": "07:30",
+              "kind": "meal",
+              "title": "Up and breakfast"
+            },
+            {
+              "start": "07:30",
+              "end": "09:30",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "09:30",
+              "end": "10:30",
+              "kind": "nap",
+              "title": "Nap"
+            },
+            {
+              "start": "10:30",
+              "end": "10:40",
+              "kind": "routine",
+              "title": "Up, a snack and out the door",
+              "detail": "Have the bag packed and by the door before the nap."
+            },
+            {
+              "start": "10:40",
+              "end": "11:00",
+              "kind": "travel",
+              "title": "Drive to Pullen Park Amusements"
+            },
+            {
+              "start": "11:00",
+              "end": "12:45",
+              "kind": "outing",
+              "title": "Pullen Park Amusements",
+              "detail": "Pack a lunch to eat there."
+            },
+            {
+              "start": "12:45",
+              "end": "13:05",
+              "kind": "travel",
+              "title": "Drive home"
+            },
+            {
+              "start": "13:05",
+              "end": "14:30",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "14:30",
+              "end": "15:30",
+              "kind": "nap",
+              "title": "Nap"
+            },
+            {
+              "start": "15:30",
+              "end": "15:50",
+              "kind": "routine",
+              "title": "Up and a snack"
+            },
+            {
+              "start": "15:50",
+              "end": "17:30",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "17:30",
+              "end": "18:15",
+              "kind": "meal",
+              "title": "Dinner"
+            },
+            {
+              "start": "18:15",
+              "end": "19:00",
+              "kind": "routine",
+              "title": "Bath, books and bed"
+            }
+          ]
+        },
+        {
+          "nap": "early-nap",
+          "napLabel": "One nap, 12 to 2",
+          "headline": "Playground and nature walk before nap",
+          "main": {
+            "ref": "place:harris-lake-county-park",
+            "arrive": "09:00",
+            "leave": "10:45",
+            "why": "Your toddler can climb and slide on the playground, then wander the greenway and look at the trees. It leaves time for lunch before the noon nap.",
+            "tips": [
+              "Bring a snack and eat at the picnic shelter.",
+              "Let {them} lead the walk and stop for sticks and leaves.",
+              "Head home by 10:45 so {they} {is} fed before nap."
+            ],
+            "interests": [
+              "nature",
+              "movement"
+            ],
+            "also": [],
+            "area": "south-wake",
+            "outdoor": true,
+            "source": {
+              "kind": "park",
+              "title": "Harris Lake County Park",
+              "address": "2112 County Park Dr., New Hill, NC  27562",
+              "lat": 35.63024208800726,
+              "lon": -78.91757987745865,
+              "url": "https://www.wakegov.com/departments-government/parks-recreation-and-open-space/all-parks-trails/harris-lake-county-park",
+              "amenities": [
+                "playground",
+                "picnic-shelter",
+                "restroom",
+                "greenway",
+                "nature"
+              ],
+              "indoor": false,
+              "area": "south-wake",
+              "hours": null,
+              "cost": "Free"
+            }
+          },
+          "alternatives": [
+            {
+              "ref": "place:pullen-park-amusements",
+              "arrive": "10:00",
+              "leave": "11:20",
+              "why": "Ride the carousel and the train, then play on the playground. It fits in easily before the noon nap.",
+              "tips": [
+                "Ride first, then play.",
+                "Bring a snack and have lunch right after."
+              ],
+              "interests": [
+                "vehicles",
+                "movement"
+              ],
+              "also": [],
+              "area": "raleigh",
+              "outdoor": true,
+              "source": {
+                "kind": "park",
+                "title": "Pullen Park Amusements",
+                "address": "410 Park Ave, Raleigh, NC 27606",
+                "lat": 35.7806,
+                "lon": -78.66396,
+                "url": "https://raleighnc.gov/parks-and-recreation/places/pullen-park-amusements",
+                "amenities": [
+                  "carousel",
+                  "boating",
+                  "train",
+                  "amusements",
+                  "courts",
+                  "playground",
+                  "picnic-shelter"
+                ],
+                "indoor": false,
+                "area": "raleigh",
+                "hours": {
+                  "mon": "10 a.m.–6 p.m.",
+                  "tue": "10 a.m.–6 p.m.",
+                  "wed": "10 a.m.–6 p.m.",
+                  "thu": "10 a.m.–6 p.m.",
+                  "fri": "10 a.m.–6 p.m.",
+                  "sat": "10 a.m.–6 p.m.",
+                  "sun": "10 a.m.–6 p.m."
+                },
+                "cost": "Free to get in; rides $2 a ticket"
+              }
+            },
+            {
+              "ref": "event:weekly:mols-early-childhood:2026-11-28",
+              "arrive": "09:30",
+              "leave": "11:10",
+              "why": "The Early Childhood Drop-In in Hideaway Woods has sensory play, songs and stories for little ones. Drop in and stay as long as {they} like{s}.",
+              "tips": [
+                "Let {them} try one activity at a time.",
+                "Bring a snack for the end of the morning."
+              ],
+              "interests": [
+                "nature",
+                "music",
+                "stories"
+              ],
+              "also": [],
+              "area": "durham",
+              "outdoor": true,
+              "source": {
+                "kind": "event",
+                "title": "Early Childhood Drop-In",
+                "start": "2026-11-28T09:30:00",
+                "end": "2026-11-28T11:30:00",
+                "venue": "Hideaway Woods, Museum of Life and Science",
+                "address": "433 W Murray Ave, Durham, NC 27704",
+                "url": "https://www.lifeandscience.org/learn/drop-in-programs/",
+                "cost": "Included with museum admission",
+                "lat": 36.0294,
+                "lon": -78.8993,
+                "ages": "young children and their caregivers",
+                "registration": false,
+                "indoor": false,
+                "area": "durham",
+                "source": "weekly",
+                "dropIn": true
+              }
+            },
+            {
+              "ref": "event:wake-parks:9422",
+              "arrive": "14:30",
+              "leave": "16:00",
+              "why": "The Mill Open House at Historic Yates Mill has the doors open and interpreters to show how the mill works. Drop in and stay as long as {they} like{s}.",
+              "tips": [
+                "Bring a snack for after nap.",
+                "Leave when {they} start{s} to fuss."
+              ],
+              "interests": [
+                "science",
+                "nature"
+              ],
+              "also": [],
+              "area": "raleigh",
+              "outdoor": true,
+              "source": {
+                "kind": "event",
+                "title": "Mill Open House",
+                "start": "2026-11-28T13:00:00",
+                "end": "2026-11-28T16:00:00",
+                "venue": "Historic Yates Mill County Park",
+                "address": "4620 Lake Wheeler Rd., Raleigh, NC  27603",
+                "url": "https://apm.activecommunities.com/wakeparks/Activity_Search/mill-open-house/9422?locale=en-US",
+                "cost": "Free",
+                "lat": 35.72157134974476,
+                "lon": -78.68526087901417,
+                "ages": null,
+                "registration": false,
+                "indoor": false,
+                "area": "raleigh",
+                "source": "wake-parks",
+                "dropIn": true
+              }
+            }
+          ],
+          "rainBackup": null,
+          "timeline": [
+            {
+              "start": "07:00",
+              "end": "07:30",
+              "kind": "meal",
+              "title": "Up and breakfast"
+            },
+            {
+              "start": "07:30",
+              "end": "08:20",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "08:20",
+              "end": "08:40",
+              "kind": "routine",
+              "title": "Get ready to go",
+              "detail": "Shoes on, the bag, water and a snack."
+            },
+            {
+              "start": "08:40",
+              "end": "09:00",
+              "kind": "travel",
+              "title": "Drive to Harris Lake County Park"
+            },
+            {
+              "start": "09:00",
+              "end": "10:45",
+              "kind": "outing",
+              "title": "Harris Lake County Park"
+            },
+            {
+              "start": "10:45",
+              "end": "11:05",
+              "kind": "travel",
+              "title": "Drive home"
+            },
+            {
+              "start": "11:05",
+              "end": "11:15",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "11:15",
+              "end": "11:45",
+              "kind": "meal",
+              "title": "Lunch"
+            },
+            {
+              "start": "11:45",
+              "end": "12:00",
+              "kind": "quiet",
+              "title": "Wind down",
+              "detail": "A couple of books to settle."
+            },
+            {
+              "start": "12:00",
+              "end": "14:00",
+              "kind": "nap",
+              "title": "Nap"
+            },
+            {
+              "start": "14:00",
+              "end": "14:20",
+              "kind": "routine",
+              "title": "Up and a snack"
+            },
+            {
+              "start": "14:20",
+              "end": "17:30",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "17:30",
+              "end": "18:15",
+              "kind": "meal",
+              "title": "Dinner"
+            },
+            {
+              "start": "18:15",
+              "end": "19:00",
+              "kind": "routine",
+              "title": "Bath, books and bed"
+            }
+          ]
+        },
+        {
+          "nap": "late-nap",
+          "napLabel": "One nap, 1 to 3",
+          "headline": "Big playground morning at Dix Park",
+          "main": {
+            "ref": "place:gipson-play-plaza",
+            "arrive": "09:30",
+            "leave": "11:15",
+            "why": "This big playground gives your toddler lots of room to climb, slide and move. You will be home for lunch before the 1:00 pm nap.",
+            "tips": [
+              "Bring a snack and a water bottle.",
+              "Let {them} pick what to try first.",
+              "Give a five minute warning before you leave."
+            ],
+            "interests": [
+              "movement"
+            ],
+            "also": [],
+            "area": "raleigh",
+            "outdoor": true,
+            "source": {
+              "kind": "park",
+              "title": "Gipson Play Plaza at Dix Park",
+              "address": "715 Biggs Dr, Raleigh, NC 27603",
+              "lat": 35.7667,
+              "lon": -78.6539,
+              "url": "https://dixpark.org/gipson-play-plaza",
+              "amenities": [
+                "playground",
+                "restroom"
+              ],
+              "indoor": false,
+              "area": "raleigh",
+              "hours": {
+                "sun": "8 a.m.–9 p.m.",
+                "mon": "8 a.m.–9 p.m.",
+                "tue": "8 a.m.–9 p.m.",
+                "wed": "8 a.m.–9 p.m.",
+                "thu": "8 a.m.–9 p.m.",
+                "fri": "8 a.m.–9 p.m.",
+                "sat": "8 a.m.–9 p.m."
+              },
+              "cost": "Free",
+              "note": "Free; free parking. Big destination playground on the south edge of Dix Park."
+            }
+          },
+          "alternatives": [
+            {
+              "ref": "event:weekly:mols-early-childhood:2026-11-28",
+              "arrive": "09:30",
+              "leave": "11:20",
+              "why": "The Early Childhood Drop-In in Hideaway Woods has sensory play, songs and stories for little ones. Drop in and stay as long as {they} like{s}.",
+              "tips": [
+                "Let {them} try one activity at a time.",
+                "Bring a snack for the end of the morning."
+              ],
+              "interests": [
+                "nature",
+                "music",
+                "stories"
+              ],
+              "also": [],
+              "area": "durham",
+              "outdoor": true,
+              "source": {
+                "kind": "event",
+                "title": "Early Childhood Drop-In",
+                "start": "2026-11-28T09:30:00",
+                "end": "2026-11-28T11:30:00",
+                "venue": "Hideaway Woods, Museum of Life and Science",
+                "address": "433 W Murray Ave, Durham, NC 27704",
+                "url": "https://www.lifeandscience.org/learn/drop-in-programs/",
+                "cost": "Included with museum admission",
+                "lat": 36.0294,
+                "lon": -78.8993,
+                "ages": "young children and their caregivers",
+                "registration": false,
+                "indoor": false,
+                "area": "durham",
+                "source": "weekly",
+                "dropIn": true
+              }
+            },
+            {
+              "ref": "event:libcal:durham-county-library:17562324",
+              "arrive": "11:00",
+              "leave": "12:15",
+              "why": "Family Fables is a short storytime with songs and finger plays, then {they} can play at Knightdale Station Park. A family needs to sign up first.",
+              "tips": [
+                "Sit near the front for the songs.",
+                "Bring a snack for the park."
+              ],
+              "interests": [
+                "stories",
+                "movement"
+              ],
+              "also": [
+                {
+                  "ref": "place:knightdale-station-park",
+                  "source": {
+                    "kind": "park",
+                    "title": "Knightdale Station Park",
+                    "address": "810 North First Avenue, Knightdale, NC",
+                    "lat": 35.795776739559024,
+                    "lon": -78.47584503817626,
+                    "url": "https://www.knightdalenc.gov/knightdalestationpark",
+                    "amenities": [
+                      "playground",
+                      "picnic-shelter",
+                      "greenway"
+                    ],
+                    "indoor": false,
+                    "area": "east-wake",
+                    "hours": null,
+                    "cost": "Free"
+                  }
+                }
+              ],
+              "area": "durham",
+              "outdoor": false,
+              "source": {
+                "kind": "event",
+                "title": "Family Fables (Storytime)",
+                "start": "2026-11-28T11:00:00",
+                "end": "2026-11-28T11:45:00",
+                "venue": "East Regional Library",
+                "address": "211 Lick Creek Lane, Durham, NC",
+                "url": "https://durhamcountylibrary.libcal.com/event/17562324",
+                "cost": "Free",
+                "lat": 35.97844156676161,
+                "lon": -78.80970660761102,
+                "ages": "Baby, Elementary School, Kindergarten, Pre-School, Toddler",
+                "registration": "https://durhamcountylibrary.libcal.com/event/17562324",
+                "indoor": true,
+                "area": "durham",
+                "source": "libcal",
+                "dropIn": false
+              }
+            },
+            {
+              "ref": "place:apex-community-park",
+              "arrive": "09:30",
+              "leave": "11:00",
+              "why": "Your toddler can play on the playground and walk the greenway. It is an easy morning outside in Cary and Apex.",
+              "tips": [
+                "Pack a snack for the picnic shelter.",
+                "Let {them} set the pace on the walk."
+              ],
+              "interests": [
+                "movement",
+                "nature"
+              ],
+              "also": [],
+              "area": "cary-apex",
+              "outdoor": true,
+              "source": {
+                "kind": "park",
+                "title": "Apex Community Park",
+                "address": "2200 Laura Duncan Rd., Apex, NC",
+                "lat": 35.75461588131496,
+                "lon": -78.82862025650613,
+                "url": "http://www.apexnc.org/795/Apex-Community-Park",
+                "amenities": [
+                  "playground",
+                  "picnic-shelter",
+                  "restroom",
+                  "greenway"
+                ],
+                "indoor": false,
+                "area": "cary-apex",
+                "hours": null,
+                "cost": "Free"
+              }
+            }
+          ],
+          "rainBackup": null,
+          "timeline": [
+            {
+              "start": "07:00",
+              "end": "07:30",
+              "kind": "meal",
+              "title": "Up and breakfast"
+            },
+            {
+              "start": "07:30",
+              "end": "08:50",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "08:50",
+              "end": "09:10",
+              "kind": "routine",
+              "title": "Get ready to go",
+              "detail": "Shoes on, the bag, water and a snack."
+            },
+            {
+              "start": "09:10",
+              "end": "09:30",
+              "kind": "travel",
+              "title": "Drive to Gipson Play Plaza at Dix Park"
+            },
+            {
+              "start": "09:30",
+              "end": "11:15",
+              "kind": "outing",
+              "title": "Gipson Play Plaza at Dix Park"
+            },
+            {
+              "start": "11:15",
+              "end": "11:35",
+              "kind": "travel",
+              "title": "Drive home"
+            },
+            {
+              "start": "11:35",
+              "end": "12:15",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "12:15",
+              "end": "12:45",
+              "kind": "meal",
+              "title": "Lunch"
+            },
+            {
+              "start": "12:45",
+              "end": "13:00",
+              "kind": "quiet",
+              "title": "Wind down",
+              "detail": "A couple of books to settle."
+            },
+            {
+              "start": "13:00",
+              "end": "15:00",
+              "kind": "nap",
+              "title": "Nap"
+            },
+            {
+              "start": "15:00",
+              "end": "15:20",
+              "kind": "routine",
+              "title": "Up and a snack"
+            },
+            {
+              "start": "15:20",
+              "end": "18:00",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "18:00",
+              "end": "18:45",
+              "kind": "meal",
+              "title": "Dinner"
+            },
+            {
+              "start": "18:45",
+              "end": "19:30",
+              "kind": "routine",
+              "title": "Bath, books and bed"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "checked": {
+    "at": "2026-11-27T11:03:44.717Z",
+    "forecast": "nws",
+    "weather": {
+      "period": "Saturday",
+      "tempF": 60,
+      "precipProbability": 0,
+      "shortForecast": "Sunny",
+      "windMph": 8,
+      "windFrom": "SW",
+      "hours": [
+        {
+          "t": "05:00",
+          "tempF": 41,
+          "pop": 1,
+          "cloud": 11
+        },
+        {
+          "t": "06:00",
+          "tempF": 41,
+          "pop": 0,
+          "cloud": 13
+        },
+        {
+          "t": "07:00",
+          "tempF": 40,
+          "pop": 0,
+          "cloud": 15
+        },
+        {
+          "t": "08:00",
+          "tempF": 39,
+          "pop": 0,
+          "cloud": 6
+        },
+        {
+          "t": "09:00",
+          "tempF": 45,
+          "pop": 0,
+          "cloud": 4
+        },
+        {
+          "t": "10:00",
+          "tempF": 49,
+          "pop": 0,
+          "cloud": 3
+        },
+        {
+          "t": "11:00",
+          "tempF": 52,
+          "pop": 0,
+          "cloud": 3
+        },
+        {
+          "t": "12:00",
+          "tempF": 55,
+          "pop": 0,
+          "cloud": 3
+        },
+        {
+          "t": "13:00",
+          "tempF": 57,
+          "pop": 0,
+          "cloud": 8
+        },
+        {
+          "t": "14:00",
+          "tempF": 58,
+          "pop": 0,
+          "cloud": 5
+        },
+        {
+          "t": "15:00",
+          "tempF": 58,
+          "pop": 0,
+          "cloud": 3
+        },
+        {
+          "t": "16:00",
+          "tempF": 59,
+          "pop": 0,
+          "cloud": 3
+        },
+        {
+          "t": "17:00",
+          "tempF": 55,
+          "pop": 0,
+          "cloud": 3
+        },
+        {
+          "t": "18:00",
+          "tempF": 52,
+          "pop": 0,
+          "cloud": 10
+        },
+        {
+          "t": "19:00",
+          "tempF": 51,
+          "pop": 0,
+          "cloud": 12
+        },
+        {
+          "t": "20:00",
+          "tempF": 48,
+          "pop": 0,
+          "cloud": 11
+        },
+        {
+          "t": "21:00",
+          "tempF": 47,
+          "pop": 0,
+          "cloud": 13
+        },
+        {
+          "t": "22:00",
+          "tempF": 46,
+          "pop": 0,
+          "cloud": 14
+        },
+        {
+          "t": "23:00",
+          "tempF": 45,
+          "pop": 0,
+          "cloud": 21
+        }
+      ]
+    },
+    "hidden": []
+  }
+}

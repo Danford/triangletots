@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Triangle Tots//triangletots.com//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:2026-12-02-baby-playdate-at-leesville-community-library-1120-1315@trian
+ gletots.com
+DTSTAMP:20261127T100000Z
+DTSTART:20261202T162000Z
+DTEND:20261202T181500Z
+SUMMARY:Baby Playdate at Leesville Community Library
+LOCATION:5105 Country Trail\, Raleigh\, NC
+DESCRIPTION:https://www.wake.gov/events/baby-playdate-63\nhttps://raleighnc
+ .gov/parks-and-recreation/places/leesville-community-park\nThe whole day: 
+ https://triangletots.com/2026-12-02/t1/\nTimes and details can change. Che
+ ck the event or place before you go.
+END:VEVENT
+END:VCALENDAR

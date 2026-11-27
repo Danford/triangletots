@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Triangle Tots//triangletots.com//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:2026-12-05-snowball-splash-at-campus-hills-pool-1430-1630@triangletots.
+ com
+DTSTAMP:20261127T100000Z
+DTSTART:20261205T193000Z
+DTEND:20261205T213000Z
+SUMMARY:Snowball Splash at Campus Hills Pool
+LOCATION:2000 S Alston Ave\, Durham\, NC
+DESCRIPTION:Sign up first.\nhttps://apm.activecommunities.com/dprplaymore/A
+ ctivity_Search/snowball-splash/20004?locale=en-US\nThe whole day: https://
+ triangletots.com/2026-12-05/t2/\nTimes and details can change. Check the e
+ vent or place before you go.
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Triangle Tots//triangletots.com//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:2026-12-06-nature-journaling-hike-at-williamson-farm-and-nature-preserv
+ -0850-1100@triangletots.com
+DTSTAMP:20261127T100000Z
+DTSTART:20261206T135000Z
+DTEND:20261206T160000Z
+SUMMARY:Nature Journaling Hike at Williamson Farm and Nature Preserve
+LOCATION:4429 Old Country Mial Rd\, Raleigh\, 27610
+DESCRIPTION:Sign up first.\nhttps://triangleland.org/event/nature-journalin
+ g-hike\nThe whole day: https://triangletots.com/2026-12-06/t4/\nTimes and 
+ details can change. Check the event or place before you go.
+END:VEVENT
+END:VCALENDAR

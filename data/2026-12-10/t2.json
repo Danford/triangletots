@@ -1,0 +1,848 @@
+{
+  "date": "2026-12-10",
+  "band": "t2",
+  "versions": [
+    {
+      "at": "2026-11-27T11:05:07.473Z",
+      "reason": null,
+      "forecast": "none",
+      "weather": null,
+      "plans": [
+        {
+          "nap": "early-nap",
+          "napLabel": "One nap, 12 to 2",
+          "headline": "Ride the carousel and train at Pullen Park",
+          "main": {
+            "ref": "place:pullen-park-amusements",
+            "arrive": "10:00",
+            "leave": "11:15",
+            "why": "Pullen Park has a carousel and a train, and your toddler can climb on the playground between rides. It is a lively morning that ends in time for lunch and the nap.",
+            "tips": [
+              "Arrive right at 10:00 am when the park opens, so the rides come before the crowds.",
+              "Bring a snack for the playground and eat it before the drive home.",
+              "Say the last ride out loud, then walk to the car holding a favorite toy."
+            ],
+            "interests": [
+              "vehicles",
+              "movement"
+            ],
+            "also": [],
+            "area": "raleigh",
+            "outdoor": true,
+            "source": {
+              "kind": "park",
+              "title": "Pullen Park Amusements",
+              "address": "410 Park Ave, Raleigh, NC 27606",
+              "lat": 35.7806,
+              "lon": -78.66396,
+              "url": "https://raleighnc.gov/parks-and-recreation/places/pullen-park-amusements",
+              "amenities": [
+                "carousel",
+                "boating",
+                "train",
+                "amusements",
+                "courts",
+                "playground",
+                "picnic-shelter"
+              ],
+              "indoor": false,
+              "area": "raleigh",
+              "hours": {
+                "mon": "10 a.m.–6 p.m.",
+                "tue": "10 a.m.–6 p.m.",
+                "wed": "10 a.m.–6 p.m.",
+                "thu": "10 a.m.–6 p.m.",
+                "fri": "10 a.m.–6 p.m.",
+                "sat": "10 a.m.–6 p.m.",
+                "sun": "10 a.m.–6 p.m."
+              },
+              "cost": "Free to get in; rides $2 a ticket"
+            }
+          },
+          "alternatives": [
+            {
+              "ref": "event:wake-parks:8358:2026-12-10",
+              "arrive": "09:30",
+              "leave": "11:00",
+              "why": "Walk the StoryWalk loop and read the story one page at a time, then explore the park. Come and go whenever your toddler is ready.",
+              "tips": [
+                "Let {them} run ahead to the next page and tell you what {they} see{s}.",
+                "Bring a snack for the playground afterward."
+              ],
+              "interests": [
+                "stories",
+                "nature"
+              ],
+              "also": [],
+              "area": "south-wake",
+              "outdoor": true,
+              "source": {
+                "kind": "event",
+                "title": "Beech Bluff County Park StoryWalk® 2026 (Self-Led)",
+                "start": "2026-12-10T08:00:00",
+                "end": "2026-12-10T17:30:00",
+                "venue": "Beech Bluff County Park",
+                "address": "Beech Bluff Park Drive, Fuquay-Varina, NC",
+                "url": "https://apm.activecommunities.com/wakeparks/Activity_Search/beech-bluff-county-park-storywalk-2026-self-led/8358?locale=en-US",
+                "cost": "Free",
+                "lat": 35.58537279715877,
+                "lon": -78.6793341971644,
+                "ages": null,
+                "registration": false,
+                "indoor": false,
+                "area": "south-wake",
+                "source": "wake-parks",
+                "dropIn": true
+              }
+            },
+            {
+              "ref": "place:campus-hills-park",
+              "arrive": "09:30",
+              "leave": "11:00",
+              "also": [
+                {
+                  "ref": "event:durham-rec:19673",
+                  "source": {
+                    "kind": "event",
+                    "title": "Cookies with Santa",
+                    "start": "2026-12-10T10:00:00",
+                    "end": "2026-12-10T11:00:00",
+                    "venue": "I.R. Holmes, Sr. Rec Ctr",
+                    "address": "2000 S Alston Ave, Durham, NC",
+                    "url": "https://apm.activecommunities.com/dprplaymore/Activity_Search/cookies-with-santa/19673?locale=en-US",
+                    "cost": "$1.50 for Durham residents, $6.50 for others",
+                    "lat": 35.9619,
+                    "lon": -78.8908,
+                    "ages": "0 - 5",
+                    "registration": "https://apm.activecommunities.com/dprplaymore/Activity_Search/cookies-with-santa/19673?locale=en-US",
+                    "indoor": true,
+                    "area": "durham",
+                    "source": "durham-rec",
+                    "dropIn": false
+                  }
+                }
+              ],
+              "why": "Burn off energy at the playground, then meet Santa at 10:00 am for cookies, milk and a holiday art project. A family needs to sign up.",
+              "tips": [
+                "Do not skip the park first. A tired toddler is calmer with a stranger in a red suit.",
+                "Tell your toddler about Santa on the drive over."
+              ],
+              "interests": [
+                "art",
+                "movement"
+              ],
+              "area": "durham",
+              "outdoor": false,
+              "source": {
+                "kind": "park",
+                "title": "Campus Hills Park",
+                "address": "2000 S Alston Ave, Durham, NC",
+                "lat": 35.962475999999995,
+                "lon": -78.891791,
+                "url": "https://www.dprplaymore.org/Facilities/Facility/Details/Campus-Hills-Park-10",
+                "amenities": [
+                  "playground",
+                  "picnic-shelter"
+                ],
+                "indoor": false,
+                "area": "durham",
+                "hours": null,
+                "cost": "Free"
+              }
+            },
+            {
+              "ref": "place:nc-botanical-garden",
+              "arrive": "09:15",
+              "leave": "11:00",
+              "why": "Follow the paths through the display gardens and into the forest trails. There is plenty to touch, sniff and stomp through.",
+              "tips": [
+                "Bring a snack and a small bag for treasures like leaves and pinecones.",
+                "Let your toddler choose which path to take at each turn."
+              ],
+              "interests": [
+                "nature",
+                "movement"
+              ],
+              "also": [],
+              "area": "chapel-hill",
+              "outdoor": true,
+              "source": {
+                "kind": "garden",
+                "title": "NC Botanical Garden",
+                "address": "100 Old Mason Farm Rd, Chapel Hill, NC 27517",
+                "lat": 35.9011,
+                "lon": -79.0319,
+                "url": "https://ncbg.unc.edu/visit/",
+                "amenities": [
+                  "garden",
+                  "nature",
+                  "restroom"
+                ],
+                "indoor": false,
+                "area": "chapel-hill",
+                "cost": "Free",
+                "note": "Free. Display gardens, and nature trails through the forest behind them."
+              }
+            }
+          ],
+          "rainBackup": null,
+          "timeline": [
+            {
+              "start": "07:00",
+              "end": "07:30",
+              "kind": "meal",
+              "title": "Up and breakfast"
+            },
+            {
+              "start": "07:30",
+              "end": "09:20",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "09:20",
+              "end": "09:40",
+              "kind": "routine",
+              "title": "Get ready to go",
+              "detail": "Shoes on, the bag, water and a snack."
+            },
+            {
+              "start": "09:40",
+              "end": "10:00",
+              "kind": "travel",
+              "title": "Drive to Pullen Park Amusements"
+            },
+            {
+              "start": "10:00",
+              "end": "11:15",
+              "kind": "outing",
+              "title": "Pullen Park Amusements"
+            },
+            {
+              "start": "11:15",
+              "end": "11:35",
+              "kind": "travel",
+              "title": "Drive home"
+            },
+            {
+              "start": "11:35",
+              "end": "12:00",
+              "kind": "meal",
+              "title": "Lunch"
+            },
+            {
+              "start": "12:00",
+              "end": "14:00",
+              "kind": "nap",
+              "title": "Nap"
+            },
+            {
+              "start": "14:00",
+              "end": "14:20",
+              "kind": "routine",
+              "title": "Up and a snack"
+            },
+            {
+              "start": "14:20",
+              "end": "18:00",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "18:00",
+              "end": "18:45",
+              "kind": "meal",
+              "title": "Dinner"
+            },
+            {
+              "start": "18:45",
+              "end": "19:30",
+              "kind": "routine",
+              "title": "Bath, books and bed"
+            }
+          ]
+        },
+        {
+          "nap": "late-nap",
+          "napLabel": "One nap, 1 to 3",
+          "headline": "Explore garden paths and forest trails",
+          "main": {
+            "ref": "place:nc-botanical-garden",
+            "arrive": "09:30",
+            "leave": "11:30",
+            "why": "Your toddler can wander the display gardens and the nature trails through the forest behind them. It is a calm, free morning with lots to look at.",
+            "tips": [
+              "Pack a snack and a water bottle for a rest on the trail.",
+              "Let {them} lead and stop whenever {they} find{s} something interesting.",
+              "Head back before {they} get{s} tired so leaving is easy."
+            ],
+            "interests": [
+              "nature",
+              "movement"
+            ],
+            "also": [],
+            "area": "chapel-hill",
+            "outdoor": true,
+            "source": {
+              "kind": "garden",
+              "title": "NC Botanical Garden",
+              "address": "100 Old Mason Farm Rd, Chapel Hill, NC 27517",
+              "lat": 35.9011,
+              "lon": -79.0319,
+              "url": "https://ncbg.unc.edu/visit/",
+              "amenities": [
+                "garden",
+                "nature",
+                "restroom"
+              ],
+              "indoor": false,
+              "area": "chapel-hill",
+              "cost": "Free",
+              "note": "Free. Display gardens, and nature trails through the forest behind them."
+            }
+          },
+          "alternatives": [
+            {
+              "ref": "place:harris-lake-county-park",
+              "arrive": "10:30",
+              "leave": "12:00",
+              "also": [
+                {
+                  "ref": "event:wake-parks:9303",
+                  "source": {
+                    "kind": "event",
+                    "title": "Kids Discover Nature: When Winter Comes",
+                    "start": "2026-12-10T11:00:00",
+                    "end": "2026-12-10T12:00:00",
+                    "venue": "Harris Lake County Park",
+                    "address": "2112 County Park Dr., New Hill, NC  27562",
+                    "url": "https://apm.activecommunities.com/wakeparks/Activity_Search/kids-discover-nature-when-winter-comes/9303?locale=en-US",
+                    "cost": "Free",
+                    "lat": 35.63024208800726,
+                    "lon": -78.91757987745865,
+                    "ages": "At least 2 but less than 6",
+                    "registration": "https://apm.activecommunities.com/wakeparks/Activity_Search/kids-discover-nature-when-winter-comes/9303?locale=en-US",
+                    "indoor": false,
+                    "area": "south-wake",
+                    "source": "wake-parks",
+                    "dropIn": false
+                  }
+                }
+              ],
+              "why": "Play at the park first, then join the 11:00 am nature program. Your toddler hears a winter story and goes on a scavenger hunt. A family needs to sign up.",
+              "tips": [
+                "Meet at Cypress Shelter a few minutes before 11:00 am.",
+                "Bring a snack for after the scavenger hunt."
+              ],
+              "interests": [
+                "nature",
+                "stories"
+              ],
+              "area": "south-wake",
+              "outdoor": true,
+              "source": {
+                "kind": "park",
+                "title": "Harris Lake County Park",
+                "address": "2112 County Park Dr., New Hill, NC  27562",
+                "lat": 35.63024208800726,
+                "lon": -78.91757987745865,
+                "url": "https://www.wakegov.com/departments-government/parks-recreation-and-open-space/all-parks-trails/harris-lake-county-park",
+                "amenities": [
+                  "playground",
+                  "picnic-shelter",
+                  "restroom",
+                  "greenway",
+                  "nature"
+                ],
+                "indoor": false,
+                "area": "south-wake",
+                "hours": null,
+                "cost": "Free"
+              }
+            },
+            {
+              "ref": "place:john-chavis-memorial-park",
+              "arrive": "09:30",
+              "leave": "11:30",
+              "also": [
+                {
+                  "ref": "event:museum:marbles:47401",
+                  "source": {
+                    "kind": "event",
+                    "title": "Guest Star: Science",
+                    "start": "2026-12-10T10:00:00",
+                    "end": "2026-12-10T12:00:00",
+                    "venue": "Marbles Kids Museum",
+                    "address": "201 E Hargett St, Raleigh, NC 27601",
+                    "url": "https://marbleskidsmuseum.org/event/48523/",
+                    "cost": "Museum admission $12.50 at the door, $9.50 bought ahead; under 1 free",
+                    "lat": 35.7789,
+                    "lon": -78.6361,
+                    "ages": "Included with Admission Non-ticketed",
+                    "registration": null,
+                    "indoor": true,
+                    "area": "raleigh",
+                    "source": "museum",
+                    "dropIn": false
+                  }
+                }
+              ],
+              "why": "Start at the park with its playground and carousel, then head into Marbles for the Guest Star: Science program at 10:00 am.",
+              "tips": [
+                "Let your toddler burn off energy at the park first.",
+                "Visit the science activities at {their} own pace."
+              ],
+              "interests": [
+                "science",
+                "movement"
+              ],
+              "area": "raleigh",
+              "outdoor": false,
+              "source": {
+                "kind": "park",
+                "title": "John Chavis Memorial Park",
+                "address": "505 Martin Luther King Jr Blvd, Raleigh, NC 27601",
+                "lat": 35.7698,
+                "lon": -78.63021,
+                "url": "https://raleighnc.gov/parks-and-recreation/places/john-chavis-memorial-park",
+                "amenities": [
+                  "community-center",
+                  "playground",
+                  "carousel",
+                  "fields"
+                ],
+                "indoor": false,
+                "area": "raleigh",
+                "hours": null,
+                "cost": "Free"
+              }
+            }
+          ],
+          "rainBackup": null,
+          "timeline": [
+            {
+              "start": "07:00",
+              "end": "07:30",
+              "kind": "meal",
+              "title": "Up and breakfast"
+            },
+            {
+              "start": "07:30",
+              "end": "08:50",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "08:50",
+              "end": "09:10",
+              "kind": "routine",
+              "title": "Get ready to go",
+              "detail": "Shoes on, the bag, water and a snack."
+            },
+            {
+              "start": "09:10",
+              "end": "09:30",
+              "kind": "travel",
+              "title": "Drive to NC Botanical Garden"
+            },
+            {
+              "start": "09:30",
+              "end": "11:30",
+              "kind": "outing",
+              "title": "NC Botanical Garden"
+            },
+            {
+              "start": "11:30",
+              "end": "11:50",
+              "kind": "travel",
+              "title": "Drive home"
+            },
+            {
+              "start": "11:50",
+              "end": "12:15",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "12:15",
+              "end": "12:45",
+              "kind": "meal",
+              "title": "Lunch"
+            },
+            {
+              "start": "12:45",
+              "end": "13:00",
+              "kind": "quiet",
+              "title": "Wind down",
+              "detail": "A couple of books to settle."
+            },
+            {
+              "start": "13:00",
+              "end": "15:00",
+              "kind": "nap",
+              "title": "Nap"
+            },
+            {
+              "start": "15:00",
+              "end": "15:20",
+              "kind": "routine",
+              "title": "Up and a snack"
+            },
+            {
+              "start": "15:20",
+              "end": "18:30",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "18:30",
+              "end": "19:15",
+              "kind": "meal",
+              "title": "Dinner"
+            },
+            {
+              "start": "19:15",
+              "end": "20:00",
+              "kind": "routine",
+              "title": "Bath, books and bed"
+            }
+          ]
+        },
+        {
+          "nap": "short-nap",
+          "napLabel": "Short nap, 1 to 2",
+          "headline": "Hunt for signs of winter at Harris Lake",
+          "main": {
+            "ref": "place:harris-lake-county-park",
+            "arrive": "10:30",
+            "leave": "12:00",
+            "also": [
+              {
+                "ref": "event:wake-parks:9303",
+                "source": {
+                  "kind": "event",
+                  "title": "Kids Discover Nature: When Winter Comes",
+                  "start": "2026-12-10T11:00:00",
+                  "end": "2026-12-10T12:00:00",
+                  "venue": "Harris Lake County Park",
+                  "address": "2112 County Park Dr., New Hill, NC  27562",
+                  "url": "https://apm.activecommunities.com/wakeparks/Activity_Search/kids-discover-nature-when-winter-comes/9303?locale=en-US",
+                  "cost": "Free",
+                  "lat": 35.63024208800726,
+                  "lon": -78.91757987745865,
+                  "ages": "At least 2 but less than 6",
+                  "registration": "https://apm.activecommunities.com/wakeparks/Activity_Search/kids-discover-nature-when-winter-comes/9303?locale=en-US",
+                  "indoor": false,
+                  "area": "south-wake",
+                  "source": "wake-parks",
+                  "dropIn": false
+                }
+              }
+            ],
+            "why": "Play at the park, then join the 11:00 am nature program at Cypress Shelter. Your toddler hears a winter story and goes on a scavenger hunt. A family needs to sign up.",
+            "tips": [
+              "Come to the shelter a few minutes before 11:00 am.",
+              "Bring a snack for after the hunt and a bag for small finds.",
+              "Leave when the program ends, with lunch waiting in the car."
+            ],
+            "interests": [
+              "nature",
+              "stories"
+            ],
+            "area": "south-wake",
+            "outdoor": true,
+            "source": {
+              "kind": "park",
+              "title": "Harris Lake County Park",
+              "address": "2112 County Park Dr., New Hill, NC  27562",
+              "lat": 35.63024208800726,
+              "lon": -78.91757987745865,
+              "url": "https://www.wakegov.com/departments-government/parks-recreation-and-open-space/all-parks-trails/harris-lake-county-park",
+              "amenities": [
+                "playground",
+                "picnic-shelter",
+                "restroom",
+                "greenway",
+                "nature"
+              ],
+              "indoor": false,
+              "area": "south-wake",
+              "hours": null,
+              "cost": "Free"
+            }
+          },
+          "alternatives": [
+            {
+              "ref": "event:wake-parks:8358:2026-12-10",
+              "arrive": "09:30",
+              "leave": "11:00",
+              "why": "Walk the StoryWalk loop and read the story one page at a time, then explore the park. Come and go whenever your toddler is ready.",
+              "tips": [
+                "Let {them} run ahead to the next page and tell you what {they} see{s}.",
+                "Bring a snack for the playground afterward."
+              ],
+              "interests": [
+                "stories",
+                "nature"
+              ],
+              "also": [],
+              "area": "south-wake",
+              "outdoor": true,
+              "source": {
+                "kind": "event",
+                "title": "Beech Bluff County Park StoryWalk® 2026 (Self-Led)",
+                "start": "2026-12-10T08:00:00",
+                "end": "2026-12-10T17:30:00",
+                "venue": "Beech Bluff County Park",
+                "address": "Beech Bluff Park Drive, Fuquay-Varina, NC",
+                "url": "https://apm.activecommunities.com/wakeparks/Activity_Search/beech-bluff-county-park-storywalk-2026-self-led/8358?locale=en-US",
+                "cost": "Free",
+                "lat": 35.58537279715877,
+                "lon": -78.6793341971644,
+                "ages": null,
+                "registration": false,
+                "indoor": false,
+                "area": "south-wake",
+                "source": "wake-parks",
+                "dropIn": true
+              }
+            },
+            {
+              "ref": "place:nc-botanical-garden",
+              "arrive": "14:30",
+              "leave": "16:30",
+              "why": "Wander the display gardens and the forest trails behind them on a gentle afternoon walk.",
+              "tips": [
+                "Bring a snack for halfway through.",
+                "Let your toddler pick the path at each turn."
+              ],
+              "interests": [
+                "nature",
+                "movement"
+              ],
+              "also": [],
+              "area": "chapel-hill",
+              "outdoor": true,
+              "source": {
+                "kind": "garden",
+                "title": "NC Botanical Garden",
+                "address": "100 Old Mason Farm Rd, Chapel Hill, NC 27517",
+                "lat": 35.9011,
+                "lon": -79.0319,
+                "url": "https://ncbg.unc.edu/visit/",
+                "amenities": [
+                  "garden",
+                  "nature",
+                  "restroom"
+                ],
+                "indoor": false,
+                "area": "chapel-hill",
+                "cost": "Free",
+                "note": "Free. Display gardens, and nature trails through the forest behind them."
+              }
+            },
+            {
+              "ref": "place:pullen-park-amusements",
+              "arrive": "14:30",
+              "leave": "16:30",
+              "why": "Ride the carousel and the train, then play on the playground. It is a good afternoon for a toddler who loves vehicles.",
+              "tips": [
+                "Bring a snack for between rides.",
+                "Say the last ride out loud before heading to the car."
+              ],
+              "interests": [
+                "vehicles",
+                "movement"
+              ],
+              "also": [],
+              "area": "raleigh",
+              "outdoor": true,
+              "source": {
+                "kind": "park",
+                "title": "Pullen Park Amusements",
+                "address": "410 Park Ave, Raleigh, NC 27606",
+                "lat": 35.7806,
+                "lon": -78.66396,
+                "url": "https://raleighnc.gov/parks-and-recreation/places/pullen-park-amusements",
+                "amenities": [
+                  "carousel",
+                  "boating",
+                  "train",
+                  "amusements",
+                  "courts",
+                  "playground",
+                  "picnic-shelter"
+                ],
+                "indoor": false,
+                "area": "raleigh",
+                "hours": {
+                  "mon": "10 a.m.–6 p.m.",
+                  "tue": "10 a.m.–6 p.m.",
+                  "wed": "10 a.m.–6 p.m.",
+                  "thu": "10 a.m.–6 p.m.",
+                  "fri": "10 a.m.–6 p.m.",
+                  "sat": "10 a.m.–6 p.m.",
+                  "sun": "10 a.m.–6 p.m."
+                },
+                "cost": "Free to get in; rides $2 a ticket"
+              }
+            },
+            {
+              "ref": "place:campus-hills-park",
+              "arrive": "09:30",
+              "leave": "11:00",
+              "also": [
+                {
+                  "ref": "event:durham-rec:19673",
+                  "source": {
+                    "kind": "event",
+                    "title": "Cookies with Santa",
+                    "start": "2026-12-10T10:00:00",
+                    "end": "2026-12-10T11:00:00",
+                    "venue": "I.R. Holmes, Sr. Rec Ctr",
+                    "address": "2000 S Alston Ave, Durham, NC",
+                    "url": "https://apm.activecommunities.com/dprplaymore/Activity_Search/cookies-with-santa/19673?locale=en-US",
+                    "cost": "$1.50 for Durham residents, $6.50 for others",
+                    "lat": 35.9619,
+                    "lon": -78.8908,
+                    "ages": "0 - 5",
+                    "registration": "https://apm.activecommunities.com/dprplaymore/Activity_Search/cookies-with-santa/19673?locale=en-US",
+                    "indoor": true,
+                    "area": "durham",
+                    "source": "durham-rec",
+                    "dropIn": false
+                  }
+                }
+              ],
+              "why": "Play at the park, then meet Santa at 10:00 am for cookies, milk and a holiday art project. A family needs to sign up.",
+              "tips": [
+                "Play first so your toddler is calmer with Santa.",
+                "Tell your toddler about Santa on the drive over."
+              ],
+              "interests": [
+                "art",
+                "movement"
+              ],
+              "area": "durham",
+              "outdoor": false,
+              "source": {
+                "kind": "park",
+                "title": "Campus Hills Park",
+                "address": "2000 S Alston Ave, Durham, NC",
+                "lat": 35.962475999999995,
+                "lon": -78.891791,
+                "url": "https://www.dprplaymore.org/Facilities/Facility/Details/Campus-Hills-Park-10",
+                "amenities": [
+                  "playground",
+                  "picnic-shelter"
+                ],
+                "indoor": false,
+                "area": "durham",
+                "hours": null,
+                "cost": "Free"
+              }
+            }
+          ],
+          "rainBackup": null,
+          "timeline": [
+            {
+              "start": "07:00",
+              "end": "07:30",
+              "kind": "meal",
+              "title": "Up and breakfast"
+            },
+            {
+              "start": "07:30",
+              "end": "09:50",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "09:50",
+              "end": "10:10",
+              "kind": "routine",
+              "title": "Get ready to go",
+              "detail": "Shoes on, the bag, water and a snack."
+            },
+            {
+              "start": "10:10",
+              "end": "10:30",
+              "kind": "travel",
+              "title": "Drive to Harris Lake County Park"
+            },
+            {
+              "start": "10:30",
+              "end": "11:00",
+              "kind": "outing",
+              "title": "Harris Lake County Park"
+            },
+            {
+              "start": "11:00",
+              "end": "12:00",
+              "kind": "outing",
+              "title": "Kids Discover Nature: When Winter Comes"
+            },
+            {
+              "start": "12:00",
+              "end": "12:20",
+              "kind": "travel",
+              "title": "Drive home"
+            },
+            {
+              "start": "12:20",
+              "end": "12:50",
+              "kind": "meal",
+              "title": "Lunch"
+            },
+            {
+              "start": "12:50",
+              "end": "13:00",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "13:00",
+              "end": "14:00",
+              "kind": "nap",
+              "title": "Nap"
+            },
+            {
+              "start": "14:00",
+              "end": "14:20",
+              "kind": "routine",
+              "title": "Up and a snack"
+            },
+            {
+              "start": "14:20",
+              "end": "18:00",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "18:00",
+              "end": "18:45",
+              "kind": "meal",
+              "title": "Dinner"
+            },
+            {
+              "start": "18:45",
+              "end": "19:30",
+              "kind": "routine",
+              "title": "Bath, books and bed"
+            }
+          ]
+        }
+      ],
+      "dropped": [
+        "[early-nap] alternative place:cornwallis-road-park Liv and Sing! is for Baby, Kindergarten, Pre-School, Toddler",
+        "[late-nap] alternative place:cornwallis-road-park Liv and Sing! is for Baby, Kindergarten, Pre-School, Toddler"
+      ]
+    }
+  ],
+  "checked": {
+    "at": "2026-11-27T11:05:07.473Z",
+    "forecast": "none",
+    "weather": null,
+    "hidden": []
+  }
+}

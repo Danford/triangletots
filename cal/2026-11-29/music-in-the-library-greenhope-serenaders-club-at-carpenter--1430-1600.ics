@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Triangle Tots//triangletots.com//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:2026-11-29-music-in-the-library-greenhope-serenaders-club-at-carpenter-
+ -1430-1600@triangletots.com
+DTSTAMP:20261127T100000Z
+DTSTART:20261129T193000Z
+DTEND:20261129T210000Z
+SUMMARY:Music in the Library: Greenhope Serenaders Club at Carpenter Park
+LOCATION:4420 Louis Stephens Drive\, Cary\, NC
+DESCRIPTION:http://www.townofcary.org/recreation-enjoyment/parks-greenways-
+ environment/parks/carpenter-park\nhttps://www.wake.gov/events/music-librar
+ y-greenhope-serenaders-club\nThe whole day: https://triangletots.com/2026-
+ 11-29/t3/\nTimes and details can change. Check the event or place before y
+ ou go.
+END:VEVENT
+END:VCALENDAR

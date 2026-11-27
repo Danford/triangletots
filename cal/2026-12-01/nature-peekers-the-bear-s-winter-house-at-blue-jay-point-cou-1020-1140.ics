@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Triangle Tots//triangletots.com//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:2026-12-01-nature-peekers-the-bear-s-winter-house-at-blue-jay-point-cou
+ -1020-1140@triangletots.com
+DTSTAMP:20261127T100000Z
+DTSTART:20261201T152000Z
+DTEND:20261201T164000Z
+SUMMARY:Nature Peekers: The Bear's Winter House at Blue Jay Point County Pa
+ rk
+LOCATION:3200 Pleasant Union Church Road\, Raleigh\, NC 27614
+DESCRIPTION:Sign up first.\nhttps://apm.activecommunities.com/wakeparks/Act
+ ivity_Search/nature-peekers-the-bear-s-winter-house/9465?locale=en-US\nhtt
+ ps://www.wakegov.com/departments-government/parks-recreation-and-open-spac
+ e/all-parks-trails/blue-jay-point-county-park\nThe whole day: https://tria
+ ngletots.com/2026-12-01/t3/\nTimes and details can change. Check the event
+  or place before you go.
+END:VEVENT
+END:VCALENDAR

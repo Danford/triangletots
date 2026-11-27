@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Triangle Tots//triangletots.com//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:2026-12-06-winter-in-the-garden-craft-market-at-nc-botanical-garden-110
+ 0-1215@triangletots.com
+DTSTAMP:20261127T100000Z
+DTSTART:20261206T160000Z
+DTEND:20261206T171500Z
+SUMMARY:Winter in the Garden Craft Market at NC Botanical Garden
+LOCATION:100 Old Mason Farm Road\, Chapel Hill\, NC\, 27517
+DESCRIPTION:https://ncbg.unc.edu/event/winter-craft-market/\nThe whole day:
+  https://triangletots.com/2026-12-06/t1/\nTimes and details can change. Ch
+ eck the event or place before you go.
+END:VEVENT
+END:VCALENDAR

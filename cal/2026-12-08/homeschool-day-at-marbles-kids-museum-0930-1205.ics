@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Triangle Tots//triangletots.com//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:2026-12-08-homeschool-day-at-marbles-kids-museum-0930-1205@triangletots
+ .com
+DTSTAMP:20261127T100000Z
+DTSTART:20261208T143000Z
+DTEND:20261208T170500Z
+SUMMARY:Homeschool Day at Marbles Kids Museum
+LOCATION:201 E Hargett St\, Raleigh\, NC 27601
+DESCRIPTION:https://marbleskidsmuseum.org/event/46799/\nhttps://raleighnc.g
+ ov/parks-and-recreation/places/john-chavis-memorial-park\nThe whole day: h
+ ttps://triangletots.com/2026-12-08/t3/\nTimes and details can change. Chec
+ k the event or place before you go.
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Triangle Tots//triangletots.com//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:2026-12-10-preschool-process-art-sparkly-winter-paintings-at-southwest-
+ -1105-1215@triangletots.com
+DTSTAMP:20261127T100000Z
+DTSTART:20261210T160500Z
+DTEND:20261210T171500Z
+SUMMARY:Preschool Process Art: Sparkly Winter Paintings at Southwest Region
+ al Library
+LOCATION:3605 Shannon Rd\, Durham\, NC
+DESCRIPTION:Sign up first.\nhttps://durhamcountylibrary.libcal.com/event/15
+ 991447\nhttps://www.dprplaymore.org/Facilities/Facility/Details/Cornwallis
+ -Road-Park-13\nThe whole day: https://triangletots.com/2026-12-10/t4/\nTim
+ es and details can change. Check the event or place before you go.
+END:VEVENT
+END:VCALENDAR

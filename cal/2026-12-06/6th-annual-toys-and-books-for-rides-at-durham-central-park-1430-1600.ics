@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Triangle Tots//triangletots.com//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:2026-12-06-6th-annual-toys-and-books-for-rides-at-durham-central-park-1
+ 430-1600@triangletots.com
+DTSTAMP:20261127T100000Z
+DTSTART:20261206T193000Z
+DTEND:20261206T210000Z
+SUMMARY:6th Annual Toys and Books for Rides at Durham Central Park
+LOCATION:501 Foster Street\, Durham\, NC\, 27701
+DESCRIPTION:https://durhamcentralpark.org/upcoming-event/6th-annual-toys-an
+ d-books-for-rides/\nThe whole day: https://triangletots.com/2026-12-06/t4/
+ \nTimes and details can change. Check the event or place before you go.
+END:VEVENT
+END:VCALENDAR

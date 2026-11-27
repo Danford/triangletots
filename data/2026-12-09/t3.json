@@ -1,0 +1,999 @@
+{
+  "date": "2026-12-09",
+  "band": "t3",
+  "versions": [
+    {
+      "at": "2026-11-26T19:07:10.810Z",
+      "reason": null,
+      "forecast": "none",
+      "weather": null,
+      "plans": [
+        {
+          "nap": "nap",
+          "napLabel": "Nap, 1 to 2:30",
+          "headline": "Sing and play instruments, then run at the park",
+          "main": {
+            "ref": "event:wake:25116",
+            "arrive": "10:05",
+            "leave": "11:50",
+            "why": "Your toddler sings, dances and plays instruments at Sproutsongs Music Together! at 10:15 am, then burns off energy at Knightdale Station Park before lunch.",
+            "tips": [
+              "Bring a snack for the park so your child can refuel after the music.",
+              "Let {them} pick an instrument and join in as much as {they} like{s}.",
+              "Say the park is next as you leave the library, and head home for lunch by 11:50."
+            ],
+            "interests": [
+              "music",
+              "movement"
+            ],
+            "also": [
+              {
+                "ref": "place:knightdale-station-park",
+                "source": {
+                  "kind": "park",
+                  "title": "Knightdale Station Park",
+                  "address": "810 North First Avenue, Knightdale, NC",
+                  "lat": 35.795776739559024,
+                  "lon": -78.47584503817626,
+                  "url": "https://www.knightdalenc.gov/knightdalestationpark",
+                  "amenities": [
+                    "playground",
+                    "picnic-shelter",
+                    "greenway"
+                  ],
+                  "indoor": false,
+                  "area": "east-wake",
+                  "hours": null,
+                  "cost": "Free"
+                }
+              }
+            ],
+            "area": "east-wake",
+            "outdoor": false,
+            "source": {
+              "kind": "event",
+              "title": "Sproutsongs Music Together!",
+              "start": "2026-12-09T10:15:00-05:00",
+              "end": "2026-12-09T11:00:00-05:00",
+              "venue": "East Regional Library",
+              "address": "946 Steeple Square Court, Knightdale, NC",
+              "url": "https://www.wake.gov/events/sproutsongs-music-together-2",
+              "cost": "Free",
+              "lat": 35.8028243321954,
+              "lon": -78.487155767495,
+              "ages": "Young Children",
+              "registration": null,
+              "indoor": true,
+              "area": "east-wake",
+              "source": "wake-county",
+              "dropIn": false
+            }
+          },
+          "alternatives": [
+            {
+              "ref": "place:hillside-park",
+              "arrive": "09:30",
+              "leave": "12:00",
+              "why": "Warm up at Hillside Park, then play in the gym at Total Tot Time at 10:00 am with a parachute and tunnels. A family needs to sign up first.",
+              "tips": [
+                "Bring a water bottle and a snack for the park.",
+                "Let your child crawl through the tunnels at {their} own pace."
+              ],
+              "interests": [
+                "movement",
+                "nature"
+              ],
+              "also": [
+                {
+                  "ref": "event:durham-rec:19772:2026-12-09",
+                  "source": {
+                    "kind": "event",
+                    "title": "Total Tot Time",
+                    "start": "2026-12-09T10:00:00",
+                    "end": "2026-12-09T12:00:00",
+                    "venue": "W.D. Hill Rec Ctr",
+                    "address": "1308 Fayetteville St, Durham, NC",
+                    "url": "https://apm.activecommunities.com/dprplaymore/Activity_Search/total-tot-time/19772?locale=en-US",
+                    "cost": null,
+                    "lat": 35.9797,
+                    "lon": -78.8985,
+                    "ages": "1 - 6",
+                    "registration": "https://apm.activecommunities.com/dprplaymore/Activity_Search/total-tot-time/19772?locale=en-US",
+                    "indoor": true,
+                    "area": "durham",
+                    "source": "durham-rec",
+                    "dropIn": false
+                  }
+                }
+              ],
+              "area": "durham",
+              "outdoor": false,
+              "source": {
+                "kind": "park",
+                "title": "Hillside Park",
+                "address": "1301 S Roxboro St, Durham, NC",
+                "lat": 35.98093222222222,
+                "lon": -78.90178333333333,
+                "url": "https://www.dprplaymore.org/Facilities/Facility/Details/Hillside-Park-32",
+                "amenities": [
+                  "playground",
+                  "splashpad",
+                  "pool",
+                  "picnic-shelter",
+                  "restroom"
+                ],
+                "indoor": false,
+                "area": "durham",
+                "hours": null,
+                "cost": "Free"
+              }
+            },
+            {
+              "ref": "event:wake-parks:8358:2026-12-09",
+              "arrive": "09:30",
+              "leave": "10:45",
+              "why": "Your child walks the StoryWalk loop and reads the story one page at a time as {they} go{es}.",
+              "tips": [
+                "Let your child lead and spot the next page.",
+                "Bring a snack to share on a bench at the end."
+              ],
+              "interests": [
+                "stories",
+                "nature"
+              ],
+              "also": [],
+              "area": "south-wake",
+              "outdoor": true,
+              "source": {
+                "kind": "event",
+                "title": "Beech Bluff County Park StoryWalk® 2026 (Self-Led)",
+                "start": "2026-12-09T08:00:00",
+                "end": "2026-12-09T17:30:00",
+                "venue": "Beech Bluff County Park",
+                "address": "Beech Bluff Park Drive, Fuquay-Varina, NC",
+                "url": "https://apm.activecommunities.com/wakeparks/Activity_Search/beech-bluff-county-park-storywalk-2026-self-led/8358?locale=en-US",
+                "cost": "Free",
+                "lat": 35.58537279715877,
+                "lon": -78.6793341971644,
+                "ages": null,
+                "registration": false,
+                "indoor": false,
+                "area": "south-wake",
+                "source": "wake-parks",
+                "dropIn": true
+              }
+            },
+            {
+              "ref": "place:gipson-play-plaza",
+              "arrive": "09:00",
+              "leave": "10:30",
+              "why": "A big destination playground gives your child plenty of room to climb, slide and run.",
+              "tips": [
+                "Bring a snack and water to keep play going.",
+                "Give a five-minute warning and a last slide before you leave."
+              ],
+              "interests": [
+                "movement"
+              ],
+              "also": [],
+              "area": "raleigh",
+              "outdoor": true,
+              "source": {
+                "kind": "park",
+                "title": "Gipson Play Plaza at Dix Park",
+                "address": "715 Biggs Dr, Raleigh, NC 27603",
+                "lat": 35.7667,
+                "lon": -78.6539,
+                "url": "https://dixpark.org/gipson-play-plaza",
+                "amenities": [
+                  "playground",
+                  "restroom"
+                ],
+                "indoor": false,
+                "area": "raleigh",
+                "hours": {
+                  "sun": "8 a.m.–9 p.m.",
+                  "mon": "8 a.m.–9 p.m.",
+                  "tue": "8 a.m.–9 p.m.",
+                  "wed": "8 a.m.–9 p.m.",
+                  "thu": "8 a.m.–9 p.m.",
+                  "fri": "8 a.m.–9 p.m.",
+                  "sat": "8 a.m.–9 p.m."
+                },
+                "cost": "Free",
+                "note": "Free; free parking. Big destination playground on the south edge of Dix Park."
+              }
+            }
+          ],
+          "rainBackup": null,
+          "timeline": [
+            {
+              "start": "07:00",
+              "end": "07:30",
+              "kind": "meal",
+              "title": "Up and breakfast"
+            },
+            {
+              "start": "07:30",
+              "end": "09:25",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "09:25",
+              "end": "09:45",
+              "kind": "routine",
+              "title": "Get ready to go",
+              "detail": "Shoes on, the bag, water and a snack."
+            },
+            {
+              "start": "09:45",
+              "end": "10:05",
+              "kind": "travel",
+              "title": "Drive to East Regional Library"
+            },
+            {
+              "start": "10:05",
+              "end": "11:00",
+              "kind": "outing",
+              "title": "Sproutsongs Music Together!"
+            },
+            {
+              "start": "11:00",
+              "end": "11:10",
+              "kind": "travel",
+              "title": "Drive to Knightdale Station Park"
+            },
+            {
+              "start": "11:10",
+              "end": "11:50",
+              "kind": "outing",
+              "title": "Knightdale Station Park"
+            },
+            {
+              "start": "11:50",
+              "end": "12:15",
+              "kind": "travel",
+              "title": "Drive home"
+            },
+            {
+              "start": "12:15",
+              "end": "12:45",
+              "kind": "meal",
+              "title": "Lunch"
+            },
+            {
+              "start": "12:45",
+              "end": "13:00",
+              "kind": "quiet",
+              "title": "Wind down",
+              "detail": "A couple of books to settle."
+            },
+            {
+              "start": "13:00",
+              "end": "14:30",
+              "kind": "nap",
+              "title": "Nap"
+            },
+            {
+              "start": "14:30",
+              "end": "14:50",
+              "kind": "routine",
+              "title": "Up and a snack"
+            },
+            {
+              "start": "14:50",
+              "end": "18:30",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "18:30",
+              "end": "19:15",
+              "kind": "meal",
+              "title": "Dinner"
+            },
+            {
+              "start": "19:15",
+              "end": "20:00",
+              "kind": "routine",
+              "title": "Bath, books and bed"
+            }
+          ]
+        },
+        {
+          "nap": "quiet",
+          "napLabel": "Quiet time, no sleep",
+          "headline": "Explore a nature park and playground",
+          "main": {
+            "ref": "place:blue-jay-point-county-park",
+            "arrive": "09:30",
+            "leave": "11:30",
+            "why": "Your child can wander the greenway, look for things in nature, and play on the playground. Plenty of time to run before quiet time at home.",
+            "tips": [
+              "Bring a snack and eat at the picnic shelter.",
+              "Let your child pick which way to walk on the greenway.",
+              "Name one last thing to do so leaving goes smoothly."
+            ],
+            "interests": [
+              "nature",
+              "movement"
+            ],
+            "also": [],
+            "area": "north-raleigh",
+            "outdoor": true,
+            "source": {
+              "kind": "park",
+              "title": "Blue Jay Point County Park",
+              "address": "3200 Pleasant Union Church Road, Raleigh, NC 27614",
+              "lat": 35.96762827199893,
+              "lon": -78.64454785104198,
+              "url": "https://www.wakegov.com/departments-government/parks-recreation-and-open-space/all-parks-trails/blue-jay-point-county-park",
+              "amenities": [
+                "playground",
+                "picnic-shelter",
+                "restroom",
+                "greenway",
+                "nature"
+              ],
+              "indoor": false,
+              "area": "north-raleigh",
+              "hours": null,
+              "cost": "Free"
+            }
+          },
+          "alternatives": [
+            {
+              "ref": "place:campus-hills-park",
+              "arrive": "09:30",
+              "leave": "12:00",
+              "why": "Start at Campus Hills Park, then join Total Tot Time at 10:00 am for a parachute and tunnels in the gym. A family needs to sign up first.",
+              "tips": [
+                "Bring water and a snack.",
+                "Let your child try each gym activity at {their} own pace."
+              ],
+              "interests": [
+                "movement"
+              ],
+              "also": [
+                {
+                  "ref": "event:durham-rec:20088:2026-12-09",
+                  "source": {
+                    "kind": "event",
+                    "title": "Total Tot Time",
+                    "start": "2026-12-09T10:00:00",
+                    "end": "2026-12-09T12:00:00",
+                    "venue": "I.R. Holmes, Sr. Rec Ctr",
+                    "address": "2000 S Alston Ave, Durham, NC",
+                    "url": "https://apm.activecommunities.com/dprplaymore/Activity_Search/total-tot-time/20088?locale=en-US",
+                    "cost": null,
+                    "lat": 35.9619,
+                    "lon": -78.8908,
+                    "ages": "1 - 6",
+                    "registration": "https://apm.activecommunities.com/dprplaymore/Activity_Search/total-tot-time/20088?locale=en-US",
+                    "indoor": true,
+                    "area": "durham",
+                    "source": "durham-rec",
+                    "dropIn": false
+                  }
+                }
+              ],
+              "area": "durham",
+              "outdoor": false,
+              "source": {
+                "kind": "park",
+                "title": "Campus Hills Park",
+                "address": "2000 S Alston Ave, Durham, NC",
+                "lat": 35.962475999999995,
+                "lon": -78.891791,
+                "url": "https://www.dprplaymore.org/Facilities/Facility/Details/Campus-Hills-Park-10",
+                "amenities": [
+                  "playground",
+                  "picnic-shelter"
+                ],
+                "indoor": false,
+                "area": "durham",
+                "hours": null,
+                "cost": "Free"
+              }
+            },
+            {
+              "ref": "event:wake-parks:8358:2026-12-09",
+              "arrive": "09:30",
+              "leave": "11:00",
+              "why": "Your child follows the StoryWalk and reads one page of the story at each stop.",
+              "tips": [
+                "Let your child run ahead to find the next page.",
+                "Bring a snack for the end of the loop."
+              ],
+              "interests": [
+                "stories",
+                "nature"
+              ],
+              "also": [],
+              "area": "south-wake",
+              "outdoor": true,
+              "source": {
+                "kind": "event",
+                "title": "Beech Bluff County Park StoryWalk® 2026 (Self-Led)",
+                "start": "2026-12-09T08:00:00",
+                "end": "2026-12-09T17:30:00",
+                "venue": "Beech Bluff County Park",
+                "address": "Beech Bluff Park Drive, Fuquay-Varina, NC",
+                "url": "https://apm.activecommunities.com/wakeparks/Activity_Search/beech-bluff-county-park-storywalk-2026-self-led/8358?locale=en-US",
+                "cost": "Free",
+                "lat": 35.58537279715877,
+                "lon": -78.6793341971644,
+                "ages": null,
+                "registration": false,
+                "indoor": false,
+                "area": "south-wake",
+                "source": "wake-parks",
+                "dropIn": true
+              }
+            },
+            {
+              "ref": "event:wake-parks:9476",
+              "arrive": "14:00",
+              "leave": "15:40",
+              "why": "Your child draws and notes what {they} see{s} outside at Nature Journaling for Kids at 2:00 pm, then plays at Jack Smith Park. A family needs to sign up.",
+              "tips": [
+                "Bring a few crayons for your child to use.",
+                "Let {them} draw one favorite thing, however it looks."
+              ],
+              "interests": [
+                "nature",
+                "art"
+              ],
+              "also": [
+                {
+                  "ref": "place:jack-smith-park",
+                  "source": {
+                    "kind": "park",
+                    "title": "Jack Smith Park",
+                    "address": "9725 Penny Road, Cary, NC",
+                    "lat": 35.71181466796333,
+                    "lon": -78.7659772347373,
+                    "url": "http://www.townofcary.org/recreation-enjoyment/parks-greenways-environment/parks/jack-smith-park",
+                    "amenities": [
+                      "playground",
+                      "picnic-shelter",
+                      "restroom",
+                      "greenway"
+                    ],
+                    "indoor": false,
+                    "area": "cary-apex",
+                    "hours": null,
+                    "cost": "Free"
+                  }
+                }
+              ],
+              "area": "cary-apex",
+              "outdoor": true,
+              "source": {
+                "kind": "event",
+                "title": "Nature Journaling for Kids",
+                "start": "2026-12-09T14:00:00",
+                "end": "2026-12-09T15:00:00",
+                "venue": "Crowder County Park",
+                "address": "4709 Ten Ten Road",
+                "url": "https://apm.activecommunities.com/wakeparks/Activity_Search/nature-journaling-for-kids/9476?locale=en-US",
+                "cost": "Free",
+                "lat": 35.69174392711247,
+                "lon": -78.76585678897689,
+                "ages": null,
+                "registration": "https://apm.activecommunities.com/wakeparks/Activity_Search/nature-journaling-for-kids/9476?locale=en-US",
+                "indoor": false,
+                "area": "cary-apex",
+                "source": "wake-parks",
+                "dropIn": false
+              }
+            },
+            {
+              "ref": "event:museum:ncma:6575",
+              "arrive": "10:25",
+              "leave": "11:50",
+              "why": "Your child enjoys Artful Story Time: Happy Hanukkah! at 10:30 am, then runs around at Laurel Hills Park.",
+              "tips": [
+                "Bring a snack for the park.",
+                "Ask your child what {they} noticed in the story on the way over."
+              ],
+              "interests": [
+                "stories",
+                "art"
+              ],
+              "also": [
+                {
+                  "ref": "place:laurel-hills-park",
+                  "source": {
+                    "kind": "park",
+                    "title": "Laurel Hills Park",
+                    "address": "3808 Edwards Mill Rd, Raleigh, NC 27612",
+                    "lat": 35.82986,
+                    "lon": -78.69733,
+                    "url": "https://raleighnc.gov/parks-and-recreation/places/laurel-hills-park",
+                    "amenities": [
+                      "community-center",
+                      "playground",
+                      "picnic-shelter",
+                      "courts",
+                      "fields"
+                    ],
+                    "indoor": false,
+                    "area": "raleigh",
+                    "hours": null,
+                    "cost": "Free"
+                  }
+                }
+              ],
+              "area": "raleigh",
+              "outdoor": false,
+              "source": {
+                "kind": "event",
+                "title": "Artful Story Time: Happy Hanukkah!",
+                "start": "2026-12-09T10:30:00",
+                "end": "2026-12-09T11:00:00",
+                "venue": "NC Museum of Art",
+                "address": "2110 Blue Ridge Rd, Raleigh, NC 27607",
+                "url": "https://ncartmuseum.org/event/artful-story-time-happy-hanukkah/",
+                "cost": "Museum and park admission is free",
+                "lat": 35.8105,
+                "lon": -78.7022,
+                "ages": "Families",
+                "registration": null,
+                "indoor": true,
+                "area": "raleigh",
+                "source": "museum",
+                "dropIn": false
+              }
+            }
+          ],
+          "rainBackup": null,
+          "timeline": [
+            {
+              "start": "07:00",
+              "end": "07:30",
+              "kind": "meal",
+              "title": "Up and breakfast"
+            },
+            {
+              "start": "07:30",
+              "end": "08:50",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "08:50",
+              "end": "09:10",
+              "kind": "routine",
+              "title": "Get ready to go",
+              "detail": "Shoes on, the bag, water and a snack."
+            },
+            {
+              "start": "09:10",
+              "end": "09:30",
+              "kind": "travel",
+              "title": "Drive to Blue Jay Point County Park"
+            },
+            {
+              "start": "09:30",
+              "end": "11:30",
+              "kind": "outing",
+              "title": "Blue Jay Point County Park"
+            },
+            {
+              "start": "11:30",
+              "end": "11:50",
+              "kind": "travel",
+              "title": "Drive home"
+            },
+            {
+              "start": "11:50",
+              "end": "12:20",
+              "kind": "meal",
+              "title": "Lunch"
+            },
+            {
+              "start": "12:20",
+              "end": "13:00",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "13:00",
+              "end": "13:45",
+              "kind": "quiet",
+              "title": "Quiet time",
+              "detail": "Books or quiet play in their room."
+            },
+            {
+              "start": "13:45",
+              "end": "18:00",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "18:00",
+              "end": "18:45",
+              "kind": "meal",
+              "title": "Dinner"
+            },
+            {
+              "start": "18:45",
+              "end": "19:30",
+              "kind": "routine",
+              "title": "Bath, books and bed"
+            }
+          ]
+        },
+        {
+          "nap": "no-nap",
+          "napLabel": "No nap",
+          "headline": "Make a story craft, then play at the park",
+          "main": {
+            "ref": "event:wake:25079",
+            "arrive": "14:00",
+            "leave": "15:50",
+            "why": "Your child listens to a story and makes a craft at Story & Craft at 2:00 pm, then plays at Fuquay-Varina Museums at Ashworth Park.",
+            "tips": [
+              "Bring a snack for the park.",
+              "Let your child choose the craft colors.",
+              "Leave in time to be home well before dinner."
+            ],
+            "interests": [
+              "stories",
+              "art",
+              "movement"
+            ],
+            "also": [
+              {
+                "ref": "place:fuquay-varina-museums-at-ashworth-park",
+                "source": {
+                  "kind": "park",
+                  "title": "Fuquay-Varina Museums at Ashworth Park",
+                  "address": "131 South Fuquay Avenue, Fuquay-Varina, NC",
+                  "lat": 35.58355770107221,
+                  "lon": -78.79818805961258,
+                  "url": "http://www.fuquay-varina.org/Facilities/Facility/Details/FuquayVarina-Museums-at-Ashworth-Park-14",
+                  "amenities": [
+                    "playground",
+                    "greenway"
+                  ],
+                  "indoor": false,
+                  "area": "south-wake",
+                  "hours": null,
+                  "cost": "Free"
+                }
+              }
+            ],
+            "area": "south-wake",
+            "outdoor": false,
+            "source": {
+              "kind": "event",
+              "title": "Story & Craft",
+              "start": "2026-12-09T14:00:00-05:00",
+              "end": "2026-12-09T15:00:00-05:00",
+              "venue": "Fuquay-Varina Community Library",
+              "address": "271 Bramblehill Drive, Fuquay-Varina, NC",
+              "url": "https://www.wake.gov/events/story-craft-0",
+              "cost": "Free",
+              "lat": 35.5850617253451,
+              "lon": -78.7802518504044,
+              "ages": "Young Children",
+              "registration": null,
+              "indoor": true,
+              "area": "south-wake",
+              "source": "wake-county",
+              "dropIn": false
+            }
+          },
+          "alternatives": [
+            {
+              "ref": "place:hillside-park",
+              "arrive": "09:30",
+              "leave": "12:00",
+              "why": "Start at Hillside Park, then join Total Tot Time at 10:00 am to play with a parachute and tunnels. A family needs to sign up first.",
+              "tips": [
+                "Bring water and a snack.",
+                "Let your child take breaks from the gym games."
+              ],
+              "interests": [
+                "movement"
+              ],
+              "also": [
+                {
+                  "ref": "event:durham-rec:19772:2026-12-09",
+                  "source": {
+                    "kind": "event",
+                    "title": "Total Tot Time",
+                    "start": "2026-12-09T10:00:00",
+                    "end": "2026-12-09T12:00:00",
+                    "venue": "W.D. Hill Rec Ctr",
+                    "address": "1308 Fayetteville St, Durham, NC",
+                    "url": "https://apm.activecommunities.com/dprplaymore/Activity_Search/total-tot-time/19772?locale=en-US",
+                    "cost": null,
+                    "lat": 35.9797,
+                    "lon": -78.8985,
+                    "ages": "1 - 6",
+                    "registration": "https://apm.activecommunities.com/dprplaymore/Activity_Search/total-tot-time/19772?locale=en-US",
+                    "indoor": true,
+                    "area": "durham",
+                    "source": "durham-rec",
+                    "dropIn": false
+                  }
+                }
+              ],
+              "area": "durham",
+              "outdoor": false,
+              "source": {
+                "kind": "park",
+                "title": "Hillside Park",
+                "address": "1301 S Roxboro St, Durham, NC",
+                "lat": 35.98093222222222,
+                "lon": -78.90178333333333,
+                "url": "https://www.dprplaymore.org/Facilities/Facility/Details/Hillside-Park-32",
+                "amenities": [
+                  "playground",
+                  "splashpad",
+                  "pool",
+                  "picnic-shelter",
+                  "restroom"
+                ],
+                "indoor": false,
+                "area": "durham",
+                "hours": null,
+                "cost": "Free"
+              }
+            },
+            {
+              "ref": "event:wake-parks:9476",
+              "arrive": "14:00",
+              "leave": "15:40",
+              "why": "Your child draws and notes what {they} see{s} outside at Nature Journaling for Kids at 2:00 pm, then plays at Jack Smith Park. A family needs to sign up.",
+              "tips": [
+                "Bring crayons or a pencil for your child.",
+                "Let {them} pick what to draw."
+              ],
+              "interests": [
+                "nature",
+                "art"
+              ],
+              "also": [
+                {
+                  "ref": "place:jack-smith-park",
+                  "source": {
+                    "kind": "park",
+                    "title": "Jack Smith Park",
+                    "address": "9725 Penny Road, Cary, NC",
+                    "lat": 35.71181466796333,
+                    "lon": -78.7659772347373,
+                    "url": "http://www.townofcary.org/recreation-enjoyment/parks-greenways-environment/parks/jack-smith-park",
+                    "amenities": [
+                      "playground",
+                      "picnic-shelter",
+                      "restroom",
+                      "greenway"
+                    ],
+                    "indoor": false,
+                    "area": "cary-apex",
+                    "hours": null,
+                    "cost": "Free"
+                  }
+                }
+              ],
+              "area": "cary-apex",
+              "outdoor": true,
+              "source": {
+                "kind": "event",
+                "title": "Nature Journaling for Kids",
+                "start": "2026-12-09T14:00:00",
+                "end": "2026-12-09T15:00:00",
+                "venue": "Crowder County Park",
+                "address": "4709 Ten Ten Road",
+                "url": "https://apm.activecommunities.com/wakeparks/Activity_Search/nature-journaling-for-kids/9476?locale=en-US",
+                "cost": "Free",
+                "lat": 35.69174392711247,
+                "lon": -78.76585678897689,
+                "ages": null,
+                "registration": "https://apm.activecommunities.com/wakeparks/Activity_Search/nature-journaling-for-kids/9476?locale=en-US",
+                "indoor": false,
+                "area": "cary-apex",
+                "source": "wake-parks",
+                "dropIn": false
+              }
+            },
+            {
+              "ref": "event:wake:25116",
+              "arrive": "10:05",
+              "leave": "11:50",
+              "why": "Your child sings, dances and plays instruments at Sproutsongs Music Together! at 10:15 am, then plays at Knightdale Station Park.",
+              "tips": [
+                "Bring a snack for the park.",
+                "Join in the silly parts, since your child will copy you."
+              ],
+              "interests": [
+                "music",
+                "movement"
+              ],
+              "also": [
+                {
+                  "ref": "place:knightdale-station-park",
+                  "source": {
+                    "kind": "park",
+                    "title": "Knightdale Station Park",
+                    "address": "810 North First Avenue, Knightdale, NC",
+                    "lat": 35.795776739559024,
+                    "lon": -78.47584503817626,
+                    "url": "https://www.knightdalenc.gov/knightdalestationpark",
+                    "amenities": [
+                      "playground",
+                      "picnic-shelter",
+                      "greenway"
+                    ],
+                    "indoor": false,
+                    "area": "east-wake",
+                    "hours": null,
+                    "cost": "Free"
+                  }
+                }
+              ],
+              "area": "east-wake",
+              "outdoor": false,
+              "source": {
+                "kind": "event",
+                "title": "Sproutsongs Music Together!",
+                "start": "2026-12-09T10:15:00-05:00",
+                "end": "2026-12-09T11:00:00-05:00",
+                "venue": "East Regional Library",
+                "address": "946 Steeple Square Court, Knightdale, NC",
+                "url": "https://www.wake.gov/events/sproutsongs-music-together-2",
+                "cost": "Free",
+                "lat": 35.8028243321954,
+                "lon": -78.487155767495,
+                "ages": "Young Children",
+                "registration": null,
+                "indoor": true,
+                "area": "east-wake",
+                "source": "wake-county",
+                "dropIn": false
+              }
+            },
+            {
+              "ref": "place:gipson-play-plaza",
+              "arrive": "09:30",
+              "leave": "11:30",
+              "why": "A big playground where your child can climb, slide and run.",
+              "tips": [
+                "Bring a snack and water.",
+                "Give a five-minute warning before you leave."
+              ],
+              "interests": [
+                "movement"
+              ],
+              "also": [],
+              "area": "raleigh",
+              "outdoor": true,
+              "source": {
+                "kind": "park",
+                "title": "Gipson Play Plaza at Dix Park",
+                "address": "715 Biggs Dr, Raleigh, NC 27603",
+                "lat": 35.7667,
+                "lon": -78.6539,
+                "url": "https://dixpark.org/gipson-play-plaza",
+                "amenities": [
+                  "playground",
+                  "restroom"
+                ],
+                "indoor": false,
+                "area": "raleigh",
+                "hours": {
+                  "sun": "8 a.m.–9 p.m.",
+                  "mon": "8 a.m.–9 p.m.",
+                  "tue": "8 a.m.–9 p.m.",
+                  "wed": "8 a.m.–9 p.m.",
+                  "thu": "8 a.m.–9 p.m.",
+                  "fri": "8 a.m.–9 p.m.",
+                  "sat": "8 a.m.–9 p.m."
+                },
+                "cost": "Free",
+                "note": "Free; free parking. Big destination playground on the south edge of Dix Park."
+              }
+            }
+          ],
+          "rainBackup": null,
+          "timeline": [
+            {
+              "start": "07:00",
+              "end": "07:30",
+              "kind": "meal",
+              "title": "Up and breakfast"
+            },
+            {
+              "start": "07:30",
+              "end": "11:45",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "11:45",
+              "end": "12:15",
+              "kind": "meal",
+              "title": "Lunch"
+            },
+            {
+              "start": "12:15",
+              "end": "13:20",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "13:20",
+              "end": "13:40",
+              "kind": "routine",
+              "title": "Get ready to go",
+              "detail": "Shoes on, the bag, water and a snack."
+            },
+            {
+              "start": "13:40",
+              "end": "14:00",
+              "kind": "travel",
+              "title": "Drive to Fuquay-Varina Community Library"
+            },
+            {
+              "start": "14:00",
+              "end": "15:00",
+              "kind": "outing",
+              "title": "Story & Craft"
+            },
+            {
+              "start": "15:00",
+              "end": "15:10",
+              "kind": "travel",
+              "title": "Drive to Fuquay-Varina Museums at Ashworth Park"
+            },
+            {
+              "start": "15:10",
+              "end": "15:50",
+              "kind": "outing",
+              "title": "Fuquay-Varina Museums at Ashworth Park"
+            },
+            {
+              "start": "15:50",
+              "end": "16:10",
+              "kind": "travel",
+              "title": "Drive home"
+            },
+            {
+              "start": "16:10",
+              "end": "18:00",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "18:00",
+              "end": "18:45",
+              "kind": "meal",
+              "title": "Dinner"
+            },
+            {
+              "start": "18:45",
+              "end": "19:30",
+              "kind": "routine",
+              "title": "Bath, books and bed"
+            }
+          ]
+        }
+      ],
+      "dropped": [
+        "[nap] alternative event:libcal:durham-county-library:17735866 Fun Songs with Tom Clark is for Baby, Pre-School, Toddler",
+        "[nap] alternative event:libcal:durham-county-library:17735866 says \"his\"; the child is {they}, {them} or {their}, anyone else by name or role: \"Your child sings and dances with Tom Clark and his guitar at 11:00 am, then plays at Old Chapel Hill Road Park.\""
+      ]
+    }
+  ],
+  "checked": {
+    "at": "2026-11-27T11:03:45.006Z",
+    "forecast": "none",
+    "weather": null,
+    "hidden": []
+  }
+}

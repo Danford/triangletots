@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Triangle Tots//triangletots.com//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:2026-12-10-kids-discover-nature-when-winter-comes-at-harris-lake-county
+ -1030-1200@triangletots.com
+DTSTAMP:20261127T100000Z
+DTSTART:20261210T153000Z
+DTEND:20261210T170000Z
+SUMMARY:Kids Discover Nature: When Winter Comes at Harris Lake County Park
+LOCATION:2112 County Park Dr.\, New Hill\, NC  27562
+DESCRIPTION:Sign up first.\nhttps://www.wakegov.com/departments-government/
+ parks-recreation-and-open-space/all-parks-trails/harris-lake-county-park\n
+ https://apm.activecommunities.com/wakeparks/Activity_Search/kids-discover-
+ nature-when-winter-comes/9303?locale=en-US\nThe whole day: https://triangl
+ etots.com/2026-12-10/t3/\nTimes and details can change. Check the event or
+  place before you go.
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,987 @@
+{
+  "date": "2026-12-09",
+  "band": "t2",
+  "versions": [
+    {
+      "at": "2026-11-26T19:07:17.540Z",
+      "reason": null,
+      "forecast": "none",
+      "weather": null,
+      "plans": [
+        {
+          "nap": "early-nap",
+          "napLabel": "One nap, 12 to 2",
+          "headline": "Run the playground, then sing and shake instruments",
+          "main": {
+            "ref": "place:harper-park",
+            "arrive": "09:45",
+            "leave": "11:00",
+            "why": "Your child warms up on the playground, then joins Sproutsongs Music Together at East Regional Library to sing, dance and play instruments.",
+            "tips": [
+              "Let {them} burn off energy first so sitting for songs feels easy.",
+              "Have a snack ready for the car ride home so leaving goes smoothly."
+            ],
+            "interests": [
+              "music",
+              "movement"
+            ],
+            "also": [
+              {
+                "ref": "event:wake:25116",
+                "source": {
+                  "kind": "event",
+                  "title": "Sproutsongs Music Together!",
+                  "start": "2026-12-09T10:15:00-05:00",
+                  "end": "2026-12-09T11:00:00-05:00",
+                  "venue": "East Regional Library",
+                  "address": "946 Steeple Square Court, Knightdale, NC",
+                  "url": "https://www.wake.gov/events/sproutsongs-music-together-2",
+                  "cost": "Free",
+                  "lat": 35.8028243321954,
+                  "lon": -78.487155767495,
+                  "ages": "Young Children",
+                  "registration": null,
+                  "indoor": true,
+                  "area": "east-wake",
+                  "source": "wake-county",
+                  "dropIn": false
+                }
+              }
+            ],
+            "area": "east-wake",
+            "outdoor": false,
+            "source": {
+              "kind": "park",
+              "title": "Harper Park",
+              "address": "207 Main St, Knightdale, NC",
+              "lat": 35.790229270785545,
+              "lon": -78.48288796000294,
+              "url": "https://www.knightdalenc.gov/harperpark",
+              "amenities": [
+                "playground",
+                "picnic-shelter",
+                "restroom"
+              ],
+              "indoor": false,
+              "area": "east-wake",
+              "hours": null,
+              "cost": "Free"
+            }
+          },
+          "alternatives": [
+            {
+              "ref": "place:ncma-museum-park",
+              "arrive": "10:00",
+              "leave": "11:00",
+              "why": "Your child explores the lawns and big outdoor art, then hears the Hanukkah story at NC Museum of Art's Artful Story Time.",
+              "tips": [
+                "Let {them} point out shapes and colors in the art.",
+                "Tell {them} when the story starts so the walk ends easily."
+              ],
+              "interests": [
+                "art",
+                "stories",
+                "nature"
+              ],
+              "also": [
+                {
+                  "ref": "event:museum:ncma:6575",
+                  "source": {
+                    "kind": "event",
+                    "title": "Artful Story Time: Happy Hanukkah!",
+                    "start": "2026-12-09T10:30:00",
+                    "end": "2026-12-09T11:00:00",
+                    "venue": "NC Museum of Art",
+                    "address": "2110 Blue Ridge Rd, Raleigh, NC 27607",
+                    "url": "https://ncartmuseum.org/event/artful-story-time-happy-hanukkah/",
+                    "cost": "Museum and park admission is free",
+                    "lat": 35.8105,
+                    "lon": -78.7022,
+                    "ages": "Families",
+                    "registration": null,
+                    "indoor": true,
+                    "area": "raleigh",
+                    "source": "museum",
+                    "dropIn": false
+                  }
+                }
+              ],
+              "area": "raleigh",
+              "outdoor": false,
+              "source": {
+                "kind": "garden",
+                "title": "NC Museum of Art Museum Park",
+                "address": "2110 Blue Ridge Rd, Raleigh, NC 27607",
+                "lat": 35.8105,
+                "lon": -78.7022,
+                "url": "https://ncartmuseum.org/museum-park/",
+                "amenities": [
+                  "garden",
+                  "nature",
+                  "greenway",
+                  "restroom"
+                ],
+                "indoor": false,
+                "area": "raleigh",
+                "hours": {
+                  "sun": "dawn to dusk",
+                  "mon": "dawn to dusk",
+                  "tue": "dawn to dusk",
+                  "wed": "dawn to dusk",
+                  "thu": "dawn to dusk",
+                  "fri": "dawn to dusk",
+                  "sat": "dawn to dusk"
+                },
+                "cost": "Free",
+                "note": "Free. 164 acres of trails, lawns and big outdoor art; the Capital Area Greenway runs through."
+              }
+            },
+            {
+              "ref": "event:wake-parks:8358:2026-12-09",
+              "arrive": "09:00",
+              "leave": "10:30",
+              "why": "Your toddler walks the StoryWalk loop and reads the story one page at a time.",
+              "tips": [
+                "Let {them} lead from page to page and stop to look as long as {they} like{s}.",
+                "Bring a snack for the end of the loop."
+              ],
+              "interests": [
+                "stories",
+                "nature",
+                "movement"
+              ],
+              "also": [],
+              "area": "south-wake",
+              "outdoor": true,
+              "source": {
+                "kind": "event",
+                "title": "Beech Bluff County Park StoryWalk® 2026 (Self-Led)",
+                "start": "2026-12-09T08:00:00",
+                "end": "2026-12-09T17:30:00",
+                "venue": "Beech Bluff County Park",
+                "address": "Beech Bluff Park Drive, Fuquay-Varina, NC",
+                "url": "https://apm.activecommunities.com/wakeparks/Activity_Search/beech-bluff-county-park-storywalk-2026-self-led/8358?locale=en-US",
+                "cost": "Free",
+                "lat": 35.58537279715877,
+                "lon": -78.6793341971644,
+                "ages": null,
+                "registration": false,
+                "indoor": false,
+                "area": "south-wake",
+                "source": "wake-parks",
+                "dropIn": true
+              }
+            },
+            {
+              "ref": "place:nc-botanical-garden",
+              "arrive": "09:30",
+              "leave": "11:00",
+              "why": "Your child wanders the display gardens and the forest trails behind them at {their} own pace.",
+              "tips": [
+                "Bring a carrier or stroller for tired legs.",
+                "Give {them} a job, like finding the biggest leaf."
+              ],
+              "interests": [
+                "nature",
+                "movement"
+              ],
+              "also": [],
+              "area": "chapel-hill",
+              "outdoor": true,
+              "source": {
+                "kind": "garden",
+                "title": "NC Botanical Garden",
+                "address": "100 Old Mason Farm Rd, Chapel Hill, NC 27517",
+                "lat": 35.9011,
+                "lon": -79.0319,
+                "url": "https://ncbg.unc.edu/visit/",
+                "amenities": [
+                  "garden",
+                  "nature",
+                  "restroom"
+                ],
+                "indoor": false,
+                "area": "chapel-hill",
+                "cost": "Free",
+                "note": "Free. Display gardens, and nature trails through the forest behind them."
+              }
+            },
+            {
+              "ref": "place:apex-nature-park",
+              "arrive": "09:30",
+              "leave": "11:00",
+              "why": "Your child follows the greenway and looks for leaves, sticks and acorns, with a picnic shelter for a snack.",
+              "tips": [
+                "Bring a small bag for treasures.",
+                "Snack at the picnic shelter before you head home."
+              ],
+              "interests": [
+                "nature",
+                "movement"
+              ],
+              "also": [],
+              "area": "cary-apex",
+              "outdoor": true,
+              "source": {
+                "kind": "park",
+                "title": "Apex Nature Park",
+                "address": "2600 Evans Rd., Apex, NC",
+                "lat": 35.71709646233568,
+                "lon": -78.90520368087866,
+                "url": "https://www.apexnc.org/800/Nature-Park-Seymour-Athletic-Fields",
+                "amenities": [
+                  "picnic-shelter",
+                  "restroom",
+                  "greenway",
+                  "nature"
+                ],
+                "indoor": false,
+                "area": "cary-apex",
+                "hours": null,
+                "cost": "Free"
+              }
+            }
+          ],
+          "rainBackup": null,
+          "timeline": [
+            {
+              "start": "07:00",
+              "end": "07:30",
+              "kind": "meal",
+              "title": "Up and breakfast"
+            },
+            {
+              "start": "07:30",
+              "end": "09:05",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "09:05",
+              "end": "09:25",
+              "kind": "routine",
+              "title": "Get ready to go",
+              "detail": "Shoes on, the bag, water and a snack."
+            },
+            {
+              "start": "09:25",
+              "end": "09:45",
+              "kind": "travel",
+              "title": "Drive to Harper Park"
+            },
+            {
+              "start": "09:45",
+              "end": "10:05",
+              "kind": "outing",
+              "title": "Harper Park"
+            },
+            {
+              "start": "10:05",
+              "end": "10:15",
+              "kind": "travel",
+              "title": "Drive to East Regional Library"
+            },
+            {
+              "start": "10:15",
+              "end": "11:00",
+              "kind": "outing",
+              "title": "Sproutsongs Music Together!"
+            },
+            {
+              "start": "11:00",
+              "end": "11:20",
+              "kind": "travel",
+              "title": "Drive home"
+            },
+            {
+              "start": "11:20",
+              "end": "11:50",
+              "kind": "meal",
+              "title": "Lunch"
+            },
+            {
+              "start": "11:50",
+              "end": "12:00",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "12:00",
+              "end": "14:00",
+              "kind": "nap",
+              "title": "Nap"
+            },
+            {
+              "start": "14:00",
+              "end": "14:20",
+              "kind": "routine",
+              "title": "Up and a snack"
+            },
+            {
+              "start": "14:20",
+              "end": "18:00",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "18:00",
+              "end": "18:45",
+              "kind": "meal",
+              "title": "Dinner"
+            },
+            {
+              "start": "18:45",
+              "end": "19:30",
+              "kind": "routine",
+              "title": "Bath, books and bed"
+            }
+          ]
+        },
+        {
+          "nap": "late-nap",
+          "napLabel": "One nap, 1 to 3",
+          "headline": "Explore big outdoor art, then a Hanukkah story",
+          "main": {
+            "ref": "place:ncma-museum-park",
+            "arrive": "10:00",
+            "leave": "11:00",
+            "why": "Your child runs on the lawns and trails and sees big outdoor art, then hears the Hanukkah story at NC Museum of Art's Artful Story Time.",
+            "tips": [
+              "Let {them} stretch {their} legs before story time.",
+              "Bring a snack for after the story."
+            ],
+            "interests": [
+              "art",
+              "stories",
+              "nature"
+            ],
+            "also": [
+              {
+                "ref": "event:museum:ncma:6575",
+                "source": {
+                  "kind": "event",
+                  "title": "Artful Story Time: Happy Hanukkah!",
+                  "start": "2026-12-09T10:30:00",
+                  "end": "2026-12-09T11:00:00",
+                  "venue": "NC Museum of Art",
+                  "address": "2110 Blue Ridge Rd, Raleigh, NC 27607",
+                  "url": "https://ncartmuseum.org/event/artful-story-time-happy-hanukkah/",
+                  "cost": "Museum and park admission is free",
+                  "lat": 35.8105,
+                  "lon": -78.7022,
+                  "ages": "Families",
+                  "registration": null,
+                  "indoor": true,
+                  "area": "raleigh",
+                  "source": "museum",
+                  "dropIn": false
+                }
+              }
+            ],
+            "area": "raleigh",
+            "outdoor": false,
+            "source": {
+              "kind": "garden",
+              "title": "NC Museum of Art Museum Park",
+              "address": "2110 Blue Ridge Rd, Raleigh, NC 27607",
+              "lat": 35.8105,
+              "lon": -78.7022,
+              "url": "https://ncartmuseum.org/museum-park/",
+              "amenities": [
+                "garden",
+                "nature",
+                "greenway",
+                "restroom"
+              ],
+              "indoor": false,
+              "area": "raleigh",
+              "hours": {
+                "sun": "dawn to dusk",
+                "mon": "dawn to dusk",
+                "tue": "dawn to dusk",
+                "wed": "dawn to dusk",
+                "thu": "dawn to dusk",
+                "fri": "dawn to dusk",
+                "sat": "dawn to dusk"
+              },
+              "cost": "Free",
+              "note": "Free. 164 acres of trails, lawns and big outdoor art; the Capital Area Greenway runs through."
+            }
+          },
+          "alternatives": [
+            {
+              "ref": "event:wake-parks:8358:2026-12-09",
+              "arrive": "09:00",
+              "leave": "10:30",
+              "why": "Your toddler walks the StoryWalk loop and reads the story one page at a time.",
+              "tips": [
+                "Let {them} choose how fast to go.",
+                "Bring a snack for the end of the loop."
+              ],
+              "interests": [
+                "stories",
+                "nature",
+                "movement"
+              ],
+              "also": [],
+              "area": "south-wake",
+              "outdoor": true,
+              "source": {
+                "kind": "event",
+                "title": "Beech Bluff County Park StoryWalk® 2026 (Self-Led)",
+                "start": "2026-12-09T08:00:00",
+                "end": "2026-12-09T17:30:00",
+                "venue": "Beech Bluff County Park",
+                "address": "Beech Bluff Park Drive, Fuquay-Varina, NC",
+                "url": "https://apm.activecommunities.com/wakeparks/Activity_Search/beech-bluff-county-park-storywalk-2026-self-led/8358?locale=en-US",
+                "cost": "Free",
+                "lat": 35.58537279715877,
+                "lon": -78.6793341971644,
+                "ages": null,
+                "registration": false,
+                "indoor": false,
+                "area": "south-wake",
+                "source": "wake-parks",
+                "dropIn": true
+              }
+            },
+            {
+              "ref": "place:blue-jay-point-county-park",
+              "arrive": "09:30",
+              "leave": "11:30",
+              "why": "Your child plays on the playground and walks the greenway.",
+              "tips": [
+                "Bring a snack for the picnic shelter.",
+                "Give a ten-minute warning before leaving."
+              ],
+              "interests": [
+                "nature",
+                "movement"
+              ],
+              "also": [],
+              "area": "north-raleigh",
+              "outdoor": true,
+              "source": {
+                "kind": "park",
+                "title": "Blue Jay Point County Park",
+                "address": "3200 Pleasant Union Church Road, Raleigh, NC 27614",
+                "lat": 35.96762827199893,
+                "lon": -78.64454785104198,
+                "url": "https://www.wakegov.com/departments-government/parks-recreation-and-open-space/all-parks-trails/blue-jay-point-county-park",
+                "amenities": [
+                  "playground",
+                  "picnic-shelter",
+                  "restroom",
+                  "greenway",
+                  "nature"
+                ],
+                "indoor": false,
+                "area": "north-raleigh",
+                "hours": null,
+                "cost": "Free"
+              }
+            },
+            {
+              "ref": "place:apex-community-park",
+              "arrive": "09:15",
+              "leave": "10:45",
+              "why": "Your child has a playground morning with the greenway close by for a walk.",
+              "tips": [
+                "Bring a ball or bubbles for {them} to chase.",
+                "Snack at the picnic shelter before heading home."
+              ],
+              "interests": [
+                "movement",
+                "nature"
+              ],
+              "also": [],
+              "area": "cary-apex",
+              "outdoor": true,
+              "source": {
+                "kind": "park",
+                "title": "Apex Community Park",
+                "address": "2200 Laura Duncan Rd., Apex, NC",
+                "lat": 35.75461588131496,
+                "lon": -78.82862025650613,
+                "url": "http://www.apexnc.org/795/Apex-Community-Park",
+                "amenities": [
+                  "playground",
+                  "picnic-shelter",
+                  "restroom",
+                  "greenway"
+                ],
+                "indoor": false,
+                "area": "cary-apex",
+                "hours": null,
+                "cost": "Free"
+              }
+            }
+          ],
+          "rainBackup": null,
+          "timeline": [
+            {
+              "start": "07:00",
+              "end": "07:30",
+              "kind": "meal",
+              "title": "Up and breakfast"
+            },
+            {
+              "start": "07:30",
+              "end": "09:20",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "09:20",
+              "end": "09:40",
+              "kind": "routine",
+              "title": "Get ready to go",
+              "detail": "Shoes on, the bag, water and a snack."
+            },
+            {
+              "start": "09:40",
+              "end": "10:00",
+              "kind": "travel",
+              "title": "Drive to NC Museum of Art Museum Park"
+            },
+            {
+              "start": "10:00",
+              "end": "10:20",
+              "kind": "outing",
+              "title": "NC Museum of Art Museum Park"
+            },
+            {
+              "start": "10:20",
+              "end": "10:30",
+              "kind": "travel",
+              "title": "Walk to NC Museum of Art"
+            },
+            {
+              "start": "10:30",
+              "end": "11:00",
+              "kind": "outing",
+              "title": "Artful Story Time: Happy Hanukkah!"
+            },
+            {
+              "start": "11:00",
+              "end": "11:10",
+              "kind": "travel",
+              "title": "Walk back to the car"
+            },
+            {
+              "start": "11:10",
+              "end": "11:30",
+              "kind": "travel",
+              "title": "Drive home"
+            },
+            {
+              "start": "11:30",
+              "end": "12:15",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "12:15",
+              "end": "12:45",
+              "kind": "meal",
+              "title": "Lunch"
+            },
+            {
+              "start": "12:45",
+              "end": "13:00",
+              "kind": "quiet",
+              "title": "Wind down",
+              "detail": "A couple of books to settle."
+            },
+            {
+              "start": "13:00",
+              "end": "15:00",
+              "kind": "nap",
+              "title": "Nap"
+            },
+            {
+              "start": "15:00",
+              "end": "15:20",
+              "kind": "routine",
+              "title": "Up and a snack"
+            },
+            {
+              "start": "15:20",
+              "end": "18:30",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "18:30",
+              "end": "19:15",
+              "kind": "meal",
+              "title": "Dinner"
+            },
+            {
+              "start": "19:15",
+              "end": "20:00",
+              "kind": "routine",
+              "title": "Bath, books and bed"
+            }
+          ]
+        },
+        {
+          "nap": "short-nap",
+          "napLabel": "Short nap, 1 to 2",
+          "headline": "Parachute, tunnels and a playground morning",
+          "main": {
+            "ref": "place:hillside-park",
+            "arrive": "09:30",
+            "leave": "11:20",
+            "why": "Your child plays at Hillside Park, then crawls through tunnels and plays with a parachute at Total Tot Time in the W.D. Hill gym. A family needs to sign up.",
+            "tips": [
+              "Sign up ahead of time.",
+              "Let {them} play outside first, then bring {them} in for the gym.",
+              "Pack a snack and water for the drive home."
+            ],
+            "interests": [
+              "movement",
+              "nature"
+            ],
+            "also": [
+              {
+                "ref": "event:durham-rec:19772:2026-12-09",
+                "source": {
+                  "kind": "event",
+                  "title": "Total Tot Time",
+                  "start": "2026-12-09T10:00:00",
+                  "end": "2026-12-09T12:00:00",
+                  "venue": "W.D. Hill Rec Ctr",
+                  "address": "1308 Fayetteville St, Durham, NC",
+                  "url": "https://apm.activecommunities.com/dprplaymore/Activity_Search/total-tot-time/19772?locale=en-US",
+                  "cost": null,
+                  "lat": 35.9797,
+                  "lon": -78.8985,
+                  "ages": "1 - 6",
+                  "registration": "https://apm.activecommunities.com/dprplaymore/Activity_Search/total-tot-time/19772?locale=en-US",
+                  "indoor": true,
+                  "area": "durham",
+                  "source": "durham-rec",
+                  "dropIn": false
+                }
+              }
+            ],
+            "area": "durham",
+            "outdoor": false,
+            "source": {
+              "kind": "park",
+              "title": "Hillside Park",
+              "address": "1301 S Roxboro St, Durham, NC",
+              "lat": 35.98093222222222,
+              "lon": -78.90178333333333,
+              "url": "https://www.dprplaymore.org/Facilities/Facility/Details/Hillside-Park-32",
+              "amenities": [
+                "playground",
+                "splashpad",
+                "pool",
+                "picnic-shelter",
+                "restroom"
+              ],
+              "indoor": false,
+              "area": "durham",
+              "hours": null,
+              "cost": "Free"
+            }
+          },
+          "alternatives": [
+            {
+              "ref": "place:pullen-park-amusements",
+              "arrive": "14:30",
+              "leave": "16:30",
+              "why": "Your child rides the carousel and the train and plays on the playground.",
+              "tips": [
+                "Let {them} pick one ride to start.",
+                "Bring a snack for a break between rides."
+              ],
+              "interests": [
+                "vehicles",
+                "movement"
+              ],
+              "also": [],
+              "area": "raleigh",
+              "outdoor": true,
+              "source": {
+                "kind": "park",
+                "title": "Pullen Park Amusements",
+                "address": "410 Park Ave, Raleigh, NC 27606",
+                "lat": 35.7806,
+                "lon": -78.66396,
+                "url": "https://raleighnc.gov/parks-and-recreation/places/pullen-park-amusements",
+                "amenities": [
+                  "carousel",
+                  "boating",
+                  "train",
+                  "amusements",
+                  "courts",
+                  "playground",
+                  "picnic-shelter"
+                ],
+                "indoor": false,
+                "area": "raleigh",
+                "hours": {
+                  "mon": "10 a.m.–6 p.m.",
+                  "tue": "10 a.m.–6 p.m.",
+                  "wed": "10 a.m.–6 p.m.",
+                  "thu": "10 a.m.–6 p.m.",
+                  "fri": "10 a.m.–6 p.m.",
+                  "sat": "10 a.m.–6 p.m.",
+                  "sun": "10 a.m.–6 p.m."
+                },
+                "cost": "Free to get in; rides $2 a ticket"
+              }
+            },
+            {
+              "ref": "place:harper-park",
+              "arrive": "09:45",
+              "leave": "11:00",
+              "why": "Your child plays on the playground, then sings, dances and plays instruments at Sproutsongs Music Together at East Regional Library.",
+              "tips": [
+                "Play first so sitting for songs feels easy.",
+                "Have a snack ready for the ride home."
+              ],
+              "interests": [
+                "music",
+                "movement"
+              ],
+              "also": [
+                {
+                  "ref": "event:wake:25116",
+                  "source": {
+                    "kind": "event",
+                    "title": "Sproutsongs Music Together!",
+                    "start": "2026-12-09T10:15:00-05:00",
+                    "end": "2026-12-09T11:00:00-05:00",
+                    "venue": "East Regional Library",
+                    "address": "946 Steeple Square Court, Knightdale, NC",
+                    "url": "https://www.wake.gov/events/sproutsongs-music-together-2",
+                    "cost": "Free",
+                    "lat": 35.8028243321954,
+                    "lon": -78.487155767495,
+                    "ages": "Young Children",
+                    "registration": null,
+                    "indoor": true,
+                    "area": "east-wake",
+                    "source": "wake-county",
+                    "dropIn": false
+                  }
+                }
+              ],
+              "area": "east-wake",
+              "outdoor": false,
+              "source": {
+                "kind": "park",
+                "title": "Harper Park",
+                "address": "207 Main St, Knightdale, NC",
+                "lat": 35.790229270785545,
+                "lon": -78.48288796000294,
+                "url": "https://www.knightdalenc.gov/harperpark",
+                "amenities": [
+                  "playground",
+                  "picnic-shelter",
+                  "restroom"
+                ],
+                "indoor": false,
+                "area": "east-wake",
+                "hours": null,
+                "cost": "Free"
+              }
+            },
+            {
+              "ref": "place:harris-lake-county-park",
+              "arrive": "15:00",
+              "leave": "16:45",
+              "why": "Your child explores the nature areas and playground in the afternoon.",
+              "tips": [
+                "Bring a snack for a picnic break.",
+                "Plan to head out well before sunset."
+              ],
+              "interests": [
+                "nature",
+                "movement"
+              ],
+              "also": [],
+              "area": "south-wake",
+              "outdoor": true,
+              "source": {
+                "kind": "park",
+                "title": "Harris Lake County Park",
+                "address": "2112 County Park Dr., New Hill, NC  27562",
+                "lat": 35.63024208800726,
+                "lon": -78.91757987745865,
+                "url": "https://www.wakegov.com/departments-government/parks-recreation-and-open-space/all-parks-trails/harris-lake-county-park",
+                "amenities": [
+                  "playground",
+                  "picnic-shelter",
+                  "restroom",
+                  "greenway",
+                  "nature"
+                ],
+                "indoor": false,
+                "area": "south-wake",
+                "hours": null,
+                "cost": "Free"
+              }
+            },
+            {
+              "ref": "place:carpenter-park",
+              "arrive": "15:00",
+              "leave": "16:30",
+              "why": "Your child has an easy playground afternoon with a greenway to walk if {they} want{s} to.",
+              "tips": [
+                "Bring a snack for the picnic shelter.",
+                "Give a ten-minute warning before leaving."
+              ],
+              "interests": [
+                "movement",
+                "nature"
+              ],
+              "also": [],
+              "area": "cary-apex",
+              "outdoor": true,
+              "source": {
+                "kind": "park",
+                "title": "Carpenter Park",
+                "address": "4420 Louis Stephens Drive, Cary, NC",
+                "lat": 35.82284995357582,
+                "lon": -78.86424049854338,
+                "url": "http://www.townofcary.org/recreation-enjoyment/parks-greenways-environment/parks/carpenter-park",
+                "amenities": [
+                  "playground",
+                  "picnic-shelter",
+                  "restroom",
+                  "greenway"
+                ],
+                "indoor": false,
+                "area": "cary-apex",
+                "hours": null,
+                "cost": "Free"
+              }
+            }
+          ],
+          "rainBackup": null,
+          "timeline": [
+            {
+              "start": "07:00",
+              "end": "07:30",
+              "kind": "meal",
+              "title": "Up and breakfast"
+            },
+            {
+              "start": "07:30",
+              "end": "08:50",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "08:50",
+              "end": "09:10",
+              "kind": "routine",
+              "title": "Get ready to go",
+              "detail": "Shoes on, the bag, water and a snack."
+            },
+            {
+              "start": "09:10",
+              "end": "09:30",
+              "kind": "travel",
+              "title": "Drive to Hillside Park"
+            },
+            {
+              "start": "09:30",
+              "end": "09:50",
+              "kind": "outing",
+              "title": "Hillside Park"
+            },
+            {
+              "start": "09:50",
+              "end": "10:00",
+              "kind": "travel",
+              "title": "Walk to W.D. Hill Rec Ctr"
+            },
+            {
+              "start": "10:00",
+              "end": "11:20",
+              "kind": "outing",
+              "title": "Total Tot Time"
+            },
+            {
+              "start": "11:20",
+              "end": "11:30",
+              "kind": "travel",
+              "title": "Walk back to the car"
+            },
+            {
+              "start": "11:30",
+              "end": "11:50",
+              "kind": "travel",
+              "title": "Drive home"
+            },
+            {
+              "start": "11:50",
+              "end": "12:15",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "12:15",
+              "end": "12:45",
+              "kind": "meal",
+              "title": "Lunch"
+            },
+            {
+              "start": "12:45",
+              "end": "13:00",
+              "kind": "quiet",
+              "title": "Wind down",
+              "detail": "A couple of books to settle."
+            },
+            {
+              "start": "13:00",
+              "end": "14:00",
+              "kind": "nap",
+              "title": "Nap"
+            },
+            {
+              "start": "14:00",
+              "end": "14:20",
+              "kind": "routine",
+              "title": "Up and a snack"
+            },
+            {
+              "start": "14:20",
+              "end": "18:00",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "18:00",
+              "end": "18:45",
+              "kind": "meal",
+              "title": "Dinner"
+            },
+            {
+              "start": "18:45",
+              "end": "19:30",
+              "kind": "routine",
+              "title": "Bath, books and bed"
+            }
+          ]
+        }
+      ],
+      "dropped": [
+        "[late-nap] alternative event:libcal:durham-county-library:17735866 Fun Songs with Tom Clark is for Baby, Pre-School, Toddler",
+        "[late-nap] alternative event:libcal:durham-county-library:17735866 says \"his\"; the child is {they}, {them} or {their}, anyone else by name or role: \"Your child sings and dances with Tom Clark and his guitar at Southwest Regional Library, then plays at Cornwallis Road Park.\""
+      ]
+    }
+  ],
+  "checked": {
+    "at": "2026-11-27T11:03:44.959Z",
+    "forecast": "none",
+    "weather": null,
+    "hidden": []
+  }
+}

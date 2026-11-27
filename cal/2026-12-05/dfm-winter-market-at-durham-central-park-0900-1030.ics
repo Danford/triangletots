@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Triangle Tots//triangletots.com//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:2026-12-05-dfm-winter-market-at-durham-central-park-0900-1030@trianglet
+ ots.com
+DTSTAMP:20261127T100000Z
+DTSTART:20261205T140000Z
+DTEND:20261205T153000Z
+SUMMARY:DFM Winter Market at Durham Central Park
+LOCATION:501 Foster Street\, Durham\, NC\, 27701
+DESCRIPTION:https://durhamcentralpark.org/upcoming-event/dfm-winter-market-
+ 2/2026-12-05/\nhttps://www.dprplaymore.org/Facilities/Facility/Details/Dur
+ ham-Central-Park-18\nThe whole day: https://triangletots.com/2026-12-05/t2
+ /\nTimes and details can change. Check the event or place before you go.
+END:VEVENT
+END:VCALENDAR

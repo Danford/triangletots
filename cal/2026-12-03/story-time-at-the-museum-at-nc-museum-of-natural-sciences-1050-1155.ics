@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Triangle Tots//triangletots.com//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:2026-12-03-story-time-at-the-museum-at-nc-museum-of-natural-sciences-10
+ 50-1155@triangletots.com
+DTSTAMP:20261127T100000Z
+DTSTART:20261203T155000Z
+DTEND:20261203T165500Z
+SUMMARY:Story Time at the Museum at NC Museum of Natural Sciences
+LOCATION:11 West Jones Street\, Raleigh\, NC\, 27601
+DESCRIPTION:https://raleighnc.gov/parks-and-recreation/places/levelle-moton
+ -park\nThe whole day: https://triangletots.com/2026-12-03/t2/\nTimes and d
+ etails can change. Check the event or place before you go.
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Triangle Tots//triangletots.com//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:2026-11-29-all-ages-crafternoon-at-green-road-community-library-1255-15
+ 20@triangletots.com
+DTSTAMP:20261127T100000Z
+DTSTART:20261129T175500Z
+DTEND:20261129T202000Z
+SUMMARY:All Ages Crafternoon at Green Road Community Library
+LOCATION:4101 Green Road\, Raleigh\, NC
+DESCRIPTION:https://www.wake.gov/events/all-ages-crafternoon-0\nhttps://ral
+ eighnc.gov/parks-and-recreation/places/green-road-park\nThe whole day: htt
+ ps://triangletots.com/2026-11-29/t3/\nTimes and details can change. Check 
+ the event or place before you go.
+END:VEVENT
+END:VCALENDAR

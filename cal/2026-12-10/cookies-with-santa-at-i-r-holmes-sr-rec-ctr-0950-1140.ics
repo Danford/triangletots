@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Triangle Tots//triangletots.com//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:2026-12-10-cookies-with-santa-at-i-r-holmes-sr-rec-ctr-0950-1140@triang
+ letots.com
+DTSTAMP:20261127T100000Z
+DTSTART:20261210T145000Z
+DTEND:20261210T164000Z
+SUMMARY:Cookies with Santa at I.R. Holmes\, Sr. Rec Ctr
+LOCATION:2000 S Alston Ave\, Durham\, NC
+DESCRIPTION:Sign up first.\nhttps://apm.activecommunities.com/dprplaymore/A
+ ctivity_Search/cookies-with-santa/19673?locale=en-US\nhttps://www.dprplaym
+ ore.org/Facilities/Facility/Details/Unity-Village-Park-72\nThe whole day: 
+ https://triangletots.com/2026-12-10/t4/\nTimes and details can change. Che
+ ck the event or place before you go.
+END:VEVENT
+END:VCALENDAR

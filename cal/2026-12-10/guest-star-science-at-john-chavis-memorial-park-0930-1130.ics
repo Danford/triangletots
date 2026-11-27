@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Triangle Tots//triangletots.com//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:2026-12-10-guest-star-science-at-john-chavis-memorial-park-0930-1130@tr
+ iangletots.com
+DTSTAMP:20261127T100000Z
+DTSTART:20261210T143000Z
+DTEND:20261210T163000Z
+SUMMARY:Guest Star: Science at John Chavis Memorial Park
+LOCATION:505 Martin Luther King Jr Blvd\, Raleigh\, NC 27601
+DESCRIPTION:https://raleighnc.gov/parks-and-recreation/places/john-chavis-m
+ emorial-park\nhttps://marbleskidsmuseum.org/event/48523/\nThe whole day: h
+ ttps://triangletots.com/2026-12-10/t2/\nTimes and details can change. Chec
+ k the event or place before you go.
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,914 @@
+{
+  "date": "2026-12-03",
+  "band": "t4",
+  "versions": [
+    {
+      "at": "2026-11-20T11:08:17.232Z",
+      "reason": null,
+      "forecast": "none",
+      "weather": null,
+      "plans": [
+        {
+          "nap": "short-nap",
+          "napLabel": "Short nap, 1 to 2",
+          "headline": "Run at the park, then see the Cookiemobile",
+          "main": {
+            "ref": "place:plummer-park",
+            "arrive": "15:30",
+            "leave": "17:00",
+            "why": "Your child plays at Plummer Park first, then goes to the Cookiemobile at 4:00 pm. It is the Bookmobile with a winter makeover, with crafts and games.",
+            "tips": [
+              "Bring a snack for after nap so the park starts on a happy note.",
+              "Walk over a few minutes before 4:00 pm so {they} can look at the makeover without rushing.",
+              "Name the last activity before you go so leaving feels planned."
+            ],
+            "interests": [
+              "movement",
+              "art"
+            ],
+            "also": [
+              {
+                "ref": "event:wake:25056",
+                "source": {
+                  "kind": "event",
+                  "title": "Cookiemobile!",
+                  "start": "2026-12-03T16:00:00-05:00",
+                  "end": "2026-12-03T18:00:00-05:00",
+                  "venue": "Northeast Regional Library",
+                  "address": "14401 Green Elm Lane, Raleigh, NC",
+                  "url": "https://www.wake.gov/events/cookiemobile-0",
+                  "cost": "Free",
+                  "lat": 35.9541926372282,
+                  "lon": -78.5438512128256,
+                  "ages": "Young Children School-Age Children",
+                  "registration": null,
+                  "indoor": true,
+                  "area": "north-raleigh",
+                  "source": "wake-county",
+                  "dropIn": false
+                }
+              }
+            ],
+            "area": "north-raleigh",
+            "outdoor": false,
+            "source": {
+              "kind": "park",
+              "title": "Plummer Park",
+              "address": "965 Jones Wynd, Wake Forest, NC",
+              "lat": 35.96978706226675,
+              "lon": -78.5486469005171,
+              "url": "https://www.wakeforestnc.gov/parks-recreation-cultural-resources/parks-facilities/plummer-park",
+              "amenities": [
+                "playground",
+                "picnic-shelter"
+              ],
+              "indoor": false,
+              "area": "north-raleigh",
+              "hours": null,
+              "cost": "Free"
+            }
+          },
+          "alternatives": [
+            {
+              "ref": "place:westover-park",
+              "arrive": "09:30",
+              "leave": "12:00",
+              "why": "Your child plays at the park, then joins Total Tot Time at 10:00 am in the gym. A family needs to sign up for it.",
+              "tips": [
+                "Sign up before you go.",
+                "Let {them} burn off energy outside first, then go in to play with others.",
+                "Bring water and a snack for the drive home."
+              ],
+              "interests": [
+                "movement",
+                "music"
+              ],
+              "also": [
+                {
+                  "ref": "event:durham-rec:19599:2026-12-03",
+                  "source": {
+                    "kind": "event",
+                    "title": "Total Tot Time",
+                    "start": "2026-12-03T10:00:00",
+                    "end": "2026-12-03T12:00:00",
+                    "venue": "Edison Johnson Rec Ctr",
+                    "address": "W Murray Ave, Durham, NC",
+                    "url": "https://apm.activecommunities.com/dprplaymore/Activity_Search/total-tot-time/19599?locale=en-US",
+                    "cost": null,
+                    "lat": 36.0299,
+                    "lon": -78.9011,
+                    "ages": "0 - 6",
+                    "registration": "https://apm.activecommunities.com/dprplaymore/Activity_Search/total-tot-time/19599?locale=en-US",
+                    "indoor": true,
+                    "area": "durham",
+                    "source": "durham-rec",
+                    "dropIn": false
+                  }
+                }
+              ],
+              "area": "durham",
+              "outdoor": false,
+              "source": {
+                "kind": "park",
+                "title": "Westover Park",
+                "address": "1900 Maryland Ave, Durham, NC",
+                "lat": 36.02501,
+                "lon": -78.9217725,
+                "url": "https://www.dprplaymore.org/Facilities/Facility/Details/Westover-Park-78",
+                "amenities": [
+                  "playground",
+                  "greenway"
+                ],
+                "indoor": false,
+                "area": "durham",
+                "hours": null,
+                "cost": "Free"
+              }
+            },
+            {
+              "ref": "event:wake-parks:8358:2026-12-03",
+              "arrive": "09:30",
+              "leave": "11:15",
+              "why": "Your child walks the StoryWalk loop and reads the story page by page, then plays at Beech Bluff County Park.",
+              "tips": [
+                "Let {them} lead the way to the next page.",
+                "Bring a snack for the playground."
+              ],
+              "interests": [
+                "stories",
+                "nature"
+              ],
+              "also": [
+                {
+                  "ref": "place:beech-bluff-county-park",
+                  "source": {
+                    "kind": "park",
+                    "title": "Beech Bluff County Park",
+                    "address": "Beech Bluff Park Drive, Fuquay-Varina, NC",
+                    "lat": 35.58537279715877,
+                    "lon": -78.6793341971644,
+                    "url": "https://www.wake.gov/departments-government/parks-recreation-open-space/all-parks-trails/beech-bluff-county-park",
+                    "amenities": [
+                      "playground",
+                      "garden",
+                      "greenway",
+                      "restroom",
+                      "picnic-shelter"
+                    ],
+                    "indoor": false,
+                    "area": "south-wake",
+                    "hours": null,
+                    "cost": "Free"
+                  }
+                }
+              ],
+              "area": "south-wake",
+              "outdoor": true,
+              "source": {
+                "kind": "event",
+                "title": "Beech Bluff County Park StoryWalk® 2026 (Self-Led)",
+                "start": "2026-12-03T08:00:00",
+                "end": "2026-12-03T17:30:00",
+                "venue": "Beech Bluff County Park",
+                "address": "Beech Bluff Park Drive, Fuquay-Varina, NC",
+                "url": "https://apm.activecommunities.com/wakeparks/Activity_Search/beech-bluff-county-park-storywalk-2026-self-led/8358?locale=en-US",
+                "cost": "Free",
+                "lat": 35.58537279715877,
+                "lon": -78.6793341971644,
+                "ages": null,
+                "registration": false,
+                "indoor": false,
+                "area": "south-wake",
+                "source": "wake-parks",
+                "dropIn": true
+              }
+            },
+            {
+              "ref": "place:nc-botanical-garden",
+              "arrive": "09:30",
+              "leave": "11:30",
+              "why": "Your child follows the display gardens and the nature trails through the forest behind them.",
+              "tips": [
+                "Give {them} a job, like finding three different leaves.",
+                "Pack a snack for a break on the trail."
+              ],
+              "interests": [
+                "nature"
+              ],
+              "also": [],
+              "area": "chapel-hill",
+              "outdoor": true,
+              "source": {
+                "kind": "garden",
+                "title": "NC Botanical Garden",
+                "address": "100 Old Mason Farm Rd, Chapel Hill, NC 27517",
+                "lat": 35.9011,
+                "lon": -79.0319,
+                "url": "https://ncbg.unc.edu/visit/",
+                "amenities": [
+                  "garden",
+                  "nature",
+                  "restroom"
+                ],
+                "indoor": false,
+                "area": "chapel-hill",
+                "cost": "Free",
+                "note": "Free. Display gardens, and nature trails through the forest behind them."
+              }
+            },
+            {
+              "ref": "place:crowder-county-park",
+              "arrive": "15:00",
+              "leave": "16:45",
+              "why": "Your child has the playground, the garden and the greenway to explore in the afternoon.",
+              "tips": [
+                "Bring a snack for after nap.",
+                "Start toward the car before the light fades."
+              ],
+              "interests": [
+                "nature",
+                "movement"
+              ],
+              "also": [],
+              "area": "cary-apex",
+              "outdoor": true,
+              "source": {
+                "kind": "park",
+                "title": "Crowder County Park",
+                "address": "4709 Ten Ten Road",
+                "lat": 35.69174392711247,
+                "lon": -78.76585678897689,
+                "url": "https://www.wakegov.com/departments-government/parks-recreation-and-open-space/all-parks-trails/crowder-county-park",
+                "amenities": [
+                  "playground",
+                  "picnic-shelter",
+                  "restroom",
+                  "greenway",
+                  "garden"
+                ],
+                "indoor": false,
+                "area": "cary-apex",
+                "hours": null,
+                "cost": "Free"
+              }
+            }
+          ],
+          "rainBackup": null,
+          "timeline": [
+            {
+              "start": "07:00",
+              "end": "07:30",
+              "kind": "meal",
+              "title": "Up and breakfast"
+            },
+            {
+              "start": "07:30",
+              "end": "12:15",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "12:15",
+              "end": "12:45",
+              "kind": "meal",
+              "title": "Lunch"
+            },
+            {
+              "start": "12:45",
+              "end": "13:00",
+              "kind": "quiet",
+              "title": "Wind down",
+              "detail": "A couple of books to settle."
+            },
+            {
+              "start": "13:00",
+              "end": "14:00",
+              "kind": "nap",
+              "title": "Nap"
+            },
+            {
+              "start": "14:00",
+              "end": "14:20",
+              "kind": "routine",
+              "title": "Up and a snack"
+            },
+            {
+              "start": "14:20",
+              "end": "14:50",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "14:50",
+              "end": "15:10",
+              "kind": "routine",
+              "title": "Get ready to go",
+              "detail": "Shoes on, the bag, water and a snack."
+            },
+            {
+              "start": "15:10",
+              "end": "15:30",
+              "kind": "travel",
+              "title": "Drive to Plummer Park"
+            },
+            {
+              "start": "15:30",
+              "end": "15:50",
+              "kind": "outing",
+              "title": "Plummer Park"
+            },
+            {
+              "start": "15:50",
+              "end": "16:00",
+              "kind": "travel",
+              "title": "Drive to Northeast Regional Library"
+            },
+            {
+              "start": "16:00",
+              "end": "17:00",
+              "kind": "outing",
+              "title": "Cookiemobile!"
+            },
+            {
+              "start": "17:00",
+              "end": "17:20",
+              "kind": "travel",
+              "title": "Drive home"
+            },
+            {
+              "start": "17:20",
+              "end": "18:30",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "18:30",
+              "end": "19:15",
+              "kind": "meal",
+              "title": "Dinner"
+            },
+            {
+              "start": "19:15",
+              "end": "20:00",
+              "kind": "routine",
+              "title": "Bath, books and bed"
+            }
+          ]
+        },
+        {
+          "nap": "quiet",
+          "napLabel": "Quiet time",
+          "headline": "Wander the garden paths and find a secret spot",
+          "main": {
+            "ref": "place:sarah-p-duke-gardens",
+            "arrive": "09:30",
+            "leave": "11:30",
+            "why": "Your child explores the garden paths and the Charlotte Brody Discovery Garden at Sarah P. Duke Gardens. It is free to enter.",
+            "tips": [
+              "Let {them} choose which path to follow next.",
+              "Bring a snack for a bench break.",
+              "Give a five-minute warning before you head to the car."
+            ],
+            "interests": [
+              "nature",
+              "movement"
+            ],
+            "also": [],
+            "area": "durham",
+            "outdoor": true,
+            "source": {
+              "kind": "garden",
+              "title": "Sarah P. Duke Gardens",
+              "address": "420 Anderson St, Durham, NC 27708",
+              "lat": 36.0024,
+              "lon": -78.9328,
+              "url": "https://gardens.duke.edu/visit/",
+              "amenities": [
+                "garden",
+                "nature",
+                "restroom"
+              ],
+              "indoor": false,
+              "area": "durham",
+              "hours": {
+                "sun": "8 a.m. to sunset",
+                "mon": "8 a.m. to sunset",
+                "tue": "8 a.m. to sunset",
+                "wed": "8 a.m. to sunset",
+                "thu": "8 a.m. to sunset",
+                "fri": "8 a.m. to sunset",
+                "sat": "8 a.m. to sunset"
+              },
+              "cost": "Free",
+              "note": "Free; paid parking that often fills before 10 a.m. on nice days. Five miles of paths, and the Charlotte Brody Discovery Garden."
+            }
+          },
+          "alternatives": [
+            {
+              "ref": "place:historic-oak-view-county-park",
+              "arrive": "09:30",
+              "leave": "11:30",
+              "why": "Your child walks the garden and greenway and looks for the animals at Historic Oak View County Park.",
+              "tips": [
+                "Bring a snack for a bench break.",
+                "Let {them} choose which path to take next."
+              ],
+              "interests": [
+                "animals",
+                "nature"
+              ],
+              "also": [],
+              "area": "raleigh",
+              "outdoor": true,
+              "source": {
+                "kind": "park",
+                "title": "Historic Oak View County Park",
+                "address": "4028 Carya Dr., Raleigh, NC  27610",
+                "lat": 35.76980126731367,
+                "lon": -78.57063248179927,
+                "url": "https://www.wakegov.com/departments-government/parks-recreation-and-open-space/all-parks-trails/historic-oak-view-county-park",
+                "amenities": [
+                  "picnic-shelter",
+                  "restroom",
+                  "greenway",
+                  "animals",
+                  "garden"
+                ],
+                "indoor": false,
+                "area": "raleigh",
+                "hours": null,
+                "cost": "Free"
+              }
+            },
+            {
+              "ref": "event:wake-parks:8358:2026-12-03",
+              "arrive": "09:30",
+              "leave": "11:15",
+              "why": "Your child walks the StoryWalk loop and reads the story page by page, then plays at Beech Bluff County Park.",
+              "tips": [
+                "Let {them} lead the way to the next page.",
+                "Bring a snack for the playground."
+              ],
+              "interests": [
+                "stories",
+                "nature"
+              ],
+              "also": [
+                {
+                  "ref": "place:beech-bluff-county-park",
+                  "source": {
+                    "kind": "park",
+                    "title": "Beech Bluff County Park",
+                    "address": "Beech Bluff Park Drive, Fuquay-Varina, NC",
+                    "lat": 35.58537279715877,
+                    "lon": -78.6793341971644,
+                    "url": "https://www.wake.gov/departments-government/parks-recreation-open-space/all-parks-trails/beech-bluff-county-park",
+                    "amenities": [
+                      "playground",
+                      "garden",
+                      "greenway",
+                      "restroom",
+                      "picnic-shelter"
+                    ],
+                    "indoor": false,
+                    "area": "south-wake",
+                    "hours": null,
+                    "cost": "Free"
+                  }
+                }
+              ],
+              "area": "south-wake",
+              "outdoor": true,
+              "source": {
+                "kind": "event",
+                "title": "Beech Bluff County Park StoryWalk® 2026 (Self-Led)",
+                "start": "2026-12-03T08:00:00",
+                "end": "2026-12-03T17:30:00",
+                "venue": "Beech Bluff County Park",
+                "address": "Beech Bluff Park Drive, Fuquay-Varina, NC",
+                "url": "https://apm.activecommunities.com/wakeparks/Activity_Search/beech-bluff-county-park-storywalk-2026-self-led/8358?locale=en-US",
+                "cost": "Free",
+                "lat": 35.58537279715877,
+                "lon": -78.6793341971644,
+                "ages": null,
+                "registration": false,
+                "indoor": false,
+                "area": "south-wake",
+                "source": "wake-parks",
+                "dropIn": true
+              }
+            },
+            {
+              "ref": "place:nc-botanical-garden",
+              "arrive": "09:30",
+              "leave": "11:30",
+              "why": "Your child follows the display gardens and the nature trails through the forest behind them.",
+              "tips": [
+                "Give {them} a job, like finding three different leaves.",
+                "Pack a snack for a break on the trail."
+              ],
+              "interests": [
+                "nature"
+              ],
+              "also": [],
+              "area": "chapel-hill",
+              "outdoor": true,
+              "source": {
+                "kind": "garden",
+                "title": "NC Botanical Garden",
+                "address": "100 Old Mason Farm Rd, Chapel Hill, NC 27517",
+                "lat": 35.9011,
+                "lon": -79.0319,
+                "url": "https://ncbg.unc.edu/visit/",
+                "amenities": [
+                  "garden",
+                  "nature",
+                  "restroom"
+                ],
+                "indoor": false,
+                "area": "chapel-hill",
+                "cost": "Free",
+                "note": "Free. Display gardens, and nature trails through the forest behind them."
+              }
+            }
+          ],
+          "rainBackup": null,
+          "timeline": [
+            {
+              "start": "07:00",
+              "end": "07:30",
+              "kind": "meal",
+              "title": "Up and breakfast"
+            },
+            {
+              "start": "07:30",
+              "end": "08:50",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "08:50",
+              "end": "09:10",
+              "kind": "routine",
+              "title": "Get ready to go",
+              "detail": "Shoes on, the bag, water and a snack."
+            },
+            {
+              "start": "09:10",
+              "end": "09:30",
+              "kind": "travel",
+              "title": "Drive to Sarah P. Duke Gardens"
+            },
+            {
+              "start": "09:30",
+              "end": "11:30",
+              "kind": "outing",
+              "title": "Sarah P. Duke Gardens"
+            },
+            {
+              "start": "11:30",
+              "end": "11:50",
+              "kind": "travel",
+              "title": "Drive home"
+            },
+            {
+              "start": "11:50",
+              "end": "12:20",
+              "kind": "meal",
+              "title": "Lunch"
+            },
+            {
+              "start": "12:20",
+              "end": "13:00",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "13:00",
+              "end": "13:45",
+              "kind": "quiet",
+              "title": "Quiet time",
+              "detail": "Books or quiet play in their room."
+            },
+            {
+              "start": "13:45",
+              "end": "18:00",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "18:00",
+              "end": "18:45",
+              "kind": "meal",
+              "title": "Dinner"
+            },
+            {
+              "start": "18:45",
+              "end": "19:30",
+              "kind": "routine",
+              "title": "Bath, books and bed"
+            }
+          ]
+        },
+        {
+          "nap": "no-nap",
+          "napLabel": "No nap",
+          "headline": "Explore a garden and look for animals",
+          "main": {
+            "ref": "place:historic-oak-view-county-park",
+            "arrive": "09:30",
+            "leave": "11:30",
+            "why": "Your child walks the garden and greenway and looks for the animals at Historic Oak View County Park.",
+            "tips": [
+              "Bring a snack for a bench break.",
+              "Let {them} choose which path to take next.",
+              "Give a five-minute warning before you head to the car."
+            ],
+            "interests": [
+              "animals",
+              "nature"
+            ],
+            "also": [],
+            "area": "raleigh",
+            "outdoor": true,
+            "source": {
+              "kind": "park",
+              "title": "Historic Oak View County Park",
+              "address": "4028 Carya Dr., Raleigh, NC  27610",
+              "lat": 35.76980126731367,
+              "lon": -78.57063248179927,
+              "url": "https://www.wakegov.com/departments-government/parks-recreation-and-open-space/all-parks-trails/historic-oak-view-county-park",
+              "amenities": [
+                "picnic-shelter",
+                "restroom",
+                "greenway",
+                "animals",
+                "garden"
+              ],
+              "indoor": false,
+              "area": "raleigh",
+              "hours": null,
+              "cost": "Free"
+            }
+          },
+          "alternatives": [
+            {
+              "ref": "place:crowder-county-park",
+              "arrive": "09:30",
+              "leave": "11:30",
+              "why": "Your child has the playground, the garden and the greenway to explore.",
+              "tips": [
+                "Bring a snack for a bench break.",
+                "Let {them} lead the walk."
+              ],
+              "interests": [
+                "nature",
+                "movement"
+              ],
+              "also": [],
+              "area": "cary-apex",
+              "outdoor": true,
+              "source": {
+                "kind": "park",
+                "title": "Crowder County Park",
+                "address": "4709 Ten Ten Road",
+                "lat": 35.69174392711247,
+                "lon": -78.76585678897689,
+                "url": "https://www.wakegov.com/departments-government/parks-recreation-and-open-space/all-parks-trails/crowder-county-park",
+                "amenities": [
+                  "playground",
+                  "picnic-shelter",
+                  "restroom",
+                  "greenway",
+                  "garden"
+                ],
+                "indoor": false,
+                "area": "cary-apex",
+                "hours": null,
+                "cost": "Free"
+              }
+            },
+            {
+              "ref": "place:plummer-park",
+              "arrive": "15:30",
+              "leave": "17:00",
+              "why": "Your child plays at Plummer Park, then joins the Cookiemobile at 4:00 pm for crafts and games.",
+              "tips": [
+                "Bring a snack for the park.",
+                "Walk over a few minutes before 4:00 pm."
+              ],
+              "interests": [
+                "movement",
+                "art"
+              ],
+              "also": [
+                {
+                  "ref": "event:wake:25056",
+                  "source": {
+                    "kind": "event",
+                    "title": "Cookiemobile!",
+                    "start": "2026-12-03T16:00:00-05:00",
+                    "end": "2026-12-03T18:00:00-05:00",
+                    "venue": "Northeast Regional Library",
+                    "address": "14401 Green Elm Lane, Raleigh, NC",
+                    "url": "https://www.wake.gov/events/cookiemobile-0",
+                    "cost": "Free",
+                    "lat": 35.9541926372282,
+                    "lon": -78.5438512128256,
+                    "ages": "Young Children School-Age Children",
+                    "registration": null,
+                    "indoor": true,
+                    "area": "north-raleigh",
+                    "source": "wake-county",
+                    "dropIn": false
+                  }
+                }
+              ],
+              "area": "north-raleigh",
+              "outdoor": false,
+              "source": {
+                "kind": "park",
+                "title": "Plummer Park",
+                "address": "965 Jones Wynd, Wake Forest, NC",
+                "lat": 35.96978706226675,
+                "lon": -78.5486469005171,
+                "url": "https://www.wakeforestnc.gov/parks-recreation-cultural-resources/parks-facilities/plummer-park",
+                "amenities": [
+                  "playground",
+                  "picnic-shelter"
+                ],
+                "indoor": false,
+                "area": "north-raleigh",
+                "hours": null,
+                "cost": "Free"
+              }
+            }
+          ],
+          "rainBackup": null,
+          "timeline": [
+            {
+              "start": "07:00",
+              "end": "07:30",
+              "kind": "meal",
+              "title": "Up and breakfast"
+            },
+            {
+              "start": "07:30",
+              "end": "08:50",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "08:50",
+              "end": "09:10",
+              "kind": "routine",
+              "title": "Get ready to go",
+              "detail": "Shoes on, the bag, water and a snack."
+            },
+            {
+              "start": "09:10",
+              "end": "09:30",
+              "kind": "travel",
+              "title": "Drive to Historic Oak View County Park"
+            },
+            {
+              "start": "09:30",
+              "end": "11:30",
+              "kind": "outing",
+              "title": "Historic Oak View County Park"
+            },
+            {
+              "start": "11:30",
+              "end": "11:50",
+              "kind": "travel",
+              "title": "Drive home"
+            },
+            {
+              "start": "11:50",
+              "end": "12:20",
+              "kind": "meal",
+              "title": "Lunch"
+            },
+            {
+              "start": "12:20",
+              "end": "18:00",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "18:00",
+              "end": "18:45",
+              "kind": "meal",
+              "title": "Dinner"
+            },
+            {
+              "start": "18:45",
+              "end": "19:30",
+              "kind": "routine",
+              "title": "Bath, books and bed"
+            }
+          ]
+        }
+      ],
+      "dropped": [
+        "[no-nap] alternative event:libcal:durham-county-library:15624807 Storytime with Ms. Chloe is for Baby, Kindergarten, Pre-School, Toddler"
+      ],
+      "retried": [
+        "[quiet] main event:libcal:durham-county-library:17189140 This Week In the Lab: Snap Circuits is for Adult, Elementary School, Emerging Adult: 18-24 Year Olds, High School, Intergenerational, Kindergarten, Middle School, Pre-School, Senior Citizen, Teen, Toddler, Tweens: 9-12 Year Olds, DPS"
+      ]
+    }
+  ],
+  "checked": {
+    "at": "2026-11-27T11:03:44.808Z",
+    "forecast": "nws",
+    "weather": {
+      "period": "Thursday",
+      "tempF": 67,
+      "precipProbability": 3,
+      "shortForecast": "Mostly Sunny",
+      "windMph": 5,
+      "windFrom": "SW",
+      "hours": [
+        {
+          "t": "05:00",
+          "tempF": 41,
+          "pop": 1,
+          "cloud": 33
+        },
+        {
+          "t": "06:00",
+          "tempF": 40,
+          "pop": 1,
+          "cloud": 33
+        },
+        {
+          "t": "07:00",
+          "tempF": 41,
+          "pop": 2,
+          "cloud": 47
+        },
+        {
+          "t": "08:00",
+          "tempF": 44,
+          "pop": 2,
+          "cloud": 47
+        },
+        {
+          "t": "09:00",
+          "tempF": 49,
+          "pop": 2,
+          "cloud": 47
+        },
+        {
+          "t": "10:00",
+          "tempF": 54,
+          "pop": 2,
+          "cloud": 47
+        },
+        {
+          "t": "11:00",
+          "tempF": 58,
+          "pop": 2,
+          "cloud": 47
+        },
+        {
+          "t": "12:00",
+          "tempF": 62,
+          "pop": 2,
+          "cloud": 47
+        },
+        {
+          "t": "13:00",
+          "tempF": 64,
+          "pop": 3,
+          "cloud": 52
+        },
+        {
+          "t": "14:00",
+          "tempF": 65,
+          "pop": 3,
+          "cloud": 52
+        },
+        {
+          "t": "15:00",
+          "tempF": 66,
+          "pop": 3,
+          "cloud": 52
+        },
+        {
+          "t": "16:00",
+          "tempF": 65,
+          "pop": 3,
+          "cloud": 52
+        },
+        {
+          "t": "17:00",
+          "tempF": 63,
+          "pop": 3,
+          "cloud": 52
+        }
+      ]
+    },
+    "hidden": []
+  }
+}

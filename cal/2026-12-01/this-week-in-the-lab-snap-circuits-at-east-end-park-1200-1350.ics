@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Triangle Tots//triangletots.com//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:2026-12-01-this-week-in-the-lab-snap-circuits-at-east-end-park-1200-135
+ 0@triangletots.com
+DTSTAMP:20261127T100000Z
+DTSTART:20261201T170000Z
+DTEND:20261201T185000Z
+SUMMARY:This Week In the Lab: Snap Circuits at East End Park
+LOCATION:1200 N Alston Ave\, Durham\, NC
+DESCRIPTION:https://www.dprplaymore.org/Facilities/Facility/Details/East-En
+ d-Park-20\nhttps://durhamcountylibrary.libcal.com/event/17189138\nThe whol
+ e day: https://triangletots.com/2026-12-01/t1/\nTimes and details can chan
+ ge. Check the event or place before you go.
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Triangle Tots//triangletots.com//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:2026-12-08-this-week-in-the-lab-ozobots-at-main-library-1400-1550@trian
+ gletots.com
+DTSTAMP:20261127T100000Z
+DTSTART:20261208T190000Z
+DTEND:20261208T205000Z
+SUMMARY:This Week In the Lab: Ozobots at Main Library
+LOCATION:300 N. Roxboro St\, Durham\, NC
+DESCRIPTION:https://durhamcountylibrary.libcal.com/event/17189146\nhttps://
+ www.dprplaymore.org/Facilities/Facility/Details/Oakwood-Park-49\nThe whole
+  day: https://triangletots.com/2026-12-08/t3/\nTimes and details can chang
+ e. Check the event or place before you go.
+END:VEVENT
+END:VCALENDAR

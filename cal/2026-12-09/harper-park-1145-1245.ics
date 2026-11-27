@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Triangle Tots//triangletots.com//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:2026-12-09-harper-park-1145-1245@triangletots.com
+DTSTAMP:20261127T100000Z
+DTSTART:20261209T164500Z
+DTEND:20261209T174500Z
+SUMMARY:Harper Park
+LOCATION:207 Main St\, Knightdale\, NC
+DESCRIPTION:https://www.knightdalenc.gov/harperpark\nThe whole day: https:/
+ /triangletots.com/2026-12-09/t2/\nTimes and details can change. Check the 
+ event or place before you go.
+END:VEVENT
+END:VCALENDAR

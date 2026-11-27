@@ -1,0 +1,778 @@
+{
+  "date": "2026-12-06",
+  "band": "t4",
+  "versions": [
+    {
+      "at": "2026-11-23T11:04:42.318Z",
+      "reason": null,
+      "forecast": "none",
+      "weather": null,
+      "plans": [
+        {
+          "nap": "short-nap",
+          "napLabel": "Short nap, 1 to 2",
+          "headline": "Hike a farm trail with a nature journal",
+          "main": {
+            "ref": "event:museum:triangle-land:23368",
+            "arrive": "08:50",
+            "leave": "11:00",
+            "why": "Your child walks a nature preserve with a journal and looks closely at what {they} find{s}. A family needs to sign up first.",
+            "tips": [
+              "Bring a pencil and a small notebook so {they} can draw what {they} spot.",
+              "Pack a snack for halfway through and let {them} set the pace.",
+              "Say the last stop is the next page in the journal, then head to the car."
+            ],
+            "interests": [
+              "nature",
+              "art"
+            ],
+            "also": [],
+            "area": "east-wake",
+            "outdoor": true,
+            "source": {
+              "kind": "event",
+              "title": "Nature Journaling Hike",
+              "start": "2026-12-06T09:00:00",
+              "end": "2026-12-06T11:00:00",
+              "venue": "Williamson Farm and Nature Preserve",
+              "address": "4429 Old Country Mial Rd, Raleigh, 27610",
+              "url": "https://triangleland.org/event/nature-journaling-hike",
+              "cost": null,
+              "lat": 35.7202,
+              "lon": -78.4473,
+              "ages": null,
+              "registration": "https://triangleland.org/event/nature-journaling-hike",
+              "indoor": false,
+              "area": "east-wake",
+              "source": "museum",
+              "dropIn": false
+            }
+          },
+          "alternatives": [
+            {
+              "ref": "place:gipson-play-plaza",
+              "arrive": "09:00",
+              "leave": "11:30",
+              "why": "A big destination playground gives your child room to climb, run and play with other kids.",
+              "tips": [
+                "Bring a snack and water for a break midway.",
+                "Give a ten minute warning before you leave and name the next thing to look forward to."
+              ],
+              "interests": [
+                "movement"
+              ],
+              "also": [],
+              "area": "raleigh",
+              "outdoor": true,
+              "source": {
+                "kind": "park",
+                "title": "Gipson Play Plaza at Dix Park",
+                "address": "715 Biggs Dr, Raleigh, NC 27603",
+                "lat": 35.7667,
+                "lon": -78.6539,
+                "url": "https://dixpark.org/gipson-play-plaza",
+                "amenities": [
+                  "playground",
+                  "restroom"
+                ],
+                "indoor": false,
+                "area": "raleigh",
+                "hours": {
+                  "sun": "8 a.m.–9 p.m.",
+                  "mon": "8 a.m.–9 p.m.",
+                  "tue": "8 a.m.–9 p.m.",
+                  "wed": "8 a.m.–9 p.m.",
+                  "thu": "8 a.m.–9 p.m.",
+                  "fri": "8 a.m.–9 p.m.",
+                  "sat": "8 a.m.–9 p.m."
+                },
+                "cost": "Free",
+                "note": "Free; free parking. Big destination playground on the south edge of Dix Park."
+              }
+            },
+            {
+              "ref": "event:museum:durham-central-park:13952",
+              "arrive": "14:30",
+              "leave": "16:00",
+              "why": "A drop-in afternoon at Durham Central Park, with open space for your child to move. Come and go as {they} like{s}.",
+              "tips": [
+                "Bring a snack for after the nap.",
+                "Go for a short walk around the park before you leave."
+              ],
+              "interests": [
+                "stories",
+                "movement"
+              ],
+              "also": [],
+              "area": "durham",
+              "outdoor": true,
+              "source": {
+                "kind": "event",
+                "title": "6th Annual Toys and Books for Rides",
+                "start": "2026-12-06T12:00:00",
+                "end": "2026-12-06T16:00:00",
+                "venue": "Durham Central Park",
+                "address": "501 Foster Street, Durham, NC, 27701",
+                "url": "https://durhamcentralpark.org/upcoming-event/6th-annual-toys-and-books-for-rides/",
+                "cost": null,
+                "lat": 36.0008,
+                "lon": -78.9021,
+                "ages": "Featured Events",
+                "registration": null,
+                "indoor": false,
+                "area": "durham",
+                "source": "museum",
+                "dropIn": true
+              }
+            },
+            {
+              "ref": "event:durham-rec:19887",
+              "arrive": "14:30",
+              "leave": "16:15",
+              "why": "Holiday crafts, music and decorations at Spruce Pine Lodge. A family needs to sign up first.",
+              "tips": [
+                "Let your child pick one craft and take {their} time with it.",
+                "Have a snack ready for the ride home."
+              ],
+              "interests": [
+                "art",
+                "music"
+              ],
+              "also": [],
+              "area": "durham",
+              "outdoor": true,
+              "source": {
+                "kind": "event",
+                "title": "Holiday at the Lodge",
+                "start": "2026-12-06T13:00:00",
+                "end": "2026-12-06T17:00:00",
+                "venue": "Spruce Pine Lodge",
+                "address": "2235 Bahama Rd, Durham, NC",
+                "url": "https://apm.activecommunities.com/dprplaymore/Activity_Search/holiday-at-the-lodge/19887?locale=en-US",
+                "cost": null,
+                "lat": 36.17410666666667,
+                "lon": -78.86571222222223,
+                "ages": "0 - 99",
+                "registration": "https://apm.activecommunities.com/dprplaymore/Activity_Search/holiday-at-the-lodge/19887?locale=en-US",
+                "indoor": null,
+                "area": "durham",
+                "source": "durham-rec",
+                "dropIn": false
+              }
+            },
+            {
+              "ref": "place:apex-nature-park",
+              "arrive": "09:00",
+              "leave": "11:30",
+              "why": "A morning to walk the greenway and look for what grows and lives along it.",
+              "tips": [
+                "Bring a bag for collecting leaves and pinecones.",
+                "Pack a snack to share on the picnic shelter."
+              ],
+              "interests": [
+                "nature",
+                "movement"
+              ],
+              "also": [],
+              "area": "cary-apex",
+              "outdoor": true,
+              "source": {
+                "kind": "park",
+                "title": "Apex Nature Park",
+                "address": "2600 Evans Rd., Apex, NC",
+                "lat": 35.71709646233568,
+                "lon": -78.90520368087866,
+                "url": "https://www.apexnc.org/800/Nature-Park-Seymour-Athletic-Fields",
+                "amenities": [
+                  "picnic-shelter",
+                  "restroom",
+                  "greenway",
+                  "nature"
+                ],
+                "indoor": false,
+                "area": "cary-apex",
+                "hours": null,
+                "cost": "Free"
+              }
+            }
+          ],
+          "rainBackup": null,
+          "timeline": [
+            {
+              "start": "07:00",
+              "end": "07:30",
+              "kind": "meal",
+              "title": "Up and breakfast"
+            },
+            {
+              "start": "07:30",
+              "end": "08:10",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "08:10",
+              "end": "08:30",
+              "kind": "routine",
+              "title": "Get ready to go",
+              "detail": "Shoes on, the bag, water and a snack."
+            },
+            {
+              "start": "08:30",
+              "end": "08:50",
+              "kind": "travel",
+              "title": "Drive to Williamson Farm and Nature Preserve"
+            },
+            {
+              "start": "08:50",
+              "end": "11:00",
+              "kind": "outing",
+              "title": "Williamson Farm and Nature Preserve"
+            },
+            {
+              "start": "11:00",
+              "end": "11:20",
+              "kind": "travel",
+              "title": "Drive home"
+            },
+            {
+              "start": "11:20",
+              "end": "12:15",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "12:15",
+              "end": "12:45",
+              "kind": "meal",
+              "title": "Lunch"
+            },
+            {
+              "start": "12:45",
+              "end": "13:00",
+              "kind": "quiet",
+              "title": "Wind down",
+              "detail": "A couple of books to settle."
+            },
+            {
+              "start": "13:00",
+              "end": "14:00",
+              "kind": "nap",
+              "title": "Nap"
+            },
+            {
+              "start": "14:00",
+              "end": "14:20",
+              "kind": "routine",
+              "title": "Up and a snack"
+            },
+            {
+              "start": "14:20",
+              "end": "18:30",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "18:30",
+              "end": "19:15",
+              "kind": "meal",
+              "title": "Dinner"
+            },
+            {
+              "start": "19:15",
+              "end": "20:00",
+              "kind": "routine",
+              "title": "Bath, books and bed"
+            }
+          ]
+        },
+        {
+          "nap": "quiet",
+          "napLabel": "Quiet time",
+          "headline": "Playground and garden morning in Cary",
+          "main": {
+            "ref": "place:crowder-county-park",
+            "arrive": "09:00",
+            "leave": "11:30",
+            "why": "Your child can run the playground, explore the garden and walk the greenway before a calm afternoon at home.",
+            "tips": [
+              "Bring a snack to eat at the picnic shelter.",
+              "Walk the garden after the playground so {they} wind{s} down before you leave.",
+              "Leave with a plan for quiet time at home, like a favorite book."
+            ],
+            "interests": [
+              "nature",
+              "movement"
+            ],
+            "also": [],
+            "area": "cary-apex",
+            "outdoor": true,
+            "source": {
+              "kind": "park",
+              "title": "Crowder County Park",
+              "address": "4709 Ten Ten Road",
+              "lat": 35.69174392711247,
+              "lon": -78.76585678897689,
+              "url": "https://www.wakegov.com/departments-government/parks-recreation-and-open-space/all-parks-trails/crowder-county-park",
+              "amenities": [
+                "playground",
+                "picnic-shelter",
+                "restroom",
+                "greenway",
+                "garden"
+              ],
+              "indoor": false,
+              "area": "cary-apex",
+              "hours": null,
+              "cost": "Free"
+            }
+          },
+          "alternatives": [
+            {
+              "ref": "event:reclink:BCCCSENSEXPL-010",
+              "arrive": "13:50",
+              "leave": "15:40",
+              "why": "Your child plays at sensory stations and makes simple crafts in Sensory Explorers, then runs off energy at Brier Creek Park. A family needs to sign up first.",
+              "tips": [
+                "Dress for messy hands.",
+                "Bring a snack for the park after class."
+              ],
+              "interests": [
+                "art",
+                "science",
+                "movement"
+              ],
+              "also": [
+                {
+                  "ref": "place:brier-creek-park",
+                  "source": {
+                    "kind": "park",
+                    "title": "Brier Creek Park",
+                    "address": "10810 Globe Rd, Raleigh, NC 27617",
+                    "lat": 35.90051,
+                    "lon": -78.80682,
+                    "url": "https://raleighnc.gov/parks-and-recreation/places/brier-creek-park",
+                    "amenities": [
+                      "community-center",
+                      "picnic-shelter",
+                      "fields",
+                      "playground"
+                    ],
+                    "indoor": false,
+                    "area": "durham",
+                    "hours": null,
+                    "cost": "Free"
+                  }
+                }
+              ],
+              "area": "durham",
+              "outdoor": false,
+              "source": {
+                "kind": "event",
+                "title": "Sensory Explorers",
+                "start": "2026-12-06T14:00:00",
+                "end": "2026-12-06T15:00:00",
+                "venue": "Brier Creek Community Center",
+                "address": "10810 Globe Rd, Raleigh, NC 27617",
+                "url": "https://ncraleighweb.myvscloud.com/webtrac/web/search.html?module=AR",
+                "cost": "$10.00",
+                "lat": 35.90051,
+                "lon": -78.80682,
+                "ages": "2-5.99",
+                "registration": "https://ncraleighweb.myvscloud.com/webtrac/web/search.html?module=AR",
+                "indoor": true,
+                "area": "durham",
+                "source": "reclink",
+                "dropIn": false
+              }
+            },
+            {
+              "ref": "event:museum:triangle-land:23368",
+              "arrive": "08:50",
+              "leave": "11:00",
+              "why": "A morning hike with a nature journal, so your child can draw or write what {they} notice{s}. A family needs to sign up first.",
+              "tips": [
+                "Bring a pencil and a small notebook.",
+                "Pack a snack for the trail."
+              ],
+              "interests": [
+                "nature",
+                "art"
+              ],
+              "also": [],
+              "area": "east-wake",
+              "outdoor": true,
+              "source": {
+                "kind": "event",
+                "title": "Nature Journaling Hike",
+                "start": "2026-12-06T09:00:00",
+                "end": "2026-12-06T11:00:00",
+                "venue": "Williamson Farm and Nature Preserve",
+                "address": "4429 Old Country Mial Rd, Raleigh, 27610",
+                "url": "https://triangleland.org/event/nature-journaling-hike",
+                "cost": null,
+                "lat": 35.7202,
+                "lon": -78.4473,
+                "ages": null,
+                "registration": "https://triangleland.org/event/nature-journaling-hike",
+                "indoor": false,
+                "area": "east-wake",
+                "source": "museum",
+                "dropIn": false
+              }
+            }
+          ],
+          "rainBackup": null,
+          "timeline": [
+            {
+              "start": "07:00",
+              "end": "07:30",
+              "kind": "meal",
+              "title": "Up and breakfast"
+            },
+            {
+              "start": "07:30",
+              "end": "08:20",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "08:20",
+              "end": "08:40",
+              "kind": "routine",
+              "title": "Get ready to go",
+              "detail": "Shoes on, the bag, water and a snack."
+            },
+            {
+              "start": "08:40",
+              "end": "09:00",
+              "kind": "travel",
+              "title": "Drive to Crowder County Park"
+            },
+            {
+              "start": "09:00",
+              "end": "11:30",
+              "kind": "outing",
+              "title": "Crowder County Park"
+            },
+            {
+              "start": "11:30",
+              "end": "11:50",
+              "kind": "travel",
+              "title": "Drive home"
+            },
+            {
+              "start": "11:50",
+              "end": "12:20",
+              "kind": "meal",
+              "title": "Lunch"
+            },
+            {
+              "start": "12:20",
+              "end": "13:00",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "13:00",
+              "end": "13:45",
+              "kind": "quiet",
+              "title": "Quiet time",
+              "detail": "Books or quiet play in their room."
+            },
+            {
+              "start": "13:45",
+              "end": "18:00",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "18:00",
+              "end": "18:45",
+              "kind": "meal",
+              "title": "Dinner"
+            },
+            {
+              "start": "18:45",
+              "end": "19:30",
+              "kind": "routine",
+              "title": "Bath, books and bed"
+            }
+          ]
+        },
+        {
+          "nap": "no-nap",
+          "napLabel": "No nap",
+          "headline": "Play at the lodge park, then make holiday crafts",
+          "main": {
+            "ref": "place:spruce-pine-lodge",
+            "arrive": "12:30",
+            "leave": "14:45",
+            "why": "Your child plays outside first, then joins Holiday at the Lodge for crafts, music and refreshments. A family needs to sign up.",
+            "tips": [
+              "Eat a picnic lunch before the event starts.",
+              "Let {them} pick one craft to focus on.",
+              "Say goodbye to the playground when the crafts begin so leaving is easy."
+            ],
+            "interests": [
+              "movement",
+              "art",
+              "music"
+            ],
+            "also": [
+              {
+                "ref": "event:durham-rec:19887",
+                "source": {
+                  "kind": "event",
+                  "title": "Holiday at the Lodge",
+                  "start": "2026-12-06T13:00:00",
+                  "end": "2026-12-06T17:00:00",
+                  "venue": "Spruce Pine Lodge",
+                  "address": "2235 Bahama Rd, Durham, NC",
+                  "url": "https://apm.activecommunities.com/dprplaymore/Activity_Search/holiday-at-the-lodge/19887?locale=en-US",
+                  "cost": null,
+                  "lat": 36.17410666666667,
+                  "lon": -78.86571222222223,
+                  "ages": "0 - 99",
+                  "registration": "https://apm.activecommunities.com/dprplaymore/Activity_Search/holiday-at-the-lodge/19887?locale=en-US",
+                  "indoor": null,
+                  "area": "durham",
+                  "source": "durham-rec",
+                  "dropIn": false
+                }
+              }
+            ],
+            "area": "durham",
+            "outdoor": true,
+            "source": {
+              "kind": "park",
+              "title": "Spruce Pine Lodge",
+              "address": "2235 Bahama Rd, Durham, NC",
+              "lat": 36.17410666666667,
+              "lon": -78.86571222222223,
+              "url": "https://www.dprplaymore.org/Facilities/Facility/Details/Spruce-Pine-Lodge-69",
+              "amenities": [
+                "playground",
+                "picnic-shelter",
+                "restroom",
+                "greenway"
+              ],
+              "indoor": false,
+              "area": "durham",
+              "hours": null,
+              "cost": "Free"
+            }
+          },
+          "alternatives": [
+            {
+              "ref": "event:museum:triangle-land:23368",
+              "arrive": "08:50",
+              "leave": "11:00",
+              "why": "A morning hike with a nature journal, so your child can draw or write what {they} notice{s}. A family needs to sign up first.",
+              "tips": [
+                "Bring a pencil and a small notebook.",
+                "Pack a snack for the trail."
+              ],
+              "interests": [
+                "nature",
+                "art"
+              ],
+              "also": [],
+              "area": "east-wake",
+              "outdoor": true,
+              "source": {
+                "kind": "event",
+                "title": "Nature Journaling Hike",
+                "start": "2026-12-06T09:00:00",
+                "end": "2026-12-06T11:00:00",
+                "venue": "Williamson Farm and Nature Preserve",
+                "address": "4429 Old Country Mial Rd, Raleigh, 27610",
+                "url": "https://triangleland.org/event/nature-journaling-hike",
+                "cost": null,
+                "lat": 35.7202,
+                "lon": -78.4473,
+                "ages": null,
+                "registration": "https://triangleland.org/event/nature-journaling-hike",
+                "indoor": false,
+                "area": "east-wake",
+                "source": "museum",
+                "dropIn": false
+              }
+            },
+            {
+              "ref": "event:wake:24995",
+              "arrive": "13:00",
+              "leave": "14:40",
+              "why": "Your child watches model trains travel through scenes, then plays at Honeycutt Park.",
+              "tips": [
+                "Ask {them} to count the trains.",
+                "Bring a snack for the park."
+              ],
+              "interests": [
+                "vehicles",
+                "movement"
+              ],
+              "also": [
+                {
+                  "ref": "place:honeycutt-park",
+                  "source": {
+                    "kind": "park",
+                    "title": "Honeycutt Park",
+                    "address": "1032 Clear Creek Farm Road, Raleigh, NC 27615",
+                    "lat": 35.9023,
+                    "lon": -78.6259,
+                    "url": "https://raleighnc.gov/parks-and-recreation/places/honeycutt-park",
+                    "amenities": [
+                      "picnic-shelter",
+                      "courts",
+                      "fields",
+                      "playground"
+                    ],
+                    "indoor": false,
+                    "area": "north-raleigh",
+                    "hours": null,
+                    "cost": "Free"
+                  }
+                }
+              ],
+              "area": "north-raleigh",
+              "outdoor": false,
+              "source": {
+                "kind": "event",
+                "title": "Model Train Exhibit",
+                "start": "2026-12-06T13:00:00-05:00",
+                "end": "2026-12-06T16:30:00-05:00",
+                "venue": "North Regional Library",
+                "address": "7009 Harps Mill Road, Raleigh, NC",
+                "url": "https://www.wake.gov/events/model-train-exhibit-9",
+                "cost": "Free",
+                "lat": 35.880907380619,
+                "lon": -78.6281516610688,
+                "ages": "Young Children All Ages School-Age Children Teens",
+                "registration": null,
+                "indoor": true,
+                "area": "north-raleigh",
+                "source": "wake-county",
+                "dropIn": true
+              }
+            },
+            {
+              "ref": "place:gipson-play-plaza",
+              "arrive": "09:30",
+              "leave": "12:00",
+              "why": "A big destination playground with room for your child to climb and run.",
+              "tips": [
+                "Pack a snack and water.",
+                "Give a ten minute warning before you leave."
+              ],
+              "interests": [
+                "movement"
+              ],
+              "also": [],
+              "area": "raleigh",
+              "outdoor": true,
+              "source": {
+                "kind": "park",
+                "title": "Gipson Play Plaza at Dix Park",
+                "address": "715 Biggs Dr, Raleigh, NC 27603",
+                "lat": 35.7667,
+                "lon": -78.6539,
+                "url": "https://dixpark.org/gipson-play-plaza",
+                "amenities": [
+                  "playground",
+                  "restroom"
+                ],
+                "indoor": false,
+                "area": "raleigh",
+                "hours": {
+                  "sun": "8 a.m.–9 p.m.",
+                  "mon": "8 a.m.–9 p.m.",
+                  "tue": "8 a.m.–9 p.m.",
+                  "wed": "8 a.m.–9 p.m.",
+                  "thu": "8 a.m.–9 p.m.",
+                  "fri": "8 a.m.–9 p.m.",
+                  "sat": "8 a.m.–9 p.m."
+                },
+                "cost": "Free",
+                "note": "Free; free parking. Big destination playground on the south edge of Dix Park."
+              }
+            }
+          ],
+          "rainBackup": null,
+          "timeline": [
+            {
+              "start": "07:00",
+              "end": "07:30",
+              "kind": "meal",
+              "title": "Up and breakfast"
+            },
+            {
+              "start": "07:30",
+              "end": "11:40",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "11:40",
+              "end": "12:10",
+              "kind": "meal",
+              "title": "Lunch"
+            },
+            {
+              "start": "12:10",
+              "end": "12:30",
+              "kind": "travel",
+              "title": "Drive to Spruce Pine Lodge"
+            },
+            {
+              "start": "12:30",
+              "end": "13:00",
+              "kind": "outing",
+              "title": "Spruce Pine Lodge"
+            },
+            {
+              "start": "13:00",
+              "end": "14:45",
+              "kind": "outing",
+              "title": "Holiday at the Lodge"
+            },
+            {
+              "start": "14:45",
+              "end": "15:05",
+              "kind": "travel",
+              "title": "Drive home"
+            },
+            {
+              "start": "15:05",
+              "end": "18:00",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "18:00",
+              "end": "18:45",
+              "kind": "meal",
+              "title": "Dinner"
+            },
+            {
+              "start": "18:45",
+              "end": "19:30",
+              "kind": "routine",
+              "title": "Bath, books and bed"
+            }
+          ]
+        }
+      ],
+      "dropped": [
+        "[quiet] alternative place:ncma-museum-park: leaves 14:40, but event:museum:ncma:5909 ends 15:00; allow 10 minutes to get there and stay at least 20",
+        "[no-nap] alternative place:ncma-museum-park: leaves 14:40, but event:museum:ncma:5909 ends 15:00; allow 10 minutes to get there and stay at least 20"
+      ]
+    }
+  ],
+  "checked": {
+    "at": "2026-11-27T11:03:44.850Z",
+    "forecast": "none",
+    "weather": null,
+    "hidden": []
+  }
+}

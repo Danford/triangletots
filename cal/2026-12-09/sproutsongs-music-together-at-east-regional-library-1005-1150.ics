@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Triangle Tots//triangletots.com//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:2026-12-09-sproutsongs-music-together-at-east-regional-library-1005-115
+ 0@triangletots.com
+DTSTAMP:20261127T100000Z
+DTSTART:20261209T150500Z
+DTEND:20261209T165000Z
+SUMMARY:Sproutsongs Music Together! at East Regional Library
+LOCATION:946 Steeple Square Court\, Knightdale\, NC
+DESCRIPTION:https://www.wake.gov/events/sproutsongs-music-together-2\nhttps
+ ://www.knightdalenc.gov/knightdalestationpark\nThe whole day: https://tria
+ ngletots.com/2026-12-09/t4/\nTimes and details can change. Check the event
+  or place before you go.
+END:VEVENT
+END:VCALENDAR

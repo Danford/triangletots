@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Triangle Tots//triangletots.com//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:2026-12-09-sproutsongs-music-together-at-knightdale-station-park-0945-1
+ 100@triangletots.com
+DTSTAMP:20261127T100000Z
+DTSTART:20261209T144500Z
+DTEND:20261209T160000Z
+SUMMARY:Sproutsongs Music Together! at Knightdale Station Park
+LOCATION:810 North First Avenue\, Knightdale\, NC
+DESCRIPTION:https://www.knightdalenc.gov/knightdalestationpark\nhttps://www
+ .wake.gov/events/sproutsongs-music-together-2\nThe whole day: https://tria
+ ngletots.com/2026-12-09/t1/\nTimes and details can change. Check the event
+  or place before you go.
+END:VEVENT
+END:VCALENDAR

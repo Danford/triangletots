@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Triangle Tots//triangletots.com//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:2026-12-07-model-train-exhibit-at-north-regional-library-1330-1530@tria
+ ngletots.com
+DTSTAMP:20261127T100000Z
+DTSTART:20261207T183000Z
+DTEND:20261207T203000Z
+SUMMARY:Model Train Exhibit at North Regional Library
+LOCATION:7009 Harps Mill Road\, Raleigh\, NC
+DESCRIPTION:https://www.wake.gov/events/model-train-exhibit-10\nhttps://ral
+ eighnc.gov/parks-and-recreation/places/millbrook-exchange-park\nThe whole 
+ day: https://triangletots.com/2026-12-07/t3/\nTimes and details can change
+ . Check the event or place before you go.
+END:VEVENT
+END:VCALENDAR

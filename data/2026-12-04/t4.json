@@ -1,0 +1,932 @@
+{
+  "date": "2026-12-04",
+  "band": "t4",
+  "versions": [
+    {
+      "at": "2026-11-21T11:04:22.882Z",
+      "reason": null,
+      "forecast": "none",
+      "weather": null,
+      "plans": [
+        {
+          "nap": "short-nap",
+          "napLabel": "Short nap, 1 to 2",
+          "headline": "Hunt for winter bugs, then walk a story",
+          "main": {
+            "ref": "event:wake-parks:9458",
+            "arrive": "09:50",
+            "leave": "11:30",
+            "why": "Your child looks for where insects go in winter at Budding Sprouts at 10:00 am. Then {they} can walk the self-led StoryWalk at 11:00 am. A family needs to sign up for Budding Sprouts.",
+            "tips": [
+              "Sign up ahead of time and meet at the Harvest Hub.",
+              "Let your child lead the way at each StoryWalk page and read it aloud together.",
+              "Pack a snack for after the program, then head home before the nap."
+            ],
+            "interests": [
+              "nature",
+              "science",
+              "stories"
+            ],
+            "also": [
+              {
+                "ref": "event:wake-parks:8358:2026-12-04",
+                "source": {
+                  "kind": "event",
+                  "title": "Beech Bluff County Park StoryWalk® 2026 (Self-Led)",
+                  "start": "2026-12-04T08:00:00",
+                  "end": "2026-12-04T17:30:00",
+                  "venue": "Beech Bluff County Park",
+                  "address": "Beech Bluff Park Drive, Fuquay-Varina, NC",
+                  "url": "https://apm.activecommunities.com/wakeparks/Activity_Search/beech-bluff-county-park-storywalk-2026-self-led/8358?locale=en-US",
+                  "cost": "Free",
+                  "lat": 35.58537279715877,
+                  "lon": -78.6793341971644,
+                  "ages": null,
+                  "registration": false,
+                  "indoor": false,
+                  "area": "south-wake",
+                  "source": "wake-parks",
+                  "dropIn": true
+                }
+              }
+            ],
+            "area": "south-wake",
+            "outdoor": true,
+            "source": {
+              "kind": "event",
+              "title": "Budding Sprouts: Where are the Insects?",
+              "start": "2026-12-04T10:00:00",
+              "end": "2026-12-04T11:00:00",
+              "venue": "Beech Bluff County Park",
+              "address": "Beech Bluff Park Drive, Fuquay-Varina, NC",
+              "url": "https://apm.activecommunities.com/wakeparks/Activity_Search/budding-sprouts-where-are-the-insects/9458?locale=en-US",
+              "cost": "Free",
+              "lat": 35.58537279715877,
+              "lon": -78.6793341971644,
+              "ages": "At least 2 but less than 6",
+              "registration": "https://apm.activecommunities.com/wakeparks/Activity_Search/budding-sprouts-where-are-the-insects/9458?locale=en-US",
+              "indoor": false,
+              "area": "south-wake",
+              "source": "wake-parks",
+              "dropIn": false
+            }
+          },
+          "alternatives": [
+            {
+              "ref": "place:pullen-park-amusements",
+              "arrive": "15:15",
+              "leave": "16:30",
+              "why": "After the nap, your child rides the carousel and train, then catches the 4:00 pm children's theater show at Oberlin Regional Library. A family needs to sign up for the show.",
+              "tips": [
+                "Let your child pick the first ride, then agree on a second.",
+                "Sign up for the show and plan to arrive a few minutes early."
+              ],
+              "interests": [
+                "vehicles",
+                "movement",
+                "stories"
+              ],
+              "also": [
+                {
+                  "ref": "event:wake:24769",
+                  "source": {
+                    "kind": "event",
+                    "title": "Raleigh Charter High School Children's Theater Performance",
+                    "start": "2026-12-04T16:00:00-05:00",
+                    "end": "2026-12-04T16:30:00-05:00",
+                    "venue": "Oberlin Regional Library",
+                    "address": "1930 Clark Ave., Raleigh, NC, 27605",
+                    "url": "https://www.eventbrite.com/e/raleigh-charter-high-school-childrens-theater-performance-tickets-2004389057628",
+                    "cost": "Free",
+                    "lat": 35.7898395688737,
+                    "lon": -78.65822660779,
+                    "ages": "All Ages",
+                    "registration": "https://www.eventbrite.com/e/raleigh-charter-high-school-childrens-theater-performance-tickets-2004389057628",
+                    "indoor": true,
+                    "area": "raleigh",
+                    "source": "wake-county",
+                    "dropIn": false
+                  }
+                }
+              ],
+              "area": "raleigh",
+              "outdoor": false,
+              "source": {
+                "kind": "park",
+                "title": "Pullen Park Amusements",
+                "address": "410 Park Ave, Raleigh, NC 27606",
+                "lat": 35.7806,
+                "lon": -78.66396,
+                "url": "https://raleighnc.gov/parks-and-recreation/places/pullen-park-amusements",
+                "amenities": [
+                  "carousel",
+                  "boating",
+                  "train",
+                  "amusements",
+                  "courts",
+                  "playground",
+                  "picnic-shelter"
+                ],
+                "indoor": false,
+                "area": "raleigh",
+                "hours": {
+                  "mon": "10 a.m.–6 p.m.",
+                  "tue": "10 a.m.–6 p.m.",
+                  "wed": "10 a.m.–6 p.m.",
+                  "thu": "10 a.m.–6 p.m.",
+                  "fri": "10 a.m.–6 p.m.",
+                  "sat": "10 a.m.–6 p.m.",
+                  "sun": "10 a.m.–6 p.m."
+                },
+                "cost": "Free to get in; rides $2 a ticket"
+              }
+            },
+            {
+              "ref": "place:ncma-museum-park",
+              "arrive": "09:30",
+              "leave": "11:30",
+              "why": "Big outdoor art, trails and lawns give your child lots of room to run and look. Let {them} find the sculptures that look the most fun.",
+              "tips": [
+                "Bring a snack for a lawn break.",
+                "Play a game of spotting shapes in the outdoor art."
+              ],
+              "interests": [
+                "art",
+                "nature",
+                "movement"
+              ],
+              "also": [],
+              "area": "raleigh",
+              "outdoor": true,
+              "source": {
+                "kind": "garden",
+                "title": "NC Museum of Art Museum Park",
+                "address": "2110 Blue Ridge Rd, Raleigh, NC 27607",
+                "lat": 35.8105,
+                "lon": -78.7022,
+                "url": "https://ncartmuseum.org/museum-park/",
+                "amenities": [
+                  "garden",
+                  "nature",
+                  "greenway",
+                  "restroom"
+                ],
+                "indoor": false,
+                "area": "raleigh",
+                "hours": {
+                  "sun": "dawn to dusk",
+                  "mon": "dawn to dusk",
+                  "tue": "dawn to dusk",
+                  "wed": "dawn to dusk",
+                  "thu": "dawn to dusk",
+                  "fri": "dawn to dusk",
+                  "sat": "dawn to dusk"
+                },
+                "cost": "Free",
+                "note": "Free. 164 acres of trails, lawns and big outdoor art; the Capital Area Greenway runs through."
+              }
+            },
+            {
+              "ref": "event:libcal:durham-county-library:17237062",
+              "arrive": "10:20",
+              "leave": "11:40",
+              "why": "Preschool Storytime at 10:30 am has books, songs, movement and a simple craft. Then your child burns off energy at Durham Central Park. A family needs to sign up.",
+              "tips": [
+                "Sign up ahead of time.",
+                "Tell your child the playground comes after the craft."
+              ],
+              "interests": [
+                "stories",
+                "music",
+                "movement"
+              ],
+              "also": [
+                {
+                  "ref": "place:durham-central-park",
+                  "source": {
+                    "kind": "park",
+                    "title": "Durham Central Park",
+                    "address": "501 Foster St, Durham, NC",
+                    "lat": 36.0006525,
+                    "lon": -78.90071999999999,
+                    "url": "https://www.dprplaymore.org/Facilities/Facility/Details/Durham-Central-Park-18",
+                    "amenities": [
+                      "playground",
+                      "restroom",
+                      "greenway"
+                    ],
+                    "indoor": false,
+                    "area": "durham",
+                    "hours": null,
+                    "cost": "Free"
+                  }
+                }
+              ],
+              "area": "durham",
+              "outdoor": false,
+              "source": {
+                "kind": "event",
+                "title": "Preschool Storytime",
+                "start": "2026-12-04T10:30:00",
+                "end": "2026-12-04T11:00:00",
+                "venue": "Main Library",
+                "address": "300 N. Roxboro St, Durham, NC",
+                "url": "https://durhamcountylibrary.libcal.com/event/17237062",
+                "cost": "Free",
+                "lat": 35.99490876306902,
+                "lon": -78.8964971677054,
+                "ages": "Kindergarten, Pre-School",
+                "registration": "https://durhamcountylibrary.libcal.com/event/17237062",
+                "indoor": true,
+                "area": "durham",
+                "source": "libcal",
+                "dropIn": false
+              }
+            }
+          ],
+          "rainBackup": null,
+          "timeline": [
+            {
+              "start": "07:00",
+              "end": "07:30",
+              "kind": "meal",
+              "title": "Up and breakfast"
+            },
+            {
+              "start": "07:30",
+              "end": "09:10",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "09:10",
+              "end": "09:30",
+              "kind": "routine",
+              "title": "Get ready to go",
+              "detail": "Shoes on, the bag, water and a snack."
+            },
+            {
+              "start": "09:30",
+              "end": "09:50",
+              "kind": "travel",
+              "title": "Drive to Beech Bluff County Park"
+            },
+            {
+              "start": "09:50",
+              "end": "11:00",
+              "kind": "outing",
+              "title": "Budding Sprouts: Where are the Insects?"
+            },
+            {
+              "start": "11:00",
+              "end": "11:30",
+              "kind": "outing",
+              "title": "Beech Bluff County Park StoryWalk® 2026 (Self-Led)"
+            },
+            {
+              "start": "11:30",
+              "end": "11:50",
+              "kind": "travel",
+              "title": "Drive home"
+            },
+            {
+              "start": "11:50",
+              "end": "12:15",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "12:15",
+              "end": "12:45",
+              "kind": "meal",
+              "title": "Lunch"
+            },
+            {
+              "start": "12:45",
+              "end": "13:00",
+              "kind": "quiet",
+              "title": "Wind down",
+              "detail": "A couple of books to settle."
+            },
+            {
+              "start": "13:00",
+              "end": "14:00",
+              "kind": "nap",
+              "title": "Nap"
+            },
+            {
+              "start": "14:00",
+              "end": "14:20",
+              "kind": "routine",
+              "title": "Up and a snack"
+            },
+            {
+              "start": "14:20",
+              "end": "18:30",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "18:30",
+              "end": "19:15",
+              "kind": "meal",
+              "title": "Dinner"
+            },
+            {
+              "start": "19:15",
+              "end": "20:00",
+              "kind": "routine",
+              "title": "Bath, books and bed"
+            }
+          ]
+        },
+        {
+          "nap": "quiet",
+          "napLabel": "Quiet time",
+          "headline": "Ride the carousel, then see a holiday show",
+          "main": {
+            "ref": "place:pullen-park-amusements",
+            "arrive": "14:30",
+            "leave": "16:30",
+            "why": "Your child rides the carousel and train at Pullen Park, then sees the 4:00 pm children's theater show of The Polar Express and The Grinch at Oberlin Regional Library. A family needs to sign up for the show.",
+            "tips": [
+              "Sign up for the show ahead of time.",
+              "Let your child pick the first ride, then agree on one more.",
+              "Bring a snack to eat before you drive to the show."
+            ],
+            "interests": [
+              "vehicles",
+              "movement",
+              "stories"
+            ],
+            "also": [
+              {
+                "ref": "event:wake:24769",
+                "source": {
+                  "kind": "event",
+                  "title": "Raleigh Charter High School Children's Theater Performance",
+                  "start": "2026-12-04T16:00:00-05:00",
+                  "end": "2026-12-04T16:30:00-05:00",
+                  "venue": "Oberlin Regional Library",
+                  "address": "1930 Clark Ave., Raleigh, NC, 27605",
+                  "url": "https://www.eventbrite.com/e/raleigh-charter-high-school-childrens-theater-performance-tickets-2004389057628",
+                  "cost": "Free",
+                  "lat": 35.7898395688737,
+                  "lon": -78.65822660779,
+                  "ages": "All Ages",
+                  "registration": "https://www.eventbrite.com/e/raleigh-charter-high-school-childrens-theater-performance-tickets-2004389057628",
+                  "indoor": true,
+                  "area": "raleigh",
+                  "source": "wake-county",
+                  "dropIn": false
+                }
+              }
+            ],
+            "area": "raleigh",
+            "outdoor": false,
+            "source": {
+              "kind": "park",
+              "title": "Pullen Park Amusements",
+              "address": "410 Park Ave, Raleigh, NC 27606",
+              "lat": 35.7806,
+              "lon": -78.66396,
+              "url": "https://raleighnc.gov/parks-and-recreation/places/pullen-park-amusements",
+              "amenities": [
+                "carousel",
+                "boating",
+                "train",
+                "amusements",
+                "courts",
+                "playground",
+                "picnic-shelter"
+              ],
+              "indoor": false,
+              "area": "raleigh",
+              "hours": {
+                "mon": "10 a.m.–6 p.m.",
+                "tue": "10 a.m.–6 p.m.",
+                "wed": "10 a.m.–6 p.m.",
+                "thu": "10 a.m.–6 p.m.",
+                "fri": "10 a.m.–6 p.m.",
+                "sat": "10 a.m.–6 p.m.",
+                "sun": "10 a.m.–6 p.m."
+              },
+              "cost": "Free to get in; rides $2 a ticket"
+            }
+          },
+          "alternatives": [
+            {
+              "ref": "event:wake-parks:9458",
+              "arrive": "09:50",
+              "leave": "11:30",
+              "why": "Your child looks for where insects go in winter at Budding Sprouts at 10:00 am, then walks the self-led StoryWalk at 11:00 am. A family needs to sign up for Budding Sprouts.",
+              "tips": [
+                "Sign up ahead of time and meet at the Harvest Hub.",
+                "Let your child lead at each StoryWalk page."
+              ],
+              "interests": [
+                "nature",
+                "science",
+                "stories"
+              ],
+              "also": [
+                {
+                  "ref": "event:wake-parks:8358:2026-12-04",
+                  "source": {
+                    "kind": "event",
+                    "title": "Beech Bluff County Park StoryWalk® 2026 (Self-Led)",
+                    "start": "2026-12-04T08:00:00",
+                    "end": "2026-12-04T17:30:00",
+                    "venue": "Beech Bluff County Park",
+                    "address": "Beech Bluff Park Drive, Fuquay-Varina, NC",
+                    "url": "https://apm.activecommunities.com/wakeparks/Activity_Search/beech-bluff-county-park-storywalk-2026-self-led/8358?locale=en-US",
+                    "cost": "Free",
+                    "lat": 35.58537279715877,
+                    "lon": -78.6793341971644,
+                    "ages": null,
+                    "registration": false,
+                    "indoor": false,
+                    "area": "south-wake",
+                    "source": "wake-parks",
+                    "dropIn": true
+                  }
+                }
+              ],
+              "area": "south-wake",
+              "outdoor": true,
+              "source": {
+                "kind": "event",
+                "title": "Budding Sprouts: Where are the Insects?",
+                "start": "2026-12-04T10:00:00",
+                "end": "2026-12-04T11:00:00",
+                "venue": "Beech Bluff County Park",
+                "address": "Beech Bluff Park Drive, Fuquay-Varina, NC",
+                "url": "https://apm.activecommunities.com/wakeparks/Activity_Search/budding-sprouts-where-are-the-insects/9458?locale=en-US",
+                "cost": "Free",
+                "lat": 35.58537279715877,
+                "lon": -78.6793341971644,
+                "ages": "At least 2 but less than 6",
+                "registration": "https://apm.activecommunities.com/wakeparks/Activity_Search/budding-sprouts-where-are-the-insects/9458?locale=en-US",
+                "indoor": false,
+                "area": "south-wake",
+                "source": "wake-parks",
+                "dropIn": false
+              }
+            },
+            {
+              "ref": "place:crowder-county-park",
+              "arrive": "14:30",
+              "leave": "16:15",
+              "why": "After quiet time, your child has a playground, a garden and greenway paths to explore. {They} can pick a path and lead the way.",
+              "tips": [
+                "Bring a snack to share on a picnic shelter.",
+                "Give a ten minute warning before the last slide."
+              ],
+              "interests": [
+                "movement",
+                "nature"
+              ],
+              "also": [],
+              "area": "cary-apex",
+              "outdoor": true,
+              "source": {
+                "kind": "park",
+                "title": "Crowder County Park",
+                "address": "4709 Ten Ten Road",
+                "lat": 35.69174392711247,
+                "lon": -78.76585678897689,
+                "url": "https://www.wakegov.com/departments-government/parks-recreation-and-open-space/all-parks-trails/crowder-county-park",
+                "amenities": [
+                  "playground",
+                  "picnic-shelter",
+                  "restroom",
+                  "greenway",
+                  "garden"
+                ],
+                "indoor": false,
+                "area": "cary-apex",
+                "hours": null,
+                "cost": "Free"
+              }
+            },
+            {
+              "ref": "event:libcal:durham-county-library:17237062",
+              "arrive": "10:20",
+              "leave": "11:40",
+              "why": "Preschool Storytime at 10:30 am has books, songs, movement and a simple craft. Then your child plays at Durham Central Park. A family needs to sign up.",
+              "tips": [
+                "Sign up ahead of time.",
+                "Tell your child the playground comes after the craft."
+              ],
+              "interests": [
+                "stories",
+                "music",
+                "movement"
+              ],
+              "also": [
+                {
+                  "ref": "place:durham-central-park",
+                  "source": {
+                    "kind": "park",
+                    "title": "Durham Central Park",
+                    "address": "501 Foster St, Durham, NC",
+                    "lat": 36.0006525,
+                    "lon": -78.90071999999999,
+                    "url": "https://www.dprplaymore.org/Facilities/Facility/Details/Durham-Central-Park-18",
+                    "amenities": [
+                      "playground",
+                      "restroom",
+                      "greenway"
+                    ],
+                    "indoor": false,
+                    "area": "durham",
+                    "hours": null,
+                    "cost": "Free"
+                  }
+                }
+              ],
+              "area": "durham",
+              "outdoor": false,
+              "source": {
+                "kind": "event",
+                "title": "Preschool Storytime",
+                "start": "2026-12-04T10:30:00",
+                "end": "2026-12-04T11:00:00",
+                "venue": "Main Library",
+                "address": "300 N. Roxboro St, Durham, NC",
+                "url": "https://durhamcountylibrary.libcal.com/event/17237062",
+                "cost": "Free",
+                "lat": 35.99490876306902,
+                "lon": -78.8964971677054,
+                "ages": "Kindergarten, Pre-School",
+                "registration": "https://durhamcountylibrary.libcal.com/event/17237062",
+                "indoor": true,
+                "area": "durham",
+                "source": "libcal",
+                "dropIn": false
+              }
+            }
+          ],
+          "rainBackup": null,
+          "timeline": [
+            {
+              "start": "07:00",
+              "end": "07:30",
+              "kind": "meal",
+              "title": "Up and breakfast"
+            },
+            {
+              "start": "07:30",
+              "end": "11:45",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "11:45",
+              "end": "12:15",
+              "kind": "meal",
+              "title": "Lunch"
+            },
+            {
+              "start": "12:15",
+              "end": "13:00",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "13:00",
+              "end": "13:50",
+              "kind": "quiet",
+              "title": "Quiet time",
+              "detail": "Books or quiet play in their room."
+            },
+            {
+              "start": "13:50",
+              "end": "14:10",
+              "kind": "routine",
+              "title": "Get ready to go",
+              "detail": "Shoes on, the bag, water and a snack."
+            },
+            {
+              "start": "14:10",
+              "end": "14:30",
+              "kind": "travel",
+              "title": "Drive to Pullen Park Amusements"
+            },
+            {
+              "start": "14:30",
+              "end": "15:50",
+              "kind": "outing",
+              "title": "Pullen Park Amusements"
+            },
+            {
+              "start": "15:50",
+              "end": "16:00",
+              "kind": "travel",
+              "title": "Drive to Oberlin Regional Library"
+            },
+            {
+              "start": "16:00",
+              "end": "16:30",
+              "kind": "outing",
+              "title": "Raleigh Charter High School Children's Theater Performance"
+            },
+            {
+              "start": "16:30",
+              "end": "16:50",
+              "kind": "travel",
+              "title": "Drive home"
+            },
+            {
+              "start": "16:50",
+              "end": "18:00",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "18:00",
+              "end": "18:45",
+              "kind": "meal",
+              "title": "Dinner"
+            },
+            {
+              "start": "18:45",
+              "end": "19:30",
+              "kind": "routine",
+              "title": "Bath, books and bed"
+            }
+          ]
+        },
+        {
+          "nap": "no-nap",
+          "napLabel": "No nap",
+          "headline": "Explore the trails and gardens at Yates Mill",
+          "main": {
+            "ref": "place:historic-yates-mill-county-park",
+            "arrive": "09:30",
+            "leave": "11:30",
+            "why": "Your child explores nature and garden spaces on the greenway at Historic Yates Mill County Park. Let {them} lead and stop to look at whatever catches {their} eye.",
+            "tips": [
+              "Bring a small bag for collecting leaves and sticks.",
+              "Pack a snack to eat partway through.",
+              "Give a warning before heading back to the car."
+            ],
+            "interests": [
+              "nature",
+              "movement"
+            ],
+            "also": [],
+            "area": "raleigh",
+            "outdoor": true,
+            "source": {
+              "kind": "park",
+              "title": "Historic Yates Mill County Park",
+              "address": "4620 Lake Wheeler Rd., Raleigh, NC  27603",
+              "lat": 35.72157134974476,
+              "lon": -78.68526087901417,
+              "url": "https://www.wakegov.com/departments-government/parks-recreation-and-open-space/all-parks-trails/historic-yates-mill-county-park",
+              "amenities": [
+                "restroom",
+                "greenway",
+                "nature",
+                "garden"
+              ],
+              "indoor": false,
+              "area": "raleigh",
+              "hours": null,
+              "cost": "Free"
+            }
+          },
+          "alternatives": [
+            {
+              "ref": "place:gipson-play-plaza",
+              "arrive": "09:30",
+              "leave": "11:30",
+              "why": "Gipson Play Plaza is a big destination playground at Dix Park. Your child climbs and runs with lots of room.",
+              "tips": [
+                "Bring a snack and a water bottle.",
+                "Pick a meeting spot in case your child wanders."
+              ],
+              "interests": [
+                "movement"
+              ],
+              "also": [],
+              "area": "raleigh",
+              "outdoor": true,
+              "source": {
+                "kind": "park",
+                "title": "Gipson Play Plaza at Dix Park",
+                "address": "715 Biggs Dr, Raleigh, NC 27603",
+                "lat": 35.7667,
+                "lon": -78.6539,
+                "url": "https://dixpark.org/gipson-play-plaza",
+                "amenities": [
+                  "playground",
+                  "restroom"
+                ],
+                "indoor": false,
+                "area": "raleigh",
+                "hours": {
+                  "sun": "8 a.m.–9 p.m.",
+                  "mon": "8 a.m.–9 p.m.",
+                  "tue": "8 a.m.–9 p.m.",
+                  "wed": "8 a.m.–9 p.m.",
+                  "thu": "8 a.m.–9 p.m.",
+                  "fri": "8 a.m.–9 p.m.",
+                  "sat": "8 a.m.–9 p.m."
+                },
+                "cost": "Free",
+                "note": "Free; free parking. Big destination playground on the south edge of Dix Park."
+              }
+            },
+            {
+              "ref": "event:wake-parks:9458",
+              "arrive": "09:50",
+              "leave": "11:30",
+              "why": "Your child looks for where insects go in winter at Budding Sprouts at 10:00 am, then walks the self-led StoryWalk at 11:00 am. A family needs to sign up for Budding Sprouts.",
+              "tips": [
+                "Sign up ahead of time and meet at the Harvest Hub.",
+                "Let your child lead at each StoryWalk page."
+              ],
+              "interests": [
+                "nature",
+                "science",
+                "stories"
+              ],
+              "also": [
+                {
+                  "ref": "event:wake-parks:8358:2026-12-04",
+                  "source": {
+                    "kind": "event",
+                    "title": "Beech Bluff County Park StoryWalk® 2026 (Self-Led)",
+                    "start": "2026-12-04T08:00:00",
+                    "end": "2026-12-04T17:30:00",
+                    "venue": "Beech Bluff County Park",
+                    "address": "Beech Bluff Park Drive, Fuquay-Varina, NC",
+                    "url": "https://apm.activecommunities.com/wakeparks/Activity_Search/beech-bluff-county-park-storywalk-2026-self-led/8358?locale=en-US",
+                    "cost": "Free",
+                    "lat": 35.58537279715877,
+                    "lon": -78.6793341971644,
+                    "ages": null,
+                    "registration": false,
+                    "indoor": false,
+                    "area": "south-wake",
+                    "source": "wake-parks",
+                    "dropIn": true
+                  }
+                }
+              ],
+              "area": "south-wake",
+              "outdoor": true,
+              "source": {
+                "kind": "event",
+                "title": "Budding Sprouts: Where are the Insects?",
+                "start": "2026-12-04T10:00:00",
+                "end": "2026-12-04T11:00:00",
+                "venue": "Beech Bluff County Park",
+                "address": "Beech Bluff Park Drive, Fuquay-Varina, NC",
+                "url": "https://apm.activecommunities.com/wakeparks/Activity_Search/budding-sprouts-where-are-the-insects/9458?locale=en-US",
+                "cost": "Free",
+                "lat": 35.58537279715877,
+                "lon": -78.6793341971644,
+                "ages": "At least 2 but less than 6",
+                "registration": "https://apm.activecommunities.com/wakeparks/Activity_Search/budding-sprouts-where-are-the-insects/9458?locale=en-US",
+                "indoor": false,
+                "area": "south-wake",
+                "source": "wake-parks",
+                "dropIn": false
+              }
+            },
+            {
+              "ref": "event:libcal:durham-county-library:17237062",
+              "arrive": "10:20",
+              "leave": "11:40",
+              "why": "Preschool Storytime at 10:30 am has books, songs, movement and a simple craft. Then your child plays at Durham Central Park. A family needs to sign up.",
+              "tips": [
+                "Sign up ahead of time.",
+                "Tell your child the playground comes after the craft."
+              ],
+              "interests": [
+                "stories",
+                "music",
+                "movement"
+              ],
+              "also": [
+                {
+                  "ref": "place:durham-central-park",
+                  "source": {
+                    "kind": "park",
+                    "title": "Durham Central Park",
+                    "address": "501 Foster St, Durham, NC",
+                    "lat": 36.0006525,
+                    "lon": -78.90071999999999,
+                    "url": "https://www.dprplaymore.org/Facilities/Facility/Details/Durham-Central-Park-18",
+                    "amenities": [
+                      "playground",
+                      "restroom",
+                      "greenway"
+                    ],
+                    "indoor": false,
+                    "area": "durham",
+                    "hours": null,
+                    "cost": "Free"
+                  }
+                }
+              ],
+              "area": "durham",
+              "outdoor": false,
+              "source": {
+                "kind": "event",
+                "title": "Preschool Storytime",
+                "start": "2026-12-04T10:30:00",
+                "end": "2026-12-04T11:00:00",
+                "venue": "Main Library",
+                "address": "300 N. Roxboro St, Durham, NC",
+                "url": "https://durhamcountylibrary.libcal.com/event/17237062",
+                "cost": "Free",
+                "lat": 35.99490876306902,
+                "lon": -78.8964971677054,
+                "ages": "Kindergarten, Pre-School",
+                "registration": "https://durhamcountylibrary.libcal.com/event/17237062",
+                "indoor": true,
+                "area": "durham",
+                "source": "libcal",
+                "dropIn": false
+              }
+            }
+          ],
+          "rainBackup": null,
+          "timeline": [
+            {
+              "start": "07:00",
+              "end": "07:30",
+              "kind": "meal",
+              "title": "Up and breakfast"
+            },
+            {
+              "start": "07:30",
+              "end": "08:50",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "08:50",
+              "end": "09:10",
+              "kind": "routine",
+              "title": "Get ready to go",
+              "detail": "Shoes on, the bag, water and a snack."
+            },
+            {
+              "start": "09:10",
+              "end": "09:30",
+              "kind": "travel",
+              "title": "Drive to Historic Yates Mill County Park"
+            },
+            {
+              "start": "09:30",
+              "end": "11:30",
+              "kind": "outing",
+              "title": "Historic Yates Mill County Park"
+            },
+            {
+              "start": "11:30",
+              "end": "11:50",
+              "kind": "travel",
+              "title": "Drive home"
+            },
+            {
+              "start": "11:50",
+              "end": "12:20",
+              "kind": "meal",
+              "title": "Lunch"
+            },
+            {
+              "start": "12:20",
+              "end": "18:00",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "18:00",
+              "end": "18:45",
+              "kind": "meal",
+              "title": "Dinner"
+            },
+            {
+              "start": "18:45",
+              "end": "19:30",
+              "kind": "routine",
+              "title": "Bath, books and bed"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "checked": {
+    "at": "2026-11-27T11:03:44.821Z",
+    "forecast": "none",
+    "weather": null,
+    "hidden": []
+  }
+}

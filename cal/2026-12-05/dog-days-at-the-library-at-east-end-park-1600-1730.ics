@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Triangle Tots//triangletots.com//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:2026-12-05-dog-days-at-the-library-at-east-end-park-1600-1730@trianglet
+ ots.com
+DTSTAMP:20261127T100000Z
+DTSTART:20261205T210000Z
+DTEND:20261205T223000Z
+SUMMARY:Dog Days at the Library! at East End Park
+LOCATION:1200 N Alston Ave\, Durham\, NC
+DESCRIPTION:https://www.dprplaymore.org/Facilities/Facility/Details/East-En
+ d-Park-20\nhttps://durhamcountylibrary.libcal.com/event/17942859\nThe whol
+ e day: https://triangletots.com/2026-12-05/t1/\nTimes and details can chan
+ ge. Check the event or place before you go.
+END:VEVENT
+END:VCALENDAR

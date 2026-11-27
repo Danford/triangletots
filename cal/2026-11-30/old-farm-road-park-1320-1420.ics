@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Triangle Tots//triangletots.com//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:2026-11-30-old-farm-road-park-1320-1420@triangletots.com
+DTSTAMP:20261127T100000Z
+DTSTART:20261130T182000Z
+DTEND:20261130T192000Z
+SUMMARY:Old Farm Road Park
+LOCATION:7 Hedgerow Pl\, Durham\, NC
+DESCRIPTION:https://www.dprplaymore.org/Facilities/Facility/Details/Old-Far
+ m-Road-Park-51\nThe whole day: https://triangletots.com/2026-11-30/t3/\nTi
+ mes and details can change. Check the event or place before you go.
+END:VEVENT
+END:VCALENDAR

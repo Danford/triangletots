@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Triangle Tots//triangletots.com//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:2026-12-05-eva-perry-regional-library-s-30th-year-anniversary-at-eva-pe
+ -1350-1640@triangletots.com
+DTSTAMP:20261127T100000Z
+DTSTART:20261205T185000Z
+DTEND:20261205T214000Z
+SUMMARY:Eva Perry Regional Library's 30th Year Anniversary. at Eva Perry Re
+ gional Library
+LOCATION:2100 Shepherds Vineyard Drive\, Apex\, NC
+DESCRIPTION:https://www.wake.gov/events/eva-perry-regional-librarys-30th-ye
+ ar-anniversary\nhttp://www.apexnc.org/795/Apex-Community-Park\nThe whole d
+ ay: https://triangletots.com/2026-12-05/t3/\nTimes and details can change.
+  Check the event or place before you go.
+END:VEVENT
+END:VCALENDAR

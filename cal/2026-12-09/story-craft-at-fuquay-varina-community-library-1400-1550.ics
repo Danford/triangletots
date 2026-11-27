@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Triangle Tots//triangletots.com//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:2026-12-09-story-craft-at-fuquay-varina-community-library-1400-1550@tri
+ angletots.com
+DTSTAMP:20261127T100000Z
+DTSTART:20261209T190000Z
+DTEND:20261209T205000Z
+SUMMARY:Story & Craft at Fuquay-Varina Community Library
+LOCATION:271 Bramblehill Drive\, Fuquay-Varina\, NC
+DESCRIPTION:https://www.wake.gov/events/story-craft-0\nhttp://www.fuquay-va
+ rina.org/Facilities/Facility/Details/FuquayVarina-Museums-at-Ashworth-Park
+ -14\nThe whole day: https://triangletots.com/2026-12-09/t3/\nTimes and det
+ ails can change. Check the event or place before you go.
+END:VEVENT
+END:VCALENDAR

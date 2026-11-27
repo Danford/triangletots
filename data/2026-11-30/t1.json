@@ -1,0 +1,2124 @@
+{
+  "date": "2026-11-30",
+  "band": "t1",
+  "versions": [
+    {
+      "at": "2026-11-17T11:05:12.023Z",
+      "reason": null,
+      "forecast": "none",
+      "weather": null,
+      "plans": [
+        {
+          "nap": "two-naps",
+          "napLabel": "Two naps",
+          "headline": "Explore ancient Nubia, then run on the lawns",
+          "main": {
+            "ref": "event:museum:ncma:5191",
+            "arrive": "11:00",
+            "leave": "12:30",
+            "why": "Your child can wander the galleries at Member Monday: Ancient Nubia, then burn off energy at NC Museum of Art Museum Park, with its lawns, trails and big outdoor art.",
+            "tips": [
+              "Let {them} point at what catches {their} eye and move on when {they} {is} ready.",
+              "Bring a snack for the lawn. Offering it at the park makes leaving the galleries easier.",
+              "Say goodbye to the big art, then walk to the car holding a favorite toy."
+            ],
+            "interests": [
+              "art",
+              "nature",
+              "movement"
+            ],
+            "also": [
+              {
+                "ref": "place:ncma-museum-park",
+                "source": {
+                  "kind": "garden",
+                  "title": "NC Museum of Art Museum Park",
+                  "address": "2110 Blue Ridge Rd, Raleigh, NC 27607",
+                  "lat": 35.8105,
+                  "lon": -78.7022,
+                  "url": "https://ncartmuseum.org/museum-park/",
+                  "amenities": [
+                    "garden",
+                    "nature",
+                    "greenway",
+                    "restroom"
+                  ],
+                  "indoor": false,
+                  "area": "raleigh",
+                  "hours": {
+                    "sun": "dawn to dusk",
+                    "mon": "dawn to dusk",
+                    "tue": "dawn to dusk",
+                    "wed": "dawn to dusk",
+                    "thu": "dawn to dusk",
+                    "fri": "dawn to dusk",
+                    "sat": "dawn to dusk"
+                  },
+                  "cost": "Free",
+                  "note": "Free. 164 acres of trails, lawns and big outdoor art; the Capital Area Greenway runs through."
+                }
+              }
+            ],
+            "area": "raleigh",
+            "outdoor": false,
+            "source": {
+              "kind": "event",
+              "title": "Member Monday: Ancient Nubia",
+              "start": "2026-11-30T10:00:00",
+              "end": "2026-11-30T15:00:00",
+              "venue": "NC Museum of Art",
+              "address": "2110 Blue Ridge Rd, Raleigh, NC 27607",
+              "url": "https://ncartmuseum.org/event/member-monday-ancient-nubia/",
+              "cost": "Museum and park admission is free",
+              "lat": 35.8105,
+              "lon": -78.7022,
+              "ages": "Exhibition Related Events",
+              "registration": null,
+              "indoor": true,
+              "area": "raleigh",
+              "source": "museum",
+              "dropIn": true
+            }
+          },
+          "alternatives": [
+            {
+              "ref": "event:wake-parks:8358:2026-11-30",
+              "arrive": "11:00",
+              "leave": "12:30",
+              "why": "A self-led StoryWalk along the Educational Loop. Your toddler can walk from page to page and look at the pictures.",
+              "tips": [
+                "Carry a small snack for the walk.",
+                "Let {them} lead and stop whenever {they} want{s} to."
+              ],
+              "interests": [
+                "stories",
+                "nature",
+                "movement"
+              ],
+              "also": [],
+              "area": "south-wake",
+              "outdoor": true,
+              "source": {
+                "kind": "event",
+                "title": "Beech Bluff County Park StoryWalk® 2026 (Self-Led)",
+                "start": "2026-11-30T08:00:00",
+                "end": "2026-11-30T17:30:00",
+                "venue": "Beech Bluff County Park",
+                "address": "Beech Bluff Park Drive, Fuquay-Varina, NC",
+                "url": "https://apm.activecommunities.com/wakeparks/Activity_Search/beech-bluff-county-park-storywalk-2026-self-led/8358?locale=en-US",
+                "cost": "Free",
+                "lat": 35.58537279715877,
+                "lon": -78.6793341971644,
+                "ages": null,
+                "registration": false,
+                "indoor": false,
+                "area": "south-wake",
+                "source": "wake-parks",
+                "dropIn": true
+              }
+            },
+            {
+              "ref": "place:hemlock-bluffs",
+              "arrive": "11:00",
+              "leave": "12:30",
+              "why": "A woodland walk with trees and leaves to look at and touch. A carrier is easier than a stroller on the boardwalks and stairs.",
+              "tips": [
+                "Wear {them} in a carrier for the stairs.",
+                "Bring a snack to eat before you head home."
+              ],
+              "interests": [
+                "nature",
+                "movement"
+              ],
+              "also": [],
+              "area": "cary-apex",
+              "outdoor": true,
+              "source": {
+                "kind": "park",
+                "title": "Hemlock Bluffs Nature Preserve",
+                "address": "2616 Kildaire Farm Rd, Cary, NC 27518",
+                "lat": 35.7253,
+                "lon": -78.7846,
+                "url": "https://www.carync.gov/recreation-enjoyment/parks-greenways-environment/parks/stevens-nature-center-at-hemlock-bluffs-nature-preserve",
+                "amenities": [
+                  "nature"
+                ],
+                "indoor": false,
+                "area": "cary-apex",
+                "hours": {
+                  "sun": "9 a.m. to sunset",
+                  "mon": "9 a.m. to sunset",
+                  "tue": "9 a.m. to sunset",
+                  "wed": "9 a.m. to sunset",
+                  "thu": "9 a.m. to sunset",
+                  "fri": "9 a.m. to sunset",
+                  "sat": "9 a.m. to sunset"
+                },
+                "cost": "Free",
+                "note": "Free. About three miles of mulched trails and boardwalks with stairs (a carrier beats a stroller); restrooms in the Stevens Nature Center, open Mon–Sat 10–5, Sun 1–5."
+              }
+            },
+            {
+              "ref": "place:knightdale-station-park",
+              "arrive": "11:00",
+              "leave": "12:30",
+              "why": "Playground time for climbing and sliding, with the greenway nearby for a short walk.",
+              "tips": [
+                "Start on the lowest slide and let {them} set the pace.",
+                "Offer a snack before you leave."
+              ],
+              "interests": [
+                "movement",
+                "nature"
+              ],
+              "also": [],
+              "area": "east-wake",
+              "outdoor": true,
+              "source": {
+                "kind": "park",
+                "title": "Knightdale Station Park",
+                "address": "810 North First Avenue, Knightdale, NC",
+                "lat": 35.795776739559024,
+                "lon": -78.47584503817626,
+                "url": "https://www.knightdalenc.gov/knightdalestationpark",
+                "amenities": [
+                  "playground",
+                  "picnic-shelter",
+                  "greenway"
+                ],
+                "indoor": false,
+                "area": "east-wake",
+                "hours": null,
+                "cost": "Free"
+              }
+            }
+          ],
+          "rainBackup": null,
+          "timeline": [
+            {
+              "start": "07:00",
+              "end": "07:30",
+              "kind": "meal",
+              "title": "Up and breakfast"
+            },
+            {
+              "start": "07:30",
+              "end": "09:30",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "09:30",
+              "end": "10:30",
+              "kind": "nap",
+              "title": "Nap"
+            },
+            {
+              "start": "10:30",
+              "end": "10:40",
+              "kind": "routine",
+              "title": "Up, a snack and out the door",
+              "detail": "Have the bag packed and by the door before the nap."
+            },
+            {
+              "start": "10:40",
+              "end": "11:00",
+              "kind": "travel",
+              "title": "Drive to NC Museum of Art"
+            },
+            {
+              "start": "11:00",
+              "end": "12:30",
+              "kind": "outing",
+              "title": "NC Museum of Art",
+              "detail": "Pack a lunch to eat there."
+            },
+            {
+              "start": "12:30",
+              "end": "12:50",
+              "kind": "travel",
+              "title": "Drive home"
+            },
+            {
+              "start": "12:50",
+              "end": "14:30",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "14:30",
+              "end": "15:30",
+              "kind": "nap",
+              "title": "Nap"
+            },
+            {
+              "start": "15:30",
+              "end": "15:50",
+              "kind": "routine",
+              "title": "Up and a snack"
+            },
+            {
+              "start": "15:50",
+              "end": "17:30",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "17:30",
+              "end": "18:15",
+              "kind": "meal",
+              "title": "Dinner"
+            },
+            {
+              "start": "18:15",
+              "end": "19:00",
+              "kind": "routine",
+              "title": "Bath, books and bed"
+            }
+          ]
+        },
+        {
+          "nap": "early-nap",
+          "napLabel": "One nap, 12 to 2",
+          "headline": "Toddle the forest greenway and spot leaves",
+          "main": {
+            "ref": "place:clemmons-educational-state-forest",
+            "arrive": "09:00",
+            "leave": "10:45",
+            "why": "A slow morning in the woods. Your toddler can walk the greenway, pick up leaves and sticks, and stop to look at whatever is on the ground.",
+            "tips": [
+              "Let {them} set the pace and choose where to stop.",
+              "Bring a snack and eat it at the picnic shelter before you go.",
+              "Leave with a leaf or stick to carry to the car."
+            ],
+            "interests": [
+              "nature",
+              "movement"
+            ],
+            "also": [],
+            "area": "east-wake",
+            "outdoor": true,
+            "source": {
+              "kind": "park",
+              "title": "Clemmons Educational State Forest",
+              "address": "2256 Old U.S. Hwy 70, Clayton, NC",
+              "lat": 35.674152072557575,
+              "lon": -78.48905206181357,
+              "url": "https://www.ncesf.org/clemmons.html",
+              "amenities": [
+                "picnic-shelter",
+                "restroom",
+                "greenway"
+              ],
+              "indoor": false,
+              "area": "east-wake",
+              "hours": null,
+              "cost": "Free"
+            }
+          },
+          "alternatives": [
+            {
+              "ref": "event:museum:ncma:5191",
+              "arrive": "10:00",
+              "leave": "11:15",
+              "why": "Your child can look around Member Monday: Ancient Nubia, then play on the grass at NC Museum of Art Museum Park.",
+              "tips": [
+                "Keep the museum visit short and save energy for the park.",
+                "Bring a snack for the lawn."
+              ],
+              "interests": [
+                "art",
+                "nature"
+              ],
+              "also": [
+                {
+                  "ref": "place:ncma-museum-park",
+                  "source": {
+                    "kind": "garden",
+                    "title": "NC Museum of Art Museum Park",
+                    "address": "2110 Blue Ridge Rd, Raleigh, NC 27607",
+                    "lat": 35.8105,
+                    "lon": -78.7022,
+                    "url": "https://ncartmuseum.org/museum-park/",
+                    "amenities": [
+                      "garden",
+                      "nature",
+                      "greenway",
+                      "restroom"
+                    ],
+                    "indoor": false,
+                    "area": "raleigh",
+                    "hours": {
+                      "sun": "dawn to dusk",
+                      "mon": "dawn to dusk",
+                      "tue": "dawn to dusk",
+                      "wed": "dawn to dusk",
+                      "thu": "dawn to dusk",
+                      "fri": "dawn to dusk",
+                      "sat": "dawn to dusk"
+                    },
+                    "cost": "Free",
+                    "note": "Free. 164 acres of trails, lawns and big outdoor art; the Capital Area Greenway runs through."
+                  }
+                }
+              ],
+              "area": "raleigh",
+              "outdoor": false,
+              "source": {
+                "kind": "event",
+                "title": "Member Monday: Ancient Nubia",
+                "start": "2026-11-30T10:00:00",
+                "end": "2026-11-30T15:00:00",
+                "venue": "NC Museum of Art",
+                "address": "2110 Blue Ridge Rd, Raleigh, NC 27607",
+                "url": "https://ncartmuseum.org/event/member-monday-ancient-nubia/",
+                "cost": "Museum and park admission is free",
+                "lat": 35.8105,
+                "lon": -78.7022,
+                "ages": "Exhibition Related Events",
+                "registration": null,
+                "indoor": true,
+                "area": "raleigh",
+                "source": "museum",
+                "dropIn": true
+              }
+            },
+            {
+              "ref": "place:sarah-p-duke-gardens",
+              "arrive": "08:30",
+              "leave": "10:15",
+              "why": "Garden paths and the Charlotte Brody Discovery Garden give your toddler plenty to see, touch and walk toward.",
+              "tips": [
+                "Arrive early, since parking often fills before 10 am.",
+                "Bring a snack for a bench break."
+              ],
+              "interests": [
+                "nature",
+                "science"
+              ],
+              "also": [],
+              "area": "durham",
+              "outdoor": true,
+              "source": {
+                "kind": "garden",
+                "title": "Sarah P. Duke Gardens",
+                "address": "420 Anderson St, Durham, NC 27708",
+                "lat": 36.0024,
+                "lon": -78.9328,
+                "url": "https://gardens.duke.edu/visit/",
+                "amenities": [
+                  "garden",
+                  "nature",
+                  "restroom"
+                ],
+                "indoor": false,
+                "area": "durham",
+                "hours": {
+                  "sun": "8 a.m. to sunset",
+                  "mon": "8 a.m. to sunset",
+                  "tue": "8 a.m. to sunset",
+                  "wed": "8 a.m. to sunset",
+                  "thu": "8 a.m. to sunset",
+                  "fri": "8 a.m. to sunset",
+                  "sat": "8 a.m. to sunset"
+                },
+                "cost": "Free",
+                "note": "Free; paid parking that often fills before 10 a.m. on nice days. Five miles of paths, and the Charlotte Brody Discovery Garden."
+              }
+            },
+            {
+              "ref": "event:wake-parks:8358:2026-11-30",
+              "arrive": "15:00",
+              "leave": "16:30",
+              "why": "A self-led StoryWalk on the Educational Loop. Your toddler can walk from page to page and look at the pictures.",
+              "tips": [
+                "Let {them} lead and stop whenever {they} want{s} to.",
+                "Bring a snack for after the walk."
+              ],
+              "interests": [
+                "stories",
+                "nature",
+                "movement"
+              ],
+              "also": [],
+              "area": "south-wake",
+              "outdoor": true,
+              "source": {
+                "kind": "event",
+                "title": "Beech Bluff County Park StoryWalk® 2026 (Self-Led)",
+                "start": "2026-11-30T08:00:00",
+                "end": "2026-11-30T17:30:00",
+                "venue": "Beech Bluff County Park",
+                "address": "Beech Bluff Park Drive, Fuquay-Varina, NC",
+                "url": "https://apm.activecommunities.com/wakeparks/Activity_Search/beech-bluff-county-park-storywalk-2026-self-led/8358?locale=en-US",
+                "cost": "Free",
+                "lat": 35.58537279715877,
+                "lon": -78.6793341971644,
+                "ages": null,
+                "registration": false,
+                "indoor": false,
+                "area": "south-wake",
+                "source": "wake-parks",
+                "dropIn": true
+              }
+            },
+            {
+              "ref": "event:wake-parks:9411:2026-11-30",
+              "arrive": "14:30",
+              "leave": "16:00",
+              "why": "An Exploration Station about the American bison. Your child can look, touch and learn at {their} own pace.",
+              "tips": [
+                "Come and go as {they} like{s}.",
+                "Bring a snack for a break outside."
+              ],
+              "interests": [
+                "animals",
+                "science",
+                "nature"
+              ],
+              "also": [],
+              "area": "raleigh",
+              "outdoor": true,
+              "source": {
+                "kind": "event",
+                "title": "Exploration Station: American Bison",
+                "start": "2026-11-30T08:30:00",
+                "end": "2026-11-30T17:00:00",
+                "venue": "Historic Yates Mill County Park",
+                "address": "4620 Lake Wheeler Rd., Raleigh, NC  27603",
+                "url": "https://apm.activecommunities.com/wakeparks/Activity_Search/exploration-station-american-bison/9411?locale=en-US",
+                "cost": "Free",
+                "lat": 35.72157134974476,
+                "lon": -78.68526087901417,
+                "ages": null,
+                "registration": false,
+                "indoor": false,
+                "area": "raleigh",
+                "source": "wake-parks",
+                "dropIn": true
+              }
+            }
+          ],
+          "rainBackup": null,
+          "timeline": [
+            {
+              "start": "07:00",
+              "end": "07:30",
+              "kind": "meal",
+              "title": "Up and breakfast"
+            },
+            {
+              "start": "07:30",
+              "end": "08:20",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "08:20",
+              "end": "08:40",
+              "kind": "routine",
+              "title": "Get ready to go",
+              "detail": "Shoes on, the bag, water and a snack."
+            },
+            {
+              "start": "08:40",
+              "end": "09:00",
+              "kind": "travel",
+              "title": "Drive to Clemmons Educational State Forest"
+            },
+            {
+              "start": "09:00",
+              "end": "10:45",
+              "kind": "outing",
+              "title": "Clemmons Educational State Forest"
+            },
+            {
+              "start": "10:45",
+              "end": "11:05",
+              "kind": "travel",
+              "title": "Drive home"
+            },
+            {
+              "start": "11:05",
+              "end": "11:15",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "11:15",
+              "end": "11:45",
+              "kind": "meal",
+              "title": "Lunch"
+            },
+            {
+              "start": "11:45",
+              "end": "12:00",
+              "kind": "quiet",
+              "title": "Wind down",
+              "detail": "A couple of books to settle."
+            },
+            {
+              "start": "12:00",
+              "end": "14:00",
+              "kind": "nap",
+              "title": "Nap"
+            },
+            {
+              "start": "14:00",
+              "end": "14:20",
+              "kind": "routine",
+              "title": "Up and a snack"
+            },
+            {
+              "start": "14:20",
+              "end": "17:30",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "17:30",
+              "end": "18:15",
+              "kind": "meal",
+              "title": "Dinner"
+            },
+            {
+              "start": "18:15",
+              "end": "19:00",
+              "kind": "routine",
+              "title": "Bath, books and bed"
+            }
+          ]
+        },
+        {
+          "nap": "late-nap",
+          "napLabel": "One nap, 1 to 3",
+          "headline": "Silly stories, then a playground romp",
+          "main": {
+            "ref": "event:libcal:durham-county-library:15558959",
+            "arrive": "10:20",
+            "leave": "12:10",
+            "why": "Your toddler can listen, sing and giggle at Silly Stories with Ms. Olivia, then run and climb at Cornwallis Road Park next door.",
+            "tips": [
+              "Sit close to the front so {they} can see the book.",
+              "Bring a snack for the park.",
+              "Say one last goodbye to the slide before you leave."
+            ],
+            "interests": [
+              "stories",
+              "music",
+              "movement"
+            ],
+            "also": [
+              {
+                "ref": "place:cornwallis-road-park",
+                "source": {
+                  "kind": "park",
+                  "title": "Cornwallis Road Park",
+                  "address": "2830 Wade Rd, Durham, NC",
+                  "lat": 35.97904,
+                  "lon": -78.95229666666667,
+                  "url": "https://www.dprplaymore.org/Facilities/Facility/Details/Cornwallis-Road-Park-13",
+                  "amenities": [
+                    "playground",
+                    "restroom"
+                  ],
+                  "indoor": false,
+                  "area": "durham",
+                  "hours": null,
+                  "cost": "Free"
+                }
+              }
+            ],
+            "area": "durham",
+            "outdoor": false,
+            "source": {
+              "kind": "event",
+              "title": "Silly Stories with Ms. Olivia",
+              "start": "2026-11-30T10:30:00",
+              "end": "2026-11-30T11:00:00",
+              "venue": "Southwest Regional Library",
+              "address": "3605 Shannon Rd, Durham, NC",
+              "url": "https://durhamcountylibrary.libcal.com/event/15558959",
+              "cost": "Free",
+              "lat": 35.95871978266895,
+              "lon": -78.95455361473043,
+              "ages": "Baby, Elementary School, Kindergarten, Pre-School, Toddler",
+              "registration": false,
+              "indoor": true,
+              "area": "durham",
+              "source": "libcal",
+              "dropIn": false
+            }
+          },
+          "alternatives": [
+            {
+              "ref": "place:sarah-p-duke-gardens",
+              "arrive": "08:30",
+              "leave": "10:15",
+              "why": "Garden paths and the Charlotte Brody Discovery Garden give your toddler plenty to see, touch and walk toward.",
+              "tips": [
+                "Arrive early, since parking often fills before 10 am.",
+                "Bring a snack for a bench break."
+              ],
+              "interests": [
+                "nature",
+                "science"
+              ],
+              "also": [],
+              "area": "durham",
+              "outdoor": true,
+              "source": {
+                "kind": "garden",
+                "title": "Sarah P. Duke Gardens",
+                "address": "420 Anderson St, Durham, NC 27708",
+                "lat": 36.0024,
+                "lon": -78.9328,
+                "url": "https://gardens.duke.edu/visit/",
+                "amenities": [
+                  "garden",
+                  "nature",
+                  "restroom"
+                ],
+                "indoor": false,
+                "area": "durham",
+                "hours": {
+                  "sun": "8 a.m. to sunset",
+                  "mon": "8 a.m. to sunset",
+                  "tue": "8 a.m. to sunset",
+                  "wed": "8 a.m. to sunset",
+                  "thu": "8 a.m. to sunset",
+                  "fri": "8 a.m. to sunset",
+                  "sat": "8 a.m. to sunset"
+                },
+                "cost": "Free",
+                "note": "Free; paid parking that often fills before 10 a.m. on nice days. Five miles of paths, and the Charlotte Brody Discovery Garden."
+              }
+            },
+            {
+              "ref": "event:museum:ncma:5191",
+              "arrive": "10:15",
+              "leave": "12:00",
+              "why": "Your child can explore Member Monday: Ancient Nubia, then play on the lawns at NC Museum of Art Museum Park.",
+              "tips": [
+                "Keep the museum stop short and save energy for the park.",
+                "Bring a snack for the lawn."
+              ],
+              "interests": [
+                "art",
+                "nature",
+                "movement"
+              ],
+              "also": [
+                {
+                  "ref": "place:ncma-museum-park",
+                  "source": {
+                    "kind": "garden",
+                    "title": "NC Museum of Art Museum Park",
+                    "address": "2110 Blue Ridge Rd, Raleigh, NC 27607",
+                    "lat": 35.8105,
+                    "lon": -78.7022,
+                    "url": "https://ncartmuseum.org/museum-park/",
+                    "amenities": [
+                      "garden",
+                      "nature",
+                      "greenway",
+                      "restroom"
+                    ],
+                    "indoor": false,
+                    "area": "raleigh",
+                    "hours": {
+                      "sun": "dawn to dusk",
+                      "mon": "dawn to dusk",
+                      "tue": "dawn to dusk",
+                      "wed": "dawn to dusk",
+                      "thu": "dawn to dusk",
+                      "fri": "dawn to dusk",
+                      "sat": "dawn to dusk"
+                    },
+                    "cost": "Free",
+                    "note": "Free. 164 acres of trails, lawns and big outdoor art; the Capital Area Greenway runs through."
+                  }
+                }
+              ],
+              "area": "raleigh",
+              "outdoor": false,
+              "source": {
+                "kind": "event",
+                "title": "Member Monday: Ancient Nubia",
+                "start": "2026-11-30T10:00:00",
+                "end": "2026-11-30T15:00:00",
+                "venue": "NC Museum of Art",
+                "address": "2110 Blue Ridge Rd, Raleigh, NC 27607",
+                "url": "https://ncartmuseum.org/event/member-monday-ancient-nubia/",
+                "cost": "Museum and park admission is free",
+                "lat": 35.8105,
+                "lon": -78.7022,
+                "ages": "Exhibition Related Events",
+                "registration": null,
+                "indoor": true,
+                "area": "raleigh",
+                "source": "museum",
+                "dropIn": true
+              }
+            },
+            {
+              "ref": "place:hemlock-bluffs",
+              "arrive": "09:30",
+              "leave": "11:15",
+              "why": "A woodland walk with trees and leaves to look at and touch. A carrier is easier than a stroller on the boardwalks and stairs.",
+              "tips": [
+                "Wear {them} in a carrier for the stairs.",
+                "Bring a snack to eat before you head home."
+              ],
+              "interests": [
+                "nature",
+                "movement"
+              ],
+              "also": [],
+              "area": "cary-apex",
+              "outdoor": true,
+              "source": {
+                "kind": "park",
+                "title": "Hemlock Bluffs Nature Preserve",
+                "address": "2616 Kildaire Farm Rd, Cary, NC 27518",
+                "lat": 35.7253,
+                "lon": -78.7846,
+                "url": "https://www.carync.gov/recreation-enjoyment/parks-greenways-environment/parks/stevens-nature-center-at-hemlock-bluffs-nature-preserve",
+                "amenities": [
+                  "nature"
+                ],
+                "indoor": false,
+                "area": "cary-apex",
+                "hours": {
+                  "sun": "9 a.m. to sunset",
+                  "mon": "9 a.m. to sunset",
+                  "tue": "9 a.m. to sunset",
+                  "wed": "9 a.m. to sunset",
+                  "thu": "9 a.m. to sunset",
+                  "fri": "9 a.m. to sunset",
+                  "sat": "9 a.m. to sunset"
+                },
+                "cost": "Free",
+                "note": "Free. About three miles of mulched trails and boardwalks with stairs (a carrier beats a stroller); restrooms in the Stevens Nature Center, open Mon–Sat 10–5, Sun 1–5."
+              }
+            },
+            {
+              "ref": "event:wake-parks:8358:2026-11-30",
+              "arrive": "15:30",
+              "leave": "16:50",
+              "why": "A self-led StoryWalk on the Educational Loop. Your toddler can walk from page to page and look at the pictures.",
+              "tips": [
+                "Let {them} lead and stop whenever {they} want{s} to.",
+                "Bring a snack for after the walk."
+              ],
+              "interests": [
+                "stories",
+                "nature",
+                "movement"
+              ],
+              "also": [],
+              "area": "south-wake",
+              "outdoor": true,
+              "source": {
+                "kind": "event",
+                "title": "Beech Bluff County Park StoryWalk® 2026 (Self-Led)",
+                "start": "2026-11-30T08:00:00",
+                "end": "2026-11-30T17:30:00",
+                "venue": "Beech Bluff County Park",
+                "address": "Beech Bluff Park Drive, Fuquay-Varina, NC",
+                "url": "https://apm.activecommunities.com/wakeparks/Activity_Search/beech-bluff-county-park-storywalk-2026-self-led/8358?locale=en-US",
+                "cost": "Free",
+                "lat": 35.58537279715877,
+                "lon": -78.6793341971644,
+                "ages": null,
+                "registration": false,
+                "indoor": false,
+                "area": "south-wake",
+                "source": "wake-parks",
+                "dropIn": true
+              }
+            }
+          ],
+          "rainBackup": null,
+          "timeline": [
+            {
+              "start": "07:00",
+              "end": "07:30",
+              "kind": "meal",
+              "title": "Up and breakfast"
+            },
+            {
+              "start": "07:30",
+              "end": "09:40",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "09:40",
+              "end": "10:00",
+              "kind": "routine",
+              "title": "Get ready to go",
+              "detail": "Shoes on, the bag, water and a snack."
+            },
+            {
+              "start": "10:00",
+              "end": "10:20",
+              "kind": "travel",
+              "title": "Drive to Southwest Regional Library"
+            },
+            {
+              "start": "10:20",
+              "end": "11:00",
+              "kind": "outing",
+              "title": "Silly Stories with Ms. Olivia",
+              "detail": "Pack a lunch to eat there."
+            },
+            {
+              "start": "11:00",
+              "end": "11:10",
+              "kind": "travel",
+              "title": "Drive to Cornwallis Road Park"
+            },
+            {
+              "start": "11:10",
+              "end": "12:10",
+              "kind": "outing",
+              "title": "Cornwallis Road Park"
+            },
+            {
+              "start": "12:10",
+              "end": "12:30",
+              "kind": "travel",
+              "title": "Drive home"
+            },
+            {
+              "start": "12:30",
+              "end": "12:45",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "12:45",
+              "end": "13:00",
+              "kind": "quiet",
+              "title": "Wind down",
+              "detail": "A couple of books to settle."
+            },
+            {
+              "start": "13:00",
+              "end": "15:00",
+              "kind": "nap",
+              "title": "Nap"
+            },
+            {
+              "start": "15:00",
+              "end": "15:20",
+              "kind": "routine",
+              "title": "Up and a snack"
+            },
+            {
+              "start": "15:20",
+              "end": "18:00",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "18:00",
+              "end": "18:45",
+              "kind": "meal",
+              "title": "Dinner"
+            },
+            {
+              "start": "18:45",
+              "end": "19:30",
+              "kind": "routine",
+              "title": "Bath, books and bed"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "at": "2026-11-26T19:05:31.031Z",
+      "reason": "The forest walk for the early-nap day is outdoors and rain is now likely, so the main outing moved to indoor Total Tot Time at W.D. Hill Rec Ctr.",
+      "forecast": "nws",
+      "weather": {
+        "period": "Monday",
+        "tempF": 61,
+        "precipProbability": 77,
+        "shortForecast": "Rain Showers",
+        "windMph": 12,
+        "windFrom": "W",
+        "hours": [
+          {
+            "t": "05:00",
+            "tempF": 54,
+            "pop": 77,
+            "cloud": 87
+          },
+          {
+            "t": "06:00",
+            "tempF": 53,
+            "pop": 77,
+            "cloud": 87
+          },
+          {
+            "t": "07:00",
+            "tempF": 52,
+            "pop": 15,
+            "cloud": 49
+          },
+          {
+            "t": "08:00",
+            "tempF": 53,
+            "pop": 15,
+            "cloud": 49
+          },
+          {
+            "t": "09:00",
+            "tempF": 54,
+            "pop": 15,
+            "cloud": 49
+          },
+          {
+            "t": "10:00",
+            "tempF": 56,
+            "pop": 15,
+            "cloud": 49
+          },
+          {
+            "t": "11:00",
+            "tempF": 57,
+            "pop": 15,
+            "cloud": 49
+          },
+          {
+            "t": "12:00",
+            "tempF": 58,
+            "pop": 15,
+            "cloud": 49
+          },
+          {
+            "t": "13:00",
+            "tempF": 59,
+            "pop": 0,
+            "cloud": 37
+          },
+          {
+            "t": "14:00",
+            "tempF": 59,
+            "pop": 0,
+            "cloud": 37
+          },
+          {
+            "t": "15:00",
+            "tempF": 59,
+            "pop": 0,
+            "cloud": 37
+          },
+          {
+            "t": "16:00",
+            "tempF": 58,
+            "pop": 0,
+            "cloud": 37
+          },
+          {
+            "t": "17:00",
+            "tempF": 55,
+            "pop": 0,
+            "cloud": 37
+          },
+          {
+            "t": "18:00",
+            "tempF": 51,
+            "pop": 0,
+            "cloud": 37
+          },
+          {
+            "t": "19:00",
+            "tempF": 48,
+            "pop": 0,
+            "cloud": 28
+          },
+          {
+            "t": "20:00",
+            "tempF": 46,
+            "pop": 0,
+            "cloud": 28
+          },
+          {
+            "t": "21:00",
+            "tempF": 45,
+            "pop": 0,
+            "cloud": 28
+          },
+          {
+            "t": "22:00",
+            "tempF": 44,
+            "pop": 0,
+            "cloud": 28
+          },
+          {
+            "t": "23:00",
+            "tempF": 43,
+            "pop": 0,
+            "cloud": 28
+          }
+        ]
+      },
+      "plans": [
+        {
+          "nap": "two-naps",
+          "napLabel": "Two naps",
+          "headline": "Explore ancient Nubia, then run on the lawns",
+          "main": {
+            "ref": "event:museum:ncma:5191",
+            "arrive": "11:00",
+            "leave": "12:30",
+            "why": "Your child can wander the galleries at Member Monday: Ancient Nubia, then burn off energy at NC Museum of Art Museum Park, with its lawns, trails and big outdoor art.",
+            "tips": [
+              "Let {them} point at what catches {their} eye and move on when {they} {is} ready.",
+              "Bring a snack for the lawn. Offering it at the park makes leaving the galleries easier.",
+              "Say goodbye to the big art, then walk to the car holding a favorite toy."
+            ],
+            "interests": [
+              "art",
+              "nature",
+              "movement"
+            ],
+            "also": [
+              {
+                "ref": "place:ncma-museum-park",
+                "source": {
+                  "kind": "garden",
+                  "title": "NC Museum of Art Museum Park",
+                  "address": "2110 Blue Ridge Rd, Raleigh, NC 27607",
+                  "lat": 35.8105,
+                  "lon": -78.7022,
+                  "url": "https://ncartmuseum.org/museum-park/",
+                  "amenities": [
+                    "garden",
+                    "nature",
+                    "greenway",
+                    "restroom"
+                  ],
+                  "indoor": false,
+                  "area": "raleigh",
+                  "hours": {
+                    "sun": "dawn to dusk",
+                    "mon": "dawn to dusk",
+                    "tue": "dawn to dusk",
+                    "wed": "dawn to dusk",
+                    "thu": "dawn to dusk",
+                    "fri": "dawn to dusk",
+                    "sat": "dawn to dusk"
+                  },
+                  "cost": "Free",
+                  "note": "Free. 164 acres of trails, lawns and big outdoor art; the Capital Area Greenway runs through."
+                }
+              }
+            ],
+            "area": "raleigh",
+            "outdoor": false,
+            "source": {
+              "kind": "event",
+              "title": "Member Monday: Ancient Nubia",
+              "start": "2026-11-30T10:00:00",
+              "end": "2026-11-30T15:00:00",
+              "venue": "NC Museum of Art",
+              "address": "2110 Blue Ridge Rd, Raleigh, NC 27607",
+              "url": "https://ncartmuseum.org/event/member-monday-ancient-nubia/",
+              "cost": "Museum and park admission is free",
+              "lat": 35.8105,
+              "lon": -78.7022,
+              "ages": "Exhibition Related Events",
+              "registration": null,
+              "indoor": true,
+              "area": "raleigh",
+              "source": "museum",
+              "dropIn": true
+            }
+          },
+          "alternatives": [
+            {
+              "ref": "event:wake-parks:8358:2026-11-30",
+              "arrive": "11:00",
+              "leave": "12:30",
+              "why": "A self-led StoryWalk along the Educational Loop. Your toddler can walk from page to page and look at the pictures.",
+              "tips": [
+                "Carry a small snack for the walk.",
+                "Let {them} lead and stop whenever {they} want{s} to."
+              ],
+              "interests": [
+                "stories",
+                "nature",
+                "movement"
+              ],
+              "also": [],
+              "area": "south-wake",
+              "outdoor": true,
+              "source": {
+                "kind": "event",
+                "title": "Beech Bluff County Park StoryWalk® 2026 (Self-Led)",
+                "start": "2026-11-30T08:00:00",
+                "end": "2026-11-30T17:30:00",
+                "venue": "Beech Bluff County Park",
+                "address": "Beech Bluff Park Drive, Fuquay-Varina, NC",
+                "url": "https://apm.activecommunities.com/wakeparks/Activity_Search/beech-bluff-county-park-storywalk-2026-self-led/8358?locale=en-US",
+                "cost": "Free",
+                "lat": 35.58537279715877,
+                "lon": -78.6793341971644,
+                "ages": null,
+                "registration": false,
+                "indoor": false,
+                "area": "south-wake",
+                "source": "wake-parks",
+                "dropIn": true
+              }
+            },
+            {
+              "ref": "place:hemlock-bluffs",
+              "arrive": "11:00",
+              "leave": "12:30",
+              "why": "A woodland walk with trees and leaves to look at and touch. A carrier is easier than a stroller on the boardwalks and stairs.",
+              "tips": [
+                "Wear {them} in a carrier for the stairs.",
+                "Bring a snack to eat before you head home."
+              ],
+              "interests": [
+                "nature",
+                "movement"
+              ],
+              "also": [],
+              "area": "cary-apex",
+              "outdoor": true,
+              "source": {
+                "kind": "park",
+                "title": "Hemlock Bluffs Nature Preserve",
+                "address": "2616 Kildaire Farm Rd, Cary, NC 27518",
+                "lat": 35.7253,
+                "lon": -78.7846,
+                "url": "https://www.carync.gov/recreation-enjoyment/parks-greenways-environment/parks/stevens-nature-center-at-hemlock-bluffs-nature-preserve",
+                "amenities": [
+                  "nature"
+                ],
+                "indoor": false,
+                "area": "cary-apex",
+                "hours": {
+                  "sun": "9 a.m. to sunset",
+                  "mon": "9 a.m. to sunset",
+                  "tue": "9 a.m. to sunset",
+                  "wed": "9 a.m. to sunset",
+                  "thu": "9 a.m. to sunset",
+                  "fri": "9 a.m. to sunset",
+                  "sat": "9 a.m. to sunset"
+                },
+                "cost": "Free",
+                "note": "Free. About three miles of mulched trails and boardwalks with stairs (a carrier beats a stroller); restrooms in the Stevens Nature Center, open Mon–Sat 10–5, Sun 1–5."
+              }
+            },
+            {
+              "ref": "place:knightdale-station-park",
+              "arrive": "11:00",
+              "leave": "12:30",
+              "why": "Playground time for climbing and sliding, with the greenway nearby for a short walk.",
+              "tips": [
+                "Start on the lowest slide and let {them} set the pace.",
+                "Offer a snack before you leave."
+              ],
+              "interests": [
+                "movement",
+                "nature"
+              ],
+              "also": [],
+              "area": "east-wake",
+              "outdoor": true,
+              "source": {
+                "kind": "park",
+                "title": "Knightdale Station Park",
+                "address": "810 North First Avenue, Knightdale, NC",
+                "lat": 35.795776739559024,
+                "lon": -78.47584503817626,
+                "url": "https://www.knightdalenc.gov/knightdalestationpark",
+                "amenities": [
+                  "playground",
+                  "picnic-shelter",
+                  "greenway"
+                ],
+                "indoor": false,
+                "area": "east-wake",
+                "hours": null,
+                "cost": "Free"
+              }
+            }
+          ],
+          "rainBackup": null,
+          "timeline": [
+            {
+              "start": "07:00",
+              "end": "07:30",
+              "kind": "meal",
+              "title": "Up and breakfast"
+            },
+            {
+              "start": "07:30",
+              "end": "09:30",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "09:30",
+              "end": "10:30",
+              "kind": "nap",
+              "title": "Nap"
+            },
+            {
+              "start": "10:30",
+              "end": "10:40",
+              "kind": "routine",
+              "title": "Up, a snack and out the door",
+              "detail": "Have the bag packed and by the door before the nap."
+            },
+            {
+              "start": "10:40",
+              "end": "11:00",
+              "kind": "travel",
+              "title": "Drive to NC Museum of Art"
+            },
+            {
+              "start": "11:00",
+              "end": "12:30",
+              "kind": "outing",
+              "title": "NC Museum of Art",
+              "detail": "Pack a lunch to eat there."
+            },
+            {
+              "start": "12:30",
+              "end": "12:50",
+              "kind": "travel",
+              "title": "Drive home"
+            },
+            {
+              "start": "12:50",
+              "end": "14:30",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "14:30",
+              "end": "15:30",
+              "kind": "nap",
+              "title": "Nap"
+            },
+            {
+              "start": "15:30",
+              "end": "15:50",
+              "kind": "routine",
+              "title": "Up and a snack"
+            },
+            {
+              "start": "15:50",
+              "end": "17:30",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "17:30",
+              "end": "18:15",
+              "kind": "meal",
+              "title": "Dinner"
+            },
+            {
+              "start": "18:15",
+              "end": "19:00",
+              "kind": "routine",
+              "title": "Bath, books and bed"
+            }
+          ]
+        },
+        {
+          "nap": "early-nap",
+          "napLabel": "One nap, 12 to 2",
+          "headline": "Parachute play and tunnel crawling in the gym",
+          "main": {
+            "ref": "event:durham-rec:19772:2026-11-30",
+            "arrive": "10:00",
+            "leave": "11:15",
+            "why": "Your toddler can play with a parachute and crawl through tunnels at Total Tot Time in the gym. A family needs to sign up first.",
+            "tips": [
+              "Let {them} watch for a minute, then join in when {they} {is} ready.",
+              "Bring a snack for the car ride home.",
+              "Wave goodbye to the tunnels before you head out."
+            ],
+            "interests": [
+              "movement"
+            ],
+            "also": [],
+            "area": "durham",
+            "outdoor": false,
+            "source": {
+              "kind": "event",
+              "title": "Total Tot Time",
+              "start": "2026-11-30T10:00:00",
+              "end": "2026-11-30T12:00:00",
+              "venue": "W.D. Hill Rec Ctr",
+              "address": "1308 Fayetteville St, Durham, NC",
+              "url": "https://apm.activecommunities.com/dprplaymore/Activity_Search/total-tot-time/19772?locale=en-US",
+              "cost": null,
+              "lat": 35.9797,
+              "lon": -78.8985,
+              "ages": "1 - 6",
+              "registration": "https://apm.activecommunities.com/dprplaymore/Activity_Search/total-tot-time/19772?locale=en-US",
+              "indoor": true,
+              "area": "durham",
+              "source": "durham-rec",
+              "dropIn": false
+            }
+          },
+          "alternatives": [
+            {
+              "ref": "event:museum:ncma:5191",
+              "arrive": "10:00",
+              "leave": "11:15",
+              "why": "Your child can look around Member Monday: Ancient Nubia, then play on the grass at NC Museum of Art Museum Park.",
+              "tips": [
+                "Keep the museum visit short and save energy for the park.",
+                "Bring a snack for the lawn."
+              ],
+              "interests": [
+                "art",
+                "nature"
+              ],
+              "also": [
+                {
+                  "ref": "place:ncma-museum-park",
+                  "source": {
+                    "kind": "garden",
+                    "title": "NC Museum of Art Museum Park",
+                    "address": "2110 Blue Ridge Rd, Raleigh, NC 27607",
+                    "lat": 35.8105,
+                    "lon": -78.7022,
+                    "url": "https://ncartmuseum.org/museum-park/",
+                    "amenities": [
+                      "garden",
+                      "nature",
+                      "greenway",
+                      "restroom"
+                    ],
+                    "indoor": false,
+                    "area": "raleigh",
+                    "hours": {
+                      "sun": "dawn to dusk",
+                      "mon": "dawn to dusk",
+                      "tue": "dawn to dusk",
+                      "wed": "dawn to dusk",
+                      "thu": "dawn to dusk",
+                      "fri": "dawn to dusk",
+                      "sat": "dawn to dusk"
+                    },
+                    "cost": "Free",
+                    "note": "Free. 164 acres of trails, lawns and big outdoor art; the Capital Area Greenway runs through."
+                  }
+                }
+              ],
+              "area": "raleigh",
+              "outdoor": false,
+              "source": {
+                "kind": "event",
+                "title": "Member Monday: Ancient Nubia",
+                "start": "2026-11-30T10:00:00",
+                "end": "2026-11-30T15:00:00",
+                "venue": "NC Museum of Art",
+                "address": "2110 Blue Ridge Rd, Raleigh, NC 27607",
+                "url": "https://ncartmuseum.org/event/member-monday-ancient-nubia/",
+                "cost": "Museum and park admission is free",
+                "lat": 35.8105,
+                "lon": -78.7022,
+                "ages": "Exhibition Related Events",
+                "registration": null,
+                "indoor": true,
+                "area": "raleigh",
+                "source": "museum",
+                "dropIn": true
+              }
+            },
+            {
+              "ref": "place:sarah-p-duke-gardens",
+              "arrive": "08:30",
+              "leave": "10:15",
+              "why": "Garden paths and the Charlotte Brody Discovery Garden give your toddler plenty to see, touch and walk toward.",
+              "tips": [
+                "Arrive early, since parking often fills before 10 am.",
+                "Bring a snack for a bench break."
+              ],
+              "interests": [
+                "nature",
+                "science"
+              ],
+              "also": [],
+              "area": "durham",
+              "outdoor": true,
+              "source": {
+                "kind": "garden",
+                "title": "Sarah P. Duke Gardens",
+                "address": "420 Anderson St, Durham, NC 27708",
+                "lat": 36.0024,
+                "lon": -78.9328,
+                "url": "https://gardens.duke.edu/visit/",
+                "amenities": [
+                  "garden",
+                  "nature",
+                  "restroom"
+                ],
+                "indoor": false,
+                "area": "durham",
+                "hours": {
+                  "sun": "8 a.m. to sunset",
+                  "mon": "8 a.m. to sunset",
+                  "tue": "8 a.m. to sunset",
+                  "wed": "8 a.m. to sunset",
+                  "thu": "8 a.m. to sunset",
+                  "fri": "8 a.m. to sunset",
+                  "sat": "8 a.m. to sunset"
+                },
+                "cost": "Free",
+                "note": "Free; paid parking that often fills before 10 a.m. on nice days. Five miles of paths, and the Charlotte Brody Discovery Garden."
+              }
+            },
+            {
+              "ref": "event:wake-parks:8358:2026-11-30",
+              "arrive": "15:00",
+              "leave": "16:30",
+              "why": "A self-led StoryWalk on the Educational Loop. Your toddler can walk from page to page and look at the pictures.",
+              "tips": [
+                "Let {them} lead and stop whenever {they} want{s} to.",
+                "Bring a snack for after the walk."
+              ],
+              "interests": [
+                "stories",
+                "nature",
+                "movement"
+              ],
+              "also": [],
+              "area": "south-wake",
+              "outdoor": true,
+              "source": {
+                "kind": "event",
+                "title": "Beech Bluff County Park StoryWalk® 2026 (Self-Led)",
+                "start": "2026-11-30T08:00:00",
+                "end": "2026-11-30T17:30:00",
+                "venue": "Beech Bluff County Park",
+                "address": "Beech Bluff Park Drive, Fuquay-Varina, NC",
+                "url": "https://apm.activecommunities.com/wakeparks/Activity_Search/beech-bluff-county-park-storywalk-2026-self-led/8358?locale=en-US",
+                "cost": "Free",
+                "lat": 35.58537279715877,
+                "lon": -78.6793341971644,
+                "ages": null,
+                "registration": false,
+                "indoor": false,
+                "area": "south-wake",
+                "source": "wake-parks",
+                "dropIn": true
+              }
+            },
+            {
+              "ref": "event:wake-parks:9411:2026-11-30",
+              "arrive": "14:30",
+              "leave": "16:00",
+              "why": "An Exploration Station about the American bison. Your child can look, touch and learn at {their} own pace.",
+              "tips": [
+                "Come and go as {they} like{s}.",
+                "Bring a snack for a break outside."
+              ],
+              "interests": [
+                "animals",
+                "science",
+                "nature"
+              ],
+              "also": [],
+              "area": "raleigh",
+              "outdoor": true,
+              "source": {
+                "kind": "event",
+                "title": "Exploration Station: American Bison",
+                "start": "2026-11-30T08:30:00",
+                "end": "2026-11-30T17:00:00",
+                "venue": "Historic Yates Mill County Park",
+                "address": "4620 Lake Wheeler Rd., Raleigh, NC  27603",
+                "url": "https://apm.activecommunities.com/wakeparks/Activity_Search/exploration-station-american-bison/9411?locale=en-US",
+                "cost": "Free",
+                "lat": 35.72157134974476,
+                "lon": -78.68526087901417,
+                "ages": null,
+                "registration": false,
+                "indoor": false,
+                "area": "raleigh",
+                "source": "wake-parks",
+                "dropIn": true
+              }
+            }
+          ],
+          "rainBackup": null,
+          "timeline": [
+            {
+              "start": "07:00",
+              "end": "07:30",
+              "kind": "meal",
+              "title": "Up and breakfast"
+            },
+            {
+              "start": "07:30",
+              "end": "09:20",
+              "kind": "play",
+              "title": "Play outside",
+              "detail": "In the yard or at a nearby park."
+            },
+            {
+              "start": "09:20",
+              "end": "09:40",
+              "kind": "routine",
+              "title": "Get ready to go",
+              "detail": "Shoes on, the bag, water and a snack."
+            },
+            {
+              "start": "09:40",
+              "end": "10:00",
+              "kind": "travel",
+              "title": "Drive to W.D. Hill Rec Ctr"
+            },
+            {
+              "start": "10:00",
+              "end": "11:15",
+              "kind": "outing",
+              "title": "W.D. Hill Rec Ctr"
+            },
+            {
+              "start": "11:15",
+              "end": "11:35",
+              "kind": "travel",
+              "title": "Drive home"
+            },
+            {
+              "start": "11:35",
+              "end": "12:00",
+              "kind": "meal",
+              "title": "Lunch"
+            },
+            {
+              "start": "12:00",
+              "end": "14:00",
+              "kind": "nap",
+              "title": "Nap"
+            },
+            {
+              "start": "14:00",
+              "end": "14:20",
+              "kind": "routine",
+              "title": "Up and a snack"
+            },
+            {
+              "start": "14:20",
+              "end": "17:30",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "17:30",
+              "end": "18:15",
+              "kind": "meal",
+              "title": "Dinner"
+            },
+            {
+              "start": "18:15",
+              "end": "19:00",
+              "kind": "routine",
+              "title": "Bath, books and bed"
+            }
+          ]
+        },
+        {
+          "nap": "late-nap",
+          "napLabel": "One nap, 1 to 3",
+          "headline": "Silly stories, then a playground romp",
+          "main": {
+            "ref": "event:libcal:durham-county-library:15558959",
+            "arrive": "10:20",
+            "leave": "12:10",
+            "why": "Your toddler can listen, sing and giggle at Silly Stories with Ms. Olivia, then run and climb at Cornwallis Road Park next door.",
+            "tips": [
+              "Sit close to the front so {they} can see the book.",
+              "Bring a snack for the park.",
+              "Say one last goodbye to the slide before you leave."
+            ],
+            "interests": [
+              "stories",
+              "music",
+              "movement"
+            ],
+            "also": [
+              {
+                "ref": "place:cornwallis-road-park",
+                "source": {
+                  "kind": "park",
+                  "title": "Cornwallis Road Park",
+                  "address": "2830 Wade Rd, Durham, NC",
+                  "lat": 35.97904,
+                  "lon": -78.95229666666667,
+                  "url": "https://www.dprplaymore.org/Facilities/Facility/Details/Cornwallis-Road-Park-13",
+                  "amenities": [
+                    "playground",
+                    "restroom"
+                  ],
+                  "indoor": false,
+                  "area": "durham",
+                  "hours": null,
+                  "cost": "Free"
+                }
+              }
+            ],
+            "area": "durham",
+            "outdoor": false,
+            "source": {
+              "kind": "event",
+              "title": "Silly Stories with Ms. Olivia",
+              "start": "2026-11-30T10:30:00",
+              "end": "2026-11-30T11:00:00",
+              "venue": "Southwest Regional Library",
+              "address": "3605 Shannon Rd, Durham, NC",
+              "url": "https://durhamcountylibrary.libcal.com/event/15558959",
+              "cost": "Free",
+              "lat": 35.95871978266895,
+              "lon": -78.95455361473043,
+              "ages": "Baby, Elementary School, Kindergarten, Pre-School, Toddler",
+              "registration": false,
+              "indoor": true,
+              "area": "durham",
+              "source": "libcal",
+              "dropIn": false
+            }
+          },
+          "alternatives": [
+            {
+              "ref": "place:sarah-p-duke-gardens",
+              "arrive": "08:30",
+              "leave": "10:15",
+              "why": "Garden paths and the Charlotte Brody Discovery Garden give your toddler plenty to see, touch and walk toward.",
+              "tips": [
+                "Arrive early, since parking often fills before 10 am.",
+                "Bring a snack for a bench break."
+              ],
+              "interests": [
+                "nature",
+                "science"
+              ],
+              "also": [],
+              "area": "durham",
+              "outdoor": true,
+              "source": {
+                "kind": "garden",
+                "title": "Sarah P. Duke Gardens",
+                "address": "420 Anderson St, Durham, NC 27708",
+                "lat": 36.0024,
+                "lon": -78.9328,
+                "url": "https://gardens.duke.edu/visit/",
+                "amenities": [
+                  "garden",
+                  "nature",
+                  "restroom"
+                ],
+                "indoor": false,
+                "area": "durham",
+                "hours": {
+                  "sun": "8 a.m. to sunset",
+                  "mon": "8 a.m. to sunset",
+                  "tue": "8 a.m. to sunset",
+                  "wed": "8 a.m. to sunset",
+                  "thu": "8 a.m. to sunset",
+                  "fri": "8 a.m. to sunset",
+                  "sat": "8 a.m. to sunset"
+                },
+                "cost": "Free",
+                "note": "Free; paid parking that often fills before 10 a.m. on nice days. Five miles of paths, and the Charlotte Brody Discovery Garden."
+              }
+            },
+            {
+              "ref": "event:museum:ncma:5191",
+              "arrive": "10:15",
+              "leave": "12:00",
+              "why": "Your child can explore Member Monday: Ancient Nubia, then play on the lawns at NC Museum of Art Museum Park.",
+              "tips": [
+                "Keep the museum stop short and save energy for the park.",
+                "Bring a snack for the lawn."
+              ],
+              "interests": [
+                "art",
+                "nature",
+                "movement"
+              ],
+              "also": [
+                {
+                  "ref": "place:ncma-museum-park",
+                  "source": {
+                    "kind": "garden",
+                    "title": "NC Museum of Art Museum Park",
+                    "address": "2110 Blue Ridge Rd, Raleigh, NC 27607",
+                    "lat": 35.8105,
+                    "lon": -78.7022,
+                    "url": "https://ncartmuseum.org/museum-park/",
+                    "amenities": [
+                      "garden",
+                      "nature",
+                      "greenway",
+                      "restroom"
+                    ],
+                    "indoor": false,
+                    "area": "raleigh",
+                    "hours": {
+                      "sun": "dawn to dusk",
+                      "mon": "dawn to dusk",
+                      "tue": "dawn to dusk",
+                      "wed": "dawn to dusk",
+                      "thu": "dawn to dusk",
+                      "fri": "dawn to dusk",
+                      "sat": "dawn to dusk"
+                    },
+                    "cost": "Free",
+                    "note": "Free. 164 acres of trails, lawns and big outdoor art; the Capital Area Greenway runs through."
+                  }
+                }
+              ],
+              "area": "raleigh",
+              "outdoor": false,
+              "source": {
+                "kind": "event",
+                "title": "Member Monday: Ancient Nubia",
+                "start": "2026-11-30T10:00:00",
+                "end": "2026-11-30T15:00:00",
+                "venue": "NC Museum of Art",
+                "address": "2110 Blue Ridge Rd, Raleigh, NC 27607",
+                "url": "https://ncartmuseum.org/event/member-monday-ancient-nubia/",
+                "cost": "Museum and park admission is free",
+                "lat": 35.8105,
+                "lon": -78.7022,
+                "ages": "Exhibition Related Events",
+                "registration": null,
+                "indoor": true,
+                "area": "raleigh",
+                "source": "museum",
+                "dropIn": true
+              }
+            },
+            {
+              "ref": "place:hemlock-bluffs",
+              "arrive": "09:30",
+              "leave": "11:15",
+              "why": "A woodland walk with trees and leaves to look at and touch. A carrier is easier than a stroller on the boardwalks and stairs.",
+              "tips": [
+                "Wear {them} in a carrier for the stairs.",
+                "Bring a snack to eat before you head home."
+              ],
+              "interests": [
+                "nature",
+                "movement"
+              ],
+              "also": [],
+              "area": "cary-apex",
+              "outdoor": true,
+              "source": {
+                "kind": "park",
+                "title": "Hemlock Bluffs Nature Preserve",
+                "address": "2616 Kildaire Farm Rd, Cary, NC 27518",
+                "lat": 35.7253,
+                "lon": -78.7846,
+                "url": "https://www.carync.gov/recreation-enjoyment/parks-greenways-environment/parks/stevens-nature-center-at-hemlock-bluffs-nature-preserve",
+                "amenities": [
+                  "nature"
+                ],
+                "indoor": false,
+                "area": "cary-apex",
+                "hours": {
+                  "sun": "9 a.m. to sunset",
+                  "mon": "9 a.m. to sunset",
+                  "tue": "9 a.m. to sunset",
+                  "wed": "9 a.m. to sunset",
+                  "thu": "9 a.m. to sunset",
+                  "fri": "9 a.m. to sunset",
+                  "sat": "9 a.m. to sunset"
+                },
+                "cost": "Free",
+                "note": "Free. About three miles of mulched trails and boardwalks with stairs (a carrier beats a stroller); restrooms in the Stevens Nature Center, open Mon–Sat 10–5, Sun 1–5."
+              }
+            },
+            {
+              "ref": "event:wake-parks:8358:2026-11-30",
+              "arrive": "15:30",
+              "leave": "16:50",
+              "why": "A self-led StoryWalk on the Educational Loop. Your toddler can walk from page to page and look at the pictures.",
+              "tips": [
+                "Let {them} lead and stop whenever {they} want{s} to.",
+                "Bring a snack for after the walk."
+              ],
+              "interests": [
+                "stories",
+                "nature",
+                "movement"
+              ],
+              "also": [],
+              "area": "south-wake",
+              "outdoor": true,
+              "source": {
+                "kind": "event",
+                "title": "Beech Bluff County Park StoryWalk® 2026 (Self-Led)",
+                "start": "2026-11-30T08:00:00",
+                "end": "2026-11-30T17:30:00",
+                "venue": "Beech Bluff County Park",
+                "address": "Beech Bluff Park Drive, Fuquay-Varina, NC",
+                "url": "https://apm.activecommunities.com/wakeparks/Activity_Search/beech-bluff-county-park-storywalk-2026-self-led/8358?locale=en-US",
+                "cost": "Free",
+                "lat": 35.58537279715877,
+                "lon": -78.6793341971644,
+                "ages": null,
+                "registration": false,
+                "indoor": false,
+                "area": "south-wake",
+                "source": "wake-parks",
+                "dropIn": true
+              }
+            }
+          ],
+          "rainBackup": null,
+          "timeline": [
+            {
+              "start": "07:00",
+              "end": "07:30",
+              "kind": "meal",
+              "title": "Up and breakfast"
+            },
+            {
+              "start": "07:30",
+              "end": "09:40",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "09:40",
+              "end": "10:00",
+              "kind": "routine",
+              "title": "Get ready to go",
+              "detail": "Shoes on, the bag, water and a snack."
+            },
+            {
+              "start": "10:00",
+              "end": "10:20",
+              "kind": "travel",
+              "title": "Drive to Southwest Regional Library"
+            },
+            {
+              "start": "10:20",
+              "end": "11:00",
+              "kind": "outing",
+              "title": "Silly Stories with Ms. Olivia",
+              "detail": "Pack a lunch to eat there."
+            },
+            {
+              "start": "11:00",
+              "end": "11:10",
+              "kind": "travel",
+              "title": "Drive to Cornwallis Road Park"
+            },
+            {
+              "start": "11:10",
+              "end": "12:10",
+              "kind": "outing",
+              "title": "Cornwallis Road Park"
+            },
+            {
+              "start": "12:10",
+              "end": "12:30",
+              "kind": "travel",
+              "title": "Drive home"
+            },
+            {
+              "start": "12:30",
+              "end": "12:45",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "12:45",
+              "end": "13:00",
+              "kind": "quiet",
+              "title": "Wind down",
+              "detail": "A couple of books to settle."
+            },
+            {
+              "start": "13:00",
+              "end": "15:00",
+              "kind": "nap",
+              "title": "Nap"
+            },
+            {
+              "start": "15:00",
+              "end": "15:20",
+              "kind": "routine",
+              "title": "Up and a snack"
+            },
+            {
+              "start": "15:20",
+              "end": "18:00",
+              "kind": "play",
+              "title": "Play at home"
+            },
+            {
+              "start": "18:00",
+              "end": "18:45",
+              "kind": "meal",
+              "title": "Dinner"
+            },
+            {
+              "start": "18:45",
+              "end": "19:30",
+              "kind": "routine",
+              "title": "Bath, books and bed"
+            }
+          ]
+        }
+      ],
+      "changes": [
+        {
+          "plan": "early-nap",
+          "message": "Clemmons Educational State Forest is outdoors and the forecast is now 77% chance of rain"
+        }
+      ]
+    }
+  ],
+  "checked": {
+    "at": "2026-11-27T11:03:44.748Z",
+    "forecast": "nws",
+    "weather": {
+      "period": "Monday",
+      "tempF": 59,
+      "precipProbability": 43,
+      "shortForecast": "Chance Rain Showers then Mostly Sunny",
+      "windMph": 12,
+      "windFrom": "W",
+      "hours": [
+        {
+          "t": "05:00",
+          "tempF": 48,
+          "pop": 43,
+          "cloud": 57
+        },
+        {
+          "t": "06:00",
+          "tempF": 47,
+          "pop": 43,
+          "cloud": 53
+        },
+        {
+          "t": "07:00",
+          "tempF": 46,
+          "pop": 2,
+          "cloud": 48
+        },
+        {
+          "t": "08:00",
+          "tempF": 47,
+          "pop": 2,
+          "cloud": 34
+        },
+        {
+          "t": "09:00",
+          "tempF": 50,
+          "pop": 2,
+          "cloud": 20
+        },
+        {
+          "t": "10:00",
+          "tempF": 52,
+          "pop": 2,
+          "cloud": 17
+        },
+        {
+          "t": "11:00",
+          "tempF": 54,
+          "pop": 2,
+          "cloud": 17
+        },
+        {
+          "t": "12:00",
+          "tempF": 57,
+          "pop": 2,
+          "cloud": 17
+        },
+        {
+          "t": "13:00",
+          "tempF": 58,
+          "pop": 0,
+          "cloud": 17
+        },
+        {
+          "t": "14:00",
+          "tempF": 58,
+          "pop": 0,
+          "cloud": 18
+        },
+        {
+          "t": "15:00",
+          "tempF": 58,
+          "pop": 0,
+          "cloud": 20
+        },
+        {
+          "t": "16:00",
+          "tempF": 56,
+          "pop": 0,
+          "cloud": 21
+        },
+        {
+          "t": "17:00",
+          "tempF": 53,
+          "pop": 0,
+          "cloud": 21
+        },
+        {
+          "t": "18:00",
+          "tempF": 49,
+          "pop": 0,
+          "cloud": 20
+        },
+        {
+          "t": "19:00",
+          "tempF": 47,
+          "pop": 0,
+          "cloud": 21
+        },
+        {
+          "t": "20:00",
+          "tempF": 46,
+          "pop": 0,
+          "cloud": 21
+        },
+        {
+          "t": "21:00",
+          "tempF": 44,
+          "pop": 0,
+          "cloud": 21
+        },
+        {
+          "t": "22:00",
+          "tempF": 43,
+          "pop": 0,
+          "cloud": 21
+        },
+        {
+          "t": "23:00",
+          "tempF": 42,
+          "pop": 0,
+          "cloud": 21
+        }
+      ]
+    },
+    "hidden": []
+  }
+}

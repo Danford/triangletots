@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Triangle Tots//triangletots.com//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:2026-12-08-the-polar-express-at-fuquay-varina-community-library-0950-11
+ 45@triangletots.com
+DTSTAMP:20261127T100000Z
+DTSTART:20261208T145000Z
+DTEND:20261208T164500Z
+SUMMARY:The Polar Express at Fuquay-Varina Community Library
+LOCATION:271 Bramblehill Drive\, Fuquay-Varina\, NC
+DESCRIPTION:https://www.wake.gov/events/polar-express-1\nhttp://www.fuquay-
+ varina.org/Facilities/Facility/Details/FuquayVarina-Museums-at-Ashworth-Pa
+ rk-14\nThe whole day: https://triangletots.com/2026-12-08/t1/\nTimes and d
+ etails can change. Check the event or place before you go.
+END:VEVENT
+END:VCALENDAR

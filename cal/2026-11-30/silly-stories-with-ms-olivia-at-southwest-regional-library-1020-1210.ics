@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Triangle Tots//triangletots.com//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:2026-11-30-silly-stories-with-ms-olivia-at-southwest-regional-library-1
+ 020-1210@triangletots.com
+DTSTAMP:20261127T100000Z
+DTSTART:20261130T152000Z
+DTEND:20261130T171000Z
+SUMMARY:Silly Stories with Ms. Olivia at Southwest Regional Library
+LOCATION:3605 Shannon Rd\, Durham\, NC
+DESCRIPTION:https://durhamcountylibrary.libcal.com/event/15558959\nhttps://
+ www.dprplaymore.org/Facilities/Facility/Details/Cornwallis-Road-Park-13\nT
+ he whole day: https://triangletots.com/2026-11-30/t1/\nTimes and details c
+ an change. Check the event or place before you go.
+END:VEVENT
+END:VCALENDAR

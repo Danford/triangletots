@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Triangle Tots//triangletots.com//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:2026-12-09-sproutsongs-music-together-at-harper-park-0945-1100@triangle
+ tots.com
+DTSTAMP:20261127T100000Z
+DTSTART:20261209T144500Z
+DTEND:20261209T160000Z
+SUMMARY:Sproutsongs Music Together! at Harper Park
+LOCATION:207 Main St\, Knightdale\, NC
+DESCRIPTION:https://www.knightdalenc.gov/harperpark\nhttps://www.wake.gov/e
+ vents/sproutsongs-music-together-2\nThe whole day: https://triangletots.co
+ m/2026-12-09/t2/\nTimes and details can change. Check the event or place b
+ efore you go.
+END:VEVENT
+END:VCALENDAR

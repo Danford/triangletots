@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Triangle Tots//triangletots.com//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:2026-12-01-east-regional-library-1730-1830@triangletots.com
+DTSTAMP:20261127T100000Z
+DTSTART:20261201T223000Z
+DTEND:20261201T233000Z
+SUMMARY:East Regional Library
+LOCATION:946 Steeple Square Court\, Knightdale\, NC
+DESCRIPTION:The whole day: https://triangletots.com/2026-12-01/t3/\nTimes a
+ nd details can change. Check the event or place before you go.
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Triangle Tots//triangletots.com//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:2026-12-01-cookiemobile-at-knightdale-station-park-1530-1715@triangleto
+ ts.com
+DTSTAMP:20261127T100000Z
+DTSTART:20261201T203000Z
+DTEND:20261201T221500Z
+SUMMARY:Cookiemobile! at Knightdale Station Park
+LOCATION:810 North First Avenue\, Knightdale\, NC
+DESCRIPTION:https://www.knightdalenc.gov/knightdalestationpark\nhttps://www
+ .wake.gov/events/cookiemobile\nThe whole day: https://triangletots.com/202
+ 6-12-01/t1/\nTimes and details can change. Check the event or place before
+  you go.
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Triangle Tots//triangletots.com//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:2026-12-07-model-train-exhibit-at-honeycutt-park-0900-1030@triangletots
+ .com
+DTSTAMP:20261127T100000Z
+DTSTART:20261207T140000Z
+DTEND:20261207T153000Z
+SUMMARY:Model Train Exhibit at Honeycutt Park
+LOCATION:1032 Clear Creek Farm Road\, Raleigh\, NC 27615
+DESCRIPTION:https://raleighnc.gov/parks-and-recreation/places/honeycutt-par
+ k\nhttps://www.wake.gov/events/model-train-exhibit-11\nThe whole day: http
+ s://triangletots.com/2026-12-07/t2/\nTimes and details can change. Check t
+ he event or place before you go.
+END:VEVENT
+END:VCALENDAR

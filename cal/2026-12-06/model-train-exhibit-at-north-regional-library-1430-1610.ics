@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Triangle Tots//triangletots.com//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:2026-12-06-model-train-exhibit-at-north-regional-library-1430-1610@tria
+ ngletots.com
+DTSTAMP:20261127T100000Z
+DTSTART:20261206T193000Z
+DTEND:20261206T211000Z
+SUMMARY:Model Train Exhibit at North Regional Library
+LOCATION:7009 Harps Mill Road\, Raleigh\, NC
+DESCRIPTION:https://www.wake.gov/events/model-train-exhibit-9\nhttps://rale
+ ighnc.gov/parks-and-recreation/places/cedar-hills-park\nThe whole day: htt
+ ps://triangletots.com/2026-12-06/t2/\nTimes and details can change. Check 
+ the event or place before you go.
+END:VEVENT
+END:VCALENDAR
